@@ -1,0 +1,335 @@
+[Start1]
+Sixtieth session
+Agenda items 46, 118, 120, 122, 124, 128, 129 and 136
+
+Integrated and coordinated implementation of and follow-up
+to the outcomes of the major United Nations conferences and
+summits in the economic, social and related fields
+
+United Nations reform: measures and proposals
+
+Follow-up to the outcome of the Millennium Summit
+
+Review of the efficiency of the administrative and financial
+functioning of the United Nations
+
+Programme budget for the biennium 2006-2007
+
+Scale of assessments for the apportionment of the expenses
+of the United Nations
+
+Human resources management
+
+Administrative and budgetary aspects of the financing of 
+the United Nations peacekeeping operations
+
+
+
+		Investing in the United Nations: for a stronger Organization worldwide: detailed report
+
+
+		Report of the Secretary-General
+
+
+		Addendum
+
+
+		Investing in information and communication technology
+
+Contents
+ParagraphsPageI. 	Introduction	1–33II. 	Chief Information Technology Officer 	4–153A. Proposed information and communication technology arrangements for the United Nations	8–104B. Responsibilities of the Chief Information Technology Officer	115C. Profile of the Chief Information Technology Officer	12–135D. Conclusions and recommendations	14–156III. 	Upgrading of the Secretariat-wide information and communication technology systems	16–806A. Background		19–2771. Integrated Management Information System life cycle	20–2372. Information and communication technology strategy	24–2583. Vision for the future	26–278B. History of investments		28–328C. Lessons learned	33–3610D. Experience of the United Nations system with recent innovations	37–3811E. Rationale for change	39–52131. Changing requirements	42–45132. Support to field operations	46–48143. Risk mitigation	49–5215F. Consolidated information for full transparency in decision-making	53–59161. Resource management	54–55162. Information management	56–5916G. The path forward	60–80171. Enterprise content management: pilot implementation	61–62172. Integrated Management Information System gap study	63–65183. Comprehensive cost study	66–69184. Implementation strategy	70–73215. Timetable for implementation	74–76226. Transition planning	77237. Readiness measures	78238. Conclusions and recommendations	7923IV. 	Action required of the General Assembly	8023
+	I.	Introduction
+
+
+1.	In proposals 8, 9 and 10 of his report entitled “Investing in the United Nations: for a stronger Organization worldwide” (A/60/692 and Corr.1), the Secretary-General put forward the following proposals in the area of investing in information and communication technology (ICT):
+	“8.	The post of Chief Information Technology Officer should be created, at the Assistant Secretary-General level, to oversee the creation and implementation of an effective information management strategy;
+	“9-10	An urgent upgrading of Secretariat-wide ICT systems should be undertaken”.
+Both proposals are seen as essential building blocks for the creation of a Secretariat that is fully equipped to meet the goals of transparency and full accountability to the General Assembly.
+2.	The present addendum is submitted in accordance with paragraph 1 of section IV of General Assembly resolution 60/260 of 8 May 2006, in which the Assembly requested the Secretary-General for a detailed report consisting of a number of elements, as elaborated in subparagraphs 1 (a) through (g) of the same section, bearing in mind the unique intergovernmental nature and international character of the United Nations and the provisions of previous resolutions.
+3.	The addendum addresses the request of the General Assembly by elaborating on proposals 8, 9 and 10 of the report of the Secretary-General (A/60/692 and Corr.1). In addition, in preparing the present report, due consideration has been taken of the guidance of the Advisory Committee on Administrative and Budgetary Questions, as contained in section III.C of its report on the report of the Secretary-General (A/60/735 and Corr.1), bearing in mind that the Assembly has taken note of that report.
+
+
+	II.	Chief Information Technology Officer
+
+
+4.	In proposal 8 of his report (A/60/692 and Corr.1), the Secretary-General asked that the General Assembly revive its discussion of creating the post of Chief Information Technology Officer and approve its establishment as soon as possible, at the Assistant Secretary-General level, to oversee the creation and implementation of an effective information management strategy for the entire Secretariat.
+5.	Large organizations with complex and diversely located operations need a proper management structure to lead and maintain their ICT and to ensure the alignment of their ICT investments and resources with their mandates and programmes. 
+6.	Governance models for ICT vary widely in the private and public sector, often reflecting the overall management models and cultures of the organizations where they are applied. The size and complexity of organizations also has a bearing on the degree of centralization or delegation of authority over which management structures operate. However, most modern, information intensive organizations have recognized the strategic value of ICT by establishing the function of a chief information technology officer at a cabinet or board level. Since technology and information flows are nowadays an integral part of most management processes, the participation of the head of information technology in strategic decision-making processes is vital. 
+7.	Both the General Assembly and the Advisory Committee have recognized the need to establish a senior position to lead ICT activities globally in the Secretariat, and the Advisory Committee has stated this view in a number of its reports, most recently in its first report on the proposed programme budget for the biennium 2006-2007 (see A/60/7, paras. 112, VIII.42 and VIII.47) in which it stated:
+	“VIII.47	The Advisory Committee strongly believes that the Organization would benefit greatly by having in place a more centralized approach to managing information and communication technology initiatives and operations. The Committee requests that the Secretary-General review all available options for improving information and communication technology governance, including the possibility of a single structure to lead and manage information and communication technology activities and operations for the Secretariat. The Committee also reiterates its view that, given the magnitude of resources the Organization spends on information and communication technology, it would appear justified to create a new senior position of Chief Information Officer of the United Nations, who would be responsible for developing information and communication technology strategy, its most effective structure and its operational policies and procedures. The incumbent should possess a high degree of technical experience and expertise along with proven managerial and leadership ability (A/58/7, see para. 126).”
+
+
+	A.	Proposed information and communication technology arrangements for the United Nations
+
+
+8.	Given the multidisciplinary nature of the United Nations, its geographical dispersion and its complex management structure, the proposed ICT arrangements follow the lines of those in place at many large international organizations with significant and complex ICT operations, such as the World Bank, the United Nations Development Programme (UNDP), the United Nations Children’s Fund (UNICEF) and the World Food Programme (WFP). 
+9.	The Chief Information Technology Officer would be entrusted with the responsibility for developing the overall ICT strategy for the United Nations and leading its implementation. The position would carry sufficient central authority to effectively manage directly, or through appropriate delegation, all ICT activities in the Secretariat. This authority would cover activities at Headquarters, offices away from Headquarters as well as in the field, including all peacekeeping and special political missions. 
+10.	Although the Chief Information Technology Officer would provide vision, leadership and expertise, and would be ultimately responsible for the management of ICT, decision-making on ICT matters would not be concentrated solely in his/her hands. Decisions will be the result of a process carried out by the following two committees:
+
+	(a)	Management Committee: comprising heads of Departments and offices away from Headquarters, the Management Committee would consider and decide on any significant information technology investment initiative. The Chief Information Technology Officer, as a member of the Committee, would develop and present ICT investment proposals to the Management Committee; 
+	(b)	Technology Steering Committee: this committee, chaired by the Chief Information Technology Officer, would comprise technology and information management specialists appointed by the Chairperson, and would operate as the technology “think-tank” of the Organization. It would be in this forum, under the leadership of the Chief Information Technology Officer, where all major decisions on technology direction would be made. The Committee would include business systems (enterprise resource planning (ERP)) managers, knowledge systems managers, operations managers and information security and telecommunications managers from Headquarters and the field. Outside expertise would periodically be sought from other agencies of the United Nations system and from research consultants and specialists, who would participate in this Committee as ex officio members, giving the Committee the opportunity to gain access to current experience from within the United Nations system as well as market trends and information in the area of current technology.
+
+
+	B.	Responsibilities of the Chief Information Technology Officer
+
+
+11.	The Chief Information Technology Officer would be accountable to the Under-Secretary-General for Management and would have the following responsibilities: 
+	(a)	To develop, maintain and monitor the implementation of information technology plans for the United Nations worldwide, as approved by the Management Committee;
+	(b)	To lead the development of an information management strategy for the Secretariat, including offices away from headquarters and all field-based missions;
+	(c)	To promulgate policies and standards on information technology matters;
+	(d)	To lead the Technology Steering Committee; 
+	(e)	To coordinate and oversee, through appropriate delegation, ICT operations at all offices of the Secretariat;	
+	(f)	To provide advice to the Management Committee on technology matters, in his/her capacity as a member of the Committee. 
+
+
+	C.	Profile of the Chief Information Technology Officer
+
+
+12.	In line with earlier recommendations of the Advisory Committee that the incumbent should possess a high degree of technical experience and expertise along with proven managerial and leadership ability, the profile of the Chief Information Technology Officer would include proven experience and clear understanding of the following: 
+	(a)	Managing day-to-day ICT operations in large international organizations; 
+	(b)	Developing and implementing ICT strategies in large international organizations; 
+	(c)	Successful implementations of large and complex enterprise systems;
+	(d)	Information management and technology needs of large and multidisciplinary international organizations.
+13.	After the establishment of the position of Chief Information Technology Officer, he/she would establish the appropriate strategies and the structure of the Office of Information and Communication Technology within the Department of Management. The proposed composition and structure of the new office would consequently only be developed following the appointment of the CITO, so as to benefit from his/her leadership, experience and strategy. It is anticipated that a report on this matter would be provided to the General Assembly at the first part of its resumed sixty-first session.
+
+
+	D.	Conclusions and recommendations
+
+
+14.	Given the magnitude of resources the Organization spends on ICT, the creation of a new senior position of Chief Information Technology Officer of the United Nations, is both urgent and essential (A/60/7, para. 112).	
+15.	Accordingly, the General Assembly is requested to approve the establishment of the post of Chief Information Technology Officer, at the level of Assistant Secretary-General, and the related costs amounting to a total of $335,500 under sections 28A, Office of the Under-Secretary-General for Management ($145,600), 28D, Office of Central Support Services ($166,000), for office accommodation and related services, and section 35, Staff assessment ($23,900), to be offset by an equal amount under income section 1, Income from staff assessment, of the programme budget for the biennium 2006-2007. 
+
+
+	III.	Upgrading of the Secretariat-wide information and communication technology systems
+
+
+16.	In proposals 9 and 10 of his report, the Secretary-General proposed that there be an urgent upgrading of Secretariat-wide ICT systems (A/60/692 and Corr.1).
+17.	In paragraph 1 of section IV of its resolution 60/260, the General Assembly requested that the Secretary-General submit a detailed report responding, inter alia, to (a) information on previous reform proposals, their impact on the existing proposals and references to previous relevant resolutions and decisions of the Assembly; (b) costs and administrative implications; (c) assessment of previous investments in ICT, lessons learned and expected time frames for the introduction of the system and arrangements for continuation of the present system during the transitional period.
+18.	To specifically address the request of the General Assembly for a detailed report, the Secretariat has initiated an in-depth fact-finding study. The Secretariat will complete the study and provide detailed costing and a timetable for consideration by the Assembly at its sixty-first session. The preliminary findings and a high-level road map charting a future course for investing in ICT are provided herein. The report is structured to provide a clear indication of the Secretariat’s anticipated path forward in realizing the Secretary-General’s vision for maximizing the value of ICT to the Secretariat worldwide.
+
+
+	A.	Background
+
+
+19.	The present report, which represents a bridge from a past of both progress and problems towards a future promising new potential and advanced capability, provides the next logical step in extending a growing literacy and application of ICT to a more sophisticated, analytical and capable United Nations. At this critical juncture, some introspection is required: where are we, what are our problems, and, finally, where are we going? This self-assessment serves as the basis of the proposed path forward, which is the subject of the present report.
+
+	1.	Integrated Management Information System life cycle
+
+20.	The Secretariat has relied on internally developed IT systems centred on the Integrated Management Information System (IMIS) for more than 15 years. The decision to shift to IMIS began in the mid-1980s when it became clear that existing and largely manual administrative and management systems were no longer able to serve the needs of the Organization. Existing systems were identified as fragmented, old-fashioned, unresponsive and incomplete with regard to data processing, and it was therefore concluded that the Organization required a new system to increase efficiency and productivity.
+21.	In response, in section XII of its resolution 43/217 of 21 December 1988, the General Assembly approved the original IMIS project. The project was approved for the purpose of developing an integrated system to process and report on administrative actions at all duty stations. At the time of its development, there was a lack of commercially available enterprise resource planning solutions that could meet all the needs of the United Nations in the required functional areas. The decision to develop a custom-built system for the Organization was thus the only viable solution. Until recently, the resulting system has largely met the needs of the Organization and has delivered a clear return on investment over the past 15 years. That investment can be considered to be fully amortized at this point in time.
+22.	Since its implementation, the use of IMIS has increased information technology literacy across user departments, assisted with the clean-up of accounting records, standardized and increased the level of internal controls and improved business process reforms and standardization. This progress must be continued, with ongoing assessments and evaluations of the system’s technical and functional capability to meet the ever-evolving needs of the Organization and the changing technological landscape. In contrast to the lack of market availability and technical maturity of commercial-off-the-shelf enterprise resource planning solutions of 15 years ago, the opportunity to extend the benefits of IMIS through the use of a next generation solution is present and timely.
+23.	The present report highlights some key internal and external factors that have shaped the evolution of the Organization and its business needs, an evolution that ultimately led to the current case for an urgent upgrading of Secretariat-wide ICT systems — systems that offer increased technical and functional capability.
+
+	2.	Information and communication technology strategy
+
+24.	In 2002, as part of the Secretary-General’s programme of reform (see “Strengthening of the United Nations: an agenda for further change” A/57/387 and Corr.1), the current information and communication technology strategy was introduced (see A/57/620). The strategy established a governance framework, the foundation for ICT service delivery, and served as a catalyst for policymaking and standardization of technology investments. Despite these advances, the strategy was, of necessity, sensitive to the economic conditions of the time, yielding to a backlash from the decline of the “technology bubble” of 1999-2000, as well as the massive investments earmarked to prepare for the year 2000 problem (“Y2K”). In 2001, all organizations, large and small, private and public, were looking at capital expenditures in IT as something to avoid or postpone, whenever possible.
+25.	The fiscal conservatism of that time was appropriate, particularly in consideration of the dynamic landscape in the area of enterprise resource planning amid “hypergrowth” and rapid change. The 2002 ICT strategy stated that IMIS was going to remain at the core of United Nations administrative systems for the next five years, for which some technological enhancements were needed. In 2002, there were no off-the-shelf enterprise resource planning systems available that could be implemented at the United Nations without substantial and costly customization. In retrospect, this hedging for industry maturity proved prudent. Over the past five years, enterprise resource planning market conditions and the organizational landscape have changed significantly. The availability of commercial solutions and the case for major investments in systems that could be the foundation of a drastic transformation in the way the Organization conducts business have provided a new equation to the business case.
+
+	3.	Vision for the future
+
+26.	The proposals for investing in ICT technology (see A/60/692 and Corr.1, proposals 8-10) underscore a vision for a promising future of increased efficiency and effectiveness. Proposal 9 shows a commitment to aligning ICT priorities with Secretariat performance objectives by: incorporating better managerial decision-support tools; implementing an Organization-wide document/content management system; and recruiting or training people with skills in information management and analysis — a solution for Secretariat-wide information management practices and tools.
+27.	Proposal 10 presents a turn-of-the-century reform and innovation milestone, promising better financial control, human resources management, supply chain management and more detailed, accurate and timely management reporting. A fully integrated global resource planning system would provide the Organization with a new-found capability to increase its performance worldwide. The motivations, rationale, expected benefits and proposed course of action for these directions are outlined herein.
+
+
+	B.	History of investments
+
+
+28.	Regular budget expenditure dedicated to ICT now amounts to more than $100 million per annum. Historically, the IMIS project constituted an overall investment of $123.7 million.
+29.	Investments have also been directed to ancillary applications such as the Integrated Monitoring and Documentation Information System (IMDIS), field-specific systems of the Department of Peacekeeping Operations such as Sun systems, Mercury and Galaxy (Galaxy was subsequently introduced at Headquarters also). Costs have been incurred with the acquisition and maintenance of these applications, which are necessary to supplement IMIS functionality for specific operational requirements. In recent years enterprise content management applications have increasingly gained favour and are present throughout the United Nations in a number of incarnations. These systems, when considered as a whole, constitute the ad hoc enterprise resource planning and enterprise content management capability of the Secretariat. Total costs (in thousands of United States dollars) directly identifiable to the most significant projects are shown in table 1 below:
+
+Table 1
+
+Total (as at December 2005)Enterprise resource planning and related systemsIMIS123 700Mercury1 600Sun/Progen1 400Galileo4 100Galaxy6 200IMDIS1 280Enterprise content management and related systemsOfficial document system12 000CorLog136Mail action records system600e-Drits, eMeets, eDocs3 946	Total154 962
+
+30.	The Organization has progressively provided requisite infrastructure for all duty stations. The payback from these investments will be fully realized with the implementation of a timely global enterprise resource planning and enterprise content management system. The concept of anytime/anywhere is now a reality as all United Nations staff are virtually guaranteed access to e-mail, Intranet/Internet, information sources such as the official document system (ODS), telecommunications and videoconferencing.
+31.	Although table 1 reflects investments in systems subject to replacement, this should not suggest monies lost. In each case, the given application has served its specific purpose, which was largely to support functions not covered by IMIS. Furthermore, extensive business process analysis, definition and reform was carried out during the provision of these systems. The implementation and support of these systems has also provided the Organization with valuable skills in maintaining centralized systems, industry-standard problem resolution and change-management mechanisms and has ensured an investment in ICT infrastructure that will facilitate the implementation and support of the proposed enterprise resource planning system. These systems will also continue to satisfy the operational and reporting needs of users until the enterprise resource planning system is available. The past five years of investments have served to fill critical voids, gain an understanding of our requirements and approach the subject of implementation of an enterprise resource planning system as a better informed, “smarter” buyer.
+32.	Previous investments in enterprise content management systems have also served to identify requirements and satisfy immediate needs. The increasing demand and use of such systems has brought about a culture change, including the acceptance of automation, paperless workflows, increased ability to perform searches and a tendency to store and access documents electronically. This appreciation and acceptance of enterprise content management technologies demonstrates organizational and end-user readiness for a standard enterprise system. The previous investments have “grown” the Secretariat to make full use of this advanced approach to information management.
+
+
+	C.	Lessons learned
+
+
+33.	The implementation of IMIS and the introduction of the ICT strategy have led to noteworthy progress and, in spite of problems, to a number of improvements to the United Nations ICT infrastructure in recent years. The full potential of ICT remains challenged by fragmentation, outdated technology and lack of modernization. Insomuch as IMIS has served to introduce many advances to the Organization, the ageing of the system has led to a proliferation of interim solutions to meet demands for which IMIS was not designed. These shortcomings, and the subsequent short-term solutions, have exposed a systemic problem in need of repair.
+34.	Since the indication in the 2002 ICT strategy that an IMIS upgrade or replacement would occur no sooner than 2007, a number of specific-purpose applications were implemented to meet critical operational needs in anticipation of the implementation of an enterprise resource planning system for the Organization. Applications such as Mercury, Galileo and Galaxy were introduced as “fixes” to meet urgent and distinct demands for field operations and IMDIS was introduced to support the programmatic aspects of budget formulation and execution. These applications have served their individual purposes and the Organization has benefited from the experience gained in developing and supporting applications utilizing mature web-enabled, centralized technologies. However, these systems have been introduced to meet certain specific needs and do not offer the scope and integration benefits of a Secretariat-wide enterprise resource planning solution. The end result is that the United Nations does not presently have the adequate enterprise resource planning capability to meet the needs of the entire Secretariat family.
+35.	The need of the United Nations for document management and other enterprise content management functionality is rapidly increasing, as is evident from the recent proliferation of such installations. Currently, there are at least four major enterprise content management vendors and over 40 applications of different types to manage content, using an estimated 10 different platforms. Many of these applications, which have been developed in-house, are not integrated and “do not talk to each other”, while some are reaching the end of their technological life cycle. CorLog, for example, a basic correspondence tracking system built in-house in Lotus Notes, has nearly 40 implementations throughout the United Nations. In addition, with the growing popularity of Lotus Notes “QuickPlace” as a collaboration tool, Headquarters already has over 65 QuickPlace shared workspaces, which can be accessed globally by nearly 9,000 registered users, with content development and management evolving without any standards. If this trend continues, there will be major adverse effects felt throughout the entire Secretariat. The following specific problems will arise:
+	(a)	Higher total costs associated with a greater number of smaller departmental vendor deals. The larger the number of enterprise content management users with a single vendor offering a full suite of modules, the lower the cost per licence;
+	(b)	Customizing diverse applications is costlier than customizing a single vendor application. Implementing multiple solutions also increases both effort and risk;
+	(c)	Multiple content management systems are difficult and costly to integrate and reduce the benefits of collaboration that is inherent in an enterprise content management solution;
+	(d)	High costs of multiple security, access and administration for each system;
+	(e)	Secretariat staff need to be trained on multiple systems, resulting in higher training costs and poorer mobility;
+	(f)	Without a single enterprise content management application across the Secretariat, it will be difficult to implement and enforce policies and standards, including electronic signatures, record management policy and taxonomy;
+	(g)	Business continuity, which relies on the substantive work of the Organization through enterprise content management-type applications, will become more difficult or costlier to ensure.
+36.	These systemic problems underpin the Secretary-General’s proposal calling for an urgent upgrading and standardization of Secretariat-wide ICT systems. A modernization initiative to implement a fully integrated solution to store, search and retrieve transactional and substantive information would present numerous advantages in building the needed capability to achieve the visions set forth in the reform agenda.
+
+
+	D.	Experience of the United Nations system with recent innovations
+
+
+37.	The widespread adoption of enterprise resource planning systems by United Nations agencies, funds, and programmes reflects the growing abilities of these systems and the opportunity for leveraging their experience. Many agencies of the United Nations family have increasingly turned to enterprise resource planning solutions and have shown success in implementing these systems effectively over time. A trend has emerged in exploring ways for agencies to collaborate and converge on shared standards and systems. This has been illustrated by the close collaboration in technology investments. One example is the adoption by UNDP, the United Nations Office for Project Services, the United Nations Population Fund (UNFPA) and the Office of the United Nations High Commissioner for Refugees (UNHCR) of a common solution. As illustrated in the table below, the Secretariat has been presented with a unique opportunity to join the consortium of those who have (or will) implement similar projects.
+
+
+Table 2
+International organizations that have adopted enterprise resource planning
+systems: 1995-2005a
+
+1995-19992000-20042005-EBUFinance,
+procurementEUFinance, procurement, human resources, payrollILOFinance, procurement, human resources, payrollFAOFinance,
+procurementFAOHuman resources, payrollUNICEFHuman resources, payrollIMFFinance,
+procurementICRCFinance, human resourcesWHOFinance, procurement, human resources, payrollITUFinance,
+procurementIFADFinance, human resources, payroll, travelWIPOProcurement, human resources, payrollOECDFinance,
+human resourcesITUHuman resources, payrollUNICEFFinance,
+procurementNATOFinance, procurement, human resources, payrollWorld BankFinance, human resources, payrollOSCEFinanceUNDPFinance, human resources, procurementUNESCOFinance, procurement, human resources, payrollUNFPAFinance, procurement, human resources payrollUNHCRFinance, procurementUNOPSFinance procurement, human resources, payrollWFPFinance, procurement, human resources, payrollWIPOFinanceWMOFinanceWTOFinance, procurement, human resources payroll
+(Footnote on following page)
+(Footnote to Table 2)
+______________
+	a	EBU: European Broadcasting Union; EU: European Union; FAO: Food and Agriculture Organization of the United Nations; ICRC: International Committee of the Red Cross; IFAD: International Fund for Agricultural Development; ILO: International Labour Organization; IMF: International Monetary Fund; ITU: International Telecommunication Union; NATO: North Atlantic Treaty Organization; OECD: Organization for Economic Cooperation and Development; OSCE: Organization for Security and Cooperation in Europe; UNDP: United Nations Development Programme; UNESCO: United Nations Educational, Scientific and Cultural Organization; UNFPA: United Nations Population Fund; UNHCR: Office of the United Nations High Commissioner for Refugees; UNICEF: United Nations Children’s Fund; UNOPS: United Nations Office for Project Services; WFP: World Food Programme; WHO: World Health Organization; WIPO: World Intellectual Property Organization; WMO: World Meteorological Organization; WTO: World Trade Organization.
+
+
+38.	As can be seen from table 2, the United Nations now has a singular chance to adopt an enterprise resource planning system similar to those already implemented in other United Nations entities. The field of experience among agencies of the United Nations system presents a tactical advantage for the Secretariat. By developing partnerships within the United Nations system, the Secretariat will be better positioned to seek out “best fit” implementations from the existing portfolio of experience rather than a purely technical solution. Efforts are under way to survey and identify the possible synergy and leveraging potential from the growing community of experience and shared interest.
+
+
+	E.	Rationale for change
+
+
+39.	Enterprise resource planning aims to break down the silos of information within an organization by consolidating previously fragmented data from disparate information systems. Enterprise resource planning platforms integrate financial, supply and human resources data to facilitate the effective use of an organization’s resources. Given the technological and business maturity of enterprise resource planning use in practice, no organization can claim operational efficiency and maximum effectiveness without a capable enterprise resource planning system. In consideration of the current functionality of IMIS and related systems, and the anticipated business needs of the United Nations, the rationale for change is clear.
+40.	A similar case is true for the introduction of an enterprise content management system. The Secretariat will need to ensure much greater cohesion of its workflow and knowledge management, allowing managers to integrate programme objectives, knowledge assets and budgetary and financial data into one integrated technology-assisted process.
+41.	The opportunities for improvement represented in the enterprise resource planning/enterprise content management solutions advocate a change campaign to respond to emerging requirements facing the Organization for the foreseeable future.
+
+	1.	Changing requirements
+
+42.	The Secretariat’s current and projected business needs are outpacing the technical capabilities and business functionality of its current patchwork of information technology systems, which are centred on the IMIS platform. As a result, the Organization has been evaluating options for upgrading and/or replacing its systems to address functionality gaps and better align systems with business needs.
+43.	The agenda of United Nations management reform, which remains one of the highest priorities of the General Assembly, emphasizes the need for increased organizational effectiveness, efficiency and coherence.
+44.	This ambitious reform agenda for improved accountability and transparency creates specific functional and technical needs (for example, results-based budgeting and management, enhanced internal controls, mechanisms to manage staff mobility exercises, improved reporting) that could not have been anticipated by the IMIS project and that are not reflected in the current information technology platform. Furthermore, the Organization’s anticipated move towards adopting external standards is another factor that could not have been anticipated by the IMIS project. The most significant example of such a factor is the proposed adoption of International Public Sector Accounting Standards. This decision will have significant implications for the Organization’s business needs and, as a result, its technical requirements. These new requirements would prove impossible to accommodate within the context of the existing IT systems.
+45.	Fortunately, the availability of commercial technology to meet the needs of the United Nations is sufficient. Moreover, the prominent providers of such solutions have gained institutional knowledge of several organizations of the United Nations system. If these lessons learned are leveraged, the experience will translate to a number of advantages for deployment in the global Secretariat, to include:
+	(a)	Full enterprise resource planning functionality (complete, integrated, end-to-end business suite) with global updates and support;
+	(b)	Extended enterprise resource planning functionality in areas such as field operations, supply chain, logistics and asset/inventory management;
+	(c)	Technology infrastructure architecture that is scalable for multi-site usage and high number of users;
+	(d)	Full country functionality (multilingual, multicurrency, localization at a global scale);
+	(e)	Localization support for human resources and finance;
+	(f)	Deployment in a wide range of technological infrastructure conditions.
+
+	2.	Support to field operations
+
+46.	IMIS offers only limited coverage to field missions. The scale of peacekeeping operations has grown from $1.25 billion annually, when IMIS began, to over $5 billion annually today. In 2005, approximately 80,000 military, civilian police and civilian personnel served in 16 peacekeeping operations and in special political missions. The growing scale of activity has underlined the need for a fully integrated system with robust internal controls and enhanced supply chain management functionality. Recurring high profile issues on the transparency of the resources of the Department of Peacekeeping Operations has underlined this challenge. 
+47.	The Secretariat currently has a very limited level of integrated supply chain management functionality. The systems that compose a supply chain management capability include, to name a few, e-Headquarters Committee on Contracts, ProcurePlus, Mercury and Galileo. Of these, only ProcurePlus is linked directly to IMIS through a batch process. Clearly, this ad hoc and improvised system is less than ideal and an integrated global supply chain management solution is needed. 
+48.	The situation is equally dire in ensuring appropriate financial control mechanisms for field operations. IMIS does not currently offer anytime/anywhere access to financial, human resources, procurement or asset management data. IMIS is very good at tracking line-item transactions from the point of entry into the system to reconciliation and close. However, most field management processes exist outside the IMIS domain and are therefore not captured. Consequently, a situation of multiple databases has diminished the level of transparency and control of administrative processes. From a managerial decision-making perspective, a needed query may produce several different answers to a question and a credible single source view does not exist, thus limiting the ability of the manager to produce demand forecasts, performance reports and audits. These shortcomings weaken management oversight capability and expose the Organization to unacceptable risks, which need mitigation.
+
+	3.	Risk mitigation
+
+49.	Operating under current conditions is rapidly becoming more costly and carries with it the risk of serious consequences, including weak financial controls, such as those for the procurement of goods and services, and lack of accurate reporting. There are several examples where an upgrade to a single integrated system will reduce risk. For example, owing to the lack of full integration at Headquarters between IMIS and disbursements processing systems, all United States dollar, cross-border payments and non-United States dollar payments are entered into payment systems manually. Taking into consideration the 2005 disbursement volume of $230,000, a single error in manual entry can initiate a chain of errors.
+50.	In addition to treasury operations, risks are also evident in various procurement controls. Purchases for goods and services are recorded in multiple separate systems, preventing global reporting, trend analysis and control of the Organization’s extensive global expenditures. Data on purchases is also not easily transferred between systems. This is highlighted by the difficulty experienced in maintaining and expanding global system contracts, vendor registration and vendor performance tracking/reporting. 
+51.	The cases of treasury and procurement-related risks signify inadequate visibility over Secretariat-wide finance, human resources and supply chain management processes, diminishing the ability of the Organization to identify anomalies, inconsistencies and errors in a timely manner. In cases of potential misappropriation, the ability to focus on those specific areas is limited. The silo nature of the existing systems present an obstacle to achieving oversight across activities and over time. An example of this is the inability to effectively report on the Department of Peacekeeping Operations vis-à-vis contingent-owned equipment and its impact on the fiscal status of field missions. This weakness in reporting, trend analysis and decision support would be significantly ameliorated through the use of an enterprise resource planning.
+52.	These ever-present and increasing risks indicate the critical need for a course of mitigation as offered in a consolidation towards a cohesive and standard enterprise resource planning system, a system that offers greater decision-making support and functional capability commensurate to the demands of increased control, accountability and transparency.
+
+
+	F.	Consolidated information for full transparency in decision-making
+
+
+53.	Consolidation of information is essential if the Secretariat is to act more transparently and efficiently in managing staff and procuring goods and services of greater quality and quantity, at lower levels of risk.
+
+	1.	Resource management
+
+54.	A growing community of case examples indicates that a successful enterprise resource planning project can generate a range of advantages, including more accurate demand forecasts, increased productivity and enhanced decision-making capability. The improved decision-making capabilities supported by enterprise systems can help the United Nations rethink and refine its entire business strategy. Enterprise resource planning systems provide a platform upon which the Secretariat can expand its administrative capabilities and would allow the United Nations to share high volumes of transactional data with the entire stakeholder community in a timely and accurate manner. Most importantly, enterprise resource planning systems can enable the United Nations to better manage and analyse the billions of transactions it generates.
+55.	To be successful, an enterprise resource planning system must be part of a comprehensive strategic plan and must prompt standardization of business processes and change. Recent industry surveys highlighted that the main benefit of enterprise resource planning systems to organizations is that they enable them to operate effectively through enhanced integration of processes and the sharing of information, bringing together people and departments that had previously been disconnected by process gaps and fragmented workflows. Enterprise resource planning implementation calls for an Organization-wide process orientation, as reflected in the report of the Secretary-General (see A/60/692 and Corr.1).
+
+	2.	Information management
+
+56.	Enterprise content management is an integrated set of solutions comprising eight core modules: web content management; document management; document imaging and scanning; collaboration; search; web portal; digital asset management; and records management. Together the eight core modules enable organizations to unify teams, content and associated business processes within a single web-based platform. Enterprise content management enables United Nations staff to collaboratively create, manage, deliver, and archive information that drives business operations, from documents, records and discussions to e-mail, web pages and media such as audio and video. An enterprise content management solution makes it possible for the Organization to distribute information of all content types (including text, audio and video) in multiple languages, across internal and external applications and among user communities throughout the world.
+57.	Industry standards compiled by a variety of consulting groups (such as Forrester and IDC) classify the benefits of enterprise content management into two categories: qualitative and quantitative. Qualitative benefits include enhanced transparency, accountability, monitoring, control, auditing and tracking of content; more accurate and informed analysis leading to better decision-making by substantive and administrative groups, improved knowledge-sharing among departments; better sharing of information and collaboration with non-governmental organizations and Member States; increased training capabilities; improved enactment and compliance with United Nations policies and standards; and improved document classification, retention and dispositions policy enforcement.
+58.	Quantitative benefits include economies of scale achieved by procuring a single enterprise content management platform for all United Nations departments and offices; deeper discounts from vendors for larger deals (United Nations-wide versus departmental); consolidation of information technology support, development and training; reduction of the overhead of dealing with multiple vendors; and streamlining infrastructure through server-consolidation. The benefits are realized in a number of time saving tasks: reduced time spent searching, retrieving and filing; reduction in time spent photocopying; reduction in off-site storage and labour related to storage; reduction in workflow inefficiencies; reduction in on-site storage space; reduction in shipping costs and costs for filing supplies; and reduction in the need for office machines and photocopying.
+59.	The “transformational” benefits of a next generation enterprise resource planning and enterprise content management reflect the commitment of the Secretary-General to the reform agenda and are a reflection of the Secretariat’s intention to implement capabilities the United Nations has never had before; a capability where all required information that is needed is available.
+
+
+	G.	The path forward
+
+
+60.	Since the indications presented in the 2002 ICT strategy, next-generation enterprise resource planning and enterprise content management projects have been foreseen as integral components for a path forward leading the organization into the twenty-first century. A number of preparatory and planning measures are in progress that serve as the basis of a comprehensive and detailed report. Efforts are continuing to develop the costing of an enterprise resource planning solution, design an overall enterprise resource planning implementation approach, create an action plan for the selection of an integrator, identify a detailed enterprise resource planning team structure and work tracts and establish a communication and staff engagement strategy to launch the change management process. 
+
+	1.	Enterprise content management: pilot implementation
+
+61.	After extensive research and planning, the procurement of an enterprise content management application is imminent. The procurement process is expected to last from 3 to 6 months and initial business analysis and preparation for enterprise content management readiness is currently under way for pilot projects in the Department for General Assembly and Conference Management, the Department of Peacekeeping Operations and the Information Technology Services Division (including ODS). Pilot rollouts are expected to begin in 2006. The pilot project will serve to clarify the cost and implementation details of an enterprise deployment.
+62.	Initial research indicates that an enterprise content management application could typically cost between $500 and $1,000 per user as a start-up cost (including hardware, software, training, customization and implementation) and a recurring maintenance cost of $60 to $110 per year per user. After the initial pilot deployment, depending on the rate of assimilation and absorption, more economies of scale could be gained through extension of existing modules to newer groups or additional functionalities. Progress reports for this ongoing activity will be provided along with the detailed costs and timetable.
+
+	2.	Integrated Management Information System gap study
+
+63.	In view of the changing requirements of the Organization and the problems experienced, an IMIS gap study was conducted to identify any weaknesses and establish a path forward. The findings from the study and market research indicate that the United Nations should move quickly to adopt a next-generation enterprise resource planning system, and should do so on an accelerated basis, allowing implementation to proceed in tandem with the proposed adoption of International Public Sector Accounting Standards and other elements of United Nations reform. Two approaches have been assessed in detail: an IMIS+ upgrade or a commercially available solution.
+64.	The study sought to weigh the costs and benefits for the United Nations of engaging either in a major internal overhaul and expansion of IMIS to provide these new capabilities (IMIS+) or purchasing a standard off-the-shelf enterprise resource planning product with limited customization and a moderate degree of configuration. In addition to considering costs and benefits, the analysis also takes into account potential risks attached to each option as well as the implications of each for the Organization’s longer term flexibility.
+65.	Analysis shows that while the IMIS+ option might be projected to cost less initially than an enterprise resource planning system, it would present significantly higher risk and could critically limit the flexibility of the United Nations to respond to future changes in the business environment. Of particular concern is the fact that IMIS+ would commit the United Nations to maintaining its own highly customized technology capabilities, at significant cost and with limited ability to incorporate new innovations as they occur in the market. In the light of such concerns, IMIS+ is not considered as a feasible option at this time. The study concluded that the United Nations should make only a limited investment in maintaining current business functionality and addressing emergency needs while focusing on implementing a commercial enterprise resource planning solution as soon as possible.
+
+	3.	Comprehensive cost study
+
+66.	In his report, the Secretary-General included preliminary estimates of the cost of such a system in the order of $120 million additional investment over several years (A/60/692 and Corr.1, para. 56). Depending on the scope, particularly as regards peacekeeping requirements, including upgraded communications capacity, it could be considerably more. To estimate the necessary investment to adopt an enterprise resource planning system, multiple cost drivers must be considered. Taking lessons learned from the original IMIS project, it is essential to estimate all costs accurately, including often-underestimated costs associated with training, change management and data clean-up. A comprehensive cost study would be predicated on the following cost drivers:
+
+Table 3
+
+Cost driverCost basisUser needs definitionThe user needs definition phase, early within the process, will identify key business processes across all affected functional areas and will fundamentally rethink and redesign these processes to improve performance and achieve the benefits of automation. These new designs will form the basis for the user requirements for the software selection process.One of the most common reasons for a failed enterprise resource planning implementation is failure to review business processes as an integral part of its implementation. The allocation of staff from user functions and expert business analysts to articulating user requirements will help ensure that the system implementation achieves the process improvements sought and secures future efficiency improvements through selecting the most appropriate software for the Organization.LicenceLicence fees comprise the bulk of initial costs. In packaged enterprise application software such as enterprise resource planning, licence cost depends largely on the number of users.The existence of well-crafted volume enterprise agreements may offer an attractive arrangement for the Organization, potentially providing long-term savings over 10-year time frames. Any such agreement should be aimed at reducing the total overall cost per user per year.ImplementationIn the medium-term, professional services for implementation constitute the greatest cost. A factor critical to the success of enterprise resource planning implementation will be the creation of programme management offices.It must be recognized at the outset that this crucial infrastructure will require additional staffing and therefore incur additional implementation costs. Added implementation cost drivers include the degree of global deployment models utilized and the amount of customization required on major screens.Maintenance and supportMaintenance fees are typically calculated off the net price for total licences and average a significant 20 to 25 per cent.Controlling the annual maintenance fee increase will be a critical factor in holding down overall project costs on a 10-year basis.TrainingKey determinants of overall training costs include the current employee skill set, responsibility level, training delivery modes and timing of training programmes.“Train the trainer” programmes serve the dual purpose of reducing overall costs and simultaneously building critical internal knowledge capital.Change managementEmphasis on change management is a consistent factor of successful enterprise resource planning implementations, representing between 18 and 25 per cent of the overall cost. The complexity of change management in an organization such as the United Nations should not be underestimated.It will be critical that key stakeholders devote appropriate time to engaging in high and detailed level process definition/design and infrastructure design exercises. As enterprise resource planning implementations are inherently risky and subject to cost overruns, a cost control strategy will be necessary to manage customizations that increase the risk of project delays and cost escalation. Needless customizations often enshrine bad practices, reduce the potential benefits of the new system and increase the complexity of future upgrades. This results in a higher total cost of ownership.CapacityIt is assumed that the cost of support includes internal and external resources. Related to change management costs is the cost of temporarily filling existing positions while staff are on secondment.As key employees are engaged in design and implementation activities, sufficient budget should be dedicated to securing additional resources to continue operations with minimal disruption.Upgrade costsDepending on vendor selection, upgrades may or may not be included in licence costs.In a scenario in which upgrade costs are not included, the cost of acquiring a new licence every seven years should be considered. Furthermore, even if upgrades are included in the maintenance fees, there will be costs associated with necessary labour and infrastructure accompanying the technology upgrades.
+
+67.	Cost drivers influence the initial outlay, deployment cost and overall ownership costs for packaged applications. The primary cost drivers shift over the project’s lifetime. As expected with regard to initial outlay, main expenditures include definition of user needs, licence fees and training costs as well as costs for temporarily filling existing positions. As the project progresses to deployment in the first and second years, implementation, change management and training costs will constitute the majority of costs. Finally, upon deployment in the third year, the main cost drivers will become maintenance and support, including the cost of upgrades.
+68.	The cost study would include a strategic and tactical plan for cost control. The Secretariat demographic and the potential for United Nations system partners should enable the Organization to leverage a strong negotiating position, which may lower licensing costs. Terms and conditions obtained from the selected software vendor must be available to any entity of the United Nations system. The package should include initial software licences as well as annual maintenance costs. These strategies should bring the advantage of economies of scale to any purchasing arrangement.
+69.	The cost study would also outline drivers, line items and cost controls measures, and will include full elaboration of the budgetary requirements for the remaining of the current and next bienniums.
+
+	4.	Implementation strategy
+
+70.	The ultimate success of an enterprise resource planning solution would depend on an effective and integrated implementation strategy that leverages United Nations system-wide expertise and resources. Past experiences at the Secretariat and other peer organizations have shown that successful implementation requires strict adherence to certain key principles from the outset and throughout the life of the project:
+	(a)	Commitment and engagement of key functional managers and senior decision makers in developing specifications and in implementing the system;
+	(b)	Limited and controlled customization of the software package;
+	(c)	Streamlined process for funding and oversight of the project to minimize unnecessary and costly delays;
+	(d)	Expedited mechanisms for transparency in procuring software, hardware and services, which would need to be properly sequenced during implementation;
+	(e)	Single integrated project management team empowered to make and implement the numerous far-reaching decisions that would need to be taken as part of this process, with the full support and backing of all major stakeholders;
+	(f)	Significant and sustained investment in change management activities focused on training, education and knowledge transfer as the centrepiece of the transition;
+	(g)	Partnership with the selected information technology vendor to sustain current requirements, support future development efforts and design future functionality. 
+71.	The new system would be deployed in all offices of the Secretariat, including all field missions. Customization of the “off-the-shelf” solution must be limited; if necessary the United Nations should adjust its processes to fit the solution rather than customizing the solution to fit the processes. Preference would be given to a solution already working in a fund, programme or specialized agency. 
+72.	Building a strong project team will be a priority of the implementation strategy. Internal project members with a thorough knowledge of business practices will be assigned to the project team on a full-time basis for the life of the project. Their positions should be temporarily filled while they are seconded to the enterprise resource planning project and the costs associated should be built into the project’s budget and the enterprise resource planning business case. 
+73.	Accountability and ultimate management responsibility for the enterprise resource planning project will rest with the Chief Information Technology Officer, who is to be accountable to the Under-Secretary-General for Management. The Chief Information Technology Officer will be guided by a steering committee composed of representatives of key stakeholder departments.
+
+	5.	Timetable for implementation
+
+74.	Case studies from other enterprise resource planning implementations throughout the United Nations system suggest that such implementations are most successful when preceded by business process reform and significant change management efforts. Good practice indicates that enterprise resource planning systems should be leveraged to enforce and reinforce the process reforms that precede them, and that there should be close interdependence with the timeline for the introduction of the International Public Sector Accounting Standards in terms of processes evolving in tandem with supporting systems to create and reinforce a virtuous loop. The need for properly sequencing the reform and the implementation of enterprise resource planning needs to be weighed against the critical urgency of some of the functionality gaps, which expose the Organization to control risk as operational volume increasingly places stress on outdated current systems. In view of the above, the target “live” date for implementation would be the second half of 2009, so that it can support compliance with International Public Sector Accounting Standards by 2010. This target live date is dependent on the selection of an enterprise resource planning system that would need only limited customization, necessitating the selection of a system similar to those implemented in other United Nations entities (funds, programmes or specialized agencies).
+75.	In order to meet this deadline, the challenges of navigating existing budget and procurement processes need to be addressed upfront. However, due to the sensitive and critical nature of this choice, the Secretariat must explore the potential for creating a fast-track process for managing resources and procurement for this project while maintaining full accountability and transparency. Specifics in this regard and the associated resource requirements, including upgraded communications arrangements for field operations (peacekeeping operations, offices away from Headquarters, special political missions), will be provided at the sixty-first session.
+76.	A detailed timetable indicating the schedule of activities and resource allocations will be supplied as part of the cost study and implementation strategy. The study will be developed by a team comprising in-house resources and expertise from agencies of the United Nations system that have carried out enterprise resource planning initiatives. It will include provision for annual reports by the Secretariat to the General Assembly on progress in implementing the mandate to replace IMIS with a next generation enterprise resource planning.
+
+
+	6.	Transition planning
+
+77.	Arrangements for the continuation of the present systems during the transitional period are a priority consideration in establishing a continuity of existing processes and migration towards replacement and deployment. The details of migration will be included as part of the detailed timetable.
+
+	7.	Readiness measures
+
+78.	In order to ensure that the prospective proposal is fully reflective of the market, technology and the organizational landscape, consultancy support for the preparation of a detailed implementation plan and the requisite procurement documentation is recommended. This external support will enable the Secretariat to: draw from the experience and lessons learned of similar industry projects; benefit from a deep analysis of technology vendors; benefit from a comprehensive user needs analysis and requirements definition; and provide strategic support for how best to position the United Nations solution. With the assistance of advisory services, the Organization will be better situated to effectively make its choice from the enterprise resource planning systems available on the market. Expert support will complement ongoing in-house efforts and will reinforce the design and credibility of the comprehensive report. Approval of funding in the amount of $1,500,000 for consultancy support for a period of six to eight months is requested. 
+
+	8.	Conclusions and recommendations
+
+79.	The Secretariat is committed to this initiative. The Secretary-General recommends that the General Assembly endorse the course of action proposed in the present report and the level of resources, amounting to $300,000 under section 28D, Office of Central Support Services, and $1,500,000 under section 28A, Office of the Under-Secretary-General for Management, of the programme budget for the biennium 2006-2007, to provide consultancy services to assist with the analysis and preparation of a detailed implementation and deployment plan and develop the user needs definition. A further $360,000 under section 28A, Office of the Under-Secretary-General for Management, of the programme budget for the biennium 2006-2007, for general temporary assistance is requested to provide temporary replacement of staff seconded to the user needs definition process. The comprehensive report of costings and timetable will be presented to the General Assembly at its sixty-first session.
+
+
+	IV.	Action required of the General Assembly
+
+
+80.	The General Assembly may wish to:
+	(a)	Approve the establishment of the post of the Chief Information Technology Officer;
+	(b)	Decide to replace IMIS with a next generation enterprise resource planning system to ensure that the Organization provides a high level of transparency and accountability with respect to its global resource management requirements, including all information technology needs arising from the adoption of International Public Sector Accounting Standards;
+	(c)	Appropriate a total amount of $2,550,700, comprising $2,005,600 under section 28A, Office of the Under-Secretary-General for Management, $466,000 under section 28D, Office of Central Support Services, and $79,100 under section 35, Staff assessment, to be offset by an equivalent amount under income section 1, Income from staff assessment, under the programme budget for the biennium 2006-2007;
+	(d)	Request the Secretary-General to provide a comprehensive report to the Assembly at the first part of its resumed sixty-first session outlining the scope, timetable, strategy and detailed resource requirements for replacing IMIS no later than 2009.
+
+
+[Start1]<<ODS JOB NO>>N0634697E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/60/846/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+22
+
+23
+
+United NationsA/60/846/Add.1 
+General AssemblyDistr.: General
+12 May 2006
+
+Original: English
+
+
+06-34697 (E)   180506 
+*0634697*
+

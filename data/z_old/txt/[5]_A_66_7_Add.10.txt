@@ -1,0 +1,738 @@
+
+ United Nations  A/66/7/Add.10
+
+  
+ 
+
+General Assembly  Distr.: General 
+9 November 2011 
+ 
+Original: English 
+
+ 
+
+11-58716 (E)    141111     
+*1158716*   
+
+Sixty-sixth session 
+Agenda items 134 and 146 
+ 
+
+Proposed programme budget for the biennium 2012-2013 
+ 
+
+Administrative and budgetary aspects of the financing of 
+the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Revised estimates relating to the proposed programme 
+budget for the biennium 2012-2013 under section 29D, 
+Office of Central Support Services, and section 30, Office  
+of Information and Communications Technology, related  
+to the organizational resilience management system: 
+emergency management framework  
+ 
+ 
+
+  Eleventh report of the Advisory Committee on Administrative and 
+Budgetary Questions on the proposed programme budget for the 
+biennium 2012-2013 
+ 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the report of the Secretary-General on revised estimates relating to the 
+proposed programme budget for the biennium 2012-2013 under section 29D, Office 
+of Central Support Services, and section 30, Office of Information and 
+Communications Technology, related to the organizational resilience management 
+system: emergency management framework (A/66/516). During its consideration of 
+the report, the Committee met with representatives of the Secretary-General, who 
+provided additional information and clarification.  
+
+2. The Advisory Committee notes that the report of the Secretary-General on the 
+emergency management framework should be read in conjunction with his report on 
+enterprise information and communications technology initiatives for the United 
+Nations Secretariat (A/66/94), which provides more detail on the information 
+technology aspects of emergency management. The Committee’s related report will 
+be submitted separately for consideration by the General Assembly. 
+
+
+
+A/66/7/Add.10  
+ 
+
+11-58716 2 
+ 
+
+3. The report of the Secretary-General was submitted in response to General 
+Assembly resolution 64/260, in which the Assembly requested the Secretary-
+General to develop a comprehensive emergency management framework that would 
+draw upon international best practices, and to resolution 65/290, in which the 
+Assembly endorsed the recommendation of the Advisory Committee that the 
+organizational resilience functions in the Departments of Peacekeeping Operations 
+and Field Support be reviewed. 
+
+4. The Advisory Committee regrets that the report of the Secretary-General 
+does not respond fully to the request of the General Assembly in its resolution 
+64/260, in which it called for the development of a comprehensive emergency 
+management framework. In the Committee’s view, and as explained in more 
+detail in the paragraphs below, the organizational resilience management 
+system proposed by the Secretary-General cannot be regarded as 
+comprehensive because the full scope of its application has not yet been 
+determined and the full quantum of resources required for its operation is not 
+yet known. While it recognizes the difficulty of bringing a series of discrete 
+initiatives, developed and implemented by different departments and offices 
+and funded from various sources, into one cohesive whole, the Committee 
+considers that greater efforts should have been made to map out the final shape 
+and size of the organizational resilience management system, even if some of its 
+elements are not yet ready for full implementation. It is with these observations 
+in mind that the Committee has made the recommendations on resource 
+requirements set out in the paragraphs below. 
+ 
+ 
+
+ II. Organizational resilience management system: aim, 
+implementation modalities and perspectives for  
+system-wide application 
+ 
+ 
+
+5. In his report, the Secretary-General indicates that existing emergency 
+preparedness efforts in the Secretariat consist of separate planning initiatives led by 
+individual departments with specialized expertise in relevant areas (the Department 
+of Safety and Security for safety and security emergency operations; the Department 
+of Management for business continuity planning, staff and victim support and 
+medical planning; and the Office of Information and Communications Technology 
+for information technology disaster recovery planning). He explains that the aim of 
+the proposed new organizational resilience management system is to institutionalize 
+a comprehensive framework under which those separate initiatives can be 
+coordinated and integrated, taking into account their relationships, linkages and 
+mutual dependencies. On a practical level, the system would allow for the 
+establishment of workflows and procedures for common processes of individual 
+emergency management and preparedness activities, such as risk assessment, the 
+development of risk management actions and plan maintenance, exercise and 
+review, resulting in a more efficient use of time and resources and improved crisis 
+response effectiveness (A/66/516, paras. 5-9). 
+
+6. The Secretary-General states that the proposed organizational resilience 
+management system is based on a standard approved by ASIS International, a 
+non-profit professional society dedicated to increasing the effectiveness and 
+productivity of security professionals (A/66/516, footnote 1). Upon enquiry, the 
+
+
+
+ A/66/7/Add.10
+ 
+
+3 11-58716 
+ 
+
+Advisory Committee was informed that the Department of Safety and Security had 
+introduced the standard, which represents a management system approach to 
+emergency preparedness, in 2009. The ASIS approach, which also encompasses 
+humanitarian disaster response, was in line with the International Standards 
+Organization (ISO) methodology and was regarded as ideal for the integration of all 
+elements of emergency management within the Secretariat. As indicated in 
+paragraph 10 of the report, the implementation of the system involves five 
+consecutive steps: (a) policy establishment, (b) planning, (c) implementation, 
+(d) evaluation and (e) management review.  
+
+7. In his report, the Secretary-General indicates that the senior emergency policy 
+team, which is responsible for emergency management policy decisions, initiated 
+the five-step cycle by approving, in June 2010, an organizational resilience 
+management system policy and the development of a pilot system focused on United 
+Nations Headquarters in New York. A development group was established to 
+elaborate the system (A/66/516, para. 12). The Advisory Committee was informed 
+that the development group brought together representatives of various Secretariat 
+departments, as well as of the agencies, funds and programmes, and was led by the 
+Business Continuity Management Unit of the Department of Management. The 
+group was responsible for implementing the pilot project at Headquarters. 
+
+8. As indicated in paragraphs 13 and 14 of the report, the development group 
+conducted the planning and implementation steps of the five-step cycle, which 
+consisted of establishing the objectives of the organizational resilience management 
+system, conducting a risk and impact assessment, analysing priority risks and 
+deriving related risk management actions. The group also assigned roles and 
+responsibilities and drew up a maintenance, evaluation and review programme for 
+2011-2012. Subsequently, in November 2010, the senior emergency policy team 
+conducted the fifth and final step of the cycle when it reviewed the organizational 
+resilience management system and endorsed it as the emergency management 
+framework for the United Nations. The Advisory Committee notes from paragraph 
+15 of the report that, in parallel, a pilot project for the implementation of the system 
+in field locations was conducted by the Department of Political Affairs, the 
+Department of Peacekeeping Operations and the Department of Field Support in 
+close coordination with the Department of Management. A training course for 
+22 field staff from 15 missions was conducted in April 2011. 
+
+9. The roles and responsibilities of the various departments and offices in the 
+development and implementation of the organizational resilience management 
+system are described in section IV of the report of the Secretary-General and can be 
+summarized as follows: 
+
+ (a) Department of Management: serves as the lead department for the system 
+and is responsible for developing, coordinating and integrating policy, planning, 
+implementation and review procedures and processes. It is also responsible for 
+providing implementation assistance to other Secretariat departments and offices in 
+New York, as well as offices away from Headquarters and regional commissions. 
+Upon request, the Department will provide implementation assistance to field 
+operations; 
+
+ (b) Business Continuity Management Unit, Office of Central Support 
+Services: responsible for providing guidance and hands-on support for the business 
+
+
+
+A/66/7/Add.10  
+ 
+
+11-58716 4 
+ 
+
+continuity planning process at Headquarters, offices away from Headquarters and 
+the regional commissions; 
+
+ (c) Emergency Preparedness and Support Team, Office of Human Resources 
+Management: charged with establishing human resources management mechanisms 
+in the event of emergencies involving United Nations staff members. The Team’s 
+role is to coordinate, enable and guide the various entities of the United Nations 
+system on all matters relating to emergency preparedness and support prior to, 
+during and after a crisis. It also serves as the communications hub for the 
+Organization on all issues relating to staff and their dependants and to victims and 
+survivors of crisis situations (see also paras. 11-14 below); 
+
+ (d) Medical Services Division, Office of Human Resources Management: 
+responsible for providing all United Nations duty stations with policy, guidance, 
+support and training on public health emergencies and mass casualty incidents; 
+
+ (e) Department of Safety and Security: oversees the security management 
+system, including security planning and its integration into the organizational 
+resilience management system. The Division of Headquarters Safety and Security 
+Services of the Department also provides crisis planning capabilities and is 
+responsible for crisis management plans and security and contingency plans for 
+Headquarters, offices away from Headquarters and the regional commissions; 
+
+ (f) Office of Information and Communications Technology: responsible for 
+establishing broad disaster recovery principles and developing a related programme 
+of work. 
+
+10. Upon request, the Advisory Committee was provided with the following 
+diagram showing the relationships between the various actors in the organizational 
+resilience management system: 
+
+ 
+
+
+
+ A/66/7/Add.10
+ 
+
+5 11-58716 
+ 
+
+ 
+Crisis preparedness and support      Crisis response 
+ 
+ 
+ 
+             Security 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ SEPT Secretariat support (Department of Management)   SEPT Secretariat support (Department of Management) 
+ 
+ 
+COG support unit (DSS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  Abbreviations: ASG: Assistant Secretary-General; BCMU: Business Continuity Management Unit; CMSU: Crisis 
+Management Support Unit; DFS: Department of Field Support; DM: Department of Management; DPKO: Department of 
+Peacekeeping Operations; DSS: Department of Safety and Security; FMS: Facilities Management Service; OHRM: Office of 
+Human Resources Management; OICT: Office of Information and Communications Technology; SSS: Security and Safety 
+Service; USG: Under-Secretary-General.  
+
+ 
+ 
+
+11. With particular reference to the Emergency Preparedness and Support Team, the 
+Advisory Committee recalls that the Team was established in May 2010 pursuant to 
+General Assembly resolution 64/260. At that time, the Assembly approved two P-5, 
+one P-4, one P-2 and one General Service (Other level) positions funded under 
+general temporary assistance. Upon enquiry, the Committee was informed that the P-5 
+and P-4 positions had been filled and that the recruitment process for the General 
+Service (Other level) position would soon be completed.  
+
+12. The Advisory Committee was further informed that, during the biennium 
+2010-2011, the Emergency Preparedness and Support Team had been working to 
+
+Secretary-
+General 
+
+Senior Emergency Policy 
+Team (SEPT) 
+
+(chaired by Chef de Cabinet, 
+composed of USGs, Executive 
+
+Directors and ASGs) 
+
+Business 
+Continuity 
+
+Management Unit 
+
+Business Continuity 
+Management Unit 
+
+Crisis Operations Group 
+(COG) 
+
+(chaired by USG, DSS, composed 
+of representatives from all major 
+
+departments, offices and 
+organizations) 
+
+Crisis Management 
+Support Unit 
+
+Organizational resilience 
+management system working 
+
+group 
+Chaired by BCMU (business continuity) 
+CMSU (crisis management) 
+OICT (disaster recovery) 
+OHRM (human resources and mass  
+   casualty incidents) 
+DPKO/DFS 
+Agencies, funds and programmes 
+
+Incident Assessment Team
+led by CMSU, which coordinates the 
+
+COG crisis management response 
+SSS, NY 
+
+OICT 
+FMS 
+
+BCMU 
+OHRM 
+
+Management and 
+critical staff of 
+
+departments and 
+organizations 
+
+
+
+A/66/7/Add.10  
+ 
+
+11-58716 6 
+ 
+
+deliver the outputs identified by the Secretary-General in his initial report on 
+emergency preparedness, which include: improved preparedness at duty stations and 
+country offices for responding to mass casualty incidents; the development of a 
+centralized roster of stress counsellors and regional facilities available for initial 
+response; monitoring and provision of support for duty stations in the evaluation and 
+testing of their emergency medical preparedness plans; continually updated lists of 
+incident survivors and affected family members; reliable availability of information 
+and assistance to post-incident focal points for families and surviving victims; 
+formalized and comprehensive victim, survivor and family support strategies; 
+training and briefing sessions for managers and staff, both at Headquarters and in 
+the field, regarding the provision of assistance to survivors and family members in 
+the aftermath of natural disasters or malicious acts; and communication tools such 
+as e-rooms and websites where survivors and assigned focal points can post 
+information and hold discussions (A/64/662, para. 8). 
+
+13. The Advisory Committee notes from paragraph 23 of the report of the 
+Secretary-General that the Office of Human Resources Management intends to come 
+forward with resource requests, where necessary, in the biennium 2014-2015, 
+following a review of the workflow and activities of the Team. Upon enquiry, it was 
+clarified to the Committee that the Office of Human Resources Management had 
+decided to maintain the current level of resources for the Emergency Preparedness 
+and Support Team until full implementation of the organizational resilience 
+management system was approved. At that time, following a review of the Team’s 
+performance, it was anticipated that its activities for the biennium 2014-2015 would 
+be scaled up and that, following a needs assessment, a proposal for resources would 
+be submitted in the context of the proposed programme budget for the biennium 
+2014-2015. 
+
+14. The Advisory Committee recognizes the need to conduct an assessment 
+before requesting further resources for the Emergency Preparedness and 
+Support Team. The Committee had expected, however, that the needs 
+assessment would have been completed in time to submit the related resource 
+requests, if any, to the General Assembly at its sixty-sixth session, as indicated 
+by the Secretary-General in his report on the proposed programme budget for 
+the biennium 2012-2013 (see A/66/6 (Sect. 29C), para. 29C.13). The Committee 
+recommends that, in order to provide the Assembly with a complete picture of 
+the scope of the organizational management system at the earliest possible 
+opportunity, information on the outcome of the needs assessment for  
+the Emergency Preparedness and Support Team should be included in the 
+follow-up report on the emergency management framework that is to be 
+submitted to the Assembly at its sixty-seventh session (see para. 15 below). Any 
+related resource requirements should then be submitted for consideration in 
+the context of the proposed programme budget for the biennium 2014-2015.  
+
+15. The Advisory Committee notes from paragraphs 28 to 30 of the report of the 
+Secretary-General that experience gained during the inter-agency pandemic 
+planning and business continuity planning exercises points to the potential value of 
+adopting a common emergency management framework, based on the organizational 
+resilience management system, that would cover the whole United Nations system. 
+The Secretary-General proposes to submit to the General Assembly at its sixty-
+seventh session a follow-up report summarizing the progress made in the 
+implementation of the organizational resilience management system in the 
+
+
+
+ A/66/7/Add.10
+ 
+
+7 11-58716 
+ 
+
+Secretariat and introducing a more comprehensive framework, including for United 
+Nations agencies, funds and programmes. 
+
+16. Upon enquiry, the Advisory Committee was informed that the specialized 
+agencies, funds and programmes regarded emergency planning as a key 
+management responsibility and, as such, dedicated resources to early warning and 
+contingency planning activities commensurate with their mandates for humanitarian 
+response. At the headquarters level, United Nations agencies tended to have core-
+funded preparedness units as one component of emergency-focused divisions. The 
+role of those units was to mainstream early warning and early action into their 
+respective organizations and to support planning activities, particularly in the field. 
+The specialized agencies, funds and programmes with predominantly humanitarian 
+mandates, such as the World Food Programme and the United Nations Children’s 
+Fund (UNICEF), also tended to have emergency preparedness and response officers 
+at the regional level, whose primary function was to support emergency 
+preparedness activities at country offices. In addition, the activities of the 
+Inter-agency Standing Committee Sub-Working Group on Preparedness and 
+Contingency Planning served to strengthen collaboration among humanitarian actors 
+and support to effective humanitarian response. 
+
+17. The Advisory Committee was also provided, upon request, with information 
+on the status of engagement with United Nations agencies, funds and programmes 
+regarding the implementation of the organizational resilience management system. 
+The Committee was informed that, as the primary resource for technical business 
+continuity management knowledge within the United Nations system, the Business 
+Continuity Management Unit communicated frequently with the agencies, funds and 
+programmes and had contributed to the establishment of an informal network of 
+staff working on business continuity and emergency preparedness issues. The Unit 
+also provided advice to United Nations system entities on emergency preparedness 
+integration, advocating an organizational resilience framework, wherever possible, 
+and was in the process of migrating its community of practice to a new social 
+network platform that could include the participation of the staff from all United 
+Nations agencies, funds and programmes. The Unit had also developed, in 
+conjunction with the Department of Peacekeeping Operations, the Department of 
+Field Support and the Department of Political Affairs, a methodology for the 
+implementation of crisis management and business continuity capabilities in 
+peacekeeping operations and special political missions. From the outset, focal points 
+from the agencies, funds and programmes had been invited to participate in all 
+in-country training sessions in order to ensure a coordinated approach across all 
+entities of the United Nations system. 
+
+18. The Advisory Committee was further informed that the Emergency 
+Preparedness and Support Team was in discussions with UNICEF, the United 
+Nations Development Programme, the United Nations Population Fund and other 
+agencies, funds and programmes regarding the development, using the Team’s 
+capacity-building initiative and training tools, of a support programme 
+encompassing risk-based preparedness and emergency and post-emergency 
+response. The Team was developing guidelines for the United Nations system on 
+mass casualty incident response and was assisting with the implementation of a 
+related training course. In addition, through an inter-agency mechanism, the Team 
+was responsible for coordinating the deployment of the United Nations Medical 
+Emergency Team, and was also engaged in establishing a roster of stress counsellors 
+
+
+
+A/66/7/Add.10  
+ 
+
+11-58716 8 
+ 
+
+and regional facilities from entities outside the United Nations system in order to 
+plan for surge requirements. The Team also coordinated efforts with other 
+Secretariat and inter-agency groups responsible for examining and developing 
+policies relating to survivors and family members.  
+
+19. The Advisory Committee notes the efforts made thus far to establish 
+inter-agency cooperation mechanisms relating, in particular, to business 
+continuity management and emergency preparedness. Given that the General 
+Assembly, in its resolution 64/260, requested the Secretary-General to submit a 
+comprehensive emergency management framework, the Committee regrets that 
+he did not explore the system-wide application of the organizational resilience 
+management system in more depth in his report on the emergency management 
+framework. The Committee expects that the follow-up report to be submitted to 
+the Assembly at its sixty-seventh session will present a full picture of the 
+measures taken and envisaged to extend the scope of the organizational 
+resilience management system to cover the agencies, funds and programmes of 
+the United Nations system, including any financial and administrative 
+implications.  
+ 
+ 
+
+ III. Practical application of the organizational resilience 
+management system and related resource requirements 
+ 
+ 
+
+20. The Secretary-General indicates in his report that, as part of the pilot 
+implementation of the organizational resilience management system, the risk 
+assessment produced by the development group was endorsed by the Secretariat 
+crisis management structure (A/66/516, para. 31). On a practical level, the risk 
+assessment identified two key management actions that need to be taken in order to 
+mitigate risks to the Organization. Those actions are: (a) the continued maintenance 
+of the secondary data centre in Piscataway, New Jersey; and (b) the procurement of 
+specialized software to enable the ongoing maintenance of the different emergency 
+preparedness plans that fall within the framework of the organizational resilience 
+management system (A/66/516, para. 32).  
+ 
+
+  Secondary data centre 
+ 
+
+21. Background information on the establishment of the secondary data centre and 
+the role it has played to date is contained in paragraphs 33 and 34 of the report of 
+the Secretary-General. In paragraphs 35 and 36, the Secretary-General describes the 
+future role he envisages for the centre and proposes that, once the enterprise-critical 
+systems currently hosted at the secondary data centre are migrated to the enterprise 
+data centre(s) (see A/66/94 for a more detailed discussion of this proposal), the 
+secondary data centre should remain in service to support site-specific applications 
+and strengthen organizational resilience at Headquarters. The Secretary-General 
+indicates it will take an estimated two years to migrate the current list of enterprise-
+critical applications to the enterprise data centre(s). Thereafter, he believes that it 
+will be possible to reduce the size and cost of the secondary data centre. Upon 
+enquiry, the Committee was informed that, at present, all critical systems operated at 
+Headquarters — a total of 13 systems — were backed up at the secondary data 
+centre. The establishment of the enterprise data centre(s), if approved, would reduce 
+the number of systems requiring back-up at the secondary data centre to those which 
+
+
+
+ A/66/7/Add.10
+ 
+
+9 11-58716 
+ 
+
+must be hosted locally or close to their users. It was anticipated that seven systems 
+would fit those criteria. 
+
+22. The Advisory Committee recalls that, in its resolution 65/259, the General 
+Assembly endorsed the request of the Secretary-General to enter into the optional 
+30-month lease extension for the secondary data centre facility. The lease extension 
+covers the period from 1 January 2012 to 30 June 2014. The total projected resource 
+requirements for the Centre’s operational costs for the period of the lease extension 
+amount to $5,271,000. As indicated in paragraphs 38 to 44 of the report, funding for 
+the establishment of the secondary data centre and its operation until the end of 
+2011 has been provided jointly under the budget of the capital master plan and the 
+support account for peacekeeping operations. The Secretary-General proposes to 
+meet the centre’s operational costs from the regular budget and the support account. 
+He also proposes to maintain the current cost-sharing arrangement for the secondary 
+data centre, whereby 80 per cent of the costs are met from the regular budget and 
+the remaining 20 per cent from the support account on the basis of the proportion of 
+the centre’s capacity that is used for non-peacekeeping and peacekeeping 
+operations. A breakdown of the requirements by object of expenditure and funding 
+source is set out in table 4 of the report of the Secretary-General. 
+
+23. In paragraph 59 (a) of his report, the Secretary-General requests that the 
+General Assembly consider providing resources in the amount of $2,898,300 for the 
+operation of the secondary data centre for the biennium 2012-2013. In paragraph 60, 
+the Secretary-General indicates that those additional resource requirements would 
+be considered in accordance with the provisions governing the contingency fund. 
+The Advisory Committee recommends acceptance of the proposal of the 
+Secretary-General.  
+ 
+
+  Software for maintenance of emergency preparedness plans and the staff 
+accounting system 
+ 
+
+24. According to the Secretary-General, the lack of an automated system to 
+maintain common components of separate preparedness plans, as well as the limited 
+scope of the current emergency staff notification system, also present risks for the 
+Organization. The Advisory Committee notes that the need for a system to account 
+for all staff based in New York in a crisis was identified as a requirement during the 
+“lessons learned” review of the Haiti crisis response and from recent events in North 
+Africa. In paragraphs 46 to 49 of his report the Secretary-General indicates that, at 
+present, the Department of Safety and Security generally relies on broadcast e-mail, 
+an automated message on a staff information hotline and a static website to transmit 
+crisis information to staff. In order to ensure that all New York-based staff can be 
+contacted in the event of an emergency, and while a global solution is being 
+considered, the Secretary-General is proposing to expand the current emergency 
+staff notification system using the suite of available telecommunications devices, 
+including personal mobile phones and e-mail. He is also proposing to procure 
+specialized software that will allow for the automated maintenance of all the 
+information contained in preparedness plans, including staff contact data.  
+
+25. Upon enquiry, the Advisory Committee was informed that neither the new 
+enterprise resource planning system, Umoja, nor the talent management system, 
+Inspira, had the capability to provide for the automated maintenance of preparedness 
+plans. Consequently, any software system procured to maintain emergency plans 
+
+
+
+A/66/7/Add.10  
+ 
+
+11-58716 10 
+ 
+
+must be able to interface with relevant Umoja databases in order to provide 
+automated access to the most up-to-date information as part of existing corporate 
+workflows. 
+
+26. The regular budget resources required for software for 2012-2013 are detailed 
+in table 5 of the report of the Secretary-General. In paragraph 59 (b) of that report, 
+the Secretary-General requests that the General Assembly consider providing one-
+time resources in the amount of $68,000 for contractual services and $95,000 for the 
+acquisition of software, as well as recurrent resources in the amount of $80,000 for 
+software maintenance and system testing. In paragraph 60, the Secretary-General 
+indicates that those additional resource requirements would be considered in 
+accordance with the provisions governing the contingency fund. The Advisory 
+Committee recommends acceptance of the Secretary-General’s proposal. 
+
+27. The Advisory Committee notes that the proposals outlined in paragraphs 21 to 
+26 above are two of a number of proposals requesting a charge against the 
+contingency fund that the Secretary-General has made since the submission of his 
+proposed programme budget for the biennium 2012-2013. 
+ 
+ 
+
+ IV. Request for the establishment of posts for business continuity 
+ 
+ 
+
+28. In part VI of his report, the Secretary-General proposes to convert five 
+positions currently funded under general temporary assistance — three (1 P-5, 1 P-4 
+and 1 General Service) in the Business Continuity Management Unit and a further 
+two (1 P-4 and 1 General Service) in the Office of the Chief of Staff of the 
+Department of Peacekeeping Operations/Department of Field Support — to 
+established posts. In support of his proposal, the Secretary-General asserts that the 
+effective maintenance of business continuity programmes and capabilities requires a 
+more permanent and dedicated set-up in order to embed business continuity 
+management into the culture of the Organization and thereby enhance its resilience.  
+
+29. Referring specifically to the Business Continuity Management Unit, the 
+Secretary-General states that, since its establishment, the tasks of the Unit have been 
+extended to include the provision of support and guidance regarding the 
+implementation of organizational resilience at the United Nations. With regard to 
+the conversions requested for the Office of the Chief of Staff of the Department of 
+Peacekeeping Operations/Department of Field Support, the Secretary-General 
+explains that those Departments have sole responsibility for implementing business 
+continuity within their headquarters and field operations. The evolution and proper 
+implementation of the organizational resilience management system will require 
+greater coordination of emergency preparedness plans, in particular within field 
+operations, as well as the development and oversight of related training and exercise 
+programmes.  
+
+30. While the Advisory Committee considers that dedicated staff capacity 
+might be needed on an ongoing basis to oversee the implementation and 
+maintenance of an organizational resilience management system, it is 
+nevertheless of the view that it is premature to establish such capacity before 
+the full scope of the system, including the resource requirements, is known. The 
+Committee therefore recommends against the conversion to established posts of 
+the three positions in the Business Continuity Management Unit at this time.  
+
+
+
+ A/66/7/Add.10
+ 
+
+11 11-58716 
+ 
+
+31. With regard to the two positions in the Office of the Chief of Staff of the 
+Department of Peacekeeping Operations/Department of Field Support, the Advisory 
+Committee notes that they are currently funded from the support account for 
+peacekeeping operations, and that their conversion to established posts is proposed 
+effective 1 July 2012. Accordingly, bearing in mind its observations in 
+paragraph 30 above and with regard to the action requested in paragraph 61 (f) 
+of the Secretary-General’s report, the Committee recommends that the General 
+Assembly request the Secretary-General to resubmit his proposal in the 
+appropriate context, namely as part of the proposed budget for the support 
+account for peacekeeping operations for the financial period from 1 July 2012 
+to 30 June 2013.  
+ 
+ 
+
+ V. Conclusion 
+ 
+ 
+
+32. The action to be taken by the General Assembly in connection with the 
+proposed emergency management framework is set out in paragraph 61 of the report 
+of the Secretary-General. Bearing in mind its observations and recommendations 
+in paragraphs 4, 14, 19, 23, 26, 30 and 31 above, the Advisory Committee 
+recommends that the General Assembly: 
+
+ (a) Approve the organizational resilience management system approach 
+as the emergency management framework, on the understanding that the 
+follow-up report to be submitted to the Assembly at its sixty-seventh session 
+will present a complete picture of the scope of the system, as well as the related 
+resource requirements; 
+
+ (b) Approve the total estimated cost of the extended lease of the 
+secondary data centre in Piscataway, New Jersey, for 30 months beyond  
+31 December 2011, as endorsed by the Committee in its report on information 
+and communications technology (A/65/576), pending the further work required 
+before the implementation of the proposed plan and without prejudice to the 
+outcome of the Committee’s consideration of future reports on the issue; 
+
+ (c) Appropriate a total amount of $3,141,300 under the proposed 
+programme budget for the biennium 2012-2013, comprising increases under 
+section 29D, Office of Central Support Services ($243,000), and section 30, 
+Office of Information and Communications Technology ($2,898,300), with the 
+provision representing a charge against the contingency fund; 
+
+ (d) Note that the regular budget portion of the future remaining 
+requirements of the secondary data centre for the period from 1 January to  
+30 June 2014, amounting to $741,000, will be included in the proposed 
+programme budget for the biennium 2014-2015; 
+
+ (e) Note that, pursuant to resolution 64/228, an amount of $941,600 for the 
+secondary data centre has been approved under the support account for 
+peacekeeping operations for the financial period from 1 July 2011 to 30 June 2012; 
+
+ (f) Note that future requirements for the secondary data centre in the 
+estimated amounts of $362,200 and $370,500 will be included in the 
+requirements for the support account for peacekeeping operations for the 
+financial periods from 1 July 2012 to 30 June 2013 and from 1 July 2013 to  
+30 June 2014, respectively. 
+
+

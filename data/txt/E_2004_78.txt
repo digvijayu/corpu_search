@@ -1,0 +1,94 @@
+[Start1]
+Substantive session of 2004
+28 June-23 July 2004
+Item 7 (c) of the provisional agenda*
+
+
+	*	E/2004/100 and Corr.2.
+	**	The document was delayed in order to include information from other departments.
+Coordination, programme and other questions: international 
+cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General**
+
+
+
+	Summary	The present report summarizes action taken by the United Nations Secretariat to implement Economic and Social Council resolution 2003/48 of 23 July 2003, in which the Council requested continuing the implementation of measures required to achieve its objectives of getting uncomplicated and unhindered access to the computerized databases and information systems and services of the United Nations and to continue its efforts in order to act as a bridge between the evolving needs of Member States and the actions of the Secretariat.
+	The report reflects the various activities in the field of informatics reported by the departments of the Secretariat and includes the findings of the Ad Hoc Open-ended Working Group on Informatics and an assessment of its work and mandate.
+
+	I.	Activities of the Ad Hoc Open-ended Working Group 
+on Informatics
+
+
+1.	In its resolution 2003/48, the Economic and Social Council requested the Ad Hoc Open-ended Working Group on Informatics to continue to carry out for another year, from within existing resources, its work of facilitating the successful implementation of the initiatives being taken by the Secretary-General with regard to the use of information technology and of continuing the implementation of measures required to achieve its objectives.
+2.	The Working Group continues to attach high priority to easy, economical, uncomplicated and unhindered access for States Members and observers of the United Nations, as well as non-governmental organizations accredited to the United Nations, to the computerized databases and information systems and services of the United Nations, provided that the unhindered access of non-governmental organizations to such databases, systems and services shall not prejudice the access of Member States nor impose an additional financial burden for their use.
+3.	Since June 2003, the Working Group has intensified its efforts to address the needs of the permanent and observer missions to make United Nations information more easily accessible electronically and to ensure that all missions can easily and safely connect to the Internet to obtain United Nations data. The Working Group has continued to support the use of the Internet as the basis for the future development of information services to Member States.
+4.	The Working Group has held four meetings since June 2003 and is of the view that, in its specific role as the representative group for Member States regarding the use of information and communication technologies services provided by the Secretariat, it should continue to address and monitor the following:
+	(a)	Connectivity between Member States and the Secretariat at Headquarters with the intent of enhancing those connections so as to enable the progressively broader participation of Member States in the network-accessible resources of the United Nations and, via Headquarters connections to the Internet, in the network-accessible resources of the public and private sectors;
+	(b)	E-mail services provided by the Secretariat to Member States to enable timely collaboration and facilitate document exchange among the permanent and observer missions, the Secretariat and the private and public sectors;
+	(c)	Web-site hosting services provided by the Secretariat to Member States, enabling them to establish and maintain web sites that are accessible via the Internet;
+	(d)	The broadening of the availability of United Nations documents via the Internet to include an ever-widening circle of access points from Member States and the public and private sectors;
+	(e)	The provision of access for Member States to specialized databases of interest to them, which are network-accessible United Nations resources or licensed commercial resources;
+	(f)	Training provided by the Secretariat for Member States in their use of the above-mentioned services as well as in their general use of information and communication technologies;
+	(g)	Help desk support provided by the Secretariat for Member States to resolve problems with the above-mentioned services;
+	(h)	The identification of other information and communication technologies resources within the Secretariat of interest to Member States, such as videoconferencing, and arranging the terms of their use by Member States;
+	(i)	The communication of the services and activities identified above to the staff of the permanent and observer missions and surveying the Member States to gain insight into the use of those resources and the support provided for them;
+	(j)	The identification of new or changed information and communication technologies services that are appropriate for the use of Member States and that arise from the rapid evolution of information and communication technologies, such as facilitating the use of personal digital assistant devices, laptops and wireless devices of all kinds in conference and meeting areas.
+5.	During the year the Working Group continued work on a number of projects, including:
+	(a)	Booklet on Internet services for delegates. The booklet entitled “Internet services for delegates” provides information about the various information technology services available in the Secretariat as well as useful tips that can help delegates take full advantage of the Internet-based tools, services and resources the Secretariat provides. During the fifty-eighth session of the General Assembly, copies of this booklet were circulated among delegations in three of the Main Committees. The Working Group organized a practical presentation of the booklet for all accredited missions to the United Nations on 11 December 2003, including a PowerPoint presentation on how the free services provided by the United Nations to the delegates can improve their daily work. The Chairman of the Working Group also sent a copy of the booklet to all permanent representatives, together with a short questionnaire aimed at identifying means through which there could be further improvement in the information technology services available to delegates. A number of delegations have replied to the questionnaire and their replies are now being used to programme the future activities of the Working Group;
+	(b)	Use of personal digital assistants. Since June 2003, the Working Group has also devoted attention to supporting a pilot initiative undertaken by the Permanent Mission of Andorra, which will permit delegates to download data, such as the Journal and other topical information relating to their work at the United Nations onto their personal digital assistants. A number of delegates attended a presentation and training session on this project, which was held in November 2003. This project has not yet been fully implemented;
+	(c)	Availability of wireless fidelity at Headquarters. The availability of wireless fidelity, or WiFi, facilities was the subject of an extended discussion, held on 19 February 2004, between members of the Working Group and the Information Technology Services Division of the Secretariat. A number of aspects were clarified during this meeting, including the use of personal digital assistants for WiFi connections, the configuration of laptops, the type of laptops that may be used and the power outlets needed to connect the laptops in the conference rooms;
+	(d)	Access to Official Document System Database. The Working Group has also been discussing plans with the Division for improving access to the Official Document System (ODS). Equipment, which will provide a primary back-up site for ODS in New York City data centres, is being ordered. This will ensure that there will be enough capacity to address the proposal to expand ODS access. Implementation is scheduled to be completed by the end of 2004;
+	(e)	Blocking spam in the e-mail accounts of the missions. The Working Group has been discussing with the Secretariat the problem of spam in the e-mail accounts of the missions. During 2003, the United Nations introduced three anti-spam appliances, which blocked 94 per cent of the spam entering e-mail at Headquarters and the permanent missions (see para. 12 below);
+	(f)	Upgrade of personal computer facilities for delegates. The Working Group has been in touch with the Division to ensure that all personal computers available to delegates at Headquarters have been, or will be, upgraded. Personal computers in the Delegates’ Lounge are already using the WiFi connection. The possibility for a printer to be placed in the Delegates’ Lounge is also being considered.
+6.	Over the coming months, in addition to continuing its work on these projects, the Working Group proposes to initiate a number of other projects, including:
+	(a)	Use of electronic mailing lists. A survey undertaken on the basis of information contained in the publication Permanent Missions to the United Nations shows that 165 missions have e-mail addresses. A list of their e-mail addresses can also be located on the United Nations server. This list, managed by the Secretariat, is not regularly updated and many missions are not aware of its existence. It is therefore not exploited to its full potential. In conjunction with the Secretariat, the Working Group proposes to update the list and publicize it more widely to the missions, noting its usefulness for circulating non-classified communications. An orientation policy to guarantee the effectiveness of this list needs to be defined;
+	(b)	Updating and publicizing of the site http://www.un.int, dedicated to the missions in New York. A site at http://www.un.int is currently available. It is managed by the United Nations and dedicated specifically to the permanent missions in New York. However, awareness of the existence and potential of this site is not widespread among the missions and it is consequently underutilized. The Working Group proposes to make some simple but effective proposals to improve the site’s contents on the basis of the needs and demands of delegations, and to promote it among the missions as a genuine working tool for accessing daily information and documentation;
+	(c)	Information security training sessions for Secretariat and mission personnel. All of the missions, especially the smaller ones, are faced with daily problems related to the functioning of their networks and e-mail systems. Viruses and unsolicited e-mails have become critical elements that often impede normal computer usage. Together with the Secretariat, the Working Group proposes to organize one or two workshops, in particular for the smaller missions, to illustrate practical measures on how to prevent and limit the risks of system malfunctioning;
+	(d)	New edition of the booklet “Internet services for delegates”. Given the success of the booklet “Internet services for delegates”, the Working Group will suggest that the Secretariat prepare an updated and expanded edition, to be distributed to all delegations during the next session of the Assembly.
+
+	II.	Actions taken by the Secretariat in response to issues raised in the Working Group
+
+
+	A.	Activities of the Information Technology Services Division
+
+
+7.	The Division has further intensified its efforts to provide connectivity and unhindered Internet access to all permanent and observer missions by cooperating with the Working Group. As of May 2004, 1,157 personal computers and printers, from the Organization’s personal computer replacement programme, were donated to the permanent missions. Since June 2003, the un.int system has seen an increase in the hosting of mission web sites. There are now 124 web sites on the un.int server, which receives about 72,523 visits each day. The top 10 visited missions web sites are: the United States of America (11.90 per cent), France (8.85 per cent), Japan (8 per cent), the Democratic Republic of the Congo (4.16 per cent), Portugal (4.02 per cent), Pakistan (3.36 per cent), Chile (3.12 per cent), India (2.77 per cent), Romania (2.71 per cent), and Mexico (2.56 per cent). Currently, the un.int system hosts approximately 1,059 individual e-mail accounts. The Division continued to provide access to ODS. One hundred and ninety-eight permanent missions with 1,363 users, from the missions themselves and from their capitals, are using the ODS facility. Help desk support continues to be provided to permanent and observer missions from 9.30 a.m. to 5.30 p.m., from Monday to Friday. From May 2003 to May 2004, the help desk received 1,325 calls for technical support.
+8.	Wireless fidelity at Headquarters (WiFi) refers to the technology surrounding the radio transmission of Internet protocol data from an Internet connection to a host computer. Public hot spots providing WiFi services to the Internet have been fully implemented in the following areas of the Headquarters complex: Office of the President of the Security Council, Security Council Consultation Room, Security Council waiting room, Security Council Lounge, Delegates’ Lounge, Office of the President of the General Assembly, Conference Rooms 5 to 7, Conference Building basement corridor, South Annex Building (SAB-32, Interpreters’ Lounge), First Basement (1B) neck area, Viennese Café, Secretariat Building Lobby, Secretariat Building 3rd floor (press bull pen area) and General Assembly Building 2nd floor (Indonesian Lounge). The implementation of public hot spots to deliver WiFi services is currently in progress for Conference Rooms 1 to 4, the General Assembly Hall, the Security Council Chamber, the Trusteeship Council Chamber and the Economic and Social Council Chamber. This phase of the project is expected to be completed no later than July 2004.
+9.	Access to Official Document System database. Equipment has been ordered to provide a primary back-up site for the Official Document System in the New York City data centres, that will provide enough capacity to address the expansion of ODS access, which is scheduled to be completed by the end of 2004.
+10.	Blocking spam on the e-mail accounts of the missions. The emergence of web technology and electronic communication has caused the United Nations to consider the most effective and efficient means of communication. E-mail emerged as a well-established primary means of communication as it is quicker and cheaper than traditional methods. Unfortunately, with the arrival of the technology, a new menace has appeared. E-mail spam is one of the main problems of the Internet, together with malware (malicious software), e-mail viruses and fraud. Spam is the term coined to describe bulk unsolicited e-mail, also known as junk mail, on the Internet. The permanent missions receive approximately 12,000 e-mails daily, 10,000 of which are spam and around 4,000 of which have a virus.
+11.	The Division conducted a thorough research to evaluate leading e-mail firewall solutions and implemented three anti-spam appliances that blocked 94 per cent of the spam entering e-mail systems at Headquarters and the permanent missions. A further project is under way to test a new feature of the anti-spam appliances that will serve to filter e-mail for all permanent missions regardless of the desktop software used. In addition, the Division has moved the e-mail server of the missions behind its own anti-spam and anti-virus servers, offering them protection that could not be provided in the past.
+12.	Upgrade of personal computer facilities for delegates. All personal computers used by delegates at Headquarters have been upgraded and use Windows 2000. Personal computers in the Delegates’ Lounge use the WiFi connection.
+
+
+	B.	Activities of the Dag Hammarskjöld Library
+
+
+13.	The Dag Hammarskjöld Library continued to provide training to Secretariat and mission staff, members of delegations and accredited representatives of non-governmental organizations on topics ranging from basic Internet searching skills to complex retrieval strategies for United Nations web sites, from an introduction to United Nations documentation to advanced searching in ODS and databases offered by the Library. To assist new delegates, an introductory course on Assembly documentation was added to the training programme. A total of 173 mission staff members were trained by the Users’ Services Section of the Library in 2003.
+
+[Start1]<<ODS JOB NO>>N0438906E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2004/78<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+5
+
+United NationsE/2004/78 
+Economic and Social CouncilDistr.: General
+14 June 2004
+
+Original: English
+
+
+04-38906 (E)    010704  
+*0438906*
+

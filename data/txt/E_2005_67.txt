@@ -1,0 +1,129 @@
+[Start1]
+Substantive session of 2005
+29 June-27 July 2005
+Item 7 (c) of the provisional agenda*
+
+
+	*	E/2005/100.
+	**	This report was submitted late due to the necessarily extensive coordination required among several departments of the Secretariat and the Ad Hoc Open-ended Working Group on Informatics.
+Coordination, programme and other questions: international
+cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General**
+
+
+
+	Summary	The present report has been prepared in response to Economic and Social Council resolution 2004/51, in which the Council requested that the Ad Hoc Open-ended Working Group on Informatics continue in operation and to act as a bridge, with regard to information technology, between the evolving needs of Member States and the actions of the Secretariat.
+	The report highlights the increased cooperation of the Working Group and the Secretariat resulting in practical enhancements in the area of technology that better facilitate the work of Member States and Observers of the United Nations, as well as non-governmental organizations accredited to the United Nations.
+
+		Introduction
+
+
+1.	By its resolution 2004/51, the Economic and Social Council convened the Ad Hoc Open-ended Working Group on Informatics for one more year to enable it to carry out, from within existing resources, the provisions of its resolutions on international cooperation in the field of informatics and to facilitate the successful implementation of the initiatives being taken by the Secretary-General with regard to the use of information technology.
+2.	The Council requested the Working Group to continue its efforts to act as a bridge between the evolving needs of Member States and the actions of the Secretariat. This function has become the major focus of the Working Group, as it collaborates closely with the Secretariat to direct its existing resources in practical ways that best meet the needs of Member States with regard to everyday use of information technology in accomplishing the work of the diplomatic community associated with the United Nations.
+
+
+		Collaboration of the Ad Hoc Open-ended Working Group on Informatics with the Secretariat
+
+
+3.	The Working Group and the Secretariat have developed efficient means of interaction, which facilitate their collaboration and effectiveness. Some means are traditional, such as face-to-face meetings, and others are technological, such as e-mail. In all cases, however, it has been the spirit of cooperation that has made them effective. The Working Group and the Secretariat have looked for those areas where resources can be redirected to better serve the diplomatic community. The Working Group assists the process by prioritizing the needs of Member States and communicating those priorities to the Secretariat. The Secretariat informs the Working Group about information technology initiatives that may affect the diplomatic community and solicits the input of the Working Group. By focusing on practical, working level issues, this beneficial collaboration optimizes the use of existing resources.
+4.	Specifically, the Secretariat and the Working Group make use of the following means of interaction and collaboration:
+	(a)	Letters from the chair of the Working Group to the Director of the Information Technology Services Division are used to formalize and document important requests. This formal method of interaction is used after the substance of the request has been informally agreed to using other means;
+	(b)	Informal meetings among members of the Working Group and representatives of the Secretariat to exchange information, identify priorities, etc. The Secretariat representatives are typically middle management level staff who are actually managing the execution of programmes. Representatives typically come from those departments and offices that most directly service the diplomatic community: the Department of Management, specifically the Information Technology Services Division, the Department for General Assembly and Conference Management, and the Department of Public Information, including the Dag Hammarskjöld Library. These short meetings are typically held in the cafeteria or a similar setting;
+	(c)	Occasionally, an informal task team will be created to work on a specific item, e.g., the Information Technology Services Division web page, and to present the results of its efforts to the Working Group. Such teams include both Working Group members and representatives of the Secretariat, and they typically meet in the offices of the Secretariat;
+	(d)	The Working Group employs a collaboration tool: “Lotus QuickPlace”, which is available on the Internet, to share documents and provide mailing list capabilities;
+	(e)	E-mail is used to facilitate and document the overall collaboration effort; the telephone is used less, as many of the active members and Secretariat representatives travel extensively and/or have duties that preclude them from being available for phone discussion;
+	(f)	Formal meetings of the Working Group are relatively infrequent, roughly one per quarter, and are used to bring all members up to date and to discuss ongoing and upcoming initiatives; often the Secretariat makes a formal presentation on a topic of interest, such as wireless Internet access (WiFi), in the conference room areas.
+
+
+		Information and communications technology infrastructure
+
+
+5.	The Secretariat continues to maintain the “dial-in” infrastructure that allows missions to connect to the Internet and to access services such as e-mail and the World Wide Web. As discussed with the Working Group, no enhancements are currently planned for this connectivity infrastructure, although support and training will continue.
+6.	WiFi, which allows wireless Internet access, has been extensively introduced into the conference rooms, the common hallways, the lobbies, the Dag Hammarskjöld Library and other areas of the New York campus. Supporting WiFi, power for mobile devices has been made extensively available in conference rooms and adjacent areas. The Working Group indicated to the Secretariat that this was a high priority, leading the Secretariat to accelerate its efforts as well as to prioritize introduction of this technology. Escalation by the Working Group of the issue of power for mobile devices has led the Secretariat to redirect resources and find economical ways of meeting this need. The Secretariat will continue to extend and improve both WiFi and the availability of power outlets.
+7.	The Secretariat continues to maintain and improve the computer servers that support services to the missions. These servers are on the four-year replacement cycle, which is the standard for such equipment, and the compute power available has been adequate, even for the expanded use of the infrastructure that has been experienced. A dedicated set of servers has been deployed to support the “free” Official Document System of the United Nations (ODS) described below.
+8.	The personal computers available to delegates have been upgraded and now all make use of WiFi for their network connection, which has improved the speed of access to the Internet very substantially. The Secretariat will continue to upgrade these computers in conformance with the three-year replacement cycle that is standard for such equipment. The Dag Hammarskjöld Library is planning to add several more workstations to a remodelled service area.
+9.	The Secretariat, through the Department for General Assembly and Conference Management, has introduced new electronic signboards displaying official meetings information.
+10.	In addition to the above, the Department for General Assembly and Conference Management is procuring 24 door information panels for deployment by fall 2005 to replace the existing cork clipboards near entrances to meeting rooms. These will display official meetings information appropriate for each room.
+11.	The Working Group and the Secretariat continue to explore approaches to ondemand document printing near or in the conference rooms and/or the Delegates’ Lounge.
+12.	The Secretariat continues to refurbish older personal computers that are no longer needed and to furnish them to missions, under the overall guidance of the Working Group. Please see annex II for statistics on computing equipment donated to permanent missions in 2004.
+
+
+		Information technology services
+
+
+13.	In collaboration with the Working Group, the Secretariat launched a new version of the primary web page for missions: www.un.int. This new page serves as a portal to the information resources most needed by the diplomatic community, and it was designed by members of the Working Group and implemented by the Secretariat. The process of identifying and prioritizing the information needs of the missions and of then implementing appropriate services is a continuous one that exemplifies the close cooperation that now exists between the Working Group and the Secretariat.
+14.	The Secretariat continues to provide e-mail services for the missions, including services to control spam and viruses. Unfortunately, substantial resources must be devoted to protecting these services, and yet the protection is not perfect. The Secretariat leverages the technologies it has in place to protect its own systems and anticipates increasing this leveraging effect for the benefit of the missions within current resources.
+15.	The Secretariat has deployed QuickPlace technology to allow the simple creation of secure, easy-to-use websites for collaboration and communication of information among a set of members. This technology has been successfully used for the Working Group itself and, notably, for the Military and Police Advisers Community serving the missions in New York (http://dcln042.un.org/milad). In collaboration with the Working Group, the Secretariat is extending use of this technology to meet a diverse set of needs among the missions. Four QuickPlace workplaces related to the needs of permanent missions have been established. They are the WGI QuickPlace, the Milad QuickPlace, the Funzita QuickPlace and ForoHispanoONU QuickPlace.
+16.	The Department for General Assembly and Conference Management has facilitated, through the meetings management system (e-Meets), web-based requests by permanent missions for Secretariat conference services. These services were formerly requested by filling out paper forms.
+17.	The Department for General Assembly and Conference Management has also enabled online interactive access to organ-related information, such as organ profile, terms of reference, current members, authorized requestors and contact information.
+18.	The Secretariat has implemented free ODS access, available worldwide on the Internet without the use of a password. Additionally, there is a new search facility associated with that version of ODS that enhances the ability to find documents based on their content. The Secretariat will continue to work with the Working Group to facilitate ODS use.
+19.	New services to be investigated by the Department for General Assembly and Conference Management in collaboration with the Working Group in 2005/2006 include an online and interactive version of the Permanent Missions to the United Nations, a publication also known as the United Nations Blue Book, as well as a speaker’s list.
+20.	The Working Group and the Secretariat are looking at several other issues that require more discussion and potential action in the coming year. For example, we are looking at the elections process and are developing a sequence of steps to assemble and present information to assist in the process, to make it more transparent and efficient and to ease the burden of mission staff.
+
+
+		Training, support and awareness
+
+
+21.	The Working Group has clarified its role as one that focuses on services awareness; training and support are provided by the Secretariat and by the United Nations Institute for Training and Research (UNITAR). Therefore, the Working Group reaches out to the diplomatic community, attempting to engage their interest, present useful information and foster a practical process of directing available resources in ways that best serve its interests. In collaboration with the Working Group, the Secretariat produced a guide to Internet services for delegates; a major update to this successful guide is now under way, to be available in the fall of 2005.
+22.	The Dag Hammarskjöld Library continues to provide training and is continually enhancing its offerings; the closer coordination that now exists with the Working Group helps ensure that the training offered meets actual needs. UNITAR is also active in providing training for mission staff, especially those new to New York.
+23.	The Secretariat provides support, typically via the Information Technology Services Division Help Desk, when there are problems with any of the provided services or infrastructure. In 2004 over 1,500 calls from permanent missions were handled by the Help Desk.
+
+Annex I
+
+		Meetings and presentations
+
+
+DateMeeting or presentationShort description of topics discussed16 December 2004MeetingWebsite dedicated to the permanent missions in New York; request by Military and Civilian Police Advisers Community; improvement of communications within regional groups; ongoing Secretariat initiatives: the Wireless Project, free access to ODS, printer support and personal computer upgrades.17 February 2005PresentationWiFi technology in the Secretariat and how to adapt it for the work of delegations.15 March 2005MeetingWebsite dedicated to the permanent missions in New York; improvement of communication within regional groups; progress on Internet wireless communication and searching ODS online; donation programme for used equipment; and chart of elections.27 March 2005PresentationPresentation by Italy on the new website for delegates www.un.int and discussion on the global search facility of a free ODS.
+
+Annex II
+
+	A.	Personal computers given to missions
+
+
+Equipment typeNumberCPU1 191Monitors959Printers366Other devices11
+
+
+	B.	Statistics on the website of the permanent missions
+
+
+	Number of pages viewed in 2004: 1,966,729.
+	Data downloaded from the website in 2004: 775.32 gigabytes.
+
+
+	C.	E-mail statistics
+
+
+	Total number of messages received by the United Nations Internet ITSD in 2004 was 18 million.
+	Total number of messages delivered to recipients in 2004 was 16.8 million.
+	Total number of messages rejected in 2004 was 132,000.
+	Total number of viruses detected in the messages for both the Secretariat and Permanent Missions in 2004 was 1,632,000.
+_____________
+Note: These figures were extrapolated from April 2005 statistics.
+
+[Start1]<<ODS JOB NO>>N0535438E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2005/67<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+7
+
+United NationsE/2005/67 
+Economic and Social CouncilDistr.: General
+23 May 2005
+
+Original: English
+
+
+05-35438 (E)    160605
+*0535438*
+

@@ -1,0 +1,112 @@
+[Start1]
+Substantive session of 2002
+New York, 1-26 July 2002
+Agenda item 7 (c)
+Coordination, programme and other questions: international 
+cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General*†
+
+
+
+	Summary	The present report summarizes actions taken by the United Nations Secretariat and its funds and programmes in response to Economic and Social Council resolution 2001/24 of 26 July 2001, in which the Council requested the Secretary-General to report on the initiatives taken by the Ad Hoc Open-ended Working Group on Informatics. In the resolution, the Council reiterated the high priority attached to easy, economical, uncomplicated and unhindered access for States Members of the United Nations and observers, through, inter alia, their permanent missions, to the growing number of computerized databases and information systems and services of the United Nations. Furthermore, the Council underscored the importance of improving electronic connectivity via the Internet for all Member States as well as electronic mail links between the Member States and the organizations of the United Nations system.
+	The present report reflects the various activities in the field of informatics reported by the departments of the United Nations Secretariat and its funds and programmes.
+
+	*	The document was submitted late to the conference services without the explanation required under paragraph 8 of General Assembly resolution 53/208 B, by which the Assembly decided that, if a report is submitted late, the reason should be included in a footnote to the document.
+	†	Mention of firm names and commercial products does not imply the endorsement of the United Nations.
+
+
+
+	I.	Activities of the Technical subgroup of the Ad Hoc Open-ended Working Group on Informatics
+
+
+1.	In its resolution 2001/24, the Economic and Social Council requested the Ad Hoc Open-ended Working Group on Informatics, to continue to fulfil for another year and from within existing resources, the provisions of the Council’s resolutions on international cooperation in information technology, to facilitate the successful implementation of the initiatives being taken by the Secretary-General with regard to the use of information technology and to continue the implementation of measures required to achieve its objectives.
+2.	In its meetings, the Working Group continued to concentrate on issues relating to information technology. While operational issues on services provided by the Information Technology Services Division continue to be discussed and resolved, substantive issues such as information and communication technologies (ICT) and the digital divide were the focus of many sessions.
+3.	ICT Task Force. In view of the third preambular paragraph of resolution 2001/24, wherein the Economic and Social Council stressed the need to ensure complementarities between the mandates of the Ad Hoc Open-ended Working Group on Informatics and of the Information and Communication Technologies Task Force, and the official launching of the ICT Task Force on 20 November 2001, it became evident that the Working Group needed clarification regarding its mandate so that it could take the first steps towards achieving its goals. The Working Group was briefed by the Council on the ICT Task Force and was given suggestions on ways in which the Group could contribute to their goals. The briefing focused on the launching of the Task Force, clarifying how the mandate of the Working Group could be aligned with the goals of the Task Force, implementing the decisions of the Council and the Task Force, and establishing a relationship with the Working Group.
+4.	There were two activities that would allow the Task Force and the Working Group to interact: (a) the Global awareness programme for Heads of State and Government, which would show them how to use ICT for development; and (b) devising plans to help permanent missions access the wealth of information that would be garnered by the Task Force. An initial step in achieving that goal would be to convene a seminar for ambassadors to the United Nations in order to apprise them of ICT possibilities.
+5.	Working with the Association for Information Technology. The Working Group worked with the Association for Information Technology to sponsor a breakfast meeting in November 2001 hosted by Japan. Two speakers representing two security firms focused on the issues of security for facilities, personal security, physical security of installations and offsite storage of files. Besides imparting well-established methods of security, the speakers also shared some of the lessons learned from the attack on the World Trade Center on 11 September 2001.
+6.	A conference on the theme “global e-commerce 2002” was held on 26 and 27 February 2002 with intensive and high-level presentations and expert panels designed especially for diplomats, officials, and senior management executives in the private sector. The conference detailed the strategic relationship between e-commerce, e-government, e-security, security, counter-terrorism and network management. Over 600 representatives from United Nations departments, Member States and the private sector attended the conference.
+7.	Presentations on e-government and on bridging the digital divide. Presentations were also given on e-government related to the digital divide and what is happening around the world in terms of information technology. This technology can help deal with the issue of those who do not have easy access to technology and aims to break down barriers and facilitate the flow of information between government and the public. Many people still lack regular access to personal computers or the Internet, which relegates them to the wrong side of the digital divide.
+1. Deployment of antivirus software to include Member States. The Information Technology Services Division secured licensing for the McAfee Virus Scan software to be deployed to all permanent and observer missions in order to assist them in protecting their computer equipment against viruses. Each mission received one free copy of the antivirus software on a compact disc that updated automatically each time it was used to connect to the Internet, thereby sparing users from having to intervene in order to keep it updated. There were two types of upgrade to the software: the upgrade of the engine, in which case the Division would issue a new compact disc to replace the one in use, and the updating of the virus definition (DAT) files, which was automatically updated each time the disc was used to connect to the Internet. The Division continues to update missions on the latest viruses.
+9.	Delegates’ use of Personal Digital Assistant devices. The Minister for Foreign Affairs of Andorra proposed making a service available that would allow members of delegations, using palm-sized personal computers, or Personal Digital Assistants (PDAs), to download pertinent information from the un.org web site. This task could be accomplished by reformatting the information in, for example, the daily Journal into palm-compatible files, which would facilitate the downloading of information by allowing the synchronization of the PDA and the personal computer.
+10.	Plans were also made to make a real-time feed available to PDA users. Users would then have a choice of using the synchronization step or the real-time feed. The Information Technology Services Division was interested in the proposal because it could be initiated within a short space of time. 
+11.	The PDA project was placed on hold because of the 2002-2003 budget cut.
+12.	Training in information technology. A new training programme for diplomats, focusing on computer and Internet know-how, including hardware, software, e-mail, web surfing, web design and maintenance, was commenced in May 2002 at United Nations Headquarters. Launched by the United Nations Institute for Training and Research (UNITAR) under the auspices of the ICT Task Force and the Working Group on Informatics, the training series has been made possible by the sponsorship and active participation of the Intel Corporation, which provided computers, training materials and instructors, with significant support from the Massachusetts Institute of Technology.
+13.	The programme, officially titled the Policy and Training Programme for Ambassadors and Diplomats at the United Nations, consists of a set of four progressive modules and one seminar, presented as a cycle that will be repeated four times each year. The first four modules will focus on technical know-how and will be geared towards all diplomats. The fifth module, conducted in an interactive seminar covering policy awareness and security issues on information technology, is intended primarily for ambassadors and senior diplomats.
+14.	Effects of the budget cut in the Information Technology Services Division on services to Member States. The programme budget approved by the General Assembly at its fifty-sixth session instituted unprecedented resource reductions that significantly affected the programme of work for 2002-2003. The impact of those cuts was felt by the Information Technology Services Division with even greater intensity as they were targeted at information technology expenditures in addition to cuts in objects of expenditure that are relevant to the Division’s programme of work. The magnitude and financial impact of the application of the 2002-2003 budget reductions fell heavily on the Division which is mandated to provide essential central and diverse business operations and services at Headquarters covering technical hardware and software infrastructure, network operations and access controls, server hosting, personal computer software integrity, ICT security, Intranet and extranet services, videoconferencing services, conference sound engineer services, provision of ICT support services for permanent missions in New York, telephone and voice technology operational services and photocopier services. The Division contracts out for many of these services. However, the Division lost 25 per cent of its overall budget at the non-post level and 57 per cent of its budget for operational services, the source for funds to maintain the infrastructure and to extend services to the meetings of the Ad Hoc Working Group on Informatics and to the permanent missions. As a result, some of the services provided for the permanent missions were temporarily reduced and some were discontinued (see ST/IC/2002/13).
+15.	By resolution 56/254 D of 27 March 2002, the General Assembly requested the Secretary-General to restore the affected services to permanent missions with resources released as a result of resolution 56/272 of 27 March 2002. Services were reinstated in April 2002.
+16.	The Information Technology Services Division, in conjunction with other offices of the Department of Management, worked to lessen the impact by clearly identifying the affected services and subsequently adopting a consolidated approach to implementing the cuts. The Division notified the Working Group of significant changes in information technology services provided by the Secretariat for Member States.
+
+
+	II.	Action taken by the Secretariat in response to issues raised by the Working Group
+
+
+		Activities of the Information Technology Services Division
+
+
+17.	The Information Technology Services Division has continued to provide dedicated help desk services for permanent and observer missions to handle any technical problems that might be encountered in using database services provide by the United Nations. 
+
+
+		Re-engineering of the Official Document System 
+
+
+18.	The Official Document System (ODS), formerly known as the Optical Disk System, reflecting the original optical platter disk technologies used, is a repository and inquiry system for the official documents of the United Nations in the six official languages. It is a proprietary system developed and maintained by the Information Technology Services Division and has been operational since 1992. ODS is used by Member States, non-governmental organizations and United Nations staff members.
+19.	The General Assembly authorized the re-engineering of ODS primarily to improve multilingual access and to make access open via the Internet. The Information Technology Services Division has successfully migrated the ODS application to current magnetic media storage and has provided Web-based access using Windows 2000 and Lotus Notes technologies. The migration, based on state-of-the-art technologies, has been operational since 4 September 2001.
+20.	Another facet of the re-engineering addresses concerns about reliably and effectively searching for official documents in the six official languages and assuring equal treatment of the six official languages. Such demands emanated from interested bodies, such as the General Assembly, the Fifth Committee (see A/C.5/56/12), the Committee on Conferences and the Committee on Information. The past practice has been for involved parties, such as the Department of Public Information, to copy only the English version of the official document onto the United Nations web site. This process requires the English version to be searchable and accessible on the web site. It involves thousands of documents, is a waste of disk space and creates data integrity problems when the document posted on the web site is different from the ODS version. The Information Technology Services Division has eliminated this deficiency by linking all ODS documents in all six languages to the web site, thereby providing web access to documents in all languages. This phase of the ODS re-engineering has been operational since 4 February 2002.
+21.	This solution has eliminated the operational necessity for the Department of Public Information to extract and post ODS documents to the web site. However, there remain numerous web pages reflecting documents and publications from substantive departments which are in English only. Continued management focus and direction is required so that technology can be used to permit the equivalent documents in the other languages to be accessed automatically. The ODS project has identified the basic technology tools required and has provided a sound example for accomplishing this task. Pilot tests are currently being performed with the substantive departments under the direction of the Information Technology Services Division. The first pilot test has been successfully completed for the direct access function from Web server to ODS. Three user offices (the Department of Public Information, the Dag Hammarskjöld Library, and the Department of Economic and Social Affairs) participated in the pilot test. Documents on ODS were successfully retrieved from the Web server, eliminating the need to maintain a copy of the document on their Web server. Response time was almost instant. The second pilot test will involve larger participating offices, each of which will access up to 500 documents. The Division will monitor the performance of the server.
+22.	A related component of the ODS re-engineering project is an improved multilingual search engine. A commercial search engine, Google, is recommended by the Information Technology Services Division.
+
+
+		Services for permanent missions
+
+
+23.	In its effort to fulfil the mandate of providing connectivity to all permanent missions, the Information Technology Services Division cooperated with the technical subgroup of the Ad Hoc Open-ended Working Group on Informatics to stabilize and improve the Internet service offered. The following activities continue to be performed:
+	(a)	An in-house dial-up Internet facility supported by T1 and T3 lines has been set up for the use of all permanent and observer missions. This allows Member States to work more efficiently and effectively with electronic tools; 
+	(b)	More than 500 Internet connection accounts have been provided for missions and their personnel. In addition, each mission may request an unlimited number of e-mail accounts. Currently, the un.int system hosts 1,023 individual e-mail accounts. All permanent missions are now accessible through a uniform e-mail address system;
+	(c)	The Information Technology Services Division installed additional security measures to prevent “spamming” (unsolicited e-mail) and unauthorized access to e-mail accounts. The Division also responded to the request of Member States for virus protection by extending the United Nations contract to include the missions. A request for a two-year renewal of licences was processed by the Division with the stipulation that the vendor must be able to hold the pricing for at least two years for all permanent missions, offices and agencies worldwide, with no minimum purchase limits for each order;
+	(d)	The un.int system has seen an increase in the hosting of mission web sites during the past year. Each mission has the option of updating the web sites using the access code provided for either the FrontPage or FTP software. There are now 162 web sites on the un.int server, which receives about 20,000 visits each day;
+	(e)	The Information Technology Services Division continues to provide technical advice and secretariat support for the Ad Hoc Open-ended Working Group on Informatics by attending their bimonthly meetings and providing members with updates on new technology; 
+	(f)	A total of 1,447 personal computers and printers accrued from the Organization’s personal computer replacement programme, were donated to permanent missions;
+	(g)	The Information Technology Services Division continues to provide access to ODS. There are now 192 permanent missions with 1,175 users, from the missions themselves and from their capitals, using the ODS facility; 
+	(h)	Help desk support continues to be provided for permanent missions from 9.30 a.m. to 5.30 p.m. on normal United Nations workdays. From July 2001 to June 2002, the missions help desk received 2,424 calls for technical support;
+The Division continued to maintain 24 computers installed in the Delegates’ Lounge and the first basement of the Secretariat Building. These computers have direct access to the Internet and are provided for the use of delegations only. The Division continued to ensure full availability by carrying out routine inspections of all devices twice a day.
+
+
+	III.	Activities of the Department of General Assembly Affairs and Conference Services
+
+
+24.	The Department of General Assembly Affairs and Conference Services is in the process of introducing wide-ranging measures to optimize the use of information technology in the translation process with the goal of electronifying the entire document processing chain. Of particular note are the following innovations:
+	(a)	Full text, electronically searchable document repository;
+	(b)	Multilingual terminology databases;
+	(c)	Electronic reference support systems;
+	(d)	Voice recognition (to replace Dictaphone tape recorders with computer-based utilities);
+	(e)	Scanning of documents (i.e. to convert paper-based documents to PDF files);
+	(f)	CD-ROM and DVD-ROM emulators for reference materials.
+25.	After intensive phases of analysis, it is expected that the above utilities will be introduced (or enhanced) in the coming months.
+
+[Start1]<<ODS JOB NO>>N0245654E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2002/78<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+5
+
+United NationsE/2002/78 
+Economic and Social CouncilDistr.: General
+2 July 2002
+
+Original: English
+
+
+02-45654 (E)    150702    
+*0245654*
+

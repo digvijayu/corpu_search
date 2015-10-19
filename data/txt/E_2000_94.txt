@@ -1,0 +1,255 @@
+[Start1]
+Substantive session of 2000
+New York, 5 July-1 August 2000
+Agenda item 7 (e)
+Coordination, programme and other questions
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General
+
+
+
+	I.	Introduction
+
+
+1.	The present report summarizes actions taken by the United Nations Secretariat, funds and programmes following Economic and Social Council resolution 1999/58, in which the Council requested the Secretary-General to report to it at its substantive session of 2000 on initiatives taken by the Ad Hoc Open-ended Working Group on Informatics. The Council reiterated once again the high priority it attached to easy, economical, uncomplicated and unhindered access for States Members of the United Nations and for observers, through, inter alia, their permanent missions, to the growing number of computerized databases and information systems and services of the United Nations. Furthermore, the Council underscored the importance of improving electronic connectivity via the Internet for all Member States and electronic mail links between Member States and the organizations of the United Nations system. 
+2.	The present report reflects the various activities in the field of informatics reported by the departments of the United Nations Secretariat, funds and programmes. 
+
+
+	II.	Activities of the Ad Hoc Open-ended Working Group on the need to harmonize and improve United Nations information systems for optimal utilization and accessibility by all States 
+
+
+		Activities of the technical sub-group 
+
+
+3.	From July 1999 to June 2000, the technical subgroup held 19 meetings to address a vast number of issues in the area of information technologies. 
+4.	During 1997 and 1998, the group focused largely on services to be provided by the United Nations Secretariat to the permanent missions in New York. In connection with that objective, the Secretariat provided equipment and services to achieve full connectivity of the permanent missions to the Internet, the United Nations optical disk system (ODS), electronic mail and web facilities. 
+5.	Having fulfilled the key objectives related to services to the permanent missions, the technical subgroup’s focus during the past year has changed to more substantive issues. A major item of discussion during the past year was to increase the use of information technology in providing services to the permanent missions, without placing undue burden on the smaller missions. While operational issues on services provided by the Information Technology Services Division of the Office of Central Support Services of the Department of Management continued to be discussed and resolved, substantive issues such as the year 2000 problem were the focus of many sessions. Some of the principal items that were addressed during the period from July 1999 to June 2000 are discussed below. 
+6.	Year 2000 readiness in the Secretariat. The Working Group strived to alert Member States to year 2000 problems and was kept informed on a regular basis of the steps taken by the Secretariat and by the United Nations system at large to achieve compliance. Periodic reports were given by the Information Technology Services Division on the progress made, on the contingency plans and on the measures taken for the roll-over. These included details outlining the Secretariat’s plan to test all systems on 1 January 2000 to ensure that all systems essential to the Organization would be operational on the first working day of the year. The Division also reported on the special measures that had been taken by the Organization to ensure that critical activities of the Organization, such as, for example, an emergency meeting of the Security Council, could take place even in case of major disruptions both within and outside the United Nations. Information was also provided on an emergency telecommunications network that had been established, in cooperation with the United Nations Children’s Fund, the United Nations Development Programme (UNDP) and the World Food Programme, between the United Nations, Member States and heads of United Nations funds, programmes and specialized agencies. 
+7.	Year 2000 roll-over. The efforts of the Working Group contributed to the successful year 2000 roll-over among Member States. The Year 2000 Cooperation Center in Washington, D.C. was in touch with regional coordinators by telephone as each time zone rolled over. 
+8.	Submission of year 2000 resolution. The Working Group submitted a draft resolution entitled “Global implications of the year 2000 date conversion problem of computers”. The resolution was subsequently adopted by the General Assembly on 15 December 1999 (Assembly resolution 54/114).
+9.	Hosting the archives of the International Year 2000 Cooperation Center. An outgrowth of the international year 2000 cooperation was the decision to preserve the network that was built up for the year. To that end, Member States were asked to submit the names of representatives that would perform the duties of national focal points. The Working Group is considering the financial possibilities of keeping the network in operation to facilitate the sharing of information technology.
+
+		Introduction
+
+10.	In late 1998, the Working Group created an electronic mailing list (listserve) (y2kcoord@undp.org) to permit the exchange of information and the coordination of action among national year 2000 coordinators from United Nations Member States. In early 1999, an additional list was created (y2ksteer@undp.org) to support communications among 10 national year 2000 coordinators and United Nations and World Bank representatives. These coordinators formed a Steering Committee, presided over by the Chairman of the Working Group on Informatics, to oversee the managing of the list and the work of the newly established International Year 2000 Cooperation Center (IYCC).
+11.	In April 1999, the responsibility for maintaining and facilitating the two lists was transferred to IYCC. The lists proved to be an extremely useful tool for coordinating the successful international year 2000 readiness effort. The list and the support of the Working Group were instrumental in the success of the first and second global meetings of national year 2000 coordinators, held at United Nations Headquarters in December 1998 and June 1999, respectively. 
+
+		Year 2000 accomplishments, July 1999-January 2000
+
+12.	After the conference through to the end of 1999, most of the contacts among national coordinators, sector experts, IYCC and the Working Group were electronic. One of the lessons learned from that effort was the usefulness of electronic means (e-mail, phone, fax and the Web) to help coordinate international activities. The listserve was the primary method used to support national coordinators in their year 2000 efforts. For the Working Group, IYCC and the list’s more than 400 participants, the mailing list provided the following: 
+	(a)	Focused action. About every 10 days, messages were sent informing national coordinators of actions to be taken;
+	(b)	Guaranteed feedback. The list encouraged participatory planning by sharing global situation papers and event management strategies (e.g., the roll-over reporting system) for comments and suggestions;
+	(c)	Brought forward new information. The mailing list informed national coordinators of opportunities, such as availability of free technical and expert service, new tools and templates and best web sites. Regional coordinators would announce workshop schedules and subsequent outcomes and achievements; 
+	(d)	Provided mutual support. By permitting electronic dialogue among national coordinators, the list enabled them to share accomplishments and provide support and encouragement to one another. 
+
+		Year 2000 date change reporting and event, January 2000
+
+13.	Uncertainty played a big part in motivating the creation of an unprecedented coordinated effort to monitor the events around the world during and after the date change. At the global conference in June 1999, national coordinators agreed to follow a standardized reporting procedure, created by IYCC. The Global Status Watch (GSW) became the principal way national coordinators shared information on the status of their critical infrastructure.
+14.	Information regarding GSW — how it functioned and how it could be accessed — was shared with national coordinators primarily by way of the mailing list. Through the mailing list, national coordinators were encouraged to participate in three practice tests, in September, November and December 1999.  
+15.	As it happened, the world passed through the year 2000 date change with only minor problems. The early preparations of the national coordinators and the Working Group were rewarded. GSW was also a success. It provided accurate and reliable information on 159 countries, representing 95 per cent of the world’s population. In addition, the Steering Committee held a series of conference calls, with the Chairman of the Working Group participating in nearly all of them.
+
+		Post-year 2000 efforts, January-March 2000
+
+16.	Once the success of the year 2000 effort became evident, in January 2000, the Steering Committee and participants on the current year 2000 listserve agreed that two new listserves should be created (ITcoord@undp.org and ITsteer@undp.org) to support further cooperation among the nations of the world to promote the spread and usefulness of information and communication technologies. 
+17.	At the final conference-call meeting of the IYCC Steering Committee, on 29 March 2000, the proposal of the Chairman of the Working Group to have the former staff of IYCC maintain and facilitate discussions on the new lists under contract received unanimous endorsement. Bruce McConnell, the former Director of IYCC and the current President of McConnell International, a Washington-based company, agreed to manage the list with the support of his partner, Roslyn Docktor.  
+
+		A new force grows, March-July 2000
+
+18.	Under their leadership and that of the Chairman of the Working Group, the ITcoord list has grown and at the present time has representatives from nearly 120 countries. The list is limited to representatives designated by national Governments and representatives of official international organizations. All communications on the list are confidential among Governments, unless otherwise agreed.
+19.	While many of the current members were active participants in the former y2kcoordlist, others may be new to the present list but not to information technology development for their Government. All of the members are currently engaged in a much bigger task than the year 2000, helping to bring their countries into the networked century in a way that serves all people.
+20.	In its short life, the list has already created attention and demonstrated, in the following ways, that structured information-sharing among Governments is a needed, powerful and important force:
+	(a)	Growing in number. Currently, 117 countries, up from the initial 40, have senior governmental representatives participating. A list of countries and the representative ministries’ web page can be found on the list managers’ web page at www.mcconnellinternational.com;
+	(b)	Being proactive. In the wake of the difficulties faced by Philippine prosecutors following the Love Bug virus attack, the list managers asked participants to share copies of their country’s current computer crime statutes. As of July 2000, more than 40 countries have responded, either with copies of their laws or statements that they have no applicable law in this area. Some countries have also provided details on legislative plans. All respondents are eager to learn from the practices of other countries. The responses, followed by a summary of the laws and a best practices guide, will be posted on a web page shortly;
+	(c)	Sharing beneficial information. The list managers have ensured that information technology opportunities, such as the scholarship to Motorola University, are shared with the group. The list managers have also sent early warnings and information on the recent virus attacks. Both actions have been applauded by numerous country participants.
+21.	Partnership with the private sector. The Working Group explored possibilities that might be available to establish partnerships between developing countries and the private sector in the information and communication technology area, focusing primarily on electronic commerce. The Group has invited several guests with expertise in these matters.  
+22.	Future direction of the Working Group. Having accomplished its major objective of achieving full connectivity among permanent missions, the technical sub-group held several discussions regarding its future activities and mandate. It is expected that the future mandate will be defined subsequent to the deliberations of the Economic and Social Council at its high-level segment on information and communication technology. 
+23.	Forum for information exchange. The technical sub-group meetings have served as a forum for information exchange between the United Nations and Member States. The following activities are of particular interest:
+	(a)	A presentation was made on 8 November 1999 by the Information Systems Coordination Committee (ISCC), a high-level body within the structure of the Administrative Committee on Coordination (ACC), whose main focus is on the use and coordination of information technology throughout the entire United Nations system;
+	(b)	On 21 March 2000, the Department of Economic and Social Affairs briefed the technical sub-group on the activities of the panel of experts established under General Assembly resolution 54/231 to advise the Secretary-General on the role of information and communication technology in the context of globalization and interdependence; 
+	(c)	A special meeting of the Working Group was convened on 19 June 2000 to inform Member States about the issues and recommendations raised by the Secretary-General’s expert panel, and to allow Member States to reflect seriously on them so that, at the appropriate time of negotiations and decisions, they would have already considered them in some depth; 
+	(d)	The Department of Public Information of the United Nations Secretariat and other United Nations bodies such as UNDP and the United Nations Educational, Scientific and Cultural Organization, have regularly shared useful information and resources with Member States.
+
+
+	III.	Actions taken by the Secretariat in response to issues raised in the Working Group 
+
+
+	A.	Activities of the Information Technology Services Division
+
+
+24.	The Information Technology Services Division, in its effort to fulfil the mandate of providing connectivity to all permanent missions, cooperated with the technical sub-group of the Ad Hoc Open-ended Working Group on Informatics to stabilize and improve the Internet service offered. To that end, the following main activities were performed: 
+	(a)	In September 1999, the migration of electronic mail (e-mail), Internet, web hosting and mailing list services from the undp.org system to the un.int system was completed. The Division configured at least one computer in each mission to access the un.int system. Missions were notified of a gradual phasing out of access to the UNDP system in order to allow ample time for the migration of data;
+	(b)	To date, more than 500 Internet connection accounts have been provided to missions and their personnel. In addition, each mission may request an unlimited number of e-mail accounts. Currently, the un.int system hosts approximately 1,150 individual e-mail accounts. All permanent missions are now accessible through a uniform e-mail address system;
+	(c)	The support to missions extends to facilities that were created to protect their mail operations from being disrupted in case of a planned or accidental flood of messages from the outside so that they can continue their daily routine. The Division also installed additional security measures to prevent “spamming” (unsolicited e-mail) and unauthorized access to e-mail accounts;
+	(d)	All web sites were migrated to the un.int system. Each mission was provided with access codes and a choice of using either the FrontPage or FTP software for updating web sites. There are now 70 web sites on the un.int server, which receives about 1,000 visits each day;
+	(e)	The Division was also active in the preparation and coordination of efforts to ensure that Headquarters was year 2000 compliant and gave the Working Group periodic updates as monthly reports were received from other duty stations. All systems were successfully tested on the weekend of 31 December 1999 to ensure that they were operational; 
+	(f)	Some 1,963 personal computers and printers, accrued from the Organization’s personal computer replacement programme, were donated to requesting permanent missions;
+	(g)	The Division continued to provide access to the United Nations optical disk system. There are now 188 missions, with 1,069 users, from the missions themselves and from their capitals, using the ODS facility;
+	(h)	Help desk support continued to be provided to permanent missions from 9.30 a.m. to 5.30 p.m. on normal United Nations workdays. From July 1999 to June 2000, the missions’ help desk received 1,869 calls for technical support;
+	(i)	The Division continued to maintain 24 computers installed in the Delegates’ Lounge and first basement of the Secretariat Building. These computers have direct access to the Internet and are provided for the use of delegations only. The Division continued to ensure full availability by carrying out routine inspections of all devices twice a day, and performing all necessary repairs and maintenance. Two fax machines were also put at the disposal of permanent missions in the Delegates’ Lounge. 
+
+
+	B.	Activities of the Department of Economic and Social Affairs 
+
+
+25.	The Department of Economic and Social Affairs convened the High-level Expert Group Meeting on Information Technology for Development, whose report will be considered by the General Assembly at its fifty-fifth session. The Department has prepared the report of the Secretary-General on information technology and development for consideration by the Economic and Social Council.
+26.	The Department continues to use informatics strategically as follows:
+	(a)	To facilitate the participation of primary partners in intergovernmental processes. For example, it established the web page of the Economic and Social Council and maintains it along with numerous other content-rich thematic pages (e.g., Advancement of women, Social development, Sustainable development and Financing for development) on current global negotiating processes; 
+	(b)	To assist Member States in the exchange of information on development areas. For example, it established the United Nations Public Administration Network (UNPAN), a tool for capacity-building in regional institutions directed at knowledge management in the area of public policy and administration;
+	(c)	To enhance research and analysis for policy-making. For example, it has developed Unesis, a massive, authoritative, on-line compilation of United Nations and specialized agencies statistics in the economic, social, financial and general development areas;
+	(d)	To support management and coordination. For example, it has developed the IMDIS programme monitor, to facilitate tracking and analysing programme delivery by Secretariat units, and the preparation of the report of the Secretary-General to the General Assembly on programme performance. 
+27.	Numerous other examples of the application of informatics in the Department can be found in its online newsletter at www.un.org/esa/desanews. 
+	C.	Activities of the Department of Political Affairs 
+
+
+28.	The presence of the Department of Political Affairs on the Internet continues to expand in the fields of electoral assistance, access to Security Council proceedings and support for the Committee on the Exercise of the Inalienable Rights of the Palestinian People. Special focus has been placed on the contents and format of its Internet site (www.un.org/Depts/dpa) and on the feeding of on-line databases with information posted on local bulletin boards. 
+29.	As a focal point for electoral assistance activities in the United Nations, the Department provides an early warning system of possible electoral activity through a digital archive of requests from resident representatives for monitoring and training activities (accessible by e-mail at electoral@un.org).
+30.	The Department is also developing a comprehensive evaluation of technology tools for electoral systems, including the use of biometrics to identify a voter’s unique characteristics, such as eyeball patterns, fingerprints and hand shapes. Such patterns, once digitally stored, would be matched against would-be voters. 
+31.	To provide substantive and secretariat support to the Security Council and its subsidiary bodies, the Department added the Security Council repertoire to its site, and extensively redesigned its navigation and interactive features. 
+32.	Its Division for Palestinian Rights has established an e-mail-based information distribution system reaching thousands of recipients — members of civil society and academia — as well as an on-line registration system to allow the registration of participants in international conferences and other events held under the auspices of the United Nations via the Internet. 
+
+
+	D.	Activities of the Department of
+General Assembly Affairs and Conference Services
+
+
+33.	The Department of General Assembly Affairs and Conference Services maintains, on a daily basis, web-based versions of the journal of meetings, the daily list of documents and the calendar of meetings. All these documents, originally intended for distribution in paper form, have been redesigned for use on the Internet.
+34.	The Department is responsible for the content of ODS. Since the beginning of 2000, the Department has been preparing United Nations documents in all official languages using MS WORD. Owing to the introduction of MS WORD and PDF as a standard for ODS, all new documents posted on ODS will be fully searchable in all languages, including Arabic and Chinese, after some final enhancements to the search feature have been implemented.
+
+
+	E.	Activities of the Department of
+Public Information
+
+
+35.	The Department of Public Information has undertaken various activities aimed at developing the technical aspects of information dissemination via the Internet. The Department organized, in cooperation with the Organisation internationale de la francophonie (OIF), a training seminar for 19 government information officials from French-speaking Africa, which was held in Abidjan, from 5 to 16 July 1999. The objective of the two-week seminar was to familiarize participants with the resources offered by the United Nations system on the Internet and to assist them technically with the presentation of the information resources of their own institutions on-line. The seminar aimed at promoting the use of the Internet as an instrument for economic and social development, in particular by the United Nations and OIF, while contributing to highlighting and enhancing the resources offered on the Internet by the countries of French-speaking Africa. A similar seminar, in French and Arabic, is planned for North Africa and the Middle East, to take place in Beirut in October 2000. (More information on the Abidjan seminar is available at www.un.org/french/Depts/dpi/Abidjan99.) 
+36.	The inter-agency library community has been active with respect to the first two recommendations, concerning collaboration among organizations of the system and networking as a community of experts, contained in the report of ACC (ACC/2000/4). Through the ISCC Special Interest Group on Libraries and Information Systems, an inter-agency bibliographic database is being created and initiatives are being pursued with respect to depository libraries, as well as the small and field libraries of the system itself. The Special Interest Group’s networking arrangements include an annual meeting, an active listserve, and a consortium (coordinated by the United Nations Dag Hammarskjöld Library) for joint purchase, with resulting volume discounts, of access to commercial on-line services. 
+37.	The Dag Hammarskjöld Library itself is engaged in several activities to promote an effective knowledge acquisition and dissemination capacity within the United Nations and in institutions in Member States, namely:
+	(a)	Regional training programmes for depository librarians, which often include basic computer and Internet training as well as access to United Nations electronic information;
+	(b)	Internet training (basic and specialized) for delegations and permanent mission staff of Member States;
+	(c)	Provision of electronic information services to permanent missions;
+	(d)	A technical cooperation programme for United Nations small and field libraries, including a database structure for management of their collections and, eventually, manuals on documentation and library management.
+
+
+	F.	Activities of the Office for the Coordination of Humanitarian Affairs
+
+
+	1.	Electronic dissemination of United Nations information via the Internet
+
+38.	The ReliefWeb site provides information via the Internet on humanitarian needs and actions regarding natural disasters, complex emergencies and other kinds of emergencies. The web site is operated by the Office for the Coordination of Humanitarian Affairs. It seeks to strengthen the response capacity of the humanitarian relief community through the timely dissemination of reliable information on complex emergencies and natural disasters. More than 40 emergencies are updated on a daily basis, using both in-country and international sources, including Governments, United Nations agencies and international organizations, non-governmental organizations, academic and research institutes and the media. Users can access the map centre, training inventory, early warning and emergency telecommunications sections, library and country background links. Redesigned in 1999, ReliefWeb continues to utilize new Internet technologies, thereby ensuring the best possible user access and ease of navigation, and the availability of time-critical information to inform target user groups, including Member States.
+
+	2.	Facilitating information access and dissemination in country locations
+
+39.	In 1999, the Office for the Coordination of Humanitarian Affairs, working in Kosovo in support of the role of the Office of the United Nations High Commissioner for Refugees as the lead humanitarian agency for Kosovo, established the Humanitarian Community Information Centre (HCIC). In addition to services such as non-governmental organization and humanitarian-military liaison, HCIC included a range of information products and dissemination mechanisms, including a geographic information systems resource centre, allowing for the analysis of data shared among relief agencies in Kosovo and for the creation of maps from the data. HCIC information is distributed via e-mail and CD-ROM, as well as by way of a web site, hosted on ReliefWeb. By making this important humanitarian information available over the Internet, updated from within HCIC in Kosovo, the Office for the Coordination of Humanitarian Affairs seeks to ensure reliable information dissemination both in the country location and externally to the international community.
+
+
+	IV.	Actions taken by offices away from Headquarters, funds and programmes in response to issues raised in the Working Group
+
+
+	A.	Activities of the Information Systems Users’ Group in Geneva 
+
+
+40.	The Information Systems Users’ Group of the Geneva Diplomatic Community (ISUG) is the forum in which Geneva-based permanent missions, with representation from each regional group, work together with the international organizations to coordinate the information technology requirements of the Geneva-based missions of Member States and harmonize related information technology activities of the international organizations. ISUG is concerned with informatics training for diplomats, information dissemination and the more extensive and effective use of electronic tools by the diplomatic community.
+41.	The major activity of ISUG during the past year has been promoting and providing guidance for the implementation phase of the Geneva Diplomatic Community Network (GDCnet). Sixty-four Geneva permanent missions are already connected. As a network for improved information exchange between international organizations and Member States, the objective of GDCnet is to overcome the limitations that many missions, particularly from developing and least developed countries, face in Internet connectivity and the use of electronic tools. Giving faster and permanent connectivity to information resources from international organizations and to the Internet, GDCnet also enables shared strategies that can considerably reduce information dissemination costs, simplify document access, and permit computer-assisted teamwork, videoconferencing and high-quality live video broadcasts of conferences and meetings.
+42.	The ISUG vision of GDCnet combines networked tools and technologies with training and support geared to the needs of the missions. It includes extranet services, help desk and assistance to missions that are not part of standard commercial network offerings.
+
+
+	B.	Activities of the Office of the United Nations High Commissioner for Human Rights
+
+
+43.	The web site presented by the Office of the United Nations High Commissioner for Human Rights (www.unhchr.ch) is averaging 3 million requests per month, coming from more than 150 countries and all continents. The number of documents available total approximately 28,000 files in English, French or Spanish. Live audio has also been added to special events pages, such as the one covering the fifty-sixth session of the Commission on Human Rights. 
+44.	The Office’s e-mail, webadmin.hchr@unog.ch, has also been a valuable tool for users of the web site, as it allows interested parties from around the world to get in contact with staff members, to send documents related to human rights and to receive prompt answers to their different requests.
+
+
+	C.	Activities of the Joint United Nations Programme on Human Immunodeficiency Virus/Acquired Immunodeficiency Syndrome
+
+
+45.	The Internet web site of the Joint United Nations Programme on Human Immunodeficiency Virus/ Acquired Immunodeficiency Syndrome (UNAIDS) (www.unaids.org) has grown into a major repository of information about the work of UNAIDS and its co-sponsors and partners in the field. It provides a library of UNAIDS publications to all interested audiences, as well as the dissemination of information to specific target audiences. Visits to the new and improved web site have increased significantly, mostly owing to the improved ease of use resulting from the revised design and structure.
+46.	UNAIDS has initiated the e-Workspace project to provide a private and secure place in which to conduct certain team-based functions, such as sharing and reviewing key documents, coordinating and planning meetings and developing strategies. It includes facilities for the sharing of knowledge and experience in order to capitalize on the experience of co-sponsors and partners. It also provides for the integration of knowledge-sharing processes into local country activities. The web-based e-Workspace project is currently in a preliminary phase and is targeted to be fully released by the end of 2000.
+
+
+	D.	Activities of the United Nations Office for Project Services
+
+
+47.	The United Nations Office for Project Services provides project support services, including execution and management of projects, to a broad array of United Nations clients. The representation of the projects to the global community is carried out directly by agencies and organizations. Some projects carried out by the Office are highlighted on its public web site (www.unops.org), in particular on its annual report page.
+48.	The web site also provides opportunities for consultants and companies to register on the Office’s rosters, and visit listings of current employment opportunities and pending invitations to bid.
+49.	As a co-sponsor of the aid and trade conference and workshop held in New York, the Office operates a public web site (www.aidandtrade.com), through which participants can gather information and register for the conference and workshops. A summary of conference highlights and outcomes will be added to the Office’s web site when they are completed. 
+50.	In 2000, the Office is reconceptualizing its intranet and extranet sites in order to provide more timely and accurate information on project activities to its partners; this activity will continue into 2001.
+
+
+	E.	Activities of the United Nations Development Programme
+
+
+51.	At the country level, UNDP pursues a number of objectives in information and communications technology, which build on the activities described in the previous report of the Secretary-General (E/1999/74), including the following: 
+	(a)	Providing access at the country level to substantive information, knowledge and best practices; 
+	(b)	Promoting connectivity and access; 
+	(c)	Developing web sites for information for development;
+	(d)	Promoting development and empowerment through information technology;
+	(e)	Initiating networking in developing countries;
+	(f)	Supporting technical cooperation at the regional level.
+52.	As part of its efforts to provide access to information at the country level, UNDP has developed “knowledge broker” web sites. Designed as a “one-stop shop”, the sites offer, through well-structured hyperlinks, access to a wealth of practical information, relevant content material, curricula and solutions on a broad range of aspects of sustainable human development through lead articles and a plethora of hyperlinks. 
+53.	The key sites, managed by the UNDP Bureau for Development Policy, are the INFO21 web site at www.undp.org/info21 and the Sustainable Development Networking Programme web site at www.sdnp.undp.org. These sites have been combined and linked with another international site located at www.knowledgebroker.org. Together, these web sites constitute a global storehouse of development information and solutions for local communities, Governments, development practitioners, researchers, non-governmental organizations and the private sector, especially small and medium-sized businesses. They reduce the otherwise lengthy search time on the Internet for appropriate information, which invariably is expensive and in many cases unaffordable. 
+54.	Special topical sub-sites of the INFO21 site offer detailed content and information on human rights, the year 2000 problem, electronic commerce and Internet governance issues. Other sites are maintained by the Special Unit for Technical Cooperation among Developing Countries and the Subregional Resource Facility (SURF) and can be accessed on the central UNDP web site (www.undp.org/toppages/discover/index.html). The SURF system was introduced in 1997 to provide substantive support to UNDP country offices in their programme work. As a knowledge management initiative, it is designed to take full advantage of UNDP’s key asset, the knowledge base of its extensive network of country offices, optimizing the use of the organization’s existing but globally spread capacity. Its mandate includes knowledge networking; identification and dissemination of best practices; technical backstopping; and referrals. At present, there are nine regional SURFs and a global hub in New York.
+55.	Over the past year, 10 global and regional thematic and sub-thematic knowledge networks have been established to improve the transfer of information and knowledge within UNDP and to promote linkages between country offices, as well as between country offices and headquarters. These networks, moderated by global hub and regional SURF staff, cover topics such as information technology for development, governance, human rights, environment, poverty and social development, microfinance/small and medium-sized enterprises, national human development reports, and aid coordination, as well as regional issues.
+56.	In addition, the “knowledge connection” Intranet site was established to provide key substantive resources to the country offices and serves as the home page for the various networks, each of which maintain their own resource corner. Regional SURFs also maintain their own web sites, which allow for external outreach to UNDP development partners in the region, as well as regional specific content. The knowledge connection also houses the SURF knowledge base, which currently contains modules on experts, focal points and readings. Other modules are being developed. With regard to information technology for development activities, the SURF Information Technology for Development Resource Network (ITRN) was established in December 1999 and has grown to more than 150 members of UNDP staff with information technology for development in their portfolio. Some 80 per cent of the network membership is field based, with the balance of members coming from headquarters, including UNDP programmes related to global and regional information technology for development.
+57.	The Asia-Pacific Development Information Programme (APDIP) aims at putting into operation a coherent strategy to harness the development potential of new information and communication technologies for sustainable human development. The programme has three interrelated goals: (a) to harness information and communication technologies for development and development facilitation in host countries; (b) to coordinate existing and future UNDP information and communication technology initiatives in the region; and (c) to support the expansion of sustainable development networking programmes on a national, subregional and regional level.
+58.	Among the notable achievements of APDIP are (a) the design and installation of the first Internet service provider in Bhutan and the final process of design and installation in Tuvalu; (b) APDIP CISCO networking academies; (c) mobile Internet units in rural schools; (d) information technology policy seminars in Asia and the Pacific; (e) development of national information technology policies and strategies for Asia and the Pacific countries; (f) regional host server programme; and (g) a hosting service for regional programmes enabling the provision at minimum costs of Internet-based services, such as the Web, news groups, e-mail and databases.
+59.	APDIP assisted the United Nations operation in East Timor in establishing an Internet connection from Dili via satellite. This set-up became the first Internet service provider for the country and will eventually be transferred to the Government. APDIP also intends to provide training on information technologies and networking as part of the capacity-building efforts of UNDP.
+60.	The UNDP Special Unit for Technical Cooperation among Developing Countries has seized the opportunities presented by new information technology to build a robust South-South knowledge network. The nucleus of this network is the information system dedicated to technical cooperation among developing countries (TCDC) known as the Web of Information for Development (WIDE). It now carries an enormous amount of content and offers four on-line services. The first of these, WIDE On-line, features information on institutions, experts and best practices in development cooperation in the South. WIDE On-line, which was developed in collaboration with partners in Brazil, currently provides access to more than 43,000 experts, 10,000 institutions and over 130 innovative experiences, through links to 20 other databases in Africa, Asia, Latin America and eastern Europe.
+61.	The WIDE discussion forum facilitates on-line discussion and networking on a wide range of issues concerning South-South cooperation. In cooperation with COMCAST, Inc. (Republic of Korea), WIDE News Service delivers daily headline news on selected development and South-South cooperation issues. WIDE InterLink assists key partners in the South in developing their own Internet platforms to identify, index and access their own, as well as other, expertise. For instance, the African Academy of Sciences is using this service to connect its membership of 1,600 African scientists and engineers. Thirty-four national TCDC focal points (mostly in least developed countries) have also been supported in developing national TCDC web sites as part of the WIDE system.
+62.	UNDP has 138 ongoing projects, totalling more than $362 million under the ACC sector of communications and information.
+
+
+	F.	Activities of the Economic Commission for Europe 
+
+
+63.	The Economic Commission for Europe (ECE) web site (www.unece.org) was created at the end of 1995 and hosted by the United Nations International Computing Centre. At that time, the main purpose was to facilitate the dissemination of meetings documents, starting with the Conference of European Statisticians. The primary clients of the service were national statistical offices. The service has been progressively extended to include information and extracts of recurrent and non-recurrent statistical publications, some statistical data, together with links to data sets provided by other ECE divisions and links to national and international statistical agencies active in the ECE region.
+64.	The Population Activities Unit launched a web site in 1996. Its aim was to facilitate the exchange, dissemination and collection of demographic data and to improve communication with demographic and population research institutes. In collaboration with the United Nations Population Information Network (POPIN), the unit promotes, assists and coordinates the development of POPIN web sites in countries with economies in transition.
+65.	In 1998, the Economic Analysis Division began publishing the Economic Survey of Europe over the Internet in different downloadable formats. The Division’s web site also provides information and services to the delegations attending the ECE spring seminar and the first day’s debate of the ECE annual meeting by publishing the papers provided by the speakers beforehand. Disseminating this information over the Internet accelerates the seminar’s registration procedure.
+66.	The web site of the Coordination Unit for Operational Activities is used to disseminate information on its cooperation activities with subregional groupings, initiatives and programmes (e.g., Black Sea Economic Cooperation, Central European Initiative, Commonwealth of Independent States, South-East European Cooperative Initiative and United Nations Special Programme for the Economies of Central Asia), the list of coming and completed events organized by the Unit (i.e., information notices, resumé of contributions, and, in some instances, the full versions of contributions, including case studies), final reports and so on, and to create virtual networks (e.g., networks on focal points of small and medium-sized enterprises in Black Sea Economic Cooperation and Central European Initiative countries).
+67.	In the period from January 1998 to December 1999, the total number of pages requested was multiplied by 10 reaching an average of 19,500 per day. ECE decided to redefine the objectives of its web activities. The targeted audience was identified and divided into four main groups: member countries’ governmental organizations, researchers, journalists and the people of the region. The ECE web site is being developed to better satisfy these groups. It has been divided into areas corresponding to the Commission’s substantive programme of work. The ECE home page was redesigned at the end of 1999 to better reflect the new structure and facilitate access to relevant information for each category of visitors.
+68.	In addition to its web site, ECE is making extensive use of a mailing list server to promote easy and regular communication between members of the working groups. This service will be improved by adding a web-based discussion facility. Desktop videoconferencing solutions are also being considered. 
+69.	The Internet has become an essential infrastructure for the delivery of information services of ECE. It is also becoming the primary tool for the Commission’s communication with member countries’ institutions and partner organizations. It has dramatically accelerated the transmission of information between the members of the working groups.
+
+
+	G.	Activities of the United Nations Environment Programme
+
+
+70.	The United Nations Environment Programme (UNEP) has continued to use informatics to gather and disseminate information, as discussed in the paragraphs below.
+71.	As part of the efficient servicing of its governing bodies, UNEP uses e-mail for the distribution of meeting schedules, agendas and background documents to permanent missions based in Nairobi (with access to e-mail) and the members of its governing bodies, i.e., the High-level Committee of Ministers and Officials and the Governing Council.
+72.	To disseminate general and thematic information to member States and the public, UNEP has developed a network of web sites, all of which are accessible through its main site at www.unep.org. These sites feature information on programme/project activities; products and services; media and public events; proceedings of Governing Council sessions and so on. UNEP also makes key publications as well as vacancy announcements available for downloading through these sites. Potential participants can gather information from these sites on the calendar of environmental events.
+73.	A major component of the work of UNEP is the provision of authoritative scientific and technical information to its constituents. To this end, UNEP continues to develop databases ranging from geo-spatial data sets to document repositories of technical guidelines and reports, best practices, and so on, on a complete range of thematic areas in the field of environment. While making such databases accessible and searchable over the Internet through its network of web sites, UNEP continues to distribute the same on CD-ROM for the benefit of countries with limited accessibility to the Internet.
+74.	UNEP also uses its web sites to market a number of its publications on-line; to conduct electronic forums on thematic areas to solicit views of special interest groups on environmental issues and UNEP work; and to facilitate on-line registration and nomination in relation to its outreach activities. In addition, related to outreach activities and to provide query response services, UNEP maintains active list servers to facilitate efficient communication with focal points.
+75.	To provide comprehensive coverage for environment-related activities and information, UNEP web sites maintain links with relevant convention secretariats, partner organizations and its network of collaborating centres within government and non-governmental organizations. 
+76.	UNEP operates a videoconferencing system to take part in the meetings with the United Nations Secretariat as well as to hold meetings with its Geneva- and Paris-based offices. With a view to reducing its telecommunications cost, UNEP, in partnership with the United Nations Office at Nairobi, has begun to explore the use of the Internet for facsimile transmission. 
+
+
+	V.	Concluding remarks
+
+
+77.	The Working Group, in cooperation with the Information Technology Services Division, funds, programmes, ISUG and the departments and offices away from Headquarters, has continued to improve and expand the electronic information services provided to Member States and permanent missions and to assure that the technologies employed are abreast of the technological development. Departments of the Secretariat, funds and programmes have intensified their efforts to make information available in electronic form to Governments and the general public, to promote Internet connectivity and to use information technology to facilitate the sharing of information, knowledge and expertise.
+
+[Start1]<<ODS JOB NO>>N0053374E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2000/94<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+12
+
+11
+
+United NationsE/2000/94 
+Economic and Social CouncilDistr.: General
+13 July 2000
+
+Original: English
+
+
+00-53374 (E)    210700
+*0053374*
+

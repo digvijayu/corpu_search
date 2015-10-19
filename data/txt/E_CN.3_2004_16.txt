@@ -1,0 +1,134 @@
+[Start1]
+Statistical Commission
+Thirty-fifth session
+2-5 March 2004
+Item 4 (f) of the provisional agenda*
+Economic statistics: information and communication 
+technologies statistics
+
+
+
+		Report of the International Telecommunication Union on information and communication technologies statistics
+
+
+		Note by the Secretary-General
+
+
+	In accordance with a request of the Statistical Commission at its thirty-fourth session,** the Secretary-General has the honour to transmit the report of the International Telecommunication Union on information and communication technologies statistics.
+	Points for discussion by the Commission are contained in section V of the report.
+
+
+		Information and communication technology statistics1
+
+
+	I.	Introduction
+
+
+	*	E/CN.3/2004/1.
+	**	See Official Records of the Economic and Social Council, 2003, Supplement No. 4 (E/2003/24), chap. I.A.
+
+
+1.	The global evolution towards an information society, epitomized by the holding of the first World Summit on the Information Society at Geneva in December 2003, has generated the need for statistics to measure this phenomenon.2 Closely linked to the emergence of the global information society, and of major concern to Governments, is the “digital divide”. Here too, statistics are needed to track access to information and communications technologies (ICT). 
+
+
+	II.	Definition
+
+
+2.	One definition of the information and communications technology sector is that of the Organisation for Economic Cooperation and Development (OECD):
+	“For manufacturing industries, the products of a candidate industry:
+	•	Must be intended to fulfil the function of information processing and communication, including transmission and display
+	•	Must use electronic processing to detect, measure and/or record physical phenomena or to control a physical process
+	For services industries, the products of a candidate industry:
+	•	Must be intended to enable the function of information processing and communication by electronic means”3
+This definition implies that the ICT sector refers to equipment and services related to broadcasting, computing and telecommunications, all of which capture and display information electronically.
+
+
+	III.	Analytical areas
+
+
+3.	There are a variety of ways of organizing ICT statistics for analytical purposes. Many national and international data compilations consider the topic from three different perspectives:4
+	•	ICT sector
+	•	Infrastructure
+	•	Use
+
+
+	A.	Information and communications technologies sector
+
+
+4.	The ICT sector category includes statistics that describe ICT sector activity, including data such as the number of ICT firms, turnover, value-added, capital expenditure, trade5 and employment. The classification of the ICT sector is based on the work of OECD, which led to an alternative structure being developed for the International Standard Industrial Classification of All Economic Activities, Revision 3.1, (ISIC Rev. 3.1).6 ICT sector data compiled on this basis is available for most OECD countries.7 OECD and Eurostat disseminate ICT sector statistics via their web sites.8 Even though the alternate ISIC Rev. 3.1 structure allows countries to compile ICT sector data on the basis of their national accounts data, few developing nations do so and there is no international database containing data for most of the world’s nations.
+
+
+	B.	Infrastructure
+
+
+5.	The International Telecommunication Union (ITU), the specialized agency of the United Nations for telecommunications, has been collecting, compiling and disseminating infrastructure statistics on the telecom sector for over three decades. These data are published in the annual Yearbook of Statistics and are also available electronically in the World Telecommunication Indicators Database. The list of statistics and definitions are outlined in recommendations that have undergone revisions over the years due to the rapid change of networks and technologies. The list was most recently updated at the world Telecommunication/ICT Indicators Meeting, held at Geneva in January 2003.9
+6.	Data are available for some 200 economies in the form of annual time series extending from 1960. They are based on administrative records collected from national telecommunication/ICT authorities such as ministries and regulators.
+
+
+	C.	Usage statistics
+
+
+7.	Usage statistics are generally compiled from surveys that measure the number of ICT users and type of use. These include data such as the number of users, households with ICT devices and ICT availability. The nature of users is generally disaggregated by individual and household, business, education and government sectors.
+8.	Though there is no comprehensive official framework for ICT usage statistics, there is an emerging consensus on definitions, guidelines and methodologies as reflected in various national, regional and international initiatives. For example, model surveys developed by OECD/Eurostat exist for the household/individual and business sectors.10 A guideline for educational ICT statistics has been proposed11 but in the areas of education, and particularly government, globally accepted methodologies are virtually non-existent, data are scarce and comparability is limited. It should be noted that in some cases administrative records could be used to collect some usage data. This applies in particular to the education and government sectors, where other types of data are traditionally collected and aggregated by national ministries (for example, number of schools and students or number of government employees). 
+9.	Data for household and individual access to ICT are collected by a number of private research organizations and, increasingly, by national statistical offices. Around 50 countries, primarily developed and emerging nations, have carried out individual Internet user surveys. There is scarce reliable information about Internet use in developing nations, particularly in the least developed countries. For example, only one national Internet use survey has been carried out in all of Africa. 
+10.	In 2003, ITU identified key indicators for measuring availability of ICT for the household, business, education and government sectors. All the latest available data were collected for these indicators and published in the World Telecommunication Development Report 2003. In addition, OECD and Eurostat regularly publish indicators on household/individual and business use for their members.
+
+
+	IV.	Millennium Development Goals
+
+
+11.	The Millennium Declaration acknowledged that ICT are an important tool for the achievement of its overall goals. ICT can, inter alia, help alleviate poverty, improve the delivery of education and health care and make government services more accessible. In the framework of the Declaration, under target 18 of goal 8, the Declaration’s adherents are called upon to: “In cooperation with the private sector make available the benefits of new technologies, especially information and communications.”12
+12.	ITU was charged with providing the indicators to help measure this particular target. However, of all the different targets, number 18 is the most vague (raising the questions of which ICT should be made available, to whom and within what time frame?). A trade-off between the ideal indicator and widespread availability had to be considered. In addition, the number of indicators for the targets had to be kept at a manageable amount. Given these constraints, three indicators were chosen to measure ICT availability in countries: 
+	•	Telephone (fixed and mobile) subscribers per 100 inhabitants
+	•	Personal computers per 100 inhabitants
+	•	Internet users per 100 inhabitants
+The indicators chosen, mobile phones, computers and the Internet, were selected because the goal stipulated … benefits of new technologies. Additionally, fixed telephone lines, in addition to being an ICT in their own right, are the main conduits for accessing the Internet. Indeed, there is a certain synergy between the three indicators in that the predominant way of accessing the Internet is via a fixed telephone line using a personal computer. The three indicators are infrastructure-based, since networks and connectivity are prerequisites for making available the benefits of ICT as specified in the goal. However, infrastructure is not the only factor that can impact the availability of ICT. ITU has also designed a composite measure, the Digital Access Index (DAI), which could be used to track target 18.13 The three indicators are available on the Millennium Indicators Database.12
+
+
+	V.	Points for discussion
+
+
+	•	Framework document. There is a need to incorporate the variety of ICT data into a comprehensive and standard framework. ITU, Eurostat and OECD have proposed indicators, definitions and methodologies and there have also been proposals for specific areas (for example, ICT in education). Since 2002, OECD has also worked on an overall framework on how to measure the information economy. These various initiatives and documents need to be synthesized in a single framework document.
+	•	Collaboration. Cooperative efforts need to be strengthened. Eurostat and OECD have done much work in this area, but some information is limited to their members. Some of the resulting methodologies are not always relevant for developing nations (for example, patents are not so relevant, but community access is) nor do they always address key concerns of the international community (poverty, gender, etc.). A number of international organizations such as ITU define methodologies and collect data but thus far there has been limited formal collaboration. In this regard, the recent statistical side event on measuring the information society, held during the World Summit on the Information Society and co-hosted by six international organizations, was a step forward.14 
+	•	ICT Database. While there is a growing amount of ICT statistics, they are dispersed across many different reports and agencies. There is a need to unify this information in a central database/web site that would also contain methodologies and definitions. This is beyond the scope of any single organization. One possibility for achieving this is to follow the approach used for the Millennium Development Goals, where different agencies are responsible for different data sets that would be supplied to a central repository. An example is the World Bank’s “ICT at a Glance” table which takes data from a number of sources to create country profiles.15
+	•	Capacity-building. There is a need to enhance assistance to developing nations to reduce the statistical divide. This includes raising awareness about the importance of ICT statistics for national planning and policy monitoring. It also includes bringing together ICT sector ministries and national statistical offices to work towards enhancing the availability of data. National statistical agencies can also consider including ICT-related questions to their existing household surveys. Finally, both technical and financial help is needed to explain methodologies and fund surveys. In this regard, ITU will conduct a workshop in 2004 for the southern Africa region. It is hoped that other international agencies and bilateral funding agencies will also make efforts in this area.
+
+
+	Notes
+	1	The ITU would like to thank the OECD, particularly Mr. Andrew Wyckoff, for the useful comments on this paper.
+	2	See the World Summit on the Information Society web site at http://www.itu.int/wsis.
+	3	OECD. 2003. A proposal for a core list of indicators for ICT measurement, http://www.oecd.org/dataoecd/3/3/22453185.pdf.
+	4	The Nordic nations, for example, follow this framework in their ICT statistics. See: Nordic Council of Ministers, 2002, Nordic Information Society Statistics, http://www.stat.fi/tk/yr/tietoyhteiskunta/nordic_iss_02.pdf. Variations on this structure include OECD (2003), which analyses ICT statistics from readiness (infrastructure, trade and qualifications) and supply and use (ICT sector, household and individual use, business use and patents). Another framework, which considers the broader area of the knowledge economy/society, is proposed by Australia with 3 main categories: innovation and entrepreneurship; human capital; and information and communications technology; and two supporting categories: context and economic and social impacts. See http://www.abs.gov.au/ Ausstats/abs@.nsf/0/fe633d1d2b900671ca256c220025e8a3?OpenDocument.
+	5	Trade statistics for ICT are based on Harmonized System (HS) Rev. 1 and are available from the United Nations Commodity Trade Statistics Database (UN COMTRADE), http://unstats.un.org/unsd/comtrade/default.aspx.
+	6	See http://unstats.un.org/unsd/cr/registry/regat.asp?Lg=1.
+	7	For example Ireland has compiled data on its ICT sector based on its Census of Industrial Production and Annual Services Inquiry. The data cover the number of enterprises, employment, turnover and value added. See Central Statistics Office, 2003, Information Society Statistics, http://www.cso.ie/principalstats/ictirelandjune2003.html.
+	8	See www.oecd.org/sti/measuring-infoeconomy and http://europa.eu.int/comm/eurostat/Public/ datashop/print-product/EN?catalogue=Eurostat&product=KS-NP-03-038-__-N-EN&type=pdf.
+	9	The publications mentioned, list and definitions of standard ICT infrastructure statistics (Telecommunication Indicator Handbook) and information about the world telecommunication/ICT meeting are available from the ITU ICT web page, http://www.itu.int/ict. 
+	10	Examples of the surveys are available in the World Telecommunication Development Report 2003, http://www.itu.int/ITU-D/ict/publications/wtdr_03/index.html.
+	11	UNESCO, 2003, Performance indicators on ICT for education matrix, http://www.unece.org/stats/documents/ces/sem.52/wp.1.e.pdf.
+	12	See the Millennium Indicators Database at http://unstats.un.org/unsd/mi/mi_goals.asp.
+	13	See http://www.itu.int/ITU-D/ict/dai.
+	14	A workshop organized by the Economic Commission for Europe, Eurostat, ITU, OECD, the United Nations Conference on Trade and Development (UNCTAD) and the United Nations Educational, Scientific and Cultural Organization (UNESCO), Monitoring the Information Society: Data, Measurement and Methods, was held in Geneva, 8-9 December 2003. See http://www.unece.org/stats/documents/2003.12.wsis.htm.
+	15	See the “ICT at a Glance” tables on the World Bank web site, http://www.worldbank.org/data/countrydata/countrydata.html.
+
+[Start1]<<ODS JOB NO>>N0422765E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/CN.3/2004/16<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+5
+
+United NationsE/CN.3/2004/16 
+Economic and Social CouncilDistr.: General
+30 January 2004
+
+Original: English
+
+
+04-22765 (E)    170204    
+*0422765*
+

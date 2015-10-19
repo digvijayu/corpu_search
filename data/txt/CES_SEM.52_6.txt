@@ -1,0 +1,235 @@
+Distr.
+GENERAL
+
+CES/SEM.52/6
+29 September 2003
+
+Original: ENGLISH
+
+STATISTICAL COMMISSION and UNITED NATIONS ECONOMIC COMMISSION FOR EUROPE (UNECE)
+CONFERENCE OF EUROPEAN STATISTICIANS 
+
+Joint UNECE/UNCTAD/UNESCO/ITU/
+OECD/Eurostat Statistical Workshop
+on Monitoring the Information Society: Data, Measurement and Methods
+(Geneva, 8-9 December 2003) UNITED NATIONS CONFERENCE ON TRADE AND DEVELOPMENT (UNCTAD)
+UNESCO INSTITUTE FOR STATISTICS (UIS)
+INTERNATIONAL TELECOMMUNICATION UNION (ITU)
+ORGANISATION FOR ECONOMIC COOPERATION AND DEVELOPMENT (OECD)
+STATISTICAL OFFICE OF THE EUROPEAN COMMUNITIES (Eurostat)
+MEASURING ICT USE IN EDUCATION IN ASIA AND THE PACIFIC
+THROUGH PERFORMANCE INDICATORS
+
+
+Keynote paper
+
+Ms. Carmelita Villanueva, UNESCO Information Programmes and Services
+and ICT for Education Team Member
+
+
+I.	RATIONALE
+
+ICT in Education in Asia and the Pacific: Overview
+
+1.	Countries in Asia and the Pacific are at different stages of development in the use of ICT in education. Basically, countries in the region can be roughly categorized into three types: those with policies and master plans and are already integrating the use of ICT into the education systems; those with policies and master plans but have not fully integrated ICTs in education and curriculum but are starting to apply and test various strategies; and those without policies and master plans but are implementing pilot projects and testing various strategies. There are countries, some of which are in the Pacific, which have not started at all. These typologies should at most be considered general categorization since even within a typology, countries vary and could take on characteristics from another category.
+
+2.	The countries at the advanced stage include Australia, New Zealand, South Korea and Singapore. In terms of connectivity and ICT penetration, they are characterised as having either large percentages or 100 percentage of classrooms being equipped with computers and other ICTs; having a high student/computer ratio; and having a high level of Internet access to all schools - South Korean schools, for example, have universal access to Internet. In terms of ICT policy, their ministries of education have formulated national and sub-national ICT policy in education, as well as a master plan to implement policies, with provision of adequate budgets to ensure effectiveness in implementation. As far as the use of ICT in teaching/learning is concerned, all of these countries have revised their curriculum to ensure that ICT becomes integral nationwide. Furthermore, the delivery of education is increasingly online, with e-Learning greatly facilitated by wide access to the Internet and connectivity. Professional development also forms a major part of the ICT programme in the advanced countries, with incentives offered for regular activities training educators, administrators, headmasters and teachers, both in-service and pre-service. Like e-Learning, the delivery of teacher training is rapidly going online, going beyond training on computer literacy to aid genuine integration of ICT in the curriculum and in the teaching of various subjects. These countries are also far ahead in terms of evaluation, monitoring and in the development of indicators to measure the impact of ICT use in education. 
+
+3.	The second type of countries with national ICT policies and master plans, applying and testing various strategies but not fully integrating ICT within education both in the curriculum and in all schools include, among others, China, India, Japan, Malaysia, Mongolia, the Philippines, Thailand, Viet Nam. Even among these countries, there remain variations. Malaysia, Japan, Thailand, India and the Philippines are ahead than Mongolia and Viet Nam for example. Common features are: all have both developed national ICT policies in education, and established goals and objectives in introducing ICT in various aspects of education, from teacher training to teaching/learning. Connectivity and ICT penetration is growing, but not yet to the level of the more advanced countries. In Thailand, only 22.5% of secondary schools and 1.19% of the primary schools are connected to the Internet; while the ratio of PCs per school at the secondary level is 24, and at the primary level it is only 2. In the Philippines, 81% of the schools have no access to the Internet.
+
+4.	As far as integration of ICT use in the curriculum and in teaching/learning, experiences also vary. While there have been efforts to integrate the use of ICT in the teaching of certain subjects (as in the case of Malaysia, China and Japan), efforts are isolated and have not yet reached systematic nationwide proportions. In the Philippines, a report pointed out that currently, ICT is not integrated at all into textbooks. In India, ICT is usually taught as a separate subject, with ICT education currently being introduced through a multi-layered approach. In Thailand, ICT has not been systematically integrated into the various subject curriculum. In the area of professional development, the majority of teachers being trained on ICT are being trained in computer literacy although more and more countries are moving on towards training on the use of ICT for teaching specific and integration into classroom use. Usually, public schools send a few teachers to computer literacy training, who would then pass on their learning through peer teaching. Private schools usually hire ICT service providers to give training to their teachers. Very often also, only selected teachers are given priority attention – those teaching English, Science, and Mathematics. Most initiatives in teacher training came from Intel, IBM, Microsoft and Coca Cola which have all funded massive teacher training in India, the Philippines, Thailand and Malaysia, among others. With regard to online learning, these countries are still in their infancy. However, SchoolNets have been launched in Thailand, Malaysia, Philippines and Indonesia in order to connect schools to share teaching/learning resources and benefit from each others’ resources online.
+
+5.	The third category includes beginning countries without well-defined and official policies but running pilot ICT projects or small activities. These countries include Myanmar, Lao PDR, Cambodia, Bangladesh, Maldives, Bhutan and the Pacific Islands, among others. These countries do not have effective master plans and budget allocations and their main priority concerns deal with infrastructure build-up and ICT penetration. In Lao PDR, a current project has begun with wiring some four or five schools. In Cambodia, the introduction of computers in a rural school is being helped through solar energy-run panels in order to reach an area without electricity. Many schools have received donated computers, often which are not functioning properly. In the Solomon Islands and other Pacific islands, the main concern is to connect with e-mail and the Internet and to install telecommunications. ICT use in schools and out-of-school is also in its infancy. ICT courses are often introduced as a separate offering, an extra-curricular or optional subject rather than as an integral part of subject teaching. Teacher training has just begun, mostly focusing on computer literacy in basic software.
+
+6.	The private sector has also begun to facilitate or spur the use of ICT in education in these countries. Intel, IBM, World Links and Coca Cola have made efforts in this area. Clearly, these countries require intensive help in policy and master plan development; in strengthening their infrastructure and connectivity; in teacher training and use of ICT in the classrooms. While the most common problems still relate to infrastructure and telecommunications development, further challenges include language difficulties (most ICT-related software and contents are in English), disparity in the accessibility of ICT between urban and rural areas; lack of motivation and technophobia among teachers; shortage of trained teachers; and the like.
+
+Measuring progress of ICT in education initiatives
+
+7.	Since the region of Asia-Pacific has recently embarked on the widespread use of ICT in education, the results of such efforts will not be seen for many years. But this does not mean that the waiting needs to be a passive event. Determining whether one is making a mark at various points along the way and at the end can be ensured through indicators or criteria against which the results can be verified. Indicators are required to respond to challenges raised with regard to the role, value and impact of ICT in education. 
+
+8.	Because of the many challenges that are raised in the impact of ICTs in general, the burden of showing if success stories exist from the use of ICT in education becomes an urgent need. As ICT become increasingly widespread, schools and other learning settings as well as education systems as a whole need to develop performance indicators to monitor the use and outcomes of the technologies and to demonstrate accountability to funding sources and the public. These indicators are needed to show the relationships between technology use and educational reforms, empowerment of teachers, changes in teaching and learning processes and student learning. There is a need to show that education should not only use technology as an end in itself, but also as a means to promote creativity, empowerment and equality and produce efficient learners and problem solvers. 
+
+9.	An initial assessment of the indicators already developed by others shows their largely quantitative nature. While data that can be collected from these indicators can provide an overall view of infrastructure support and ICT penetration, this project should strive to examine more closely indicators that will show how ICTs have been used not only as a basic operational tool but also as a communications tool which promotes the development of creativity, interactivity, collaborative learning, critical thinking and problem-solving.  Eventually, educational policy makers and administrators should mainstream the use of these indicators into their national educational policies and management information systems. This project does not stop at indicators construction but will guide policy makers to put indicators to work. And to put indicators to work, they need to be considered as the stimulus for change, rather than as only a snapshot of current conditions. 
+
+10.	While the approach of measuring achievements in ICT usage in education using a system of indicators is accepted as an integral part of any ICT programme, the issues that we need to look into carefully will be: (a) what indicators can represent both quantitative and qualitative improvements in education as a result of ICT use? (b) how do we define ICT and what constitutes ICT usage in education? (c) to what visions/goals in various educational tasks do we think ICT can contribute in a substantial way? (d) how do we measure ICT usage based on equity which refers to widespread and equal access to ICT? (e) what will be the method of collecting, processing and promoting application of indicators? (f) what statistical criteria are required for promoting accurate measurability considering that much socially-embedded knowledge is difficult to quantify and measure? 
+
+
+II.	INITIAL RESPONSE: THE PERFORMANCE INDICATORS PROJECT
+   
+11.	To address this issue, UNESCO, Bangkok, is implementing a Japan Funds-in-Trust project called Performance Indicators for ICT Use in Education Project aimed at developing a structure of indicators to measure ICT use and impact in education. These indicators will be used as a basis for policy planning and programme improvements, specifically demonstrating if and how the use and integration of ICT are actually raising educational standards, serving as a catalyst for educational change and empowering teachers and learners. In order to achieve this objective, the project is carrying out the following strategies:
+
+- Undertaking a situational analysis in order to understand how existing projects/activities implemented within and outside the region are measuring the impact of the use of ICT in education and on this basis, identify an appropriate set of performance indicators which can be adapted or developed for application in the region;
+
+- Pilot testing these indicators in selected countries;
+
+- Developing a systematic mechanism and database for collection, storage, analysis, and dissemination of the indicators based on a network of regional, sub-regional and national focal centres;
+
+- Promoting data utilization and undertake advocacy work to convince educational policy makers and administrators to mainstream the collection and maintenance of indicators into their national educational policies and management information systems;
+
+- Building national capacity in the collection, processing and dissemination of indicators; and
+
+- Implementing an information repackaging programme which will ensure that the results/data collected dealing with these indicators are disseminated and utilized for policy and programme adjustments and improvements.
+
+12.	The Project so far has undertaken a situational analysis on the use of indicators in ICT in education in countries all over the world including Asia. It was found out that except for South Korea and Australia, the rest of the countries in Asia and the Pacific have not developed indicators to assess the outcomes of the use of ICT in education. Most of the initiatives in this area came from England, United States, Canada, Finland, Denmark, Slovenia, and CIS countries, among others. Looking at existing indicators used around the world, the project has generated a set of performance indicators through a Consultative Workshop participated by specialists from ministries of education engaged in carrying out ICT projects in education as well as experts and consultants coming from the UNESCO Institute for Information Technology in Education based in Moscow, Australia’s NSW Department of Education and Training, and United Kingdom’s Advisory Unit: Computers in Education and ESCAP’s Social Development Division. The countries represented included Australia, India, Indonesia, Malaysia, the Philippines, Republic of Korea, Thailand, Viet Nam and Uzbekistan. An expert from the World Bank’s World Links and e-readiness project also provided their inputs into its refinement. With a manual prepared to support pilot testing, the indicators are being tried out Thailand, Malaysia and India.
+
+13.	The project is now in its second phase where selected countries are scheduled to pilot test the set of indicators. The following countries have signed up for the pilot testing and will launch the exercise within the next several months leading up to early 2004: Thailand, Malaysia, India and Philippines. The national counterparts from all of these countries are the ministries of education and specifically sometimes the policy and planning bureaus or the ICT unit of the ministry.
+
+
+III.	ASSESSING ICT IN EDUCATION: PERFORMANCE INDICATORS
+
+Setting the Parameters
+
+14.	In developing the set of indicators, it was felt that many countries are at different stages of development as far as ICT use in education is concerned and, therefore, indicators to measure ICT use and impact may not necessarily be standard or uniformly applicable to all countries. Furthermore, the development of ICTs in the countries is changing so rapidly that the indicators applicable today may no longer be the case next year. For example, one country may already be advanced as far as teacher training or physical access indicators are concerned, but may not even have developed an official policy yet. Or another country may have formulated an official policy, but may not have begun integrating ICT into the curriculum. Thus, it was found useful to set out some parameters in order to minimize imbalance and differences. Below are these parameters:
+
+1) Definition of ICT – For the purpose of this project, ICT is defined as the term used to describe the tools and processes to access, retrieve, store, organize, manipulate, produce, present and exchange information by electronic and other automated means.  These include hardware, software and telecommunications in the forms of personal computers, scanners, digital cameras, handhelds/PDAs, phones, faxes, modems, CD and DVD players and recorders, digitised video, radio and TV and programs like database systems and multimedia applications.
+
+2) Scope of education to be covered by ICT indicators - In this project, the following levels and scope of education will be included. In order to facilitate comparison between countries, the different levels of national education and its definition were based on the classification of THE INTERNATIONAL STANDARD CLASSIFICATION OF EDUCATION (ISCED).
+
+Level 1 –  Primary education.  
+Level 2 –  Lower Secondary.  
+Level 3 –  Upper Secondary Education.  
+Level 4 –  Post-Secondary Non-Tertiary Education.  
+Level 5 –  First Stage of Tertiary Education (Not Leading Directly To an Advanced Research Qualification).  
+Non-formal Education 
+  
+3) Disaggregation of indicators –  For purposes of analysing further the data to be gathered from the questionnaire survey in this pilot testing, it is recommended, if possible that indicators be further classified or disaggregated.  The sample survey questionnaire provided in this manual already tried to classify some of these variables, but because of the differing situations in each of the countries participating in this survey, classification made may not be appropriate.  Thus, for their guidance, the following indicator should be considered for further classification in finalizing the survey questionnaire.
+
+- Policy on ICT – national, if available; if not, please indicate whether there are policies on ICT at the regional, division/district or school levels; (or there are national ICT policies that include an education component);
+- Indicators under the category - infrastructure, access and connectivity should be disaggregated into formal, non-formal and primary and secondary education; 
+- Indicators under the category - ICT curriculum (both include curriculum used to teach ICT topics and subject curriculum into which ICT-based lessons are integrated into) should be disaggregated into the following categories:
+
+* Geographical location (rural or urban);
+* Educational level;
+* Type of education (formal, non-formal, and special education, national minorities);
+* Curricular subjects;
+* Gender;
+* Language.
+
+- Indicators on Teaching and teaching support staff:
+
+* Gender;
+* Geographical location (rural or urban); 
+* Age (preferably into age brackets);
+* Subject* taught by a teacher/ librarian/administrator/ICT coordinator;
+* Educational level;
+* Type of education (formal, non-formal, and special education, national minorities);
+* Socio-economic status (if possible).
+
+- Learning process and outcomes:
+
+* Gender;
+* Geographical location (rural or urban); 
+* Subject;*
+* Educational level;
+* Type of education (formal, non-formal, and special education, national minorities); 
+* Socio-economic status (if possible).
+ 
+      * For further classification based on international standards
+
+4) Different stages of ICT development in different countries and how they relate to the different indicators – In the Consultative Workshop, it was recognized that countries participating in this project may be at different stages of ICT development, including its use in education.  Thus, to address this concern, the following classification of ICT in education is proposed.  This classification may emerge as a result of the data gathered from the survey.  It should be noted here that these different stages can also apply within a country specifically within a country’s different regions/sectors. 
+
+   The following are the stages and its definitions:
+
+- EMERGING – this is the stage in which the country has come to the awareness of the benefits of ICT in education.  Thus, a national policy has just been set, budget has been allocated and guidelines for the implementations have been prepared.  This is also the stage in which the country in general is undertaking infrastructure development in preparation for the nationwide access to ICT.  Thus, the country may embark on infrastructure project such as providing electricity and communication facilities to areas without these infrastructures.  At this stage, the schools, in particular may be in the process of hardware build-up in terms of purchasing computers and other ICT facilities. Indicators most useful for assessing ICT introduction in such countries will focus on infrastructure build-up and ICT availability, penetration and connectivity. Indicators that determine existence of a national policy, mater plan and budget allocation will also be useful to test commitment and support of the governments. It will also be useful to know whether the ICT policy in education is linked to the goals and strategies of the national ICT policy of the country.
+
+- APPLYING – At this stage, the ministries of education are testing out and piloting the use of ICT in selected schools and subjects and have not integrated ICT as part of the curriculum. The schools in particular have started to benefit from the conveniences of using/applying ICT in the management and administration of education.  Schools are not yet adequately equipped and teacher/student and computer ratio is still low. Internet connection is only beginning to appear on a selected basis and for limited use. The schools at this stage may be offering computer courses as a subject and most computers are set up as stand-alone units. Teachers are being trained mostly in computer literacy rather than the use of ICT in teaching/learning. ICT-based materials for teaching subjects are being developed and teachers are using ICT in the classroom mostly for preparing presentations, entering grades and assignments, making handouts, for text processing and classroom management. Indicators which are more likely to be of help here would revolve around availability/penetration and accessibility of ICT; teacher/student-computer ratio; Internet connection; teacher training outcomes; use of ICT by teachers and students or how ICT is used in schools.  
+
+- INTEGRATING – At this stage, the ministries of education have integrated the use of ICT into the standard curriculum and developed standards and competencies for both teachers and students in the use of ICT. The schools have computer laboratories, mostly with computers set up in a network, have a working local area network and have access to the Internet which are available to students, and teaching and administrative staff.  Most students and staff have e-mails. The use of ICT in the teaching-learning process is more of a tool rather than just a curricular subject offering.  The teachers are naturally and routinely using ICT and various educational software in teaching subjects and students employ them in classroom activities and in completing their assignments. Telecollaboration and communication between students and teachers and other schools can occur in this stage. The most useful indicators which can be used here deal with assessment of teaching and learning process/outcomes as well as efficiency of ICT in communication, networking and providing easy access to online educational resources.
+
+- TRANSFORMING -  At this stage, the systematic and widespread use of ICT in the education ministries and in their programmes throughout the country has become routine. Schools have been transformed into a level where ICT has become an integral part and important facility in the management and administration of education and has become an efficient and effective way of teaching and learning; solving problems; communicating and collaborating.  Traditional learning has been replaced with e-learning and online learning. Students and staff have personalized websites, and students have full grasp of ICT facilities in their schooling. More advanced type of indicators are required in this instance. These can include availability of larger bandwidth, countrywide penetration of ICT including the marginalized areas and easy access to online resources as far as infrastructure is concerned. Use of ICT in terms of e-learning, telecollaboration or collaborative work; use of online professional development; extent of teacher training coverage and training of teachers in advance use of ICT; and how ICT is being used to develop learners’ creativity, critical thinking and problem solving capacity. It is also important to know how new graduates/work force are being integrated into the knowledge society and workplace.
+
+
+IV.	FIVE MAJOR INDICATORS TO PILOT TEST
+
+15.	The Consultative Workshop adopted the following major categories of performance indicators (see attached detailed definition and description of each)
+
+1) Policy and strategy
+
+- National policy for ICT in education - A principle or course of action mandated by the national/sub-national government t6 determines presence or absence of commitment and support of policy makers and educational authorities. 
+- Master plan with a time frame - A blueprint which transforms the policy into action to show how actual commitment is translated into action.
+- Budget - Budget allocations as included in the national and sub-national budgets to determine support for national/sub-national policy on ICT. 
+- Proportion of ICT budget vis-à-vis national education budget and items spent on - Total budget of ICT for education over the national budget on education and how this budget is spent. Bigger proportion or amount would show that ICT in education is a priority or vice versa and also shows what priority activities on ICT money is being spent on.
+- Organization structure responsible for implementing master plan - Organizational structure either as a department, unit, or sector in the ministry both at the national or local levels (school level) with the primary function of implementing national or sub-national policy on ICT for education based on the master plan to show whether the programme is an integral part of the organisation.
+- Scope and level of ICT programme - This refers to geographical scope and educational levels) to indicate the level of development, breadth and depth of the ICT programme and whether to expand or focus/prioritize scope.
+- Monitoring and evaluation mechanism - Detailed plan to monitor and evaluate progress of implementation of activities based on master plan to show intent of the ICT for education programme to make improvements as it progresses.
+- Statement on inclusion of women, minorities, those with special needs - A specific statement in the ICT policy on education for inclusion of these special groups as clientele to demonstrate that these groups are not being further marginalized. 
+- Manner by which ICT is being introduced if no ICT for education policy exist -  It is important to determine how they implement such activities such as part of a regular programme; as a project; as an ad hoc activity, etc. which will reveal countries’ attitude towards having an ICT policy as well as capacity to develop a policy. 
+- Existence of technology master plan in schools - A blue print for the technology development of a school which indicates commitment and how seriously or efficiently/inefficiently the school management is implementing ICT policy.
+
+2) Technology infrastructure and access
+
+A. Enabling environment
+
+- Schools access to various kinds of ICT facilities during school hours – Availability of and access to electricity, telecommunications facilities, computers, etc. to determine the level of development of ICT use in these schools/NFE centres and the extent by which use of ICT in education is being enabled by the presence of such facilities.
+- Number of computers per 100 student/learners - The student-computer ratio is a proxy measure of the access or availability of computers to students in schools/NFE centres to shows how the ideal situation of obtaining the desirable ratio between students and computers as called for in the Master Plan is achieved.
+- Number of hours per week for ICT-aided instruction - Indicates average number of hours per normal school week a teacher uses computer for instruction and related activities to determine adequacy or inadequacy of time given to the use of ICT in teaching/learning. 
+- Access and use of computer after school hours - To determine whether teachers and students are able to continue their ICT-based teaching and learning after school hours either within or at other locations to enable administrators to plan for more access and usage of ICTs inside the schools and/or plan to mobilise outside resources as supplementary resource.
+- Location of computers in schools - Shows where computers are located in the schools/NFE centres and whether such locations facilitate full and unlimited access and use of computers and related ICTs. 
+- Amount of fees collected for computer use - This indicates whether fees charged serve as impediment to full and free access to ICT use. This is also an indication as how ICT is narrowing or widening access gap.
+
+B. Internet connectivity:
+
+- Number of computer connected to the Internet either as stand-alone or networked - Actual number of computers connected to the Internet in any of the following means:  dial-up connection, through a service provider, through satellite, etc., in any set-up, e.g., stand-alone or networked to determine the capacity of schools/NFE centres to provide access and the extent of coverage of students and teachers with Internet.
+- Kinds of Internet connection and speed – This examines whether Internet connection is Modem-dial up, ISDN, cable modem, DSL, Broadband cable, satellite cable, etc. in order to measure the quality of connectivity and signify the efficiency (speed, quality) of accessing information from the Internet.
+- Number of hours per month used by schools in accessing Internet connection - Indicates the average hour the school/NFE centre accesses the Internet x number of terminals to determine extent of use of Internet to support teaching/learning and guides planners to design their Internet-based lessons and teaching/learning materials.
+- Source of payment for Internet connection - This examines whether Internet connection is provided free of charge or subsidized through tuition fees or other sources to determine how such fees deter from regular access of Internet resources for teaching/learning. 
+- Access and use of e-mail and websites by schools, administrators, teachers, students - This indicates number of schools, teachers, principals, learners with e-mail and websites developed and maintained by them and indicates the stage of technology advancement they are which will enable planners and materials developers to mobilize and maximize more Web-based resources and online learning.
+
+C. Systems and hardware:
+
+- Number of PCs running on various platforms-Indicates whether the operating platforms used include any one of these- Windows, Linux, Apple Macintosh, Unix, DOS, to determine whether or not schools/NFE centres are working on the same environment to facilitate sharing, exchanging, and networking 
+- Age of computers – Indicates how long the schools/NFE. centres have had the computers (from 1 to more than 8 years) to determine the power and capacity of the computer as well as efficiency and up-to-dateness for use in teaching/learning.
+
+3) ICT integration into curriculum
+
+- Existence of prescribed curriculum that incorporates ICT in formal and non-formal, minorities and special needs - Incorporation of ICT in curriculum is said to be required if this is mandated by the ministry and that all schools should adhere to this mandate in order to determine if curriculum is standardized based on prescription by the ministry or sub-national authorities. 
+- Manner by which ICT is taught in schools and hours spent in teaching - This examines whether ICT is being taught as a separate subject; integrated in all subjects; integrated in some subjects or as an elective; integrated into elective subjects; as a special programme, and number of hours spent for each in order to determine the attention/support/resources given to it as well as the level, depth and extensiveness of the use of ICT in teaching/learning.
+- Educational levels at which ICT is being taught as a separate subject -This refers to whether ICT is being taught as a separate subject at the elementary, secondary, non-formal education and at what specific grade levels which indicates the need to go further beyond in terms of grade levels, coverage and towards curriculum integration. 
+- Subjects into which ICT is introduced/integrated - Indicates the extent in which ICTs is integrated into the teaching of various subjects like mathematics, science, social sciences, etc. to determine degree of curriculum/textbooks integration and plans for expansion to other subjects.  
+- Purpose for which computers are used in schools - This examines whether ICT is being used for various purposes that conform to the desired objectives/goals and pedagogy of ICT use in education and if not, will guide the planners and educators to adjust the use of computers according to desired learning outcomes and pedagogy. 
+- Extent of ICT integration in the curriculum – This indicates at how ICT has become integrated into the curriculum and reflects at what ICT stage a country is in, which will in turn guide future planning and strategies in teaching/learning at the advance stage.
+- Use of educational software in teaching/learning – identifies which software applications are used for teaching/learning using ICT to determine level of sophistication in ICT use; whether software matches pedagogy desired in ICT programme; and language and local contents features.
+
+4) Teacher training and teaching
+
+- Percentage of teachers who acquired pre-service training - The number of teachers with ICT training at pre-service would indicate that there are already a proportion in the teaching force who can adequately handle the new curriculum and determine further training needs.
+- Percentage of teachers who received in-service training for the last 3 years - This would indicate the seriousness of the ministry in preparing teachers with/without prior ICT training and helps in planning for further or follow-up training.
+- Type of ICT training received - Percentage of teachers in schools with basic, intermediate and advanced training on ICT indicates the seriousness of the ministry in providing appropriate teacher training and guides planners on how to re-adjust training programmes.
+- Number of hours for which number of teachers are trained - Duration of training received on ICT is an indicator of how prepared the teachers are in implementing ICT in teaching and guides planners in determining the most adequate length for developing required knowledge and skills.
+- Purpose and frequency of use of computers by number of teachers - The frequency of usage of ICT tools by teachers in doing specific activities helps in determining the level of teacher’s ease of use and expertise in use of ICT in teaching as well indicates effectiveness/ineffectiveness of teacher training.
+- Level of expertise in the use of ICT by teaching professionals - This refers to level of expertise on the use of various applications to plan for future training programmes and for content refocusing. 
+- Reasons for participating in ICT training - Understanding why teachers participate in ICT training programmes will help training organizers and planners to redesign their training objectives, strategies and incentives to encourage more participation. 
+- Use of Internet for teaching and how regular – Knowledge on the frequency of use of Internet and the purposes for its use in teaching enable school administrators to provide more access to Internet and to identify resources that should be promoted for teaching/learning. 
+
+5) Student learning
+
+- Number of hours of ICT access per learner per week/per schoolyear - Indicates approximate number of hours ICT facilities are allowed for students’ use per year given by school/NFE administrators multiplied by number of computers to obtain people hours as well as actual number of hours computer used per week during regular school as given by learner responses. This is to determine how accessible ICT facilities are for the use of students. 
+- Number of learners with ICT access outside of schools - Measures exposure of students to ICT use outside of normal schools or instruction periods to indicate the level of ICT facilities being accessible and affordable commodity in the locality. 
+- Actual use of computers and related ICTs in specific subjects - Indicates whether students are able to use ICTs and computers as learning tool for doing schoolwork on specific subjects and whether ICT use is becoming integrated into teaching/learning process.
+- Levels of skills of ICT use by learners - Number of learners who can demonstrate basic, intermediate and advanced skills to help indicate to teachers and materials developers as to how basic or interactive and sophisticated they can be in developing their ICT-based lessons. 
+- Source of learning of computer and related ICT skills - Determining who taught the learners how to use computers helps determine whether source of learning was effective, credible, and authoritative. Adequate and systematic and whether further and more formal training is required.  
+- Use of ICT in schoolwork by learners- Number of learners in a school who are able to use ICT for the following purposes in greatest degree: informative, functional, creating and communication to determine level of expertise and guide school/NFE authorities, curriculum developers and teachers where to focus more as far as preferred use of ICT is concerned.
+- Favourite uses of computers - These activities may be and may not be linked to schoolwork or learning situations to determine whether computers are being used for productive or unproductive purposes as far as learning is concerned as well as identify favourite activities which can result in learning as by-product of such activities.
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+CES/SEM.52/6
+Page 16
+
+
+CES/SEM.52/6
+Page 17
+
+
+GE.03-32279
+

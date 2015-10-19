@@ -1,0 +1,156 @@
+[Start1]
+
+Committee on Conferences
+	Substantive session of 2012
+4-10 September 2012
+Item 5 of the agenda*
+Matters relating to documentation and publications
+
+
+
+		The paper-smart concept: a preliminary evaluation
+
+
+		Note by the Secretariat
+
+
+	I.	Background
+
+
+1.	At its sixty-sixth session, having considered the report of the Committee on Conferences for 2011 (A/66/32) and the relevant report of the Secretary-General (A/66/118), the General Assembly adopted resolution 66/233 of 24 December 2011, in which it noted the “emerging” concept of “paper-smart” meetings and requested the Secretary-General to submit to the General Assembly a report on its implementation. In section IV, paragraphs 23 and 24, of the resolution, the General Assembly requested the Secretary-General to report to it on nine detailed elements of the paper-smart concept, including lessons learned from implementing the paper-smart concept on a trial basis. 
+
+
+	II.	The nine detailed elements
+
+
+2.	As requested by the Assembly, the present note outlines the actions already taken by the Department for General Assembly and Conference Management (DGACM) to address the nine detailed elements identified, as well as the lessons learned on implementation to date. Initial efforts were focused on conducting the United Nations Conference on Sustainable Development, held in Rio de Janeiro, Brazil, from 20 to 22 June 2012 (Rio+20) as a paper-smart conference. Under the 10/4/6 rules of submission, however, a formal report of the Secretary-General for consideration by the Committee on Conferences would have had to be submitted by 26 June, just four days after the conclusion of Rio+20. Since lessons learned could not realistically be assessed until July, the present conference room paper is presented to the Committee as a preliminary evaluation of the Department’s paper-smart experience to date.
+	1.	Definition of the “paper-smart” concept
+
+3.	For many years, the meetings of the Committee on Non-Governmental Organizations and the United Nations Environment Programme (UNEP) were serviced in a “paperless” manner. More recently, the Committee on Conferences has also conducted paper-smart meetings. In introducing the paper-smart concept to the Secretary-General on 20 July 2011, the Under-Secretary-General for General Assembly and Conference Management outlined a business model to conduct paper-smart meetings resting on four pillars:
+	(a)	PaperSmart Portal. A web-based portal providing secure access to documents and information related to specific meetings; 
+	(b)	E-publishing. Publishing of documents and information in electronic formats accessible by a variety of mobile devices; 
+	(c)	E-media. Distribution of documents and information via tablets, flash drives and CD-ROMs; 
+	(d)	Print-on-demand. On-demand issuance of hard-copy documents. 
+The model provides an integrated and re-engineered, “lean” approach to managing meetings and documents through the strategic utilization of information technology. By printing only on demand, the Organization is reducing waste by providing hard copies only to those clients that request such copies. At the same time, the Organization acknowledges that each delegate is unique and will thus need a combination of services. This approach is, therefore, addressing the various “gaps” that may affect the success of the paper-smart approach: technological, cultural, generational, income and/or geographical.
+4.	An important premise of the paper-smart business model is that any document or information that a meeting participant expects to receive in paper format will also be made available in a variety of electronic formats. In other words, the paper-smart concept ensures that paper copies will always be provided to meeting participants on demand and that digital copies will always be provided in various formats as well.
+
+	2.	Identifying appropriate technologies
+
+5.	The core technological component of the paper-smart model is the PaperSmart Portal, which is being developed by the Office of Information and Communication Technology (OICT). DGACM provided written requirements to OICT in October 2011, requesting a solution that:
+	(a)	Would be scalable and modular for all Charter and calendar bodies of the United Nations;
+	(b)	Would harmonize the work processes involved and present an integrated global management (IGM) solution to all entities of the Secretariat servicing a meeting or conference of the United Nations, across all duty stations. 
+OICT has selected an open-source Drupal technology for the Portal. Since the paper-smart concept is global and all duty stations would eventually use the same tools and technologies to organize paper-smart meetings and conferences, it follows that both the development and the infrastructure maintenance of PaperSmart technology are the obligation of OICT. Therefore, the Portal is modular, meaning that only limited work should be required to “create” each new paper-smart meeting within the global PaperSmart Portal. 
+	3.	Technological benchmark 
+
+6.	No technological benchmarking has been established to date since comparable business models are unknown. This arises mainly from:
+	(a)	The complexity of the agenda-based meetings of the United Nations, especially regarding the various “roles” of meeting participants, such as delegates, media, general public, interpreters, chairs, etc.; 
+	(b)	The different access rights of participants to meeting outcomes, such as restricted documents, chair’s notes, speakers lists etc. 
+
+	4.	Procurement needs
+
+7.	There are no procurement needs since the business model and the PaperSmart Portal are being developed internally and within existing resources. 
+
+	5.	Provision of technological support to Member States
+
+8.	Whenever a paper-smart meeting is held, the staff of the meetings service desk inside the meeting room will assist delegates with all four paper-smart pillars (Portal, ePublishing, eMedia and Print-on-demand). The meetings service desk will be supported by a centralized control room, which will service all meeting rooms at the same time and will have expert staff ready to deal with more complex technological challenges. 
+
+	6.	Business continuity plans 
+
+9.	The PaperSmart Portal is maintained by OICT in New York. The business continuity plan is based on two backup systems: one virtual mirror in New York and a full backup in the OICT service centre at Brindisi or Valencia. Loss of data should never exceed one business hour. 
+
+	7.	Human resources implications
+
+10.	The appeal of the paper-smart model is not a reduced workforce but its transformation into a mobile, multilingual, and technologically savvy workforce, which would be able to provide the scope of services needed for intergovernmental meetings instantly and as required. It is the experience of DGACM, having conducted a few paper-smart meetings, that each paper-smart conference will require fewer human resources than a conventional meeting provided that staff members have been cross-trained in all aspects of their tasks, while at the same time the business model may require the creation of a small number of new junior Professional posts at Headquarters to address certain specialized functions, including, but not limited to:
+	(a)	Operation of the Portal; 
+	(b)	Operation of a centralized control room;
+	(c)	Servicing of all meetings held at Headquarters; 
+	(d)	Further training. 
+Overall net staffing needs of meetings servicing would be reduced. 
+
+	8.	Training needs at the four duty stations
+
+11.	DGACM has already conducted extensive training sessions, involving a total of 180 staff members, including a team of interpreters from Nairobi, to prepare staff to service meetings held on the paper-smart model. The model that has emerged from the training sessions that are held at Headquarters could be standardized for replication at all duty stations. 
+
+	9.	Document and data security and archiving
+
+12.	Documents and data are protected by password-based access rights. Each participant will have a “role” (delegate, interpreter, chair etc.) that allows the appropriate level of access to a “product” (document, audio file etc.) that is linked to the agenda of that particular meeting. Previous meetings will continue to be available on the Portal on a permanent basis for the purpose of knowledge management. 
+
+
+	III.	Lessons learned
+
+
+13.	DGACM will conduct extensive analyses and summarize lessons learned from all duty stations and all paper-smart meetings, and formulate a policy for sustainable meetings for the future. The deliverable would be a strategic policy on the sustainable servicing of United Nations meetings and conferences. As a preliminary contribution to the formulation of that policy, the seven key lessons learned during Rio+20 are described below. At the video conference on 5 September 2012 with members of the Committee on Conferences, all duty stations will share their experiences and observations.
+
+	1.	Full multilingual delivery
+
+14.	It was of high value that the Portal was developed in all the six official languages. This means that not only the conference documents themselves but also the environment in which they were processed, including notifications of errors etc., were made available to participants in all six official United Nations languages.
+
+	2.	Ease of uploading statements of delegates to PaperSmart Portal
+
+15.	The option to electronically deliver statements for uploading on the PaperSmart Portal was very well received by Member States. Once they realized that their texts became immediately available to all, including the media and the general public, delegations quickly embraced this option. At Rio+20, only one statement was distributed on paper. 
+
+	3.	Reduced printing
+
+16.	Only 60,000 pages were printed on demand at Rio+20. By comparison, about 250,000 pages are printed on an average day at Headquarters. 
+
+	4.	Popularity of eMedia pillar
+
+17.	The demand for memory sticks containing all documents issues at Rio+20, including statements, exceeded predictions. This solution, which is serviced by the third pillar of the PaperSmart business model, was a convenient way to archive documents for delegates who did not have stable access to web sources.
+	5.	Sharper task-oriented focus
+
+18.	The reduced paper flow allowed the conference to increase its focus on its core tasks since meetings servicing staff were not required to distribute paper documents and desks were not cluttered with paper copies of statements.
+
+	6.	Knowledge management efficiencies
+
+19.	For the sake of knowledge management, the Rio+20 record of proceedings is now available for decades to come, agenda item by agenda item, supported by all relevant documents and data, including statements, audio files and press releases. 
+
+	7.	Accessibility for visually impaired and hearing-impaired participants
+
+20.	Last but not least, the PaperSmart Portal itself, as well as all pre-session documents and the Journal at Rio+20, were made accessible to visually impaired participants using the various screen readers now available. In addition, the Portal made it possible for the hearing impaired to follow proceedings by means of subtitles and sign-language interpretation that were webcast through the Portal. 
+
+
+	IV.	Benefits of the paper-smart approach
+
+
+21.	In implementing the paper-smart business model at Rio+20 and elsewhere, benefits in the two key areas of sustainability and efficiency were readily realized as anticipated. In addition, unexpected new benefits emerged in two other areas — accessibility and knowledge management — that have since become equally important. Accordingly, the paper-smart business model has clear benefits in four important areas: sustainability, efficiency, accessibility and knowledge management.
+22.	Providing paper copies only on demand reduces waste and is, therefore, more sustainable.
+23.	Statements and other in-session documents become available more quickly and in a wider variety of formats, texts can be copied and worked on with greater flexibility, and files can be forwarded to capitals without delay. In addition, the paper-smart format is more useful for the media, while Member States realize savings by not having to print copies of statements at their own expense. In short, this is a more efficient approach which saves resources. 
+24.	Accessibility, in the spirit of the United Nations Convention on the Rights of Persons with Disabilities, is directly addressed by the paper-smart model and provides an infrastructure to fulfil some of the requirements of the Convention.
+25.	If meetings and conferences of the United Nations are held in this paper-smart way, their materials will be easily accessible and available on a permanent basis. A newcomer to a permanent mission or the Secretariat would be able to relive a previous meeting by easily reviewing its agenda items and all related documents and data on a single, user-friendly site. This should save considerable resources in training new staff. In addition, users will find the same look and feel when studying different meetings of United Nations bodies and will need only one user ID and password.
+
+	* 	A/AC.172/2012/1.
+[Start1]<<ODS JOB NO>>N1247428E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/AC.172/2012/CRP.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+A/AC.172/2012/CRP.1
+
+A/AC.172/2012/CRP.1
+
+12-47428
+
+712-4742
+
+A/AC.172/2012/CRP.1 
+27 August 2012
+
+Original: English
+
+12-47428 (E)   
+*1247428*
+
+A/AC.172/2012/CRP.1
+
+A/AC.172/2012/CRP.1
+
+12-474284
+
+512-47428
+

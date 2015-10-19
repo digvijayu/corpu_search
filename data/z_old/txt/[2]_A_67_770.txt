@@ -1,0 +1,1355 @@
+
+ United Nations  A/67/770
+
+  
+ 
+
+General Assembly  Distr.: General 
+1 March 2013 
+ 
+Original: English 
+
+ 
+
+13-24662 (E)    070313 
+*1324662*   
+
+Agenda item 128  
+Financial reports and audited financial statements,  
+and reports of the Board of Auditors 
+
+ 
+ 
+ 
+
+  Report of the Board of Auditors on the handling of 
+information and communications technology affairs 
+in the Secretariat 
+ 
+ 
+
+  Report of the Advisory Committee on Administrative and 
+Budgetary Questions 
+ 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the report of the Board of Auditors on the handling of information and 
+communications technology (ICT) affairs in the Secretariat (A/67/651). The 
+Committee also had before it the report of the Secretary-General on the 
+implementation of the recommendations contained in the Board‚Äôs report 
+(A/67/651/Add.1), as well as a separate memorandum prepared by the Board setting 
+out its detailed findings and recommendations on information security. The Advisory 
+Committee is of the opinion that it is up to the Board to determine whether and how 
+it wishes to disclose the details of this memorandum to the General Assembly.  
+
+2. During its consideration of the above-mentioned reports, the Advisory 
+Committee met with the members of the Audit Operations Committee as well as 
+with representatives of the Secretary-General, who provided clarification and 
+additional information in writing, concluding with written responses submitted on 
+28 February 2013.  
+
+3. The Advisory Committee recalls that in its resolution 66/246,1 the General 
+Assembly decided that the Office of Information and Communications Technology 
+and its budget would be placed under the Department of Management and that the 
+Chief Information Technology Officer would report to the head of the Department of 
+
+__________________ 
+
+ 1  In that resolution, the General Assembly also took action on the governance structure of the 
+enterprise resource planning project and requested the Advisory Committee to request the Board 
+of Auditors to conduct a comprehensive audit of the implementation of the project and to report 
+annually to the General Assembly, starting at the main part of its sixty-seventh session (see 
+A/67/164, A/67/360 and A/67/565). 
+
+
+
+A/67/770  
+ 
+
+13-24662 2 
+ 
+
+Management. The Assembly requested the Committee to request the Board of 
+Auditors to audit and evaluate the handling of ICT affairs in the Secretariat, 
+including the Office of Information and Communications Technology, and to report 
+thereon to the Assembly at the main part of its sixty-seventh session. The Committee 
+conveyed the Assembly‚Äôs request to the Board in a letter dated 17 January 2012.  
+
+4. The report of the Board of Auditors contains its findings and recommendations 
+resulting from an audit undertaken in October 2012 in response to the aforementioned 
+request. The report reflects, where appropriate, the Administration‚Äôs comments on 
+the findings, conclusions and recommendations of the Board (A/67/651, para. 13). 
+The Secretary-General‚Äôs response contained in the addendum to the report provides, 
+in particular, an update on the implementation of the recommendations related to 
+strengthening the security of information and systems across the Secretariat.  
+ 
+ 
+
+ II. Background 
+ 
+ 
+
+5. Background information is provided in paragraphs 1 to 10 of the report of the 
+Board. It is noted that the effective provision of ICT services is essential in 
+supporting a wide range of critical administrative and operational activities, both at 
+Headquarters and in the field, in the areas of peacekeeping, security, development, 
+human rights, international affairs and humanitarian assistance. In its resolution 
+66/246, the General Assembly underlined the importance of information and 
+communications technology in meeting the growing demands of the Organization as 
+it becomes increasingly reliant on its ICT infrastructure. The Assembly also 
+highlighted the importance of information and communications technology in 
+strengthening oversight and accountability and in increasing the availability of 
+accurate and timely information to support decision-making.  
+
+6. The Advisory Committee has frequently stressed the need for a coherent, 
+coordinated and accountable approach to managing ICT activities, not only within 
+the Secretariat but also across the United Nations system.2 The Secretary-General 
+has acknowledged that the lack of effective governance and leadership in this area 
+has resulted in a high level of duplication and fragmentation of the ICT function of 
+the Secretariat, with the creation of multiple ICT units in various departments and at 
+various duty stations, the lack of common standards and processes, the piecemeal 
+development of systems and the proliferation of duplicate and incompatible databases. 
+Such fragmentation has led to the inefficient and ineffective use of resources, 
+increasing the costs of ICT systems and infrastructure and making it difficult to 
+identify overall expenditures and assets (see A/60/692 and A/60/846/Add.1).  
+
+7. The Advisory Committee recalls that, as early as the fiftieth session of the 
+General Assembly, it highlighted the role of technology in realizing efficiency gains 
+and increasing productivity in the delivery of programmes and services, and also 
+called for a long-term coordinated ICT strategy and a plan for its implementation 
+throughout the Secretariat, including all duty stations (A/50/7/Add.16, para. 37). 
+The General Assembly first requested the Secretary-General to develop a 
+comprehensive strategy for the development and implementation of information 
+technology in its resolution 54/249. The initial proposals of the Secretary-General 
+
+__________________ 
+
+ 2  See A/54/7, paras. 80-92; A/55/7/Add.8; A/56/7, paras. 80-94; A/57/772, paras. 100-106; A/58/7, 
+paras. 114-126; A/60/7, paras. 110-112; A/60/735 and Corr.1, paras. 15-18; and A/60/870, para. 16.  
+
+
+
+ A/67/770
+ 
+
+3 13-24662 
+ 
+
+for an ICT strategy and a plan of action to guide the development of ICT at the 
+United Nations, submitted at the fifty-fifth and fifty-seventh sessions, did not produce 
+the desired results.3 Subsequently, in the context of management reform initiatives 
+launched in response to the 2005 World Summit Outcome (resolution 60/1), the 
+Assembly approved the Secretary-General‚Äôs proposals to establish the post of Chief 
+Information Technology Officer and to replace the Integrated Management 
+Information System with a next-generation enterprise resource planning system 
+(resolution 60/283).  
+
+8. In 2008 the General Assembly, in its resolution 63/262, adopted a new ICT 
+strategy for the United Nations.4 The three broad goals of the strategy were: (a) to 
+align ICT with the mission and work programmes of the Secretariat; (b) to allow 
+personnel and their stakeholders to connect and share knowledge anytime, 
+anywhere; and (c) to deploy and utilize institutional resources efficiently (see 
+A/62/793, para. 13).  
+
+9. That ICT strategy was based on strong central leadership for the establishment 
+and implementation of Organization-wide ICT standards and activities and a 
+decentralized approach to operations. Three broad areas of critical requirements were 
+identified that needed to be addressed in a coherent manner across the Secretariat and 
+delivered centrally: (a) resource management to aid administrative groups in managing 
+financial, human, physical and other resources; (b) knowledge management to aid 
+substantive and other departments in managing their unstructured information; and 
+(c) infrastructure management to aid ICT specialists in providing secure and continuous 
+operations, including data centres, communications, service desks and disaster 
+recovery and business continuity capabilities.  
+
+10. Three Organization-wide programmes were established in the Office of 
+Information and Communications Technology at the time of its creation, in January 
+2009, to deliver the approved ICT strategy over a three- to five-year period. For 
+each programme, the strategy set out the goals, objectives and key actions to be 
+undertaken to address gaps and organizational requirements, as well as the expected 
+benefits. It was envisaged that a number of projects would be planned and 
+implemented over the next five years under each of the three programmes. For 
+example, the enterprise content management project was to be implemented under 
+the knowledge management programme, and the resource management programme 
+would cover the customer relationship management (iNeed) and enterprise resource 
+planning systems. It was expected that as those enterprise-wide systems were 
+implemented and a common set of standards, processes and tools were adopted, the 
+level of fragmentation and duplication would decrease.  
+
+11. The strategy approved by the General Assembly in 2008 also established an 
+ICT management structure and governance framework comprising: (a) a high-level 
+executive committee on ICT to make decisions on investments and priorities; 
+(b) advisory groups representing the client departments of ICT services to provide 
+input on their requirements and priorities; (c) a Chief Information Technology 
+Officer responsible for the overall direction and performance of ICT activities in the 
+Organization; (d) a central, independent Office of Information and Communications 
+
+__________________ 
+
+ 3  See the reports of the Secretary-General on the ICT strategy: A/55/780 and A/57/620; related 
+reports of the Advisory Committee: A/56/7 and A/58/7; and General Assembly resolutions 
+56/239 and 57/304. 
+
+ 4  See also A/62/793 and Add.1 and A/63/487. 
+
+
+
+A/67/770  
+ 
+
+13-24662 4 
+ 
+
+Technology,5 headed by the Chief Information Technology Officer and reporting to 
+the Executive Office of the Secretary-General through the Deputy Secretary-
+General, to provide central leadership in the area of ICT for the Organization, set 
+Organization-wide standards and policies, plan and coordinate Secretariat-wide 
+activities, provide enterprise systems and infrastructure and consolidate the 
+‚Äústrategic‚Äù or central functions previously performed by ICT units across the 
+Secretariat, as well as to deliver ICT services at Headquarters; and (e) decentralized 
+ICT units in Secretariat departments and at offices away from Headquarters to 
+provide departmental systems and services based on organizational standards 
+established by the Office of Information and Communications Technology and to 
+deal with local and operational issues. The structure of the Office of Information 
+and Communications Technology was aligned with the ICT strategy and its three 
+Organization-wide programmes.  
+
+12. In addition, the ICT strategy envisaged the development of: (a) a performance 
+management framework to improve objective tracking of key measures of 
+performance, staff skills and management of ICT resources in order to enhance 
+service delivery; (b) a global service-oriented architecture and strong technical 
+standards to ensure harmonization and interoperability in order to enable the 
+consolidation of ICT assets, systems and services and drive down acquisition and 
+maintenance costs; and (c) a global financial framework to enforce financial discipline 
+and accountability for all spending on ICT and reduce costs through consolidation, 
+centralized purchasing and improved efficiency, with a view to making more funds 
+available for discretionary programmes.  
+
+13. The Secretary-General also submitted in a separate report (A/62/510/Rev.1) 
+proposals for enterprise systems to be managed centrally for the entire Organization 
+under the authority of the Chief Information Technology Officer, namely, enterprise 
+content management, customer relationship management and enterprise resource 
+planning, including, for each system, the proposed governance structure, 
+implementation strategy, timetable and budget estimates. In its resolution 63/262, 
+the General Assembly recognized the benefits of the implementation of the customer 
+relationship management and enterprise content management systems and requested 
+the Secretary-General to continue to implement those applications throughout the 
+Organization, as appropriate, under the authority of the Chief Information Technology 
+Officer in order to ensure a coordinated approach to the development of enterprise 
+systems. The Assembly provided $2 million of the $22 million requested by the 
+Secretary-General for the implementation of those projects, and asked him to meet 
+the remaining requirements from within the overall resources appropriated under the 
+programme budget. The Assembly also approved the implementation of the enterprise 
+resource planning system and the proposed governance framework of the project, 
+under which the project director would report to the Under-Secretary-General for 
+
+__________________ 
+
+ 5  Established under a separate budget section pursuant to General Assembly resolution 63/262, 
+through the redeployment of the entire staffing and resources (regular budget, support account 
+and extrabudgetary) of the Information Technology Services Division of the Office of Central 
+Support Services of the Department of Management; the transfer of the ‚Äústrategic activities‚Äù of 
+the Information and Communications Technology Division of the Department of Field Support 
+with the redeployment of peacekeeping support account resources in the amount of $5,017,500 
+(comprising $4,255,500 for non-post resources and $760,000 to provide for the redeployment of 
+10 posts (3 P-4, 4 P-3, 2 P-2, 1 General Service (Other level)); and the redeployment of the post 
+of the Chief Information Technology Officer from budget section 1.  
+
+
+
+ A/67/770
+ 
+
+5 13-24662 
+ 
+
+Management in her capacity as the Chair of the Enterprise Resource Planning 
+Steering Committee and to the Chief Information Technology Officer on day-to-day 
+project management and technology issues. Subsequently, at the request of the 
+Assembly, in its resolution 64/243, the Secretary-General submitted annual progress 
+reports on the implementation of the enterprise resource planning project (Umoja).  
+
+14. Following the adoption of the ICT strategy in 2008, the General Assembly, in its 
+resolution 63/262, requested the Secretary-General to provide a comprehensive 
+inventory of ICT capacities across the Secretariat, including both dedicated and 
+part-time personnel. On the basis of a preliminary review in 2008 and a more 
+comprehensive assessment of more than 70 ICT units conducted in 2010, the 
+Secretary-General, in his progress report on the implementation of the ICT strategy 
+(A/65/491), for the first time provided estimates of overall Secretariat expenditures, 
+assets, resources and staffing for ICT, which are summarized in the table below. The key 
+findings of the review were that the ICT environment and processes of the 
+Organization remained highly decentralized, fragmented, duplicative and 
+non-standardized, thereby driving up the costs of operations and preventing the 
+Organization from realizing economies of scale. Furthermore, a large proportion of 
+resources were directed towards infrastructure and routine operational tasks, and 
+ICT support for programmatic, substantive, administrative and managerial activities 
+was lacking. The review revealed that expenditures of the United Nations on ICT 
+were high, rising to some $774 million, with a total staff count of more than 4,200, 
+including personnel financed by regular budget, peacekeeping, support account and 
+extrabudgetary sources, some 70 ICT units, 211 data centres and server rooms, 
+131 service desks and 1,994 application programmes.  
+ 
+
+  Key ICT statistics based on the 2010 structural review  
+ 
+
+Key indicators Headquarters
+
+Offices 
+away from 
+
+Headquarters, 
+regional 
+
+commissions, 
+others
+
+Peacekeeping 
+and special 
+
+political 
+missions Total 
+
+Annual ICT budget  
+(millions of United States dollars) 149 62 563 774 
+
+ICT personnel 770 688 2 761 4 219 
+
+ICT job titles ‚Äì ‚Äì ‚Äì 173 
+
+ICT units 21 15 34 70 
+
+Application programmes 841 825 328 1 994 
+
+Physical servers 888 1 322 2 347 4 557 
+
+Data centres/server rooms 8 89 114 211 
+
+Desktop computers and laptops  17 244 18 435 48 117 83 796 
+
+ICT service desks 20 27 84 131 
+
+Service desk requests (annual) 292 511 225 597 628 521 1 146 629 
+ 
+ 
+
+15. In his progress report (A/65/491), the Secretary-General also highlighted the 
+difficulties encountered in determining consolidated budget and staffing figures. 
+Because of the lack of consistent and comparable data across the Organization, the 
+overall budget estimate was based on a time-consuming manual compilation of 
+
+
+
+A/67/770  
+ 
+
+13-24662 6 
+ 
+
+information from a variety of documents, making it difficult to track the costs of ICT 
+activities on a regular basis. Similar difficulties were encountered in determining the 
+number of staff, owing in particular to the existence of multiple repositories based 
+on the type of personnel (staff, contractors, consultants, volunteers) and the lack of 
+standard ICT job titles. For example, the staff count did not include personnel who 
+performed ICT functions but were not a part of a formal ICT unit or did not hold an 
+ICT job title. The Secretary-General noted that the inability to easily monitor and 
+report on the Secretariat-wide ICT budget and staffing significantly limited the 
+effective global management of ICT. He highlighted the need for a consistent and 
+streamlined global chart of accounts and a supporting financial system with the 
+capability of tracking the costs of ICT activities on a regular basis, as well as 
+standardized functional titles and job descriptions for ICT personnel.  
+
+16. On the basis of the findings of the review, the Secretary-General proposed four 
+structural review projects aimed at streamlining and standardizing the ICT environment 
+across the Secretariat: (a) globalize service desks to reduce their number, provide 
+round-the-clock service and introduce automated and standardized service desk 
+technologies and self-service tools for end users; (b) streamline and consolidate data 
+centres, server rooms and servers, establishing a minimum number of enterprise and 
+duty station data centres, and provide round-the-clock service; (c) rationalize the 
+ICT organization, establishing the boundaries of ICT functions, implementing a 
+global staffing model, reviewing ICT units and formulating recommendations for 
+the implementation of organizational change in the ICT management structure, 
+including the consolidation of multiple ICT units within the same department; and 
+(d) strengthen the Office of Information and Communications Technology, 
+augmenting its capacities in such strategic, high-priority areas as policy formulation, 
+oversight and coordination, architecture and standard-setting, enterprise application 
+development, global portfolio management and conduct of departmental ICT budget 
+reviews. The overall resources proposed for the four projects over a five-year 
+implementation period from 2011 to 2015 amounted to $140.7 million, proposed to 
+be funded on the basis of a cost-sharing arrangement from regular budget, 
+peacekeeping and extrabudgetary resources.  
+
+17. In its resolution 65/259, the General Assembly authorized the Secretary-
+General to proceed with structural review project 3 (rationalizing the ICT 
+organization) and decided that the $1.5 million required for the project for 2011 
+would be provided from within the resources approved for the biennium 2010-2011. 
+The Assembly decided to provide general temporary assistance equivalent to seven 
+P-4 positions for structural review project 4 (strengthening the Office of Information 
+and Communications Technology), of which five were to be funded from within 
+existing resources for 2010-2011. The Assembly also decided not to approve any 
+funding related to the other two projects and requested the Secretary-General to 
+review the proposals on the implementation of the ICT strategy contained in his 
+report (A/65/491) and submit new and/or revised proposals in the context of the 
+proposed programme budget for the biennium 2012-2013.  
+
+18. In his subsequent report on enterprise ICT initiatives (A/66/94), the Secretary-
+General presented four revised cross-cutting, Organization-wide initiatives at a total 
+cost of $42.8 million for the biennium 2012-2013, as follows: (a) improve enterprise 
+ICT management, integrating earlier proposals for project 3 (rationalizing the ICT 
+organization) and project 4 (strengthening the Office of Information and 
+Communications Technology); (b) leverage knowledge through ICT, formerly referred 
+
+
+
+ A/67/770
+ 
+
+7 13-24662 
+ 
+
+to as ‚Äúenterprise content management‚Äù (resolution 64/243, para. 125); (c) enhance 
+ICT service delivery, revising the Secretary-General‚Äôs previous proposal for project 1 
+(globalizing service desks) and integrating ongoing implementation of the customer 
+relationship management system (see A/65/491); (d) create a resilient ICT 
+infrastructure, presenting a revised proposal for project 2 (streamlining data centres) 
+(ibid.), consolidating the requirements for a unified disaster recovery and business 
+continuity plan, including a permanent solution for Headquarters, in response to 
+General Assembly resolutions 63/262, 63/269 and 65/259.  
+
+19. The General Assembly, in its resolution 66/246, requested the Secretary-General 
+to implement initiative 1 (improve enterprise information and communications 
+technology management) and initiative 4 (create a resilient information and 
+communications technology infrastructure). It decided not to approve additional 
+funding for the implementation of those initiatives and did not approve the 
+remaining two initiatives. The Assembly further requested the Secretary-General to 
+submit any future funding proposals for major ICT projects for consideration by the 
+Assembly only after the full implementation of Umoja. As indicated in paragraph 3 
+above, in the same resolution the Assembly also took action on the management 
+arrangements of the Office of Information and Communications Technology.  
+ 
+ 
+
+ III. Context 
+ 
+ 
+
+20. The United Nations is actively engaged in the implementation of or envisages 
+launching a number of major business transformation and change management 
+initiatives, including the enterprise resource planning system, the International 
+Public Sector Accounting Standards (IPSAS), a revised service delivery model and 
+the global field support strategy, as well as ongoing human resources management 
+reforms. As highlighted by the Board, information and communications 
+technologies are an integral part of these business transformation initiatives, which 
+use technology to enable and deliver change. The Advisory Committee continues 
+to believe that the provision of appropriate ICT support as well as consistent, 
+comprehensive and reliable corporate information to support decision-making 
+is critical for the successful implementation of such initiatives.  
+ 
+ 
+
+ IV. General comments 
+ 
+ 
+
+21. The Board‚Äôs assessment of the handling of ICT affairs across the Secretariat 
+(see A/67/651) covers a broad range of elements, including the ICT strategy of the 
+United Nations; the alignment of the strategy with the Organization‚Äôs business model 
+and business transformation needs; the ICT governance framework; the role of the 
+Chief Information Technology Officer; the overall costs of the ICT function; the 
+staffing profile of the Office of Information and Communications Technology and 
+the skills base of people involved in ICT; and service management and technology, 
+including the management of ICT applications and information security issues.  
+
+22. The Board identified three key limitations of the current ICT strategy, including: 
+(a) insufficient emphasis on the enterprise resource planning system, which is the 
+single largest ICT-enabled business transformation project of the United Nations; 
+(b) insufficient prioritization of information security issues; and (c) insufficient 
+
+
+
+A/67/770  
+ 
+
+13-24662 8 
+ 
+
+recognition of peacekeeping activities, which account for some 75 per cent of 
+overall ICT expenditure (A/67/651, paras. 18 and 19).  
+
+23. The overall conclusion of the Board is that the Organization was unsuccessful 
+in enforcing a more centralized ICT implementation and delivery strategy.  
+
+24. The Board attributes this to a variety of factors, including: (a) the failure to 
+establish a common vision and commitment across the Organization; (b) the lack of 
+senior management support to drive more centralized decision-making and 
+corporate behaviour from the centre; (c) the fact that the governance structures did 
+not function effectively; (d) the fact that the role and authority of the Office of 
+Information and Communications Technology and its Chief were not clearly 
+defined, communicated or understood within the Secretariat; and (e) the inherent 
+difficulty in achieving business transformation solely through the work of a central 
+ICT function that lacks the authority to enforce change in an organization such as 
+the United Nations, which operates more as a network of organizations rather than 
+as a single, global and homogenous entity.  
+
+25. More broadly, the Board notes that the difficulties in implementing the ICT 
+strategy mirrored those experienced by the United Nations in delivering major 
+business transformation projects such as Umoja. These include the absence of an 
+overall coherent view, framework or planned agenda for business transformation; 
+the lack of clear and effective governance and accountability arrangements for such 
+major programmes; and weaknesses in control owing to the absence of regular 
+financial management information to inform decision-making.  
+
+26. The Board issued a series of recommendations for addressing the weaknesses 
+identified in the aforementioned areas (see para. 21 above), which have all been 
+accepted by the Secretariat. The Board notes both the Administration‚Äôs open 
+acknowledgement of the issues raised in the report and its commitment to act upon 
+them decisively to improve the current ICT situation in the Secretariat, including the 
+development of a new ICT strategy that is consistent with both United Nations 
+objectives and realistic ambitions for transformation. The Committee notes that the 
+Secretariat proposes to submit a new ICT strategy for consideration by the General 
+Assembly at its sixty-eighth session, in 2013 (A/67/651, summary).  
+
+27. Details on the Board‚Äôs recommendations and the actions envisaged by the 
+Secretariat for their implementation are reflected in the report of the Board, in 
+particular as regards the following:  
+
+ (a) The update and reformulation of the ICT strategy (ibid., paras. 21 and 22);  
+
+ (b) The comprehensive tracking of ICT expenditures and the funding of ICT 
+activities (ibid., paras. 29-33);  
+
+ (c) The United Nations operating and service delivery models (ibid., 
+paras. 39-43);  
+
+ (d) Clarification of the respective roles of chief information officer and chief 
+technology officer, as well as of the Office of Information and Communications 
+Technology (ibid., paras. 44-56);  
+
+ (e) The ICT governance framework (ibid., paras. 60-70);  
+
+
+
+ A/67/770
+ 
+
+9 13-24662 
+ 
+
+ (f) The staffing of the Office of Information and Communications 
+Technology and upgrading the skills of United Nations ICT personnel (ibid., 
+paras. 71-78);  
+
+ (g) ICT service management (ibid., paras. 79-85);  
+
+ (h) Software applications management strategy (ibid., paras. 86-92);  
+
+ (i) Information security (ibid., paras. 93-101).  
+
+28. The Advisory Committee commends the Board for the continued high 
+quality of its work and is satisfied by the scope and depth of its audit. It 
+welcomes the relevant and constructive recommendations issued by the Board for 
+addressing the serious weaknesses identified in its audit. The Committee appreciates 
+in particular the Board‚Äôs insights into the root causes and systemic weaknesses 
+hindering progress in the implementation of major business transformation 
+projects and management reform initiatives at the United Nations. It notes, for 
+instance, the Board‚Äôs observations on the complex and decentralized nature of the 
+United Nations and the need to gain a better understanding of Organization-wide 
+activities that require strong central control and those which merit greater 
+operational freedom. The Board‚Äôs audit also provides some clarification as to the 
+interdependencies between ICT reform and other ongoing business transformation 
+projects. In the view of the Committee, the independent assessment of the Board 
+constitutes a valuable tool for the Secretariat in analysing lessons learned and 
+charting a course of action for the future development of ICT at the United 
+Nations. It will also facilitate the consideration by the General Assembly of 
+progress in the implementation of major business transformation initiatives 
+such as Umoja, as well as decision-making on ICT investments. The Committee 
+considers that, in the future, the Board should be requested to conduct such 
+assessments earlier in the implementation cycle of major projects and 
+initiatives so as to ensure that issues are detected and reported to the Assembly 
+in a more timely fashion and that remedial action can be taken promptly.  
+
+29. The Advisory Committee is disappointed by the failure to successfully 
+implement the United Nations ICT strategy approved by the General Assembly more 
+than four years after its adoption, in 2008. The Committee is of the view that the 
+lack of senior management commitment, ownership and accountability were key 
+factors in this regard. The Board‚Äôs audit report demonstrates the Secretariat‚Äôs 
+weaknesses in delivering major business transformation projects and management 
+reform initiatives. The Committee recommends that the Secretary-General be 
+requested to lead a serious effort to fully analyse the lessons learned from the 
+problems encountered in the implementation of the ICT strategy and major 
+business transformation initiatives audited by the Board, such as Umoja, 
+IPSAS and the global field support strategy. The Committee stresses that senior 
+managers and other relevant staff should be fully engaged in this process in an 
+accountable manner and commit to bringing about the changes that are 
+necessary if the United Nations is to evolve into a modern, efficient and well-
+run organization. In this connection, the Committee notes the inclusion in the 
+senior managers‚Äô compacts with the Secretary-General of ICT- and Umoja-
+related objectives, indicators of achievement and performance measures, 
+starting in 2010. It considers that, if properly applied, the compacts could 
+constitute an effective instrument of accountability for performance and 
+compliance with organizational decisions and standards.  
+
+
+
+A/67/770  
+ 
+
+13-24662 10 
+ 
+
+30. In view of the setbacks experienced in successfully implementing major 
+business transformation projects and management reform initiatives, as well as the 
+limited capacity of the Organization to absorb such change, the Advisory 
+Committee recommends that the Secretary-General be requested to develop a 
+pragmatic, realistic and practical course of action for implementing the 
+recommendations issued by the Board. The Committee is of the view that the 
+implementation of the recommendations of the Board will involve a combination 
+of: (a) long-term planning to bring about the cultural, organizational and 
+structural changes that are needed to address root causes and systemic issues at 
+the organizational level; (b) medium- and short-term restructuring to improve 
+the handling of ICT at the United Nations and to better support the ongoing 
+implementation of business transformation initiatives; and (c) immediate 
+actions required to address urgent issues, including on information security 
+matters. The Committee considers that the Secretariat should prioritize its 
+efforts and, to the extent possible, adopt a sequential approach to the 
+implementation of the ICT strategy, which would clearly set out the actions to 
+be taken immediately and in the short-, medium- and long-term time frames.  
+
+31. In this regard, the Advisory Committee believes that the highest priority 
+should be given to identifying and putting into place the measures that are 
+required to ensure the successful implementation of all of the phases of Umoja 
+and ensuring that the Office of Information and Communications Technology 
+and other relevant departments, offices and units are able to support the 
+enterprise resource planning system autonomously in the post-implementation 
+phase. Such measures include, for example, the implementation of an 
+application management strategy to deal with the decommissioning of some 
+700 applications, centralized standards for desktop computers interfacing with 
+the enterprise resource planning system, the consolidation of help desks for 
+servicing Umoja users and the establishment of enterprise data centres for 
+hosting the enterprise resource planning software. The Committee stresses the 
+critical importance and priority of ensuring a successful outcome of the Umoja 
+implementation project, not only to protect the significant investment already 
+made by Member States, but also because Umoja is essential for improving 
+overall effectiveness and efficiency in the operations of the Organization. The 
+enterprise resource planning system is also a requirement, inter alia, for 
+completing and sustaining the transition to IPSAS, harmonizing and 
+standardizing business practices across the Organization, enhancing 
+management information to support better decision-making and enabling 
+business transformation and management reform initiatives, such as improved 
+accountability and a more efficient service delivery model.  
+
+32. The Advisory Committee also recommends that the Secretary-General be 
+requested, when developing his proposals for the implementation of the ICT 
+strategy or Umoja, to consider all options for the prioritization and 
+redeployment of resources and to avoid to the extent possible submitting 
+requests for additional resources. Given that Umoja will become an 
+Organization-wide resource that will benefit every department and office of the 
+Secretariat, the Committee recommends that the Secretary-General be 
+requested to make every effort to secure resources from within existing 
+resources in all departments and offices. In this connection, the Committee 
+recalls paragraph 106 of General Assembly resolution 66/246, in which the 
+
+
+
+ A/67/770
+ 
+
+11 13-24662 
+ 
+
+Secretary-General was requested to submit any future funding proposals for 
+major ICT projects only after the full implementation of Umoja. Any proposals 
+for additional resources for the implementation of the ICT strategy should be 
+accompanied by a cost-benefit analysis. The Committee further recommends 
+that the Secretary-General be requested to reflect the prioritization of Umoja-
+related activities in the proposed programme budget for 2014-2015.  
+
+33. The Advisory Committee has been informed that the Chief Information 
+Technology Officer position has been vacant since July 2012 and is under 
+recruitment. The Committee considers that the functions of the Chief 
+Information Technology Officer are crucial in ensuring the effective direction, 
+planning and management of ICT activities, particularly at a time when major 
+changes are occurring and important decisions on the direction of the ICT 
+function have to be taken. It therefore recommends that the Secretary-General 
+be requested to fill the position without further delay.  
+
+34. Despite the serious issues highlighted in the report, the Board recognizes that 
+the Administration has demonstrated important achievements at an operational level 
+and it notes the consistently positive feedback given by business users regarding the 
+Office of Information and Communications Technology and ICT staff in other 
+offices in the discharge of their operational functions and their commitment to 
+quality service.  
+
+35. The Advisory Committee stresses the need to protect the investments 
+made thus far in the implementation of the ICT strategy in such areas as the 
+customer relationship management system, enterprise content management, 
+portfolio management and enterprise identity management. The Committee 
+recommends that the Secretary-General be requested, when reformulating the 
+ICT strategy, to explore how the implementation of these systems will be 
+integrated into the strategy.  
+
+36. In the paragraphs that follow, the Advisory Committee comments on some of 
+the specific issues raised in the Board‚Äôs report.  
+ 
+ 
+
+ V. Observations and comments on specific aspects of the 
+handling of information and communications technology 
+affairs in the Secretariat  
+ 
+ 
+
+ A. United Nations operating and service delivery models  
+ 
+ 
+
+37. The Board of Auditors recommends that the Administration should recognize 
+the changes that need to be made in responsibilities and the operating model of the 
+Secretariat in order to deliver any new ICT strategy, and accept that senior 
+management as a whole is responsible for the delivery of Organization-wide changes 
+to support the Chief Information Technology Officer (A/67/651, summary). The 
+Secretariat indicates that a plan to review the current operating model and identify 
+opportunities to realize further benefits through changes to the service delivery model 
+is under way. Under the plan, process owners will have the ultimate responsibility 
+for identifying and implementing opportunities to improve the service delivery 
+model across the Secretariat. A report on global service delivery models is to be 
+submitted to the General Assembly at its sixty-eighth session (ibid., paras. 42 and 43).  
+
+
+
+A/67/770  
+ 
+
+13-24662 12 
+ 
+
+38. The Advisory Committee recalls that, in its first annual progress report on the 
+implementation of the enterprise resource planning system, the Board of Auditors 
+indicated that the redesign of the service delivery model should have been one of the 
+project‚Äôs priorities and that a Secretariat-wide approach to common service delivery 
+could facilitate the transition to the new enterprise resource planning system and 
+also generate considerable efficiencies in the long term (see A/67/164).  
+
+39. The Advisory Committee recommends that, in developing his report on 
+global service delivery models, the Secretary-General be requested to bear in 
+mind the opportunities offered by the enterprise resource planning system for 
+increasing productivity and cost-effectiveness in service delivery. Attention 
+should also be paid to ensuring that the proposed models are compatible with 
+the design of the Umoja solution, and that their adoption would not result in 
+cost escalation or further delays in the implementation of Umoja. The 
+Committee reiterates that any changes to the current service delivery model 
+must be approved by the General Assembly.  
+ 
+ 
+
+ B. Information and communications technology strategy  
+ 
+ 
+
+40. As noted above, the Board has identified three key limitations in the current 
+ICT strategy. It also states that the ICT strategy was delivered only partially and did 
+not achieve its three main goals because it did not provide a clear direction or 
+describe how ICT changes were essential to business needs or to the core objectives 
+of the United Nations or reflect the importance of the strategy for the implementation 
+of Umoja. Nor was it aligned with United Nations culture and practice, funded 
+appropriately or communicated effectively. It recommends that the Administration 
+develop a new ICT strategy that is consistent with United Nations objectives and 
+presents realistic ambitions for transformation (see paras. 22-27 above).  
+
+41. The Advisory Committee considers that the formulation of a new ICT strategy 
+that addresses the multiple, complex issues raised in the Board‚Äôs report represents a 
+major endeavour, which requires the leadership and input of the Chief Information 
+Technology Officer. It emphasizes that the strategy should take into account all the 
+recommendations of the Board, as well as the comments contained in the present 
+report. In the paragraphs below, the Committee comments on some of the key issues 
+to be considered in formulating a revised ICT strategy.  
+
+42. The Advisory Committee agrees with the Board that the ICT strategy should 
+be consistent with United Nations objectives and present realistic ambitions for 
+transformation. The Committee recommends that the Secretary-General be 
+requested to ensure that any proposals he submits for an updated or a revised 
+ICT strategy are closely aligned with the real needs of the Organization, in 
+particular those arising from ongoing or upcoming business transformation 
+initiatives, including Umoja, IPSAS and the global field support strategy.  
+ 
+
+  Centralization/decentralization  
+ 
+
+43. The Board states that both the ICT strategy and Umoja were designed to 
+enable a new, globally consistent operating model, but that the autonomous nature 
+of Secretariat entities and the existing business model were not sufficiently taken 
+into account in preparing for such a centralized ICT-enabled transformation 
+
+
+
+ A/67/770
+ 
+
+13 13-24662 
+ 
+
+(A/67/651, summary). It stresses that the revised ICT strategy should be more 
+realistic and take into account the highly decentralized nature of the Organization.  
+
+44. The Advisory Committee notes that a tension between centralization and 
+decentralization exists in all operating models. The Organization needs to come to 
+an agreement on how to adapt its current operating model to new requirements, and 
+also achieve an appropriate balance between those ICT activities that should be 
+centralized and those that should remain delegated to the local and regional levels. 
+As indicated by the Board, this will involve identifying precisely the activities that 
+require tighter control and should be managed centrally and those that can be 
+delegated to local ICT units (see A/67/651, para. 58). Figure III of the report of the 
+Board, provides an illustration of how this concept might work in the context of the 
+United Nations, using enterprise resource planning and information security as 
+examples of Organization-wide initiatives requiring tight central control. In this 
+connection, the Committee was informed by the Secretariat that a revised 
+governance structure was being envisaged, under which some decisions would be 
+taken centrally with the aim of achieving greater harmonization, while others would 
+be delegated to the local level. The revised arrangements would require promulgation 
+of a Secretary-General‚Äôs bulletin to define the roles and responsibilities of the Office 
+of Information and Communications Technology in this regard. The Committee 
+underscores the importance of the role of the Management Committee in facilitating 
+such an agreement and the requirement for senior managers to commit to applying 
+any Organization-wide decisions (see para. 29 above).  
+
+45. The Advisory Committee stresses that, regardless of the approach adopted, 
+there is a need to address comprehensively the question of the excessive 
+fragmentation of ICT capacities across the Secretariat revealed through the 
+structural review. That fragmentation results in the inefficient use of resources and 
+ineffective ICT service delivery (see para. 14 above). The Advisory Committee has 
+frequently stressed that the Organization would benefit greatly from more effective 
+leadership in the area of ICT at the United Nations and a more centralized approach 
+to managing ICT initiatives and operations Organization-wide. Existing 
+arrangements regarding ICT activities do not provide a coherent strategy and make 
+it difficult to identify all ICT assets, develop and enforce standard methodologies 
+and implement Organization-wide systems. This has led to the proliferation of 
+incompatible and duplicative ICT systems (see para. 6 above).  
+
+46. Another major limitation highlighted by the Board, which needs to be 
+addressed when formulating a new ICT strategy, is the question of the inclusion of 
+peacekeeping ICT capacities, which represent 75 per cent of ICT resources (see 
+para. 22 above). During the Advisory Committee‚Äôs exchange of views with the Audit 
+Operations Committee, it acknowledged that the size of the Information and 
+Communications Technology Division of the Department of Field Support relative 
+to that of the Office of Information and Communications Technology did indeed 
+pose some challenges. The Audit Operations Committee was of the view that the 
+United Nations needed to consider whether the Information and Communications 
+Technology Division should operate as a separate business unit or whether it should 
+follow the strategic lead of the Office of Information and Communications 
+Technology. A small strategic centre could command authority over a larger 
+operational unit, if, among other things, the United Nations had a clear 
+understanding of its operating model, clearly defined responsibilities and 
+accountabilities, and appropriate management capability and commitment. The 
+
+
+
+A/67/770  
+ 
+
+13-24662 14 
+ 
+
+Audit Operations Committee further indicated that, regardless of the arrangement, it 
+was of the view that any ICT strategy for the United Nations that did not encompass 
+peacekeeping operations would lack credibility. The Advisory Committee 
+recommends that the Secretary-General be requested to thoroughly explore this 
+question in the context of the formulation of a new ICT strategy.  
+ 
+
+  Alignment of the information and communications technology strategy with 
+major business transformation projects and prioritization of Umoja 
+ 
+
+47. The Board is of the view that any major ICT-enabled business change should 
+be a significant element of an ICT strategy. It considers that one of the key 
+limitations of the United Nations ICT strategy was that it did not reflect the 
+importance of ICT reform for the implementation of Umoja or establish a clear and 
+shared vision of how ICT innovation could support business needs and the 
+achievement of United Nations core objectives. The Board recommends that the 
+Administration develop a new ICT strategy, including a United Nations-wide 
+information strategy and an enterprise architecture framework that describes how 
+information and technology will support and provide benefits for the Organization. 
+In its response, the Secretariat accepted the need to update and reformulate its ICT 
+strategy and to align the new strategy with the implementation of Umoja and with a 
+broader business support strategy that defines the service delivery model of the 
+Organization (ibid., paras. 20 and 21). 
+
+48. The Advisory Committee shares the Board‚Äôs concerns in this regard. In its 
+reports on the implementation of Umoja (see A/63/487, A/64/7/Add.9, A/65/576, 
+A/66/7/Add.1 and A/67/565), it has consistently stressed the need for increased 
+collaboration between the Office of Information Communications Technology, the 
+enterprise resource planning project team and the Information and Communications 
+Technology Division of the Department of Field Support in areas such as: (a) the 
+establishment of the technical infrastructure of the enterprise resource planning 
+system; (b) the alignment of technical standards of the enterprise resource planning 
+project with those of the Office of Information and Communications Technology; 
+(c) the development of interfaces between legacy systems and the enterprise 
+resource planning system; (d) the cleansing, conversion and migration of data; 
+(e) the establishment of a comprehensive inventory and classification of existing 
+systems, in particular those that are to be interfaced to or replaced by Umoja; and 
+(f) the establishment of plans for the timely decommissioning of existing systems to 
+be replaced by Umoja. The Committee has also emphasized the need to involve the 
+personnel responsible for the development/maintenance of existing systems, who 
+possess critical information about data sources and structures, interfaces and 
+supporting infrastructure, as well as to avoid any duplication of effort. 
+
+49. The Advisory Committee is not convinced that, at this stage, sufficient 
+collaboration exists among the enterprise resource planning project team, the 
+Office of Information and Communications Technology and other ICT units. 
+
+50. The Advisory Committee notes that the implementation of Umoja will 
+necessarily entail some standardization and consolidation of ICT capacities, in 
+particular with respect to software applications, data centres, help desks, servers and 
+personal computers. For instance, the Secretary-General expects that some 700 of 
+the approximately 1,994 existing software applications will be replaced by Umoja 
+and eventually decommissioned (see paras. 52-55 below). Given that the enterprise 
+
+
+
+ A/67/770
+ 
+
+15 13-24662 
+ 
+
+resource planning software is to be hosted centrally at the enterprise data centres, it 
+is also likely that some of the 211 existing data centres/server rooms will become 
+redundant and that the help desks servicing the applications to be decommissioned 
+will be closed. Furthermore, server and desktop standards will need to be aligned to 
+the requirements of the enterprise resource planning system (see paras. 56 and 57 
+below). The Committee recalls that, in his first progress report on the 
+implementation of Umoja, the Secretary-General indicated that the implementation 
+of Umoja would result in productivity and efficiency gains that would have an 
+impact on staffing requirements and require alignment of skills to the new 
+technologies and methods of work (see A/64/380). The Committee stresses the 
+need, given the scale and scope of the implementation of Umoja at the United 
+Nations, to plan for the orderly consolidation of any ICT capacities that may 
+occur as a result of the implementation of the system. The Committee also 
+believes that the Umoja project team should focus its efforts on the 
+implementation of the project and business transformation requirements, and 
+that the Office of Information and Communications Technology, the 
+Information and Communications Technology Division and other relevant units 
+should provide the necessary support to address the above-mentioned issues.  
+
+51. The Advisory Committee considers that the implementation of Umoja 
+provides a unique opportunity to test and implement some key aspects of the 
+ICT strategy in a pilot environment. The lessons learned during the pilot could 
+provide valuable insights and facilitate development of an ICT strategy that is 
+well adapted to addressing the complexity, requirements and organizational 
+specificities of the United Nations. Accordingly, the Committee recommends 
+that the Secretary-General be requested to carry out in-depth analyses of the 
+ICT activities required to support the deployment of Umoja and to establish a 
+plan for implementation of those activities under the leadership of the Chief 
+Information Technology Officer and the Office of Information and 
+Communications Technology. The Secretary-General should also analyse the 
+interdependencies of the ICT strategy, Umoja and any approved operating 
+models/service delivery models. The Committee recommends that the 
+Secretary-General be requested to report on the outcome of the above studies 
+in his report on the ICT strategy.  
+ 
+ 
+
+ C. Application management strategy  
+ 
+ 
+
+52. The Board recommends that the Administration develop an application 
+management strategy to minimize security risks and reduce costs while also 
+addressing enterprise-wide applications and any necessary data migration 
+(A/67/651, para. 92). It notes that the Administration has no overall software 
+application strategy and that there is no central control, funding or planning for 
+United Nations software applications. The Board notes that the Office of 
+Information and Communications Technology is responsible for managing eight 
+applications with a wide reach, known as enterprise applications, and some 30 other 
+applications based on Lotus Notes. The Board further notes that, of the 1,994 
+applications in use in the Secretariat, most have been developed locally and perform 
+duplicate functions, despite the Administration‚Äôs efforts to control ICT expenditure 
+above certain limits and the introduction of a review and approval process for new 
+ICT products (ibid., paras. 86 and 88).  
+
+
+
+A/67/770  
+ 
+
+13-24662 16 
+ 
+
+53. The Board indicates that the lack of an overall strategy for applications has 
+resulted in uncertainty regarding investments and priorities for ICT. It also exposes 
+the Organization to security risks and increases the risk of duplicate expenditures 
+and of exploitation by software vendors (ibid., para. 89). With regard to the 600 to 
+700 software applications expected to be decommissioned following the 
+implementation of Umoja, in its first annual progress report on the implementation 
+of the United Nations enterprise resource planning system (A/67/164), the Board 
+noted that there was a lack of planning with regard to how the Organization will 
+migrate from legacy systems, decommission them or use them to support the 
+transition to Umoja. In its current report, the Board notes that even after the 
+implementation of Umoja, more than 1,300 software applications will still be in use 
+across the Secretariat, which makes integration and information-sharing difficult. 
+The Board indicates that some applications could be adapted for enterprise-wide 
+use, while many others could be consolidated (ibid., paras. 90 and 91). The 
+Advisory Committee recommends that the Secretary-General be requested to 
+deal with this issue as a matter of priority.  
+
+54. The Advisory Committee shares the Board‚Äôs concerns with regard to the lack 
+of an application management strategy, as well as to the lack of planning for the 
+migration from legacy systems and decommissioning of systems related to the 
+implementation of Umoja. As indicated above, in the context of its consideration of 
+the Secretary-General‚Äôs annual progress reports on the implementation of Umoja, the 
+Committee has repeatedly stressed the need to establish, as a first step in planning 
+the decommissioning of systems, a comprehensive inventory of all the systems 
+providing core functions for the management of human, financial and physical 
+resources, which would also provide information on: (a) the systems to be replaced 
+by Umoja, which could be decommissioned; (b) the systems to be maintained, 
+which would be interfaced to Umoja; and (c) the systems to be maintained, for 
+which no interface was required (see A/65/576). It has also emphasized the need to 
+classify the systems in terms of their importance, taking into account elements such 
+as functionality, resource requirements, scale and scope. The Committee is of the 
+view that not much progress has been made to date in this regard.  
+
+55. The Advisory Committee considers that there is an urgent need to develop 
+and implement an Organization-wide application management policy, applicable 
+to all departments and offices at Headquarters, offices away from Headquarters, 
+regional commissions and field duty stations, in order to deal with the 
+consolidation of the 1,300 application programmes that will remain after the 
+implementation of Umoja (see para. 53 above) and halt the piecemeal 
+development/acquisition of software applications and the continued proliferation 
+of stand-alone, duplicate systems. The Committee recalls that it was precisely the 
+proliferation of stand-alone, incompatible and duplicative systems that led to its call 
+for a coherent strategy for the development of information technology at the United 
+Nations (see para. 6 above). The Committee recommends that the Secretary-
+General be requested to conduct a comprehensive review of the 1,994 existing 
+software applications and make proposals for reducing the number of 
+applications and eliminating duplications, as well as for addressing the question 
+of the decommissioning of applications discussed in the paragraphs above. It 
+further recommends that the Secretary-General be requested to present the 
+outcome of the review to the General Assembly in the context of his report on 
+
+
+
+ A/67/770
+ 
+
+17 13-24662 
+ 
+
+the ICT strategy, with options for improved and sustainable management of 
+ICT at the United Nations. The Committee intends to follow up on this matter.  
+ 
+ 
+
+ D. Information and communications technology equipment  
+ 
+ 
+
+56. The Board notes that individual departments are responsible for buying 
+desktops with funds from their own budgets and that there is no corporate oversight 
+of expenditure for such items. In addition, owing to local priorities, departments 
+often choose to delay upgrading their systems and redirect ICT funds for other 
+purposes, resulting in a fragmented, inconsistent desktop environment that limits the 
+roll-out of Secretariat-wide applications (see A/67/651, para. 87). The Advisory 
+Committee was informed that the introduction of the Umoja enterprise resource 
+planning software would require a standardized desktop environment throughout the 
+Secretariat.  
+
+57. The Advisory Committee recommends that the Secretary-General be 
+requested to ensure more effective and efficient use of ICT equipment, as well 
+as transparent reporting on holdings of ICT equipment and assets, including 
+personal computers, printers, telephones and servers.  
+ 
+ 
+
+ E. Information and communications technology costs  
+ 
+ 
+
+58. The Board indicates that there is limited visibility of ICT expenditure 
+throughout the Secretariat because the United Nations chart of accounts and 
+supporting financial system do not enable the costs of ICT activities to be routinely 
+tracked. The Board states that it can provide no assurance on the figure of 
+$774 million estimated in the 2010 review conducted by the Office of Information 
+and Communications Technology (see para. 14 above), which does not capture 
+actual expenditure and covers only proposed budgets because approved budgets do 
+not contain sufficient detail to isolate relevant ICT components. In addition, each 
+department and office has its own ICT budget and consolidated management 
+information on ICT budgets and expenditures is not routinely prepared, which 
+prevents the assessment, monitoring and prioritization of ICT funding across the 
+United Nations (see A/67/651, summary and paras. 26 and 27). As indicated above, 
+the Secretariat has acknowledged that it is unable to ensure that its investment in 
+ICT is being used effectively and efficiently.  
+
+59. The Board has recommended that the Administration clearly specify how the 
+chart of accounts in Umoja will enable ICT expenditure to be captured and 
+monitored effectively and that it consider whether any options for improving 
+management information on ICT expenditure could be pursued prior to the 
+implementation of Umoja. In its response, the Secretariat indicates that the new 
+chart of accounts that will be put in place with the implementation of Umoja will 
+allow the Administration to clearly programme and record ICT resources and 
+expenditures. Furthermore, in order to enable greater consistency and transparency 
+with regard to ICT funding and budgets and allow better management of costs and 
+effective prioritization, the Controller has required that proposed ICT budgets set 
+out (a) the cost of running day-to-day services; (b) the cost of licences and 
+maintenance costs for existing systems; (c) costs related to upgrading existing 
+service delivery (e.g. to improve security); and (d) new costs, including strategic 
+
+
+
+A/67/770  
+ 
+
+13-24662 18 
+ 
+
+requirements. The Secretariat also intends to strengthen the role of the Office of 
+Information and Communications Technology to monitor ICT resources in the 
+Organization by enforcing the reporting responsibilities of senior managers on ICT 
+resources and projects, as reflected in their compacts with the Secretary-General 
+(ibid., paras. 30, 31 and 33).  
+
+60. The Advisory Committee welcomes the actions proposed by the Secretary-
+General in response to the recommendations of the Board and recommends 
+that he be requested to ensure that the required data is captured and that 
+consolidated information on overall ICT budgets and expenditures is provided 
+to Member States, and furthermore, that every effort is made to utilize ICT 
+resources more efficiently and effectively. The Committee has, on several 
+occasions, called for increased transparency in the presentation of the ICT costs and 
+utilization of resources. In its first report on the proposed programme budget for the 
+biennium 2012-2013, the Committee recommended that, in the future, the Secretary-
+General should be requested to routinely provide in the introduction to the proposed 
+programme budget a consolidated picture of the totality of the resources proposed 
+for ICT, with a breakdown of the resources by budget section, distinguishing 
+between different sources of funding (regular budget, peacekeeping and 
+extrabudgetary resources). The Committee further recommended that future budget 
+submissions include, regardless of the source of funding, a clear ICT plan for each 
+budget section containing proposals for the implementation of ICT projects, together 
+with information on the expected results and benefits (A/66/7, paras. 116 and 117).  
+ 
+ 
+
+ F. Role and functions of the Chief Information Technology Officer  
+ 
+ 
+
+61. The Board considers that the scope and remit of the Chief Information 
+Technology Officer with regard to a strategic vision, business transformation and 
+leadership was not clearly defined, communicated or understood within the 
+Secretariat, nor was it clearly differentiated from the function of managing day-to-
+day ICT operations. It indicates that the designation of the Secretariat‚Äôs most senior 
+information officer as Chief Information Technology Officer (rather than as chief 
+information officer) contributed to the expectation that the post would have a 
+technical focus and encouraged behaviours that were consistent with an operational 
+view of ICT. As a result, the Chief Information Technology Officer and management 
+directed insufficient attention to: (a) transformation, change or strategic leadership 
+of the ICT function, and (b) the development and enforcement of Secretariat-wide 
+corporate guidance, frameworks, standards and policies (A/67/651, summary). The 
+Board discusses the respective functions of chief information officer and chief 
+technology officer in paragraphs 44 to 51 of its report.  
+
+62. The Board recommends that the Administration emphasize the strategic 
+priorities of the Chief Information Technology Officer by redefining the functions of 
+the post and amending the title, evaluate whether there is a need to appoint a chief 
+technology officer or designate an existing post with the specific function of 
+assisting the chief information officer in operational matters, and clearly define and 
+communicate the different roles of those two officers across the Secretariat, in 
+particular the scope and remit of the chief information officer with regard to strategy 
+and business transformation (ibid., para. 50). The Advisory Committee concurs 
+with the Board on the need to distinguish between the responsibilities related to 
+the achievement of strategic priorities and those for technology and operational 
+
+
+
+ A/67/770
+ 
+
+19 13-24662 
+ 
+
+issues, which are currently vested in the Chief Information Technology Officer 
+position. It considers that it is up to the Secretary-General to evaluate whether 
+there is a need to appoint a chief technology officer or designate an existing 
+post to assist the chief information officer in operational matters. The Advisory 
+Committee expects the Secretary-General to fully explain and justify any future 
+proposal he may make with regard to the management arrangements for the 
+Office of Information and Communications Technology.  
+ 
+ 
+
+ G. Performance management 
+ 
+ 
+
+63. The Board indicates that the Office of Information and Communications 
+Technology operates the service desk for Headquarters and maintains basic 
+information on the performance of this service, including, for instance, the number 
+of service requests received, fulfilled and cancelled. It further notes that business 
+users consistently gave positive feedback on the Office of Information and 
+Communications Technology (see A/67/651, para. 83 and para. 34 above). The 
+Advisory Committee welcomes this positive indicator of user satisfaction with 
+the performance of the Office of Information and Communications Technology. 
+It considers nevertheless that, in addition to the help desk statistics, there is a need 
+for more comprehensive performance information on the whole range of services 
+provided by the Office, including information on performance targets and 
+benchmarks against which progress could be measured, baseline information on 
+activity levels, costs and quality of services, as well as assessment of the progress 
+made towards the achievement of objectives. The Committee recommends that 
+the Secretary-General be requested to include, in any reformulated ICT 
+strategy, a comprehensive performance management framework based on well-
+defined concepts and effective mechanisms and tools for monitoring, evaluating 
+and measuring the results and impact of the activities implemented.  
+ 
+ 
+
+ H. Information and communications technology security  
+ 
+ 
+
+64. The Board is very concerned that the United Nations does not have an 
+adequately secure information environment, noting that there is no overall approved 
+information security policy, nor is there harmonization of the security environments 
+across the Secretariat. The Advisory Committee notes with concern the delays 
+experienced in adopting a Secretariat-wide information security charter and related 
+policies, as well as the Board‚Äôs statement that, even should the security charter be 
+issued by the Office of Information and Communications Technology, it is unclear 
+what status the document would have or how compliance would be monitored or 
+enforced. The Board also indicates that, while there is a security manager in the 
+Office of Information and Communications Technology, there is no authoritative 
+mechanism or mandate to improve security across the Secretariat. Furthermore, in 
+the absence of an overall information security policy, some departments, including 
+the Department of Field Support, have developed their own policies and security 
+approaches (ibid., paras. 95, 98 and 99).  
+
+65. As indicated in the report of the Board, its detailed findings and 
+recommendations in relation to ICT security are set out in a separate memorandum 
+addressed to the Chair of the Advisory Committee (see para. 1 above). In addition to 
+the comments included in the Board‚Äôs report, the Secretariat has submitted an 
+
+
+
+A/67/770  
+ 
+
+13-24662 20 
+ 
+
+addendum to the Board‚Äôs report (A/67/651/Add.1), which provides an additional 
+update on the actions that are being taken by the Administration to strengthen, as a 
+matter of urgency, information and system security across the Secretariat.  
+
+66. In the addendum, the Secretary-General indicates that an action plan is being 
+developed. The plan foresees the implementation of short-term measures to address 
+the most urgent shortcomings, as well as the definition of a sustainable medium- and 
+long-term strategy for information security. The Advisory Committee notes that the 
+action plan comprises a series of actions regarding preventive controls; improved 
+incident detection and response capabilities; and governance, risk and compliance. 
+The Secretary-General states that implementation of the action plan has 
+commenced: the first stage is expected to be completed in 2013 and full 
+implementation will continue in 2014. With regard to the actions to be taken in the 
+area of governance, risk and compliance, the Secretary-General indicates that an 
+information security charter and associated policy documents will be presented to 
+the Management Committee for adoption and promulgation, and the policies 
+established therein will be enforced throughout the Secretariat. 
+
+67. Upon enquiry as to the resource implications of the action plan, the Advisory 
+Committee was informed that some of the measures envisaged would require new 
+investments for hardware, software and/or services at the time of the initial 
+implementation, while others would also require additional resources for ongoing 
+operations. However, the additional measures envisaged to be implemented in the 
+immediate future were limited to the ICT environment at Headquarters, and any 
+related resource requirements would be covered by reprioritizing existing resources 
+within the Office of Information and Communications Technology. The Secretary-
+General further indicated that he intended to include, in his upcoming report on the 
+new ICT strategy, detailed resource requirements for a sustained Secretariat-wide 
+implementation of his action plan beyond 2013. The Committee recommends that 
+the Secretary-General be requested, when developing his proposals for the 
+implementation of the information security action plan, to make every effort to 
+prioritize and redeploy resources and to avoid, to the extent possible, 
+submitting requests for additional resources (see para. 32 above).  
+
+68. The Advisory Committee shares the Board‚Äôs concerns with regard to the 
+information security situation. It recommends that the Secretary-General be 
+requested to proceed with the implementation of his action plan as a matter of 
+priority, and ensure adoption, without further delay, of the information 
+security charter and associated policy documents in a manner that assures 
+accountability at all levels of the Organization. The Secretary-General should 
+also take prompt remedial action to address any hindrances that may arise to 
+the effective implementation of the action plan or the promulgation and 
+enforcement of information security policies throughout the Secretariat.  
+
+69. The Advisory Committee recommends that the Secretary-General be 
+requested to provide, in the context of the proposed programme budget for the 
+biennium 2014-2015, an update on the status of implementation of the actions 
+taken to address information security issues. The Committee further requests 
+the Board of Auditors to follow up on the implementation of its 
+recommendations in this regard. 
+ 
+ 
+
+
+
+ A/67/770
+ 
+
+21 13-24662 
+ 
+
+ VI. Conclusion 
+ 
+ 
+
+70. In the paragraphs above, the Advisory Committee has expressed it views 
+and made a number of recommendations with regard to the development of 
+proposals for a new ICT strategy for the United Nations. The Committee has 
+highlighted the need to absorb all the lessons learned from recent experience 
+and to adopt a pragmatic, practical and realistic approach to addressing the 
+unique requirements of the United Nations and designing solutions that are well 
+suited to its complex and decentralized organizational structures. Taking into 
+account the large number of major business transformation/management 
+reform initiatives currently under way, the Committee has also emphasized the 
+need to prioritize efforts, and, if necessary, to adopt a sequential approach to 
+the implementation of the ICT strategy should it not be feasible to implement 
+all aspects of the strategy simultaneously.  
+
+71. The Advisory Committee strongly believes that it is in the best interest of 
+the Organization to concentrate efforts and available resources, to the extent 
+possible, towards the implementation of Umoja in order to ensure a successful 
+outcome of this important project. The Committee has suggested an alternative 
+approach, in phases, to the formulation of a new ICT strategy, under which, in 
+the first phase, the ICT strategy would be reformulated to incorporate the 
+aspects necessary to support the implementation of Umoja and to develop, in a 
+subsequent phase, the full range of components of an ICT strategy for the 
+United Nations. The Committee believes that such an approach would allow the 
+Organization to address the urgent requirements of Umoja and also provide an 
+opportunity to test and implement some key aspects of the ICT strategy in a 
+pilot environment. It would also allow the United Nations to absorb more 
+gradually the significant cultural and organizational changes that will 
+undoubtedly result from the implementation of a comprehensive ICT strategy 
+and the modernization and consolidation of ICT capacities across the 
+Secretariat. 
+
+72. The Advisory Committee recognizes, however, that it is the prerogative of 
+the Secretary-General to propose a suitable approach for the formulation of a 
+new ICT strategy. It is of the view that any proposal submitted for 
+consideration by the General Assembly should be based on a thorough analysis 
+of the requirements of the United Nations, including the departments and 
+offices at Headquarters, offices away from Headquarters, regional commissions 
+and field duty stations. Any new strategy should include a detailed, workable 
+implementation plan and a fully justified cost-benefit analysis. The proposal 
+should also include details on ICT governance and management arrangements, 
+including information on lines of responsibility and accountability, as well as on 
+the senior responsible owner. The Committee considers it essential to designate 
+a single individual, recognized as the senior responsible owner who will assume 
+full accountability for the development and implementation of the ICT strategy. 
+The Committee considers it equally important that the senior responsible 
+owner be granted the requisite authority to implement and enforce the ICT 
+strategy as approved by the General Assembly. 
+
+ 
+
+

@@ -1,0 +1,2789 @@
+
+ United Nations  A/62/510/Rev.1
+
+  
+ 
+
+General Assembly  Distr.: General 
+10 April 2008 
+ 
+Original: English 
+
+ 
+
+08-30226 (E)    060508     
+*0830226* 
+
+-
+
+Sixty-second session 
+Agenda items 128 and 140 
+ 
+
+Programme budget for the biennium 2008-2009 
+ 
+
+Administrative and budgetary aspects of the financing  
+of the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology 
+ 
+ 
+
+  Enterprise systems for the United Nations  
+Secretariat worldwide 
+ 
+ 
+
+  Report of the Secretary-General 
+ 
+ 
+ 
+
+ Summary 
+ The present report addresses the request of the General Assembly contained in 
+resolution 60/283 concerning the proposals submitted by the Secretary-General in his 
+report on investing in information and communications technology (A/60/846/ 
+Add.1). It will be noted that the present report updates and revises the previous 
+document (A/62/510), which, while it had been reviewed by the Advisory Committee 
+on Administrative and Budgetary Questions, has not yet been considered by the Fifth 
+Committee. 
+
+ The report presents proposals and plans for the phased implementation and 
+deployment in all offices of the United Nations Secretariat, including offices away 
+from Headquarters, regional commissions, peacekeeping and political missions, and 
+other field missions, of a new generation of systems to replace the Integrated 
+Management Information System and other ancillary systems. The core of the new 
+system will be based on a commercially available enterprise resource planning (ERP) 
+software. 
+
+ The absence of an integrated information system for managing resources is 
+seriously hampering the ability of the United Nations to deliver results effectively 
+and efficiently. The goal of implementing an ERP system is to build an integrated 
+global information system that fully supports the needs of the United Nations and 
+enables the effective management of human, financial and physical resources, and 
+that is based on streamlined processes and best practices. The report also proposes 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 2 
+ 
+
+enterprise-wide systems for managing day-to-day services, through a customer 
+relationship management system (CRM), and managing knowledge of the 
+Organization, by way of an enterprise content management (ECM) system. 
+
+ A decision by the General Assembly is requested on the proposals and 
+financing of the ERP, ECM and CRM projects. 
+
+ 
+
+ 
+
+ 
+
+
+
+ A/62/510/Rev.1
+ 
+
+3 08-30226 
+ 
+
+Contents 
+ Paragraphs Page
+
+I. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1–4 4
+
+II. Information and communications technology in the United Nations Secretariat . . 5–17 5
+
+A. Yesterday’s solutions: Integrated Management Information System . . . . . . . 5–9 5
+
+B. Today’s situation: an imperative for change . . . . . . . . . . . . . . . . . . . . . . . . . . . 10–17 6
+
+III. Managing resources: enterprise resource planning system . . . . . . . . . . . . . . . . . . . 18–83 7
+
+A. Goals and objectives of developing an enterprise resource planning system. 18–22 7
+
+B. Expected benefits of an enterprise resource planning system . . . . . . . . . . . . . 23–27 9
+
+C. Project governance and organization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28–31 11
+
+D. Progress to date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32–39 13
+
+E. Implementation plan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40–49 15
+
+F. Operation and resource requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50–68 18
+
+G. Risk management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69–78 23
+
+H. Financing arrangements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79–83 25
+
+IV. Complementary systems: what an enterprise resource planning system will 
+not cover. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84–100 27
+
+A. Managing services: customer relationship management . . . . . . . . . . . . . . . . . 87–93 27
+
+B. Managing knowledge: enterprise content management system. . . . . . . . . . . . 94–100 29
+
+V. Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101–104 32
+
+VI. Summary of resource requirements for the enterprise systems for the United Nations 
+Secretariat worldwide and request for action to be taken by the General Assembly 105–109 33
+
+A. Summary of resource requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105–108 33
+
+B. Actions to be taken by the General Assembly . . . . . . . . . . . . . . . . . . . . . . . . . 109 34
+
+ Annexes 
+
+I. Customer relationship management system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+II. Enterprise content management system. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
+ 
+
+ 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 4 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. In his report of 6 March 2006 entitled “Investing in the United Nations: for a 
+stronger Organization worldwide”, the Secretary-General proposed “to replace the 
+Integrated Management Information System (IMIS), Galaxy and other stand-alone 
+information and communications technology (ICT) management support systems 
+with a fully integrated global system supporting the full range of management 
+functions” (A/60/692 and Corr.1, proposal 10). 
+
+2. In a subsequent report (A/60/846/Add.1), the Secretary-General provided 
+preliminary findings and a high-level road map for maximizing the value of ICT to 
+the United Nations Secretariat worldwide. As part of his in-depth fact-finding study, 
+the Secretary-General explained the need, anticipated benefits and unique 
+opportunities for replacing IMIS and other ancillary information systems. The 
+Secretary-General further anticipated that he would complete the study and provide 
+detailed costings and a timetable for consideration by the General Assembly at its 
+sixty-first session. Unforeseen delays in the recruitment of the Chief Information 
+Technology Officer and the need to have the proposal reviewed by that officer, 
+however, have led to the delay in the formulation of the full proposal for 
+consideration by the General Assembly. 
+
+3. In paragraph 4 of section II of its resolution 60/283, the General Assembly 
+decided “to replace the Integrated Management Information System with a next-
+generation enterprise resource planning system or other comparable system”. The 
+Assembly further requested the Secretary-General to submit at its resumed sixty-
+first session the comprehensive report, which should include, inter alia, 
+(a) information on previous reform proposals, their impact on the existing proposals 
+and references to previous relevant resolutions and decisions of the Assembly; 
+(b) costs and administrative implications; (c) assessment of previous investments in 
+ICT, lessons learned and expected time frames for the introduction of the system 
+and arrangements for continuation of the current system during the transitional 
+period.  
+
+4. The present report addresses the above request and proposes an approach for 
+the implementation of enterprise systems and a number of measures for approval by 
+the General Assembly. At the same time, it is recalled that the Secretary-General, in 
+his report on information and communications technology security, disaster 
+recovery and business continuity for the United Nations (A/62/477), presented 
+proposals for a global operational framework for information and communications 
+technology infrastructure and provided an analysis of infrastructure improvements 
+linked to the implementation of enterprise resource planning. Accordingly, that 
+report should be considered as an integral part of and has a direct link to the 
+proposals for implementation of enterprise systems contained herein. 
+ 
+ 
+
+
+
+ A/62/510/Rev.1
+ 
+
+5 08-30226 
+ 
+
+ II. Information and communications technology in the 
+United Nations Secretariat 
+ 
+ 
+
+ A. Yesterday’s solutions: Integrated Management 
+Information System  
+ 
+ 
+
+5. The development of IMIS was a milestone as it marked the emergence of 
+information technology as a discipline touching all areas of administration and 
+management in the Organization. IMIS was developed as a functionally integrated 
+system to support key processes such as human resources management, payroll, 
+finance and accounting, requisitioning and funds control, budget execution and 
+travel management. IMIS was introduced in conjunction with desktop, networked 
+computing and office automation tools, such as electronic mail, to all offices where 
+IMIS was being used. 
+
+6. In 2002, the Secretary-General submitted his ICT strategy for the Secretariat 
+(see A/57/620). The 2002 ICT strategy focused on strengthening the global ICT 
+infrastructure so that it could take full advantage of advances in telecommunications 
+and Internet technologies. The strategy was successful in establishing worldwide 
+standards and adding significant coherence in the manner ICT investments were 
+being managed and aligned. The strategy also stated a clear direction in relation to 
+IMIS, which was to remain as the core administrative system for a period between 
+five and seven years.  
+
+7. The launching of IMIS and the 2002 strategy were subsequently affected and 
+conditioned by major developments in the technology market, and an accelerated 
+shift of focus in the United Nations to field activities. In short, IMIS was designed 
+and developed at a time when the context began to change rapidly and profoundly. 
+As a consequence, a few years after its implementation, the following became 
+evident: 
+
+ (a) IMIS could not take full advantage of significant advances in global 
+communications; 
+
+ (b) Although functionally integrated, IMIS was deployed and operated 
+locally at each duty station. Integrating information for online reporting and global 
+management purposes became difficult; 
+
+ (c) Although partially implemented in peacekeeping operations, IMIS was 
+not adapted to support the specific needs of the peacekeeping environment, such as 
+supply chain and logistics management. 
+
+8. The functional gaps of IMIS were addressed by relatively modest investments 
+in tactical systems, some of which were integrated into IMIS through interfaces 
+while others remained as stand-alone systems. 
+
+9. The implementation of IMIS and the 2002 ICT strategy rendered significant 
+benefits. However, the Organization today faces challenges that demand profound 
+transformation beyond the capabilities of IMIS and its ancillary legacy systems 
+currently being used. 
+ 
+ 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 6 
+ 
+
+ B. Today’s situation: an imperative for change 
+ 
+ 
+
+10. After 14 years since the live date of release 1 at Headquarters, IMIS has 
+reached the end of its useful life. Cost of maintenance and ongoing support no 
+longer match the benefits that staff and managers expect from the information 
+system upon which their day-to-day operations and decisions depend. Moreover, the 
+commitment to adopt the International Public Sector Accounting Standards (IPSAS), 
+pursuant to paragraph 1 of section IV of General Assembly resolution 60/283, will 
+require the Organization to introduce significant changes to accounting processes in 
+order to achieve compliance.  
+
+11. The Organization also needs to improve the quality and cost-effectiveness of 
+the services it provides to a vast array of “customers”. The systems which are 
+currently in place to support customer-service areas are obsolete, not integrated, 
+duplicative, and inefficient. 
+
+12. The lack of integrated and complete data on resources, both at Headquarters 
+and in the field, is a serious impediment to effective management, planning and 
+decision-making. This deficiency is becoming increasingly acute as the complexity 
+of the Organization’s activities continues to grow.  
+
+13. Furthermore, as a knowledge-intensive organization, the Secretariat spends 
+significant resources in the production, management and distribution of rapidly 
+increasing amounts of documents and other information residing in a variety of 
+media. The processes and systems currently utilized in managing this knowledge 
+capital are ineffective, inefficient and vulnerable.  
+
+14. However, perhaps the most compelling imperative for a new ICT system is the 
+changing nature of the Organization itself. The Secretariat is very different today 
+than it was just a decade ago. United Nations Headquarters in New York is one of 
+many duty stations around the world, rather than the centre of gravity it once was. 
+Peacekeeping operations have proliferated at an unprecedented pace and have grown 
+in both size and complexity, often in regions with poor basic infrastructure. To 
+ensure a minimum of reliable automation and telecommunication capacity, a series 
+of new information systems have had to be developed rapidly, but it has proven 
+difficult to integrate these systems, as well as other ancillary information systems 
+operating in different duty stations, with IMIS — the United Nations system of 
+record. This has led to a patchwork of fragmented, support-intensive, home-grown 
+systems that are not sustainable and efficient for the long term. 
+
+15. In recognition of the increasingly global arena of work and the many new 
+challenges of the twenty-first century, Member States have approved several reform 
+initiatives to better equip the Organization in meeting these challenges. In 
+consonance with those reform initiatives, the Secretary-General is fully committed 
+to fundamentally modernize the way the Organization carries out its day-to-day 
+work, by streamlining and simplifying processes. Information technology is a 
+critical tool for achieving this Secretariat-wide transformation, by introducing 
+global enterprise systems that are more efficient, nimble and rational. 
+
+16. Recognizing the strategic importance of ICT, the General Assembly approved 
+the establishment of the position of Chief Information Technology Officer at the 
+level of Assistant Secretary-General in the Executive Office of the Secretary-
+General (see resolution 60/283, sect. II, para. 1). The Chief Information Technology 
+
+
+
+ A/62/510/Rev.1
+ 
+
+7 08-30226 
+ 
+
+Officer was appointed and assumed his duties in late August 2007. The Chief 
+Information Technology Officer has now developed a comprehensive report on ICT 
+investments to maximize its value to the Secretariat worldwide (see report of the 
+Secretary-General entitled “Investing in information and communications 
+technology: information and communications strategy for the United Nations 
+Secretariat” (A/62/793)). The strategy serves as the Organization-wide agreement on 
+the future direction of ICT. The aforementioned report builds upon the significant 
+progress made since the launch of the ICT strategy in 2002, and it seeks to extend 
+that achievement in order to meet the strategic ICT needs of the Secretariat over the 
+next three to five years. The projects proposed in the present report not only serve as 
+the main building block for achieving the new ICT vision of “a stronger ICT for a 
+better United Nations” but also directly support the goals of the strategic 
+programmes to be undertaken under the ICT strategy. 
+
+17. In addition to establishing a global management framework for ICT, a new 
+generation of business systems is being introduced that will form key pillars in 
+implementing management reform and modernizing the Organization. These include 
+an enterprise resource planning system (ERP), for managing the financial, human 
+and physical resources; a customer relationship management (CRM) system, for 
+better handling the vast array of day-to-day services; and the enterprise content 
+management system (ECM), for managing the exploding amount of documents and 
+other information in a variety of media, such as website, e-mail, picture and video.  
+ 
+ 
+
+ III. Managing resources: enterprise resource planning system 
+ 
+ 
+
+ A. Goals and objectives of developing an enterprise resource 
+planning system 
+ 
+ 
+
+18. The replacement of IMIS presents an opportunity to fully and globally 
+integrate all resource management functions across the Organization through the 
+implementation of an ERP system. An ERP system provides an integrated suite of 
+information technology applications that support activities such as finance and 
+budget management, human resources management, supply chain management, 
+central support services, and other corporate core functions. Most importantly, the 
+main value of an ERP system is the opportunity to streamline and improve the 
+operations of an entire organization through process re-engineering, sharing of 
+common data, and implementation of best practices and standards. 
+
+19. The main objectives of the ERP project can be summarized as follows: 
+
+ (a) To have a global system that captures accurate and timely core resource 
+data from the global Secretariat at all duty stations, including peace operations and 
+other field missions; 
+
+ (b) To support decision-making by linking programmes and operations with 
+the resources allocated and showing what has been utilized; 
+
+ (c) To reduce the average time required for administrative processes, by 
+streamlining and integrating business processes, make them simpler and use greater 
+automation, reflecting best practices; 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 8 
+ 
+
+ (d) To increase organizational efficiency by reducing the amount of staff 
+time spent on manual processes, and redirecting resources to high priority and 
+value-added work; 
+
+ (e) To support the implementation of IPSAS by the Secretariat;  
+
+ (f) To enable easy access to reports by Member States, United Nations staff 
+and the public, as appropriate; 
+
+ (g) To support management reform by enhancing accountability, 
+transparency, and internal controls for all transactions relating to resources. 
+
+20. The main functionalities sought from the new ERP system are expected to 
+encompass functions such as programme planning, budgeting, contributions and 
+performance; human resources management and administration; payroll, including 
+management of benefits and contribution to pension, medical and insurance 
+schemes; supply chain management, including procurement; assets and facilities 
+management; general accounting, travel and other administrative flows; reporting to 
+management and stakeholders, and more.  
+
+21. The new ERP system will need to have the capability to support functions 
+specific to peacekeeping operations in the area of logistics, transportation, fuel and 
+rations systems and other requirements which are not common in other 
+organizations of the United Nations system. 
+
+22. The ERP project will be guided by the following principles: 
+
+ (a) The ERP software selected must be capable of providing satisfactory 
+performance, even under the demanding conditions in peacekeeping environments; 
+
+ (b) The aim should be to operate a single central system (“single-instance 
+data”) to ensure global transactions and reporting capabilities and alignment of 
+information across different offices; 
+
+ (c) Customization of the ERP software should be kept to a minimum, to 
+avoid unnecessary costs. Instead of customizing, existing administrative processes 
+should be changed in line with the chosen software; 
+
+ (d) Common business practices should be used to increase uniformity and 
+compatibility within the global Secretariat; 
+
+ (e) Self-service options should be emphasized to a greater extent, making it 
+possible for staff to access, verify and update resource data; 
+
+ (f) The ERP system should be designed and implemented in a manner to 
+ensure accuracy, integrity, consistency and timeliness of data, and avoid duplicative 
+data entry; 
+
+ (g) The system should be developed in a way to ensure that the needs of 
+offices away from Headquarters, peace operations and other missions are fully taken 
+into account; 
+
+ (h) Regular and open communication with Member States, managers and 
+staff should be maintained throughout the project period. 
+ 
+ 
+
+
+
+ A/62/510/Rev.1
+ 
+
+9 08-30226 
+ 
+
+ B. Expected benefits of an enterprise resource planning system 
+ 
+ 
+
+23. The new ERP system will be at the core of the Organization’s reform of 
+financial, administrative and management operations. The system will be a catalyst 
+for fundamental transformation of the way business is conducted globally by the 
+Secretariat. It also has the potential to improve the efficiency and, most 
+significantly, the overall effectiveness of the Organization.  
+
+24. Typical key benefits of an ERP system include effective and efficient business 
+processes; access to accurate, timely, and authoritative data; informed decision-
+making; faster responses to issues and problems; consolidation and elimination of 
+current systems; compliance with best practices and standards; opportunity for 
+resource redeployment and skills development; improved transparency and 
+accountability. 
+
+25. Following are some examples of specific improvements the new ERP system is 
+expected to bring to the Organization: 
+
+ (a) Increased operational effectiveness and timeliness: 
+
+(i) With integrated resource mobilization functionality, the Organization 
+could achieve a concentrated and expedited approach to identifying, securing 
+and utilizing donor funding; 
+
+(ii) An improved ability to align budgets closely with acquisition plans, and 
+purchasing and delivery of goods and services would allow managers to better 
+monitor programme execution. Unplanned activities could be highlighted and 
+dealt with proactively; 
+
+(iii) A tighter link between supply chain planning and logistics with finance 
+could lead to timely substantiation of liabilities related to contingent-owned 
+equipment reimbursements. In addition, portals with Member States noting the 
+verified accrued expenditures would strengthen transparency; 
+
+(iv) In the area of travel, continuous monitoring of incurred travel and other 
+offsite conference costs coupled with sound financial modelling could lead to 
+improved financial planning and optimal meeting site selection; 
+
+(v) With a global database and access to personnel data including 
+performance, work history and developed competencies, managers throughout 
+the Organization would be better equipped to take optimal decisions on staff 
+transfers and special project assignments. In particular, an ERP system could 
+allow timely deployment of qualified personnel in critical areas in 
+peacekeeping and field missions; 
+
+ (b) Improved accountability: 
+
+(i) Substantive project management, an area significantly lacking in IMIS, 
+would allow programme managers to plan, allocate and monitor resources 
+based on defined activities, tasks and timetables. Project portfolio management 
+functionality would enable the monitoring of project activities by exception; 
+
+(ii) Improved planning, linkage with real-time cost parameters and 
+enterprise-wide assessment of inventory levels could lead to greater 
+utilization; 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 10 
+ 
+
+(iii) The ERP system is expected to provide better internal controls across the 
+broad range of financial, procurement and staffing processes and improve 
+accountability; 
+
+ (c) Adoption of international best practices and standards: 
+
+(i) The implementation of ERP software will facilitate compliance with 
+IPSAS; 
+
+(ii) Commercial ERP often results in a high degree of professional 
+development of staff and therefore enables greater mobility of human 
+resources; 
+
+(iii) Global integration would enable coordinated strategic personnel planning 
+that could result in improved accuracy of projected vacancies and shortfalls in 
+workforce and competencies; 
+
+(iv) Integrated records in performance, competencies, and assignment 
+requirements would enable proactivity in highlighting and implementing 
+workforce development and training plans; 
+
+(v) IPSAS compliance is supported by configured ERP systems. It is 
+expected that the management of accounting cycles and the generation of 
+consolidated financial statements would be considerably strengthened and 
+standardized as a result of configuring the ERP system to be compliant with 
+IPSAS process and data requirements; 
+
+ (d) Enhanced treasury operations: 
+
+(i) An integrated treasury system would allow the management and 
+monitoring of cash flow projections with considerably higher precision. That 
+in turn could lead to a reduced float and a better ratio of investment to cash 
+holdings; 
+
+(ii) Cashier activities could be strengthened by the introduction of global 
+currency bank accounts. In principle, utilizing centralized currency accounts 
+from any location could strengthen the controls and improve transaction 
+timings; 
+
+ (e) Enhanced transparency: 
+
+ An ERP could promote consistency and transparency in the application 
+of rules and operating procedures in all administrative disciplines throughout 
+the Organization; 
+
+(f) Higher client satisfaction: 
+
+ ERP software provides self-service applications, which will make it 
+possible for eligible persons to request benefits online. This will reduce 
+frustration among staff currently relying on time-consuming paper-based 
+requests. ERP will enable staff to verify their annual leave balances online, 
+update contact information and conduct vital personnel transactions; 
+
+ (g) Process improvements: 
+
+(i) ERP implementations in the United Nations Development Programme, 
+the United Nations Children’s Fund and the World Food Programme have 
+demonstrated efficiency benefits, such as the elimination of reconciliation 
+
+
+
+ A/62/510/Rev.1
+ 
+
+11 08-30226 
+ 
+
+tasks, reduced paperwork and enhanced staff productivity. Specific efficiency 
+benefits gained by those organizations include the avoidance of duplicate data 
+entry, reduced human error, and increased supply chain visibility through 
+immediate access to all relevant information. Those organizations also 
+benefited from analytics embedded in the ERP software by enabling their staff 
+to be responsive and take timely action, thus avoiding costly delays; 
+
+(ii) The benefit for those organizations was redirected to enhancing 
+effectiveness in managing resources. Similar benefits for the Secretariat, based 
+on 10,000 administrative staff members redirecting around 15 per cent of 
+current process steps, should yield five to six hours per year for each United 
+Nations staff member. 
+
+ 
+
+  Productivity gains and cost avoidance 
+ 
+
+26. An ERP system enables operating an acquisition process that integrates 
+budget, procurement and supply chain from a central platform with the full visibility 
+and proactive control of the organizational requirements. With the proper ERP 
+modules, it therefore should be possible to leverage buying power for consolidated 
+purchasing of the most commonly required goods and services, for which the 
+Organization can expect volume discounts. Improved capability to manage the 
+requirements, paired with a global visibility of existing contracts, should help to 
+reduce unplanned spending and improve efficiencies in acquisition costs and process 
+timeline while strengthening internal control. Certain private commercial entities 
+have been able to achieve procurement operating cost reductions of up to 10 per 
+cent once a full suite of ERP modules has been implemented. 
+ 
+
+  Centralized management of information technology systems 
+ 
+
+27. During the transition from IMIS and other legacy systems, resources are 
+required to run these systems in parallel until the ERP is completely implemented. 
+After transition, a number of legacy systems are expected to be retired and resources 
+redirected to support the new ERP operations. 
+ 
+ 
+
+ C. Project governance and organization 
+ 
+ 
+
+28. On a project of this magnitude, strong governance is essential: to steer the 
+project, monitor progress against plans, resolve conflicts without delay, decide on 
+work priorities, help to manage changes and communicate progress to all 
+stakeholders. The primary purpose of the ERP system is to enable the Secretariat to 
+effectively and efficiently carry out the work that Member States expect. The ERP 
+project is a “business” project, and therefore needs to be led by senior management. 
+The main policy decision-making body is the ERP Steering Committee, chaired by 
+the Under-Secretary-General for Management and consisting of the Chief 
+Information Technology Officer; the Assistant Secretary-General for Field Support; 
+the Assistant Secretary-General for Human Resources Management, the Assistant 
+Secretary-General, Controller, and for Central Support Services, Department of 
+Management;1 and the Deputy Director-General of the United Nations Office at 
+Vienna. The ERP Steering Committee reports to the Management Committee. 
+
+__________________ 
+
+ 1  In the absence of the Assistant Secretary-General for Central Support Services, the Directors of the 
+Information Technology Services Division and the Facilities and Commercial Services Division participate. 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 12 
+ 
+
+29. The detailed planning and execution of the project will be by the ERP project 
+team, reporting to the Chief Information Technology Officer, coordinated and led by 
+a programme management office headed by a Project Director, who is ultimately 
+accountable for the execution of the project in collaboration with the Assistant 
+Secretaries-General responsible for the four main functional areas: human resources, 
+finance and budget, supply chain, and central support services. The project team 
+includes experts on change management, process management, administration 
+management, and technology management, as well as four sub-teams, one for each 
+of the functional areas. 
+
+30. To ensure an institutional link with user departments in the course of planning 
+and implementation, advisory groups will be established. This will serve as a 
+mechanism for two-way communications and help to embed the ERP project as an 
+organization-wide endeavour that will require engagement by managers and staff at 
+large, but will ultimately yield benefits for the United Nations Secretariat 
+worldwide. 
+
+31. Figure I below illustrates the composition, structure and reporting lines of the 
+proposed governance framework: 
+ 
+
+  Figure I 
+Proposed governance framework 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Abbreviations: ASG, Assistant Secretary-General; BPR, business process re-engineering; CITO, 
+Chief Information Technology Officer; DFS, Department of Field Support; DM, Department 
+of Management; HR, Human Resources; OAH, offices away from Headquarters; OCSS, 
+Office of Central Support Services; OHRM, Office of Human Resources Management; 
+OPPBA, Office of Programme Planning, Budget and Accounts; SME, subject matter expert; 
+USG, Under-Secretary-General. 
+
+ 
+Management Committee
+
+Project 
+Manager
+
+Change 
+Management 
+
+Administrative
+Management
+
+Finance
+Team
+
+Team Leader
+
+ERP Project Team
+
+Process 
+Management
+
+Technology 
+Management
+
+CITO
+Business Owner
+
+HR
+ASG/OHRM
+
+Business Owner
+Central Support
+
+Services
+ASG/OCSS
+
+Business Owner
+Supply Chain
+
+ASG/DFS
+
+Business Owner
+Finance
+
+ASG/OPPBA
+
+BPR
+
+SME
+
+Implementation 
+Support
+
+ICT Support
+
+Supply Chain
+Team
+
+Team Leader
+
+HR
+Chain Team
+Team Leader
+
+Central Support 
+Services Team
+Team Leader
+
+Chair: USG/DM
+
+ERP Steering Committee
+
+Functional Areas
+
+BPR
+
+SME
+
+Implementation 
+Support
+
+ICT Support
+
+BPR
+
+SME
+
+Implementation 
+Support
+
+ICT Support
+
+BPR
+
+SME
+
+Implementation 
+Support
+
+ICT Support
+
+OAH
+
+A
+dvisory G
+
+roup
+
+
+
+ A/62/510/Rev.1
+ 
+
+13 08-30226 
+ 
+
+ D. Progress to date 
+ 
+ 
+
+32. The ERP project cannot be properly initiated until a dedicated fully staffed 
+project team and funding are in place. Nevertheless, an ad hoc arrangement, drawing 
+on the limited budgetary discretion approved by the General Assembly in section III 
+of its resolution 60/283, has been used to put in place an interim small core team of 
+16 staff. For the first half of 2008, such authority has been utilized to meet initial 
+resource requirements in the amount of $3.4 million for a dedicated project team, 
+the continuation of ongoing preparatory project activities and ensuring progress on 
+major foundation tasks relating to the ERP system. That commitment would be 
+reversed into the overall project costs sought in the present report, should the 
+General Assembly approve the proposal, and would be reported in the context of the 
+performance report or annual report, as appropriate. The team has achieved 
+significant progress in some preparatory activities, including by engaging internal 
+stakeholders widely in consultations on user needs and scope. The results enabled 
+progressing acquisition activities for software. The experiences of other United 
+Nations agencies that have already implemented ERP software were important 
+references for the preparatory activities of the Secretariat. However, not all desirable 
+preparations for accelerated project initiation could be completed under these 
+interim arrangements. The following paragraphs summarize the progress so far. 
+ 
+
+ 1. User needs and scope 
+ 
+
+33. The identification of user needs as functional requirements was a major 
+activity spanning the second half of 2007. The extensive requirements-gathering, 
+analysis and validation process involved representative staff from Headquarters, 
+offices away from Headquarters, regional commissions and field missions. 
+Important elements that were elaborated included the requirements for cost 
+accounting, IPSAS, recruitment, procurement and associated management reporting. 
+The compilation of detailed functional requirements for the ERP software was 
+completed in December 2007. The scope of the requirements was comprehensive, 
+ensuring the best possible capture of stakeholders’ needs. Work is ongoing to refine 
+the scope in conjunction with stakeholder determination of the desired system 
+architecture and high-level business process re-engineering. 
+ 
+
+ 2. Acquisition activities 
+ 
+
+34. The acquisition of commercial ERP products and services is complex and 
+requires significant lead times. Sustained efforts have focused on defining 
+requirements for software and system integration services as well as on ensuring a 
+transparent and competitive procurement process. 
+
+35. The approach for procurement involves the acquisition activities for the 
+software and integration services being partially overlapping and shortening the 
+overall acquisition timeline. That approach has been planned in a manner ensuring 
+the integrity of acquisition activities. The terms and descriptions used in drafting the 
+Statement of Work were carefully scrutinized to ensure that they are generic in 
+nature and not software-specific. System integration proposals cover a 
+comprehensive range of services requiring significant time and effort to prepare. 
+The capacity of the core team will be supplemented temporarily with some subject 
+matter experts. The temporary supplementation will ensure that key personnel can 
+participate in overlapping procurement activities for software and integration 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 14 
+ 
+
+services. The capacity for concurrent participation is necessary to ensure 
+consistency and the application of lessons learned. 
+ 
+
+ 3. Project management activities 
+ 
+
+36. In order to address the multitude of complex concurrent project tasks in a 
+timely and orchestrated manner, a full-time dedicated project team must be 
+established as soon as possible. A project organization strategy has been established 
+which will ensure a competitive selection of the members of the proposed ERP 
+project team as soon as the recommended staffing has been approved. To that end, 
+preliminary action has already been taken on post classifications and to have posts 
+advertised progressively through the Galaxy system, with the clear proviso that such 
+posts are fully subject to approval of funding by the General Assembly. Based on the 
+current plan and subject to General Assembly approvals of the proposals, selection 
+recommendations in accordance with established human resources procedures will 
+be completed promptly, with the majority likely by the third quarter of 2008. 
+ 
+
+ 4. Other activities 
+ 
+
+37.  An enterprise-wide system architecture that aligns business and technology is 
+being developed by drawing together the documentation of strategic frameworks, 
+programme planning, organizational diagrams, the accountability framework, data 
+models and supporting technology. The system architecture describes the context of 
+work programmes and operations, responsible organizations, system design, 
+technology infrastructure and possible solutions. Efforts during the preparatory 
+phase are focusing on the strategic, programme and organizational context, which 
+facilitates the re-engineering of high-level business processes. 
+
+38. The Secretariat is streamlining and harmonizing its organizational, managerial 
+and administrative arrangements as a prerequisite for the ERP implementation. 
+Towards this end, senior management is committed to specific improvements early 
+in the project ensuring that the ERP system is successful in assisting the 
+implementation of change. Work has commenced to review critically the current 
+policies, procedures and associated arrangements with the goal of identifying key 
+areas where changes are required. Key approaches for implementing international 
+best practices are being identified so that work on high-level business process  
+re-engineering can proceed expeditiously. The examination should result in 
+agreement on a framework to guide the detailed ERP process design and 
+configuration work to commence after ERP software selection. An associated 
+activity is to establish key baseline indicators in all business areas. Overall progress 
+against the baseline will be included in annual reports. 
+
+39. In addition, a data migration planning exercise will be conducted in the 
+summer of 2008 to ensure that all existing data sources, particularly those outside 
+IMIS and ancillary systems, are analysed. The planning will include the detailed 
+arrangements necessary for all data to be properly prepared in terms of 
+completeness and accuracy for migration to the ERP system. Applying lessons 
+learned from the development and implementation of IMIS, activity planning will 
+include meeting the more stringent requirements imposed by the new ERP system 
+on the quality of data. The proper cleaning, testing and conversion of data will be 
+closely monitored and, for each case, will be a prerequisite for deciding to 
+commence operations with the new system. 
+
+
+
+ A/62/510/Rev.1
+ 
+
+15 08-30226 
+ 
+
+ E. Implementation plan 
+ 
+ 
+
+40. Once the preparatory phase is completed, the implementation plan calls for 
+implementation in two waves, as shown in the timetable below at figure II. Wave 1 
+would commence in the third quarter of 2008 following the completion of 
+preparatory activities. It will focus on key management priorities and is expected to 
+take 30 months. Based on the current project progress, Wave 1 would be 
+substantially completed by the end of 2010. Specific timings and technical 
+arrangements for acceptance testing and data conversions will be determined by the 
+integration services once they are engaged. Wave 2 will focus on the implementation 
+of remaining functionalities of the ERP software solution and is expected to take 24 
+months. The current implementation plan foresees the first quarter of 2011 as the 
+earliest start date for Wave 2, with a target for substantial completion by the end of 
+2012. Every effort will be made to complete the project within the projected time 
+frames. Each wave will be succeeded by a short evaluation. Annual progress reports 
+will be submitted to the General Assembly, including inter alia, details of overall 
+progress against the baseline. 
+ 
+
+  Figure II 
+Timetable 
+ 
+
+ 
+ 
+
+41. The functionalities assigned to each wave will be designed and built based on 
+configuring the ERP software solution to meet the requirements of the Secretariat. 
+Design and build activities will be supported by associated detailed business process 
+re-engineering, legacy data preparation, data cleansing and change management. 
+Those activities will be undertaken by subject matter experts from Headquarters, 
+offices away from Headquarters, regional commissions and field missions and 
+closely coordinated by the ERP project team. Configuration will include meeting 
+IPSAS process and data requirements that will be guided by an approach for making 
+IPSAS policies operational. Alignment with requirements will be limited strictly 
+
+Projected timeline
+
+9 Contracts for ERP 
+software and system 
+integration services
+
+9 Project management 
+office
+
+9 System architecture
+9High-level business 
+process re-engineering
+
+9 Fast-tracked priorities: talent 
+management;a procurement; limited 
+self-service
+
+9 Support to IPSAS compliance 
+including: 
+
+ Core financials; budget allocation 
+and execution; programme 
+planning; cost accounting; trust 
+funds; grants
+
+ Attendance and leave; staffing 
+tables, posts; appointment and 
+administration of staff not on IMIS 
+payroll
+
+ Assets; facilities; inventories; 
+related staff costs; contract 
+management
+
+9 Remaining functionalities 
+including:
+
+ Strategic management; 
+budgeting; results-based 
+management; risk 
+management; resource 
+mobilization; project 
+management
+
+ Remaining human 
+resources, finance, supply 
+chain and central support 
+functionalities
+
+ Global transportation 
+management
+
+a  Talent management
+commences prior to Wave 1
+
+Preparatory 
+phase
+
+Project - Wave 1 
+30 months
+
+2008 2009 2010 2011 2012
+
+Project - Wave 2
+24 months
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 16 
+ 
+
+within minimal levels of customization. On completion of design and build, ERP 
+functionalities will be deployed globally to all relevant Secretariat locations. The 
+deployment will be supported by data migration, software training and technology 
+hosting activities undertaken in coordination with, and with the support of, user 
+organizations and specialist areas. 
+ 
+
+ 1. Implementation of Wave 1  
+ 
+
+42. The implementation of Wave 1 will entail establishing a dedicated project team 
+with the capacity to arrange coordinated contributions by stakeholder subject matter 
+experts and engage fully with system integration services. 
+
+43. Priorities given to recruitment and mobility are currently being met in a 
+separate project for a talent management system, which is expected to be 
+implemented by the end of 2008. Linkages for resource transactions will be 
+established between the talent management system and the ERP system. Other 
+priorities for early implementation will be procurement and limited self-service 
+capabilities involving staff records. Based on the current plan, the first of these fast-
+tracked capabilities are expected to be completed by the third quarter of 2009.  
+
+44. Wave 1 also replaces IMIS, Sun and other ancillary legacy functionalities with 
+IPSAS compliant core financials, which includes accounts payable, accounts 
+receivable, general ledger, treasury, cash management and investment accounting. 
+Additional functionalities include budget allocation and execution, which support 
+monitoring the flow of monetary transactions and funds from allotments to 
+disbursements. In order to support IPSAS further, Wave 1 will introduce limited 
+financial functionalities for programme planning, cost accounting and trust funds 
+including grants, as well as human resources functionality of attendance and leave 
+administration. In the human resources management area, Wave 1 will cover the 
+appointment and administration of staff whose salaries are not currently paid 
+through IMIS, such as locally recruited staff in the field. Human resources 
+functionalities for that category of staff members will include post and staffing table 
+management, benefits and compensation management. Supply chain, procurement, 
+logistics and central support functionalities for assets, facilities, inventories and 
+related staff costs, as well as contracts management will also be included. Wave 1 
+will have reporting and data warehousing elements that are associated with the 
+introduced functionalities. Wherever feasible, existing systems will be temporarily 
+interfaced with the new system, provided that they do not compromise IPSAS 
+compliance.  
+ 
+
+ 2. Implementation of Wave 2 
+ 
+
+45. Wave 2 will introduce and integrate strategic management functions such as 
+budgeting, results-based management, risk management, resource mobilization, 
+programme management and project management. Those functionalities will aim to 
+strengthen financial planning and programme management. Wave 2 will also cover 
+the remaining supply chain and central support functionalities, including global 
+transportation management and travel management. Once the human resources 
+functionalities are completed, the system would cover staff administration and 
+payroll for those staff already currently administered through IMIS. The completion 
+of data warehousing will enable the introduction of multilevel management 
+reporting, executive dashboards and data interchange for Member States and donors. 
+
+
+
+ A/62/510/Rev.1
+ 
+
+17 08-30226 
+ 
+
+ 3. Technology infrastructure preparations  
+ 
+
+46. Successful implementation of key ERP project milestones is dependent on the 
+timely completion of the proposed preparatory work on the technology side. 
+Achieving the management priorities of the ERP project relies on the synchronized 
+implementation of technology infrastructure for disaster recovery and business 
+continuity as proposed in the report of the Secretary-General (A/62/477). The 
+technology infrastructure necessary to support hosting the fully operational ERP 
+system will critically rely on the data centre site at the United Nations Logistics 
+Base at Brindisi, Italy, and a secondary site in Valencia, Spain as proposed in the 
+disaster recovery and business continuity project detailed in the aforementioned 
+report. Accordingly, both the present report and the report on business continuity are 
+considered integrally linked. 
+ 
+
+ 4. Transition from legacy systems 
+ 
+
+47. The transition from IMIS and other legacy systems requires development of a 
+large number of system interfaces and data repositories during ERP implementation 
+until all functionalities are put into operation in the new system. The level of 
+support for IMIS and other systems will be generally the same. However, it will 
+require increased levels of effort from all technology areas during the transition 
+period for building interfaces, data migration and reconciliation of multiple data 
+sources. 
+
+48. The transition will commence with the data migration for functionalities in 
+Wave 1. Transition will continue for specific functionalities until after the 
+completion of Wave 2. An example of the size and complexity of data migration is 
+the human resources system of records, which is supported by IMIS in eight 
+locations, a number of complementary legacy systems and paper files for each staff 
+member. The separate IMIS and other legacy systems are not sufficiently integrated 
+to provide highly reliable validation of key data. The majority of transactional data 
+is currently taken from copies of original documents, such as certificates, passports, 
+and the like, and is re-entered into IMIS and other systems on each occasion that it 
+is required. Transition therefore involves comprehensive efforts in extracting paper-
+based data and accurately entering such information into the ERP system, ensuring 
+that all fields for key data are accurately populated.  
+
+49. The human resources functionalities utilize a range of systems in addition to 
+IMIS, including Galaxy and Nucleus, which have linkages with IMIS. Other 
+systems used are the field personnel management system and Progen, which have 
+limited integration with IMIS. However, these two systems have linkages with 
+Nucleus in the former case and with the Sun in the latter case. As concerns most 
+finance functionalities, in addition to a direct linkage with IMIS, there is also a 
+separate direct linkage with the Sun system. The transition during Wave 2 involves 
+additional systems currently linked with IMIS, such as the budget information 
+system and the electronic personnel appraisal system as well as the need to 
+transition from other separate systems such as Procure Plus, Mercury and Galileo 
+for procurement and asset management.  
+ 
+ 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 18 
+ 
+
+ F. Operation and resource requirements 
+ 
+ 
+
+50. All enterprise systems, including the ERP system, will operate from two data 
+centres situated in the United Nations Logistics Base at Brindisi, Italy, and at a 
+proposed secondary site in Valencia, Spain. Those sites, which would be at the core 
+of the disaster recovery and business continuity plan for the Secretariat, would host 
+the two hubs for telecommunications and computer operations for all offices of the 
+Secretariat. Requirements relating to the disaster recovery/business continuity plan 
+contained in the report of the Secretary-General (A/62/477) and the related report of 
+the Advisory Committee on Administrative and Budgetary Questions (A/62/7/ 
+Add.31) are presently before the General Assembly. Accordingly, the requirements 
+for hardware and infrastructure costs have not been repeated in the present report. 
+
+51. However, it should be noted that the resources requested for the disaster 
+recovery and business continuity plan will cover telecommunications, computer and 
+data-storage equipment and human resources earmarked for the operation of the 
+disaster recovery and business continuity facilities. Until the new ERP system is 
+fully implemented, those facilities will provide business continuity capabilities for 
+critical systems such as IMIS, currently operating in all offices and peacekeeping 
+missions. Upon full implementation of the ERP system, the same facilities will serve 
+as the operational platform for the new system. 
+
+52. The full deployment of an ERP system in an organization of the size and 
+complexity of the global United Nations Secretariat will require significant 
+resources over the course of its implementation, which is expected to take 
+approximately five years. Once implemented, recurring expenditures would relate to 
+the upgrade, maintenance, and operation of the system. However, it is important to 
+note that the adoption of a commercial solution in addition to the system’s 
+centralized operation will substantially reduce recurrent costs provided that 
+customization is kept to a minimum. It is expected that the useful life of the ERP 
+system will be 15 to 20 years. 
+ 
+
+  Total project costs estimates 
+ 
+
+53. The project costs estimates cover the implementation and deployment of the 
+ERP system.  
+
+54. At this stage pending the conclusion of procurement activities, the cost of 
+implementation and deployment of the ERP system does not benefit from details on 
+firm contract costs for software and system integration services (see below). 
+Nevertheless, on the basis of current market pricing, the ERP project costs of other 
+United Nations organizations and advice sought from industry sources, it is 
+estimated that a total of $285.6 million (at current rates), including a contingency 
+provision (15 per cent of project) amounting to $37.3 million will be required for 
+the implementation of an ERP system in the Secretariat over a five-year period. 
+These requirements are summarized in table 1 below and the overall explanation of 
+each of the components which comprises the total project costs follows below. It 
+should be noted that no provision has been made at this stage for potential post-
+implementation (maintenance and other support costs) requirements for the new 
+ERP system. Due consideration will be given as the project develops and will be 
+reported accordingly to the General Assembly in the subsequent annual reports. 
+ 
+
+
+
+ A/62/510/Rev.1
+ 
+
+19 08-30226 
+ 
+
+  Table 1 
+Summary of net resource requirements, by activity (total project budget  
+at current rates) 
+(Thousands of United States dollars) 
+ 
+ 
+
+Component Total 
+
+Software licences and customization  30 000.0 
+
+Integration costs  128 699.8 
+
+Project and change management  47 873.0 
+
+Training  37 022.0 
+
+Operational costs  4 718.8 
+
+ Subtotal  248 313.6 
+
+Contingency provision  37 247.0 
+
+ Total  285 560.6 
+ 
+ 
+
+ (a) Software licences and customization 
+ 
+
+55. ERP software vendors can offer a wide range of solutions and pricing 
+configurations. Pricing depends on the number and type of licences, interfaces, 
+portals and tools for data warehousing and reporting. It is assumed for budgetary 
+purposes that the Organization would successfully negotiate a favourable agreement 
+for enterprise licences. The total estimated cost for software licences is $15 million. 
+Based on guidance from industry advisors and experience of other United Nations 
+organizations, the cost for unavoidable software customization to be undertaken by 
+the software vendor is projected at the same level as the licence cost ($15 million). 
+Accordingly, it is estimated that the software licences and customization component 
+of the project would amount to $30 million.  
+ 
+
+ (b) Integration costs 
+ 
+
+56. Integration costs cover wide-ranging activities for designing, building and 
+rolling out the ERP solution in all functional areas: 
+
+ (a) Design includes linkages with business processes re-engineering and 
+organizational change; 
+
+ (b) Building involves configuring ERP solutions to meet specific user 
+requirements; 
+
+ (c) Roll-out entails legacy data migration and testing solutions on the 
+technology infrastructure.  
+
+57. Based on specialized advice and lessons learned from the development and 
+implementation of IMIS, integration presents some of the largest cost elements of a 
+new ERP system. Consequently, the integration services required for the Secretariat, 
+including offices away from Headquarters, regional commissions and field missions 
+are estimated at $128.7 million. 
+ 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 20 
+ 
+
+ (c) Project and change management 
+ 
+
+58. The ERP project team would be responsible for identification of requirements, 
+process re-engineering, software configuration and implementation of the various 
+releases. A project team consisting of 44 temporary posts (1 D-2, 6 D-1, 12 P-5, 
+13 P-4, 5 P-3, 7 General Service (Other level)) as reflected in figure III below would 
+be required for the duration of the implementation of the ERP system. The project 
+team would carry out the following functions:  
+
+ (a) Identification of requirements suitable for software selection; 
+
+ (b) ERP software evaluation and selection; 
+
+ (c) Business process standardization, streamlining and re-engineering and 
+adoption of best practices; 
+
+ (d) Change management and communications; 
+
+ (e) Software configuration and software customization, as a last resort; 
+
+ (f) Development of temporary and permanent interfaces; 
+
+ (g) Evaluation and coordination of ICT infrastructure requirements to enable 
+efficient data interchange; 
+
+ (h) Data cleansing, conversion and reference table preparation; 
+
+ (i) Report specification, design and development; 
+
+ (j) User training in all locations; 
+
+ (k) Procurement and acquisition support for system integration and software; 
+
+ (l) Project planning, management and administrative support, including 
+management of consultancy contracts. 
+
+59. The Project Director, at the D-2 level, would be responsible for the overall 
+management of the project, including change management, process management, 
+technology architecture and project administration, and for supervising the work 
+carried out by the four functional teams in the areas of human resources, supply 
+chain, finance and budget, and central support services. The Project Director would 
+be assisted by a Project Assistant (General Service (Other level)) who will provide 
+project and administrative support to the project management team. 
+ 
+
+
+
+ A/62/510/Rev.1
+ 
+
+21 08-30226 
+ 
+
+  Figure III 
+Organizational structure and proposed post distribution 
+ 
+ 
+
+Change Management
+
+1 P-5
+1 P-3
+
+1 GS (OL)
+
+Administrative 
+Management
+
+1 P-5
+1 P-4
+
+1 GS (OL)
+
+Project Manager
+
+1 D-2
+1 GS (OL)
+
+Technology 
+Management
+
+1 D-1
+1 P-5
+
+Process Management
+
+1 D-1
+1 P-5
+
+Human Resources 
+Team
+
+1 D-1
+2 P-5
+3 P-4
+1 P-3
+
+1 GS (OL)
+
+Supply Chain Team
+
+1 D-1
+2 P-5
+3 P-4
+1 P-3
+
+1 GS (OL)
+
+Finance & Budget 
+Team
+
+1 D-1
+2 P-5
+3 P-4
+1 P-3
+
+1 GS (OL)
+
+Central Support 
+Services Team
+
+1 D-1
+2 P-5
+3 P-4
+1 P-3
+
+1 GS (OL)
+ 
+
+ 
+ 
+
+60. The temporary posts proposed for change management (1 P-5, 1 P-3, 1 GS 
+(OL)) would focus on assessing the impact of the ERP system on staff and 
+management, designing and implementing a strategy for support activities in areas 
+such as communication, organizational development, and training to promote a 
+smooth transition. A communications programme would be aimed at making all staff 
+aware of ERP, its goals and objectives, impact on work, and keeping the user 
+community at large up-to-date, including through the development and maintenance 
+of a website. 
+
+61. Two temporary posts are proposed for process management (1 D-1, 1 P-5). The 
+Process Management Coordinator (D-1) will lead business process improvement 
+initiatives that will be required in the implementation of ERP and will be 
+responsible for the overall quality assurance for the project. He/she will be 
+supported by a Senior Project Officer (Risk Management). The process management 
+staff will plan the scope and timing of the milestone reviews and manage them. 
+
+62. The temporary posts proposed for technology management (1 D-1, 1 P-5) 
+would deal with activities encompassing the definition of the enterprise-wide ICT 
+architecture, setting technical standards, projecting enterprise-wide ERP needs, 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 22 
+ 
+
+evaluating the suitability of infrastructure operations and identifying gaps between 
+existing infrastructure and ERP requirements, and provide expertise and guidance 
+during the implementation phase.  
+
+63. The temporary posts proposed for administrative management (1 P-5, 1 P-4, 
+1 GS (OL)) would ensure that resources are efficiently utilized, monitored and 
+reported accordingly. The functions to be carried out include certifying funds, 
+monitoring budget performance, preparing budget estimates and performance 
+reports, providing administrative support to the ERP team, ensuring that contractual 
+arrangements are fulfilled, including compliance of the various commercial 
+contracts as well as monitoring quality assurance and resolving contract variation 
+issues. 
+
+64. A total of 32 temporary posts are proposed to staff the four functional teams 
+representing human resources, supply chain, finance and central support services. 
+Each team would be headed by a Team Leader (D-1) and is accountable to the 
+Project Director. Each team will be supported by two senior analysts (P-5), three 
+ERP functional experts (P-4), one ICT officer (P-3) and one ICT assistant (General 
+Service (Other level)). Each team is responsible for defining the functionality 
+requirements of the Secretariat worldwide, and for the implementation of a new 
+global ERP system within the area of expertise in coordination with business owners 
+and heads of departments or offices. In particular, each team will: 
+
+ (a) Lead, supervise and carry out a detailed analysis of key functional 
+processes and related functionalities at the Secretariat, offices away from 
+Headquarters, tribunals and peacekeeping operations worldwide; 
+
+ (b) Coordinate the work carried out by different specialists and subject 
+matter experts within and across each functional team; 
+
+ (c) Formulate and implement the substantive work programme for the team; 
+oversee the management of activities undertaken, ensuring that programmed 
+activities are carried out in an effective and timely manner; 
+
+ (d) Provide expert guidance related to process re-engineering and ensure 
+validation of outcomes by all stakeholders; 
+
+ (e) Collaborate with the technology team in the determination of the 
+functional fit of competing ERP software and the evaluation of interoperability with 
+existing software;  
+
+ (f) Contribute to the development and implementation of a change 
+management plan and the development of relevant user training modules and 
+manuals. 
+
+65. Change management is a critical element of a successful ERP implementation. 
+A structured change approach improves the chances of project success by ensuring 
+“buy-in” on the part of all stakeholders at every stage of the process. This “buy-in” 
+can be achieved through use of a communication strategy, creating project 
+champions, improving transparency, identification of and addressing major 
+obstacles to implementation such as staff resistance and development of an effective 
+means to ensure sustainable behavioural changes. Process improvement, 
+communication and other approaches for effecting change are essential, enabling 
+broad input and participation which ensures ownership of decisions by programme 
+managers and other relevant staff. 
+
+
+
+ A/62/510/Rev.1
+ 
+
+23 08-30226 
+ 
+
+ (d) Training 
+ 
+
+66. It is expected that over 10,000 staff members will require training at duty 
+stations worldwide. Training modes would include online learning and “train the 
+trainer” programmes. The latter training programme serves the dual purpose of 
+reducing overall costs and building critical internal capacity at duty stations. Key 
+determinants of overall training costs include the current employee skill set, 
+responsibility level, modes of training delivery and timing of training programmes. 
+Accordingly, a provision of $37 million is sought for that purpose. 
+ 
+
+ (e) Operational costs 
+ 
+
+67. Provision amounting to $4.7 million is sought to cover general operating 
+expenses, furniture and equipment as well as supplies and materials required in 
+connection with the proposed establishment of the 44 posts for the ERP project 
+team.  
+ 
+
+ (f) Contingency provision 
+ 
+
+68. In formulating the total project requirements, an independent review was 
+sought as a means of validating the amounts to be sought. However, notwithstanding 
+the external review, uncertainty arises in any large-scale project over the life of its 
+implementation. Accordingly, contingency provision has been an accepted fiscal 
+planning tool for managing the risk of cost escalations and covering potential cost 
+estimate shortfalls. In determining the percentage amount to be proposed for 
+contingency, independent advice based on experiences of global ERP 
+implementations recommended a range of 10-25 per cent. In the present proposals, a 
+contingency factor of 15 per cent of the total of the individual components described 
+above has been used as the basis of calculation for the contingency provision of 
+$37.3 million. Recourse to the contingency provision during the life of the project 
+implementation will be reported accordingly to the General Assembly in the annual 
+reports. 
+ 
+ 
+
+ G. Risk management 
+ 
+ 
+
+69. A preliminary analysis on risks presented here provides a starting point for 
+more detailed and structured examination, including the use of risk assessment 
+services, which will be engaged through a competitive procurement process. 
+ 
+
+ 1. Operational risk 
+ 
+
+70. One of the key objectives of the ERP project is to implement best practice 
+processes. During process changes that affect planning and resource allocation, 
+critical support to current operations will be at risk. The Secretariat’s goal for ERP 
+is to build an integrated global system, which includes all financial, human and 
+physical resource processes at Secretariat locations globally. Operational entities 
+will need to redirect efforts to ERP implementation to support business processes re-
+engineering, design of the new system, preparation of legacy data, and rolling out 
+the new application. The impact of failing to provide critical support to operations 
+adversely affects the achievement of mandates.  
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 24 
+ 
+
+71. Given competing priorities, business owners will need to plan well in advance 
+and carefully assign resources to ensure that operational and ERP tasks are 
+accomplished. Backstopping specific operational needs during implementation will 
+mitigate the identified risk. 
+ 
+
+ 2. Financial risk 
+ 
+
+72. The decision to replace IMIS with the ERP system could place financial 
+integrity at risk during transition. Replacement will be complicated owing to eight 
+separate IMIS installations, each with interconnections with other legacy systems 
+and significant data not held in IMIS. The number of connections and proportion of 
+data are high and accordingly the impact of financial risk is high. In the case of 
+failure, a range of alternatives would be activated incurring time and cost penalties, 
+which heighten the sensitivity of financial risk. 
+
+73. Financial risk will be mitigated by taking a systematic approach in making 
+IPSAS policies operational through tripartite efforts by the IPSAS project, business 
+areas and the ERP project. Additional mitigation measures involve development of 
+legacy transitional arrangements. Where specific functionalities cannot be fully 
+deployed in time, interim arrangements will be made for IPSAS compliance within 
+existing systems. That effort will be complemented by support from technology 
+owners in facilitating data migration and any necessary temporary interfaces with 
+legacy systems. 
+ 
+
+ 3. Reputation risk 
+ 
+
+74. The Organization’s reputation will be enhanced by achieving IPSAS 
+compliance competently and without qualification. The provisions of section IV, 
+paragraph 2, of General Assembly resolution 60/283 are being applied and IPSAS 
+implementation timings are realistically synchronized with the introduction of the 
+ERP system. Contingent on having the IPSAS required modules of ERP in place by 
+the end of 2010, future financial statements shall be based on progressive 
+incorporation of IPSAS standards, starting with those for the period ending 
+31 December 2011. However, if the funding proposal for the ERP project is not 
+approved by the General Assembly at its resumed sixty-second session, it will not be 
+possible for the Secretariat to deploy IPSAS-compliant functionalities by the end of 
+2010, resulting in the Secretariat failing to meet the expectations of Member States 
+and the public. A communication plan for engaging external stakeholders will be 
+developed for IPSAS implementation in conjunction with other key reform 
+initiatives, including enterprise resource management. 
+ 
+
+ 4. Time and budget risks 
+ 
+
+75. Completing the project on time and within budget is put at risk by the usual 
+procedures for cross-organizational consultations and decision-making. The 
+likelihood of time and budget risks is high and is demonstrated by reviewed 
+performance of other project activities by the Secretariat. Similarly demonstrated 
+are the high impact and sensitivity of time and budget overruns. 
+
+76. Mitigation of time and budget risks will be by exceptional handling of ERP 
+issues in cross-organizational consultations and decision-making. Concurrent 
+activities will be boxed into a period of time defined by key milestones and capped 
+by a total cost, which shall not be exceeded during the time box. All internal 
+
+
+
+ A/62/510/Rev.1
+ 
+
+25 08-30226 
+ 
+
+stakeholders will be unified in committing to the time-boxing milestones set 
+separately in the implementation plan. It is expected that strong commitment will 
+also be demonstrated in prompt decision-making and responsiveness in supporting 
+project activities.  
+ 
+
+ 5. Technical quality risks 
+ 
+
+77. The capacities of internal expertise do not cover all specific competencies of 
+ERP implementation and risk technical quality. Technical quality affects the upgrade 
+effort and longer-term utility of the new system and therefore has a high impact. The 
+wide range of technical aspects and complexity of interdependencies result in a high 
+likelihood of risk. Technical failure would cause the project to fall short of replacing 
+legacy systems with a next-generation system and therefore sensitivity is high. 
+Technical quality risks will be mitigated by selecting competent external system 
+integrators with extensive ERP implementation experience and, on an as-needed 
+basis, using independent third-party expertise for evaluating and validating key 
+technical decisions throughout the project period. 
+ 
+
+ 6. Commercial performance risks 
+ 
+
+78. Current procurement procedures and contractual arrangements place at risk the 
+commercial performance required of ERP implementation partners. The duration 
+and global reach of implementation heighten the likelihood and impact of 
+commercial performance risk. High sensitivity of that risk is a direct consequence of 
+heavy reliance on commercial services, particularly for systems integration. 
+Mitigating commercial performance risk will include undertaking thorough due 
+diligence efforts during the request-for-proposals process and engaging legal advice 
+to determine contractual arrangements that assign the risk burden in the best 
+interests of the Organization. 
+ 
+ 
+
+ H. Financing arrangements 
+ 
+ 
+
+79. The main value of the enterprise resource planning system will be that it 
+provides an opportunity to streamline and improve the operations of the entire 
+Organization through process-re-engineering, sharing of common data and 
+implementation of best practices and standards. As the ERP system encompasses all 
+administrative activities of the Organization, namely finance and budget 
+management, human resources management, supply chain management, central 
+support services, and other core services, due consideration has been given to the 
+appropriate channels of funding for the project, as its financing should not be solely 
+restricted to the regular budget. In this connection, it is proposed that the ERP be 
+financed from among the main sources of funds, namely the regular budget, 
+peacekeeping and extrabudgetary resources in the following percentages: 15 per 
+cent from the regular budget; 62 per cent from the peacekeeping support account; 
+and 23 per cent from the special accounts for programme support costs to which are 
+credited overhead income generated by expenditures relating to technical 
+cooperation, and to general trust funds as well as reimbursement for administrative 
+support provided by the Organization to extrabudgetary entities such as the United 
+Nations Development Programme and the United Nations Children’s Fund, and so 
+forth. That formula is based on the distribution of 2008-2009 estimated resources 
+between the regular budget, peacekeeping activities and technical cooperation and 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 26 
+ 
+
+general trust funds and administrative support provided by the Organization to 
+extrabudgetary entities, proportioned against the total ERP project cost. 
+
+80. Under that arrangement, the overall estimated cost of the ERP project 
+($285,560,600 at current rates), inclusive of the contingency provision of 
+$37,247,000 would be distributed as indicated in table 2 below. The contingency 
+provision shared between the three sources of funding would amount to $5,587,000 
+under the regular budget, $23,093,200 under the peacekeeping support account and 
+$8,566,800 under the extrabudgetary resources. It is proposed that the contingency 
+provision be financed immediately in 2008-2009. 
+ 
+
+  Table 2  
+Summary of net resource requirements by source of funds  
+(Full project cost at current rates) 
+(Thousands of United States dollars) 
+ 
+ 
+
+Source of funds 2008-2009a To end of project 2012 Total 
+
+Regular budget  12 348.6 24 898.4 37 247.0 
+
+Peacekeeping support account 51 041.0 102 913.4 153 954.4 
+
+Extrabudgetary 18 934.7 38 177.5 57 112.2 
+
+ Total 82 324.3 165 989.3 248 313.6 
+
+Contingency provision 37 247.0 — 37 247.0 
+
+ Total 119 571.3 — 285 560.6 
+ 
+
+ a For 2008-2009, amount relates to the peacekeeping period 1 July 2008 to 30 June 2009 and 
+first six months of the subsequent period. 
+
+ 
+ 
+
+81. Of the total estimated amount for the project for the biennium 2008-2009 of 
+$82,324,300 (at current rates), it is proposed that: (a) an amount of $12,348,600 be 
+funded under the regular budget, (b) the amount of $51,041,000 from the 
+peacekeeping support account, consisting of $37,355,300 for the period 1 July 2008 
+to 30 June 2009 and an amount of $13,685,700 from the subsequent peacekeeping 
+support account budget for the period 1 July 2009 to 31 December 2009. At the 
+same time, in line with the cost-sharing arrangements, an amount of $18,934,700 
+would be provided from extrabudgetary resources. 
+
+82. With respect to the financing of the requirements under the regular budget for 
+the biennium 2008-2009, approval is sought to: 
+
+ (a) Utilize the accrued interest income under the IMIS Fund previously 
+established for the IMIS project. The current balance at 31 December 2007 amounts 
+to $2.346 million. It will be recalled that in its resolution 56/271, the General 
+Assembly had authorized the use of accrued interest income to meet requirements of 
+IMIS relating to the activities detailed in the report of the Secretary-General 
+(A/56/602);  
+
+ (b) Use of the available balances in the surplus account of the United 
+Nations General Fund. As at 31 December 2007, the available balance amounts to 
+$141.1 million. Accordingly, it is proposed that the balance required for the ERP 
+project for the biennium 2008-2009, after consideration of paragraph 82 (a) above 
+
+
+
+ A/62/510/Rev.1
+ 
+
+27 08-30226 
+ 
+
+amounting to $15.6 million, be funded through the surplus account. This would 
+require a suspension of the provisions for the application of credits under 
+regulations 3.2 (d), 5.3 and 5.4 of the Financial Regulations and Rules of the United 
+Nations, which would otherwise have to be surrendered pursuant to those 
+provisions. 
+
+83. In view of the lifespan of project implementation over a five-year period, it is 
+proposed that a multi-year special account be established to record income and 
+expenditures for the ERP project. It will be recalled that similar arrangements had 
+been authorized in connection with the financial management of the previous IMIS 
+project as well as various construction and/or major improvement projects. Funds 
+provided for the ERP project and resultant expenditures therefore will be recorded 
+in a separate ERP Fund and any unexpended balances will be carried forward into 
+succeeding bienniums until the project is completed. Interest earned on the ERP 
+Fund will be credited to that Fund. 
+ 
+ 
+
+ IV. Complementary systems: what an enterprise resource 
+planning system will not cover 
+ 
+ 
+
+84. The present section of the report resubmits proposals that had earlier been 
+submitted in the report of the General Assembly (A/62/510). The raison d’être of the 
+projects remains unchanged and hence has effectively been repeated. The financial 
+requirements have, however, been updated to reflect current rates as well as a 
+modified funding period. 
+
+85. The ERP system will provide the Organization with the required tools to 
+effectively plan, allocate, monitor and report the flow of resources globally. It will 
+also add efficiency through the streamlining, standardization and automation of 
+administrative processes. 
+
+86. However, an ERP system, in and of itself, will not address all inefficiencies. 
+Nor will it ensure the quality of the “products” developed and delivered by the 
+United Nations Secretariat. Of particular relevance to the Secretariat are two areas 
+which absorb significant resources: (a) the delivery of services and (b) the creation, 
+preservation, dissemination, archival and disposal of documents and other 
+information in a variety of media. 
+ 
+ 
+
+ A. Managing services: customer relationship management 
+ 
+ 
+
+87. While the ERP system will streamline and automate the core financial, 
+administrative and management operations, the CRM system will deal with the 
+specific processes connected with providing day-to-day services for end-users, 
+which are not usually dealt with by an ERP system. 
+
+88. The primary objective of a CRM system is to improve the quality and cost-
+effectiveness of services provided to end-users, which includes a wide range of 
+customers and constituents. 
+
+89. While ERP focuses on the flow of resources throughout the Organization at the 
+macro level, CRM addresses the detailed processes involved in the provision of 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 28 
+ 
+
+specific services for specific end-users. The following are examples of how these 
+two systems relate with each other: 
+
+ (a) While the acquisition of computers or furniture will be dealt with in an 
+ERP system, the assignment of such assets to specific individuals will be handled by 
+the CRM system; 
+
+ (b) While the overall inventory and the costs of maintaining equipment in 
+working condition will be managed by the ERP system, the detailed process of 
+maintaining a specific item, such as identifying the need for a repair, executing the 
+repair, and tracking the assignment of the item to an individual technician, will be 
+handled by the CRM system; 
+
+ (c) While human resources will be managed at a higher level by the ERP 
+system, the workforce management for service-related activities will be managed at 
+a micro level within the CRM system. 
+
+90. The CRM system will be very important in large offices, where the high 
+number of users and the variety and complexity of services provided demand 
+efficient methods to optimize the use of available resources. In the field, however, 
+the provision of services to civilian and military personnel acquires a critical 
+dimension, as the field mission is likely to be the sole provider of basic and often 
+vital day-to-day services.  
+
+91. Resources required for the implementation of CRM relate to three specific 
+priority areas. These cover facilities and Member States services management, 
+peacekeeping troop contribution management, and peacekeeping 
+telecommunications billing. Given the nature of these three areas, it is proposed that 
+the costs related to facilities and Member States services management would be 
+borne by the regular budget, while the costs related to the other two areas would be 
+borne by the peacekeeping support account. The costs associated with these three 
+areas are summarized in table 3 below. Further information on the implementation 
+of the CRM system in these areas is detailed in annex I to the present report.  
+ 
+
+  Table 3 
+Resource requirements for CRM implementation, by priority area 
+(Thousands of United States dollars) 
+ 
+ 
+
+Regular budgeta  
+
+ Facilities and Member States services management 1 510.9 
+
+ Subtotal 1 510.9 
+
+Peacekeeping operations support account  
+
+ Peacekeeping troop contributions management 3 626.9 
+
+ Peacekeeping telecommunications billing 3 083.2 
+
+ Subtotal 6 710.1 
+
+ Total 8 221.0  
+ 
+
+ a At current rates. 
+
+
+
+ A/62/510/Rev.1
+ 
+
+29 08-30226 
+ 
+
+92. The total resource requirements for the implementation of CRM amounting to 
+$8,221,000 (at current rates) are detailed in table 4 below: 
+ 
+
+  Table 4 
+Total resource requirements for CRM implementation 
+(Thousands of United States dollars) 
+ 
+ 
+
+  Regular budgeta Peacekeeping support account 
+
+Object of expenditure 
+2008-2009 
+
+estimate
+1 July 2008 to
+ 30 June 2009
+
+1 July 2009 to 
+ 30 June 2010 
+
+Total peacekeeping
+ support account Grand total
+
+Other staff costs 491.4 746.0 746.2 1 492.2 1 983.6
+
+Consultants and experts 747.3 297.5 107.5 405.0 1 152.3
+
+Travel of staff 32.6 272.0 136.0 408.0 440.6
+
+Contractual services 69.7 153.6 76.8 230.4 300.1
+
+General operating expenses 53.4 597.0 596.9 1 193.9 1 247.3
+
+Furniture and equipment 116.5 2 980.6 — 2 980.6 3 097.1
+
+ Total 1 510.9 5 046.7 1 663.4 6 710.1 8 221.0
+ 
+
+ a At current rates. 
+ 
+ 
+
+93. Of the total estimated amount required for the CRM project ($8,221,000), it is 
+proposed that the amount of $1,510,900 under section 28A, Office of the Under-
+Secretary-General for Management, of the programme budget for the biennium 
+2008-2009, be funded through the balance in the surplus account of the United 
+Nations General Fund. This would require a suspension to the provisions of 
+regulations 3.2 (d), 5.3 and 5.4 of the Financial Regulations and Rules of the United 
+Nations. In addition, it is proposed that the remaining amount of $6,710,100 be 
+funded from the peacekeeping support account distributed as follows: (a) an amount 
+of $5,046,700 under the peacekeeping operations support account for the period 
+1 July 2008 to 30 June 2009, and (b) an amount of $1,663,400 to be funded under 
+the subsequent peacekeeping support account budget proposals for the period 1 July 
+2009 to 30 June 2010. 
+ 
+ 
+
+ B. Managing knowledge: enterprise content management system 
+ 
+ 
+
+94. The ECM system can be seen as the counterpart of ERP for the substantive 
+areas of the Organization. While ERP deals with resources (people and financial 
+assets), ECM addresses information assets of a substantive nature. 
+
+95. In common with most organizations, the Secretariat has much more 
+“unstructured” information than “structured” information. Figure IV provides a 
+summary of what typically constitutes unstructured information and its importance 
+and volume within an organization such as the Secretariat: 
+ 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 30 
+ 
+
+  Figure IV 
+Summary of structured and unstructured content 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+96. In a knowledge-intensive organization where information is a key enterprise 
+asset and enabler, ECM is recognized as a core competency and capability. Loss of 
+information or inability to access it can be crippling for most organizations. An 
+ECM system addresses these fundamental requirements in many ways: 
+
+ (a) The ECM system brings structure to unstructured content, by requiring 
+the entry of certain data-attributes called “metadata” for every document or other 
+form of content that is created and stored; 
+
+ (b) By establishing clear ownership of content and audit trails of access and 
+reuse of content, the ECM system can provide unmatched security for information 
+assets and enable the Secretariat to reliably provide access to information, internally 
+and externally, to increase the transparency of its operations. Member States, 
+Permanent Missions, partners, telecommuters, and so on, can be provided secure 
+access to relevant information from any location; 
+
+ (c) The ECM system will provide an efficient records management system 
+that meets mandated standards for archiving and disposing enterprise content; 
+
+ (d) Optimizing the management of content through version control and reuse 
+of existing content, will make the content volume more manageable and help the 
+Secretariat to contain the storage growth rate which is outstripping industry 
+averages, resulting in high costs for storage infrastructure and recurring costs for 
+storage and backup; 
+
+ (e) The ECM system also facilitates knowledge-sharing within the 
+Secretariat and with other international organizations, non-governmental 
+organizations and the public at large through its capabilities for the creation and 
+dissemination of content on internal and external websites; 
+
+ (f) By providing a simple, browser-based capacity to create content, it 
+empowers staff with minimal ICT skills to create and manage dynamic content of 
+both internal and external websites; 
+
+
+
+ A/62/510/Rev.1
+ 
+
+31 08-30226 
+ 
+
+ (g) By standardizing web content authoring, the ECM system can easily 
+enforce Secretariat standards for visual content, such as user interfaces, accessibility 
+requirements, and facilitate the branding of internal and external websites; 
+
+ (h) The ECM system can rigorously enforce security and control over the 
+release of information to websites, especially external websites. For example, the 
+release of content simultaneously in all the official languages could be automatically 
+enforced; 
+
+ (i) The ECM system will enable website administrators to manage multiple 
+global sites (United Nations Headquarters, offices away from Headquarters, etc.). 
+
+97. The examples listed above clearly indicate the benefits of an ECM solution as 
+an effective knowledge-sharing facility. In the field, an ECM system constitutes an 
+indispensable complement to ERP. Peacekeeping and political missions conduct 
+business with local entities largely based on paper transactions. The ability to 
+digitize, classify, store and electronically link these documents to ERP ensures the 
+integrity of financial transactions. In that connection, several reports of the Office of 
+Internal Oversight Services have highlighted the poor mechanisms which exist today 
+to ensure proper asset and financial controls in the field. 
+
+98. Resources required for the implementation of the ECM relate to priority areas 
+covering the Official Documents System (ODS), the United Nations Internet site, 
+collaboration capabilities, the peacekeeping reporting process automation and 
+guidance content repository as well as overall ECM governance. Given the nature of 
+these areas, it is proposed that the costs related to ODS and the United Nations 
+Internet site would be borne by the regular budget, while the costs related to the 
+peacekeeping reporting process automation and guidance content repository would 
+be borne by the peacekeeping support account. The costs related to the other areas 
+(ECM governance and collaboration capabilities) would be equally shared between 
+the regular budget and peacekeeping support account. The costs associated with the 
+above-mentioned areas are summarized in table 5 below. Further information on the 
+implementation of the ECM system in those areas is detailed in annex II to the 
+present report. 
+ 
+
+  Table 5 
+Resource requirements for ECM implementation, by priority area  
+(Thousands of United States dollars) 
+ 
+ 
+
+Regular budgeta  
+
+ ECM Governance 234.9 
+
+ United Nations Internet site 2 983.0 
+
+ ODS 670.4 
+
+ Collaboration capabilities 315.3 
+
+ Subtotal 4 203.6 
+
+Peacekeeping operations support account  
+
+ ECM Governance 240.0 
+
+ Collaboration capabilities 322.1 
+
+ Peacekeeping Reporting Process Automation 6 009.5 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 32 
+ 
+
+ Peacekeeping Guidance Content Repository 4 216.9 
+
+ Subtotal 10 788.5 
+
+ Total 14 992.1 
+ 
+
+ a At current rates. 
+ 
+ 
+
+99. Total resource requirements for the implementation of the ECM would amount 
+to $14,992,100 and are detailed in table 6 below: 
+ 
+
+  Table 6 
+Total resource requirements for ECM implementation 
+(Thousands of United States dollars) 
+ 
+ 
+
+ Regular budgeta Peacekeeping support account 
+
+Object of expenditure 
+2008-2009
+
+estimate
+1 July 2008 to 
+30 June 2009
+
+1 July 2009 to  
+30 June 2010
+
+Total peacekeeping 
+support account Grand total
+
+Other staff costs 899.3 1 553.6 1 065.1 2 618.7 3 518.0
+
+Consultants and experts 1 272.3 441.2 102.6 543.8 1 816.1
+
+Travel of staff — 240.0 120.0 360.0 360.0
+
+Contractual services 269.4 222.8 67.2 290.0 559.4
+
+General operating expenses 596.4 995.0 995.0 1 990.0 2 586.4
+
+Furniture and equipment 1 166.2 4 986.0 — 4 986.0 6 152.2
+
+ Total 4 203.6 8 438.6 2 349.9 10 788.5 14 992.1
+ 
+
+ a At current rates. 
+ 
+ 
+
+100. Of the total estimated amount required for the ECM project of $14,992,100, it 
+is proposed that the General Assembly approve under section 28A, Office of the 
+Under-Secretary-General for Management, of the programme budget for the 
+biennium 2008-2009, an amount of $4,203,600 to be funded from the surplus 
+account of the United Nations General Fund. This would require a suspension of 
+regulations 3.2 (d), 5.3 and 5.4 of the Financial Regulations and Rules of the United 
+Nations. In addition it is proposed that the balance of the project costs amounting to 
+$10,788,500 be funded under the peacekeeping operations support account budget 
+for the period 1 July 2008 to 30 June 2009 ($8,438,600) and the subsequent 
+peacekeeping support account budget for the period 1 July 2009 to 30 June 2010 
+($2,349,900). 
+ 
+ 
+
+ V. Conclusion 
+ 
+ 
+
+101. The present report sets forth the Secretary-General’s vision of the role that ICT 
+can play in transforming the way the Secretariat works. In accordance with that 
+vision, there is a need to simplify and streamline rules, policies, and processes so 
+that the Secretariat is not totally mired in process, but becomes proactive, 
+responsive and results-oriented. The enterprise systems proposed — ERP, CRM, and 
+ECM system — in the present report will make that vision achievable, and have the 
+
+
+
+ A/62/510/Rev.1
+ 
+
+33 08-30226 
+ 
+
+potential of serving as the engine for supporting management reform and 
+modernizing the Organization.  
+
+102. Strategic ICT capabilities of the Secretariat lag behind other organizations 
+owing to systemic under-investments for Organization-wide purposes. As a result, 
+the Secretariat has not been able to fully leverage ICT in a manner that enables the 
+entire Organization to benefit from its potential. The recent Secretariat-wide ICT 
+strategic planning has revealed acute needs for improving the management of 
+institutional knowledge and resources in the context of global operations of the 
+Secretariat. These three enterprise systems are critical and integral parts of the new 
+comprehensive ICT strategy for the Secretariat. 
+
+103. However, it is not only a matter of simplifying processes. Current systems are 
+at the breaking point, and woefully inadequate for carrying out the increasingly 
+complex, far-reaching operations of the Organization. It is urgent that the Secretariat 
+proceed with building core modern information management systems that can 
+sustain the vastly increased operations the United Nations is undertaking across the 
+globe.  
+
+104. While the resources required are considerable, but so are the long-term 
+benefits to the Secretariat. What is clear is the overwhelming need to embark on 
+these projects without delay, in order to better equip the Secretariat to successfully 
+meet the increasing demands and commitments and achieving efficiency gains 
+across the board. It is an investment for the future. 
+ 
+ 
+
+ VI. Summary of resource requirements for the enterprise 
+systems for the United Nations Secretariat worldwide and 
+request for action to be taken by the General Assembly 
+ 
+ 
+
+ A. Summary of resource requirements 
+ 
+ 
+
+105. The following table summarizes the resource requirements (net of staff 
+assessment) for the ERP, CRM and ECM projects proposed in the present report. It 
+is estimated that a total of $308.8 million (at current rates) will be required for the 
+implementation of ERP ($285.6 million, including a contingency provision of 
+$37.3 million), CRM ($8.2 million) and ECM ($15 million) projects. 
+
+106. The total amount for the biennium 2008-2009 is estimated at $140.8 million 
+and would be required to implement ERP ($119.6 million, including a contingency 
+provision of $37.3 million), CRM ($7.4 million) and ECM ($13.8 million). 
+
+107. It is proposed to fund the regular budget portion of the project under section 
+28A, Office of the Under-Secretary-General for Management, of the programme 
+budget for the biennium 2008-2009 from the combination of the use of interest 
+accrued, and from the surplus account of the General Fund. In that connection, an 
+amount of $2.3 million from interest accrued under the Integrated Management 
+Information System Fund available at 31 December 2007 would be used to fund the 
+requirements of the ERP project. In addition, the General Assembly would be 
+requested to decide that the provisions for the application of credits under 
+regulations 3.2 (d), 5.3 and 5.4 of the Financial Regulations and Rules of the United 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 34 
+ 
+
+Nations shall be suspended in respect of the amount of $21.6 gross ($21.3 million 
+net), which otherwise would have to be surrendered pursuant to those provisions. 
+
+108. The remaining requirements for 2008-2009 would be funded from the 
+peacekeeping support account ($89.6 million) and extrabudgetary resources 
+($27.5 million). 
+ 
+
+Table 7 
+Summary of net resource requirements, by project (at current rates) 
+(Thousands of United States dollars) 
+
+ 
+ 
+
+ Regular budget  Peacekeeping support account Extrabudgetary  
+
+Object of  
+expenditure 
+
+2008- 
+2009 
+
+To end of 
+project  
+
+2012 Subtotal  
+
+1 July 2008 
+to 30 June 
+
+2009
+
+1 July 2009 to 
+31 December 
+
+2009
+To end of 
+projectsa Subtotal
+
+2008- 
+2009 
+
+To end of 
+project 
+
+2012 Subtotal Total
+
+A. Enterprise 
+resource planninga 12 348.6 24 898.4 37 247.0  37 355.3 13 685.7 102 913.4 153 954.4 18 934.7 38 177.5 57 112.2 248 313.6
+
+ Contingency 
+provision 5 587.0 — 5 587.0  23 093.2 — — 23 093.2 8 566.8 — 8 566.8 37 247.0
+
+ Subtotal 17 935.6 24 898.4 42 834.0  60 448.5 13 685.7 102 913.4 177 047.6 27 501.5 38 177.5 65 679.0 285 560.6
+
+B. Customer 
+relationship 
+management 1 510.9 — 1 510.9  5 046.7 831.8 831.6 6 710.1 — — — 8 221.0
+
+C. Enterprise 
+content 
+management 4 203.6 — 4 203.6  8 438.6 1 175.0 1 174.9 10 788.5 — — — 14 992.1
+
+ Total 23 650.1 24 898.4 48 548.5  73 933.8 15 692.5 104 919.9 194 546.2 27 501.5 38 177.5 65 679.0 308 773.7
+ 
+
+ a It is expected that the CRM and ECM projects under the Peacekeeping support account would be completed by 2010. 
+ 
+ 
+ 
+
+ B. Actions to be taken by the General Assembly 
+ 
+ 
+
+109. The General Assembly is requested: 
+
+ (a) To endorse the proposals and approach, described in the present report 
+for the replacement of the IMIS system and related ancillary systems in all offices of 
+the United Nations Secretariat, including offices away from Headquarters, regional 
+commissions, peacekeeping and political missions, and other field missions; 
+
+ (b) To approve the overall cost of the ERP project to be completed during the 
+period 2008-2012, at a total project budget estimated at $286,632,700 gross 
+($285,560,600 net) (at current rates), including an amount of $37,247,000 for 
+contingency provisions; 
+
+ (c) To approve the overall cost of the ECM project at a total project budget 
+estimated at $14,992,100 (at current rates);  
+
+ (d) To approve the overall cost of the CRM project at a total project budget 
+estimated at $8,221,000 (at current rates);  
+ 
+
+
+
+ A/62/510/Rev.1
+ 
+
+35 08-30226 
+ 
+
+  Regular budget 
+ 
+
+ (e) To approve an amount of $23,650,100 under section 28A, Office of the 
+Under-Secretary-General for Management, and $306,300 under section 35, Staff 
+assessment to be offset by an equivalent amount under income section 1, Income 
+from staff assessment, of the programme budget for the biennium 2008-2009; 
+
+ (f) To approve the utilization of an amount of $2,346,000 of interest accrued 
+under the Integrated Management Information System Fund available at 
+31 December 2007 for the requirements of the ERP project; 
+
+ (g) To decide that for the biennium 2008-2009 to meet the three projects, the 
+provisions for the application of credits under regulations 3.2 (d), 5.3 and 5.4 of the 
+Financial Regulations and Rules of the United Nations shall be suspended in respect 
+of the amount of $21,610,400 gross ($21,304,100 net), which otherwise would have 
+to be surrendered pursuant to those provisions; 
+
+ (h) To note that the future remaining requirements in the estimated amount 
+of $25,664,200 gross ($24,898,400 net) for the implementation of ERP, CRM and 
+ECM would be considered in the context of the proposed programme budget for the 
+relevant biennium; 
+ 
+
+  Peacekeeping operations support account 
+ 
+
+ (i) To approve a total amount of $74,707,900 gross ($73,933,800 net) to be 
+financed from the peacekeeping operations support account for the period from 
+1 July 2008 to 30 June 2009 to meet the requirements of the ERP, ECM and CRM 
+projects as contained in the present report; 
+
+ (j) To note that the future remaining requirements in the estimated amount 
+of $124,269,700 gross ($120,612,400 net) will be included in subsequent 
+peacekeeping support account requirements for the financial periods until 2012; 
+ 
+
+  Extrabudgetary resources 
+ 
+
+ (k) To note that an estimated amount of $65,679,000 of the total ERP project 
+cost would be financed from extrabudgetary resources; 
+
+ (l) To authorize the Secretary-General to establish a multi-year special 
+account to record income and expenditures for this project. 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 36 
+ 
+
+Annex I 
+ 
+
+  Customer relationship management system 
+ 
+ 
+
+1. The procurement of leading CRM software has recently been completed. 
+Using this software, ICT Service Management and Facilities Service Management, 
+United Nations Headquarters, are expected to be implemented within 12 months, to 
+urgently replace current aging systems. 
+
+2. All the central ICT service providers within the Secretariat, ITSD/Department 
+of Management, the Communications and Information Technology Service, 
+Department of Field Support and the seven offices away from Headquarters, have 
+agreed to adopt standardized business processes using the ICT Infrastructure Library 
+(ITIL), an industry best practice, as the basis for managing their ICT services and to 
+implement the CRM software with little or no customization. Effectively, this means 
+that the software will be ready for implementation in all duty stations and 
+peacekeeping missions, after the initial implementation in New York using a 
+centralized model, whenever technically feasible.  
+
+3. Although no additional software development will be needed for the 
+implementation of ICT Service Management in other duty stations, each 
+implementation involves considerable effort in migrating current data to the new 
+software, changing the current business processes and workflows, retraining staff 
+and managing the project. The Secretariat will adopt a cautious and phased approach 
+to replacing existing ICT Service Management systems over a period of two years, 
+after implementation in New York. Resource requirements for implementation at 
+further locations will be considered in the context of the proposed programme 
+budget for the biennium 2010-2011.  
+
+4. The Economic and Social Commission for Asia and the Pacific (ESCAP) has 
+already undertaken a detailed business process review of all its facilities related 
+operations. The use of the central CRM system will provide an opportunity to 
+implement the revised business processes and, depending on lessons learned from 
+the implementation in New York and ESCAP, facilities management services will be 
+sought to be standardized at all duty stations. 
+ 
+ 
+
+  Customer relationship management in peacekeeping operations 
+ 
+ 
+
+5. Currently approximately 40 per cent of the peacekeeping budget is allocated to 
+establishing military and police capacity in support of mission mandates. Military 
+capacity is achieved through the provision of equipment, personnel and capacity by 
+troop-contributing countries, and requires verification of that capacity and 
+appropriate reimbursement for it. Similarly, Member States provide civilian police 
+components of peacekeeping operations either as individual civilian police 
+personnel or formed police units. The management of the military and police 
+capacity in field missions is a significant undertaking in terms of scale and 
+complexity and integrates the disciplines of finance, logistics as well as strategic 
+and tactical military and police operations. The service management components of 
+these operations will be automated using CRM technology. The project will focus on 
+the management of the lifecycle of activities required to manage and sustain military 
+and police capacity in field missions. 
+
+
+
+ A/62/510/Rev.1
+ 
+
+37 08-30226 
+ 
+
+6. At present, the telephone billing review, approval and cost recovery process is 
+highly manual and time-consuming. Analysis of call data is difficult and tracking of 
+the process is cumbersome. In several field missions and in some offices away from 
+Headquarters, this process has been automated using a variety of automation tools, 
+but a single global system does not exist. The Department of Peacekeeping 
+Operations intends to implement an end-to-end standard automated telephone billing 
+process supported by CRM technology that will provide increased accuracy, greater 
+accountability and transparency of the process. The scope of the project is expected 
+to include the automated calculations of calls and costs, clearly defined routing and 
+approvals, and interfaces with telephone switches and financial systems for 
+electronic payment and recovery resulting in savings in time and efficiency.  
+
+7. The proposed system will be initially implemented for the Department of 
+Peacekeeping Operations and the Department of Field Support at United Nations 
+Headquarters, followed by an extension to one or two field missions after 
+performance testing. CITS and ITSD will work closely during the requirements-
+gathering process to ensure that the solution developed can introduce a standardized 
+process across the Secretariat at all duty stations.  
+
+8. Another key constituency for the CRM system will be the Permanent 
+Missions. Leveraging the CRM system for other services, United Nations 
+Headquarters and ESCAP will jointly explore the possibility of building a Member 
+States relationship management capacity from both the Headquarters and field 
+perspectives. The project’s initial focus will be on the analysis of the interaction of 
+Member States with the Secretariat and the gathering of requirements, to develop a 
+“To Be” set of processes, in consultation with Member States, through the Working 
+Group on Informatics, which has been advocating such efforts. 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 38 
+ 
+
+Annex II 
+ 
+
+  Enterprise content management system 
+ 
+ 
+
+1. The ECM system will be a foundation for consolidating several discrete 
+systems that manage the creation, storage and distribution of content. The migration 
+of current systems to an ECM “platform” will be undertaken over several years, 
+prioritizing them on criticality for business continuity, potential for cost-savings or 
+efficiency gains, and compliance requirements. On this basis, a few important 
+projects have been identified for the initial rollout of ECM. 
+
+2. The Official Documents System (ODS) requires upgrading technologically as 
+soon as possible. Migration to an ECM platform will make it more robust in its 
+performance and availability 24 by 7, improve controls over the simultaneous 
+publication of documents in all official languages, and eliminate several 
+cumbersome processes in document handling from multiple duty stations. Further, 
+ODS requires upgrading functionally to allow authoring departments and offices, 
+regardless of geographic location, to collaborate on creation and approval of 
+documents, with detailed audit trails of the review, approvals and translations.  
+
+3. Initially, a functionally and technically re-engineered ODS will be prototyped 
+in a lab environment, using a commercial ECM solution. This will enable the 
+Secretariat to standardize the business processes for official documents and embark 
+on an automation of these processes in a later phase. 
+
+4. The United Nations Internet site, www.un.org, requires migration migrated to 
+the ECM platform expeditiously as it has become difficult to manage both 
+functionally and technically, owing to the myriad tools and technologies that sustain 
+its current state. The site has evolved over nearly a decade with mainly incremental 
+enhancements; a technological upgrade is necessary for the site to meet the 
+increasing expectations about both its content and its availability.  
+
+5. A standard content management system across authoring departments and 
+offices will enable the Department of Public Information to enforce global policies 
+for content creation, publishing and security, standards for presentation and 
+compliance with accessibility requirements, in line with best practices for 
+distributed content management. Such a system will improve the controls, for 
+example, over the release of content to the live environment in all official languages 
+simultaneously, or the retirement of obsolete content. 
+
+6. The first phase of the migration of the United Nations Internet website will 
+include the creation of the technical infrastructure and the implementation of web 
+content management in the Department of Public Information and other department 
+offices in United Nations Headquarters that directly contribute their content to the 
+United Nations website. 
+
+7. Another priority is to exploit the collaboration capabilities of ECM. These can 
+help Member States and delegations in many of their consultative processes that 
+involve secure, web-based exchange of documents and ideas. Features such as 
+threaded discussions, instant messaging, quick polling, version control and audit 
+trails to track changes, workflows for approval, and so on, can facilitate the 
+coordination of formal and informal agendas and the drafting of resolutions and 
+other outputs of all committees and working groups. Electronic team rooms can be 
+
+
+
+ A/62/510/Rev.1
+ 
+
+39 08-30226 
+ 
+
+created nearly on demand, using standard templates, even during the session of a 
+committee or group.  
+
+8. Simple or elaborate content classification can also be enabled to facilitate easy 
+retrieval and enhance the institutional memory of the committees and working 
+groups. Such content can also be made available securely to the Permanent Missions 
+based on access rules that can be established by the committees and working groups. 
+
+9. A successful enterprise-wide implementation of content management requires 
+strong governance. Therefore, the Secretariat has decided to adopt an industry 
+standard framework, created by the Association of Information and Image 
+Management. The framework prescribes a rigorous ECM implementation life cycle. 
+One of its prerequisites is a “business classification scheme”, a classification 
+scheme based on the business of the organization to be used for organizing, 
+accessing, retrieving, storing and managing its information. Such a scheme would 
+need to be easy to use, and yet sophisticated enough to meet the diverse needs of the 
+Secretariat.  
+ 
+ 
+
+  Enterprise content management in peacekeeping operations 
+ 
+ 
+
+10. The Department of Field Support, in collaboration with the Department of 
+Management (Information Technology Services Division and Archives and Records 
+Management Section) is currently developing an ECM road map following a 
+strategic analysis of the business needs and the operational and technical 
+environment of the Department. This activity will essentially orient the 
+Department’s future ECM initiatives and embed sound practices in them and as such 
+is a foundational element in embracing an enterprise vision. The lessons learned are 
+expected to facilitate the development of similar road maps for other departments.  
+
+11. Following the development of the ECM road map, the Department of Field 
+Support will initially address the core document workflows related to the 
+observation and reporting activities undertaken in field missions. Many of the core 
+functions of military observers, civilian police and substantive functions in field 
+missions depend on the gathering of raw data, its consolidation, analysis and finally 
+its formulation into meaningful information. In order to ensure that peacekeepers 
+have the information they require to fulfil their core functions, to ensure 
+information-sharing and greater collaboration and enhanced situational awareness 
+(tactical and strategic) among the geographically dispersed peacekeeping 
+community, the Department proposes to examine and map the associated processes 
+and target an initial implementation in a complex, multifaceted mission in order to 
+identify content management requirement links with mandate. Having analysed the 
+manner in which mandate drives content and the management of that content, 
+repeatable content management models will be developed and applied as appropriate 
+to other field missions. 
+
+12. In July 2005, the Peacekeeping Best Practices Section, under the aegis of its 
+Guidance Project, developed a guidance development system centred on a robust 
+Expanded Senior Management Team supported by policy and procedure. The 
+Guidance Project developed a framework of all known activities, numbering in 
+excess of 1,200 activity lines. Set against that framework, the Guidance Project has 
+sought to populate a database of all known guidance material in the Department of 
+Peacekeeping Operations and the Department of Field Support with a view to 
+
+
+
+A/62/510/Rev.1  
+ 
+
+08-30226 40 
+ 
+
+creating a central repository which can act as the focus of institutional knowledge. 
+That knowledge is then delivered to staff in the field through the peace operation’s 
+Intranet. The ECM solution will facilitate the formulation, enhancement and 
+publication of guidance material and can be leveraged to provide both a structured 
+repository for the guidance material developed to date, including external web-
+based informational resources, and the tools to foster collaboration in and between 
+field missions, by providing a shared space for subject matter experts throughout 
+peacekeeping field missions. 
+
+ 
+
+ 
+
+ 
+
+

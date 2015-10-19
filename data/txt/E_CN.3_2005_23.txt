@@ -1,0 +1,516 @@
+[Start1]
+Statistical Commission
+Thirty-sixth session
+1-4 March 2005
+
+
+	*	E/CN.3/2005/1.
+	a	See Official Records of the Economic and Social Council, 2004, Supplement No. 4 (E/2004/24), chap. I.A.
+Item 7 (f) of the provisional agenda*
+Activities not classified by field: information and 
+communication technologies statistics
+
+
+
+		Report of the Partnership on Measuring Information and Communication Technologies for Development
+
+
+		Note by the Secretary-General
+
+
+	The Secretary-General has the honour to transmit to the Statistical Commission the report of the Partnership on Measuring Information and Communication Technologies for Development. The report is transmitted to the Commission in accordance with a request of the Statistical Commission at its thirty-fifth session.a It is presented to the Commission for information.
+
+		Report of the Partnership on Measuring Information and Communication Technologies for Development
+
+
+
+Contents
+ChapterParagraphsPageI. 	Introduction	1–23II. 	Partnership on Measuring Information and Communication Technologies for Development	3–83A. Objectives	4–53B. Activities	6–84III. 	Global status of information and communication technology statistics	9–325A. Africa	11–125B. Asia and the Pacific	13–156C. Central Asia and selected European countries	16–196D. Latin America and the Caribbean	20–237E. Western Asia	24–267F. Members of the Organization for Economic Cooperation and Development	27–328IV. 	Core information and communication technology indicators	33–509A. Basic infrastructure, access and household indicators	36–4210B. Enterprises/information and communication technology sector	43–4711C. Education	48–5012V. 	Supplementary indicators	5113VI. 	Conclusion and way forward	5213	AnnexesI. 	Organization for Economic Cooperation and Development: proposed list of core information and communication technology indicators	15II. 	Africa: list of core information and communication technology indicators	18III. 	Latin America and the Caribbean: list of core information and communication technology questions	21IV. 	Western Asia: list of core information and communication technology indicators 	25
+
+
+	I.	Introduction 
+
+
+1.	During its thirty-fifth session, the Commission considered the issue of information and communication technology (ICT) statistics as part of the agenda. After consideration of several documents, the Commission inter alia emphasized the need for a coordinated effort to further develop indicators for ICT, and expressed the need for capacity-building in the area, in particular in developing countries.
+2.	The present report, which is a joint contribution of several international agencies involved in the statistical measurement of information and communication technologies, presents an overview of work currently under way in the international community in the area of information and communication technology statistics. It will first give a brief overview of the global Partnership on Measuring Information and Communication Technologies for Development, including its objectives and activities. It will then present the outcome of a global stock-taking exercise on official ICT statistics at the national level. That will be followed by an overview of core ICT indicators currently under consideration by the international community covering such areas as basic infrastructure and access, households, businesses, the information and communication technology sector and education. 
+
+
+	II.	Partnership on Measuring Information and Communication Technologies for Development
+
+
+3.	Following the first phase of the World Summit on the Information Society, held at Geneva in December 2003, a number of key international stakeholders involved in the statistical measurement of information and communication technologies joined forces to create the global Partnership on Measuring Information and Communication Technologies for Development. The Partnership was formally launched during the eleventh session of the United Nations Conference on Trade and Development (UNCTAD XI), held in Sao Paulo, Brazil, in June 2004. Current partners include the International Telecommunication Union (ITU), the Organization for Economic Cooperation and Development (OECD), the United Nations Conference on Trade and Development (UNCTAD), the United Nations Educational, Scientific and Cultural Organization (UNESCO), the UNESCO Institute for Statistics (UIS), four regional commissions (Economic Commission for Africa (ECA), Economic Commission for Latin America and Caribbean (ECLAC), Economic and Social Commission for Asia and the Pacific (ESCAP), and Economic and Social Commission for Western Asia (ESCWA)), the ICT Task Force of the United Nations System Chief Executives Board (CEB) and the World Bank. National statistical offices in statistically advanced countries are invited to contribute to Partnership activities and provide expertise and advice to offices in developing countries as well as transfer knowledge in such areas as methodologies and survey programmes. 
+
+
+	A.	Objectives 
+
+
+4.	The Partnership aims to accommodate and develop further the various initiatives regarding the availability and measurement of ICT indicators at the national, regional and international levels. It provides an open framework for coordinating ongoing and future activities and for developing a coherent and structured approach to advancing the development of ICT indicators globally, in particular in developing countries. 
+5.	The objectives of the Partnership are (a) to achieve a common set of core ICT indicators, to be harmonized and agreed upon internationally, which will constitute the basis for a database on ICT statistics; (b) to enhance the capacities of national statistical offices in developing countries and build competence to develop statistical compilation programmes on the information society, based on internationally agreed indicators; and (c) to develop a global database on ICT indicators and make it available on the Internet.
+
+
+	B.	Activities
+
+
+6.	Since the Partnership was launched, the following activities have been carried out under its umbrella:
+	•	A global stock-taking exercise on the status of information society statistics in national statistical offices started in the summer of 2004. The outcomes of the exercise, carried out through a metadata questionnaire, are summarized in chapter III. 
+	•	Regional workshops, with the participation of national statistical offices, have been organized throughout the second half of 2004 in order to take into consideration the results of the stock-taking exercise and of e-measurement efforts in the regions. Workshops have taken place in Western Asia (Beirut, October 2004), Africa (Gaborone, October 2004), and Latin America and the Caribbean (Santiago de Chile, November 2004). The workshops identified regional priorities for action in the area of ICT indicators and produced regional lists of core indicators to be collected by countries.
+	•	A briefing for potential donors took place at Geneva in October 2004, to request support for Partnership activities, in particular through the financing of technical assistance activities necessary to help developing countries to produce information society statistics. The capacity-building activities included on-site training in national statistical offices, technical workshops at the regional level, the development of a training course on information society statistics and the preparation of a guidebook on information society indicators. 
+7.	The global World Summit on the Information Society (WSIS) Thematic Meeting on Measuring the Information Society will take place in Geneva under the umbrella of the Partnership from 7 to 9 February 2005, to present the results of the global stock-taking exercise, consolidate the outcomes of the regional workshops and agree on a final list of core indicators. The meeting will also discuss technical assistance needs of developing countries with respect to the compilation of ICT indicators, identification of ICT indicators relevant to achieving the Millennium Development Goals and presentation of  ongoing work concerning the development of an international database on ICT indicators. The outcome will be presented as an input to the second phase of the Summit, to be held in Tunis in November 2005. 
+8.	A second phase of the Partnership is envisaged from November 2005 to the first half of 2008. The objective of the second phase is to disseminate and expand the work on measuring ICT, thus increasing ICT data availability at the international level. This objective will be achieved by further developing the capacity-building activities of the first phase and extending training programmes to new beneficiary countries. The international database on ICT indicators will be developed further. The outcomes of the General Assembly high-level plenary meeting on the Millennium Development Goals (September 2005) and of the Summit in Tunis (November 2005) will be incorporated into the planning of the second phase of the Partnership project.
+
+
+	III.	Global status of information and communication
+technology statistics 
+
+
+9.	In July 2004, a global exercise taking stock of ICT indicators was initiated in various regions through a metadata questionnaire on the current status of information society statistics, which was sent to national statistical offices in developing countries. The objectives of the exercise were (a) to take inventory of existing and planned ICT indicators, questionnaires and methods of collecting statistics; (b) to collect information that could lead towards standardized definitions and a set of commonly accepted ICT core indicators; and (c) to identify best practices and needs of national statistical offices in order to prepare technical assistance and an exchange of knowledge. The questionnaire was divided into four sections: general questions on ICT statistics; ICT statistics in household surveys; ICT statistics in business surveys; and ICT statistics in others sectors, such as industry and trade, education or Government. 
+10.	The questionnaire was sent by the Economic Commission for Africa, the Economic Commission for Latin America and the Caribbean, the Economic and Social Commission for Asia and the Pacific and the Economic and Social Commission for Western Asia to statistical offices in their member countries. UNCTAD sent the questionnaire to Economic Commission for Europe (ECE) member countries not covered by OECD or Eurostat. A summary of the results of the global stock-taking exercise is presented below. The summary is complemented by an overview of the status of information society statistics in OECD member countries. A final report on the outcome of the survey will be presented in 2005.
+
+
+	A.	Africa 
+
+
+11.	Twenty-two out of 52 African countries replied to the questionnaire sent by ECA. The survey found that the majority of national statistical offices had no ICT definition. However, there was a demand for household ICT statistics in general, and a high demand for business ICT statistics in countries implementing an
+e-strategy or having formulated a national information and communication infrastructure (NICI) plan. Existing ICT statistics concern mainly the presence of radio, TV, fixed and mobile telephony in households. Some countries addressed the presence and usage of personal computers and the Internet and collected ICT statistics in business and other areas. 
+12.	Publications on the above-mentioned statistics are issued in the majority of countries, and various financing mechanisms are available to support national statistical offices. However, there is a need for a harmonized methodology and collection of a core set of ICT statistics. In this regard, the SCAN-ICT methodology was found to be suitable for use by national statistical offices.1 The proposed list of core ICT indicators for the African region is contained in annex II.
+
+
+	B.	Asia and the Pacific
+
+
+13.	Seventeen out of 53 countries in Asia and the Pacific responded to the metadata questionnaire sent by the Economic and Social Commission for Asia and the Pacific. The survey found that almost half of those countries used a specific ICT definition. Three quarters of the national statistical offices financed the collection of ICT indicators through their regular budget, and a similar percentage of the offices indicated that they produced publications about or containing ICT statistics.
+14.	Regarding ICT household indicators, 12 of the national statistical offices
+(70 per cent) responded that the level of demand was high or very high. The most common indicators were the presence of electricity, radio, fixed telephone, mobile phone, television, computers and Internet. 
+15.	Slightly more than half of the national statistical offices indicated a high or very high demand for ICT indicators collected through business surveys. The most common ICT business indicators were the presence of fixed telephone and mobile devices, the presence and number of computers, and Internet access.
+
+
+	C.	Central Asia and selected European countries
+
+
+16.	Nineteen out of 24 countries replied to the questionnaire sent by the United Nations Conference on Trade and Development. Slightly more than half of the respondents used a specific ICT definition, whereas three were still developing a definition and six did not use any ICT definition yet. Eleven countries (60 per cent) financed ICT data collection through their regular budget, while two countries benefited mostly from Eurostat cooperation and one benefited from national cooperation. One fourth of the countries indicated that they had not yet identified any sources of financing. Eight national statistical offices (42 per cent) indicated that they actively produced documents and/or publications that included ICT statistics. 
+17.	Regarding ICT household indicators, 18 out of 19 countries have included ICT-related questions in their household surveys. Almost half of the countries responded that the level of demand for this type of statistics was high or very high. The most common indicators were the presence of electricity, radio, fixed telephone, mobile phone, television and computers. The collection of household indicators concerning Internet use was less frequent, and eleven of the national statistical offices (60 per cent) did not plan to measure those indicators in the near future.
+18.	Twelve out of 19 countries have included ICT indicators in their business sector surveys (63 per cent). Eight countries (42 per cent) reported a high- or medium-level demand for ICT business indicators. Seven national statistical offices (37 per cent) did not indicate any level of demand. The most common ICT business indicators were the presence of fixed telephone and mobile devices, the presence and number of computers and Internet access. Indicators related to electronic commerce were less widely collected. Two national statistical offices planned to develop collections of ICT indicators in business surveys in the next year and three offices planned to do so in the next three years. In one fourth of the countries, national institutions other than the offices carried out business surveys that included ICT-related questions.
+19.	Finally, several countries collected ICT statistics in areas other than household and business. One fourth of the respondents collected ICT indicators related to education, four countries (21 per cent) collected indicators related to foreign trade and others collected statistics specifically on the ICT sector. Twelve countries
+(63 per cent) did not collect ICT indicators in other sectors.
+
+
+	D.	Latin America and the Caribbean
+
+
+20.	Twenty out of 36 countries replied to the questionnaire sent by the Economic Commission for Latin America and the Caribbean. The questionnaire found that six respondents (30 per cent) already used an ICT definition, while three were in the process of developing one. With respect to the sources of financing for the collection of ICT indicators, 14 of the national statistical offices (70 per cent) financed the collection out of their regular budget, and one fourth benefited from national cooperation from other government institutions. Half of the offices had published documents containing ICT statistics.
+21.	Thirteen of the national statistical offices in the region (65 per cent) reported high- or medium-level demand for ICT household indicators. All countries had included in their household surveys the questions on access to electricity, radio, fixed and mobile telephones, television, computers and the Internet. Six countries have included questions about the use of ICTs in their household surveys, and three intended to do so in the next three years. Three countries have collected indicators related to barriers to Internet use and electronic commerce, while four countries will do so in the next three years.
+22.	Regarding ICT business indicators, seven countries (35 per cent) reported a high- or medium-level demand. Three countries reported a low demand. The most widely collected indicators were the presence of fixed telephone and mobile devices, the presence and number of computers, and Internet access. One fourth of the countries included questions on Internet sales in their surveys. 
+23.	It should be noted that the regional workshop held in November 2004 recommended the adoption by national statistical offices of a list of core ICT questions for regular surveys (see annex III) and recognized the need to carry out specific thematic ICT surveys for households, businesses and other sectors of the economy, in order to gain a better understanding of the development of the information society in the region. 
+
+
+	E.	Western Asia 
+
+
+24.	Ten of the 13 member countries of the Economic and Social Commission for Western Asia replied to the metadata questionnaire sent by the Commission. It was found that four of the countries used an ICT definition and that two were in the process of developing one. One country did not use any specific definition, and the remaining did not provide a response to the question. 
+25.	Regarding ICT household statistics, more than half of the national statistical offices indicated a high or medium level of demand for this type of indicator. A similar level of demand was found for ICT business statistics. The most common ICT household indicators were the presence of electricity, radio, fixed telephone, mobile phone, television, computer and Internet. 
+26.	The main ICT business indicators collected were the presence of fixed telephone and mobile devices, the presence and number of computers, the presence of Internet access and the types of services for which the Internet is used. The remaining indicators were either not available or were expected to be collected in the next three years. The agreed regional list of core ICT indicators is contained in annex IV. 
+
+
+	F.	Members of the Organization for Economic Cooperation and Development
+
+
+27.	Since 1997, the work of the Organization for Economic Cooperation and Development on ICT indicators has mainly been carried out through its Working Party on Indicators for the Information Society (WPIIS), resulting in agreed definitions of the ICT sector, ICT goods and e-commerce. Furthermore, model questionnaires have been developed on the use of ICT by businesses and on the use of ICT by households and individuals. Currently, the model questionnaires are under revision. Other work under way includes the development of a definition of ICT services and the measurement of various complex items such as e-business processes, digital content, information technology (IT) security and e-government services. Work on assessing the impacts of ICT has been carried out over the last few years, mainly by the member countries themselves, with the Secretariat trying to consolidate the country-level findings at the international level. That work will be continued and is expected to assume a more important role in years to come.
+28.	ICT statistical data from OECD member countries are collected annually and published in various publications, most importantly in the OECD Science, Technology and Industry Scoreboard. The publication combines methodological explanations of the indicators with empirical analyses of the findings. 
+29.	Indicators on the usage of ICT by households and individuals have been collected since 2001, with data available for 17 countries in 2001 and for up to 20 in 2003. The data request for the 2005 edition of the Scoreboard asks for data available for all countries of the European Union and some non-European Union OECD countries. The priority indicators that will be collected are the following: households with access to a computer, to the Internet and to broadband; and individuals using the Internet, placing online orders and encountering security problems and other barriers on the Internet. In addition, data will be requested on the location of individual Internet use, on the proportion of employees using the Internet at work, on the proportion of students using the Internet at their place of education and on other activities carried out over the Internet by individuals.
+30.	Business usage indicators have been collected since 2001 as well, with the country coverage rapidly increasing from 7 countries in 2001 to 21 in 2003. The data request for the 2005 Scoreboard will, as a first priority, include businesses using the Internet, having broadband access, having a web site or a home page, having particular IT security measures in place, encountering specific IT security problems and placing and receiving orders over the Internet. It will also ask for the value of Internet orders and of orders received over other (non-Internet) computer-mediated networks. Additionally, lower-priority data will be requested on business use of computers, use of the Internet for specific businesses processes, use of Internet e-mail, Intranet, Extranet or local area network placement of orders using other (non-Internet) computer-mediated networks, share of Internet sales to households and individuals, orders received using other (non-Internet) computer-mediated networks, and recognition of specific benefits and limitations to Internet use for receiving orders. Data for the preceding indicators is expected to be available for more than 20 countries.
+31.	Since 2000, the Organization for Economic Cooperation and Development has been collecting data for the ICT sector (employment in the ICT sector, value added generated by the ICT sector, production value of the ICT sector, etc.) from its member countries, with data generally available for most of the 30 OECD member countries. More and more, those data are available from other sources, such as national accounts and structural business surveys, and there may no longer be the need for a separate data collection.
+32.	The metadata information on ICT statistics for OECD member countries will be included in annex III of a forthcoming guide to information society measurement, to be finalized in the second half of 2005. Countries will be asked to complete the metadata questionnaire by mid-January 2005 and the results of the collection will be available by the end of April 2005. The collected information is expected to be updated annually. 
+
+
+	IV.	Core information and communication technology indicators
+
+
+33.	One of the main objectives of the Partnership is to define a set of core ICT indicators, which would be agreed upon by all countries and harmonized at the international level. The results of the metadata survey provide important inputs to this exercise, as they help to identify what countries currently consider as basic ICT indicators. 
+34.	Chapter IV presents a set of basic ICT statistical indicators necessary to measure ICT readiness and usage by individuals, households, businesses and schools. The objective of the ongoing discussion at the national, regional and international levels is to agree on a common set of core ICT indicators to be collected by all countries, which would constitute the basis for an internationally comparable database on ICT statistics. 
+35.	The following remarks focus primarily on indicators related to basic ICT access and usage by households, individuals and businesses. The reasons for that focus are that (a) individuals, households and businesses are key players in an information society, and (b) there is an emerging consensus on definitions, guidelines and methodologies regarding individual, household and business ICT indicators, as reflected in various national, regional and international initiatives. For example, OECD and Eurostat have developed model household and business surveys. However, little progress has been made on other ICT-related indicators, such as government or health. The latter will thus be dealt with at a later stage.
+
+
+	A.	Basic infrastructure, access and household indicators
+
+
+36.	Indicators on individual and household ICT access, use and ownership have important policy implications, helping Governments to assess the status of ICT infrastructure by geography, population segment, or economic sector, to identify the demand from individuals, assess the gap caused by affordability issues and measure the impact of ICT-related policies at household levels. Basic infrastructure and access indicators are collected annually by the International Telecommunication Union and measured per capita. They are defined and discussed during the World Telecommunication Indicators meeting and are published in the International Telecommunication Union Telecommunication Indicators Handbook.
+37.	Furthermore, indicators of community and public access are particularly relevant for developing and least developed countries, where individual or household access to telephones, personal computers and the Internet is still far from universal. Mobile cellular telephone coverage is another way of measuring access (percentage of the population that is covered by a mobile cellular signal regardless of subscription).
+38.	Some national statistical offices collect data for household and, particularly, for individual access to ICTs; in 2003, about 50 countries (primarily developed and emerging nations) carried out individual Internet user surveys. The OECD and Eurostat regularly publish data and definitions for indicators on household and individual use. However, reliable information about ICT use in developing nations and in the least developed countries in particular is scarce.
+39.	Access to radio and television broadcasting in developing countries is predominant and far higher than access to other information and communication technologies. Therefore, it is important to compile indicators on access to broadcast networks (see annex I). Other key indicators include access to telephone service (both fixed and mobile lines), to personal computers and to the Internet. Indicators on access to personal computers should include the proportion of households with a computer and the number of people in the household who use a computer (this could give an indication of basic computer skills). 
+40.	Furthermore, indicators of access to the Internet are the basis of discussions on the digital divide, including the proportion of households with Internet access and the number of individuals that use the Internet. The latter indicators can be disaggregated further: by age, by frequency of use, by type of access devices used, by location of use and by purpose of Internet use. However, to ensure comparability of data, there should be an agreement on the definition of user age (for example, by showing Internet use from a common starting age and with uniform age cohorts),2 of frequency of use (within the last year, within the last three months, monthly, weekly or daily) and of type of access device (computer, Internet-enabled mobile phone, Internet-enabled TV sets, etc.).
+41.	With regard to the disaggregation of Internet access data according to location of use, the vast majority of households in developing countries do not have personal computers or Internet access, and many users rely on other points of access
+(e.g. other households, work, school, library, Internet cafés). Therefore, indicators that show the location of use of the Internet have also been proposed to capture public access. Similarly, data should be disaggregated according to the purpose of Internet use (e.g. communication, information search, electronic commerce, interaction with public authorities, training and education, health purposes).
+42.	Data on ICT use can be cross-correlated with other data collected, such as income, gender, education and other demographic characteristics of the respondent, to enhance the analysis of national digital divides. Furthermore, electricity is a large barrier to ICT development in a number of developing nations, since the lack of a suitable energy source has an impact on the ability to use ICTs. In that regard, an associated household indicator on access to electricity could be useful when collecting data on ICTs.3
+
+
+	B.	Enterprises/information and communication technology sector
+
+
+43.	Statistics on the access to and use of ICTs by businesses and on the ICT sector are important for a number of reasons. Firstly, the statistics allow policy makers to monitor information society developments and participate effectively in related international debates, such as in the context of the World Summit on the Information Society, or of World Trade Organization negotiations. ICT statistics enable researchers to analyse ICT developments and to inform policy makers about trends and, most importantly, about the impact of ICTs on economic and social development. Finally, business people require reliable data upon which to base investment and strategic decisions. Statistics on the use of ICTs by businesses
+(a) show the usage by firm characteristics; (b) facilitate analysis of the linkage between ICT and firm productivity and competitiveness; and (c) explain why some businesses do not use ICT so policy makers can take actions accordingly to promote demand for ICT applications.    
+44.	Official ICT business data is readily available in developed countries, but it is still scarce in developing countries.4 Although some developing countries are collecting official ICT business data as part of business surveys (see chap. III), few have specific surveys on the access to and use of ICT by businesses. For example, most statistical data on e-commerce are available from private providers; definitions and methodologies differ and the data are thus not comparable. Collection is often performed on an ad hoc basis, and estimates and forecasts can be unreliable. Furthermore, other ICT business indicators, including those on
+e-business usage, barriers and impact, are practically non-existent. 
+45.	ICT business indicators should measure general access and usage of ICT (for example, number of businesses with computers, Internet access), e-commerce (online sales and purchases), and e-business processes (for example, the automation of customer care, finance, logistics or order tracking). Core ICT business indicators should be basic, business-relevant and policy-relevant, and it should be feasible for national statistical offices from developing countries to collect them. Therefore, the proposed list of core ICT business indicators includes a number of ICT readiness indicators (such as the use of personal computers and the Internet and by how many employees and the presence of a web site, an Intranet or an Extranet), and at least two indicators on usage (online sales and purchases). 
+46.	Indicators related to the ICT sector, which is defined by the International Standard Industrial Classification (ISIC), Rev. 3, can be considered separately from other business indicators (see annexes I, II and IV). ICT sector data is of importance in determining the relevance of the sector to national ICT policies as well as the contribution and impact of the sector to the economy. In some developing countries, notably those in which the ICT sector has become a strategic component of economic development (for example, Costa Rica, India, Malaysia, the Philippines, and Singapore), such data is paramount. 
+47.	Core indicators on the ICT sector (see annexes II and IV) refer to the sector’s value to international trade and to value added, and to the relevance of the ICT sector to employment, disaggregated by gender. For national statistical offices in developing countries, it should be feasible to collect such data through industry-specific surveys or from governmental administrative sources (private sources are not recommended). In addition to those sources, OECD proposes core indicators on the production value of the ICT sector, on trade and on ICT patents. For most countries in the world, trade and patent data are available from existing databases (see annex I).
+
+
+	C.	Education
+
+
+48.	ICT indicators related to education can help to assess certain aspects of universal access to education at all levels as well as of the use of ICTs to achieve some of the international goals on education and development.5 High-quality, cross-national data and indicators on ICT in education will also help to monitor the progress towards achieving such goals. Data on ICT in schools can help policy makers take informed policy decisions on investing in ICT for education or implementing measures to improve learning outcomes through the use of ICT. 
+49.	There exist a number of internationally sponsored and periodically administered surveys, each of which collect some limited information on ICTs within schools and provide a preliminary overview of the situation for many countries.6 In addition, in 2005, the UIS plans to embed ICT-related questions in its annual education surveys (on infrastructure and availability), as well as within a new household survey project on literacy (on usage within schools and perceived benefits and impacts).7 However, there is a paucity of systematically collected data on the availability, access, use and impact of ICT in education at the national level. Although many countries do not conduct dedicated national school surveys, most national ministries of education or national statistical offices do collect some basic administrative data related to infrastructure and availability of ICTs within schools from which a core set of indicators can be built and analysed. 
+50.	The ongoing international debate on ICT indicators has identified specific core indicators related to education (see annexes II and IV) and has addressed the question of ICT use for educational purposes in household surveys (see annexes I and III). Core indicators should measure the student-to-computer ratio in primary and secondary schools, the proportion of schools having Internet access for students, or the proportion of students enrolled in tertiary education in an ICT field. Further ICT indicators related to education could be a part of supplementary indicators to be collected at another level. 
+
+
+	V.	Supplementary indicators
+
+
+51.	Apart from a limited list of core ICT indicators, some countries, notably those more advanced in the collection of ICT indicators, may want to collect additional statistical indicators related to measuring the information society. In the area of household surveys, those indicators could cover the barriers to Internet access, the frequency of use or the value of Internet purchases by individuals. In the area of business surveys, they could cover questions related to ICT investments, specific
+e-business processes, or barriers to ICT usage. Supplementary indicators could also extend to other sectors covering such areas as Government, financial institutions and the health sector. 
+
+
+	VI.	Conclusion and way forward
+
+
+52.	The present paper has provided a brief overview of progress made internationally with respect to the collection of ICT statistical indicators, in particular in developing countries. It has also presented the efforts currently under way in the international community to harmonize those efforts and agree on a common set of core ICT indicators as a basis for developing internationally comparable ICT statistics. The work carried out by different international organizations, brought together under the framework of the global Partnership on Measuring Information and Communication Technologies for Development, will continue during the course of 2005. The outcomes of the global stock-taking exercise will be consolidated at the global World Summit on the Information Society Thematic Meeting on Measuring the Information Society, to be held at Geneva from 7 to 9 February 2005. The meeting will identify priority areas for action and will agree on a final list of core ICT indicators, taking into consideration the discussions on core indicators that took place at the regional level. The outcome of the meeting and the results of Partnership activities to date will be brought to the attention of policy makers attending the second phase of the Summit in Tunis (November 2005) and of the thirty-seventh session of the Statistics Commission in 2006. 
+
+
+	Notes
+	1	SCAN-ICT is an initiative of the Economic Commission for Africa (ECA), the International Development Research Centre (IDRC) Acacia initiative, the European Union and the Norwegian Agency for Development Cooperation (NORAD). It aims to build support for the phased development of a comprehensive African capability to collect and manage key information needed to support the growing investment in ICT as well as the transition of Africa to an information society. Additional information is available from, http://www.uneca.org/aisi/scanict.htm.
+	2	For example the United States data shows data in five age groups (3-8, 9-17, 18-24, 25-49 and 50+), Republic of Korea data shows data broken down by 6-19, 20s, 30s, 40s and 50 and over while European data is broken down into four groupings: 15-24, 25-39, 40-54 and 55+. 
+	3	Data from developing countries suggest that while radio ownership is roughly equally distributed between rural and urban areas, there is a significant gap for television, mainly attributable to the more limited availability of electricity in rural areas: “Lack of access to electrical energy in rural areas deprives communities ...  of … television, which are essential ways of disseminating information on general development concerns”. “Recharging batteries Zimbabwe”, Sharing Innovative Experiences: Examples of Successful Uses of Renewable Energy Sources in the South, vol. 8. Available from http://tcdc.undp.org/experiences/vol8/Zimbabwe.pdf.
+	4	In 2004, UNCTAD, as part of its preparation for the annual e-commerce and development report, started to collect indicators on ICT usage by enterprises from a number of developing countries.
+	5	The UNESCO Education for All goals, the Millennium Development Goals and the indicative goals of the World Summit on the Information Society Plan of Action.
+	6	Such as the OECD Programme for International Student Assessment (PISA), Trends in Mathematics and Science Achievement Around the World Study (TIMMS) of the International Association for the Evaluation of Educational Achievement (IEA), the IEA Progress in International Literacy Study (PIRLS), the South Africa Consortium for Monitoring Educational Quality (SACMEQ) and the Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE).
+	7	The Literacy Assessment and Monitoring Programme (LAMP).
+
+
+Annex I
+
+		Organization for Economic Cooperation and Development: proposed list of core information and communication technology indicators
+
+
+ Core ICT indicatorsReadiness indicator:	infrastructureIndicatorsIndicators available in the ITU database (available for many countries)
+* Main fixed telephone lines per 100 inhabitants
+* Total telephone subscribers per 100 inhabitants
+* Cellular phone subscribers per 100 inhabitants
+* Number of personal computers per 100 inhabitants
+* Number of Internet users per 100 inhabitants
+* Residential monthly telephone subscription cost
+* Cellular monthly subscription cost
+* Business telephone monthly subscription cost
+
+Indicator available through the Internet Software Consortium (ISC) (available for many countries)
+* Number of Internet hosts
+
+Other indicators (to be collected from national sources or private sources)
+* Internet subscribers per 100 inhabitants
+* Web sites per 1 000 inhabitants
+* Internet access costsSources* National telecommunication authorities (data collected by ITU)
+* ISP surveys
+* Surveys of telecom carriers
+* Private sources (e.g. netsizer, netcraft)  Readiness indicator: trade
+Variables* Value of imports and exports of ICT goods
+* Value of total imports and exportsIndicators* ICT sector trade balance (defined by the OECD as ICT exports minus ICT imports divided by total manufacturing trade (the average of exports and imports))
+* Growth rate of ICT imports
+* Growth rate of ICT exports
+* ICT imports as a percentage of total imports
+* ICT exports as a percentage of total exportsClassificationHarmonized System (HS), Rev.1SourcesTrade databases, such as the COMTRADE database  Readiness indicator: qualifications
+Indicators* Proportion of population with completed secondary education
+* Proportion of population with completed tertiary education
+* Enrolment ratios in primary, secondary and tertiary education
+
+* Proportion of enrolments in higher education in an ICT field of study (as a percentage of total number of enrolments and as a percentage of the corresponding age group)
+* Proportion of graduates in higher education in an ICT field of study (as a percentage of total number of graduates and as a percentage of the corresponding age group)ClassificationISCED 97; ICT field of study is ISCED field 48: ComputingSources* UNESCO
+* National education statistics  ICT supply and use indicators: the information and communication technology sector
+Variables* Production value
+* Value added
+* EmploymentIndicators* Contribution of value added in the ICT sector to total business sector value added
+* Growth of value added in the ICT sector
+* Contribution of employment in the ICT sector to total business sector employment
+* Growth of employment in the ICT sector
+* Contribution of production value in the ICT sector to total business sector production value
+* Growth of production value in the ICT sectorClassificationISIC, Rev. 3; if possible data broken down by:
+– ICT manufacturing
+– ICT services
+– Total manufacturing
+– Total services
+– Total business sectorSources* Business survey data (detailed enough to allow for measurement of the ICT sector, see annex for details)
+* Administrative sources
+* Private sources (not recommended)  ICT supply and use indicators: Households’ and individuals’ readiness and use of information and
+  communication technologies
+Indicators* Proportion of households with access to a home computer (percentage of total)
+* Proportion of households with access to the Internet (percentage of total)
+* Proportion of individuals (aged 16 years or over) accessing the Internet from the following locations:
+– Home                              – Internet café or similar
+– Work                               – Other
+– Place of education
+* Proportion of individuals (aged 16 years or over) using the Internet for the following activities:
+– Using e-mail/chat rooms
+– Finding information about goods and services
+– Getting information from/interacting with Government
+– Finding health-related information
+– Reading/downloading online newspapers/news magazines
+– Playing/downloading games, music, software
+– Using banking or other financial services
+– Purchasing/ordering goods or services
+– Educational activities
+– OtherClassification* Households broken down by composition (couple, couple with children, one-parent family, other family, lone person, other non-family)
+* Individuals broken down by gender
+* Individuals broken down by age-group (16-24, 25-44, 45-64, 65-74)
+* Individuals broken down by highest education received (primary, secondary, post-secondary (not tertiary), tertiary)Sources* General population surveys
+* Specific ICT surveys
+* Private sources  ICT supply and use indicators: business readiness and use of information and communication 
+  technologies
+Indicators* Proportion of businesses with personal computers (percentage of total)
+* Proportion of employees using personal computers (percentage of total)
+* Proportion of businesses with Internet access (percentage of total)
+* Proportion of businesses accessing the Internet by the following modes of access:
+– Analogue modem          – Mobile phone
+– ISDN                             – Wi-Fi 
+– DSL                               – Other
+* Proportion of employees using the Internet (percentage of total)
+* Proportion of businesses with a web site (percentage of total)
+* Proportion of businesses receiving orders over the Internet (percentage of total)
+* Value of orders received over the Internet (percentage of annual revenue)
+* Proportion of businesses placing orders over the Internet (percentage of total)Classification* Enterprises broken down by activity/industry (at the two-digit level of ISIC, Rev. 3)
+* Enterprises broken down by size class (size classes: 0, 1-9, 10-49, 50-249, 250+ employees)Sources* General business surveys
+* Special ICT use and/or e-commerce surveys
+* Private sources  ICT supply and use indicators: patents
+Variables* Number of ICT patents
+* Total number of patentsIndicators* ICT patents as a percentage of total patents
+* ICT patents as a percentage of world total of ICT patents
+* Growth of ICT patentsClassificationInternational Patent Classification (IPC)SourcesEPO, USPTO, JPO, other (national) patent offices using the IPC
+Source: Martin Schaaper, “A proposal for a core list of indicators for ICT measurement”, available from http://www.oecd.org/dataoecd/3/3/22453185.pdf (Paris, OECD, n.d.).
+Abbreviations: COMTRADE = United Nations Commodity Trade Statistics Database; DSL = digital subscriber line; EPO = European Patent Office; ISCED = International Standard Classification of Education; ISP = Internet service provider; JPO = Japan Patent Office; 
+OECD = Organization for Economic Cooperation and Development; ISDN = integrated services digital network; ISIC = International Standard Industrial Classification; ITU = International Telecommunication Union; UNESCO = United Nations Educational, Scientific and Cultural Organization; USPTO = United States Patent and Trademark Office; Wi-Fi = wireless fidelity (wireless local area network).
+
+Annex II
+
+		Africa: list of core information and communication technology indicatorsa
+
+
+		Indicators
+
+
+
+
+	a	Economic Commission for Africa, regional workshop on ICT indicators, Gaborone, 
+26-29 October 2004.
+		Basic infrastructure and access
+
+1.	Main telephone lines per 100 inhabitants
+2.	Mobile cellular telephone subscribers per 100 inhabitants
+3.	Radio per 100 inhabitants
+4.	Television sets per 100 inhabitants
+5.	Number of personal computers per 100 inhabitants 
+6.	Number of Internet subscribers per 100 inhabitants
+7.	Percentage of localities with public Internet access centres by number of inhabitants (rural/urban)
+8.	Percentage of population with access to public Internet access centres by type 	of centre (governmental/private)
+9.	Percentage of population covered by mobile telephony
+
+		ICT sector
+
+10.	Percentage of total workforce involved in ICT sector (by gender)
+11.	ICT imports and exports as percentage of total imports and exports
+12.	Value added in the ICT sector (as a percentage of total value added)
+
+		Households
+
+13.	Percentage of households with a radio
+14.	Percentage of households with a television
+15.	Percentage of households with a telephone (fixed only, mobile only, fixed and mobile)
+16.	Percentage of households with a personal computer
+17.	Percentage of households with Internet access (from the home)
+
+		Individuals (by age, gender, including the disabled)
+
+18.	Percentage of population that use a computer 
+19.	Percentage of population with access to the Internet (by type of access, purpose, location of use)
+		Business
+
+20.	Percentage of businesses with computers
+21.	Percentage of businesses with Internet access
+22.	Percentage of businesses with a web site
+23.	Percentage of employees using personal computers
+24.	Percentage of employees using the Internet
+25.	Percentage of businesses receiving orders over Internet
+26.	Percentage of businesses placing orders over Internet
+27.	Percentage of businesses with an Intranet
+28.	Value of orders received over the Internet (as a percentage of total value of orders)
+
+		Education
+
+29.	Percentage of students enrolled in tertiary education having Internet access for students for study purposes
+30.	Enrolled student-to-personal-computer ratio (in primary and secondary schools and in tertiary education)
+31.	Percentage of students enrolled in tertiary education in an ICT field or an ICT-dominated field (of the total number of students) (by gender)
+32.	Percentage of ICT-qualified teachers in primary and secondary schools (of the total number of teachers)
+33.	Percentage of tertiary education institutions with e-learning courses (of the total number of tertiary education institutions)
+34.	For what purpose do students/teachers use computers/Internet (e.g., percentage for e-mail, research, employment opportunities, application software)
+
+		Government
+
+35.	Ratio of availability of personal computers to number of staff 
+36.	Percentage of government offices with Internet access
+37.	Percentage of government offices and agencies with a web site
+38.	Percentage of government employees with Internet access from the office
+39.	Percentage of government workers that use information and communication technologies
+40.	Purpose of use: (percentage) for e-mail, research, database work, geomatics, application software, etc.
+
+		Agriculture
+
+41.	Percentage of agricultural population and extension workers involved in the exploitation and deployment of ICTs to the sector
+42.	Typology of usage of ICTs in the agricultural sector (e.g., percentage in research and development, business, weather, prices)
+43.	Number of local web sites and databases with agricultural information and content 
+
+		Health
+
+44.	Percentage of health institutions using ICTs (by type of health institution: e.g., private clinic, Government, university hospital, pharmacy)
+45.	Geographic distribution of health institutions with computers, telephone and Internet connectivity
+46.	Percentage of health professionals that use ICTs for medical purposes 
+47.	Purpose of usage and percentage in telemedicine, e-mail, research (health information), continuing medical education or distance learning, health promotion (including health information systems), database, software applications, etc.
+48.	Percentage of local web sites and databases with medical information
+
+Annex III
+
+		Latin America and the Caribbean: list of core information and communication technology questions
+
+
+Criteria
+Eight core questions for regular household surveysResponse optionsInternational referenceLatin America and Caribbean referenceObserved unitH-1Does this household have a fixed line telephone?Yes
+NoC, E, OALL (20)HouseholdH-2aDoes this household have a mobile telephone?Yes
+NoA, C, O19HouseholdH-2bHow many members of the household have access to a mobile phone?Number--HouseholdH-3Does this household have television?Yes
+No-19HouseholdH-4Does this household have a computer (PC)?Yes
+NoA, C, O, ESALL (20)HouseholdH-5Does this household have Internet access at home?Yes
+NoA, C, E, O, ESALL (20)HouseholdH-6Where did you use the Internet most frequently in the last three months?
+
+(tick all that apply)Did not access
+At home
+At work
+Educational facility
+Free public access centre (specific denomination depends on national practices)
+Commercial public access centre (specific denomination depends on national practices)
+House of friend or neighbour
+OthersC, E, O, ESBb, Cl, Co, Cr, Mx, TTIndividual(s) of the householdaH-7aHow often did you usually access the Internet in the last three months?
+
+(tick one)
+
+At least once a day
+At least once a week, but not every day
+At least once a month, but not every week
+Less than once a month
+Do not knowC, E, O, ESBb, Co, Mx, TTIndividual(s) of the household that use the InternetaH-7bHow many hours did you usually access the Internet weekly over the last three months?
+Number of hours per week
+Do not know--Individual(s) of the household that use the InternetaH-8For what services/activities did you use the Internet in the last three months?
+
+(tick all that apply)Communication (e-mail, chat)
+Information search
+Purchasing/ordering goods or services
+Health-related activities
+Education, research and related activities
+Transactions with public authorities
+Using electronic banking or other financial services
+Reading/downloading online newspapers/news magazines
+Playing/downloading games, music, software
+OtherA, C, E, O, ESBb, Cl, Co, Cr, Mx, TTIndividual(s) of the household that use the Internet aCriteriaFive core questions for regular business surveysResponse optionsInternational referenceLatin America and Caribbean referenceObserved unitB-1How many computers does the enterprise have?None
+Number
+Do not knowCCl, Co, Pe, TTEnterpriseB-2Does the enterprise use one of the following networks?
+
+(tick all that apply)
+Internet
+Intranet
+Extranet
+LAN
+WANA, C, E, O, ESAr, Bb, Br, Bz, Cl, Co, Cr, Mx, Pa, Pe, S, TT, UyEnterpriseB-3Does the enterprise have a web site?Yes
+No
+Under constructionA, C, E, O, ESAr, Bb, Br, Cl, Co, Mx, Pe, TT, UyEnterpriseB-4What is the share of the total number of employees using a computer connected to the Internet in their normal work routine?Percentage of total employees
+Do not knowC, E, O, ESAr, Cl, Co, TT, UyEnterprise with Internet accessB-5What services/activities does the enterprise use the Internet for [external focus]?
+
+(tick all that apply)Communication (e-mail, chat)
+Information search
+Placing orders
+Receiving orders
+Financial and banking services
+Transactions with public authorities
+Marketing or client support
+Education, research or training
+OtherC, E, O, ESCl, Co, Pe, TTEnterprise with Internet access
+Source: Economic Commission for Latin America and the Caribbean, Workshop on Information Society Measurement for Latin America and the Caribbean, Santiago, 3-4 November 2004.
+Notes:
+		Abbreviations: LAN = local area network; PC = personal computer; WAN = wide area network.
+		References: International and Latin America and the Caribbean
+
+	A	Australian Bureau of Statistics
+	E	European Commission
+	ES	Eurostat ICT households/enterprises 2005
+	ES	Eurostat ICT households/enterprises 2005, informal version
+	O	Organization for Economic Cooperation and Development
+	C	Statistics Canada
+	Ar	Argentina
+	Bb	Barbados
+	Bo	Bolivia
+	Br	Brazil
+	Bz	Belize
+	Cl	Chile
+	Co	Colombia
+	Cr	Costa Rica
+	DR	Dominican Republic
+	Ec	Ecuador
+	J	Jamaica
+	Mx	Mexico
+	Pa	Paraguay
+	Pe	Peru
+	Sk	Saint Kitts and Nevis
+	Vc	Saint Vincent and the Grenadines
+	S	System of ICT indicators Strengthening the Information Technology Infrastructure and Competence of the
+	CARICOM Secretariat (SITIC) initiative
+	Sv	Salvador (EI)
+	TT	Trinidad and Tobago
+	Uy	Uruguay
+	Ve	Venezuela
+	a	Regarding methodological implementation, the method of selecting the individual(s) in the household needs to be considered. 
+
+
+Annex IV
+
+		Western Asia: list of core information and communication technology indicators
+
+
+Core indicatorsAvailablePossible sourcesReadiness
+Basic infrastructure and access1Main fixed telephone lines per 100 inhabitantsITU2Mobile telephone subscribers per 100 inhabitantsITU3Residential fixed line telephone monthly subscription costsITU4Local fixed line call costs for three minutes ITU5Business telephone monthly subscription costsITU6Mobile telephone subscription costsITU7Local mobile call costs for three minutesITU8Televisions per 100 inhabitantsITU/UIS9Number of PCs per 100 inhabitants ITU10Internet hosts per 10,000 inhabitantsITU/ISC11Number of Internet subscribers per 100 inhabitantsISP surveys12International bandwidth per capitaITU13Broadband Internet subscribers per 1,000 inhabitantsITUICT sector14Percentage of total workforce involved in ICT sector (broken down by gender)Business surveys15ICT imports and exports as percentage of total imports and exportsTrade databases (COMTRADE)16Value added in the ICT sector (as a percentage of total value added)Business surveysIntensity (usage)
+Household 17Household Internet access cost per monthITU18Percentage of households with Internet accessHousehold surveys/ census19Households with a PCHousehold surveys/ census20Individuals accessing the Internet by primary access point (broken down by age and gender)Household surveys/ census21Individuals using the Internet by activityHousehold surveys/ censusBusiness22Percentage of businesses with personal computersBusiness surveys23Percentage of businesses with Internet accessBusiness surveys24Percentage of businesses with a web siteBusiness surveys25Percentage of employees using personal computersBusiness surveys26Percentage of employees using the InternetBusiness surveys27Percentage of businesses receiving orders over InternetBusiness surveys28Percentage of businesses placing orders over the InternetBusiness surveys29Percentage of businesses with an IntranetBusiness surveys30Value of orders received over the Internet (as a percentage of total value of orders)Business surveysEducation31Enrolled student-to-PC ratio in primary and secondary schoolsministry of education32Percentage of primary and secondary schools having Internet access for students for study purposesministry of education33Percentage of students enrolled in tertiary education in an ICT field or an ICT-dominated field (of the total number of students) (broken down by gender)UIS databaseministry of higher education34Percentage of ICT-qualified teachers in primary and secondary schools (of the total number of teachers)ministry of education35Percentage of tertiary education institutions with 
+e-learning courses (of the total number of tertiary education institutions)ministry of higher education
+Source: Economic and Social Commission for Western Asia, Roundtable on Information Society Indicators and Profiles in Western Asia, Beirut, 4-5 October 2004.
+Abbreviations: COMTRADE = United Nations Commodity Trade Statistics Database; ISP = Internet service provider; 
+ITU = International Telecommunication Union; UIS = UNESCO Institute for Statistics.
+
+[Start1]<<ODS JOB NO>>N0465010E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/CN.3/2005/23<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+2
+
+17
+
+United NationsE/CN.3/2005/23 
+Economic and Social CouncilDistr.: General
+16 December 2004
+
+Original: English
+
+
+04-65010 (E)    020205    
+*0465010*
+
+
+
+
+
+26
+
+17
+

@@ -1,0 +1,279 @@
+ 
+Distribution:  LIMITED
+
+E/ECA/DISD/CODI.3/15
+
+10 April 2003
+UNITED NATIONS
+ECONOMIC AND SOCIAL COUNCILOriginal: English
+
+ECONOMIC COMMISSION FOR AFRICA
+
+Third Meeting of the Committee
+on Development Information (CODI)
+
+Addis Ababa, Ethiopia
+10 – 17 May 2003
+
+
+
+
+
+
+Report on Indicators of Information and Communications
+Technologies and the Impact of Information and Communications Technology at the Country Level
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+1. Background
+2. Why Scan-ICT
+3. The Scan-ICT Methodology
+4. Results
+5. IDRC-led Scan-ICT Countries
+6. Conclusions
+
+1. Background
+
+The Scan-ICT initiative was implemented as a collaborative project between the Acacia programme of the International Development Research Centre (IDRC) and the Economic Commission for Africa (ECA), with financial support from the European Union (EU) and the Norwegian Agency for Development Cooperation (NORAD). It aims to build support for the phased development of comprehensive African capability to collect and manage the key information needed to support growing investment in information and communication technologies (ICTs) and the transition of Africa to an information society.  Pilot Scan-ICT baseline studies were carried out in six African countries, namely Ethiopia, Ghana, Mozambique, Morocco, Senegal and Uganda, based on indicators1 developed and accepted during the "Inaugural Scan-ICT – Methodology and Work Plan Workshop”, organized in November 2002.2 The minimum and common areas identified for data collection include: infrastructure, sectoral applications (education, health, public sector, private sector) and information economy, with possibility of going beyond these if time and resources allowed. 
+
+This report details activities undertaken in the Scan-ICT programme, from September 2001 to December 2002 and provides detailed information on the development of indicators in two countries, Ethiopia and Mozambique, as well as an overview of similar efforts in Ghana, Morocco, Senegal and Uganda.
+
+2.  Why Scan-ICT?
+
+
+The Scan-ICT project document3 outlines the five inter-related phenomena and/or events that form the rationale for the Scan-ICT project: 
+
+* First, ICTs have taken on a preponderant role in the global economy. Africa must be able to integrate into the “New Economy” or risk being further marginalized; 
+* Second, there is growing evidence that ICTs can play an effective role in ensuring Africa’s sustainable development;
+* Third, if African decision makers are to undertake effective ICT policies in order to harness ICTs as effective development tools, there is a need for relevant data and information to support the formulation of these policies;
+
+* Fourth, there is a proliferation of ICT activity and investments in Africa, but there is need for effective co-ordination to ensure impact and reduce duplication;
+* Fifth, the Maputo Declaration, signed by the relevant Ministers of Mozambique, Senegal, Uganda and South Africa, emphasizes the need for a project such as Scan. It is just one example of the demand by African stakeholders, for such an initiative.
+
+The activities undertaken in the ScanICT project include four major components:
+
+1. Indicators and benchmarks: to track movement toward an information society, it is necessary to establish indicators, set benchmarks, and measure progress in meeting targets.
+2. Policy issues: achieving maximum benefit from ICTs requires policies that facilitate access and effective utilization. Scan-ICT will help African nations to develop, implement and monitor policies that facilitate access and utilization.
+3. Human resources: to participate in the global digital economy, African nations also need to educate young people for a variety of ICTrelated occupations, and to re-train the existing workforce to enable them to use information technologies. ScanICT will monitor the growing demand for ICT skills in Africa, and will work with educators and the private sector to develop and share training materials. Scan-ICT will also work to facilitate the use of ICTs for delivering courses that teach these skills through distance education. 
+4. Applications: to contribute to African development, ICTs must not only be available, but must be used effectively. Scan-ICT will document and disseminate information on effective applications of ICTs in African business, community development, and social services including education and health care.  
+
+Despite very rapid growth, the digital economy can be considered in its infancy world wide, but already it is having an impact on productivity and competitiveness. The Internet and World Wide Web operate without boundaries. Digital satellite television stations have emerged which consider entire continents as their audience. By the year 2006, almost half of the workforce in industrialized countries will be employed by industries that are either major producers or intensive users of ICT products and services.
+
+However, Africa still lags behind in this transition to an information economy, and although it accounts for approximately 13 per cent of the world's population, only 0.6 per cent of Internet users worldwide are on the continent. The average teledensity in sub-Saharan Africa, for instance, is only 2 lines per 100 inhabitants. As evident from different reports, growth in the use of mobile telephones seems to outstrip growth in the use of fixed lines. 
+
+Yet, to achieve social and economic development goals, improvements and expansion are required in the implementation and utilization of ICTs. For this to happen, it is imperative that countries create and put in place enabling environment (policy, regulatory, industrial, labour, capital). Although encouraging results have been seen in the proliferation of various ICT initiatives and development of national e-strategies over the last few years, only minimum efforts have been made to establish a system of indicators for measuring progress in the use and application of ICTs for development and their impact on the lives of African people. Scan-ICT methodology aims to build and sustain this capacity.
+
+
+
+3.   The Scan-ICT Methodology
+
+The Scan-ICT methodology essentially contains a set of indicators developed by IDRC based on the thematic areas identified for implementation of the AISI framework, namely, infrastructure, strategic planning, capacity development, sectoral applications, e-governance and information society and the information economy. The methodology was developed to contribute to the continuation and expansion of data collection and analysis, with a view to monitoring ICT sectoral progress in the pilot countries. As realities vary from one country to the other, the Scan methodology can be used as a guideline to further fine-tune and adapt the existing set of indicators to meet the peculiar needs of the countries and to develop new ones as appropriate. Together with continuous improvements of the indicators and benchmarks, it is expected that the system can provide accurate and up-to-date data and information to decision makers on progress monitored over time. The common denomination of data and the development of databases will also further regional analysis, monitoring and sharing of best practices and lessons learned. 
+
+The countries selected to undertake a baseline study include:
+
+* Ethiopia (led by an expert from the Faculty of Business and Economics of Addis Ababa
+University - AAU)2 
+* Ghana (Institute of Information Technology - INIT)3 
+* Morocco (par la SARL dénommée "Informatique, Technologies de l'Information et 
+      Géomatique”)4 
+* Mozambique (Centre for Informatics of the University of Eduardo Mondlane - CIUEM)5
+*  Senegal (L'Observatoire sur les Systèmes d'Information, les Réseaux et les Inforoutes au
+Sénégal - OSIRIS)6 
+* Uganda (Uganda National Council for Science and Technology - UNCST)7
+These institutions were expected to compile and publish reports on the national Scan-ICT profile of their respective countries, develop a website and institute a system of data collection to further monitor developments and to update the country profile on a regular basis. Scan activities in Ghana, Morocco, Senegal and Uganda were coordinated by IDRC while ECA coordinated activities in Ethiopia and Mozambique. The project received financial support from IDRC, EU and NORAD.
+
+4. Results
+
+4.1 Ethiopia
+      
+The study examined communication infrastructure and ICT applications in education, health and local administration in Ethiopia.  It reviewed private and public firms engaged in ICT activities and basic statistical information was generated. The survey was conducted in the Federal capital, Addis Ababa, where most ICT activities and policy-making government institutions are concentrated. In addition, four major towns, namely Nazareth, Bahir Dar, Mekelle and Awassa, which serve as the capitals of Oromiya8, Amhara, Tigray, and Southern Nations and Nationalities Regional States respectively, were included in the study. The total number of persons contacted was 2,192. Specific findings follow.
+
+4.1.1	ICT infrastructure
+
+In spite of the recent liberalization and privatization measures initiated in different sectors, the telecommunication industry has remained under government control and the Ethiopian Telecommunication Corporation (ETC) is the only provider of fixed and mobile telephone, facsimile, Internet Service Provider (ISP), telegraph and telex services. As a result, the study made the following observations:
+
+* The number of telephone subscribers increased from 105,985 in 1987/88 to 283,683 in 2000/01 and that of facsimile subscribers grew by 24% per annum over the same period. 
+
+* Internet services that were introduced in 1996/97 with 1042 subscribers increased to 6487 in 2002. Coverage of Internet services has expanded to 12 major towns, but about 96% of the total subscribers are from Addis Ababa. The total number of local websites increased from 68 in 2000/01 to 88 in 2001/02 and is projected to rise to 100 in 2002/03. 
+
+* Mobile telephony became operational in 1998/99 with 6740 subscribers and rose to 27,532 subscribers in 2000/01 fiscal years. 
+
+Teledensity is very low in Ethiopia and varies from region to region. The number of people per main telephone line ranged from 15.4 in Addis Ababa to 1,935 in the Somali region. Overall, there are 224 people per telephone line or 4.5 telephone lines per 1000 inhabitants, meaning: 
+
+* The main lines serve only 65% of the expressed demand of the country, and the proportion of the waiting list (relative to main line connections) was 55% in 2000/01. 
+
+* Sectoral distribution of fixed lines shows that the private sector (residential and business) uses 86%, while the government and international organizations take a share of 12% and 2% respectively. 
+
+According to the estimation of the International Telecommunication Union (ITU), there were 75,000 computers in 2001 and 367,000 TV sets in 2000.  Only 2.8% of the total households in the country have access to TV sets. The national survey of 1999/00 also showed that only 18.4% of the population owned radios. 
+
+4.1.2	ICT usage in the selected sectors
+
+ ICT penetration and usage in schools, colleges and health facilities varies markedly by ownership (government vs. non-government) and some conclusions were that:
+
+* Government-owned health and educational institutions lag behind the private sector and NGO sector. Regional towns are also at a disadvantage relative to Addis Ababa. 
+
+* Access to basic ICTs is also lower among employees residing in regional towns than among those in Addis Ababa. Diffusion beyond the capital city and the major regional towns i.e., smaller towns and rural areas where the bulk of the population resides, is extremely low. 
+
+* Penetration is generally higher among the sample public institutions (e.g. federal ministries and regional bureaus) than in education or health facilities. For instance, all the public institutions (100%) have computers and direct telephone lines. By contrast, 18% and 67% of schools and health facilities, respectively, have no access to computers. About 11% of the schools and 4% of health facilities have no direct access to telephone lines. 
+
+* Internet connectivity is also higher for public administration (69%) than for educational institutions (52%) or health establishments (13%). The respondents asked to identify the major constraints to expansion of ICT in Ethiopia gave consistent answers across the different sectors and regions. 
+
+* High cost of computers, followed by poor telecommunications infrastructure, lack of accessories and high Internet service charges hamper access. Other notable problems include shortage of trained human resources and absence of an ICT plan.
+
+4.1.3	ICT industry
+
+The ICT industry in Ethiopia is dominated by the parastatal ETC, which has recently expanded its operations beyond its traditional monopoly area (telecommunications infrastructure). The rest of the industry is engaged in acquisition, production and distribution of computer and communication hardware and software, training, consultancy and other services.   
+
+4.1.4	Regulatory framework in Ethiopia
+
+Nearly 70% of the sample firms believe that the tax rates are too high. The industry is also affected by weak legal systems and an inadequate enforcement capacity. The respondents also noted that telecommunication laws that favour government monopoly have adversely affected the development of ICT infrastructure.  The long waiting time for fixed lines and mobile telephones coupled with the complaints of users about the quality of service suggest that such closed-market policies may be inconsistent with the desire to expand use of the new technology. 
+
+
+4.2	Mozambique
+
+The pilot phase of the Mozambique SCAN Project covered the priority areas of education, health, infrastructure, public sector, private sector and e-commerce.
+      
+4.2.1	ICT infrastructure
+
+The telecommunications infrastructure in Mozambique consists of a national backbone, covering all provinces up to the district level. Within the main cities, the telephone switches are linked via optical fibre networks and copper for connecting end-users to the secondary network. Mozambique has a teledensity of about 0.469 (46 telephone lines per 1000 inhabitants), which is one of the lowest in the region. Telecomunicações de Moçambique’s (TDM) Annual Report 2001 indicates that the available capacity in telephone lines was 127,902, but the number of subscribers was only 89,488, against 85,714 in 2000. That represents only a 4% increase. One of the main reasons for such slow growth is people’s limited purchasing power, especially in the rural areas. Some factors that emerged are: 
+
+* There is only one mobile service provider in the country, mCel (Moçambique Cellular), which is the brand name for Telecomunicações Móveis de Moçambique (TMM). 
+
+* The Government awarded a second mobile phone licence to Vodacom in August 2002. 
+
+* mCel increased the number of its subscribers from 2,500 in 1997 to 152,652 in 2001. This tremendous growth was mainly due to introduction of the pre-paid system. Due to the high costs of the standard contract package, most mobile subscribers have joined the pre-paid modality. 
+
+* There are currently more than 10 ISPs in Mozambique, and the total number of e-mail users in the country is estimated at about 60,000, with over 50% based in Maputo. One of the obstacles to further increasing the number of e-mail subscribers is thought to be high subscription fees. Most ISPs charge on average between $US30 and $US40 per month. 
+
+4.2.2	Education
+
+The availability of computers and Internet connectivity in the education sector is still very low, and is essentially limited to higher education institutions and some pre-university secondary schools. The Scan survey indicates that out of 52 secondary schools visited, 24 had computers and only 12 had Internet. In higher education, the constraints are not only related to the number of computers and access points but also to limited bandwidth. 
+
+4.2.3	Health 
+
+The situation in the health sector is similar to the one in education. In general, some computers are available in central and general hospitals and private clinics. Exceptionally, computers can also be found in lower category hospitals. In 52 institutions visited, 27 had 5 PCs or less, and only 4 had more than 10 computers. Mainly doctors and administrative staff use the few existing computers for various functions. Out of 121 interviewees, 22 use computers to access databases, 13 for e-mail and 12 for research. Some interviewees also mentioned other applications such as distance education and telemedicine. 
+
+4.2.4	Public sector
+
+The public sector is the most critical of all the categories studied. Most of the institutions still process and store data manually and use typewriters for most activities. Typical examples are the municipalities and public administrations, the office of the Civil Registry and Notaries, which hardly have adequate space for storage of the massive amount of paper produced year after year. As a result:
+
+* The Government is introducing a number of reforms, which will certainly require intensive and systematic ICT use; 
+* Some ICT projects have already been put in place, such as the new ID document for Mozambican citizens, which is fully computerized;
+* The introduction of the “One-Stop-Shop” project at the Ministry of Tourism, which aims at reducing bureaucracy. New projects have also been designed in the framework of the national ICT Implementation Strategy. These include Public Servants Information System (PSIP), Electronic Government Network (GovNet), State Financial Management System (e-SISTAFE), Electoral Processes Management System and Digital Land Register.
+
+4.2.5	Private sector
+
+When compared with other sectors, the level of ICT penetration in the private sector appears to be the highest. The level of competition in the local, regional and international market dictates the need for effective use of ICTs to ensure high standards of quality goods and services. As one of the indicators, most of the companies visited have business e-mail addresses, and some of them have developed websites. 
+
+4.2.6	E-commerce
+
+In the true sense of the term, e-commerce does not exist in Mozambique. However, there are some isolated initiatives that can be considered e-business, rather than e-commerce activities. Some local ISPs advertise the services of the latter but when it comes to purchasing, there is insecurity and distrust and only a few people dare to take the risk. One of the reasons could be the lack of national legislation against cyber crimes. Also, digital signature authentication is yet to materialize and only a few companies have websites. The survey shows that out of 66 companies only 20 have a website.
+
+
+5.	IDRC-led SCAN-ICT Countries
+
+5.1	Ghana10
+
+The Ghana survey was based on the Scan methodology. The survey was implemented in two stages: the design stage dealing with development of the methodology (a detailed design of the necessary inputs and tools required for data collection, processing and presentation) and the implementation stage, dealing with actual data collection and analysis based on the methodology. The targeted sectors included public sector institutions and establishments, private sector (ICT companies and others), educational and medical institutions.  
+
+To facilitate data collection and research work, the Ghana Scan-ICT survey was conducted by setting up and employing a network of members from universities, polytechnics, and research institutions all over the country. Roles were defined for each key institution as a collaborating node or a regional coordinating node. Apart from this, a Scan-ICT Respondents Network was set up to provide input through face-to-face interviews and through postal questionnaires. The methodology for data collection also used e-mail, website direction, newspaper inserts and radio shows. Of all the methods used, the face-to-face interview was most successful. The success rate of postal questionnaires was limited.
+
+The areas covered by the study included the ICT sector, touching upon key players and stakeholders, an overview of Ghana’s ICT landscape; sectoral applications such as profiles of ICT projects in the public and private sectors, education and health sector, and the ICT industry.
+
+5.2	Morocco11
+
+The country report describes the implementation of the Scan-ICT pilot, the institutional/organizational framework put in place as well as the methodology used in achieving results. The data collected were in the area of infrastructure, strategic planning and capacity development, with focus on penetration of ICTs in public administration, education, health, industry, natural resources and land management sectors and on the information economy. Both primary and secondary sources were used to generate the requisite information and the data coverage spans from 1995 to 2002. The project team consisting of permanent core ITEGO staff, consultants and investigators, conducted the Scan survey. 
+
+With a view to entrusting data collection responsibilities mainly to national institutions, the Morocco Scan study has also set up a National Scan-ICT Network. The objective of using this mechanism was to avoid duplication of efforts and permit continuous updating of the national Scan-ICT profile. Participation of the project team in the various national meetings, workshops and symposia has also been used as one of the strategies to collect information and undertake face-to-face interviews. A lot of effort has been made to adapt the methodological framework to the institutional and organizational context. 
+
+
+
+
+The following observations were made during the course of the Scan-ICT study: 
+
+* The inter-African cooperation framework set up for the Scan project proved useful for exchange of experiences among participating institutions. This practice must be further strengthened and spread to include more institutions;
+* The institutional and organizational arrangements used for the Scan-ICT process proved viable in overcoming difficulties characterizing data collection and processing;
+* The use of a standardized and harmonized methodological framework allowed the national institutions to cooperate effectively in a network; and
+* The existence of an independent national structure endowed with the necessary human and material means is required for coordinating future activities related to data analysis and diffusion on the web.
+
+The report concluded by forwarding recommendations to ECA and IDRC on the need to continue the pilot stage, to extend the survey to socio-economic sectors not covered during the pilot phase and to carry out studies in domains not touched by the pilot phase, notably use of SCAN-ICT indicators. 
+ 
+5.3  Senegal12
+
+The OSIRIS team, led by Mr. Amadou Top, undertook the Scan-ICT project in Senegal. The process started by organizing a national stakeholders meeting in July 2001, to develop and build consensus on indicators covering infrastructure, national strategic planning, and sectoral applications for governance and the information society and economy. The data collection modes used included both secondary sources (desk research using studies, reports, publications and the Web, etc.) and primary sources using questionnaires targeted to different public sector enterprises, project executing agencies, the private sector, ICT users, and others. 
+
+The Scan-ICT report emphasized that the methodology should contain indicators carefully identified and capable of giving back the desired results. For example, it is appropriate to use the indicator "the number of telephones by home" instead of "number of telephone per inhabitant", because the former results in data that reflect the realistic picture of the penetration of telephones in each household. In the same way, the results obtained from indicators such as "number of Internet users or subscribers" may depict a wrong picture because of the prevalence of systematic pooling in the use of rare resources in Africa, which allows the population to get connected through community resources such as cybercafes and telecentres. The need for follow-up and evaluation of the effectiveness of indicators has also been stressed. 
+
+5.4      Uganda13
+
+The report is an evolutionary document, which will continuously be updated to conform to the prevailing status of ICTs in Uganda. The assessment and the reporting were performed in a series of linked stages that allowed the report to evolve. In line with the Scan-ICT methodological framework, benchmarks were adopted that indicated the level and extent of ICT diffusion in the country. The data were derived from a variety of sources, including selection of appropriate indicators and available facts, figures and other relevant information. The lines of inquiry adopted focused on infrastructure, strategic planning, capacity development, information economy, and sectoral applications. Other themes included ICT status (assessment of the existing situation), compilation of information describing current status and progress within the AISI themes. 
+
+The Uganda Scan survey was conducted in two phases. The first phase covered the Kampala metropolitan area while the second dealt with upcountry and outlying areas. Information on the past, the present and the future of ICT projects was collected and analysed. 
+
+With a view to obtaining comments, feedback and consensus, a stakeholders workshop was organized to review national data and information on ICTs. Some of the difficulties encountered included lack of concrete data on what is actually happening on the ground, the preliminary nature of empirical work relating to ICT trends analysis in the country (more reliance on secondary data), the responses, regulatory obligations for the provision of data, and inadequacy of time to cover other parts of the country. 
+
+6.  Conclusions
+
+Recommendations forthcoming from the conclusions of the baselines studies undertaken targeted policy, human resource development, infrastructure, and research and development. In this regard, the reports emphasized that governments should take appropriate measures in the areas mentioned below, so as to improve the diffusion and utilization of information technology products in development:
+
+* Creating an enabling policy environment for ICT for development by strengthening regulatory frameworks, instituting policy reforms in the telecommunication sector, and taking measures to reduce tax and duty rates on computers and accessories, internet connection and access charges;
+*  Encouraging private investment by increasing the availability of credit facilities and creating venture capital;
+* Encouraging and supporting the private sector engaged in research and development and applied research activities in software development, subcontracting with client firms, and entry into joint research ventures with foreign companies, taking advantage of the low-cost labour available for development of the ICT industry;
+* Increasing access by empowering citizens economically through implementation of innovative poverty reduction programmes;
+* Designing and launching ICT training programmes at all levels, starting from the university and gradually extending the coverage down to lower levels, including a general awareness-creation campaign on ICT uses;
+* Preparing and implementing a comprehensive ICT-for-development master plan for addressing current and future ICT needs at all levels;
+* Expanding the infrastructure and increasing ICT access points to basic telecommunication services, by building partnerships with the private sector and funding agencies, to bridge the gap between urban and rural ICT infrastructure;
+* Providing priority to small ICT projects with bigger and immediate development impact, e.g., telecentres instead of mega projects requiring huge investment.
+
+Completion of the pilot phase of the Scan project in all countries indicates that the methodological framework developed for the pilot phase (the set of indicators) has served the intended purpose because no negative feedback was received about the indicators during the course of the online discussion that followed the Scan-ICT inaugural workshop. This implies that the methodology, with further linkage with the UN Millennium Development Goals (MGDs), can be used to roll out the research to more countries if resources permit. Moreover, to sustain the Scan process and increase its responsiveness to strategic planning and ICT investments, it must be linked with the various ICT initiatives such as national e-strategies activities, harnessing ICTs for decentralization of public administration14, e-government/governance projects, etc. It is also crucial to continuously monitor and capture data on their development to facilitate informed decisions. 
+
+Preparations are underway for ECA and IDRC to publish the results of the Scan reports, which will be widely disseminated to various national, regional and international institutions and used as an awareness-raising tool for key stakeholders. 
+
+Recognizing the commitment and the level of collaboration demonstrated by partners, and noting the call made by the WSIS process for increased efforts in benchmarking ICT-for-development activities, ECA will make efforts to use the PICTA network15 to negotiate with more partners and increase the quality and quantity of actors for the next phase of the Scan-ICT process.
+
+1 Suggested Framework for Scan-ICT Baseline Studies. Indicators contained in the document were developed and classified based on AISI thematic areas (Infrastructure, Strategic Planning, Capacity Development, Sectoral Applications, etc)
+2 
+3 
+2 http://www.aau.edu.et 
+3 http://www.iniit.com
+4 scanict.marwan.ac.ma
+5 http://www.scan-ict.uem.mz
+6 http//www.osiris.sn
+7 www.uncst.go.ug
+8 Nazareth/Adama is the capital of Oromiya Regional State.
+9 Source: www.infopol.gov.mz/simposio/politica/politica.doc
+10http://www.scan-ict.org
+11 http://Scanict.marwan.ac.ma/ang/report.htm
+12 http://www.osiris.sn
+13 See: http://network.idrc.ca
+14 An example of this initiative is the Woreda Study undertaken in Ethiopia with support from ECA. The objective of this project is to conduct a study to determine the information and communication needs of Woredas (basic local units of the Government of Ethiopia – equivalent to district) and define the intervention of ICTs for effective and decentralized public administration 
+15 http://www.uneca.org/aisi/picta
+
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+E/ECA/DISD/CODI.3/15
+
+
+
+
+8
+
+

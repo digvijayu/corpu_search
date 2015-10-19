@@ -1,0 +1,134 @@
+[Start1]
+Sixtieth session
+Agenda items 122, 124 and 130
+
+Review of the efficiency of the administrative
+and financial functioning of the United Nations
+
+Proposed programme budget for the biennium 2006-2007
+
+Joint Inspection Unit
+
+
+
+		Report of the Joint Inspection Unit on the policies
+of United Nations system organizations towards 
+the use of open source software in the secretariats
+
+
+		Note by the Secretary-General
+
+
+	The Secretary-General has the honour to transmit, for the consideration of the General Assembly, his comments and those of the United Nations System Chief Executives Board for Coordination on the report of the Joint Inspection Unit report entitled “Policies of United Nations system organizations towards the use of open source software in the secretariats” (JIU/REP/2005/3).
+
+
+
+	Summary
+	The Joint Inspection Unit report presents a review of the phenomenon of open source software and includes a survey of the policies and practices in use for this type of software in a selection of Member States and across the system.
+	The report presents a series of recommendations that explore the value of open source software in terms of universal access to information and the ability of organizations to share information. By linking open source software to information access, the report makes the case that United Nations system organizations should more closely embrace open source software to ensure that all stakeholders have access to electronic information without having to purchase specific software products. In addition, the report seeks to link enhanced interoperability (i.e., sharing of computer-based information) across the United Nations system through the use of this type of software.
+
+	Members of the United Nations System Chief Executives Board for Coordination (CEB) broadly acknowledge the usefulness of open source software and the opportunities it presents, not only for its potential for cost savings, but also for a range of other benefits. However, CEB members note that the report addresses issues outside the scope of a study of open source software use and does not devote sufficient attention to the issues surrounding the implementation of open source software, which would require further in-depth analysis to properly develop a system-wide direction on this important topic.
+
+	I.	Introduction
+
+
+1.	The Joint Inspection Unit report entitled “Policies of United Nations system organizations towards the use of open source software in the secretariats” represents the first of two reports on the subject of open source software. The objectives of the study include raising awareness of the open source phenomenon and highlighting steps United Nations system organizations could take to explore the advantages offered by open source software. While not explicitly noted in the report, the programme of work of the Joint Inspection Unit notes that this report intends to review policies and practices of system organizations vis-à-vis the use of open source software, focusing mainly on its use as a management tool and its comparative advantages, and constraints, in relation to proprietary software (A/59/75, para. 19).
+
+
+	II.	General comments
+
+
+2.	Members of the United Nations System Chief Executives Board for Coordination (CEB) appreciate the comprehensive nature of the report and the efforts of the Joint Inspection Unit to highlight this important issue. They note that many critical components of their information and communication technology portfolio do indeed utilize open source software, and this trend is continuing to grow throughout the system.
+3.	Given the importance of this issue, CEB members had looked forward to this study by the Joint Inspection Unit and had hoped that it would include a detailed study of the potential costs, benefits, advantages and constraints of open source use within the system. The report falls short of this expectation: it includes neither a comprehensive analysis of the potentials and constraints of open source products nor does it offer a detailed assessment of the use of open source products by the organizations of the system. It anecdotally covers the experience of only six organizations, while, currently, every organization within the system has installed and is using open source products.
+4.	Many CEB members further note that when exploring the use of open source software within the United Nations system, the report examines the area of access to information rather than the use of open source software. This is seen by many organizations as a major gap in what was expected to be a serious analysis of the critical area of the value of open source software.
+5.	Many CEB members consider the recommendations of the report rather remote and with little value added to the ongoing discussion of the use of open source software within and among the organizations of the system. At the same time, they find some of the recommendations acceptable to the extent that they address generic issues, but they do not find these linked to the analysis in the report itself.
+
+	III.	Specific comments on recommendations
+
+
+		Recommendation 1
+
+
+	In line with its resolution 57/295 and in order to guarantee universal access to information and to foster knowledge-sharing, the General Assembly should affirm that the following principles should guide the adoption of a software policy by United Nations system organizations:
+	•	Principle 1: All Member States and other stakeholders should have the right to access public information made available in electronic format by the organizations and no one should be obliged to acquire a particular type of software in order to exercise such a right;
+	•	Principle 2: Organizations should seek to foster the interoperability of their diverse information and communication technology systems by requiring the use of open standards and open file formats irrespective of their choice of software. They should also ensure that the encoding of data guarantees the permanence of electronic public records and is not tied to a particular software provider.
+6.	CEB members agree with principle 1 of this recommendation and feel that the purchase of software should not be a prerequisite for access to public electronic information published by the United Nations system organizations through their websites. However, many members note that the issue is one of access and not one of the particular software used to provide information. They point out that the most common standard, PDF, is neither from an open source product nor an open standard and yet does not require the purchase of software. In addition, they note that very few commercial software packages require the storage of information in a particular format and many common software packages provide for distribution of data in open formats.
+7.	CEB members generally accept principle 2 of recommendation 1, with the proviso that organizations be encouraged, and not required, to use open standards. Some organizations expressed concern that this was not entirely relevant to a discussion on the use of open source software and that open standards and open source are not the same issues. These organizations note that a wide range of open standards and open formats exist for publishing information and simply deciding to publish information using one of these formats does not guarantee the permanence of public records. Therefore, the system might benefit from an agreement on a specific format in order to succeed in this area. They also note that the Joint Inspection Unit report does not make any business case for data interchange and that any progress on this issue would depend on the level and type of data to be shared among organizations of the system.
+8.	Many CEB organizations note that even though they generally agree with the two principles in recommendation 1, this recommendation does not relate to the study on the use of open source software within the United Nations system. They consider that a study by the Joint Inspection Unit on ways and means to share information across the system, an issue not addressed in the Joint Inspection Unit report, would be most helpful.
+9.	In general, CEB members expressed concern that a single dimension, “access to public information”, should have guided the study. In their view, there are a range of factors that should act as a guide to the procurement of software by the organizations of the system.
+
+
+		Recommendation 2
+
+
+	For the implementation of the above principles, the Secretary-General, as Chairman of CEB, should take stock of the experiences of Member States and undertake the necessary consultations within CEB in order to establish a United Nations system-wide interoperability framework and report accordingly to the General Assembly at its sixty-first session. The proposed interoperability framework should take into account a number of elements, including the following:
+	(a)	The interoperability framework should be based on open standards and open file formats with a view to fostering a unified approach to data encoding and sharing for the benefit of all stakeholders;
+	(b)	Any new information system, software application and/or related upgrades or replacements should comply with the interoperability framework except in such justifiable instances approved by the respective Chief Information Officer or information and communication technology manager of each organization;
+	(c)	Customized or bespoke software should be owned by the organizations and be made available as appropriate to other system organizations and public administrations of Member States or licensed as open source software;
+	(d)	Organizations should seek to avoid being locked into proprietary information and communication technology products or services. In that regard, they should level the playing field as a matter of policy by giving equal consideration to all appropriate solutions available on the market, including open source software solutions, as long as such products and services comply with the requirements under the United Nations interoperability framework and it is understood that the final choice is made on the basis of value for money.
+10.	CEB members found the concept of an interoperability framework, described in recommendation 2, interesting, although many members expressed reservations regarding many aspects of the recommendation.
+11.	In general, CEB members expressed confusion as to how an interoperability framework would function, the value that it would provide and the origin of the proposal. They pointed out that the supporting documentation for this recommendation depended upon material from the Information and Communication Technology Network, noting the need to better coordinate in many areas of information and communication technology. However, the report does not indicate how the need for better information and communication technology coordination across the system translates to the need for a unified framework for all information and communication technology activities. Also unclear is how any discussion of inter-agency information and communication technology activities relates to the main topic of the report, notably open source software use within the system.
+12.	Regarding element (a) of the recommendation, some CEB members noted that many problems would need to be solved prior to implementing any interoperability framework. These include determining how current standards that use proprietary software, especially Microsoft Office, would be managed. In addition, this framework should allow for organizations to use their platform of choice, provided it conformed to agreed-upon open standards.
+13.	Some members noted that, with respect to element (b) of the recommendation, procedures already existed to ensure that new systems conformed to existing institutional standards.
+14.	Many members noted difficulties with element (c), particularly the costs associated with maintaining shared custom software. Mostly, however, they are concerned about the fact that the study failed to take into account existing efforts of software-sharing between organizations. Of particular note is the Information for Development Programme (infoDev) which goes beyond the simple sharing of bespoke software to encompass sharing of data regarding the Millennium Development Goals. Finally, they note that compiling and maintaining a compendium of applications requires resources, both financial and human, neither of which have been made significantly available to the inter-agency coordinating mechanism.
+15.	Regarding element (d), many members pointed out that they already included open source software during the software selection process, a point missing from the report. In addition, most members emphasized that the requirements for software procurement were derived primarily from the need to satisfy business requirements and not simply from the procurement costs or licensing fees involved. While these elements figure prominently into the selection process, ensuring “value for money” begins with meeting operational needs.
+
+
+		Recommendation 3
+
+
+	Based on the outcome of the consideration by the General Assembly of the system-wide information and communication technology strategy, executive heads of other organizations should submit in due course the strategy to their respective governing bodies, along with implications for aligning existing information and communication technology strategies with the new system-wide strategy and for implementing the interoperability framework suggested above.
+16.	All members indicated that their organizations’ governing bodies review their information and communication technology strategic plans to ensure alignment with organizational goals. In addition, all members indicated a willingness to consider alignment of their organization’s information and communication technology strategic plans with any system-wide strategy, provided that the system-wide strategy demonstrates business value for individual organizations.
+17.	Many members indicated that, while laudable in its sentiment, recommendation 3 did not specifically address the use of open source software within individual organizations and that this type of recommendation properly belonged in a study of the information and communication technology strategic plans of organizations of the system and not in one focused on open source software. Since the Joint Inspection Unit study did not attempt to analyse or review the strategic plans of the organizations of the system nor provide any study of the United Nations system information and communication technology strategic framework adopted by the high-level bodies of the CEB, this recommendation seemed out of place to many members.
+
+
+		Recommendation 4
+
+
+	The Secretary-General, as Chairman of CEB, should take the necessary measures to establish a data repository of mature open source software solutions used by United Nations system organizations and which could be accessed by the organizations and by public entities of Member States and other interested parties.
+18.	Recommendation 4 seeks to establish a repository of open source software solutions currently used by the organizations of the United Nations system. This recommendation has the wide support of organizations across the system, and it should be noted that the Information Technology Services Division maintains an inventory of all software, which contains software also developed by the United Nations Office at Geneva. It should also be noted that a further useful coordination mechanism is the establishment of information and communication technology standards committees, whose function is to set and promote common software standards, including open source software. An analysis of the functioning of these bodies might provide useful to the system-wide implementation of similar structures and initiatives, as recommended in the report.
+19.	However, it should also be noted that the report does not indicate the level of open source software development by organizations of the system, which would have been helpful when assessing the nature and value of such a repository. In addition, while organizations of the system welcome the concept of a repository, they note that the Joint Inspection Unit report does not provide a fully justified business case for investing in a repository, which could require considerable resources to maintain. In the past, the United Nations system has made efforts to create such repositories. However, due to limited resources, this process could not easily be maintained.
+
+
+		Recommendation 5
+
+
+	As a follow-up to the CEB review of key initiatives mentioned in the United Nations information and communication technology Charter (A/59/563, annex I):
+	(a)	The Secretary-General, as Chairman of CEB, should include in an addendum to his further report on the information and communication strategy requested by the General Assembly for its sixtieth session relevant indications concerning the level of priority, savings potential, risk, effectiveness and organizational interest for implementing the proposed open source software initiative;
+	(b)	Executive heads should assess the total cost of ownership of their current platforms and implement processes measuring the total economic impact of their information technology investments, including their use of open source software and closed source software and the implications for Member States. The results of their findings should be reported to their respective governing bodies in the framework of their programme budget performance review.
+20.	CEB members did not agree with recommendation 5. Regarding part (a), members believed that the Joint Inspection Unit report should have outlined the savings potential, risk and effectiveness of open source software use. In addition, many organizations feel the report does not provide a strong case for the reasons open source software should receive preferred attention over other initiatives contained in the United Nations system information and communication technology strategic framework. They point out that the use of open source software is only one element of many identified in the Information and Communication Technology Strategic Framework, and not the most critical. There are several areas, such as a shared global telecommunications network and infrastructure, that are more critical to inter-agency collaboration and have a greater potential to further reduce costs and streamline the United Nations system.
+21.	Regarding part (b), it was observed that its implementation would place a huge burden on any organization, requiring it to re-cost and justify, in a short time period, virtually the entire information and communication technology infrastructure. It would also set up an exceptional reporting requirement for open source software, when in fact open source software is only one of many sources of potential savings in information and communication technology initiatives.
+22.	In addition, some members felt that recommendation 5 (b) prescribes how an organization should conduct its programme and budget process, its relationship with its respective governing bodies and, in general, how it determines what information and communication technology initiatives should take precedence. Some members found this recommendation especially difficult to accept, given the lack of any justification in the report regarding the relative value of open source software.
+23.	Finally, some members pointed out that the total cost of ownership of current software platforms was well understood and based on many years of experience; in many cases, open source software is simply not able to replace these platforms, rendering any comparison impossible to perform.
+
+
+		Recommendation 6
+
+
+	On the basis of past attempts at system-wide coordination on information and communication technology matters, the General Assembly should:
+	(a)	Decide that the establishment of any new CEB mechanism on information and communication technology coordination will be considered only after the CEB members: (i) have agreed on the mandate, mode of financing, powers and expected outputs of such a body in relation to the proposed United Nations interoperability framework referred to above in recommendation 2; and (ii) have provided reasonable assurance that agreed recommendations will be followed up and their implementation duly reported to governing bodies;
+	(b)	Request the Secretary-General, as Chairman of CEB, to give full consideration to all possibilities of using existing mechanisms such as the United Nations System Staff College, the United Nations Institute for Training and Research, the International Computing Centre and the United Nations University for the implementation of relevant aspects of any new initiative, including relating to open source software.
+24.	A number of CEB members pointed out, regarding part (a), that effective information and communication technology coordination mechanisms already exist, notably the information and communication technology coordination function of the CEB secretariat and others within the Information Technology Services Division and the United Nations Development Group, and should be strengthened. Regarding point (b), members agreed that all appropriate existing avenues, including those mentioned in the recommendation, should be included when implementing all information and communication technology initiatives, not only those relating to a specific solution such as open source software.
+
+
+[Start1]<<ODS JOB NO>>N0623285E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/60/665/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+8
+
+9
+
+United NationsA/60/665/Add.1 
+General AssemblyDistr.: General
+3 February 2006
+
+Original: English
+
+
+06-23285 (E)    140306    
+*0623285*
+

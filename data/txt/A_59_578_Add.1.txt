@@ -1,0 +1,109 @@
+[Start1]
+Fifty-ninth session
+Item 108 of the agenda
+Programme budget for the biennium 2004-2005
+
+
+
+		First performance report on the programme budget for 
+		the biennium 2004-2005 
+
+
+		Report of the Secretary-General*
+
+
+		Addendum
+
+
+		Implementation of the United Nations Official Document System
+
+
+
+	Summary	The General Assembly, in its resolution 58/270, reaffirmed that the Official Document System of the United Nations should cover the entire Organization and requested the Secretary-General to report on the progress made in its Secretariat-wide implementation to the General Assembly at its fifty-ninth session. The present report provides a review of the increasing availability and expansion of system use over the past two bienniums. In addition, the report presents an overview of improvements currently under way to enhance application.
+
+
+*	
+
+	I.	Introduction
+
+
+1.	By its resolution 58/270 of 23 December 2003, the General Assembly requested the Secretary-General to pursue vigorous implementation of the Official Document System (ODS) to cover the entire Organization, including all regional commissions and the United Nations Office at Nairobi, and to report on the progress made. This report contains a review of the implementation and use of ODS at Headquarters and at the offices away from Headquarters.
+
+
+	II.	Background and general considerations
+
+
+2.	The Information Technology Services Division of the Office of Central Support Services completed the re-engineering of the Optical Disk System in September 2001, and started the production operations of the re-engineered and renamed ODS based on the new system platform. 
+3.	Using the advantages provided by the new system standards, the Information Technology Services Division incorporated many improvements into the new ODS. The most essential improvement is a multilingual search function implemented in February 2002, which has enabled users to search documents on ODS in any of six official languages of the Organization, endowing the application with equal treatment of the languages. By its design and purpose, ODS is a global system encompassing all main offices of the Secretariat, allowing those offices full access for document loading and retrieval.
+4.	Direct access to ODS from web sites was implemented in July 2002, enabling the United Nations web site (http://www.un.org) and other authorized United Nations-related web sites to link to documents directly on ODS, eliminating the need to physically copy documents onto authorized web sites. This direct-access function has significantly facilitated access to official documents in the six official languages. Web-author offices have been mandated to use the ODS direct access function on authorized United Nations web sites. As at the end of June 2004, the ODS function was being used by approximately 110 United Nations-related web sites around the world.
+5.	The Division is also making steady progress in implementing free access to ODS, which could then be accessed worldwide free of charge through the Internet. The new system infrastructure is being implemented, and new servers were installed and configured for that purpose during the second and third quarters of 2004. The Dag Hammarskjöld Library of the Department of Public Information has arranged for users to be able to access all full-text documents in all official languages on ODS through direct links on UNBISnet (http://unbisnet.un.org), the Library catalogue. (By the end of 2003, it had been accessed some 980,000 times.) This free service is available worldwide. By the end of 2004 all other links will be available for free access to the system database.
+6.	The Department of Public Information also provides direct links to General Assembly and Security Council documents in all official languages through the General Assembly and Security Council pages on the United Nations web site. Furthermore, the Department of Public Information provides title information on those documents in all official languages on its web site.
+
+	III.	Implementation of the Official Document System at Headquarters
+
+
+7.	Since 1992, when ODS production operations began under the then Optical Disk System, the Department for General Assembly and Conference Management and the Dag Hammarskjöld Library have been loading onto the system official documentation and indexing information in the six official languages. Initially this process was cumbersome and labour intensive. One of the crucial improvements resulting from the ODS re-engineering was the development of a new document loading server that loads documents onto ODS in a highly automated manner with improved performance and reliability. Such servers were installed in the Department for General Assembly and Conference Management and the Dag Hammarskjöld Library in 2001, replacing the older document loading facility. The new loading server allows the Department for General Assembly and Conference Management and the Dag Hammarskjöld Library to verify availability of a document on ODS soon after the loading process is completed, thereby ensuring the simultaneous availability of documents in all six official languages.
+8.	Since ODS became operational, the Department for General Assembly and Conference Management has played a central role in facilitating the timely loading of new documents at Headquarters. For this purpose, its Electronic Documents Registration, Information and Tracking System (e-Drits) has a provision to allow ODS to share the indexing information required to automate the process of archiving documents at Headquarters. E-Drits provides the initial indexing information required for ODS after text processing has been completed. After a document is finalized in a text processing unit, it is then sent for archiving on ODS, based on the indexing information obtained from e-Drits. When a document is released in all official languages, its status is relayed to ODS, making the document available to the public in all official languages of the United Nations. The Department for General Assembly and Conference Management also performs quality assurance on documents at Headquarters and liaises with offices away from Headquarters on queries related to the quality of documents posted by those offices. New document loading servers standardized at Headquarters and offices away from Headquarters have made these processes more transparent.
+9.	Through its retrospective digitization programme, the Dag Hammarskjöld Library is gradually digitizing documentation issued prior to 1993 for loading onto ODS. The documents of up through the forty-sixth session of the General Assembly have already been digitized and loaded, and work is in progress on the 1985-1992 Security Council series. This work is expected to be completed in early 2005. The Dag Hammarskjöld Library has also completed the digitization of documentation of other areas of United Nations activities, such as of Administrative Tribunal judgements and the Committee on Palestine. 
+
+
+	IV.	Implementation of the Official Document System in offices away from Headquarters
+
+
+10.	Following the successful implementation of new document loading servers at Headquarters, the Information Technology Services Division initiated in 2001 their implementation at offices away from Headquarters. The new document loading server has made it relatively easier to start the process of loading documents onto ODS. Using the new facility, documents loaded directly by offices away from Headquarters were automatically posted on ODS, making them available to users worldwide. 
+11.	The United Nations Office at Geneva has been serving as an ODS mirror site since the start of ODS production operations in 1992. At that time no Internet service was available yet, and the full ODS system was implemented at the United Nations Office at Geneva, serving the user community in Geneva and the rest of Europe. The ODS database in New York was synchronized with that of Geneva, so the users were able to access all documents entered by both Headquarters and the United Nations Office at Geneva. The Geneva office utilized ODS at its full capacity, entering a significant amount of documents in all six official languages. This mirror site arrangement was carried over even after ODS became accessible from the Internet in 1996. In 2001, a new document loading server was installed at Geneva, streamlining the document loading process. As a partner of the United Nations Bibliographic Information System, the United Nations Office at Geneva Library contributes indexing data to the Dag Hammarskjöld Library database for loading onto ODS.
+12.	The United Nations Office at Vienna started loading its documents onto ODS in January 1997. Currently, the Office loads parliamentary documents of the United Nations Office at Vienna, the United Nations Office on Drugs and Crime and the United Nations Industrial Development Organization on a daily basis, as soon as they are released for distribution. The database is replicated every 20 minutes by Headquarters, and uploaded documents are normally available within 40 to 60 minutes. ODS is used daily by a wide variety of staff from all Vienna International Centre-based organizations and permanent missions. In addition, the ability to view or download documents increases efficiency in referencing (e-referencing is directly linked to ODS) and the translation of documents by the Vienna Conference Services Division, including remote translation. This saves both time and resources, since documents are no longer shipped by pouch to or from Vienna. 
+13.	The United Nations Office at Nairobi installed the ODS document loading server in March 2004. Subsequently, the United Nations Office at Nairobi Division of Conference Services began loading onto ODS documents processed at Nairobi. Since then, the Division of Conference Services has managed to upload a substantial amount of documentation (in Word and PDF). As part of future plans, a scanner that will enable the Division of Conference Services to upload most meeting documents of the United Nations Environment Programme (UNEP) for the period from 1973-1980, as well as environmental convention documents, will be installed by the end of 2004. The Dag Hammarskjöld Library collaborates with the United Nations Office at Nairobi to ensure that the indexing metadata are prepared for loading UNEP documents. 
+14.	The Economic Commission for Africa (ECA) initiated action to implement ODS in July 1998, after its document processing units had been trained by the Information Technology Services Division. The ECA Library played a pivotal role in that process by issuing ODS user-identification cards to ECA staff and training potential users. Due to technical difficulties, ODS implementation at ECA was temporarily stopped at that time and was resumed in June 2003 with the loading of some of its parliamentary documents produced in 2003 as part of a pilot project. Steps are now being taken towards full-scale implementation of document loading onto ODS. That is being done through the implementation of the document management project, which incorporates ODS at ECA. The project aims at eliminating the main problems that have previously prevented ECA from actively contributing to ODS.
+15.	The Economic and Social Commission for Asia and the Pacific (ESCAP) started loading documents onto ODS in collaboration with the Dag Hammarskjöld Library in December 2003 in English only. Documents have been finalized on ESCAP premises and have been sent for loading to the Dag Hammarskjöld Library as e-mail attachments. In August 2004, the Information Technology Services Division completed installation of the new servers (primary and back-up) at ESCAP, and since then ESCAP has been loading its documents onto ODS directly. At present, the ESCAP staff is undergoing ODS training.
+16.	The Economic Commission for Latin America and the Caribbean (ECLAC) started loading documents onto ODS in January 2003 following ECLAC staff ODS training. As part of its digitization project, the ECLAC Library generates PDF files for documents not issued electronically, in accordance with the editorial policy of the Commission regarding its official languages. The Library is loading onto the system ECLAC documents published from 1989 onward.
+17.	As part of ODS implementation, the Economic and Social Commission for Western Asia (ESCWA) began in October 1999 indexing and scanning its documents in Arabic and English for the period from 1974 onward for loading onto the system. It is expected that the scanning and indexing project will be completed by the end of 2004, and that from then on current documents of the Commission will be loaded on a regular basis. It is also expected that the Conference Services Section of ESCWA will soon be able to provide electronic copies of documents to eliminate time spent scanning them. Measures for searching the text of documents without rescanning are being considered. An ODS link will be established on the ESCWA web page, as well as in the ESCWA Library catalogue, to provide to Internet users access to ESCWA documents.
+
+
+	V.	Future considerations
+
+
+18.	In summary, only the United Nations Offices at Geneva and Vienna and ESCWA loaded documents onto ODS in 2002, while no documents were loaded onto the system at other main duty stations. Since June 2004 all offices away from Headquarters have been loading their documents, including ECA on a pilot basis and ESCAP through the Dag Hammarskjöld Library. This reflects the progress made in implementing ODS over the past two years.
+19.	In the fourth quarter of 2004, the Information Technology Services Division will ship a new, more powerful and reliable document loading server to every office away from Headquarters to replace the current server. This should facilitate document loading and improve the quality and the reliability of the loading process at offices away from Headquarters. 
+20.	Documents prepared by text processing units at Headquarters are sent to ODS for archiving and are simultaneously sent electronically to the Publishing Section of the Department for General Assembly and Conference Management for printing and distribution. In that context, the Department for General Assembly and Conference Management has begun to move towards “printing on demand” by printing the PDF versions directly from ODS. This arrangement will ensure that a printed copy mirrors the version on ODS and that future reprints will be the same. When fully implemented, printing on demand will save storage space previously used for storing large quantities of stock copies. This arrangement will also permit dual reproduction at different duty stations, substantially improving document availability and saving both time and resources, since documents will no longer need to be shipped to other locations. 
+21.	A major concern in implementing free access to ODS is ensuring the parity of all language versions of documents posted by offices away from Headquarters. The majority of documents archived by offices away from Headquarters are available only in the working languages of the duty stations or specific intergovernmental organs. While this is consistent with the language policy of those organs, arrangements have yet to be worked out within ODS, as a global system, to clearly reflect that policy.
+22.	The Dag Hammarskjöld Library will continue to provide the indexing metadata needed for ODS document retrieval. The multilingual UNBIS Thesaurus will continue to play an important role in providing support for multilingual search capability in document subject searching. The Dag Hammarskjöld Library will continue to work on loading major pre-1993 document series onto ODS. In addition, through the work of the Steering Committee for the Modernization and Integrated Management of United Nations Libraries, the United Nations libraries at Headquarters and other main locations will continue to focus their attention on issues such as the elimination of gaps in series and languages and on quality control by fostering a dialogue among libraries, document-producing offices and the Information Technology Services Division.
+23.	Users will be able to directly access documents on ODS free of charge from the United Nations web site. The web site Documentation Centre (http://www.un.org/documents) is being upgraded to include those links.
+
+
+	VI.	Conclusions and recommendations
+
+
+24.	The Secretariat is committed to the vigorous implementation and improved functioning of ODS. Significant progress has been made in the past two years in this regard. Efforts will continue to enhance the operation. It is expected that by the end of 2004, free ODS access will be available to the general public, and all main offices will be loading documents onto the system from their premises in a production operation mode.
+25.	The General Assembly may wish to take note of the present report.
+
+	* 	The present report is being issued as scheduled to reflect the latest data available.
+[Start1]<<ODS JOB NO>>N0462466E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/59/578/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+6
+
+5
+
+United NationsA/59/578/Add.1 
+General AssemblyDistr.: General
+26 November 2004
+
+Original: English
+
+
+04-62466 (E)    061204    
+*0462466*
+

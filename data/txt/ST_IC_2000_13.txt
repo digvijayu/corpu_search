@@ -1,0 +1,40 @@
+[Start1]
+
+
+	*	Expiration date of the present information circular: 31 December 2001.
+Information circular*
+
+	To:	Members of the staff at Headquarters
+
+	From:	The Assistant Secretary-General for Central Support Services
+
+	Subject:	Windows 2000 
+
+
+1.	On 17 February 2000, a new operating system, Microsoft Windows 2000, was made commercially available. As was the case with its predecessor (Windows NT), Windows 2000 is available in workstation and server versions.
+2.	The software had been released to large organizations for testing in pre-production form. Taking advantage of this, the Information Technology Services Division has already done extensive research and testing of Windows 2000 in both of its versions. A plan to migrate all local area network (LAN) servers from the Banyan Vines network operating system to Windows 2000 (server) is currently being developed, and its implementation will begin during the second half of 2000.
+3.	Offices which are in the process of developing (or migrating) departmental software applications to Windows 2000 servers are requested to contact the Information Technology Services Division to properly register these servers in the Headquarters network and to ensure that their configuration is done according to standards. It should be noted that erroneous configuration of Windows 2000 servers could very seriously affect the performance of the entire network, leading to the temporary disconnection of large segments from the main United Nations LAN.
+4.	In regard to the workstation version of Windows 2000, the software cannot be used at present in the United Nations Headquarters network environment. Personal computers operating this software will not be capable of connecting to the Banyan Vines servers, and will therefore be unable to access key network file services. The implementation of Windows 2000 on its workstation version will be undertaken once the migration from Banyan Vines to Windows 2000 server has been completed.
+5.	To register servers or for enquiries regarding Windows 2000, please contact the LAN support unit in the Information Services Technology Division via e-mail (its address is BATST), or by phone at extension 3-5685.
+6.	Your cooperation is greatly appreciated.
+
+[Start1]<<ODS JOB NO>>N0033461E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2000/13<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+1
+
+1
+
+United NationsST/IC/2000/13 
+Secretariat
+9 March 2000
+
+
+
+00-33461 (E)    140300
+*0033461*
+

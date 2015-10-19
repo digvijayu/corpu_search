@@ -1,0 +1,55 @@
+[Start1]
+Sixtieth session
+
+
+	*	A/60/150.
+Item 51 of the provisional agenda*
+Information and communication technologies for development
+
+
+
+		Information and communication technologies for development: progress in the implementation of 
+General Assembly resolution 57/295
+
+
+		Report of the Secretary-General
+
+
+
+	Summary	The present report is submitted pursuant to General Assembly resolution 57/295, on the development of a comprehensive information and communication technologies (ICT) strategy for the United Nations system in the framework of the United Nations System Chief Executives Board for Coordination (CEB).
+	This is the third report of the Secretary-General on that resolution. Since the adoption of resolution 57/295, CEB has made significant progress in establishing the United Nations system ICT strategic framework, its elaboration into specific initiatives and projects, including a knowledge-sharing and knowledge management strategy, and initiating the preparation of business case analyses for eight priority initiatives to be implemented by the organizations of the United Nations system. This work, to which the ICT Task Force also contributed, is being guided by the ICT Network of CEB and an ICT initiative steering group. Particular attention is being given to the development of the knowledge-sharing and knowledge management strategy to help ensure the highest level of commitment, support and participation of the organizations of the United Nations system in implementing the ICT strategic framework.
+1.	Recognizing the value of information and communication technologies (ICT) to the work of the United Nations system, the General Assembly, on 20 December 2002, adopted resolution 57/295, entitled “Information and communication technologies for development” requesting the Secretary-General, as Chairman of the United Nations System Chief Executives Board for Coordination (CEB), “to develop a comprehensive information and communication technologies strategy for the United Nations system”.
+2.	Since the adoption of the resolution, the organizations of the system have made considerable progress in coordinating and collaborating on their use of ICT. This has enabled them to leverage successfully all that these strategic tools have to offer, both for facilitating the implementation of the Millennium Declaration, especially the Millennium Development Goals, and for achieving operating efficiencies within the organizations of the United Nations system. As noted in the two previous reports of the Secretary-General submitted pursuant to resolution 57/295 (A/58/568 and A/59/563), the overall policy work of the system has been guided by the High Level Committee on Management and the High Level Committee on Programmes of CEB, while the technical work has been pursued by the ICT Network — a system-wide working group of ICT managers and directors.
+3.	Under the policy guidance of the High Level Committee on Management, the ICT Network has helped create a number of important information-sharing tools. These include the United Nations system Extranet, an inter-agency websearch capability and an inventory of framework agreements for procurement. At the same time, the High Level Committee on Programmes has focused on advancing and facilitating knowledge-sharing and knowledge management among the United Nations system organizations as a priority issue.
+4.	In the first year after the adoption of the resolution, progress focused mostly on creating limited capabilities for meeting the information-sharing needs of the system, including ways that such sharing could result in efficiencies in the ICT operations of the organizations of the system. While these activities resulted in important new capabilities for the system, it became clear that for further strategic progress, greater direction was required from the senior managers.
+5.	Progress in the following year significantly addressed this need through the creation of the United Nations system ICT strategic framework by the ICT Network, which was endorsed and adopted by the High Level Committee on Management, the High Level Committee on Programmes and CEB. The strategic framework presented a charter for maximizing the value of investments in ICT through a systemic approach to the management of technological and organizational change. Underpinning the charter, the strategic framework presented 15 initiatives, grouped into five categories: ICT in development, ICT governance, information security, working together and sustaining the initiative.
+6.	The development of the ICT strategic framework benefited from the contribution of the ICT Task Force. The latter worked on appropriate and effective modalities for engaging the experience of the private sector and facilitated multi-stakeholder dialogue in order to help mobilize the most advanced technological solutions and management practices to improve the creation and management of knowledge in the United Nations system.
+7.	Since the last report to the General Assembly, the ICT Network, under the guidance of CEB and its High Level Committees, has proceeded to implement these initiatives, as well as an evaluation of the estimated costs and expected benefits of initiatives in each category. Recognizing that the system could not realistically pursue all 15 initiatives simultaneously, the network of ICT managers and directors established a methodology to prioritize the initiatives using a combination of factors, including estimated costs of implementation, likely benefits and the relative value of each initiative to each organization of the United Nations system. The outcome of this process indicated that 8 of the original 15 merited immediate attention: ICT services sourcing strategy; ICT development network; common applications solutions; knowledge-sharing; enterprise resource planning systems; ICT governance and best practices; business case development and costing; and ICT training. For each of the initiatives, a detailed business case is being developed to quantify the actual costs and benefits each would provide.
+8.	The challenge of any ICT initiative is to ensure that it does not operate in a business vacuum, and therefore all such initiatives, whether they are to satisfy the needs of a single organization or span the entire system, must be driven by a clear business need. To ensure this business-oriented direction for each of the business cases, the ICT Network proposed the creation of an ICT initiative steering group. This small guidance body, with members drawn from the High Level Committee on Management, the High Level Committee on Programmes and the ICT Network, will advise the ICT Network on directions that priority initiatives can take and direct the efforts of any ad hoc working groups developing the business cases for the priority areas. The concept of the steering group was endorsed by the High Level Committee on Management.
+9.	As the work proceeds on implementing the ICT strategic framework, a number of issues have emerged to guide its progress. These issues, or themes, came into sharper focus during the ICT Network meeting in the spring of 2004, which concentrated on the steps necessary to achieve the strategy: addressing high-value initiatives; gaining commitment from agencies; identifying an implementer of the selected initiatives; obtaining sponsorship and establishing governance; and planning implementation details. It is worth noting that the second of these steps, gaining commitment from agencies throughout the system, is of particular relevance in the area of promoting ICT synergies, since it involves ensuring that the initiatives satisfy the specific needs of each organization.
+10.	The concept of ensuring that ICT investment aligns with business needs has been the focus of the further development of the ICT strategic framework. Through consultations with a number of external specialists, a consistent theme has emerged on the importance of support from senior United Nations system management for the business changes necessary to realize any long-term potential savings from additional ICT investment. In order to achieve any dramatic synergies of ICT investment across the system, it might be necessary to modify and align certain business practices across the system. Making any kind of business process change is always difficult, and requires leadership and commitment at the highest organizational levels.
+11.	While work proceeds in many areas of the strategic framework, of particular note is the progress in the critical area of knowledge-sharing and knowledge management. The need to enhance the capability of the system to manage its intellectual resources has been noted many times, most recently in the report of CEB entitled “One United Nations — catalyst for progress and change”. While efforts are being made in many locations throughout the system, they remain uncoordinated and, in many cases, have limited support. To address this, the ICT Network, under the direction of the High Level Committee on Programmes, has begun work on creating a system-wide knowledge-sharing and knowledge management strategy, intended to link together and guide individual efforts in this critical area.
+12.	At the global level, the World Summit on the Information Society, under the auspices of the International Telecommunication Union, has been addressing these issues. The first phase of the World Summit (Geneva 2003) adopted a Declaration of Principles and a Plan of Action, which recognized the vital importance of ICT and the need for the organizations of the United Nations system to make the fullest use of these powerful tools in achieving their mandates. The second phase of the World Summit, scheduled for 16 to 18 December 2005 in Tunis, will follow up on the outcome of the first phase, and in particular focus on issues of governance and financing mechanisms for ICT, for which the Secretary-General has been requested to provide input. Developments in the World Summit process are being followed by CEB and the High Level Committee on Programmes.
+13.	Moving the United Nations system ICT strategic framework forward remains a key objective of all United Nations organizations. Their particular focus is on meeting the knowledge exchange potential, with an emphasis on using ICT to achieve the Millennium Development Goals, and fully supporting the outcome of the World Summit on the Information Society.
+
+[Start1]<<ODS JOB NO>>N0547825E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/60/323<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+4
+
+3
+
+United NationsA/60/323 
+General AssemblyDistr.: General
+1 September 2005
+
+Original: English
+
+
+05-47825 (E)    220905
+*0547825*
+

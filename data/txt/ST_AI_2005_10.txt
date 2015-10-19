@@ -1,0 +1,131 @@
+[Start1]
+		Administrative instruction
+
+
+		Information and communication technology initiatives
+
+
+	The Under-Secretary-General for Management, to ensure the coherent and coordinated global management of information and communication technology (ICT) initiatives across departments and duty stations, promulgates the following:
+
+		Section 1
+Definitions
+
+	The following definitions shall apply for the purposes of the present instruction:
+	(a)	ICT resource: any tangible or intangible asset capable of generating, transmitting, receiving, processing or representing data in electronic form, where the asset is owned, licensed, operated, managed or made available by, or otherwise used by, the United Nations;1
+	(b)	ICT initiative: any project or activity, irrespective of its source(s) of funding or its cost, that will result in a new or modified ICT resource;
+	(c)	ICT Board: the board for which the terms of reference are set forth in Secretary-General’s bulletin ST/SGB/2003/17 on the Information and Communication Technology Board;
+	(d)	ICT committee: a committee formed by a department or office away from Headquarters for which the terms of reference are set forth in section 4.4 of bulletin ST/SGB/2003/17;
+	(e)	Project Review Committee: the committee for which the terms of reference are set forth in section 5 of bulletin ST/SGB/2003/17;
+	(f)	ICT standard: a standard for a product, technology, process or procedure related to ICT resources and decided upon by the ICT Board pursuant to section 2 of bulletin ST/SGB/2003/17;
+	(g)	High-level business case: a document supporting an ICT initiative that conforms to and is consistently prepared in accordance with the relevant ICT standards;
+	(h)	Responsible official: the staff member responsible for implementing an ICT initiative and for monitoring the realization of benefits; 
+	(i)	E-Assets: the ICT inventory system of ICT resources which, as directed by the present instruction, is updated by the responsible officials and others under the direction of their local ICT committees and which shall be consulted by the responsible officials, local ICT committees, and the Project Review Committee, in accordance with the relevant ICT standards;
+	(j)	Business context documentation: a set of documents that describes the automated and manual systems by which an organizational unit operates, prepared and maintained in accordance with relevant ICT standards. 
+
+		Section 2
+Preparation of the high-level business case by the responsible official
+
+2.1	The high-level business case supporting an ICT initiative shall be prepared prior to its commencement by the responsible official in accordance with relevant ICT standards and under guidance provided as needed by his or her ICT committee. 
+2.2	The responsible official shall note and justify in the high-level business case any divergence of the ICT initiative from the applicable ICT standards.
+2.3	When preparing the high-level business case, the responsible official shall consult e-Assets to check for duplication.
+2.4	Information about the ICT initiative from the high-level business case being prepared shall be entered into e-Assets.
+2.5	Each high-level business case shall document the reasonable options available for proceeding with the ICT initiative and shall include justification for preferring the selected option.
+
+		Section 3
+Information and communication technology committees
+
+3.1	Each ICT committee shall establish guidelines for the responsible officials, dealing with, at a minimum:
+	(a)	Completing the high-level business case;
+	(b)	Avoidance of duplication;
+	(c)	Timely updating of e-Assets;
+	(d)	Compliance with relevant ICT standards; 
+	(e)	Review by the ICT committee and/or the Project Review Committee prior to commencement.
+3.2	ICT committees shall bear the primary responsibility for the substantive review of the high-level business cases for ICT initiatives, ensuring that each initiative is substantively aligned with departmental or office goals and objectives and with the achievement of an approved programme of work.
+3.3	ICT committees shall establish and maintain current business context documentation in accordance with the relevant ICT standards.
+3.4	ICT committees shall ensure that updated information about ICT initiatives is promptly entered into e-Assets as it becomes available.
+3.5	The Department of Management shall provide coordination services for the high-level business cases of ICT initiatives that are within the scopes of multiple ICT committees, drawing support as needed and as agreed in each case from the departments and offices involved.
+
+		Section 4
+Review by information and communication technology committees
+
+4.1	ICT committees shall submit to the Project Review Committee for review a completed and endorsed high-level business case for an ICT initiative under the following criteria:
+	(a)	ICT initiatives estimated to cost more than $200,000 in combined monetary and staff resources over a four-year period shall be reviewed by the Project Review Committee unless exempted under section 4.2;
+	(b)	ICT initiatives that include procurement of goods or services subject to review by the Headquarters Committee on Contracts, or by a similar committee at an office away from Headquarters, shall be reviewed by the Project Review Committee (unless exempted under section 4.2) prior to review by such a committee;
+	(c)	ICT initiatives that contain any elements not in compliance with an ICT standard or that, in the judgement of the relevant ICT committee chairperson or the chairperson of the Project Review Committee, based upon review of newly entered initiatives in e-Assets, may not be in compliance with the mandate or goals of the ICT Board, including, but not limited to, the goals of maximizing standardization and avoiding duplication, shall be reviewed by the Project Review Committee.
+4.2	The following ICT initiatives are exempted from review by the Project Review Committee:
+	(a)	ICT initiatives that are specifically addressed and allowed by ICT standards and that conform to the guidance therein;
+	(b)	Temporary ICT initiatives, regardless of cost, that are expected to be in operation for less than six months; however, any such ICT initiative, which has a revised expectation of being in operation for six months or longer, and otherwise qualifies for review, shall immediately be submitted for review by the Project Review Committee.
+
+		Section 5
+Review by the Project Review Committee
+
+5.1	The Project Review Committee shall only accept high-level business cases for review that have been endorsed by ICT committees.
+5.2	The Project Review Committee shall ensure that: 
+	(i)	Each high-level business case before it is complete and consistent; 
+	(ii)	ICT standards have been applied uniformly to each high-level business case; and
+	(iii)	Checks for duplication have been completed for each high-level business case.
+5.3	In respect of each high-level business case before it, the Project Review Committee shall take and record one of the following actions:
+	(a)	Recommend approval to the chairperson of the ICT Board;
+	(b)	Recommend disapproval to the chairperson of the ICT Board;
+	(c)	Defer the submission for reconsideration at a subsequent Project Review Committee meeting pending clarifications from the endorsing ICT committee;
+	(d)	Return the submission to the endorsing ICT committee for amendment and possible resubmission.
+5.4	The Project Review Committee secretariat shall expeditiously notify the relevant ICT committees and the responsible officials of any actions taken by the Project Review Committee and/or the ICT Board.
+5.5	The Project Review Committee and its secretariat shall take action within the following time frames on the submissions of high-level business cases for ICT initiatives: 
+	(a)	Submissions shall be reviewed for completeness and acknowledged by the Project Review Committee secretariat within five working days of initial receipt;
+	(b)	Incomplete submissions shall be returned within five working days to the endorsing ICT committee for completion and resubmission; 
+	(c)	Complete submissions shall be distributed immediately to the members and alternate members of the Project Review Committee and shall be considered by the Committee within 10 working days of initial receipt.
+5.6	The PRC shall meet as often as necessary to accomplish its work.
+5.7	At the discretion of the Project Review Committee, ICT committees shall be afforded reasonable opportunities to participate in Project Review Committee meetings.
+
+		Section 6
+Programme budgets and information and communication technology initiatives
+
+	Departments and offices shall submit approved high-level business cases for ICT initiatives in support of the relevant portions of their proposed budget requests.
+
+		Section 7
+Procurement for information and communication technology initiatives
+
+	Departments and offices shall include references to approved high-level business cases for ICT initiatives when requesting the procurement of goods or services related to such initiatives.
+
+		Section 8
+Final provisions
+
+	The present instruction shall enter into force on 15 August 2005.
+
+
+(Signed) Christopher B. Burnham
+Under-Secretary-General for Management
+
+
+	1 	For further information, see section I and related commentary in Secretary-General’s bulletin ST/SGB/2004/15, entitled “Use of information and communication technology resources and data”.
+[Start1]<<ODS JOB NO>>N0545657E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/AI/2005/10<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+4
+
+5
+
+United NationsST/AI/2005/10 
+Secretariat
+8 August 2005
+
+
+
+
+05-45657 (E)    150805   
+*0545657*
+
+4
+

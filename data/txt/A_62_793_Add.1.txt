@@ -1,0 +1,343 @@
+[Start1]
+Sixty-second session
+Agenda items 128 and 140
+
+Programme budget for the biennium 2008-2009
+
+Administrative and budgetary aspects of the financing 
+of the United Nations peacekeeping operations
+
+
+
+		Investing in information and communications technology: information and communications technology strategy for the United Nations Secretariat
+
+
+		Report of the Secretary-General
+
+
+		Addendum
+
+
+
+	Summary	Further to the report of the Secretary-General on information and communications technology (ICT) strategy for the United Nations Secretariat (A/62/793 and Corr.1), the present addendum provides additional information on the proposed ICT organizational structure and the reallocation of existing resources to establish the Office of Information and Communications Technology.
+
+
+Contents
+PageI. 	Information and communications technology organizational structure	3Office of Information and Communications Technology	3II. 	Programmatic implications	8III. 	Financial implications/resources reallocation	8IV. 	Action to be taken by the General Assembly	17	AnnexOffice of Information and Communications Technology posts reallocation	18
+
+
+	I.	Information and communications technology organizational structure
+
+
+1.	As stated in the report of the Secretary-General on information and communications technology (ICT) strategy for the United Nations Secretariat (A/62/793 and Corr.1), the proposed ICT organizational structure (ibid., figure 3) is made up of five core components: (a) management oversight committees; (b) advisory bodies; (c) the Chief Information Technology Officer; (d) the Office of Information and Communications Technology; and (e) other ICT units. Updated and additional information on the Office of Information and Communications Technology is provided below.
+
+
+		Office of Information and Communications Technology
+
+
+2.	The Office of Information and Communications Technology is an independent organizational unit that reports directly to the Executive Office of the Secretary-General, but is not an office within the Executive Office. This arrangement provides the necessary authority and visibility needed for the Chief Information Technology Officer to carry out a Secretariat-wide mandate and to effectively address the current state of fragmentation among ICT programmes and services.
+3.	A conceptual model of the Office of Information and Communications Technology is provided in figure 4 of A/62/793/Corr.1 and illustrates the broad functions associated with the Office. After extensive consultation with senior ICT management teams, the conceptual model has been translated into the organizational structure of the Office depicted in figure I of the present document.
+
+		Establishing the Office of Information and Communications Technology
+
+4.	The proposed Office of Information and Communications Technology is established through the integration of existing resources from the Information Technology Services Division of the Department of Management and the Information and Communications Technology Division of the Department of Field Support (see A/62/793 and Corr.1, para. 68). The integration is based on a budget- and staff-neutral approach through redeployment of appropriate existing resources within the approved staff posts and budgets (see sect. III for a detailed breakdown of budget and staff numbers).
+5.	The Chief Information Technology Officer has worked closely with the Under-Secretaries-General of the Department of Management and the Department of Field Support to determine the specific modalities of the integration. The key responsibilities of the Information Technology Services Division of the Department of Management, which is proposed to be moved in its entirety to the Office of Information and Communications Technology, are: implementation of ICT policies and standards, provision of overall computing, telecommunications, office automation, software and hardware support and infrastructure support for conference rooms at Headquarters. The Division also provides infrastructure support for enterprise-wide applications such as the Integrated Management Information System, talent management, electronic mail and the Official Document System (ODS).
+6.	With respect to the Information and Communications Technology Division of the Department of Field Support, particular attention has been placed on ensuring that the Department can continue to provide effective support for field missions. The resulting agreement provides the Department with the clear authority to command its operational activities related to mission support, while the Office of Information and Communications Technology retains the authority to direct strategic ICT support for the field. With that approach, the Department will benefit from the support of a strong, centralized Office of Information and Communications Technology that focuses on strategic, long-term improvements in field operations, while leveraging a growing global infrastructure, new application systems and industry best practices. The Office will also be able to provide the Department with significant improvements in knowledge management, resource management and infrastructure operations, as well as cost-effective ICT services, for peace operations.
+7.	As such, only those ICT activities of the Department of Field Support considered strategic will be incorporated into the Office of Information and Communications Technology. Those activities include:
+	(a)	ICT technology architecture and standards-setting efforts;
+	(b)	Planning and implementation of major infrastructure improvements for the field;
+	(c)	Development, implementation and support of Organization-wide and major shared applications, such as Galaxy, talent management, fuel management, ration management, geographic information systems, security-related systems, decision support systems, and so forth;
+	(d)	Centralized information technology project management support activities;
+	(e)	Coordination of disaster recovery and business continuity planning for the field;
+	(f)	Review of ICT budget requirements against ICT strategy and priorities prior to their submission to the Controller;
+	(g)	Strategic oversight of the United Nations Logistics Base/Site B (proposed) facilities in those functions related to ICT, including review and approval of strategic directions, technical architecture and design, and infrastructure improvements;
+	(h)	Performance assessments of ICT Section Chiefs and above reporting to the Department of Field Support and inputs to performance appraisals;
+	(i)	Review and approval of appointments and promotions of Section Chiefs and above at Headquarters and the United Nations Logistics Base. 
+8.	The Department of Field Support retains all operational activities associated with logistics and field mission support in addition to management of operations within the United Nations Logistics Base/Site B (proposed) facilities. Operational activities include: 
+	(a)	Providing day-to-day operational support to all peacekeeping and political missions;
+	(b)	Providing emergency and crisis support to all peacekeeping and political missions;
+	(c)	Coordinating with the Logistics Support Division of the Department of Field Support on all aspects of mission planning, deployment and liquidation;
+	(d)	Managing the inventory and deployment of strategic deployment stocks;
+	(e)	Providing technical assistance in planning a field mission’s communications network;
+	(f)	Providing specialized communications engineering services for the field missions, such as electronic counter-measures;
+	(g)	Providing support to public information needs in field missions, such as broadcasting, and coordination with the Department of Public Information;
+	(h)	Developing and maintaining non-corporate, field mission-specific ICT applications.
+
+		Structure of the Office of Information and Communications Technology
+
+9.	The Office of Information and Communications Technology is headed by a small Office of the Chief Information Technology Officer and supported by two distinct types of organizational units: staff-functions and line-functions. The Strategic Management Service contains all staff-function units, which plan and coordinate activities that affect all ICT units in the Secretariat. Line-function units, which perform developmental and operational ICT activities, are contained within the Application Management Division and the Infrastructure Management Service. The main functions and responsibilities of these units are set forth below.
+
+		Strategic Management Service
+
+10.	The Strategic Management Service is established to plan and coordinate a number of essential ICT activities that affect all ICT units in the Secretariat. Six functional areas compose the work of the Strategic Management Service: (a) Strategy and Performance; (b) Security and Audit; (c) Project Management Office; (d) Architecture and Standards; (e) Finance and Administration; and (f) Client Services. Details on the functional areas are as follows:
+	(a) 	The Strategy and Performance function develops the ICT strategy and measures its progress on an ongoing basis. The unit serves as the formal organizational link between the Office of Information and Communications Technology and its stakeholders with respect to strategic alignment, measurement of the quality of service, and monitoring compliance of Secretariat-wide policies and procedures. In addition, this unit works closely with other organizations to harmonize and deploy common ICT solutions within the United Nations system. This unit also measures and evaluates the performance of ICT units against established goals, objectives, plans, and budgetary targets;
+	(b) 	The Security and Audit function develops and maintains the information security policy of the Secretariat and monitors compliance across organizational units. This function also manages ICT risk assessment and mitigation activities, together with response and compliance with audit recommendations;
+	(c) 	The Project Management Office provides consulting and project management services related to ICT, including portfolio management, process reengineering, support for project management methodology, business case development, and project reviews. All new major ICT projects, regardless of their source of funding, are subject to review by the Project Management Office to ensure alignment with the ICT strategy and programmes;
+	(d) 	The Architecture and Standards function coordinates Secretariat-wide technology planning and deployment activities, and is responsible for developing and maintaining overall ICT architecture, goals, principles and standards. The function also assumes responsibility for the planning and coordination of ICT disaster recovery and business continuity activities as well as technology research and development;
+	(e) 	The Finance and Administration function plans and coordinates the overall ICT budget formulation and monitoring, including the development of a budget and financial management framework and expenditure monitoring. This function also coordinates various ICT procurement, contract and asset management activities aimed to achieve greater efficiencies in resource utilization. In addition, this function, in collaboration with the Office of Human Resources Management, develops and implements career development and training programmes for ICT personnel;
+	(f) 	The Client Service function is established to understand organizational needs and priorities and support the provision of effective ICT solutions for the user community. The Client Service unit provides an interface with New York Headquarters departments and offices, offices away from headquarters, regional commissions and tribunals.
+
+		Infrastructure Management Service
+
+11.	The Infrastructure Management Service supports all ICT systems and services and provides the technological foundation for the global ICT environment. This Service develops Secretariat-wide infrastructure architecture and also operates the centralized service desks. It is also responsible for central data centres that house Secretariat-wide data as well as a range of hardware- and software-related services. 
+
+		Application Management Division
+
+12.	The Application Management Division is responsible for the planning, deployment and support of corporate applications. This includes all Secretariat-wide and major shared applications. The Division is comprised of three primary services: (a) Knowledge Management Service; (b) Resource Management Service; and (c) Field Application Section. Details on the primary services are as follows:
+	(a)	The Knowledge Management Service oversees efforts to capture and share the Organization’s information assets. Through the development and management of tools such as web-based services, collaborative environments, geographic information systems and document repositories, the Service enhances the Organization’s ability to gather, store, share and disseminate information. The Service is also responsible for improving information management policies, processes, and standards as well as search, archives and all electronic repositories;
+	(b)	The Resource Management Service works closely with departments across the Organization to develop ICT systems and tools to improve institutional work processes for the effective management of financial, human and other resources;
+	(c)	The Field Application Section provides application planning, development and support services to the field. This Section will consolidate application needs in the field and develop and leverage common solutions that can be broadly implemented to meet the needs of the field. 
+
+Figure I
+Structure of the Office of Information and Communications Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+	II.	Programmatic implications
+
+
+13.	The Information Technology Services Division of the Office of Central Support Services is responsible for information and communications technology services under subprogramme 4, Support services, of programme 24, Management and support services, of the biennial programme plan for 2008-2009. The objectives, expected accomplishments, indicators of achievement, performance measures, and outputs relating to the Information Technology Services Division of the Office of Central Support Services are contained in the programme budget for the biennium 2008-2009 (A/62/6 (Sect. 28D)). As the Division as a whole, together with its programme of work and related resources, would be consolidated under the Office of Information and Communications Technology, there are no changes to the programme aspects of the programme budget for the biennium 2008-2009. In order to clearly segregate the functions and resources from other parts of the Secretariat, however, it is proposed that the Office of Information and Communications Technology be treated as a separate section of the budget under part VIII, Common support services, of the programme budget for 2008-2009.
+
+
+	III.	Financial implications/resources reallocation
+
+
+	A.	Regular budget
+
+
+14.	Consistent with the proposals outlined in the report of the Secretary-General (A/62/793 and Corr.1), and the functional and organizational structure set out in paragraphs 1-12 above, effective 1 January 2009, all the regular budget posts and financial resources appropriated for 2009 for the Information Technology Services Division, all extrabudgetary resources under that Division, and a part of the resources approved for the Information and Communications Technology Division of the Department of Field Support under the peacekeeping support account, would be redeployed and consolidated under the Office of Information and Communications Technology. Similarly, the post of the Chief Information Technology Officer, would be redeployed and consolidated under the Office of Information and Communications Technology. 
+15.	By its resolution 62/237, the General Assembly appropriated an amount of $236,300,100, including 456 posts for section 28D, Office of Central Support Services, of the programme budget for the biennium 2008-2009. Of that appropriation, an amount of $70,449,900, including 135 posts, relates to the Information Technology Services Division. Of that amount, approximately $35,395,800 (at current rates) represents the provisions for the second year of the biennium 2008-2009.
+16.	The redeployment and consolidation of information technology services and the related resources affect three budget sections, involving (i) outward redeployments of $271,800 from section 1, Overall policymaking, direction and coordination and $35,395,800 from section 28D, Office of Central Support Services, and (ii) inward redeployment of $35,667,600 to the proposed new section 36, Office of Information and Communications Technology, with consequent net zero effect in the level of resources appropriated for the biennium 2008-2009. The transfer of resources between budget sections and the distribution of such resources among various organizational units of the Office of Information and Communications Technology are explained in the following tables and paragraphs.
+
+		Table 1
+Summary by section: resources requirements for the biennium 2008-2009
+
+
+Resources (in thousands of United States dollars)SectionInitial appropriation 2008-2009ChangePercentage changeRevised 2008-2009 estimatePost change   1.	Overall policymaking, direction and coordination89 215.8(271.8)(0.3)88 944.0(1)28D.	Office of Central Support Services236 300.1(35 395.8)(15.0)200 904.3(135)36.	Common Information and Communication Technology Services—35 667.6—35 667.6136	Total325 515.9——325 515.9—
+
+
+		Table 2
+Summary by object of expenditure: resources requirements for the 
+biennium 2008-2009
+
+
+Resources (thousands of United States dollars)Object of expenditureInitial appropriation 
+2008-2009ChangeRevised 2008-2009 estimatePosts209 231.1 —209 231.1Other staff costs22 268.8 —22 268.8Non-staff compensation2 196.0 —2 196.0Consultants and experts1 004.4 —1 004.4Travel of representatives8 678.7 —8 678.7Travel of staff7 429.0 —7 429.0Contractual services30 947.7 —30 947.7General operating expenses118 615.9 —118 615.9Hospitality530.8 —530.8Supplies and materials5 879.0 —5 879.0Furniture and equipment8 649.2 —8 649.2Grants and contributions11 498.0 —11 498.0	Total426 928.6 —426 928.6
+
+
+		Section 1
+Overall policymaking, direction and coordination
+
+
+		Table 3
+Requirements by section and object of expenditure: resources requirements for the biennium 2008-2009
+
+
+Resources (thousands of United States dollars)Object of expenditureInitial appropriation 
+2008-2009ChangeRevised 2008-2009 
+estimatePosts47 708.6(271.8)47 436.8Other staff costs5 749.8—5 749.8Non-staff compensation2 196.0—2 196.0Consultants and experts706.1—706.1Travel of representatives8 678.7—8 678.7Travel of staff3 277.7—3 277.7Contractual services6 761.7—6 761.7General operating expenses1 526.7—1 526.7Hospitality493.7—493.7Supplies and materials199.0—199.0Furniture and equipment419.8—419.8Grants and contributions11 498.0—11 498.0	Total89 215.8(271.8)88 944.0
+
+17.	The change in resource requirements indicated in the table above reflects the proposed redeployment of the post of the Chief Information Technology Officer from section 1, Overall policymaking, direction and coordination, to the proposed new section 36, Office of Information and Communications Technology. 
+
+
+
+		Section 28D
+Office of Central Support Services
+
+
+		Table 4
+Requirements by section and object of expenditure: resources requirements for the biennium 2008-2009
+
+
+ Resources (thousands of United States dollars)Object of expenditureInitial appropriation 
+2008-2009ChangeRevised 2008-2009 estimatePosts89 207.4(16 612.3)72 595.1Other staff costs3 497.0(889.9)2 607.1Consultants and experts298.3—298.3Travel of staff683.7(285.4)398.3Contractual services24 087.3(6 453.7)17 633.6General operating expenses110 377.1(10 057.6)100 319.5Hospitality10.1—10.1Supplies and materials3 228.9(98.0)3 130.9Furniture and equipment4 910.3(998.9)3 911.4Grants and contributions———	Total236 300.1(35 395.8)200 904.3
+
+18.	The change in resource requirements indicated in the table above reflects the proposed outward redeployment of all 135 posts as well as non-post resources approved for the Information Technology Services Division for 2009 under section 28D, Office of Central Support Services, to the proposed new section 36, Office of Information and Communications Technology.
+
+
+
+		Section 36
+Office of Information and Communications Technology 
+
+
+		Table 5
+Requirements by section and object of expenditure: resources requirements for the biennium 2008-2009
+
+ Resources (thousands of United States dollars)Object of expenditureInitial appropriation 
+2008-2009ChangeRevised 2008-2009 
+estimatePosts—16 884.116 884.1Other staff costs—889.9889.9Travel of staff—285.4285.4Contractual services—6 453.76 453.7General operating expenses—10 057.610 057.6Supplies and materials—98.098.0Furniture and equipment—998.9998.9	Total—35 667.635 667.6
+
+19.	The change in resource requirements indicated in the table above reflects the inward redeployment of the post of the Chief Information Technology Officer (Assistant Secretary-General) from section 1, 135 posts (1 D-2, 4 D-1, 13 P-5, 21 P4, 30 P-3, 7 P-2, 11 General Service (Principal level), 47 General Service (Other level) and 1 Trade and craft) and non-post resources appropriated for 2009 under the Information Technology Services Division from section 28D, Office of Central Support Services, to the proposed new section 36, Office of Information and Communications Technology.
+20.	In line with the functional and organizational structure of the Office of Information and Communications Technology, the posts redeployed from other parts of the Secretariat to the Office would be distributed as follows:
+
+
+		Table 6
+Post distribution
+
+
+Regular budgetOrganizational unitsASGD-2D-1P-5P-4P-3P-2/1Sub-totalGS/
+PLGS/
+OLTCSub-totalTotalOffice of the Chief Information Technology Officer1122—24Strategic Management Service——1435—1317—821Infrastructure Management Service——1391412873013866Office of the Director, Application Management Division—1—————1—1—12Resource Management Service——135852225—729Knowledge Management Service——124311112—314	Subtotal1141321307771147159136Peacekeeping support accountStrategic Management Service——————11————1Infrastructure Management Service————————1——11Field Application Section———134210—1—111	Subtotal———13431111—213Other extrabudgetary resourcesaInfrastructure Management Service————2——229—1113	Total11414263410901457172162
+	a	Comprises 12 posts (1 P-4, 2 General Service (Principal level), and 9 General Service (Other level) financed from the telecommunications support account; and 1 post (P-4) financed from reimbursement for support to extrabudgetary administrative structures.
+
+
+		Office of the Chief Information Technology Officer
+
+21.	The Assistant Secretary-General, Chief Information Technology Officer, is responsible for all the activities of the Office of Information Communications Technology, and supervises three organizational entities, namely, the Strategic Management Service, the Enterprise Applications Management Division, and the Infrastructure Management Service. The Chief Information Technology Officer will be assisted by a complement of three staff (1 P-5 and 2 GS (Other level)), to be redeployed from the Information Technology Services Division.
+
+		Strategic Management Service
+
+22.	The Strategic Management Service is responsible for coordinating activities that affect all ICT units in the Secretariat; measuring progress on an ongoing basis to ensure strategic alignment, information technology resource and quality controls, and compliance of Secretariat-wide policies; as well as providing ICT-related business consulting and project management services, including portfolio management, process re-engineering, support for project methodologies, business case development and project reviews.
+23.	The Service will comprise a total of 21 regular budget posts (1 D-1, 4 P-5, 3 P4, 5 P-3, 1 General Service (Principal level) and 7 General Service (Other level)), to be redeployed from various offices under the Information Technology Services Division, mostly from the Operations Service. 
+
+		Infrastructure Management Service
+
+24.	The Infrastructure Management Service will support all ICT systems and services, and maintains the information technology infrastructure at Headquarters and the global communications network assuring continuing communication and information exchange among the Secretariat offices. This Service will also be responsible for the hosting of all enterprise-wide software applications, including ODS, the Integrated Management Information System, e-mail, Internet, Intranet, Extranet, the security systems projects, including Access Control, Closed Circuits and Intrusion Detection Systems, in compliance with operating security standards; providing expert advice on Security Systems Integration, and plans for feasibility assessment, design, development and implementation; ensuring the maintenance and management of ongoing technological changes of the information technology components on which the security systems of United Nations premises heavily rely; as well as providing strategic advice on security issues related to information technology for the Organization as a whole.
+25.	The Service will comprise a total of 66 posts (1 D-1, 3 P-5, 9 P-4, 14 P-3, 1 P2, 7 General Service (Principal level), 30 General Service (Other level) and 1 Trade and crafts level post) to be redeployed from various offices under the Information Technology Services Division, mostly from the Operations Service.
+
+		Application Management Division
+
+26.	The Application Management Division is responsible for the planning, deployment and support of corporate applications, including all Secretariat-wide and major shared applications, and will comprise: (a) the Office of the Director; (b) the Knowledge Management Service; (c) the Resource Management Service; and (d) the Field Application Section. 
+
+		Office of the Director 
+
+27.	The Office of the Director of the Application Management Division will comprise 2 posts (1 D-2 and 1 General Service (Other level)), to be redeployed from the Information Technology Services Division. 
+		Knowledge Management Service
+
+28.	The Knowledge Management Service will be responsible for overseeing efforts to capture and share the Organization’s information assets through the development and management of web-based tools and services, collaborative environments and document repositories, and enhancing the Organization’s ability to gather, store, share and disseminate information.
+29.	The Service will comprise a total of 14 posts (1 D-1, 2 P-5, 4 P-4, 3 P-3, 1 P-2, 1 General Service (Principal level) and 2 General Service (Other level)) to be redeployed from various offices under the Information Technology Services Division, mostly from the Operations Service and the Integrated Management Information System. 
+
+		Resource Management Service
+
+30.	The Resource Management Service will work closely with departments across the Organization to develop systems and tools to improve institutional work processes for the effective management of financial, human and other resources.
+31.	The Service will comprise 29 posts (1 D-1, 3 P-5, 5 P-4, 8 P-3, 5 P-2, 2 General Service (Principal level) and 5 General Service (Other level)) to be redeployed from various offices under the Information Technology Services Division, mostly from the Integrated Management Information System.
+
+		Field Application Section
+
+32.	The Field Application Section will be responsible for providing application planning, development and support services to the field, and will consolidate application needs in the field, develop and leverage common solutions that can be broadly implemented to meet the needs of the field.
+33.	In order to carry out these functions effectively and efficiently, a total of 11 posts (1 P-5, 3 P-4, 4 P-3, 2 P-2, and 1 General Service (Other level)), funded from the peacekeeping support account will be redeployed from the Information and Communications Technology Division in the Department of Field Support.
+
+		Redeployment of non-post resources
+
+34.	As reflected in table 5 above, all non-post resources appropriated under the Information Technology Services Division for 2009 will be redeployed to the Office of Information and Communications Technology.
+
+
+	B.	Peacekeeping support account
+
+
+35.	By its resolution 62/250, a total of $25,125,100, including 44 posts was approved for the Communications and Technology Services Division of the Department of Field Support under the peacekeeping support account for the period 1 July 2008 to 30 June 2009. Of these resources, 11 posts (1 P-5, 3 P-4, 4 P-3, 2 P-2 and 1 General Service (Other level)) will be redeployed to the Office of Information and Communications Technology. In addition, 2 posts (1 P-2 and 1 General Service (Other level)) in the Information Technology Services Division funded from the peacekeeping support account will be redeployed to the Office of Information and Communications Technology.
+36.	In addition, an amount of $4,263,500 in non-post resources will be transferred to the Office of Information and Communications Technology, as detailed in the table below.
+
+		Table 7
+Information and Communications Technology Division, Department of Field Support: resources requirements for the period July 2008 to June 2009
+
+
+Resources (thousands of United States dollars)Object of expenditureInitial appropriation 2008-2009ChangeRevised 20082009 estimatePosts6 409.8(870.7)5 539.1Other staff costs283.1—283.1Non-staff compensation———Consultants and experts———Travel of representatives———Travel of staff448.0—448.0Contractual services15 563.6(4 252.5)11 311.1General operating expenses2 420.6(11.0)2 409.6Hospitality———Supplies and materials———Furniture and equipment———Grants and contributions———	Total25 125.1(5 134.2)19 990.9
+
+
+
+		Table 8
+Office of Information and Communications Technology: resources requirements for the period July 2008 to June 2009
+
+
+Resources (thousands of United States dollars)Object of expenditure Initial appropriation 2008-2009ChangeRevised 20082009 estimatePosts—870.7870.7Other staff costs———Non-staff compensation———Consultants and experts———Travel of representatives———Travel of staff———Contractual services—4 252.54 252.5General operating expenses—11.011.0Hospitality———Supplies and materials———Furniture and equipment———Grants and contributions———	Total—5 134.25 134.2
+
+	C.	Other extrabudgetary resources
+
+
+37.	A total of $10,916,400, including 13 posts funded from other extrabudgetary resources is currently administered by the Information Technology Services Division. In 2009, these resources will be redeployed to and administered by the Office of Information and Communications Technology.
+
+
+	IV.	Action to be taken by the General Assembly
+
+
+38.	The General Assembly is requested to approve the proposals contained in the present report.
+
+Annex 
+		Office of the Information and Communications Technology posts reallocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Start1]<<ODS JOB NO>>N0849422E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/62/793/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/62/793/Add.1
+
+A/62/793/Add.1
+
+08-494228
+
+908-49422
+
+United NationsA/62/793/Add.1 
+General AssemblyDistr.: General
+2 September 2008
+
+Original: English
+
+08-49422 (E)    021008    
+*0849422*
+
+
+
+
+
+
+
+
+
+A/62/793/Add.1
+
+A/62/793/Add.1
+
+08-4942218
+
+1908-49422
+

@@ -1,0 +1,47 @@
+[Start1]
+
+
+	*	Expiration date of the present information circular: 30 June 2002.
+Information circular*
+
+	To:	Members of the staff at Headquarters
+
+	From:	The Assistant Secretary-General for Central Support Services
+
+	Subject:	Termination of support for obsolete computing equipment
+
+
+1.	Starting with the biennium 1998-1999, the Information Technology Services Division (ITSD) no longer manages the replacement of office automation equipment. The Division’s responsibility is to establish standards for equipment connected to the common network infrastructure. The funds to acquire and/or replace the equipment have been assigned to individual departments, which are responsible for identifying the equipment that has to be replaced on the basis of their needs.
+2.	In addition to establishing equipment standards, ITSD provides end-user offices with technical support based on service level agreements. Given that the age and state of the equipment used on the network can have a significant impact on the overall performance of the technical infrastructure, as well as on the capability of ITSD to provide effective technical support, it is important that offices replace old equipment in a timely fashion.
+3.	Although ITSD may continue to support certain older items of equipment until the end of 2001, ITSD strongly urges all departments and offices to replace as soon as possible any computer equipment that is over three years old from the date of manufacture. Replacement will not only ensure faster and more efficient performance, but will also allow users to avail themselves of the latest software distributed through the Central Management Software.
+4.	As of 1 January 2002, ITSD will cease to provide support for computer equipment considered obsolete and incapable of operating the standard software. Obsolete computer equipment as of 1 January 2002 will include the following:
+	(a)	All computers below the level of Pentium 200 MHz;
+	(b)	All computers running Windows 95;
+	(c)	All standard computer equipment that is five years or more from date of manufacture.
+5.	In addition, as of 1 April 2002, ITSD will no longer support any desktop computers below the level of Pentium 300 MHz.
+6.	ITSD also urges all users of Macintosh computers to replace those machines with standard computers, particularly if they wish to be connected to the local area network. Although ITSD provides limited Macintosh support, on an exceptional basis, the following equipment will not be supported beyond 1 January 2002:
+	(a)	All Macintosh computers older than the Power Mac 7200;
+	(b)	All Macintosh printers older than the Apple Laserwriter.
+7.	ITSD standards are posted on the United Nations Headquarters Intranet at http://intranet/ITSD/cts/uss/pcstd.htm; they can also be accessed by following the links to Technical Support/Standards.
+8.	Questions about termination of support for computer equipment may be directed to the ITSD Help Desk by email to Lotus Notes address Help Desk ITSD.
+
+[Start1]<<ODS JOB NO>>N0167463E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2001/95<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+2
+
+1
+
+United NationsST/IC/2001/95 
+Secretariat
+3 December 2001
+
+
+
+01-67463 (E)    051201
+*0167463*
+

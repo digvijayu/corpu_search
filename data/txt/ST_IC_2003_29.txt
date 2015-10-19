@@ -1,0 +1,41 @@
+[Start1]
+
+
+	*	The present information circular will be in effect until further notice.
+Information circular*
+
+	To:	Members of the staff
+
+	From:	The Assistant Secretary-General for Central Support Services
+
+	Subject:	Performance controls of United Nations Internet services
+
+1.	The purpose of the present information circular is to inform the staff of measures to be taken to improve and maintain the performance of the Headquarters Internet sites and services, effective 1 May 2003.
+2.	The Organization may block or restrict access to any Internet resource at any time and without notice when it is deemed to be in the best interest of the Organization. Reasons include, but are not limited to, sites that consume and consequently degrade the network bandwidth and sites that pose a threat to the performance of the Internet resources. As Internet resources are essential for the delivery of mission-critical services to the Organization, such as e-mail, the World Wide Web, Extranets and Intranets, and web applications, it is imperative to immediately protect these resources from threat and risk as the need arises.
+3.	In the event that a staff member possesses an official need to have access to sites and services blocked or filtered, the staff member may request an exception. Such requests should be initiated through the Information Technology Services Division help desk.
+4.	Help desk contact details are as follows: 
+	•	Internal Notes e-mail account:			Help Desk ITSD
+	•	External Internet e-mail account:			helpdeskitsd@un.org
+	•	Phone number:						212-963-3157
+
+[Start1]<<ODS JOB NO>>N0333377E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2003/29<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+1
+
+1
+
+United NationsST/IC/2003/29 
+Secretariat
+23 April 2003
+
+
+
+
+03-33377 (E)    250403    
+*0333377*
+

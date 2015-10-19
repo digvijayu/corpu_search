@@ -1,0 +1,4868 @@
+
+ United Nations  A/66/94
+
+  
+ 
+
+General Assembly  Distr.: General 
+22 June 2011 
+ 
+Original: English 
+
+ 
+
+11-41011 (E)    030811     
+*1141011*   
+
+Sixty-sixth session 
+Item 135 of the preliminary list* 
+Proposed programme budget for the biennium 2012-2013 
+
+ 
+ 
+ 
+
+  Enterprise information and communications technology 
+initiatives for the United Nations Secretariat  
+ 
+ 
+
+  Report of the Secretary-General  
+ 
+ 
+ 
+
+ Summary 
+ The present report, prepared pursuant to General Assembly resolution 65/259, 
+provides revised proposals for the projects outlined in the report of the Secretary-
+General on the status of implementation of the information and communications 
+technology strategy for the United Nations Secretariat (A/65/491). In addition, it 
+responds to the requests made by the Assembly in paragraphs 125 and 126 of its 
+resolution 64/243 that the Secretary-General continue to implement enterprise 
+content management and customer relationship management systems in the context 
+of the proposed programme budget for the biennium 2012-2013. 
+
+ Pursuant to General Assembly resolutions 63/262, 63/269 and 64/243, the 
+present report contains information on the development of a unified information and 
+communications technology (ICT) disaster recovery plan and business continuity 
+approach, while leveraging enterprise data centres. In particular, information is 
+provided on four revised cross-cutting, Organization-wide initiatives that will 
+address critical institutional needs and improve the effective and efficient delivery of 
+the Secretariat’s ICT programmes. The four initiatives are: 
+
+ (a) Improve enterprise ICT management; 
+
+ (b) Leverage knowledge through ICT; 
+
+ (c) Enhance ICT service delivery; 
+
+ (d) Create a resilient ICT infrastructure. 
+
+ 
+ 
+
+ * A/66/50. 
+
+
+
+A/66/94  
+ 
+
+11-41011 2 
+ 
+
+ The implementation of the proposals set forth in the present report will help 
+overcome the challenges of continued fragmentation of ICT capacities and resources, 
+the high cost of operations and the difficulties in providing effective solutions to 
+enable the Organization to achieve its mission. Once the initiatives have been 
+implemented, all stakeholders in the Secretariat (ICT governance bodies, the Office 
+of Information and Communications Technology, departments, offices, regional 
+commissions, field missions and other units) will work closely to achieve the 
+intended goals. Together, these initiatives will provide the Organization with 
+overarching ICT management capabilities and an efficient and resilient infrastructure 
+that will allow the implementation of strategic programmes and improvements across 
+the Organization in areas such as knowledge management and service delivery. 
+
+ 
+ 
+ 
+ 
+
+Contents 
+ Page
+
+I. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+II. Proposals for enterprise information and communications technology initiatives . . . . . . . . . . . 5
+
+A. Improve enterprise information and communications technology management . . . . . . . . 5
+
+B. Leverage knowledge through information and communications technology . . . . . . . . . . . 20
+
+C. Enhance information and communications technology service delivery . . . . . . . . . . . . . . 32
+
+D. Create a resilient information and communications technology infrastructure . . . . . . . . . 42
+
+E. Risk management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+III. Summary of resource requirements and actions to be taken by the General Assembly . . . . . . . 53
+
+A. Summary of resource requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+B. Actions to be taken by the General Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+ Annexes 
+
+I. Mandate of the Office of Information and Communications Technology and resource levels . 57
+
+II. Proposed structure of the Office of Information and Communications Technology for the 
+biennium 2012-2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+
+III. Conditions that need to be in place for the benefits to be realized . . . . . . . . . . . . . . . . . . . . . . . 60
+
+IV. Quantitative benefits analyses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+ 
+ 
+
+
+
+ A/66/94
+ 
+
+3 11-41011 
+ 
+
+ I. Introduction  
+ 
+ 
+
+1. In its resolution 63/262, the General Assembly recognized the strategic 
+importance of information and communications technology (ICT) and endorsed the 
+overall approach relating to the ICT strategy for the Secretariat. In the same 
+resolution, the Assembly decided to establish the Office of Information and 
+Communications Technology as an independent organizational unit. The Office was 
+expected to provide strong leadership for the development and implementation of 
+Organization-wide ICT programmes that would effectively support the Secretariat’s 
+mission and its global operations. 
+
+2. The Secretary-General, in his report on the status of implementation of the ICT 
+strategy for the United Nations Secretariat (A/65/491), noted that the Secretariat had 
+made significant progress since the strategy had been endorsed (see A/62/793 and 
+Corr.1 and A/62/793/Add.1). In the same report, the Secretary-General described the 
+findings and recommendations resulting from the Organization-wide review of ICT 
+capacities, called the ICT structural review, which showed that the Secretariat’s ICT 
+environments were fragmented and non-standard, resulting in lost efficiency and 
+effectiveness. The Secretary-General proposed that four projects be undertaken to 
+address those issues.  
+
+3. In its resolution 65/259, the General Assembly endorsed the report of the 
+Advisory Committee on Administrative and Budgetary Questions (A/65/575) and 
+requested the Secretary-General to review the proposals contained in his report 
+A/65/491 and to submit new and/or revised proposals to the Assembly in the context 
+of the proposed programme budget for the biennium 2012-2013. The Assembly also 
+requested the Secretary-General to report on the progress made in the establishment 
+of a secondary enterprise data centre, including, as appropriate, financial resources 
+proposed for its implementation, in the context of the proposed programme budget 
+for the biennium 2012-2013. 
+
+4. The present report responds to those requests and to previous requests by the 
+General Assembly to submit detailed and fully justified proposals for enterprise 
+content management and customer relationship management in the context of the 
+proposed programme budget for the biennium 2012-2013 (see resolution 64/243). It 
+also responds to requests by the Assembly that the United Nations use enterprise 
+data centres rather than local data centres and submit a unified disaster recovery and 
+business continuity plan, including a permanent solution for Headquarters (see 
+resolutions 63/262, 63/269 and 64/243). 
+
+5. In the present report, the Secretary-General proposes a set of four integrated, 
+Organization-wide, high-impact enterprise ICT initiatives that are intended to 
+alleviate the current issues in the ICT environment and to better meet the needs of 
+departments and offices. These initiatives are: “Improve enterprise ICT 
+management”, “Leverage knowledge through ICT”, “Enhance ICT service delivery” 
+and “Create a resilient ICT infrastructure”. Figure I illustrates the linkage between 
+the previous General Assembly resolutions and the proposed initiatives, which are 
+expected to bring significant qualitative and quantitative benefits to the 
+Organization and to enhance the role of ICT as a strategic enabler for the mandates 
+and substantive programmes of the United Nations.  
+
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 4 
+ 
+
+  Figure I  
+Linkage between General Assembly resolutions and the enterprise ICT 
+initiatives 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+6. Implementation of the proposals set forth in the present report will provide the 
+Organization with overarching ICT management capabilities and an infrastructure 
+that will make it possible to implement, in a more streamlined and efficient manner, 
+strategic programmes and improvements, including the knowledge management and 
+service delivery initiatives, that will be required in the future. The risks associated 
+with not implementing these initiatives include the continued fragmentation of the 
+ICT environment, an increase in the cost of operations and difficulties in providing 
+effective solutions for achieving United Nations mandates and better supporting the 
+needs of departments and offices. 
+
+7. The Secretariat, in responding to the General Assembly’s request and 
+acknowledging the challenging global economic climate and current cost 
+containment efforts, has reviewed and revised the proposals presented in previous 
+reports and achieved the goal of presenting an integrated set of proposals that will 
+achieve a similar impact at a significantly reduced cost. This was achieved by 
+leveraging existing efforts and technological tools across the Organization. All the 
+initiatives proposed in the present report were developed in consultation and 
+collaboration with departments and offices through the ICT governance mechanisms 
+and will be deployed through a joint effort of the Office of Information and 
+Communications Technology and other organizational units.  
+ 
+ 
+
+General Assembly 
+resolution 63/262 
+ 
+ 
+ 
+ 
+ICT strategy 
+
+General Assembly resolution 
+63/269 
+
+Disaster 
+recovery
+
+ and business
+ continuity
+
+General Assembly resolution 64/243
+ 
+ 
+
+Enterprise         Customer 
+content       relationship 
+management     management 
+
+Enterprise 
+data centre 
+concept and 
+secondary 
+data centre 
+
+ 
+Globalize 
+service desks
+
+Approve the 
+secondary data 
+centre in  
+Valencia, Spain 
+
+ 
+Streamline 
+data centres 
+
+ 
+Rationalize ICT 
+organization 
+
+Strengthen the 
+Office of 
+Information and 
+Communications 
+Technology  
+
+General Assembly resolution 65/259
+
+Leverage knowledge 
+through ICT 
+ 
+Provide an enhanced 
+knowledge management 
+environment to help the 
+Organization carry out its 
+mandate effectively 
+
+Enhance ICT service delivery
+ 
+Implement enterprise service 
+desks to improve user 
+experience and productivity 
+
+Create a resilient ICT infrastructure
+ 
+Improve the Secretariat’s infrastructure to support 
+enterprise applications in a more agile and cost-effective 
+manner 
+
+Improve enterprise ICT management
+ 
+Improve ICT organization to better support the 
+Secretariat’s programmes 
+
+
+
+ A/66/94
+ 
+
+5 11-41011 
+ 
+
+ II. Proposals for enterprise information and communications 
+technology initiatives  
+ 
+ 
+
+ A. Improve enterprise information and communications 
+technology management  
+ 
+ 
+
+  Background  
+ 
+
+8. An overarching organizational framework that defines how ICT activities are 
+carried out throughout the Secretariat is essential to realizing the vision of a strong 
+ICT for a better United Nations (see A/62/793 and Corr.1). Effective organizational 
+structures and management processes are the blueprint for formal expectations, 
+interactions and exchanges among internal stakeholders. 
+
+9. As the United Nations mandate has evolved over the last few decades, so have 
+the structures and governance mechanisms in the Secretariat. With the emergence of 
+modern technologies, ICT has become core to almost every programme activity and 
+a fundamental building block of the Organization.  
+
+10. Over time, fragmented and non-standardized ICT capacities and resources 
+have become ingrained in the working culture of the Organization. ICT efforts are 
+frequently duplicated throughout the Secretariat. Existing ICT business practices, 
+associated inefficiencies and the lack of transparency with regard to ICT capacities 
+are a reflection of a decentralized organizational model that has evolved organically 
+without strong central leadership.  
+
+11. In his report on investing in ICT (A/62/793), the Secretary-General made the 
+case for the centralization of ICT structures and the transition to a federated model 
+in which a central ICT unit is responsible for the overall strategy, policy and 
+coordination of independent ICT units in departments and offices. The current state 
+of ICT and the problems related to the fragmentation of ICT capacities and 
+resources revealed by the ICT structural review were presented to the General 
+Assembly in the Secretary-General’s report (A/65/491). 
+
+12. The Secretariat is moving towards a federated model of ICT management, 
+shifting away from local management procedures and organizational structures 
+towards a streamlined approach that takes into account the needs at both the 
+Organizational and local levels. While there has been some progress in this area, in 
+order to achieve an effective organizational model for ICT it is necessary to 
+concurrently streamline local management structures and strengthen enterprise ICT 
+functions.  
+
+13. The initiatives proposed in the present report combine two previous 
+interrelated proposals, the “Rationalize the ICT organization” project (structural 
+review project 3) and the “Strengthen the Office of Information and 
+Communications Technology” project (structural review project 4), and lay the 
+foundation to improve the ICT organization and improve support to Secretariat 
+programmes. At the same time, the two initiatives will rationalize local ICT 
+management structures, minimize the existing fragmentation of the Secretariat’s ICT 
+environment and create a set of cross-cutting ICT functions that will prevent future 
+fragmentation, ultimately enabling the full realization of benefits from ICT 
+programmes. 
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 6 
+ 
+
+  Objectives  
+ 
+
+14. The goal of the “Improve enterprise ICT management” initiative is to 
+streamline ICT functions and structures both within the Organizational and at local 
+levels to better support United Nations programmes. The goal will be achieved by: 
+
+ (a) Aligning ICT solutions with the needs of substantive entities; 
+
+ (b) Creating a performance management framework to measure ICT units 
+and resources; 
+
+ (c) Reducing the fragmentation of applications and infrastructures through 
+an ICT portfolio management function, strengthened infrastructure capacity and 
+enhanced capacity in the enterprise application development areas; 
+
+ (d) Developing an enterprise architecture framework that aligns ICT 
+solutions with business needs; 
+
+ (e) Enhancing the capacity for the development of enterprise ICT policies 
+and strategies; 
+
+ (f) Strengthening the security management function in the Secretariat; 
+
+ (g) Modernizing and harmonizing ICT functions, jobs and career paths in 
+collaboration with the Office of Human Resources Management; 
+
+ (h) Defining a framework for ICT activities by creating policies on where 
+ICT activities should be carried out; 
+
+ (i) Establishing and maintaining a central repository of ICT capacities; 
+
+ (j) Instituting transparency and optimizing the allocation of ICT resources. 
+
+15. By the end of the biennium 2012-2013, standards for ICT functions and jobs, 
+as well as sourcing rules, will be defined and new ICT career paths will be created 
+across the Organization. In close consultation with departments and offices, all ICT 
+units in the Secretariat will be reviewed and recommendations will be presented to 
+the General Assembly regarding organizational changes in the ICT units. 
+
+16. A management framework for measuring the performance of ICT units and 
+resources will be established and made operational Secretariat-wide, along with a 
+central repository of ICT personnel. This will enable the Secretariat to accurately 
+report to Member States on the utilization of the entirety of its ICT resources. In 
+addition, the enterprise architecture framework will be implemented across the 
+Secretariat, enabling the Organization to forecast and plan its technology based on 
+institutional needs. The application portfolio referred to in the report of the 
+Secretary-General (A/65/491) revealed the existence of close to 2,000 applications, 
+which will be reduced through sustained coordination of cross-cutting ICT 
+functions. Additional reductions in the number of applications will be made through 
+Umoja. 
+
+17. By the end of 2015, all proposals on ICT organizational changes that have 
+been approved by Member States will be implemented across the Secretariat.  
+ 
+ 
+
+
+
+ A/66/94
+ 
+
+7 11-41011 
+ 
+
+ 
+
+Box 1 
+Illustrative example: “Improve enterprise ICT management” initiative 
+
+Current problem 
+
+ The Secretariat has 173 distinct job profiles for ICT, far more than 
+it needs. The vast number of ICT job profiles complicates recruiting, 
+career planning, training and mobility, and inhibits the effective 
+allocation of ICT personnel across various ICT functions. Moreover, the 
+existing job profiles do not reflect the transformation that has taken place 
+in the ICT profession over the past decades. Job profiles for many crucial 
+ICT jobs do not currently exist. For example, although an increasing 
+number of ICT activities in the Secretariat are being carried out in the 
+form of projects, there is no existing job profile for an ICT project 
+manager, a post that is crucial for ensuring the delivery of projects on 
+time and within budget. 
+ 
+
+Expected improvements 
+
+ The ICT global staffing model will streamline and consolidate ICT 
+job profiles and create ICT career paths that are compatible with the 
+Secretariat’s work environment and today’s technological environment. It 
+will facilitate staff mobility and allow ICT professionals to advance in 
+their careers by helping them identify gaps and pursue training in a wider 
+range of standardized, state-of-the-art job categories and competencies. 
+Once the global staffing model has been implemented, it will be possible 
+to identify and leverage the expertise of staff with certain ICT skills and 
+competencies across the Secretariat. In addition, the recent efforts made 
+to establish transparency in existing ICT personnel distribution 
+procedures will enable the effective allocation of staff across various ICT 
+functional areas. 
+
+ 
+ 
+ 
+
+18. Organizational impact. The benefits of rationalizing the ICT organization and 
+strengthening the enterprise ICT management functions are summarized below. 
+ 
+
+  Qualitative benefits 
+ 
+
+19. The “Improve enterprise ICT management” initiative will provide the 
+following qualitative benefits to the Organization: 
+
+ (a) Increased transparency with regard to ICT capacities and resources 
+and the cost of ICT services. A global ICT human resources database will be 
+developed to provide data on the distribution of ICT personnel and establish a 
+baseline that can be used to properly align the planning, budgeting, forecasting and 
+reporting processes of ICT services. Having an overview of ICT personnel across 
+the Secretariat is essential for the strategic allocation of resources to priority 
+projects and the efficient utilization of staff. In addition, the initiative seeks to 
+establish ICT functions that will ensure the transparency of ICT activities across the 
+Secretariat and global ICT human resources capacities and will define and track 
+
+
+
+A/66/94  
+ 
+
+11-41011 8 
+ 
+
+metrics that measure ICT unit performance (such as ICT portfolio and performance 
+management); 
+
+ (b) Assignment of the United Nations ICT workforce to roles that add 
+value. The ICT sourcing strategy that will be developed as part of this initiative will 
+define the optimal distribution of ICT resources across the Organization. It will 
+rationalize the number of staff and the range of skills needed to carry out ICT 
+functions, make it possible to forecast ICT staffing needs and, ultimately, ensure 
+that staff competencies are aligned with job requirements and business needs; 
+
+ (c) Improved staff mobility, morale, agility, accountability and talent 
+management. A centrally controlled, standardized ICT staffing model and the 
+associated ICT career path model will contain standardized ICT functional titles and 
+job descriptions for state-of-the-art functions that will enable the Organization to 
+pursue a coherent ICT strategy and consistency among ICT activities globally and to 
+support staff in acquiring the required competencies, skills and certifications 
+necessary to achieve their career goals. The implementation of the ICT staffing 
+model will increase the level of professionalism and ensure that appropriate 
+certifications needed to perform ICT functions are obtained; 
+
+ (d) Improved quality of ICT services at a lower cost to the Organization. 
+The establishment of a number of cross-cutting ICT areas in the Office of 
+Information and Communications Technology, including change management, 
+portfolio management, enterprise architecture and performance management, will 
+improve the coordination of ICT activities among 70 ICT units in the Secretariat, 
+enhance compliance with promulgated ICT policies and standards and ensure closer 
+alignment between the ICT services available and the needs of the Organization, all 
+at a substantially lower cost to the Organization.  
+ 
+
+  Quantitative benefits  
+ 
+
+20. It is projected that between 2011 and 2013 the proposals on the consolidation 
+of ICT units at the departmental level and on the Secretariat-wide optimized 
+distribution of ICT activities will result in a reduction in overall ICT staffing needs. 
+ICT posts will be freed up for redeployment as a result of a more efficient 
+organizational structure, the elimination of redundant ICT activities and increased 
+control over existing activities. Until a review of the ICT units has been completed, 
+it will not be possible to provide precise data on the size of the savings that can be 
+achieved. The following paragraphs provide an overview of the redeployment 
+strategy that will be utilized.  
+
+21. It should be noted that all proposals for staff reductions that may result from 
+the initiatives contained in the present document will be prepared in close 
+consultation with departments and offices and presented to the General Assembly 
+for consideration as part of the normal departmental budget submission process. The 
+approved proposals will be implemented in close collaboration with the Office of 
+Human Resources Management. 
+
+22. It is anticipated that changes in the ICT management structure and distribution 
+of ICT activities across the Secretariat will free up the following posts: 
+
+ (a) Posts at the P-3, P-4 and P-5 levels for middle and lower management 
+functions; 
+
+
+
+ A/66/94
+ 
+
+9 11-41011 
+ 
+
+ (b) Posts in the Professional and General Service categories for providing 
+administrative support to decentralized ICT units; 
+
+ (c) Posts in the Professional and General Service categories for application 
+development and the maintenance of duplicative ICT solutions; 
+
+ (d) Posts in the Professional and General Service categories for ICT 
+functions, including infrastructure-related functions, that will be outsourced. 
+
+23. The above-mentioned posts could be redeployed to perform other functions, as 
+follows: 
+
+ (a) Various functions in the ICT and non-ICT area of knowledge 
+management; 
+
+ (b) Management functions in areas where the Organization lacks the capacity 
+to support substantive programmes on issues such as humanitarian affairs and 
+development; 
+
+ (c) Cross-cutting ICT functions in the areas of enterprise architecture, 
+portfolio management/capacity planning, strategic planning and performance 
+management; 
+
+ (d) ICT functions in the areas of business relationship management, project 
+management and business analysis; 
+
+ (e) Administrative functions within the same department. 
+
+24. In his report on human resources management reform, the Secretary-General 
+projected that 1.9 per cent of Secretariat staff will retire each year between 2011 and 
+2015 (see A/65/305, table 3), which means that during that period a total of 280 staff 
+members will retire (56 staff members annually). Such posts, freed up through 
+attrition, could be redeployed to different ICT or non-ICT functions according to the 
+model summarized in previous paragraphs. 
+
+25. Staff members occupying posts that might be subject to proposed 
+redeployments within or across budget sections would be given professional training 
+funded through this initiative, depending on the competency and professional 
+aspirations of the staff member occupying the post, the needs of the Organization 
+and the decision of Member States. It has been estimated that from 2013 to 2015, 
+between $500,000 and $1,000,000 annually will be needed for change management-
+related activities. 
+
+26. Should staff members occupying posts that are subject to geographic 
+redeployment have to relocate, it is expected that such relocation will take place on 
+a voluntary basis only. If no other solution is possible, it is expected that the 
+affected posts could be earmarked for redeployment after the staff member moves to 
+another post or leaves the Organization.  
+
+27. Posts freed up as a result of other strategic initiatives, such as the “Enhance 
+ICT service delivery” and “Create resilient ICT infrastructure” initiatives, could be 
+redeployed using a similar strategy. 
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 10 
+ 
+
+  Implementation plan  
+ 
+
+  Approach  
+ 
+
+28. In order to identify areas of the ICT organization that could be rationalized, 
+reviews of all Secretariat ICT units will be conducted as part of this initiative. For 
+each ICT unit that is reviewed, options for consolidating and/or eliminating the 
+duplicative activities of various ICT units will be analysed, taking into account the 
+ICT sourcing strategy. Summary recommendations will be made in close 
+consultation with departments and offices and presented to Member States for their 
+consideration as part of the established budget process.  
+
+29. Simultaneously, a number of cross-cutting enterprise ICT functions will have 
+to be established to reduce the fragmentation of the ICT environment. An adequate 
+level of resources for those functions, enterprise application development and 
+infrastructure consolidation will be essential during the 2012-2013 biennium to 
+sustain the implementation of the federated organizational structure and ensure that 
+benefits from enterprise ICT initiatives can be realized to their fullest potential.  
+
+30. The Office of Information and Communications Technology was established in 
+January 2009, within existing budgetary and staff levels, through the redeployment 
+of approved resources for the Information Technology Services Division of the 
+Department of Management and the Information and Communications Technology 
+Division of the Department of Field Support. At present, resource levels for the 
+Office reflect the mandate of the Office’s predecessor, the Information Technology 
+Services Division, which was primarily responsible for providing core 
+communications, server capacity and applications to United Nations Headquarters, 
+as well as wide area network support and limited applications and policy support to 
+other entities within the Secretariat. Although the ICT workload has risen 
+significantly in recent years, reflecting an annual increase of approximately 25 per 
+cent in the demand for such services, there has not been a commensurate increase in 
+the number of posts or other resources. Moreover, the mandate of the Office is much 
+broader than that of its predecessor, which means that the Office requires a different 
+level of resources, staff at different grade levels and the expertise to fulfil its new 
+mandate. In particular, a significant resource gap exists for the funding of cross-
+cutting functions such as ICT policymaking, architecture and standards setting, as 
+well as security and global portfolio management. Annex I to the present report 
+contains information on the mandate of the Office and the level of resources 
+available to it. 
+
+31. The organizational review of the Office, which began in 2010 as part of the 
+structural review and was completed in 2011 as part of the “Rationalize the ICT 
+organization” project, was meant to address the lack of capacity in critical areas. As 
+a result, it identified a number of positions that could be redeployed within the 
+Office to carry out cross-cutting ICT functions. It is proposed that the following 
+posts be redeployed within the Office: 
+
+ (a) One P-5 post from application maintenance (Integrated Management 
+Information System (IMIS)) towards change management; 
+
+ (b) One P-3 post from accounts management to change management; 
+
+ (c) One P-5 post from application development to ICT strategic planning and 
+policy development; 
+
+
+
+ A/66/94
+ 
+
+11 11-41011 
+ 
+
+ (d) One General Service (Principal level) post from application maintenance 
+to ICT portfolio management; 
+
+ (e) Two General Service posts from infrastructure management support to 
+internal management functions; 
+
+ (f) One P-2 post from application development to internal management 
+functions. 
+
+32. These proposals are a first step and an example of the enterprise-wide 
+adjustments that could be made throughout the Organization’s ICT units on the basis 
+of the strategy described above. The redeployment of additional Office resources, 
+which would strain core services such as network, telephone and e-mail support 
+services, is not a prudent option. 
+
+33. The findings of the structural review also revealed that adequate resources 
+dedicated to cross-cutting ICT functions and enterprise application development are 
+required in order to implement an efficient and effective ICT strategy and operations 
+across the Secretariat and enable the Office to adequately support the Secretariat. 
+Those functions would ensure that benefits from enterprise ICT initiatives can be 
+realized to their full potential. They will also ensure that the Organization does not 
+revert to the level of fragmentation and costly ICT operations currently in place.  
+
+34. Annex I to the present report summarizes 18 different functions performed by 
+the Office. Seven of the most critical cross-cutting functions that will enable the 
+Secretariat to make progress in implementing its ICT strategy and mitigate security 
+risks are currently not appropriately staffed. The following areas in the central ICT 
+unit urgently need to be strengthened: 
+
+ (a) Enterprise architecture and standards; 
+
+ (b) Security and risk management; 
+
+ (c) Strategic planning and policy development; 
+
+ (d) ICT portfolio management, including ICT financial management; 
+
+ (e) ICT performance management; 
+
+ (f) Business relationship management; 
+
+ (g) Technology research. 
+
+35. It is therefore proposed that 14 additional posts (2 D-2, 2 P-5, 10 P-4) be 
+established to focus on the following cross-cutting functions: 
+
+ (a) Global strategy management (1 D-2). The complexity of the Secretariat 
+and its ICT environment requires the establishment of a global strategic 
+management function at a senior level in the Office of the Chief Information 
+Technology Officer. The Director in this post must have the experience, knowledge 
+and authority to drive the implementation of the ICT strategy across the Secretariat. 
+By providing authoritative leadership to senior-level stakeholders and ICT 
+governance bodies, the incumbent would ensure the convergence of interests in the 
+Secretariat with regard to the demand for ICT services. In close consultation with 
+the Office, the Director would be responsible for bringing about coherence of 
+Organization-wide ICT activities and operations across 70 ICT units, including with 
+regard to infrastructure and architecture, applications development, business process 
+
+
+
+A/66/94  
+ 
+
+11-41011 12 
+ 
+
+re-engineering, networks, outsourcing and ICT operations and support. He or she 
+would interact with internal and external stakeholders to ensure the effective 
+implementation of the ICT strategy and continuous user satisfaction and be 
+responsible for determining long-term Organization-wide ICT needs and developing 
+the overall strategy for systems development and hardware acquisition and 
+integration. The Director would be a member of the executive leadership team of the 
+Office of Information and Communications Technology and, as such, would be 
+expected to influence strategic decisions of the Organization regarding the use of 
+technology; 
+
+ (b) Infrastructure management (1 D-2). With the establishment of 
+enterprise data centres, the Secretariat is entering a phase in which its ICT 
+infrastructure is becoming global. Efforts are under way to streamline and 
+consolidate global infrastructure operations across duty stations. In this 
+environment, it is proposed that a senior-level position at the D-2 level be 
+established to direct and coordinate the development of the enterprise infrastructure 
+and other operations, including global ICT disaster recovery, as well as to lead 
+Organization-wide infrastructure harmonization efforts. The Director would also be 
+responsible for ensuring the increased availability and reliability of the global ICT 
+infrastructure. Ultimately, the incumbent would facilitate the achievement of 
+infrastructure efficiencies for the entire United Nations system, as well as increase 
+the responsiveness of the Organization to an ever-changing environment; 
+
+ (c) ICT security management (1 P-5). Currently, the Organization is 
+exposed to various ICT security risks and cyberattacks and is unable to identify and 
+address data security needs across the Organization. It is therefore proposed that an 
+ICT security management function at the P-5 level be established to ensure that the 
+activities of all the security functions throughout the Secretariat are more efficiently 
+coordinated and that activities that contribute to planning, creating and 
+implementing ICT security management are aligned with the Organization’s 
+strategic goals. In addition, the incumbent would be responsible for ensuring that 
+information relating to ICT security is coordinated and communicated among 
+affected stakeholders, minimizing the exposure of the Organization to ICT security 
+risks and cyberattacks; 
+
+ (d) Enterprise application development for field offices (1 P-5). In order 
+to strengthen the Organization’s ability to deliver enterprise applications to the field, 
+it is proposed that a post at the P-5 level be established to head the Field Systems 
+Service in the Office of Information and Communications Technology, which has 
+been operating without the P-5 post of Chief since 1 February 2009, after 10 ICT 
+support account posts were transferred from the Information and Communications 
+Technology Division of the Department of Field Support to the Office. By 
+establishing this post, the Office would strengthen the coordination and management 
+capacity for developing and leveraging common solutions that could be 
+implemented broadly to meet the needs of staff in the field. The proposed post is 
+also absolutely critical for day-to-day operations, including the carrying out of 
+assessments of field mission automation needs, programme and budget planning, 
+project and staff management, performance monitoring and the management and 
+optimization of the portfolio of field applications. The establishment of the P-5 post 
+of Chief of the Field Systems Service of the Office would ensure the effective 
+delivery of field applications projects in partnership with the Information and 
+
+
+
+ A/66/94
+ 
+
+13 11-41011 
+ 
+
+Communications Technology Division, in accordance with the ICT strategy of the 
+Secretariat; 
+
+ (e) Strategic planning and policy development (1 P-4). In order to ensure 
+the alignment of local and enterprise ICT strategies and the consistent 
+implementation of the ICT strategy across 70 ICT units in the Secretariat, it is 
+proposed that a post at the P-4 level be established to plan, develop and update the 
+ICT strategy. The incumbent would be responsible for monitoring and reporting on 
+the implementation of the ICT strategy across ICT units; 
+
+ (f) Enterprise architecture (1 P-4). Fragmented and non-standardized ICT 
+capacities and resources are leading to the fragmentation of applications and 
+infrastructure components, the duplication of work and an increase in associated 
+costs for the Organization. Currently, the ICT infrastructure capability of the 
+Organization is not able to keep up with changing business needs or to meet the 
+ever-increasing number of technology standards. It is therefore proposed that a post 
+at the P-4 level be established to provide overall direction and guidance, as well as a 
+definition of enterprise architecture that effectively supports the Secretariat’s overall 
+vision, including its ICT vision. The incumbent would be responsible for functions 
+related to the analysis, design and delivery of ICT solutions that are appropriate for 
+the strategies of both substantive and technological areas; 
+
+ (g) Technology research (1 P-4). The lack of a dedicated technology 
+research function results in the inability of the Organization to utilize emerging 
+technologies and a slower adoption of technologies requested by departments and 
+offices; this, in turn, means that opportunities for improving staff productivity and 
+organizational effectiveness may be missed. It is therefore proposed that a post at 
+the P-4 level be established to track emerging technologies and provide guidance 
+and strategic advice on their utilization in the Secretariat. The incumbent would be 
+responsible for coordinating Organization-wide technology research activities in 
+cooperation with ICT units and assisting in the definition of the architecture and 
+technology needs of the Organization based on new and emerging technologies; 
+
+ (h) ICT performance management (1 P-4). As the findings of the structural 
+review indicate (see A/65/491), the Organization does not make optimal use of its 
+ICT resources (more than 4,000 personnel and over $700 million annually). It is 
+currently not possible to adjust the resource levels of ICT units based on achieved 
+and planned outputs, as there are no ICT unit performance standards and established 
+consolidated reporting mechanisms. Furthermore, the lack of performance metrics 
+does not allow the Secretariat to analyse the benefits derived from various enterprise 
+initiatives and propose redeployment options to Member States. It is therefore 
+proposed that a post at the P-4 level be established to gather Organization-wide 
+performance metrics for ICT units and establish appropriate internal and external 
+reporting mechanisms; 
+
+ (i) ICT portfolio management (1 P-4). The findings of the structural 
+review also demonstrated a lack of transparency in the way in which ICT funds are 
+spent. The inventory of ICT capacities that has been assimilated by the structural 
+review cannot be maintained over the long term unless appropriate processes and 
+systems are established. It is therefore proposed that a post at the P-4 level be 
+established to ensure transparency with regard to spending, to enable ICT 
+investment proposals to be prioritized across departments and to ensure that 
+
+
+
+A/66/94  
+ 
+
+11-41011 14 
+ 
+
+informed ICT investment decisions are made after adequate budgetary and project 
+reviews; 
+
+ (j) Business relationship management (2 P-4). The lack of capacity in the 
+business relationship management area causes misalignment between business needs 
+and ICT solutions, a lack of responsiveness to pressing substantive needs and the 
+inability to reduce the applications portfolio by negotiating the consolidation of 
+similar applications across substantive areas. It is therefore proposed that two posts 
+at the P-4 level be established to ensure the establishment, management and 
+maintenance of strategic relationships with customers throughout the Organization. 
+The incumbents would make sure that ICT solutions are aligned with the needs of 
+the Organization; 
+
+ (k) Communications (1 P-4). The implementation of the ICT strategy 
+creates a tremendous amount of change in the Organization. There is a direct 
+relationship between the level of commitment to and acceptance of change within an 
+organization and the quality of its communications. Through well-executed 
+communications, the Office of Information and Communications Technology would 
+be able to demonstrate the impact and value of the ICT strategy across the 
+Organization and ensure the acceptance and adoption of ICT solutions related to the 
+implementation of the strategy. It is therefore proposed that a post at the P-4 level be 
+established to facilitate the change management function. The incumbent would take 
+the lead in planning, developing and implementing large, complex communications 
+campaigns related to ICT initiatives and the ICT strategy. The incumbent would also 
+be responsible for managing the ICT communications strategy for the Secretariat 
+and coordinating its implementation, promoting strategic programmes and initiatives 
+and providing advice and expertise to ICT programme managers and other ICT staff 
+on a range of communications issues, methods and approaches; 
+
+ (l) Human resources and financial management (2 P-4). When it was 
+established in 2009, the Office of Information and Communications Technology was 
+provided with no additional resources for human resources and financial 
+management functions. On an interim basis, the Office borrowed positions from 
+operational areas to cover these vital functions. It is therefore proposed that two 
+positions at the P-4 level be established to ensure the coordination of human 
+resources management programmes and activities and for coordinating the 
+preparation of the budget for the support account for peacekeeping operations, the 
+programme budget, the strategic framework and the performance reports of the 
+Office. 
+
+36. Annex II to the present report contains a detailed proposed organization chart 
+of the Office for the biennium 2012-2013.  
+ 
+
+  Progress to date  
+ 
+
+37. In section XVII, paragraph 14, of its resolution 65/259, the General Assembly 
+authorized the Secretary-General to proceed with the implementation of project 3 
+(“Rationalize the ICT organization”) and decided that $1.5 million should be 
+provided from within the resources approved for the biennium 2010-2011. In section 
+XVII, paragraph 16, of the same resolution, the Assembly decided to approve 
+resources equivalent to seven general temporary assistance positions at the P-4 level 
+for 2011, of which five were to be funded from within existing resources; additional 
+resources equivalent to two positions at the P-4 level were appropriated. Resource 
+
+
+
+ A/66/94
+ 
+
+15 11-41011 
+ 
+
+requirements continue to be monitored in order to identify the $1.5 million needed 
+for the “Rationalize the ICT organization” project and five positions for cross-
+cutting ICT functions, as approved by the Assembly in December 2010. 
+
+38. To date, the following activities have been completed: 
+
+ (a) With the participation of ICT governance bodies, including the ICT 
+Executive Committee, the ICT Advisory Group and the ICT Management 
+Coordination Group, the definition of ICT functions and jobs, as well as ICT 
+sourcing rules, have been refined; 
+
+ (b) The criteria and process for departmental review of ICT units have been 
+designed and an initial set of data on a number of departments is being collected and 
+consolidated; 
+
+ (c) The organizational review of the Office of Information and 
+Communications Technology has been completed and proposals to rationalize the 
+structure and strengthen cross-cutting functions have been included in the present 
+report; 
+
+ (d) Work has begun towards achieving Secretariat-wide agreement on ICT 
+job descriptions and career paths, through discussions with chiefs of ICT units from 
+across the Secretariat; 
+
+ (e) Recruitment is under way for the two general temporary assistance posts 
+at the P-4 level that have been funded so far, to be assigned to the functional area of 
+strategic planning and policy development. 
+ 
+
+  Figure II  
+Schedule of the “Improve enterprise ICT management” initiative 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+39. As already noted, recommendations for organizational changes to ICT unit 
+structures and post redeployments will be prepared in close consultation with 
+departments and offices and presented to the General Assembly as part of the 
+appropriate budget submissions.  
+
+40. Recommendations on changes to the organizational structure of peacekeeping 
+missions will be presented to the General Assembly, as required, as part of the 
+peacekeeping budget submissions for 2013-2014 and 2014-2015. 
+
+2014 2015
+
+(e) Strengthen cross-cutting ICT functions (continued from 2011)
+
+(d) Implement changes in departments, offices, regional  
+      commissions and offices away from Headquarters
+
+(c) Implement changes in peacekeeping missions
+
+(b) Review the ICT organization (continued from 2011)
+
+(a) Implement the ICT staffing model (continued from 2011)
+
+Key activities 2012 2013
+
+
+
+A/66/94  
+ 
+
+11-41011 16 
+ 
+
+41. Recommendations on changes to the organizational structure of departments, 
+offices and regional commissions will be presented, as required, to the General 
+Assembly as part of the proposed programme budget for 2014-2015.  
+
+42. At the same time, efforts will be made to establish the most critical cross-
+cutting ICT functions during the biennium 2012-2013.  
+
+43. Any redeployments to cross-cutting functions will be recommended to the 
+General Assembly or requested as part of the established budget process during the 
+2014-2015 biennium, once the organizational reviews have been completed. 
+
+44. The following key activities will be taken in order to achieve the objectives of 
+this initiative (see figure II above): 
+
+ (a) Implement the ICT staffing model. Activities include: implementing 
+the ICT global staffing model, standardized functional titles and job descriptions in 
+close consultation with the Office of Human Resources Management;  
+
+ (b) Review the ICT organization. All ICT units in the Secretariat will be 
+reviewed. Once agreements have been reached with each organizational unit, 
+recommendations will be made on structural changes to ICT units, their reporting 
+position within departments and offices and a clear division of labour among ICT 
+service providers; those recommendations will be presented to the General 
+Assembly. The recommendations will be submitted according to the regular budget 
+and peacekeeping budget cycles to allow the Assembly to consider the proposals as 
+part of the normal budget process. Recommendations will vary by unit, depending 
+on whether the activities currently performed by a unit are considered to be ICT 
+activities governed by ICT standards, policies and job descriptions and whether 
+those activities should be performed on the basis of agreed sourcing rules, taking 
+into account the need to balance business unit responsiveness, ICT efficiency and 
+organizational risks. At the same time, routine functions will be outsourced in line 
+with Assembly resolutions 59/289 and 55/232 and staff will gradually be transferred 
+to perform higher value functions; 
+
+ (c) Implement changes in peacekeeping missions. Changes in 
+peacekeeping missions will be implemented in two waves, in accordance with the 
+peacekeeping budget cycle. An organizational review of “wave one” missions and 
+the Department of Field Support will run from July 2011 to mid-2012. Proposals for 
+organizational changes will be presented to the General Assembly in the first half of 
+2013, at its resumed sixty-sixth session. Following a decision by the Assembly, 
+expected in June 2013, the implementation of “wave one” organizational changes 
+and associated post redeployments could begin in July 2013. It is estimated that 
+between 600 and 700 ICT personnel, including contractors, will be reviewed during 
+“wave one” for the peacekeeping and support account cycle. The organizational 
+review of “wave two” missions will run from July 2012 to July 2013. Proposals for 
+organizational changes will be presented to the General Assembly in the first half of 
+2014, at its resumed sixty-seventh session. It is estimated that approximately 2,199 
+ICT personnel, including staff and contractors, will be reviewed during “wave two”. 
+The implementation of organizational changes and the associated redeployment of 
+posts in the remaining missions across the Secretariat could begin in July 2014 and 
+might continue until the end of 2015; 
+
+ (d) Implement changes in departments, offices, regional commissions 
+and offices away from Headquarters. The changes will be implemented according 
+
+
+
+ A/66/94
+ 
+
+17 11-41011 
+ 
+
+to the regular budget cycle. All departments, offices and regional commissions will 
+be reviewed between January 2011 and June 2012. It is estimated that more than 
+1,300 ICT staff, including contractors, will be reviewed during the regular budget 
+cycle. This phase of the organizational review will be completed by the middle of 
+2012. Departments will submit proposals for organizational changes as part of the 
+next regular budget cycle at the end of 2013. Following a decision by the General 
+Assembly, expected in December 2013, the implementation of organizational 
+changes and associated post redeployments could commence in January 2014; 
+
+ (e) Strengthen cross-cutting ICT functions. In parallel with the 
+rationalization of local ICT structures, the cross-cutting enterprise ICT functions 
+will be reviewed with a view to prioritizing their strengthening in three phases. 
+Phase one, which was completed in 2011, involved the approval by the General 
+Assembly of general temporary assistance equivalent to seven posts at the P-4 level, 
+to be used for most critical cross-cutting ICT functions. Additional capacity in 
+cross-cutting ICT functions will be needed during 2012-2013 and is being requested 
+at this time, as described in the above paragraphs. Phase two involves the review by 
+the Office of Information and Communications Technology of its own 
+organizational structure and the identification of a number of posts suitable for 
+redeployment during the biennium 2012-2013 (see para. 31 above). Regarding the 
+posts that will be required during the biennium 2014-2015, a proposal will be made 
+in phase three for redeployments or for the establishment of new posts, pending the 
+results of the organizational reviews of the ICT units.  
+ 
+
+  Resource requirements 
+ 
+
+Table 1 
+Total resource requirements for the implementation of the “Improve enterprise 
+ICT management” initiative 
+ 
+
+(Thousands of United States dollars) 
+
+Object of expenditure 2012-2013 
+
+Posts 2 883.6 
+Other staff costs 1 346.6 
+Travel of staff 150.0 
+Contractual services 498.0 
+General operating expenses 2 973.7 
+Furniture and equipment 502.0 
+
+ Total 8 353.9 
+ 
+ 
+
+  Resource requirements for the biennium 2012-2013  
+ 
+
+  Posts  
+ 
+
+45. The amount of $2,883,600 would cover the salaries ($1,984,600) and common 
+staff costs ($899,000) for the establishment of 14 posts (2 D-2, 2 P-5, 10 P-4) to 
+carry out the cross-cutting functions set out in paragraph 35 above. 
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 18 
+ 
+
+  Other staff costs  
+ 
+
+46. The amount of $1,346,600 would cover general temporary assistance to carry 
+out activities related to project 3 (“Rationalize the ICT organization”), equivalent to 
+two posts at the P-5 level, two posts at the P-4 level and one post at the P-3 level for 
+12 months each in 2012, and one post at the P-4 level for an additional 6 months in 
+2013, to carry out activities and deliverables associated with implementing the ICT 
+jobs and functions, associated organizational changes, ICT global staffing model 
+and strategic workforce planning framework. The incumbents would be responsible 
+for the day-to-day management and reporting of project activities, the establishment 
+of stakeholder analyses and engagement plans to prepare for the changes staff will 
+face, the performance of organizational risk and readiness assessments for the 
+departments that will need to undergo changes, conducting high-level negotiations 
+with departments on ICT boundaries and sourcing, drafting job descriptions and 
+collaborating with the Office of Human Resources Management in post 
+reclassification efforts.  
+ 
+
+  Travel of staff  
+ 
+
+47. The amount of $150,000 would cover the cost of official travel of staff for 
+data-gathering sessions, meetings and briefings relating to the assessment, analysis 
+and design of the project in the most heavily affected departments and offices away 
+from Headquarters. 
+ 
+
+  Contractual services  
+ 
+
+48. The amount of $498,000 would cover requirements for change management 
+for the estimated 5 to 10 per cent of ICT staff that will be redeployed towards 
+different job functions. 
+ 
+
+  General operating expenses  
+ 
+
+49. The amount of $2,973,700 would cover the rental of premises, minor 
+alterations to premises, telephone and facsimile services in connection with the 
+establishment of the proposed posts and the continuation of general temporary 
+assistance, as follows: two posts at the P-5 level (1 Senior Project Manager and 1 
+Change Manager), two posts at the P-4 level (2 Business Analysts with expertise in 
+ICT organizational design and workforce management) and one post at the P-3 level 
+(1 ICT Human Resources Management Expert). Incumbents of these posts will 
+perform activities and produce deliverables associated with implementing the 
+definition of ICT functions, associated organizational changes, the ICT global 
+staffing model and the strategic workforce planning framework. 
+ 
+
+  Furniture and equipment  
+ 
+
+50. The amount of $502,000 would cover the cost of furniture and equipment for 
+the proposed additional posts, including office furniture and office automation 
+equipment. 
+ 
+
+  Biennium 2014-2015 and beyond  
+ 
+
+51. A preliminary cost forecast for the remainder of the project (approximately 
+between $1 million and $2 million for the additional ICT staff who will be 
+
+
+
+ A/66/94
+ 
+
+19 11-41011 
+ 
+
+redeployed towards different functions, excluding the continuation of established 
+posts for the cross-cutting functions) has been estimated as accurately as possible. 
+However, the forecast will be updated in subsequent progress reports and 
+requirements will be dealt with in accordance with established budgetary procedures 
+as further details become available. 
+
+52. Table 2 provides a summary of current authorized and proposed post 
+requirements, by level and year. 
+
+53. It is proposed that all the new posts mentioned in the present report be 
+established on 1 January 2012. In accordance with the recommendation of the 
+Advisory Committee on Administrative and Budgetary Questions that information 
+on the delayed impact of posts be reflected in any new proposals (see A/62/7, 
+para. 20), it is noted that the delayed impact on the budget for the biennium 2014-
+2015 of the proposed 14 posts is currently estimated at $2,325,600. 
+ 
+
+Table 2 
+Post requirements for the Office of Information and Communications Technology 
+
+ Temporary postsa  
+
+ 
+
+Established 
+regular 
+
+budget posts Other assessed Extrabudgetary 
+Proposed in this 
+
+reportb  Total 
+
+Category 
+2010- 
+2011 
+
+2012-
+2013
+
+2010-
+2011
+
+2012-
+2013 
+
+2010-
+2011
+
+2012-
+2013 
+
+2010- 
+2011 
+
+2012- 
+2013 
+
+2010-
+2011
+
+2012-
+2013
+
+Professional and higher 
+
+Assistant Secretary-
+General 1 1 — — — — — — 1 1
+
+D-2 1 1 — — — — — 2 1 3
+
+D-1 4 4 — — — — — — 4 4
+
+P-5 13 13 — — — — — 2 13 15
+
+P-4/3 51 51 7 7 1 1 — 10 59 69
+
+P-2/1 7 7 3 3 — — — — 10 10
+
+ Subtotal 77 77 10 10 1 1 — 14 88 102
+
+General Service 
+
+Principal level 11 11 1 1 2 2 — — 14 14
+
+Other level 48 48 1 1 9 9 — — 58 58
+
+ Subtotal 59 59 2 2 11 11 — — 72 72
+
+Other     
+
+Trades and Crafts 1 1 — — — — — — 1 1
+
+ Subtotal 1 1 — — — — — — 1 1
+
+ Total 137 137 12 12 12 12 — 14 161 175
+ 
+
+ a Three P-4, four P-3, three P-2, one General Service (Principal level) and one General Service (Other level) 
+financed from the support account for peacekeeping operations (Other assessed); and one P-4, two General 
+Service (Principal level), nine General Service (Other level) posts financed from the telecommunications 
+support account (extrabudgetary). 
+
+ b Posts proposed in the present report to be funded through a cost-sharing mechanism. 
+
+
+
+A/66/94  
+ 
+
+11-41011 20 
+ 
+
+ B. Leverage knowledge through information and communications 
+technology  
+ 
+ 
+
+  Background  
+ 
+
+54. In today’s increasingly technology-driven global environment information is 
+abundant. The impact the United Nations is able to make on the world depends upon 
+the knowledge of its staff and the quality of the information it collects, collates and 
+publishes. Increased electronic access to information, the evolution of the World 
+Wide Web and advanced content management technologies affect the way the 
+United Nations works. In order to take advantage of institutional knowledge in this 
+changing global environment, a re-evaluation of the Secretariat’s knowledge 
+management culture, policies, processes and technology is required.1 
+
+55. The United Nations must effectively capture, retain and share knowledge in 
+order to better analyse, synthesize and present information to all stakeholders in a 
+timely manner, thus enabling the Organization to respond better to the world’s 
+needs. In a number of reports and resolutions, the Secretary-General, the Office of 
+Internal Oversight Services and the General Assembly have highlighted the need for 
+the Organization to improve knowledge-sharing internally and externally (see 
+A/59/79, A/62/793, A/64/477 and E/AC.51/2006/2, as well as Assembly resolutions 
+63/100, 63/248 and 63/262). In that regard, the Assembly has, in its resolutions 
+63/262 and 64/243, recognized the benefits of the enterprise content management 
+system and has requested the Secretary-General to: enhance technology tools for the 
+management of content, take advantage of technology advances in the marketplace, 
+improve, in a cost-effective manner, the expeditious dissemination of content, 
+ensure that all duty stations are given equal treatment in respect of the application of 
+modern technologies, and explore best practices and lessons learned. In its 
+resolution 64/243, the Assembly requested the Secretary-General to submit a fully 
+justified proposal in the context of the proposed programme budget for the biennium 
+2012-2013.  
+
+56. A knowledge management road map was developed through a collaboration 
+between departments and offices, discussions within the Working Group on 
+Knowledge Management and with the assistance of knowledge management experts. 
+Through these efforts, it became apparent that the Organization does not fully 
+harness the power of knowledge management and technologies, and that there are 
+urgent institutional needs for improving knowledge management practices. The 
+prevalence of inconsistent knowledge management activities and inconsistent use of 
+technological tools continues to impede the Organization’s ability to carry out its 
+programmes effectively while needlessly increasing the cost of operations. 
+
+57. Several key challenges to the current knowledge management environment at 
+the United Nations will be addressed through the “Leverage knowledge through 
+ICT” initiative. These are: 
+
+ (a) The lack of Organization-wide standards for web publishing, which has 
+resulted in a confusing navigation scheme and difficult access to information 
+
+__________________ 
+
+ 1  In this report, the term “information” refers to the products of the substantive work of the 
+United Nations (e.g. documents, images, web pages, video clips, etc.); the term “knowledge” 
+refers to ideas or concepts derived from information (e.g. analyses, assessments, decisions, etc.); 
+and the term “content” combines both information and knowledge generally. 
+
+
+
+ A/66/94
+ 
+
+21 11-41011 
+ 
+
+through the Organization’s main web presence (www.un.org) and the many other 
+departmental websites. In addition, the Organization’s information governance, 
+processes and technology tools are inadequate and have hindered the systematic 
+sharing of knowledge across the Organization. Each department and office has its 
+own web designers and templates. This increases the time and effort needed to 
+navigate and maintain existing websites and to create new websites; 
+
+ (b) Collaboration continues to take place mostly through e-mail, although the 
+limited implementation of the online collaboration tool “e-Room” has improved the 
+sharing of information among committees and working groups. Most documents are 
+approved in an ad hoc manner through e-mail. Even where information-sharing 
+workflows do exist, automation is minimal and multiple steps must be carried out 
+manually. E-mail serves as the primary repository for many documents and is the 
+main distribution method. Sending content by e-mail results in lack of management 
+of the content and the proliferation of versions. There is currently no Organization-
+wide technological platform for easily locating and connecting with subject-matter 
+experts in different areas, nor is there a mechanism to facilitate electronic 
+discussions; 
+
+ (c) There is no centralized document repository, hindering the management 
+of all types of content produced in the Organization. Security classification and 
+access control is limited. A large amount of content is stored on network drives 
+where documents are poorly organized and controlled. Other than the Official 
+Document System (ODS), there is no authoritative source of electronic content in 
+the Organization;  
+
+ (d) As content stored on network drives does not incorporate basic 
+taxonomical classification criteria and metadata, it is difficult to search and use the 
+content. The search function in ODS has been improved, making it possible to use 
+metadata to find documents, which is a best practice. However, repositories such as 
+www.un.org do not make use of metadata to facilitate searches. Further, it is not 
+possible to perform a search across websites, ODS and e-Room. 
+
+58. The “Leverage knowledge through ICT” initiative will strive to address these 
+systemic problems. The initiative will be undertaken by the Office of Information 
+and Communications Technology in close collaboration with departments and 
+offices.  
+ 
+
+  Objectives  
+ 
+
+59. The proposals set forth in the present report are intended to create an 
+integrated knowledge management environment in the United Nations Secretariat 
+through the achievement of the following objectives: 
+
+ (a) Create enterprise-wide platforms. Centralized, secure, authoritative 
+and trusted information resources will be established to support Headquarters, 
+offices away from Headquarters, regional commissions, field missions, Member 
+States and important United Nations initiatives, such as the Millennium 
+Development Goals and climate change initiatives; 
+
+ (b) Improve and enhance analysis and decision-making support 
+capabilities. Producing, capturing and sharing knowledge is a central part of the 
+work of the United Nations. Processes for collaborative drafting, reviewing and 
+approving documents will be developed. Content authoring processes will also be 
+
+
+
+A/66/94  
+ 
+
+11-41011 22 
+ 
+
+enhanced. These improvements will help United Nations knowledge workers to 
+analyse issues and make decisions more effectively; 
+
+ (c) Improve information management policies and processes. Global 
+policies, standards, records management practices and guidelines that will govern 
+the consistent formulation, use and management of knowledge will be agreed upon 
+and implemented across the Secretariat; 
+
+ (d) Improve the organization, accessibility and usability of information. 
+Departments and offices will be empowered to successfully implement and manage 
+their information; 
+
+ (e) Retain institutional knowledge. Capturing and sharing best practices 
+and lessons learned will streamline the work of the Secretariat, support communities 
+of practice and provide knowledge resources for effectively dealing with global 
+initiatives and issues in the future; 
+
+ (f) Facilitate and enhance knowledge sharing and collaboration. 
+Collaboration processes, document management practices, websites and social 
+media tools will enhance the ability of the Organization’s departments and offices to 
+collaborate with each other and with partners outside the United Nations and to 
+connect with people, resources and knowledge; 
+
+ (g) Improve the management of websites and their content. Internal and 
+external websites will be managed effectively through streamlined web policies, 
+effective navigation, the capture of metadata, standardized templates and structured 
+workflows for creating and publishing content. 
+ 
+
+  Organizational impact  
+ 
+
+60. The full implementation of the “Leverage knowledge through ICT” initiative 
+will have a significant impact on the whole Organization. 
+ 
+
+  Qualitative benefits  
+ 
+
+61. The “Leverage knowledge through ICT” initiative will also provide the 
+following qualitative benefits to the Organization: 
+
+ (a) Enhanced knowledge creation and sharing within the Secretariat. 
+This will be achieved by making it easier to access and share information and by 
+improving collaboration among United Nations personnel. The initiative will also 
+enable greater reusability of information through the use of standardized templates 
+and deliverables for common activities and functions. Best practices and lessons 
+learned will be applied; 
+
+ (b) Improved ability to respond quickly to crises and a changing global 
+environment. This will be achieved by enhancing the means to search, capture, 
+reuse, integrate, analyse and communicate information. More accurate and informed 
+analyses will lead to better crisis decision-making and improved flexibility in a 
+changing environment; 
+
+ (c) Increased accuracy and security of information and better records 
+management. This will be achieved by better managing information and by clearly 
+defining custodianship, metadata, records management processes, retention 
+schedules, information security and audit; 
+
+
+
+ A/66/94
+ 
+
+23 11-41011 
+ 
+
+ (d) Improved retention of institutional memory and business continuity. 
+This will be achieved through the systematic, long-term preservation of the 
+Organization’s intellectual assets; 
+
+ (e) Increased visibility of the United Nations. This will be achieved by 
+providing better services to Member States and other stakeholders, including 
+improved accessibility to up-to-date content, documents, websites and other sources 
+related to United Nations activities;  
+
+ (f) The ability to create and use knowledge remotely. This will enable 
+United Nations personnel to work more effectively and productively regardless of 
+the time and their physical location. Having teams that can access the same 
+information at any time and from anywhere will enhance the Organization’s outputs 
+and impact. 
+ 
+
+  Quantitative benefits  
+ 
+
+62. The exact amount spent on knowledge management activities is currently 
+unavailable, but it is estimated to be very large given the extensive fragmentation of 
+the content management processes, tools and resources of the Organization. After 
+full implementation, it is estimated that the overall savings from this initiative will 
+be between $23 million and $28 million on an annual recurring basis (see annex IV). 
+Some savings will be achieved as initiatives progress and it is expected that the full 
+savings will be realized one year after full implementation. Listed below are the 
+estimated savings: 
+
+ (a) Information sharing. The improved availability of knowledge through 
+enhanced collaboration and search capabilities will reduce the time needed by staff 
+to find information. The ability to review and approve documents through 
+collaborative workflows instead of manually or through e-mail will result in more 
+effective content management and more efficient processes. Total annual savings are 
+estimated at between $9.2 million and $11.2 million; 
+
+ (b) Virtual meetings. The introduction of web-based meetings will yield 
+savings in travel and information sharing. Total annual savings are estimated at 
+between $3.5 million and $4.3 million; 
+
+ (c) Content and technology optimization. By consolidating applications 
+and repositories and by using standardized templates, United Nations personnel will 
+need less time to manage applications and develop content. Total annual savings are 
+estimated at between $4.7 million and $5.7 million; 
+
+ (d) Reduced printing. Savings can be achieved by using electronic content 
+instead of printouts and reducing the amount of space dedicated to filing cabinets 
+for storage. Total annual savings are estimated at between $1.4 million and  
+$1.8 million; 
+
+ (e) Content organization and access. Improved content classification and 
+metadata standards will increase staff productivity by making it easier to locate and 
+access information. Total annual savings are estimated at between $4 million and 
+$4.9 million. 
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 24 
+ 
+
+  Table 3  
+Estimated annual recurring benefits by category for the “Leverage knowledge 
+through ICT” initiative 
+
+(Millions of United States dollars) 
+
+Functionality Low end of estimate High end of estimate 
+
+Information sharing 9.2 11.2 
+
+Virtual meetings 3.5 4.3 
+
+Content and technology optimization 4.7 5.7 
+
+Reduced printing and storage  1.4 1.8 
+
+Content organization and access 4.0 4.9 
+
+ Total 22.8 27.9 
+ 
+ 
+
+  Implementation plan 
+ 
+
+  Approach 
+ 
+
+63. The “Leverage knowledge through ICT” initiative strives to implement a set of 
+core knowledge management capabilities that must work together in an integrated 
+manner. This approach reduces the redundancy of legacy systems and provides a 
+common knowledge management platform that will be leveraged and shared by all 
+United Nations personnel. Each component of the knowledge management process 
+is essential for accomplishing the Organization’s knowledge management goals. 
+
+64. The integrated set of core knowledge management capabilities (see figure III 
+below) to be implemented at each duty station includes: collaboration, 
+documents/records management, web content management and enterprise search. 
+These components must be implemented together in order to improve the ability of 
+the Organization to gather, analyse, synthesize and present information throughout 
+the entire lifecycle of institutional knowledge and make knowledge more accessible 
+to all stakeholders, worldwide. This initiative promotes the development of new 
+approaches and skills, including the adoption of Organization-wide knowledge 
+management policies, practices and technology tools.  
+ 
+
+  Figure III 
+Components of the “Leverage knowledge through ICT” initiative 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Enables the Organization to build virtual 
+partnerships, share knowledge, find experts 
+and form communities of practice. Enables 
+staff to discover and share knowledge and 
+expertise through profiles, blogs, wikis and 
+other tools. 
+
+Enables the Organization to improve its 
+Internet presence by facilitating the 
+configuration, deployment, customization 
+and optimization of sites, site collections, 
+pages, web parts and documents. 
+
+Enterprise
+search 
+
+Enables the Organization to create, use, 
+share, retain and dispose of documents and 
+other kinds of content in line with 
+enterprise policies, standards and 
+guidelines. Collaboration 
+
+Documents 
+records 
+management 
+
+Knowledge 
+management 
+
+Web content 
+management
+
+Enables the Organization to search and find 
+relevant information across multiple 
+systems in a more effective way. 
+
+ 
+
+
+
+ A/66/94
+ 
+
+25 11-41011 
+ 
+
+65. The implementation of the “Leverage knowledge through ICT” initiative 
+requires the full support of departments and offices. To achieve success and ensure 
+the adoption of improved knowledge management policies, processes and 
+technology tools, this initiative must be planned and coordinated through well-
+organized governance mechanisms. The ICT Executive Committee, the ICT 
+Advisory Group, the Working Group on Knowledge Management and managers of 
+departments and offices must actively support the initiative by providing guidance 
+and incentives to and communicating with United Nations personnel. Furthermore, 
+in order to maximize benefits, it is critical that the initiative be seen as an 
+enterprise-wide endeavour that enjoys the full endorsement of the Secretary-General 
+and Member States. 
+
+66. The “Leverage knowledge through ICT” initiative will ultimately affect the 
+entire Secretariat, Member States and other stakeholders. Due to this far-reaching 
+impact, prudent change management activities will be included to ensure the 
+adoption of new policies, processes and technology tools and minimize the 
+disruptions to the Organization during implementation. These activities will include 
+just-in-time web-based training, communications campaigns, readiness assessments 
+and stakeholder workshops. 
+ 
+
+  Collaboration 
+ 
+
+67. The collaboration component of the “Leverage knowledge through ICT” 
+initiative will enable and promote transparency and teamwork by connecting United 
+Nations personnel located worldwide, thus enhancing their ability to share 
+information and work together effectively. In 2008, the first collaboration tool, 
+e-Room, was introduced to the Organization as a secure virtual workspace that 
+allowed committees, staff and teams to collaborate and share content. This tool is 
+currently being used successfully by more than 3,000 users. Building upon this 
+success, the goal is to provide even more modern tools, such as “wikis”, “blogs” and 
+“tagging”.2 
+
+68. Through the use of these tools, United Nations personnel will be able to 
+connect and consult with one another electronically and find staff with the expertise 
+and experience required to carry out their work. The use of advanced 
+communications and virtual meeting tools has begun on a limited basis in parts of 
+the Organization but will be extended to all communities of practice3 and, over the 
+next two bienniums, to more organizational units throughout the Secretariat.  
+ 
+
+__________________ 
+
+ 2  “Wikis” provide a collaborative workspace where people contribute directly to content. “Blogs” 
+enable individuals to regularly provide commentary or to describe events. “Tagging” allows 
+individuals to apply keywords to information they want to access quickly and easily. 
+
+ 3  A “community of practice” is a group of people who share an interest, a craft, and/or a 
+profession. The group can evolve naturally because of the members’ common interest in a 
+particular domain or area, or it can be created specifically with the goal of gaining knowledge 
+related to their field. It is through the process of sharing information and experiences that the 
+members learn from each other and have the opportunity to develop personally and 
+professionally. Communities of practice can exist online, such as within discussion boards and 
+newsgroups, or in real life, such as in a lunch room at work, in a field setting, on a factory floor 
+or elsewhere. 
+
+
+
+A/66/94  
+ 
+
+11-41011 26 
+ 
+
+ 
+
+ Box 2 
+ Illustrative example: collaboration 
+
+ 
+
+ Current problem 
+ 
+
+ A staff member working on economic development in Asia needs to 
+consult with United Nations experts on environmental issues. The staff 
+does not know where to start looking for the experts and how to 
+determine whether a person, if found, is an expert or not. 
+ 
+
+ Expected improvements 
+ 
+
+ Collaboration tools for networking allow experts to post profiles 
+containing links to past experience and publications. The staff member 
+can search the community of practice using this tool to find the experts 
+and ask them questions, form a new community and include them in a 
+project. Once the project is formed, all the members of the network can 
+share information easily and efficiently through these tools. 
+
+ 
+ 
+ 
+
+  Documents/records management 
+ 
+
+69. The Organization devotes a significant amount of time and resources to 
+creating, editing, reviewing, sharing and storing a large volume of documents on a 
+daily basis. However, the lack of centralized repositories, common processes and 
+standard technology tools in this area creates ineffectiveness and productivity loss. 
+The Organization can improve the current conditions through the introduction of 
+modern document/records management processes and technology tools.  
+
+70. Much of the foundational work for this component has already begun. On the 
+basis of an enterprise content management road map developed in 2009, a standard 
+documents/records management system was developed late in 2010. The system is 
+designed to provide a centralized, secure and scalable repository for all types of 
+United Nations documents (official, unofficial and other), which can be accessed 
+and searched by any user with appropriate privileges. Its main functionalities 
+include: creating document management workflows; enabling document library 
+services such as check-in, check-out and version control; reporting on document 
+access records; declaring content as records and managing retention and disposal 
+rules and schedules; securing access to documents; and digitizing paper documents. 
+The system can also automate cross-cutting content-driven business processes such 
+as collaborative authoring, reviewing and approval of official documents. 
+
+71. The project will be implemented over two bienniums (2012-2013 and 2014-
+2015) and will include the deployment of key document and records management 
+systems, the development of service delivery support and the automation of 
+organizational processes. To start, the system will be implemented and the upstream 
+process of authoring official documents will be automated in at least one business 
+unit in each of the following locations: United Nations Headquarters, offices away 
+from Headquarters, the regional commissions and field offices. The Office of 
+Information and Communications Technology will provide service support for the 
+knowledge management applications and help with digitization efforts at 
+
+
+
+ A/66/94
+ 
+
+27 11-41011 
+ 
+
+Headquarters and in other duty stations. In addition, ODS will be migrated to the 
+system to improve its functionality and reliability.  
+
+72. Once implemented, the system will be one of the most pervasive systems 
+utilized in the Organization. All United Nations personnel who create and use 
+documents will benefit from the system. Staff members of all categories, grades and 
+locations will use the system to capture, manage, find, reuse, retain and disseminate 
+relevant documents daily. Member States and other stakeholders will also use the 
+system to manage content related to their interactions with the United Nations. 
+ 
+
+ 
+
+ Box 3 
+ Illustrative example: documents/records management 
+
+ 
+
+ Current problem 
+ 
+
+ General Assembly documents are authored by departments in an ad 
+hoc manner without the use of standard document templates and the 
+documents are edited and reviewed by e-mail. Multiple copies are stored 
+on the hard drives of local computers and network drives that are hard to 
+search, resulting in significant productivity loss and difficulties in 
+reusing a document to create other documents. 
+ 
+
+ Expected improvements 
+ 
+
+ General Assembly documents are authored using the new 
+documents/records management system, which will make it possible for 
+documents to be created easily and collaboratively by different staff 
+members, using standard formats, easily locatable data, version control 
+and automatic workflows, thus enforcing an automatic approval process. 
+The content will be stored as a record for institutional memory and will 
+be available for reuse in the future. 
+
+ 
+ 
+ 
+
+  Web content management 
+ 
+
+73. The web content management component will ultimately organize the United 
+Nations internal and external websites into a cohesive global system of knowledge 
+portals. While there has been some progress in this area, a weak and fragmented 
+governance and operational framework for websites has resulted in the ad hoc 
+development of a multitude of incompatible and, in many cases, inadequate web 
+content management tools. In turn, this has made it difficult to find information, as 
+well as increased costs and security risks. Many departments and offices have 
+requested a modern web content management system to meet their website 
+management needs, yet the Organization has not been able to provide a robust 
+enterprise solution to date. 
+
+74. The web content management project will first create an “iSeek 2.0” (iSeek is 
+the Secretariat’s Intranet) that integrates knowledge sharing into a cohesive 
+environment, allowing United Nations personnel to work in a more effective and 
+efficient manner. The development work will be piloted using selected United 
+Nations Internet websites and subsequently applied to the high-impact United 
+Nations websites, including www.un.org. Ultimately, the web content management 
+
+
+
+A/66/94  
+ 
+
+11-41011 28 
+ 
+
+system will be based on a global platform built in accordance with appropriate 
+governance rules for policies, procedures, guidelines and standards and with support 
+services that oversee and streamline the creation of new, high-quality websites that 
+are well defined, integrated and properly managed. With well-functioning websites, 
+the Organization will be able to effectively communicate and share its substantive 
+outputs internally and externally. 
+ 
+
+ 
+
+ Box 4 
+ Illustrative example: web content management 
+
+ 
+
+ Current problem 
+ 
+
+ It is very difficult to navigate, access and find information at 
+www.un.org. Every departmental website looks different, as the sites are 
+developed independently with no consistent brand, look, feel or 
+information architecture. 
+ 
+
+ Expected improvements 
+ 
+
+ Websites will have a common look and feel because they will be 
+built with common templates and a clear workflow for the approval of 
+content. Effective governance and associated policies, procedures and 
+standards will make the common brand and management of websites 
+possible. Maintenance of websites will be easier and allow security of 
+information to be effectively managed. 
+
+ 
+ 
+ 
+
+  Enterprise search 
+ 
+
+75. Through the enterprise search component, the Organization will index a large 
+volume of information and knowledge in various repositories and provide powerful 
+search capabilities across these repositories. The enterprise search system will 
+facilitate easy and seamless discovery of contextual information about different 
+topics across the repositories. Initially, existing document repositories such as 
+www.un.org, ODS and iSeek will be made available through this enterprise search 
+system. This will be followed by adding the search functionality to 
+documents/records management and collaboration environments. As new 
+repositories are introduced, they will be included in the enterprise search, ultimately 
+resulting in a one-stop search portal for the entire Organization, Member States and 
+other stakeholders. 
+ 
+
+
+
+ A/66/94
+ 
+
+29 11-41011 
+ 
+
+  Schedule 
+ 
+
+  Figure IV 
+Schedule of the “Leverage knowledge through ICT” initiative 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+76. The four components of the “Leverage knowledge through ICT” initiative will 
+be implemented and deployed in all United Nations Secretariat locations over two 
+consecutive bienniums (2012-2013 and 2014-2015) through the following key 
+activities (see figure IV): 
+
+ (a) Establish enterprise-wide knowledge management infrastructure and 
+governance. Activities include: setting up the technical infrastructure in New York 
+and at the United Nations Logistics Base (UNLB) at Brindisi, Italy, to support 
+collaboration, documents/records management, web content management and 
+enterprise search; and developing governance, policies, procedures, roles and 
+responsibilities and providing dedicated secretariat support to the Working Group on 
+Knowledge Management; 
+
+ (b) Initiate pilot projects on collaboration and documents/records 
+management. Activities include: creating pilot projects in consultation with 
+relevant departments and offices; enabling collaboration, communities of practice 
+and expert locator capabilities; implementing policies, procedures, standards and 
+guidelines; expanding deployment to other departments, offices, regional 
+commissions, offices away from Headquarters and peacekeeping missions; 
+implementing documents/records management projects for authoring official 
+documents in at least one department and at each duty station away from 
+Headquarters; and establishing service delivery, change management and training 
+capabilities; 
+
+ (c) Initiate pilot projects on web content management. Activities include: 
+setting up a portal for departments at Headquarters for easy access to applications; 
+revamping iSeek; implementing web content management infrastructure; developing 
+common web content management templates and migrating some United Nations 
+websites; developing web content management governance, policies, procedures, 
+roles and responsibilities;   
+
+ (d) Roll out knowledge management activities for up to 10 departments, 
+offices away from Headquarters and field missions. Activities include: analysing 
+and migrating content; enabling technologies to collaborate; helping with 
+
+Key activities 2012 2013 2014 2015
+
+(a) Establish enterprise-wide knowledge management infrastructure 
+and governance 
+
+(b) Initiate global pilot projects on collaboration and documents/ 
+records management 
+
+ 
+
+(c) Initiate pilot projects on web content management 
+
+(d) Roll out knowledge management activities for up to 10 
+departments, offices away from Headquarters and field missions 
+
+(e) Establish enterprise search capabilities 
+
+(f) Roll out and support knowledge management to remaining 
+departments, offices away from Headquarters and field missions 
+
+ 
+
+(g) Maintain service delivery 
+
+
+
+A/66/94  
+ 
+
+11-41011 30 
+ 
+
+information management, providing training and change management; expanding 
+communities of practice and the ability to find experts;  
+
+ (e) Establish enterprise search capabilities. Activities include: completing 
+the procurement process to acquire an enterprise search tool; setting up the technical 
+infrastructure; and integrating repositories, thus enabling cross-repository searches; 
+
+ (f) Roll out and support knowledge management to remaining 
+departments, offices away from Headquarters and field missions. Activities 
+include: continuing and expanding the initiative’s activities, making collaboration, 
+documents/records management and related knowledge management capabilities 
+available to the United Nations Secretariat; 
+
+ (g) Maintain service delivery. Activities include: training, assisting with 
+change management, establishing service agreements with client departments and 
+offices and related activities to enable a vibrant knowledge management community 
+at the United Nations. 
+ 
+
+  Resource requirements 
+ 
+
+  Table 4 
+Total resource requirements for implementation of the “Leverage knowledge 
+through ICT” initiative 
+(Thousands of United States dollars) 
+
+Object of expenditure 2012-2013 
+
+Travel of staff 196.0 
+
+Contractual services 10 057.2 
+
+General operating expenses 1 059.6 
+
+Furniture and equipment 176.0 
+
+ Total 11 488.8 
+ 
+ 
+
+  Resource requirements for the biennium 2012-2013 
+ 
+
+77. The various components of the “Leverage knowledge through ICT” initiative 
+are to be executed as an integrated programme of work, which is why all the 
+estimates shown in this section are consolidated. 
+ 
+
+  Travel of staff  
+ 
+
+78. The amount of $196,000 would cover the cost of travel of staff in 2012-2013. 
+Since this is a global initiative, project staff will have to travel to United Nations 
+operational locations away from Headquarters for workshops, training and 
+coordination activities. 
+ 
+
+  Contractual services 
+ 
+
+79. The amount of $10,057,200 would cover the cost of the components on 
+collaboration, documents/records management, enterprise search and web content 
+management in 2012-2013, as follows:  
+
+
+
+ A/66/94
+ 
+
+31 11-41011 
+ 
+
+ (a) An amount of $3,013,000 would cover the cost of additional software 
+licence and maintenance for collaboration tools, web content management tools and 
+additional search capability for approximately 1.5 million documents. The tools 
+would be acquired incrementally, as the functionality is deployed to the various 
+locations and staff members; 
+
+ (b) An amount of $4,755,800 would cover the engagement of contractual 
+personnel to carry out activities related to project management and functional work 
+such as business process re-engineering, business requirements gathering, 
+application development, application integration, business process automation and 
+data migration, as well as ongoing service delivery and assistance to the user 
+community; 
+
+ (c) An amount of $572,600 would cover the cost of hardware and storage for 
+the global infrastructure to support collaboration and web content management; 
+
+ (d) An amount of $1,715,800 would cover the cost of change management 
+and services related to the delivery of change management activities in 2012-2013. 
+Change management is critical to the creation of a cultural transformation that 
+would lead to the acceptance and use of integrated knowledge management tools 
+within the Organization. Since these initiatives involve many new concepts, 
+capabilities, skills and technologies, staff will need to carry out change management 
+activities in order to properly fulfil their duties.  
+ 
+
+  General operating expenses 
+ 
+
+80. The amount of $1,059,600 would cover common support costs, including 
+rental charges, minor alterations of office space and telephone and facsimile 
+services related to the contractor positions requested under this programme. 
+ 
+
+  Furniture and equipment 
+ 
+
+81. The amount of $176,000 would cover furniture and equipment requirements 
+for the proposed contractor positions, including office furniture and office 
+equipment.  
+ 
+
+  Biennium 2014-2015 and beyond 
+ 
+
+82. A preliminary cost forecast for the roll-out to the remaining departments, 
+offices away from Headquarters and field missions, as well as the maintenance of 
+the service delivery, has been estimated at between $8 million and $12 million. 
+However, the forecast will be updated in subsequent progress reports in view of 
+potential changes in requirements and be included in the relevant proposed 
+programme budget submissions as further details become available. 
+ 
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 32 
+ 
+
+ C. Enhance information and communications technology 
+service delivery 
+ 
+ 
+
+  Background 
+ 
+
+83. The United Nations Secretariat devotes significant resources to the provision 
+of a broad spectrum of ICT services on a daily basis. The nature and complexity of 
+these services and the manner in which they are delivered vary widely. They include 
+responding to requests for information, repairing photocopiers, fixing computers 
+and troubleshooting remote access problems. 
+
+84. Service desks — organizational units that provide services to users — do not 
+have standard work methods for keeping records, producing status reports or 
+assessing the quality and cost of services, nor do they work in accordance with 
+established best practices. In addition, despite the fact that there are at least 131 ICT 
+service desks worldwide, support is not provided 24 hours a day, 7 days a week. 
+Furthermore, the tools to support service desks and workstation operations are 
+non-standard and limited in functionality. As a result, the quality and cost- 
+effectiveness of service delivery are measured, monitored and delivered in a  
+sub-optimal manner. 
+
+85. The critical role of ICT across the Organization and the high cost of related 
+support services provide a particularly salient example of the negative impact of a 
+fragmented approach to service delivery. Today, ICT is the backbone of the 
+operations of the Organization. When a personal computer does not work, the staff 
+member cannot work. Network failure can stop large numbers of staff from doing 
+their work, thus incurring significant costs to the Organization both financially and 
+in terms of the delayed delivery of substantive programmes. 
+
+86. At present, it is difficult to assess the quantity and quality of the service 
+delivery processes in the Organization, a fact which keeps the Organization from 
+efficiently assigning resources and establishing work units that can address the 
+complexity and volume of services needed. In addition, the broad array of services 
+requires solutions that are not always easy to access or provide because of the lack 
+of standard workstation configurations across the Secretariat. This complexity, 
+volume and fragmentation unnecessarily increases the cost of user services. 
+
+87. This report proposes a shift towards an enterprise ICT service model in which 
+the common ICT needs of the various organizational units are addressed through 
+regional service centres, thus significantly reducing local ICT service capacity at 
+duty stations. Regional service centres employing standardized processes and 
+technologies will also be capable of addressing service requests in other functional 
+areas such as facilities, human resources, procurement and financial services.  
+
+88. To accomplish this objective, it is proposed that the existing enterprise 
+customer relationship management system, iNeed, be fully leveraged and that 
+enterprise ICT service desks be established to provide more efficient ICT services to 
+all users, including staff, delegates and journalists. Furthermore, by leveraging the 
+existing enterprise identity management system, iNeed will provide functionality to 
+validate the identity of users and their requests, making the Secretariat less 
+vulnerable to security problems. By adopting this approach, the Organization will 
+realize substantial benefits through improved user satisfaction, cost-effectiveness 
+and quality assurance in the delivery of services to users. 
+
+
+
+ A/66/94
+ 
+
+33 11-41011 
+ 
+
+  Objectives 
+ 
+
+89. The Office of Information and Communications Technology, with advice from 
+the ICT Management Coordination Group4 and key stakeholders from departments 
+and offices, has identified the following key objectives for this initiative: 
+
+ (a) Improve the quality, standards, availability and efficiency of ICT services 
+across all duty stations by: 
+
+ (i) Consolidating 131 ICT service desk functions into at least three 
+enterprise ICT service desks to be located in different places and capable of 
+providing services 24 hours a day, 7 days a week; 
+
+ (ii) Providing all Secretariat offices with support for common applications 
+such as Umoja, e-mail, Inspira, iNeed and the enterprise identity management 
+system; 
+
+ (iii) Continuing to support unique site-specific services locally, with a 
+significantly reduced number of local ICT service desk staff; 
+
+ (b) Implement an enterprise ICT global service catalogue that is integrated 
+with other administrative service catalogues supported by iNeed; 
+
+ (c) Identify the applications that are required by all users in order to create a 
+minimal number of standardized workstation configurations; 
+
+ (d) Implement business intelligence software to enable critical performance 
+monitoring and management functions and thus to enable easier review of 
+performance and other issues by the governance bodies; 
+
+ (e) Maintain an integrated master project plan that includes timely progress 
+reports to ensure transparency with regard to the initiative’s status to all 
+stakeholders, including Member States; 
+
+ (f) Continue the selective deployment of iNeed for other administrative 
+services areas, such as facilities, financial services (tax, insurance, travel 
+reimbursement, benefits etc.) and human resources. 
+ 
+
+ 
+
+Box 5 
+Illustrative example: “Enhance ICT service delivery” initiative 
+
+Current problem 
+
+ A staff member at a United Nations duty station has a problem 
+printing a financial report that is needed by a high-level official in order 
+to make a critical decision. The staff member first asks co-workers if 
+they have encountered the problem before, then calls the local ICT 
+service desk and is asked to reboot the computer. Unfortunately, this does 
+not solve the problem. One hour has passed. The staff member calls the 
+service desk again and is provided with the number of an expert. He calls 
+the expert but is connected to an answering machine, which is how he 
+
+__________________ 
+
+ 4  The ICT Management Coordination Group consists of heads and senior staff of ICT units in 
+departments and offices across the Secretariat. The Group functions as a forum for providing 
+guidance and sharing views on ICT strategic programmes and other Secretariat-wide activities. 
+It meets every four weeks by videoconference and holds two retreats annually. 
+
+
+
+A/66/94  
+ 
+
+11-41011 34 
+ 
+
+finds out that the expert is away on leave for two weeks. The staff 
+member calls the service desk again; he is quite irritated since two hours 
+have passed and the high-level official is asking for the report 
+immediately. In desperation, the staff member tells the high-level official 
+about the problem. The official calls the Chief of ICT services asking for 
+the problem to be resolved immediately. The Chief calls the head of the 
+service desk to get quick action. Three hours have passed. The service 
+desk head walks to the support desk and gets one of the experts to call 
+the staff member. Fortunately, the expert, knowing that this is an easy 
+problem to remedy, calls the staff member and asks him to press 
+CTRL+F5. The report is printed. Four hours of the staff member’s time 
+have been wasted and, in the meantime, the high-level official has had to 
+board a plane without the report. This problem would have been even 
+more complicated had it been encountered during a journey or in the 
+middle of the night. 
+ 
+
+Expected improvements 
+
+ A staff member in a duty station is having trouble printing a 
+financial report. She calls extension 3333 and is connected to a service 
+desk agent, who queries the knowledge base for the printing error and 
+tells the staff member to press CTRL+F5. The staff member gets the 
+report to the high-level official in five minutes. While on the telephone, 
+the agent shows the staff member how to access the online web portal 
+with the knowledge base and bookmarks it for her so that in the future 
+she can solve such issues on her own. 
+
+ 
+ 
+ 
+
+  Organizational impact 
+ 
+
+90. Consolidating, modernizing and standardizing the existing ICT service desks 
+and other administrative services will reduce current service delivery disparities and 
+costs. An Organization-wide shift towards best practices and common technology 
+tools will improve service availability and quality; provide disciplined, repeatable 
+methodologies and processes; preserve and expand institutional knowledge; and 
+produce savings.  
+ 
+
+  Qualitative benefits 
+ 
+
+91. The “Enhance ICT service delivery” initiative will provide the following 
+qualitative benefits to the Organization: 
+
+ (a) Agility. By using best practice processes and common technology tools 
+in all locations, service desks will be able to quickly and consistently resolve issues. 
+In addition, reactive approaches will give way to proactive approaches, making it 
+possible for issues like global cybersecurity threats to be identified and solutions to 
+be swiftly propagated to other sites; 
+
+ (b) Accessibility. The provision of multilingual support on a 24-hour-a-day, 
+7-days-a-week basis will greatly decrease the time needed to resolve problems while 
+providing the world-class services that are vital to the Organization’s global 
+operations; 
+
+
+
+ A/66/94
+ 
+
+35 11-41011 
+ 
+
+ (c) Improved processes and operations. iNeed will provide an integrated 
+suite of reliable, modern help desk tools that will enable the provision of consistent 
+and effective services to users. Any excess staff capacity could be redirected to other 
+work within the Organization; 
+
+ (d) Responsiveness. First-call resolution tracking, self-service capabilities, 
+speedier resolution and expanded knowledge base tools will dramatically increase 
+service desk responsiveness. This improved responsiveness will allow users to 
+return more quickly to their normal work;  
+
+ (e) Productivity. Any computer or user downtime results in lost 
+productivity. Tracking and reporting on service desk performance and conducting 
+analyses on common problems will lead to an increase in service desk quality and 
+performance. This will also aid in ensuring the transparency of negotiated service-
+level agreements by clearly defining when, where, what and how services are to be 
+delivered. In addition, extended service desk availability and a single point of 
+contact will provide continuity of services to all users in the Secretariat, at any time, 
+from anywhere. 
+ 
+
+  Quantitative benefits 
+ 
+
+92. Currently, the Organization spends approximately $135 million annually on 
+ICT service desk operations, excluding costs associated with other administrative 
+service desks operated in all duty stations, which are not available at present. The 
+ICT service desk costs can be further broken down by components, namely, labour 
+($95.4 million) and equipment ($39.6 million). The ICT service desk and 
+workstation environments are supported by approximately 835 full-time equivalent 
+employees (618 staff and 217 contractors) at more than 131 service desks globally. 
+After full implementation, the estimated overall savings would be between 
+$39.7 million and $59.5 million, on an annually recurring basis. Some savings 
+would be achieved as initiatives progress and it is expected that the full savings will 
+be realized one year after full implementation (see annex IV). Listed below are the 
+projected savings related to the specific functional improvements: 
+
+ (a) Self-service. The introduction of self-service functions that allow users 
+to request a service, reset their password and access a searchable knowledge base 
+will reduce service desk volume and service agent time by an estimated 25 to 40 per 
+cent, yielding savings of between $6.6 million and $9.9 million annually; 
+
+ (b) ICT asset management. Automating the discovery of ICT devices and 
+validating the needs for such devices will reduce service desk and workstation 
+labour by approximately 10 per cent and provide savings in hardware and software 
+by approximately 10 per cent as a result of the ability to leverage the information to 
+reduce vendor contracts and licences. In total, the annual savings in this area are 
+estimated at between $10.3 million and $15.4 million; 
+
+ (c) Service desk automation. It is estimated that the introduction of 
+standard service desk processes and technology tools, as well as automation 
+processes for routing requests and real-time viewing of user information, will reduce 
+service agent costs by between $1.4 million and $2 million annually; 
+
+ (d) Workstation standards. A reduced set of workstation configurations 
+(also called workstation images) will reduce workstation and service desk labour 
+costs by 10 per cent each, due to the reduced complexity of workstations and a 
+
+
+
+A/66/94  
+ 
+
+11-41011 36 
+ 
+
+corresponding drop in workstation requests to the service desks. In total, the 
+estimated annual savings will be between $7.5 million and $11.3 million; 
+
+ (e) Workstation automation. The introduction of enterprise-wide remote 
+control and software distribution tools will provide capabilities for the service 
+agents at the regional service desks to quickly restore workstations and provide 
+workstation management tools to reduce incidents at individual workstations. This 
+will reduce workstation support labour costs by approximately 15 per cent, 
+producing estimated annual savings of between $7.4 million and $11.2 million; 
+
+ (f) Local service desk migration. After the regional service centres are 
+established in 2012-2013, common service functions will gradually be migrated to 
+the regional desks, reducing local labour requirements by approximately 15 per cent 
+and local equipment costs by 50 per cent. This will yield estimated annual savings 
+of between $6.5 million and $9.8 million; 
+
+ (g) Automation of other administrative services. The Office of 
+Information and Communications Technology, the Department of Field Support and 
+other ICT units will work closely with departments and offices to identify and 
+prioritize key administrative services that could be improved through the adoption 
+of the ICT service desk model. While quantitative productivity improvements are 
+expected, they cannot be reported until a comprehensive analysis of these services 
+has been undertaken. 
+ 
+
+Table 5 
+Estimated annual recurring benefits, by category, for the “Enhance ICT service 
+delivery” initiative 
+
+(Millions of United States dollars) 
+
+Functionality Low end of estimate High end of estimate 
+
+Self-service 6.6 9.9 
+
+ICT asset management 10.3 15.4 
+
+Service desk automation 1.4 2.0 
+
+Workstation standards 7.5 11.3 
+
+Workstation automation 7.4 11.2 
+
+Local service desk migration 6.5 9.8 
+
+ Total 39.7 59.6 
+ 
+ 
+
+  Implementation plan 
+ 
+
+  Approach 
+ 
+
+93. One of the significant revisions made to the project approach since the 
+publication of the report of the Secretary-General on the status of implementation of 
+the ICT strategy (A/65/491) involved leveraging previous investments and existing 
+systems to the maximum extent. As stated above, a key element of the revised 
+strategy is to leverage the existing investments in iNeed (a customer relationship 
+management application) and identify the authentication capabilities of the 
+enterprise identity management system. iNeed will be used in the enterprise ICT 
+service desks and local service desks to provide a common tool for handling all 
+
+
+
+ A/66/94
+ 
+
+37 11-41011 
+ 
+
+service requests. The enterprise identity management system will be used to supply 
+a central directory of all workstation users and to authenticate access to appropriate 
+services. The implementation approach consists of: 
+
+ (a) Standardizing and reducing desktop images to increase commonality, 
+reduce complexity at all locations and facilitate problem diagnosis and support; 
+
+ (b) Implementing standard software distribution and remote access tools; 
+
+ (c) Utilizing the iNeed application in all locations; 
+
+ (d) Using an enterprise knowledge base to provide service desk agents and 
+end-users with better, quicker and more accurate information;  
+
+ (e) Optimizing and promoting the use of self-service options to minimize 
+delays in reporting problems and status updates; 
+
+ (f) Providing a common telephone extension number (e.g. 3333) for all 
+locations instead of the numerous numbers in use at present; 
+
+ (g) Gradually deploying iNeed to selected departments, offices, regional 
+commissions and missions. 
+
+94. The initiative will be the first time that a comprehensive ICT service 
+management functionality will have been fully implemented on a round-the-clock 
+basis, leveraging both iNeed and the enterprise identity management system to 
+equip the regional and local service centres. The aim is to incorporate existing and 
+planned administrative service functionalities into this approach. As such, and 
+subject to the agreement of senior managers of the Secretariat, it is planned that 
+regional service centres will provide both ICT and other administrative services in 
+the future. 
+
+95. iNeed was deployed in the enterprise data centre established at UNLB in 2010. 
+The application will continue to be the standard technology tool to improve and 
+manage all types of services throughout the Organization. It is expected that it will 
+be the entry point for all service requests in the long term. There will be one 
+telephone number or one Internet site that users can use to request any service. The 
+system will then route all requests to the appropriate service desks. The full 
+deployment of iNeed as the enterprise tool for service desks will begin with ICT 
+services first and could be subsequently expanded to include other administrative 
+services.  
+
+96. This initiative will comprise at least three regional ICT service desks, for 
+example one in the Americas, one in Europe, the Middle East and Africa and one in 
+Asia, which will provide services 24 hours a day, 7 days a week to all United 
+Nations locations worldwide. The regional service desks, in conjunction with local 
+service desks, will resolve all ICT service requests, either by telephone or through 
+the iNeed self-service website, and will report back to the user on the status of their 
+request. iNeed will record all service calls and the actions taken. Through this 
+interaction, the Organization will be able to track and analyse the responsiveness 
+and effectiveness of all requests, thus enhancing service workforce management.  
+
+97. The regional ICT service desks will include a reduced set of standard 
+workstation configurations. This will streamline and improve incident and problem 
+management workflows and tools, thus enabling service agents to respond and 
+resolve problems in a timely manner. Standardized workstations will result in 
+
+
+
+A/66/94  
+ 
+
+11-41011 38 
+ 
+
+improved management of hardware and software assets, leverage contracts with 
+vendors through economies of scale and enhance ICT system security. 
+
+98. Regional service desks will provide support for all enterprise applications, at 
+any location. Common application problems will be handled by the regional service 
+centres rather than local service desks, as is the practice today. 
+
+99. iNeed will make use of a user self-service capability that will allow United 
+Nations personnel to resolve their problems without the intervention of service 
+agents or other technical staff, for example by searching the knowledge base or 
+resetting their password by themselves through an easy-to-use tool. This has two 
+benefits: users learn to support themselves (as is common today) and the workload 
+of service desk agents is decreased. 
+
+100. Another key element of the initiative is to employ an automated ICT asset 
+discovery and management capability. This will not only help the agents working on 
+service requests and allow greater transparency for reporting and chargeback 
+models, but also provide a key input for compliance with the International Public 
+Sector Accounting Standards in terms of the inventory and valuation of assets.  
+
+101. It should be noted that, while this initiative will consolidate all ICT service 
+desks, it will not replace the ongoing requirement for some local ICT personnel. It is 
+a principle of the initiative to pursue an automated approach wherever feasible to 
+reduce the dependence on local service requirements while providing the most cost-
+effective services. Figure V below provides a visual representation of the approach 
+adopted in the context of the “Enterprise ICT Service Desk” initiative. 
+ 
+
+Figure V 
+Visual representation of the “Enterprise ICT Service Desk” initiative 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+  Progress to date: customer relationship management 
+ 
+
+102. Since the customer relationship management concept was first introduced to 
+Member States in 2008, some progress has been made towards its implementation 
+using existing resources. iNeed has been deployed in the following departments and 
+
+ 
+
+Enterprise and local service desk architecture 
+
+Enterprise ICT 
+service desks 
+
+Time zone 1 
+
+Time zone 2 
+
+Time zone 3 
+
+Local office
+Local service 
+personnel 
+
+Local service 
+personnel 
+
+Local service 
+personnel 
+
+Local service 
+personnel 
+
+Local office 
+
+Field mission
+
+Regional 
+service centre
+
+ 
+ 
+
+United Nations 
+secure  
+
+network 
+
+
+
+ A/66/94
+ 
+
+39 11-41011 
+ 
+
+offices at Headquarters: the Office of Information and Communications Technology 
+and the Department of Field Support (for ICT service desk ticketing, generic service 
+requests and certain manual aspects of ICT asset management); the Department of 
+Management (for facilities management and financial information operations); and 
+the Office for the Coordination of Humanitarian Affairs in New York and Geneva, 
+UNLB, the United Nations Interim Force in Lebanon and the Economic and Social 
+Commission for Western Asia (ESCWA) (for ICT service desk). Deployment will 
+continue in 2011 to include the Accounts Division in the Department of Management, 
+facilities management at UNLB, central support services in ESCWA and a self-service 
+portal at selected field missions in the Middle East. The initiatives contained in the 
+present report, with the added alignment with the “Enterprise ICT service desk” 
+initiative, will result in significant progress in 2012-2013 towards the original vision of 
+customer relationship management at the Secretariat. It should be noted that sponsorship 
+of departments and offices will be secured in 2011 to ensure that the development of 
+customer relationship management will meet key service needs in 2012-2013.  
+ 
+
+  Progress to date: enterprise ICT service desks 
+ 
+
+103. On the basis of feedback from Member States, the Office of Information and 
+Communications Technology has adjusted its approach to align both existing and 
+planned initiatives such as Umoja and the global field support strategy to leverage 
+existing systems and internal capacities to the fullest extent. Leveraging iNeed has 
+significantly reduced the overall implementation cost of the enterprise ICT service 
+desks. In addition, the Office has also aligned other existing initiatives to provide 
+critical functionality related to security and directory services (enterprise identity 
+management system). This will provide better user authentication, which is critical 
+for self-service options (such as password reset) and will greatly enhance the speed 
+with which requests for services are fulfilled.  
+ 
+
+  Schedule 
+ 
+
+104. The timeline for the entire initiative is shown in figure VI. However, it is 
+important to note that at this time tasks are being proposed for only 2012 and 2013 
+and that the initial phases shown below have been recast into a set of subprojects 
+that could be executed within appropriate funding cycles. 
+ 
+
+Figure VI 
+Schedule of the “Enhance ICT service delivery” initiative 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2012 2013 2014 2015
+
+(F) Provide iNeed as a business platform for business purposes (tax, travel, 
+accounts) 
+
+(E) Migrate Local ICT Service Desk functions to Enterprise ICT Desks
+
+(D) Implement ICT Service Desk Locations
+
+Key Activities
+
+(C) Design, Test and Implement Service Desk Ticketing & Scheduling, and 
+other agent related tools
+
+(A) Design, Test and Implement Workstation Standards (Secretariat-wide)
+
+(B) Design, Test, and Implement Self Service, Knowledge Base, and 
+Business Intelligence
+
+Key activities 2012 2013 2014 2015
+
+(a) Design, test and implement workstation standards
+(Secretariat-wide) 
+
+(b) Design, test and implement self-service options, a 
+knowledge base and business intelligence 
+
+(c) Design, test and implement service desk ticketing and 
+scheduling and other agent-related tools 
+
+(d) Establish ICT service desk locations 
+
+ 
+
+(e) Migrate local ICT service desk functions to enterprise 
+ICT desks 
+
+(f) Provide iNeed as a business platform for business 
+purposes (tax, travel, accounts) 
+
+
+
+A/66/94  
+ 
+
+11-41011 40 
+ 
+
+105. The “Enhance ICT service delivery” initiative will be implemented through the 
+following key activities (see figure VI above): 
+
+ (a) Design, test and implement workstation standards (Secretariat-
+wide). A survey of all duty stations is being carried out in 2011 to provide 
+information about the complexity and diversity of the end-user (workstation) 
+environment of the Organization. Workstation standards will require all ICT chiefs 
+to collaborate in 2011 in order to identify workstation hardware standards, 
+customary workstation management tools and a reduced set of common workstation 
+software tools such as operating systems, e-mail applications, browsers and 
+anti-virus software. Agreement on the tools to be used, an implementation schedule 
+and timelines to eliminate unneeded software and hardware contracts will be 
+completed in 2012 and 2013; 
+
+ (b) Design, test and implement self-service options, a knowledge base 
+and business intelligence. Self-service options will be developed by the iNeed team 
+on the basis of specifications provided by departments, offices and ICT service 
+providers. In addition, the enterprise identity management system will develop an 
+authentication functionality for workstation users that will allow them to reset their 
+own passwords. In addition, all of the various types of network directories will be 
+combined into one enterprise model. All of these activities are planned for 2012. In 
+addition, an analysis of the global service catalogue will be performed in 2011, 
+providing key criteria for the development of the request-for-service functionality in 
+2012. Existing knowledge bases will be accumulated in 2012 to provide a combined 
+database of institutional knowledge about workstations by the end of 2013. This 
+knowledge base will be enhanced by subject-matter experts in identified functional 
+areas through the end of 2015 to assist in the migration of local ICT service desk 
+functions to the enterprise desks; 
+
+ (c) Design, test and implement service desk ticketing and scheduling and 
+other agent-related tools. Service desk tools will be developed in iNeed to create, 
+assign, track and report on the status of requests, as well as to make it possible to 
+effectively and efficiently distribute the workload among service desk agents. In 
+addition to the business intelligence tools with performance management 
+capabilities, a suite of automated tools will be provided in 2012 in order to provide 
+regional service desk locations with that functionality in 2013; 
+
+ (d) Establish ICT service desk locations. As mentioned above, it is 
+envisioned that three regional enterprise service desks will be established to 
+implement a “follow-the-sun” approach so as to provide service support 24 hours a 
+day, 7 days a week. The locations of the regional service desks will be determined 
+on the basis of prioritized criteria, which will include communications, labour, 
+logistics and time zone considerations. It is expected that this analysis will begin in 
+2012, when the locations will be selected, and that the regional service desks will be 
+established by mid-2013 and operational by the end of that year; 
+
+ (e) Migrate local ICT service desk functions to enterprise ICT desks. 
+While a local presence will still be required for some activities, for example those 
+related to site-specific applications and computer repair, it will be smaller once 
+some of the functions currently performed locally are migrated to the regional 
+service desks, leveraging the tools specified above. Fully trained migration teams 
+will interview local service desk personnel late in 2013 to populate the global 
+
+
+
+ A/66/94
+ 
+
+41 11-41011 
+ 
+
+knowledge base with common local user problems (and solutions). It is expected 
+that these migration activities will start in 2014 and continue until the end of 2015; 
+
+ (f) Provide iNeed as a platform for business purposes (tax, travel, 
+accounts). While completing a fully functional design for ICT services (through the 
+enterprise ICT service desks), the same model could be used for other substantive 
+service areas of departments and offices, such as tax, travel and accounts. It will be 
+important to secure stakeholder sponsorship within substantive units to provide 
+leadership in re-engineering selected substantive functions in 2012-2013. As 
+enterprise initiatives like Umoja are implemented in 2014-2015, it will be important 
+to ensure that ICT and departmental and office service desks follow a similar 
+approach to provide effective, world-class services.  
+ 
+
+  Resource requirements 
+ 
+
+Table 6 
+Total resource requirements for implementation of the “Enhance ICT service 
+delivery” initiative 
+
+(Thousands of United States dollars) 
+
+Object of expenditure 2012-2013 
+
+Travel of staff 165.0 
+
+Contractual services 11 103.5 
+
+General operating expenses 443.3 
+
+Supplies and materials 1 166.1 
+
+Furniture and equipment 274.0 
+
+ Total 13 151.9 
+ 
+ 
+
+  Resource requirements for the biennium 2012-2013 
+ 
+
+106. The “Enhance ICT service delivery” initiative will be executed as an 
+integrated programme of work, which is why all the estimates shown in this section 
+are consolidated. 
+ 
+
+  Travel of staff  
+ 
+
+107. The amount of $165,000 would cover the cost of travel of staff in 2012-2013. 
+As this is a global initiative, it will be necessary for project staff to travel to United 
+Nations operational locations away from Headquarters for workshops, change 
+management and coordination activities. 
+ 
+
+  Contractual services  
+ 
+
+108. The amount of $11,103,500 would cover requirements for the following 
+activities: 
+
+ (a) An amount of $3,947,300 would cover the costs of software to license 
+service desk and workstation toolsets. This software will be acquired in stages, as 
+the functionality is deployed to the various locations and staff members; 
+
+
+
+A/66/94  
+ 
+
+11-41011 42 
+ 
+
+ (b) An amount of $7,156,200 would cover the engagement of contractors for 
+project management and functional work such as business process re-engineering, 
+business requirements gathering, application development, application integration, 
+business process automation and data migration activities, as well as ongoing 
+service delivery and assistance to the user community. 
+ 
+
+  General operating expenses  
+ 
+
+109. The amount of $443,300 would cover common support costs, including rental 
+charges, minor alterations of office space and telephone and facsimile services 
+related to the contractor positions requested under this programme. 
+ 
+
+  Supplies and materials  
+ 
+
+110. The amount of $1,166,100 would cover the costs related to the establishment 
+of regional service centres. 
+ 
+
+  Furniture and equipment  
+ 
+
+111. The amount of $274,000 would cover the costs of the additional servers 
+required for the infrastructure of the service desk software.  
+ 
+
+  Biennium 2014-2015 and beyond  
+ 
+
+112. A preliminary cost forecast for the project has been estimated as accurately as 
+possible at between $14.9 million and $22.3 million. This includes estimates for 
+extending the activities started in 2012-2013, supporting migration teams, travel and 
+change management investments in order to ensure successful local ICT service 
+desk migration and smooth adoption by substantive end-users. However, the 
+forecast will be updated in subsequent progress reports and requirements will be 
+dealt with in accordance with established budgetary procedures as further details 
+become available. 
+ 
+ 
+
+ D. Create a resilient information and communications  
+technology infrastructure  
+ 
+ 
+
+  Background  
+ 
+
+113. Over the past decades, the Organization has built and maintained an ICT 
+infrastructure and ICT facilities based on the needs of individual duty stations. This 
+decentralized approach was consistently favoured and deemed necessary to ensure 
+reliable infrastructure operations given that global data communications were not 
+dependable. This model is still in use, and has resulted in the existence of at least 34 
+data centres and 177 server rooms across the Secretariat. In terms of distribution, 18 
+data centres and 63 server rooms are deployed at Headquarters, offices away from 
+Headquarters and regional commissions and 16 data centres and 114 server rooms 
+are deployed in field missions. 
+
+114. Over the past 10 years, there has been significant progress in facilitating 
+interconnectivity among all duty stations through the new generation of 
+communication technologies. Data centres, however, continue to operate in 
+isolation, focusing primarily on supporting local needs. This modus operandi is 
+
+
+
+ A/66/94
+ 
+
+43 11-41011 
+ 
+
+prevalent throughout the Organization, in large and small duty stations, including in 
+the field. 
+
+115. Resources are dedicated not only to maintaining these duty station-exclusive 
+data centres but also to providing separate disaster recovery facilities to back up the 
+centres’ information and systems. With the exception of the Department of Field 
+Support, which provides disaster recovery facilities at UNLB for all its field 
+missions, all other duty stations are individually responsible for their own back-up 
+infrastructure. Duty stations that do not have the resources for an adequate disaster 
+recovery facility simply have none or rely on other duty stations to handle this 
+function in an ad hoc fashion, placing the Organization at risk.  
+
+116. The adoption of an enterprise approach and a shared-services model to support 
+all Secretariat duty stations will lead to savings through economies of scale, 
+gradually reduce the scope of local data centre facilities and provide disaster 
+recovery services to duty stations according to their needs, thereby creating a 
+resilient ICT infrastructure.  
+
+117. Duty stations have also taken a similarly decentralized approach to developing, 
+implementing and maintaining local software applications. This individual focus 
+ultimately comes at a greater cost to the Organization at large, as it requires more 
+personnel, servers, storage and back-up (resilience) than would otherwise be 
+necessary.  
+
+118. The rationale for continued decentralization is no longer valid. Enterprise 
+systems, based on commercially available software, can address most of the needs 
+of duty stations. Only in exceptional cases, in other words when highly specialized 
+software applications are the only solution possible, should a duty station embark on 
+developing infrastructure for a local purpose. 
+
+119. Pursuant to General Assembly resolution 63/269, the Secretariat’s strategy is 
+to shift towards the enterprise management of ICT infrastructure. In order to fulfil 
+the request of the Assembly, the ICT strategy (see A/65/491) involved the transition 
+towards a model consisting of only two enterprise data centres to host enterprise 
+systems. Local data centres will continue to exist but their scope will decrease 
+significantly as they focus only on systems that, by their nature, cannot be hosted in 
+enterprise data centres. 
+
+120. This vision will be achieved by giving the Organization’s data centres a leaner 
+and more resilient structure, at two main locations: the enterprise data centre at 
+UNLB and the secondary data centre in Valencia, Spain.  
+ 
+
+  Objectives  
+ 
+
+121. The Office of Information and Communications Technology has reformulated 
+the “Streamline data centres” and “Unified disaster recovery plan and business 
+continuity approach” projects into an integrated initiative called “Create a resilient 
+ICT infrastructure”. In doing so, it has aligned the streamlining of data centres with 
+ICT resilience to more effectively leverage the work that has been completed since 
+the previous reports. In addition, requests for additional funding for future phases of 
+the initiative will be submitted as part of the appropriate budget cycles of the United 
+Nations Secretariat. For some tasks, the scope has been narrowed to Headquarters, 
+offices away from Headquarters and regional commissions owing to the progress 
+that the Department of Field Support has already made in creating the enterprise 
+
+
+
+A/66/94  
+ 
+
+11-41011 44 
+ 
+
+data centres. Such focus will enable the Office to make significant progress with 
+regard to the reformulated approach by pursuing the following key objectives: 
+
+ (a) To implement two enterprise data centres, one at UNLB and one at the 
+secondary data centre at Valencia; 
+
+ (b) To host all enterprise applications (Umoja, e-mail, Inspira, iNeed and the 
+enterprise identity management system) centrally, in enterprise data centres, thereby 
+consolidating the infrastructure and support resources for the applications; 
+
+ (c) To provide enterprise and local data centre monitoring and support 24 
+hours a day, 7 days a week from the enterprise data centres while achieving cost 
+reductions through economies of scale; 
+
+ (d) To continue to host unique, site-specific applications in local data 
+centres; 
+
+ (e) To maintain an integrated master project plan that includes progress 
+reports to ensure transparency with regard to the initiative’s status to all 
+stakeholders. Advice and direction from existing substantive and ICT governance 
+bodies will be sought throughout. 
+ 
+
+ 
+
+ Box 6 
+ Illustrative example: “Create a resilient ICT infrastructure” initiative 
+
+ 
+
+ Current problem 
+ 
+
+ Civil unrest is threatening the lives of United Nations staff 
+stationed in a war-torn region. For their own safety, most of the staff 
+have had to leave the local United Nations office and, in some cases, the 
+region. The mission security team is trying to locate all staff to ensure 
+their safety and administrative staff are scrambling to save data and set 
+up operations elsewhere to quickly aid the citizens and provide 
+information to the world about the crisis. It takes days to locate all 
+personnel and, unfortunately, there is a risk that most if not all the critical 
+data might be lost. It takes weeks to find a new location and set up 
+operations again, severely jeopardizing personnel and rendering it 
+impossible to report on the status of the crisis. 
+
+  
+ Expected improvements 
+
+ 
+
+ By strengthening the resilience of the ICT infrastructure 
+environment, text messages can be sent to all United Nations staff shortly 
+after the crisis starts, providing them with information on where to 
+assemble. Messages from staff are received and all staff are accounted 
+for within several hours. At the predesignated evacuation site, staff are 
+able to access their systems and quickly begin the critical work of swiftly 
+reporting on the status of the crisis to Headquarters. 
+
+ 
+ 
+ 
+
+
+
+ A/66/94
+ 
+
+45 11-41011 
+ 
+
+  Organizational impact  
+ 
+
+122. The “Create a resilient ICT infrastructure” initiative will enhance ICT and 
+substantive performance by enabling secure and reliable access to data and systems 
+throughout the Secretariat, while improving productivity and agility at significantly 
+reduced costs. The streamlined infrastructure based on the enterprise data centres 
+concept would greatly improve the Organization’s resilience in times of crisis and 
+provide a key platform to host enterprise applications in the most efficient way.  
+
+123. Streamlining the Secretariat’s computing infrastructure will not only increase 
+operational efficiency; more importantly, it will provide significant benefits to 
+departments and offices by providing quicker, easier implementation of new 
+enterprise systems and technologies on a common, reliable platform. 
+ 
+
+  Qualitative benefits  
+ 
+
+124. The “Create a resilient ICT infrastructure” initiative will provide the following 
+qualitative benefits to the Organization: 
+
+ (a) Consistent enterprise server and storage management. Standardizing 
+the Organization’s infrastructure will increase data centre performance and 
+availability by streamlining support processes and procedures, cross-training 
+technicians and increasing the use of systems contracts for capital purchases and 
+maintenance across multiple duty stations. This will enhance the Organization’s 
+productivity by minimizing the downtime associated with outages; 
+
+ (b) Increased service delivery. Reducing the resources used for routine data 
+centre operational tasks and reassigning them to higher-value ICT functions will 
+provide greater support for meeting the overall needs of the Organization; 
+
+ (c) Correct operational deficiencies and fewer risks. Augmenting disaster 
+recovery capabilities and business resilience through enhanced world-class facilities 
+will mitigate risks and properly prepare the ICT infrastructure for all future 
+initiatives. It will also ensure that the Organization can continue operating during 
+and after crises; 
+
+ (d) Promotion of the sustainable use of ICT by reducing the overall 
+carbon footprint. Using fewer physical servers results in less power being 
+consumed. 
+ 
+
+  Quantitative benefits  
+ 
+
+125. Currently, the Organization spends approximately $104 million on data centres 
+annually, including staff ($54.2 million) and equipment ($49.6 million) costs. In 
+addition, approximately 552 full-time equivalent personnel are involved. At 
+Headquarters, offices away from Headquarters and regional commissions (excluding 
+missions), there is an annual cost of $42.2 million, and 248 full-time equivalent 
+personnel are involved. After full implementation of the initiative, the overall 
+estimated savings would be between $17.9 million and $26.9 million on an annual 
+basis. Some savings will be achieved as initiatives progress and it is expected that 
+the full savings will be realized one year after full implementation (see annex IV). 
+
+126. The above figures do not include the savings that will be achieved at field 
+missions, which will be reported by the Department of Field Support. Consequently, 
+the benefits set out in subparagraphs (a) to (c) below pertain only to Headquarters, 
+offices away from Headquarters and the regional commissions. Furthermore, the 
+figures do not include the estimated gains from avoiding losses to the Organization 
+
+
+
+A/66/94  
+ 
+
+11-41011 46 
+ 
+
+related to data and/or business continuity costs incurred by substantive units that are 
+impaired by crises. It is expected that the following savings will result from the 
+specific functional improvements proposed under this initiative: 
+
+ (a) E-mail archives. The introduction of software to provide one source for 
+all e-mail archives at UNLB will result in less equipment and labour in all duty 
+stations. It is estimated that this will yield savings of between $1.3 million and 
+$2 million annually; 
+
+ (b) Storage optimization. There are many duplicate files in the terabytes of 
+stored documents that the Secretariat produces in the course of its activities. 
+Removing duplicates is a critical step that should be taken before backing up data 
+for resilience purposes. It is estimated that this will result in savings of between 
+$1.3 million and $2 million annually; 
+
+ (c) Configuration of enterprise data centres. The establishment of the 
+centres will provide one location for enterprise applications for all duty stations. 
+Savings related to local labour and equipment are estimated at between $4.9 million 
+and $7.4 million (between $2.8 million and $4.2 million per enterprise application). 
+It should be noted that, for the purpose of estimating the benefits presented in the 
+present report, only one application (iNeed) was taken into consideration. Greater 
+savings will clearly be realized as additional applications are consolidated for 
+enterprise use. It should also be noted that the backing up of local copies of IMIS 
+data is included in this benefit estimate; 
+
+ (d) Enterprise server and storage tools. A reduced set of server and storage 
+management and monitoring tools will decrease server and storage labour costs 
+owing to reduced complexity and improved operational efficiency. The overall 
+estimated annual savings would be between $5 million and $7.5 million. 
+Collaboration between the Office of Information and Communications Technology 
+and the Department of Field Support is required in order to ensure that enterprise 
+server and storage management tools will be available for all environments; 
+
+ (e) Local server room migration. After the enterprise data centres and the 
+local data centres are established in 2012-2013, server rooms in each location will 
+be migrated to the centres using a phased approach that will result in increased 
+business continuity and savings of between $5.4 million and $8 million annually. It 
+is expected that these benefits may not be fully realized until 2016-2017. 
+ 
+
+  Table 7 
+Estimated annually recurring benefits, by category, for the “Create a resilient 
+ICT infrastructure” initiative 
+(Millions of United States dollars) 
+
+Functionality Low end of estimate High end of estimate 
+
+E-mail archives  1.3  2.0 
+
+Storage optimization  1.3  2.0 
+
+Configuration of enterprise data centres  4.9 7.4 
+
+Enterprise server and storage tools  5.0  7.5 
+
+Local server room migration  5.4  8.0 
+
+ Total  17.9  26.9 
+ 
+ 
+
+
+
+ A/66/94
+ 
+
+47 11-41011 
+ 
+
+  Implementation plan  
+ 
+
+  Approach 
+ 
+
+127. One of the significant revisions to the project approach outlined in the report 
+of the Secretary-General (A/65/491) is the alignment of internal initiatives to reduce 
+the costs of implementation. A key element of the revised strategy is to leverage the 
+significant investment in enterprise data centres at UNLB and Valencia to provide a 
+resilient platform for the deployment of enterprise applications. It is important to 
+note the distinction between the “Streamline data centres” initiative and the “Create 
+a resilient ICT infrastructure” initiative (formerly known as the “Unified disaster 
+recovery plan and business continuity approach”). The former will seek to 
+harmonize all data centre locations to reduce local server rooms and provide an 
+enterprise approach to server and storage management, while the latter will leverage 
+the streamlined environment to provide an immediate back-up and business 
+continuity configuration for the entire Secretariat. The two are related in that 
+minimizing the costs of the resilience initiative requires reducing the locations, 
+servers and storage. Essentially, it is more difficult to provide and maintain disaster 
+recovery capabilities for a large number of sites with varied, diverse configurations. 
+Network upgrades and coordination efforts are ongoing at all duty stations to 
+prepare for this initiative. The Office of Information and Communications 
+Technology and the Department of Field Support collaborated to formulate this 
+approach to make the infrastructure ready for the global field support strategy and 
+Umoja. Key elements of the implementation approach are: 
+
+ (a) Establishment of the enterprise data centre at UNLB and a mirror 
+resilience site in Valencia. Both facilities are the core elements in the overall 
+strategy towards Secretariat-wide access to all enterprise applications. Significant 
+work and planning is being carried out with the Department of Field Support to 
+align the needs of the field with those of the rest of the Secretariat; 
+
+ (b) Conformity of all applications to the architecture, policies and 
+procedures of the enterprise and local data centres. The initiative will establish 
+policies and procedures for hosting all enterprise applications. A timeline for 
+planning and deployment will be formulated taking into account Umoja, Inspira and 
+other enterprise applications. In collaboration with departmental stakeholders, local 
+applications will be identified and tracked to enable future consolidation, thus 
+reducing the associated infrastructure requirements; 
+
+ (c) Standardization of the server and storage environment, including with 
+regard to monitoring and management processes and tools for both the enterprise 
+and local data centres. This will facilitate better resilience and mobility for staff 
+since the skills needed to run the data centres are transferable. Additional key tasks 
+are:  
+
+ (i) Virtualization to reduce the number of server room servers, where 
+feasible, before the consolidation of local server rooms into one local data 
+centre per site; identification of a potential corresponding resilience site; 
+
+ (ii) Reduction of the existing storage space through automated means before 
+implementing resilience measures; 
+
+
+
+A/66/94  
+ 
+
+11-41011 48 
+ 
+
+ (iii) Implementation, across all locations, of a multi-tiered storage strategy 
+based on an agreed upon time frame, to systematically store information less 
+expensively; 
+
+ (iv) Management of small locations remotely by pursuing an automated 
+approach wherever feasible; 
+
+ (d) Alignment of deliverables based on lessons learned from previous 
+implementation steps and by the funding needs of stakeholders;  
+
+ (e) Utilization of iNeed at all locations for infrastructure work order and 
+requests for service transactions. All hosting and storage requests will be managed 
+through the appropriate enterprise ICT service desk personnel and routed to the 
+appropriate service entity. 
+
+128. Local data centres will have to continue to provide support for unique local 
+applications, including building management systems, perimeter security and 
+surveillance systems, cashier support systems, local e-mail and related applications 
+in locations where the network is slow, local shared drives, directory systems, local 
+Intranet and collaboration tools, local communications telephone billing systems, 
+network infrastructure to connect to other offices, connection to the Internet and 
+buildings, and radio and television production systems.  
+
+129. Towards the end of 2011, the Office of Information and Communications 
+Technology will lead the process of collaborating with the ICT Management 
+Coordination Group to analyse, select and implement a standardized server and 
+storage management toolset for the Secretariat that will be deployed across all duty 
+stations (through enterprise and local data centres). This approach will greatly 
+enhance organizational resilience throughout the Organization. In the event of a 
+catastrophe, the enterprise data centre will act as the crisis mitigation site and 
+provide quick recovery to ongoing substantive operations.  
+
+130. As with the approach taken for the “Enterprise ICT service desks” initiative, 
+the “Create a resilient ICT infrastructure” initiative was developed on the basis of 
+feedback from Member States and key internal stakeholders. The Office of 
+Information and Communications Technology has aligned existing and planned 
+initiatives to leverage internal capacities fully. Consequently, the original proposed 
+cost of the “Streamlining data centres” initiative has been significantly reduced. In 
+addition, the Office has increased the Secretariat’s ICT resilience capabilities by 
+incorporating critical aspects of the “Unified disaster recovery plan and business 
+continuity approach”, including virtualization, storage reduction, e-mail archiving 
+and resilience for IMIS. 
+
+
+
+ A/66/94
+ 
+
+49 11-41011 
+ 
+
+  Figure VII  
+Visual representation of the “Create a resilient ICT infrastructure” initiative 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+  Progress to date: “Streamline data centres” 
+ 
+
+131. Despite limited resources, progress has been made in aligning key internal 
+infrastructure projects to provide critical capabilities that have reduced the estimated 
+costs related to the “Streamline data centres” initiative. Capital programmes such as 
+the capital master plan at Headquarters, which has continued to make improvements 
+to UNLB, and the progress achieved in the construction of the secondary data centre 
+in Valencia have all been factored into the revised estimate. In addition, modest 
+investments in network upgrades are expected in early 2012 to enable high-speed, 
+multiple path connections across major duty stations; it is also expected that the 
+enterprise data centres will invest in a wide area network replacement technology 
+(Multiprotocol Label Switching). This progress and planned investment is critical to 
+improving quality and reducing requirements for the “Streamlining data centres” 
+initiative, including its resilience. However, because capital investments and 
+budgets have been consistently reduced over the last few bienniums, the age and 
+capabilities of the current data centre equipment are reaching a critical stage, which 
+has heightened the need for immediate action to ensure continued operation. These 
+factors were taken into account in the revised approach presented in the present 
+report. The proposed investment for 2012-2013, together with the server and storage 
+management tools described below, will prepare the environment for the deployment 
+of Umoja and other enterprise applications. 
+ 
+
+  Progress to date: “Increase ICT resilience” 
+ 
+
+132. The alignment of internal infrastructure initiatives to better leverage internal 
+capacities to the fullest extent has significantly lowered the proposed cost of the 
+“Increase ICT resilience” initiative (formerly the “Unified disaster recovery plan 
+and business continuity approach”). This reduction is due to the approval of the 
+mirror site in Valencia, a world class facility, as a key resilience capability for 
+UNLB. The site in Valencia will be in operation shortly and at a much lower cost to 
+the Secretariat than commercially leased space. The pairing with the “Streamline 
+data centres” initiative was natural as the two initiatives are complementary. In close 
+conjunction with the Department of Field Support and other duty stations, the Office 
+
+United Nations 
+secure networkUnited Nations Logistics Base at 
+
+Brindisi, Italy 
+
+Secondary data 
+centre in Valencia, 
+
+Spain 
+
+  
+
+Field mission   
+
+Local office  
+Local data centre  
+
+Enterprise and local data centre architecture   
+
+Enterprise 
+data centres  
+
+Local office  
+
+Subregional    
+office
+
+Local data centre 
+
+Local data centre 
+  
+
+Local data centre 
+  
+
+United Nations 
+Logistics Base at 
+Brindisi, Italy 
+
+Secondary data 
+centre in Valencia, 
+Spain 
+
+UN 
+secure 
+
+network
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 50 
+ 
+
+of Information and Communications Technology has adjusted the initiative to 
+provide full resilience across the Secretariat using the enterprise data centres. This 
+will greatly reduce implementation costs while enabling a faster, planned and 
+consistent response to any crisis affecting the Organization.  
+ 
+
+  Schedule  
+ 
+
+133. The timeline for the entire “Create a resilient ICT infrastructure” initiative is 
+shown in figure VIII below. It is important to note, however, that only tasks to be 
+carried out in 2012-2013 are being proposed at this time.  
+ 
+
+  Figure VIII  
+Schedule of the “Create a resilient ICT infrastructure” initiative  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+134. The “Create a resilient ICT infrastructure” initiative will be implemented 
+through the following key activities (see figure VIII): 
+
+ (a) Implement tools to reduce storage growth and archive e-mails. 
+Activities include: implementing enterprise e-mail archival and storage optimization 
+(“de-duplication”) technologies to reduce storage and enhance resilience capabilities 
+across the Secretariat; 
+
+ (b) Prepare UNLB to host enterprise applications, create local resilience. 
+The creation of an enterprise data centre will provide an effective and efficient 
+platform to deploy enterprise applications like iNeed, Umoja and Inspira; 
+
+ (c) Prepare the secondary data centre in Valencia, Spain, to act as a 
+mirror site for UNLB. Once enterprise applications and ICT resilience have been 
+established, it will be critical to have a mirror site to ensure the availability of data 
+and resilience for UNLB; 
+
+ (d) Implement enterprise server and storage management tools. This will 
+increase efficiency while facilitating staff mobility and organizational resilience; 
+
+ (e) Migrate local server rooms to enterprise or local data centres. While 
+a local data centre presence will still be required for unique local applications, a 
+smaller footprint will be required once functions have been migrated to the 
+
+(a)  Implement tools to reduce storage growth and archive e-mails
+
+ 
+
+(b) Prepare UNLB to host enterprise applications, create local 
+resilience 
+
+ 
+(c)  Prepare the data centre in Valencia, Spain, to act as a mirror 
+
+site for UNLB 
+
+ 
+(d)  Implement enterprise server and storage management tools 
+
+ 
+
+(e)  Migrate local server rooms to enterprise or local data centres 
+
+ 
+
+(f)  Harmonize resilience across all data centres 
+
+2012 2013 2014 2015
+
+ 
+
+ 
+
+ 
+
+Key activities 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ A/66/94
+ 
+
+51 11-41011 
+ 
+
+enterprise resource centre and by leveraging the tools previously specified have 
+been leveraged; 
+
+ (f) Harmonize resilience across all data centres. Upon completion of a 
+fully functional design for ICT resilience, additional harmonization of computing 
+resources across locations and further application consolidation will provide 
+additional benefits to the Secretariat by using the same model for selected common 
+applications. This will require extensive departmental involvement and coordination 
+and approval by the ICT governance bodies. 
+ 
+
+  Resource requirements  
+ 
+
+  Table 8 
+Total resource requirements for implementation of the “Create a resilient ICT 
+infrastructure” initiative 
+(Thousands of United States dollars) 
+
+Object of expenditure 2012-2013 
+
+Other staff costs 511.2 
+
+Contractual services 4 369.5 
+
+Furniture and equipment 4 947.2 
+
+ Total 9 827.9 
+ 
+ 
+
+  Resource requirements for the biennium 2012-2013 
+ 
+
+135. The activities that need to carried out for the “Create a resilient ICT 
+infrastructure” initiative are to be executed as an integrated programme of work, 
+which is why all the estimates shown in this section are consolidated. 
+ 
+
+  Other staff costs  
+ 
+
+136. The amount of $511,200 would cover the engagement of general temporary 
+assistance equivalent to one post at the P-5 level to lead efforts to operationalize the 
+enterprise data centres at UNLB and Valencia and IMIS disaster recovery initiatives.  
+ 
+
+  Contractual services  
+ 
+
+137. The amount of $4,369,500 would cover the activities of e-mail archiving, 
+storage reduction, server and storage management tools and creating the enterprise 
+data centre in 2012-2013, as follows: 
+
+ (a) An amount of $2,230,200 would cover the costs of software to license 
+server and storage management tools. This software will be acquired incrementally 
+as the functionality is deployed to various locations and staff members; 
+
+ (b) An amount of $2,139,300 would cover the engagement of contractual 
+services for project management and functional work such as technical process 
+re-engineering, technical requirements gathering, integration development, 
+application integration, server and storage process automation, and data migration 
+activities, as well as ongoing server and storage delivery and assistance to the user 
+community. 
+ 
+
+
+
+A/66/94  
+ 
+
+11-41011 52 
+ 
+
+  Furniture and equipment  
+ 
+
+138. The amount of $4,947,200 would cover the cost of furniture and equipment, 
+particularly the infrastructure equipment necessary for the e-mail archival project, 
+de-duplication and the set-up of the enterprise servers and storage tools. 
+ 
+
+  Biennium 2014-2015 and beyond  
+ 
+
+139. A preliminary cost forecast for the project has been estimated as accurately as 
+possible at between $11.6 million and $17.4 million, including the cost of extending 
+the activities started in 2012-2013, supporting migration teams, travel and change 
+management investments to ensure successful local server room migration and a 
+smooth transition to the platform at the enterprise and local data centres by 
+departments and offices. However, the forecast will be updated in subsequent 
+progress reports and requirements will be dealt with in accordance with established 
+budgetary procedures as further details become available. 
+ 
+ 
+
+ E.  Risk management  
+ 
+ 
+
+  Risk mitigation approach  
+ 
+
+140. Risk assessment and management are vital steps in ensuring that proper risk 
+identification, analysis and mitigation actions are taken into consideration, 
+particularly in view of the importance and scope of the four ICT initiatives set out in 
+the present report. The Secretariat has made considerable efforts to ensure that risks 
+associated with these initiatives have been appropriately considered. 
+
+141. Each initiative has been thoroughly reviewed through the ICT governance 
+framework and has complied with a best practice business case and risk mitigation 
+methodology that ensures that risks are identified, scored and assessed from a cost-
+benefit, project delivery and organizational impact perspective. 
+
+142. Based on a review of the initiatives, the identified risks related to opportunity 
+costs and implementation challenges are presented below. 
+ 
+
+  Opportunity costs  
+ 
+
+143. If the initiatives are not implemented or if only minimal investment is made, 
+ICT costs will continue to rise, potentially outstripping the ability of ICT staff to 
+provide basic services throughout the Secretariat and vital solutions in areas of high 
+demand such as knowledge management. The fragmentation of management 
+practices and technologies will continue, resulting in difficulties for the 
+Organization in effectively carrying out its mandates and substantive activities.  
+
+144. As enterprise systems replace local systems, the potential savings will become 
+more significant. Not investing in systems and infrastructure will cause the costs of 
+local application deployment and related support services to continue to rise. 
+
+145. At present, the Organization wastes valuable time and resources in 
+“reinventing the wheel” or failing to access the highest quality expertise available. 
+As a result, invention and/or innovation are hindered and the resulting downtime in 
+affected services continues to compromise staff effectiveness and the delivery of 
+outputs. 
+ 
+
+
+
+ A/66/94
+ 
+
+53 11-41011 
+ 
+
+  Implementation challenges  
+ 
+
+146. In the absence of strong senior management buy-in and commitment, the 
+Organization’s ICT capabilities and resources will continue to be carried out in vast 
+silos at a significant cost. Therefore, leadership by high-level managers is critical 
+for the successful governance and implementation of all initiatives. 
+
+147. The Organization needs to leverage past experiences and reapply them in 
+similar situations, thereby enabling continuous improvement. As such, progress on 
+all of the initiatives will be reported in a timely manner, using a performance-based 
+framework jointly determined by the Office of Information and Communications 
+Technology and the ICT governance bodies. As the initiatives are implemented, they 
+will elicit feedback and direction from the governance bodies and make meaningful 
+adjustments based on their direction and financial requirements. Lessons learned 
+will be documented for future use. 
+
+148. A poorly implemented change management and communications strategy 
+could compromise the acceptance by end-users, departments and offices of these 
+major changes in the mode of operation. Proper change management efforts, 
+including communication campaigns, readiness assessments, stakeholder 
+management and training for roles, processes and tools that are crucial for the 
+success of all initiatives, will be implemented.  
+
+149. Staff responsible for initiative-related functions need to be properly trained to 
+provide services related to business and ICT functionality. In addition, if new 
+functions are not thoroughly tested to ensure expected utility, users may not fully 
+adopt the new functions. All plans related to the implementation of the initiatives 
+call for adequate user acceptance testing and the cross-training of local staff. 
+ 
+ 
+
+ III.  Summary of resource requirements and actions to be taken 
+by the General Assembly  
+ 
+ 
+
+ A.  Summary of resource requirements  
+ 
+ 
+
+150. As detailed in table 9 below, it is estimated that a total of $42,822,500 (at 
+current rates) will be required in the biennium 2012-2013 for the implementation of 
+the four enterprise ICT initiatives.  
+ 
+
+  Table 9  
+Summary of net resource requirements, by initiative 
+(Thousands of United States dollars) 
+
+Initiative 2012-2013a 
+
+Improve enterprise ICT management 8 353.9 
+
+Leverage knowledge through ICT 11 488.8 
+
+Enhance ICT service delivery 13 151.9 
+
+Create a resilient ICT infrastructure 9 827.9 
+
+ Total 42 822.5 
+ 
+ a Preliminary estimates for 2014-2015 include the following: an additional $1 million-
+
+$2 million (excluding the continuing costs of posts and related common support costs of 
+
+
+
+A/66/94  
+ 
+
+11-41011 54 
+ 
+
+$7 million), for the “Improve enterprise ICT management” initiative; an estimated 
+$8 million-$12 million for the “Leverage knowledge through ICT” initiative; an estimated 
+$14.9 million-$22.3 million for the “Enhance ICT service delivery” initiative; and an 
+estimated $11.6 million-$17.4 million for the “Create a resilient ICT infrastructure” 
+initiative. 
+
+ 
+ 
+
+151. It is proposed that the total resource requirements, as shown in tables 9 and 10, 
+be financed from among the regular budget, the support account for peacekeeping 
+operations and extrabudgetary resources, in the following percentages: 15 per cent 
+from the regular budget, 62 per cent from the support account for peacekeeping 
+operations and 23 per cent from the special accounts for programme support costs 
+(to which overhead income generated by expenditures relating to technical 
+cooperation and general trust funds, as well as reimbursement for administrative 
+support provided by the Organization to extrabudgetary entities such as the United 
+Nations Development Programme and the United Nations Children’s Fund, are 
+credited) (see A/65/491, para. 243). Each source of financing (regular budget, 
+peacekeeping support account, extrabudgetary) will make a contribution calculated 
+on the basis of the established share of the overall resource requirements. 
+ 
+
+  Table 10 
+Summary of net resource requirements, by source of funds (full project cost at 
+current rates) 
+(Thousands of United States dollars) 
+
+Initiative Regular budget 
+Peacekeeping 
+
+support account Extrabudgetary Total
+
+Improve enterprise ICT management 1 253.1 5 179.4 1 921.4 8 353.9
+
+Leverage knowledge through ICT 1 723.3 7 123.1 2 642.4 11 488.8
+
+Enhance ICT service delivery 1 972.8 8 154.2 3 024.9 13 151.9
+
+Create resilient ICT infrastructure 1 474.2 6 093.3 2 260.4 9 827.9
+
+ Total 6 423.4 26 550.0 9 849.1 42 822.5
+ 
+ 
+
+  Table 11 
+Summary of net resource requirements by source of funds 
+(Thousands of United States dollars) 
+
+Source of funds 2012-2013 
+
+Regular budget 6 423.4 
+
+Peacekeeping support account 26 550.0 
+
+Extrabudgetary 9 849.1 
+
+ Total 42 822.5 
+ 
+ 
+
+
+
+ A/66/94
+ 
+
+55 11-41011 
+ 
+
+  Table 12 
+Total resource requirements for the implementation of ICT structural  
+review projects  
+(Thousands of United States dollars) 
+
+Object of expenditure 2012-2013 
+
+Posts 2 883.6 
+
+Other staff costs 1 857.8 
+
+Travel of staff 511.0 
+
+Contractual services 26 028.2 
+
+General operating expenses 4 476.6 
+
+Supplies and materials 1 166.1 
+
+Furniture and equipment 5 899.2 
+
+ Total 42 822.5 
+ 
+ 
+ 
+
+ B.  Actions to be taken by the General Assembly  
+ 
+ 
+
+152. The transformational ICT initiatives presented herein will result in 
+significant effectiveness and efficiency improvements in the Organization and 
+continue the transition towards an Organization-wide coherent approach to 
+ICT that is consistent with the expectations of Member States. The reliance on 
+enterprise solutions and optimal use of ICT resources will provide significant 
+benefits to the Secretariat in meeting its mission and programme goals. Such 
+improvement is unattainable if the current situation is maintained. 
+
+153. The General Assembly is requested: 
+
+ (a) To endorse the four initiatives (“Improve ICT enterprise 
+management”, “Leverage knowledge through ICT”, “Enhance ICT service 
+delivery” and “Create resilient ICT infrastructure”); 
+
+ (b) To note that, should the establishment of 14 posts for the biennium 
+2012-2013 be approved, the cost of the delayed impact is estimated at 
+$2,325,600; 
+
+ (c) To note also the proposal for the total resource requirements for the 
+biennium 2012-2013, which are estimated at $42,822,500, to be distributed as 
+follows: 
+
+ (i) Regular budget: an amount of $5,639,100, under section 30, Office of 
+Information and Communications Technology, and an amount of 
+$784,300, under section 29D, Office of Central Support Services, of the 
+proposed programme budget for the biennium 2012-2013; 
+
+ (ii) Support account for peacekeeping operations: 
+
+  a. An amount of $6,637,500, to be financed as an additional 
+appropriation from the support account for peacekeeping operations for 
+the period from 1 July 2011 to 30 June 2012, to meet the requirements 
+related to all four initiatives for the biennium 2012-2013, as described in 
+the present report; 
+
+
+
+A/66/94  
+ 
+
+11-41011 56 
+ 
+
+  b. Future remaining requirements in an estimated amount of 
+$13,275,000 would be considered in subsequent support account for 
+peacekeeping operations requirements for the financial period from 1 July 
+2012 to 30 June 2013; 
+
+  c. Future remaining requirements in an estimated amount of 
+$6,637,500 will be included in subsequent support account for 
+peacekeeping operations requirements for the financial period from 1 July 
+2013 to 30 June 2014; 
+
+ (iii) Extrabudgetary resources: an estimated amount of $9,849,100 of the 
+overall cost of all projects for the biennium 2012-2013 would be financed 
+from extrabudgetary resources; 
+
+ (j) To approve the following additional appropriations: 
+
+ (i) An amount of $6,423,400, under the proposed programme budget for 
+the biennium 2012-2013, for section 30, Office of Information and 
+Communications Technology ($5,639,100), and section 29D, Office of 
+Central Support Services ($784,300); 
+
+ (ii) An amount of $6,637,500, under the support account for 
+peacekeeping operations for the period 1 July 2011 to 30 June 2012. 
+
+
+
+ A/66/94
+ 
+
+57 11-41011 
+ 
+
+Annex I 
+ 
+
+  Mandate of the Office of Information and Communications 
+Technology and resource levels  
+ 
+ 
+
+Mandate from approved ICT strategy (A/62/793) New/existing mandate Resources provided 
+
+Developing the ICT strategy for the Secretariat and 
+coordination of its implementation (para. 35 (a)) 
+
+New Limited 
+
+Reviewing budgets from all funding sources for all ICT 
+initiatives and operations of the Secretariat (para. 35 (b)) 
+
+New Limited 
+
+Monitoring, measuring and evaluating the performance of 
+ICT units against established goals, objectives and budgetary 
+targets, utilizing accountability frameworks as appropriate 
+(para. 35 (c)) 
+
+New Limited 
+
+Setting the technological direction and architecture for the 
+Organization (para. 35 (d)) 
+
+New Limited 
+
+Planning and developing all Organization-wide ICT 
+applications, including, inter alia, an enterprise resource 
+planning system and other major systems (para. 35 (e)) 
+
+Existing Limited  
+(except for 
+Umoja) 
+
+Planning and developing the overall infrastructure 
+architecture encompassing the communications networks 
+and data centres of the Organization (para. 35 (f)) 
+
+Existing Limited 
+
+Using the Organization’s global presence and ICT 
+infrastructure to develop and operate Secretariat-wide 
+applications and infrastructure in order to maximize benefits 
+and cost-effectiveness (para. 35 (g)) 
+
+Existing Limited 
+
+Undertaking, in collaboration with other ICT units, ICT 
+research and development activities (para. 35 (h)) 
+
+New Limited 
+
+Overseeing the assessment and management of ICT risks for 
+the Organization (para. 35 (i)) 
+
+New Limited 
+
+Developing and maintaining the information security policy 
+of the Organization and monitoring compliance across 
+operational units (para. 35 (j)) 
+
+Existing Limited 
+
+Managing the implementation of disaster recovery and 
+business continuity plans for the Organization (para. 35 (k)) 
+
+Existing Limited 
+
+Coordinating ICT human resources management programme 
+and activities, including staff development and mobility of 
+all ICT staff in the global Secretariat (para. 35 (l)) 
+
+New None 
+
+Providing business consulting and project management 
+methodologies and services to all ICT units (para. 35 (m)) 
+
+New Limited 
+
+
+
+A/66/94  
+ 
+
+11-41011 58 
+ 
+
+Mandate from approved ICT strategy (A/62/793) New/existing mandate Resources provided 
+
+Monitoring, measuring and evaluating the performance and 
+strategic alignment of all projects and investment initiatives 
+in the ICT project portfolio of the global Secretariat  
+(para. 35 (n)) 
+
+New None 
+
+Establishing ICT vendor management policies; reviewing 
+and monitoring purchasing and contract renewal activities 
+(para. 35 (o)) 
+
+New None 
+
+Implementing quality assurance processes to ensure that all 
+policies, processes and standards are in compliance  
+(para. 35 (p)) 
+
+New Limited 
+
+Establishing a client services function (para. 42) New Limited 
+
+Perform the Executive Office function of the Office of 
+Information and Communications Technology 
+
+New Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ A/66/94
+ 
+
+59 11-41011 
+ 
+
+Annex II 
+ 
+
+  Proposed structure of the Office of Information and 
+Communications Technology for the biennium 2012-2013* 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Abbreviations: ASG, Assistant Secretary-General; RB, regular budget; JF, jointly financed (regular budget, support account, 
+extrabudgetary); GS, General Service; OL, Other level; PL, Principal level; XB, extrabudgetary; TC, Trades and Crafts;  
+SA, special account. 
+
+ a New posts. 
+ b Redeployments. 
+
+ 
+
+ 
+ 
+
+ * For the current structure of the Office of Information and Communications Technology, see 
+A/64/6 (Sect. 29). 
+
+/CITO
+
+
+
+A/66/94  
+ 
+
+11-41011 60 
+ 
+
+Annex III 
+ 
+
+  Conditions that need to be in place for the benefits to 
+be realized 
+ 
+ 
+
+1. It should be noted that all figures presented in the initiative proposals are 
+estimates. The benefits are based on assumption that they may change several years 
+from the time of writing. In addition, the benefits are calculated on the basis of 
+existing data sources that are not always complete or fully reliable, in part because 
+the Secretariat does not have the standards, tools and level of automation to provide 
+accurate operational information on information and communications technology 
+(ICT) on a global basis. The potential benefits shown here should not be seen as 
+immediate savings and should not be considered in the formulation of future 
+budgets. Any reduction should only be contemplated after the new processes and 
+structures have been deployed for at least one year and once they have stabilized, 
+and following the subsequent analysis and confirmation of benefits. The figure 
+below shows the project phases and the benefits gained from the enterprise ICT 
+initiatives. 
+ 
+
+  Figure  
+Project phases and benefits gained from the enterprise ICT initiatives 
+ 
+
+ 
+ 
+
+2. The achievement of the benefits presented herein is based on several important 
+conditions, including the full funding of the implementation proposals, the 
+continued involvement and support of all stakeholders and the continuation of a 
+strong ICT governance structure within the Secretariat. 
+
+3. Individual departments cannot be permitted to opt out of these enterprise 
+initiatives. The benefits outlined in these proposals will be significantly weakened if 
+exceptions are granted since economies of scale will be lost, standards will be 
+undermined and levels of complexity will remain in the global ICT environment.  
+
+4. The classification authority for ICT jobs needs to be controlled centrally by the 
+Office of Human Resources Management in collaboration with the Office of 
+Information and Communications Technology in order to prevent individual 
+departments from establishing separate ICT job classification systems.  
+
+5. Staff training and mentoring programmes need to be developed in 
+collaboration with the Office of Human Resources Management to facilitate 
+effective staff redeployments and migration to the new global staffing model. 
+
+ 
+
+ImplementationPlanningand Design Stabilization
+Full
+
+Operation
+
+Benefits 
+Realization
+
+1 year
+
+Project 
+Phases:
+
+
+
+ A/66/94
+ 
+
+61 11-41011 
+ 
+
+Annex IV 
+ 
+
+  Quantitative benefit analyses 
+ 
+ 
+
+ I. Leverage knowledge through information and 
+communications technology 
+ 
+ 
+
+ 
+Estimate  
+
+(millions of United States dollars) 
+
+ Low end of range High end of range 
+
+Information-sharing 9.2 11.2 
+
+ Enhanced information-sharing across departments and 
+locationsa 3.0 3.7 
+
+ Staff performance improvementsb 4.2 5.1 
+
+ Increased productivity due to reduced time needed to find 
+informationc 1.6 1.9 
+
+ Decreased publishing turnaround time in all languagesd .18 .22 
+
+ Implemented and enforced workflows for content creation and 
+publishinge .12 .14 
+
+Virtual meetings 3.5 4.3 
+
+ Enhanced information-sharing and virtual meetings saving 
+travel time and shortening meetingsf 1.5 1.8 
+
+ Enhanced information sharing and virtual meetings, resulting 
+in a decrease in overseas travel expensesg .94 1.1 
+
+ Improved decision-makingh .88 1.0 
+
+ Better communication between offices away from 
+Headquarters and Headquartersi .16 .19 
+
+Content and technology optimization 4.7 5.7 
+
+ Cost avoidance by reducing disparate legacy systemsj .90 1.1 
+
+ Lower call centre costsk .18 .22 
+
+ Consolidated official United Nations public websites around 
+the world into a single sitel .32 .39 
+
+ Consolidated servers and applicationsm .18 .22 
+
+ Reduced need for external web developers and administratorsn .64 .78 
+
+ Efficient and standardized environment for all web-based 
+services. Easier implementation of branding, accessibility and 
+usability standardso .08 .09 
+
+ Faster creation of new websites and updating of existing ones. 
+Faster integration of content management and collaboration 
+information repositoriesp .48 .58 
+
+ Reduced labour requirements for the maintenance of websites. 
+Increased productivity because staff require less time to find 
+information and toolsq 1.6 1.9 
+
+
+
+A/66/94  
+ 
+
+11-41011 62 
+ 
+
+ 
+Estimate  
+
+(millions of United States dollars) 
+
+ Low end of range High end of range 
+
+Reduced printing 1.4 1.8 
+
+ Greener United Nations through reduced printing and 
+electronic document sharing and collaborationr .67 .82 
+
+ Cost avoidance by reducing physical storage spaces .81 .99 
+
+Content organization and access   
+
+ Enhanced information sharing across departments and 
+locationst 4.0 4.9 
+
+ Total 23 28 
+ 
+ 
+ 
+
+ II. Enhance ICT service delivery 
+ 
+ 
+
+ 
+Estimate savings  
+
+(millions of United States dollars)u 
+
+Enhance ICT service delivery Low end of range High end of range 
+
+Self-servicev 6.6 9.9 
+
+ “Request for service” will streamline and automate processes 
+for requesting ICT products and services 1.3 2.0 
+
+ “Password reset” will provide an online portal for resetting 
+network passwords 2.6 4.0 
+
+ “Knowledge base” will be used to collect information on 
+common problems and provide an online portal to search for 
+solutions 2.6 4.0 
+
+ICT asset managementw 10.3 15.4 
+
+ “Auto-discovery” will enable the collection of ICT hardware 
+and software information per workstation user  7.6 11.4 
+
+ “Performance management” will use business intelligence 
+tools to capture both operational and strategic metrics  2.7 4.0 
+
+Service desk automationx 1.4 2.0 
+
+ “Ticketing and agent scheduling” will make it possible to use 
+service desk agents more efficiently and to enter and track 
+tickets 0.7 1.0 
+
+ “Business intelligence” will track service desk and 
+workstation ticket performance (i.e., first call resolution, time 
+to resolve, etc.) 0.7 1.0 
+
+Workstation standardizationy 7.4 11.2 
+
+ “Base configuration” (operating system, e-mail, browser, 
+antivirus software, etc.) will provide a common core software 
+image for all workstations so that systems can be deployed 
+more quickly and images can be maintained more easily  3.7 5.6 
+
+ “Policy-based administration” will provide role-based rules to 
+prevent unauthorized software or system access, which will 
+reduce the number of problems at workstations  3.7 5.6 
+
+
+
+ A/66/94
+ 
+
+63 11-41011 
+ 
+
+ 
+Estimate savings  
+
+(millions of United States dollars)u 
+
+Enhance ICT service delivery Low end of range High end of range 
+
+Workstation automationz 7.5 11.3 
+
+ “Remote control” will provide technical support access to 
+workstations, allowing for the more efficient use of technical 
+resources 5.0 7.5 
+
+ “Software distribution” will provide a standardized method for 
+distributing software updates across all workstations 2.5 3.8 
+
+Local service desk migrationaa 6.5 9.8 
+
+ “Knowledge capture” activities will leverage the knowledge 
+base capabilities to capture common local ICT problems, 
+making it easier to resolve problems for regional ICT service 
+desks 4.0 6.0 
+
+ “Local service desk reduction” will provide local ICT 
+resources with a greater ability to handle substantive tasks 
+while transferring common ICT service desk functions to the 
+regional desks 2.5 3.8 
+
+ Grand total 39.7 59.6 
+ 
+ 
+ 
+
+ III. Create a resilient ICT infrastructure 
+ 
+ 
+
+ 
+Estimated savings  
+
+(millions of United States dollars)bb 
+
+Create a resilient ICT infrastructure Low end of range  High end of range 
+
+E-mail archivescc 1.3 2.0 
+
+ “Enterprise management of e-mail archives” will provide one 
+location (enterprise data centre) for support personnel to 
+manage all e-mail back-up activities  0.4 0.6 
+
+ “Equipment consolidation” will be realized by removing the 
+requirement for e-mail back-up at all duty stations (excluding 
+missions) 0.9 1.4 
+
+Storage optimizationdd 1.3 2.0 
+
+ “Enterprise management” of storage for enterprise 
+applications will enhance the efficient management and 
+optimization of data. It will also ensure that critical data is 
+stored efficiently in one location, for a quicker restoration of 
+systems 0.2 0.3 
+
+ Equipment consolidation will be realized by removing the 
+requirement for enterprise application storage at all duty 
+stations (excluding missions) 1.2 1.7 
+
+Configuration of enterprise data centresee 4.9 7.4 
+
+ “Enterprise data centre server management” will ensure that 
+enterprise systems will have a resilient architecture and the 
+support of a reduced number of support staff compared with 
+previous methods of deployment 2.8 4.2 
+
+
+
+A/66/94  
+ 
+
+11-41011 64 
+ 
+
+ 
+Estimated savings  
+
+(millions of United States dollars)bb 
+
+Create a resilient ICT infrastructure Low end of range  High end of range 
+
+ “Enterprise data centre server consolidation and resilience” 
+will be accomplished by hosting the application in one 
+location characterized by world-class operations and 
+resilience, thereby reducing the cost of implementing 
+enterprise systems 1.1 1.7 
+
+ “Enterprise data centre storage management” will ensure that 
+enterprise systems will have an optimized storage architecture 
+and the support of a reduced number of support staff compared 
+with previous methods of deployment 0.6 0.8 
+
+ “Enterprise data centre storage consolidation and resilience” 
+will be accomplished by harmonizing storage in one location 
+with full resilience for critical data, thereby reducing the cost 
+of implementing enterprise systems 0.5 0.7 
+
+Enterprise server and storage toolsff 5.0 7.4 
+
+ “Server monitoring and management tools for enterprise data 
+centres and local data centres” will provide common toolsets 
+across both enterprise and local data centres to streamline 
+server operations and facilitate the harmonization of 
+equipment across all duty stations 2.6 4.0 
+
+ “Server monitoring and management tools for enterprise data 
+centres and local data centres” will provide common toolsets 
+across both enterprise and local data centres to streamline 
+server operations and provide extended coverage for all duty 
+stations 1.0 1.6 
+
+ “Storage monitoring and management tools for enterprise data 
+centres and local data centres” will provide common toolsets 
+across both enterprise and local data centres to streamline 
+storage operations and facilitate the harmonization of 
+equipment across all duty stations 0.8 1.2 
+
+ “Storage monitoring and management tools for enterprise data 
+centres and local data centres” will provide common toolsets 
+across both enterprise and local data centres to streamline 
+storage operations and provide extended coverage for all duty 
+stations 0.5 0.7 
+
+Local server room migrationgg 5.3 8.0 
+
+ “Local server room migration for enterprise data centres and 
+local data centres” will combine existing local server rooms to 
+increase security and resilience while reducing the need for 
+equipment 4.0 6.0 
+
+ “Local server room migration for enterprise data centres and 
+local data centres” will combine existing local server rooms to 
+reduce support requirements locally 0.7 1.0 
+
+ “Local storage migration for enterprise data centres and local 
+data centres” will combine existing local storage to increase 
+security and resilience while reducing the need for equipment  0.5 0.7 
+
+
+
+ A/66/94
+ 
+
+65 11-41011 
+ 
+
+ 
+Estimated savings  
+
+(millions of United States dollars)bb 
+
+Create a resilient ICT infrastructure Low end of range  High end of range 
+
+ “Local storage migration for enterprise data centres and local 
+data centres” will combine existing local storage to reduce 
+support requirements locally 0.2 0.3 
+
+ Grand total 17.9 26.9 
+ 
+
+ a Save 10 minutes per week for 8,000 people with 65 per cent of that time being used 
+productively. 
+
+ b Staff performance improvements include enhanced effectiveness and efficiency due to better 
+and faster decision-making, staff time savings, increased responsiveness to external events, 
+improved management of organizational records, increased transparency and accountability, 
+increased information security, protection of confidential information, better support to 
+business continuity, improved capture of legacy content, among other factors. The 
+assumption is that each one of the “active” documents in the system will contribute to the 
+achievement of one or more of the above-mentioned benefits. The formula to calculate this 
+benefit assumes 55,000 documents and the average cost of a staff member at the P-3 level. 
+One hour per year is assumed to be the benefit that each document brings per year. The total 
+benefit is calculated in terms of the number of documents per average staff cost per hour 
+saved by each document. 
+
+ c A study by the International Data Corporation showed that “an enterprise with 1,000 
+knowledge workers wastes $48,000 per week ($2.5 million per year)”. It is estimated that, 
+on average, 10 P-3 posts will be saved per 1,000 users. 
+
+ d Today the content is not fully available in all languages. The new platform will save 
+approximately one person per year by improving the productivity of the translators. 
+
+ e Workflows will further increase staff productivity. Savings are estimated at 3/4 person per 
+year. 
+
+ f Save 10 minutes a week for 4,000 people with 65 per cent of that time being used 
+productively. 
+
+ g Eliminate the need for 10 trips per year at $7,000 per trip.  
+ h Reduced time for meetings. Estimate is calculated on the assumption that 1/2 hour is saved 
+
+per week by not having to hold meetings to decide on actions for 1,000 users. Half of the 
+time may be used productively (1/2 hour (time saved) * 1,000 (users) * 52 (weeks) * $63 =). 
+
+ i By being able to search for information across the enterprise in different time zones and not 
+having to depend on the human knowledge worker to generate and provide information, the 
+estimate is that the time of at least one person per year will be saved. 
+
+ j The formula used to calculate this benefit assumes an average yearly cost of $50,000 to 
+run/support legacy systems (including storage). The forecasted reduction in legacy systems 
+is by 20 systems (total per year = number of systems * yearly cost to run the run/support the 
+system). 
+
+ k Fewer staff will be able do the same work. The estimate is that two fewer help desk 
+technicians will be needed. 
+
+ l Less time and fewer staff needed to keep the public websites up to date. Savings amount to 
+approximately two fewer persons per year. 
+
+ m New infrastructure will be appropriately configured and applications will be running on new, 
+more efficient hardware. Consolidated architecture will be scalable and portable. 
+
+ n A central development and design group will work on one technology. Savings are estimated 
+at four developers per year. 
+
+ o Templates will make it faster and easier to meet web-formatting requirements. Savings are 
+estimated at approximately 2.5 persons per year. 
+
+ p The savings are reflected in the number of persons required each year to plan, design and 
+develop new websites. Savings are estimated at three persons per year. 
+
+
+
+A/66/94  
+ 
+
+11-41011 66 
+ 
+
+ q The savings are reflected in the number of persons per year required to maintain, revamp 
+and improve websites that already exist on the new platform. Savings are estimated at two 
+persons per year. By using content management systems to create and update websites, users 
+will be able to create and find relevant information more efficiently. This will result in 
+savings estimated by the work of at least eight persons per year in productivity across the 
+Secretariat. 
+
+ r Owing to better collaboration and electronic sharing of information there will be less need 
+for printing. 
+
+ s The formula to calculate this benefit assumes an average yearly cost of $75 per square feet. 
+According to the forecast there will be a reduction in physical storage space of 10,000 
+square feet owing to better electronic document and records management. The total per  
+year = square footage reduced * average cost per square foot. 
+
+ t Increased efficiency and effectiveness owing to better organization of information. Save 
+15 minutes per week (46 weeks per year) for 7,000 people with 65 per cent of the time being 
+used productively. 
+
+ u These estimates are for savings after full implementation of the initiatives and do not reflect 
+the savings for each year leading to full implementation. 
+
+ v The assumption is that efficiencies will be gained in ICT service desk labour through a 20 to 
+30 per cent reduction in the volume of calls. 
+
+ w The assumption is that there will be an efficiency gain of 8 to 12 per cent for support staff 
+and savings of 8 to 12 per cent under equipment owing to licence harvesting and less 
+shrinkage (inventory loss). 
+
+ x The assumption is that there will be an increase in the efficiency of service desk staff of 4 to 
+6 per cent owing to the effective distribution of workload. 
+
+ y The assumption is that an improvement of 8 to 12 per cent in service delivery will be made 
+owing to easier fixes and reductions in the volume of calls. 
+
+ z The assumption is that automation tools will increase the efficiency of workstation staff by 
+12 to 18 per cent. 
+
+ aa The assumption is that there will be a reduction in local and regional service desk labour of 
+12 to 18 per cent owing to an increased scale and use of the knowledge base, and a reduction 
+in local service desk equipment of 40 to 60 per cent. 
+
+ bb These estimates are for savings after full implementation of the initiatives and do not reflect 
+the savings for each year leading to the completion. 
+
+ cc The assumption is that there will be a reduction in e-mail equipment of 8 to 12 per cent and 
+in associated labour of 12 to 18 per cent, excluding missions. 
+
+ dd The assumption is that there will be a reduction in storage-related equipment of 20 to 30 per 
+cent and in storage-related labour of 4 to 6 per cent, excluding missions. 
+
+ ee Increases infrastructure staff efficiency by between 18 and 22 per cent and results in 
+equipment savings of between 8 and 12 per cent, excluding missions. 
+
+ ff Increases efficiency of all infrastructure staff by between 3 and 5 per cent and results in 
+equipment savings of between 1.5 and 2.5 per cent, including missions. 
+
+ gg Significant reductions occur primarily in local server room equipment (28-42 per cent), local 
+storage equipment (8-12 per cent) and local infrastructure labour (4-6 per cent) (facilities 
+not included). 
+
+ 
+
+ 
+
+

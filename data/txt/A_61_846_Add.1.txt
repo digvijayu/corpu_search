@@ -1,0 +1,87 @@
+[Start1]
+Sixty-first session
+Agenda items 116 and 127 
+
+Review of the efficiency of the administrative and 
+financial functioning of the United Nations 
+
+Report on the activities of the Office of Internal 
+Oversight Services
+
+
+
+		Report of the Office of Internal Oversight Services 
+on the audit of the application of the best value for 
+money principle in United Nations procurement
+
+
+		Note by the Secretary-General
+
+
+	The Secretary-General has the honour to transmit for the consideration of the General Assembly his comments on the report of the Office of Internal Oversight Services on the audit of the application of the best value for money principle in United Nations procurement (A/61/846).
+
+
+
+	Summary	Pursuant to General Assembly resolution 60/259, the Office of Internal Oversight Services conducted an audit of the application of the best value for money principle in the Organization’s procurement of goods and services. In the present report, the Secretary-General provides comments on issues that the Administration considers require clarification.
+
+
+
+	I.	Introduction
+
+
+1.	As reflected in the report of the Office of Internal Oversight Services (OIOS) on the audit of the application of the best value for money principle in United Nations procurement (A/61/846), the Administration agrees, in principle, with the Office’s general assessment that certain areas are in need of further improvement and accepts the broad recommendations made. However, it does not subscribe to some of the findings and conclusions contained in the OIOS report and wishes to provide further clarification on those issues for the consideration of the General Assembly.
+
+
+	II.	Best value for money principle versus best value 
+evaluation method
+
+
+2.	 In accordance with United Nations financial regulation 5.12, the principle of best value for money (“BVM principle”) is one of four general principles to be given “due consideration” in the exercise of the Organization’s procurement function. The BVM principle is a holistic or all-inclusive concept that is embedded in the overall procurement process and takes into consideration the total cost of acquisition, as well as such factors as stakeholders’ requirements, market environment and other events related to the acquisition of goods and services. The aim of the BVM principle is optimization of the acquisition process as a whole.
+3.	The Administration does not agree with OIOS that the BVM principle is inconsistently applied by the Procurement Division. It should be noted that the principle embraces factors in the total supply chain that are beyond the control of the Division, that is, the marketplace and a wide range of activities from the development of requirements or specifications to the management of contracts. Each stage contributes to the achievement of a best value for money outcome. The BVM principle is therefore much more comprehensive than an evaluation method of offers or bids and broader in scope than the Procurement Division. Thus, a conclusion based solely on an evaluation method is limited and incorrect.
+4.	Under the responsibility of the Procurement Division, the implementation of the BVM principle offers different evaluation methods (for example, lowest compliant bid or most responsive proposal) and different types of solicitation (for example, invitation to bid, or request for proposal). Currently, the Procurement Manual refers to a “best value evaluation method” to be used with request for proposal solicitations. Such an evaluation method is also referred to as a “weighted evaluation method”, conducted by the requisitioners for the technical evaluation and by the Division’s staff for the financial/commercial evaluation. The terminology and approach are correct, albeit subject to further guidelines, which will be promulgated in the context of the next policy revision exercise.
+5.	In its report, OIOS focuses on the use of the “best value evaluation method” in order to determine whether or not the BVM principle has been applied. As demonstrated above, as the evaluation method is just one way of achieving the best value for money, the non-application of the “best value evaluation method” in itself does not mean that the BVM principle contained in financial regulation 5.12 has not been taken into account.
+
+	III.	Effective international competition
+
+
+6.	In paragraph 34 of its report, OIOS concludes that “the processes used by the Procurement Division do not ensure effective international competition”. That conclusion is based on a number of findings during the audit, specifically with regard to the use of expression of interest and the minimum number of vendors to be invited for each solicitation. Although the Division agrees that the documentation of procurement actions should be improved, it is of the opinion that the findings of OIOS do not substantiate the conclusion as to how the processes used by the Division do not ensure effective international competition. It should be equally noted that “effective international competition” is a procurement principle and, as explained above for the best value for money, it is an Organizational policy translated into a process in the Procurement Manual for the use of all staff involved in procurement-related activities.
+7.	The Procurement Division acknowledges that the opportunity should be given to all registered vendors to participate in the United Nations procurement process. The procurement system utilized by the Division (Procure Plus) is designed to ensure that all vendors who have registered under a specific commodity code are automatically included in the invitee list for any type of solicitation. Vendors therefore have a critical role during the registration process in selecting the correct commodity and/or service code under the United Nations Common Coding System, which leads to the sourcing of the requirements. 
+8.	The table below shows that 85 per cent of the approved vendors in the vendor registration database have been invited to participate in one or multiple solicitations, based on the selection of commodity codes. These vendors represent 96 per cent of the countries that are listed in the vendor database. A total of 22 per cent of all vendors in the database have been awarded one or multiple contracts, representing 60 per cent of all countries listed in the vendor database.
+
+Table
+Number of vendors participating in the procurement process
+
+Number of vendorsPercentageNumber of countriesPercentageTotal number of vendors awarded contracts1 323227360Total number of vendors invited for solicitations5 1858511696Total number of vendors approved in the database6 067121
+
+9.	With regard to the use of expression of interest, the Procurement Division would like to draw attention to a large number of “open” requests for expression of interest, which do not have a closing date but are continuously posted on the Division’s website. As of August 2007, open requests for expression of interest were posted on the website for 14 different categories of goods and services. In accordance with the Procurement Manual, the Division posts expression of interest notices on its website for a period ranging from two to four weeks, depending on the circumstances of the case, and sometimes even longer. The OIOS report lacks sufficient details about the required period of time and the actual advertisement period found during the audit. 
+10.	In paragraph 33 of its report, OIOS states that the Procurement Manual establishes a “minimum number of vendors from whom proposals should be solicited”. That is incorrect, as the Manual states in paragraph 9.3.4 that “it is suggested to try to invite the following minimum number of vendors”. Therefore, the minimum numbers should be considered as guidelines, rather than as a firm quota, as the OIOS report suggests. It should be noted that the Procurement Division cannot control the decision of vendors to take part in a United Nations solicitation. 
+11.	One of the findings in the OIOS report is that hard copy evidence of e-mail messages sent by the Information Technology Services Division regarding the posting of requests for expression of interest on the Procurement Division’s website to permanent missions was not available in the files. It is correct that a number of steps in the procurement cycle are performed electronically in order to avoid duplication and to benefit from efficiency gains. Owing to the general nature of such e-mail messages, there is no direct link with a specific procurement case, therefore filing copies of such e-mails in procurement files seems irrelevant; although a written track record is important for audit trail purposes, printing copies of e-mail messages of the request for expression of interest when the expression of interest is already posted on the Procurement Division’s website seems to be a duplication of work and may not be consistent in light of the commitment to green procurement. The Information Technology Services Division has stopped issuing e-mail messages to the permanent missions, as all missions are now systematically informed of the posting of requests for expression of interest through the Procurement Division’s website, which is regularly updated. Irrespective of that finding, the Procurement Division believes that its processes do ensure effective international competition. For example, during the period under review (2004-2006), the Division awarded contracts to 1,323 vendors from 73 different countries, representing a total value in actual expenditures of US$ 2,351,612,506. 
+
+
+	IV.	Procurement from developing countries and countries with economies in transition
+
+
+12.	The OIOS report also addresses the issue of the relationship between the BVM principle and procurement from developing countries and countries with economies in transition. As indicated in paragraph 39 of the OIOS report, the Department of Management is of the view that the significance of that issue and the likely impact on the ongoing effort of the procurement reform justify the need for more in-depth review before any definite conclusions are reached.
+13.	The example below shows how the application of the BVM principle in the early stages of the procurement process (that is, specification of the requirement and sourcing) can have a positive effect on the contract price, as well as increase the opportunities for vendors in developing countries and countries with economies in transition.
+	Recently, the Procurement Division performed a procurement exercise for the provision of airfield services in the United Nations Organization Mission in the Democratic Republic of the Congo. A major contributor to achieving best value for money in this case was the decision made by the Division and the Department of Peacekeeping Operations during the specification phase to break down the required services and allow for a split-award among multiple vendors, rather than soliciting one vendor who could provide the whole suite of services. During the sourcing phase of the procurement process, a number of local vendors were identified who were considered qualified to provide some of the requested services. After the evaluation, one of the local vendors from a neighbouring country was awarded a contract for part of the services. The effort made during the specification phase and sourcing stage of the procurement process resulted in contract awards at a cost level that was over $50 million less than otherwise would have been achieved. The best value for money result was not only a significant cost saving to the Organization, but also contributed to capacity development through the award of contracts to local vendors for some of the services required.
+
+[Start1]<<ODS JOB NO>>N0750472E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/61/846/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/61/846/Add.1
+
+A/61/846/Add.1
+
+07-504724
+
+507-50472
+
+United NationsA/61/846/Add.1 
+General AssemblyDistr.: General
+12 September 2007
+
+Original: English
+
+07-50472 (E)    041007
+*0750472*
+

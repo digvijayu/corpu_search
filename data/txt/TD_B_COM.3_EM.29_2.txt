@@ -1,0 +1,295 @@
+TDUnited Nations
+Conference
+on Trade and
+DevelopmentDistr.
+GENERAL
+
+TD/B/COM.3/EM.29/2
+11 September 2006
+
+Original: ENGLISH
+
+TRADE AND DEVELOPMENT BOARD
+Commission on Enterprise, Business Facilitation and Development
+Expert Meeting in Support of the Implementation and Follow-up of WSIS: 
+Using ICTs to Achieve Growth and Development
+Geneva, 4-5 December 2006
+
+USING ICTs TO ACHIEVE GROWTH AND DEVELOPMENT
+Background paper by the UNCTAD secretariat1
+
+
+
+
+
+CONTENTS
+
+
+I.	Introduction	3
+II.	Social and Economic Impact of ICTs	3
+III.	Impact of ICTs on Business Sectors	7
+IV.	ICTs and International Trade in Goods and Services	8
+V.	Impact of ICTs on Labour Markets and Employment	12
+VI.	The Way Ahead	15
+
+
+I. INTRODUCTION
+
+1. As agreed by the Commission on Enterprise, Business Facilitation and Development during its tenth session in Geneva on 21–24 February 2006, this Expert Meeting is organized in the framework of UNCTAD’s contribution to the WSIS follow-up, showcasing the impact of ICTs (information and communication technologies) on economic development and growth, as well as its relevance for action taken at the national, regional and global levels to implement the WSIS outcomes. It is a follow-up to the WSIS Thematic Meeting on the Economic and Social Impact of ICTs held in Guatemala in January 2005, focusing on the latest research on the economic and development impact of ICTs.
+
+2. This Expert Meeting is organized jointly by UNCTAD, ILO and OECD and aims at presenting and discussing the latest empirical evidence on the impact of ICTs on economic growth, firm competitiveness, trade and employment. This will provide developing country policymakers with hard facts about the benefits of ICTs for economic development, and lead to a better targeting of national and global policy formulation. The Expert Meeting also aims at contributing to the debate on the role of ICTs for poverty reduction and for gender-related issues. 
+
+II. SOCIAL AND ECONOMIC IMPACT OF ICTs
+
+3. An increasing volume of research and case studies are estimating the impact of ICTs on social and economic development, including firm productivity, national GDP growth, trade, labour markets and income inequality. Central to the debate on ICT for development is the publication and gathering of comparable statistical indicators on ICT access and use. There is a need for greater efforts to asses how ICTs improve growth and development, and this will require more systematic collection of data in developing countries to help policy design. So far, most of the impact assessment has been based on developed countries' data, but with the gradual increase in the availability of comparable data from a number of developing countries, more analysis could be provided in the near future.
+
+4. Measuring the economic impact of ICTs on growth and productivity has been a subject of intense investigation during the last decade. The interest was mainly stirred by the unusually long period of expansion experienced in the United States (1992-2000). One approach was to focus on the ICT sector and measure its productivity gains within the GDP of the country using aggregate-level data (Jorgenson, Ho and Stiroh, 2005). The hypothesis here is that the greater the size of the sector producing ICT goods and services, the larger the positive impact of ICT on growth. ICT-producing countries also have relatively better paid ICT-related jobs, which contribute significantly to value-added, relative to the other economic sectors. Positive effects of ICTs on growth are also justified by rapid technological progress and very strong demand typical of the ICT sector in most OECD countries. Estimation results show that the largest contributions of ICT manufacturing were achieved in Finland, Ireland and the Republic of Korea, with almost 1 percentage point added to aggregate multi-factor productivity growth during the period 1995-2001 (OECD, 2003). The analysis shows the biggest producers of new technologies to be at the forefront of economic expansion. This type of analysis identifies a strong causal relationship, but it has the disadvantage of only focusing on ICT-producing countries. Also, it ignores to a large extent the differences in the use of ICTs as inputs to other industries. In addition, it does not provide suggestions on how non-ICT-producing countries should proceed to catch up with the information economy leaders. 
+
+5. Another common approach to measuring ICT and growth focuses on ICT inputs and the role of the ICT-using sector. It estimates the impact of ICT-related capital investments on overall capital deepening and the corresponding increases in labour productivity (Waverman, Meschi and Fuss, 2005). It is expected that the higher the ICT-related capital investment, the higher the gains in per capita GDP. The theoretical background of this type of models is based on the Solow growth model (Solow, 1957) and compares the impact on growth of ICT-related capital investment with that of non-ICT capital investments. National studies based on this approach have estimated the impact of ICT investments on per capita GDP growth at a magnitude between 0.2 per cent for France and Japan and 1.4 per cent for the Republic of Korea. 
+
+6. The main challenge of this analysis is related to the differences between countries' national accounts statistical data with regard to ICT and non-ICT capital investments. Also, the analysis cannot be reproduced in a global context as the data are not available for developing countries. Moreover, the approach has been criticized for underestimating ICT contribution to growth by ignoring the potential network effects and the knowledge spill-over generated by ICT technologies. Finally, aggregate-level data provide little insights into the underlying causes that affect firm performance. 
+
+7. To extend the work on ICT impact measurement to developing countries, UNCTAD carried out empirical research with a special focus on developing countries and using the Orbicom Infodensity index and model as a basis (Orbicom-ITU, 2005).2 The choice of this index over other available indexes3 was motivated primarily by the fact that it includes not only ICT capital, but also a proxy for measuring ICT skills, which are considered critical to a country’s ability to absorb and use ICTs effectively. The analysis examines whether an increase in the stock of ICT capital and labour helps boost economic growth through the efficiency gains generated by network and spill-over effects. 
+
+8. The results from this analysis also illustrate the positive impact of ICTs on economic growth in developing countries. A 1 per cent increase in the Infodensity index of a country resulted on average in a 0.1 per cent increase in per capita GDP in 1996 and in a 0.3 per cent increase in 2003. When the analysis also takes into account that economic growth has not been equally sensitive to changes in the ICT indicators across different levels of ICT performance, more moderate results are obtained for the least ICT-endowed countries. This is a potential indicator of the need to accumulate first a critical level of ICT adoption before being able to benefit from sizeable network effects. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chart 1. The relationship between per capita gross domestic product and Infodensity in 1995 and 2003
+
+
+
+Source: Orbicom-ITU (2005).
+Note: Infodensity “represents the ICT productive function of an economy” and is composed of ICT-enhancing capital and labour (Orbicom, 2003).
+
+9. Furthermore, market deficiencies4 could hinder more efficient incorporation of ICTs into the production process of some countries and thus might prevent them from taking full advantage of their ICT-related investments. Results also give an indication of the degree to which ICT-related inputs have been incorporated into the production processes over time. Since human capital is a central component of the Infodensity index, the results also reflect the level of skills and education available in the countries and its importance as a key determinant for the impact of ICTs on development. 
+
+10. A recent empirical study on Latin American countries estimated that higher fixed and mobile phone penetration rates brought about between 0.1 and 0.3 percentage growth increases (Campos, 2006). This study finds that it is the decision to improve ICT uptake that leads to GDP growth and not the opposite.
+
+11. With the increasing availability of data at the firm level, more and more studies try to capture the extent to which the efficient use of ICTs by firms contributes to multi-factor productivity growth and firm performance more generally. OECD (2004) finds that ICT assets can be used more or less efficiently depending on the regulatory environment, the structure of the industry sector, and the degree of competition in the market. In a sample of 13 OECD countries, firm-level data showed that the use of ICTs can help firms increase their market share, expand their product range, better adapt their products to demand, reduce inventories and help firms integrate activities throughout the value chain (OECD, 2003). Some of the key findings emerging from these firm-level studies are that:5
+- Among ICTs, networking technologies have the highest positive impact on firm performance;
+- ICT impacts emerge over time; and 
+- Effective ICT use is closely linked to innovation, skills and organizational change; 
+
+12. Research results from a Canadian study using micro-data suggest that when proceeding to new e-business stages, firms undergo additional sales fluctuations and therefore larger firms move more easily up the e-business ladder than SMEs (Statistics Canada, 2006). A recent Finnish study on ICT impact in firms found that a computer increases average workers’ productivity by 24 per cent and that computer portability and LAN connections add additional important effects (32 per cent and 14 per cent respectively) (Maliranta and Rouvinen, 2006). The impact was found to be much larger in younger compared to older companies.
+
+13. The impact of broadband on productivity has been subject to a number of recent studies which revealed positive and significant links. While enterprises with access to the Internet see improved connectivity with suppliers and clients, and thus a wider market, broadband increases the capacity of enterprises to deliver through the Internet. Corporate analysts estimated that broadband could contribute hundreds of billions of dollars annually to the GDP of developed countries in the next few years, and liken it to water and electricity as "the next great utility" (Whisler and Saksena, 2003). There is growing recognition that broadband can help enterprises maximize the benefits of ICT and conduct e-business (including optimizing internal business processes). Other studies in the UK indicate that enterprises that use broadband are more likely to have multiple business links, and enterprises with more links tend to have higher labour productivity (Clayton and Goodridge, 2004). A study with US data shows that communities with broadband underwent faster growth in employment and in the number of business establishments through a higher share of IT-intensive sectors in the local industry mix (Gillett et al., 2006). However, in certain developing regions, most enterprises still need to become aware of the potential of broadband and related applications, and of the offers of application service providers (ESCWA, 2005). 
+
+14. Apart from measuring the impact of ICTs on productivity and growth, it is important to consider the impact of ICTs on poverty and inequality.6 The benefits of the information technology revolution are today unevenly distributed between and within countries (WSIS Declaration of Principles, 2003). While ICTs can contribute to economic growth and social development at the national level, it should be noted that ‘in some cases the poor benefit proportionally less than the non poor’ (OECD, 2005). A major concern is to adopt policies preventing the digital divide from prolonging or deepening existing socioeconomic inequalities. Once the society groups who gain less in terms of access and use of ICTs have been identified, the policy challenge is to find the right policies to reduce poverty and maximize social welfare through ICTs. Today, there is evidence that ICT adoption is less common in rural areas and among women, lower income families and low-skilled workers. It has been suggested, though, that the right ICT-related policy mix contributes to poverty reduction and improves social cohesion. 
+
+15. In addition to supporting general economic growth or enhancing efficiencies in specific sectors, ICTs can also be used to achieve development and poverty alleviation by: 
+
+•	Complementing specific pro-poor activities, for example supporting rural health extension programmes or micro-credit activities. ICTs can provide increased opportunities to access health and education services and thus reduce the vulnerabilities to sickness and unemployment of people living in poverty and support their participation in, and contribution to, the information economy;
+•	Directly enhancing poor livelihoods. For instance, in Bolivia, agricultural and market price information shared through the radio and the Internet is providing small producers with more negotiation power and is increasing the efficiency of their production methods (International Institute for Communication and Development, 2005);
+•	Helping address systemic barriers to poverty reduction, such as corruption or natural vulnerabilities. For example, the introduction of information technology such as ASYCUDA in customs management makes a positive contribution to efficiency gains not only by reducing processing time but also by supporting the fight against corruption. 
+
+16. For ICTs to enhance development, everyone should be enabled to participate in and contribute to the information economy. For instance, women in most developing countries and some developed countries fall behind in access to, use of and benefit from the Internet. They ‘represent less than 10 per cent of the Internet users in Guinea and Djibouti, less than 20 per cent in Nepal, and less than one-quarter in India’ (Huyer et al. 2005 ). If women cannot participate fully in the information economy, the input of a large part of the work force will be lost. Similar arguments can be made for people living in rural areas in many developing countries. However, efforts to increase people’s participation in the information economy should be closely linked with efforts to improve basic skills and education. While it is true that in many developing countries women’s access to and use of ICTs is considerably lower, this is also true of female enrolment rates in formal education.
+
+17. The contribution of ICTs to development and economic growth is closely linked to wider economic and social conditions, such as basic infrastructure, skills and political commitment. In order to contribute effectively to economic growth and development, national ICT strategies must be in accordance with national development strategies, including poverty reduction initiatives. Moreover, support and concerted action is needed at all levels: Governments should provide the enabling environment for the uptake and use of ICTs; the private sector should provide competitive goods and services; and civil society should manage programmes and advocate its interests. In this regard, multi-stakeholder partnerships involving civil society, the private sector and Governments would be able to respond considerably better to the need for resources and to the complexity of tasks (Gerster and Zimmerman, 2005). 
+III. IMPACT OF ICTs ON BUSINESS SECTORS
+
+18. The adoption of ICTs creates unprecedented opportunities for industries and businesses in developing countries to overcome constraints posed by limited access to resources and markets. The research of international organizations and policy experts in this field is therefore directed at exploring concrete models of how ICTs can create new business opportunities.
+
+19. Returns on ICT have proven to be high and significant on average across economic sectors (Bloom, Sadun and Van Reenen, 2006; Crespi, Criscuolo and Haskel, 2006) and in developing countries in particular (Commander and Harrison, 2006). At the firm level, advantages from ICT adoption arise from better access to knowledge and information, lower transaction costs, coverage of larger markets, improved decision-making, greater flexibility on the part of firms in catering to a diversified customer base, and increased overall productivity (Song and Mueller-Falcke, 2006).
+
+20. In particular the adoption of ICTs by small and medium-sized enterprises (SMEs) in developing countries holds a large potential for development and employment creation. SMEs, the main creators of non-farm employment in developing countries, operate within more uncertain environments, deal with a reduced base of customers and suppliers and often have to face higher transaction and financial costs in regional and international markets. In this respect, ICT investments could help developing countries to mitigate the rigidities created by poor growth performance and high uncertainty among SMEs (Song and Mueller-Falcke, 2006). 
+
+21. In banking and finance, ICT use can reduce information asymmetries between creditors and borrowers in developing countries. The policy challenge for Governments in developing countries is to improve credit information structures in order to enhance local firms' access to trade finance and e-finance. To achieve this end, developing countries will need to adjust quickly to the requirements of international trade finance arrangements. In view of the Basel II requirements for risk management by commercial banks, firms in developed countries already participate in e-credit information sharing to benefit from access to international credits and trade finance. A proper regulatory environment can use ICTs to encourage developing country enterprises to improve the reporting of financial data and build up a culture of credit information sharing and pooling of risks. In effect, this would contribute to the improvement of the much needed credit infrastructure (UNCTAD, 2005). The challenge is to replicate in a shorter historical period of time the achievements on developed countries' financial and crediting markets through the use of modern ICTs.
+
+22. Another sector with very high involvement of SMEs and where ICT adoption can make a difference is tourism (UNCTAD, 2005). E-tourism has expanded rapidly in many developing countries. A large majority of providers have put up websites using destination management systems (DMSs) to organize and promote resources on the Internet. By being actively present on the web, developing countries can ensure the visibility of local tourism providers and improve their competitive position in relation to similar developed-country-based service providers. This can be achieved by identifying tourism niches such as eco-tourism, cultural and natural heritage tourism, and health, medical and adventure tourism and marketing them over the Internet. Furthermore, e-tourism enables small tourism enterprises to access the global market either directly or with the help of locally based destination management organizations (DMOs). Promoting e-tourism requires the committed involvement of public authorities. The necessary infrastructure such as broadband Internet access has to be made available, tourism information has to be provided, and DMSs that cater for local tourism interests have to be designed. Public and private partnerships have been proposed as a way to pool locally available human, financial and technical resources to promote e-tourism. 
+
+23. However, access to ICTs alone is no panacea for SMEs. Investments need to be accompanied by organizational changes and innovative ideas. SMEs are confronted with a number of challenges in adopting and using ICT and they often end up under-utilizing the available technologies (Song and Mueller-Falcke, 2006). SMEs may lack capital, knowledge about ICT applications and the human resources for setting up and taking advantage of ICT systems. Additionally, SMEs lagging behind their competitors in terms of ICT adoption will see their competitiveness seriously affected. Song and Mueller-Falke (2006) see a solution in cooperation and associations among SMEs that would make it possible to pool resources. Another question is which combination of ICT assets is best to maximize the profits of a private firm and which ICT technical solutions should be favoured against alternatives.7 
+
+24. Certain ICTs bring more to the development of business-enabling environments. For example, technological advances make it possible to create broadband infrastructure at lower cost than ever before and to cover more rural and structurally weak regions. Case studies prove that even the agriculture sector can experience large efficiency gains through relatively small investments in ICT infrastructure. One example was the installation in villages by an Indian agricultural exporter of local satellite Internet stations, called "eChoupal". These became part of the supply-chain management stations, serving as a basis for information sharing, communication and knowledge transfer (UNCTAD, 2006). Across all sectors, the productivity-enhancing applications of broadband technology are numerous, including more efficient information-sharing, communication and transactions between locations and with clients, cost-saving Voice-over-IP telephony, processing of multimedia-contents, remote work and the more effective maintenance of Internet presences and e-commerce systems. 
+
+IV. ICTs AND INTERNATIONAL TRADE IN GOODS AND SERVICES
+
+25. ICTs facilitate trade by reducing transaction costs and information asymmetries for both goods and services. More cost-effective information and communication have given rise to new international business opportunities and enabled developing countries to participate ever more in "the slicing-up of the value-added chain" (Krugman, 1995). Alongside more intense trade, outsourcing8 and foreign investment from developed to developing countries and, more recently, from developing to other developing countries have diversified growth strategies. On the outsourcers' side, the most ICT-intensive companies do the lion's share of outsourcing (Abramovsky and Griffith, 2005). On the other hand, developing countries with better ICT infrastructure attract more offshoring and outsourcing and, as a result, trade more. In this context, making ICT infrastructure available for all is crucial (OECD, 2006). For some developing countries, ICTs are still out of reach. In particular, the digital divide in terms of available technology and infrastructure tends to widen between the poorest countries and the rest of the world (ORBICOM-ITU, 2005).  
+
+26. Adopting ICTs is not enough to draw more offshoring and trade; how ICTs are used in practice also matters. In some countries, the efficient use of available ICTs is still hampered by insufficiently developed institutions such as the legal and enforcement framework, difficulties in training to produce the proper mix of skills, and the degree to which the ICT network is equitably spread across society members (OECD, 2006). As a result, IT and business process offshoring and outsourcing are still far from meeting the estimated global potential. By 2005, service providers had captured only 10 per cent of the potential outsourcing market valued at $300 billion (Chakrabarty, Ghandi and Kaka, 2006). The outsourced value is considerably smaller than the global exports of ICT goods and ICT-enabled services ($1.1 trillion and $836 billion in 2003, respectively). In order to capture a higher share of global sourcing, developing countries need to be more innovative than rivals in using ICTs to adapt products to demand (Grossman and Helpman, 2005).
+
+27. Trade in ICT goods and ICT-enabled services9 has grown faster and increased its share in total goods and services exports. Every percentage increase in world services exports was accompanied by a 1.6 per cent rise in ICT-enabled services exports during the period 2000-2003. Exports of ICT goods accounted for 15 per cent of global exports of goods, exceeding in value the combined exports of agriculture, textiles and clothing. ICT-enabled services represented 45 per cent of total services exports in 2003. Following the burst of the dot.com bubble in 2000, ICT goods exports declined in 2001 then recovered and grew strongly again in 2003 and 2004. For the same period, global ICT-enabled services exports slowed down but did not decline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chart 2. Evolution of global ICT-enabled services exports (1995-2003) at 1995 values
+
+
+
+Source: IMF BOP data, UNCTAD (2006).
+
+Chart 3. Evolution of global ICT goods exports (1996-2003) at 1996 values
+
+
+
+Source: UN COMTRADE database, UNCTAD (2005).
+
+28. In the ICT goods industry, during the recovery period following 2001, developing countries and territories, particularly China, Hong Kong SAR China, and the Republic of Korea were the fastest growing exporters. However, developed countries' nominal export growth rates underestimate the extent of the recovery of ICT manufacturing in the developed world, owing to high commodity prices and ongoing declining prices for ICT equipment (OECD, 2006). In the ICT-enabled services industry, developing economies only contributed 16 per cent to global exports and took longer to recover in the aftermath of 2000. Nevertheless, developing countries' exports drove the 2003 accelerated pick-up of ICT-enabled services exports, surpassing developed countries’ growth rate for the first time since 2000. Existing gaps in terms of ICT adoption and use between the developed and the developing world suggest the great unexploited potential of developing countries to trade ICT goods and services (OECD, 2006).
+
+29. The global ICT market has shifted slightly towards the provision of ICT-enabled services rather than ICT goods in developed countries and in a reallocation of ICT goods production to developing countries. The reallocation of the comparative advantage in ICT goods production has taken place even between developing countries, towards more cost-efficient producers (UNCTAD, 2005).
+
+30. Trade in ICT goods remains highly concentrated, with the top 10 exporters accounting for almost three quarters of global value. China alone represents more than a fifth of all developing countries' trade in ICT goods. Maintaining a fast rhythm of expansion over the past few years, China became the world leader in the production and export of ICT goods in 2004 (OECD, 2006). Foreign firms and growing FDI inflows into China accounted for most of the US$ 180 billion worth of ICT goods exported in 2004. For the time being, the Chinese model of ICT-related trade is concentrated mainly on assembling manufacture goods, with growing imports of electronic components from other Asian trade partners and exports of computer and related equipment to the United States, the EU15 and Hong Kong SAR China. Foreign investment and production and trade in ICT-enabled services has also experienced a positive trend, but more modest in magnitude. On the regional scale, Asia dominates international trade in ICT goods and ICT-enabled services, with a high degree of specialization among Asian exporters. Africa experienced stronger export growth in both ICT goods and ICT-enabled services in the aftermath of the 2000 financial crisis, although starting from very low levels. The fastest growth performance was achieved by South-East Europe and the Commonwealth of Independent States.
+
+31. A breakdown of trade in ICT goods in 2003 by sector reveals that electronic components and computer and related equipment constituted together approximately two thirds of the export market. Telecommunication equipment exports experienced a decline, while audio and video equipment grew slightly. More than half of world exports of audio and video equipment originated in developing countries, the fastest growing export sector of ICT goods.
+
+32. The increasing importance of trade among and between developing and transition economies is striking. These trade flows experienced positive growth rates in the last three years in all ICT goods categories. While trade in telecommunications equipment flowed mostly between developed countries, trade in electronic components was rather dominated by South-South flows. Audio and video equipment was mostly exported from developing to developed countries.
+
+33. On the import side as well, ICTs have a positive effect on international service transactions. Empirical research using United States bilateral services trade data estimated that the positive effect of ICT adoption in partner countries increased both US imports and exports of services by 1.7 per cent (Freund and Weinhold, 2002). While in most developed countries reported imports of ICT-enabled services grew in line with exports, in some developing countries the import growth rate lagged behind owing to more restrictive market access for foreign firms. 
+
+34. When comparing data on services trade by the different WTO GATS modes, ICT-enabled services delivered through commercial presence abroad (Mode 3) exceed in absolute terms balance-of-payments registered deliveries through the other modes (UNCTAD, 2006). The recent rise in FDI statistics in the service sector shows that foreign investment and multinational companies are the main drivers of services industry globalization (UNCTAD, 2004 b, 2006). In India, for example,10 foreign-owned companies account for approximately two-thirds of ICT-enabled services exports. Indian IT companies themselves have developed global delivery models by establishing software development centres in other emerging market economies (like Eastern Europe) to cater for clients from developed countries (Western Europe). This process of "near shoring" overcomes some of the barriers that Indian IT firms face in their main clients' markets. However, when available, evidence shows that ICTs boost trade in services delivered across borders and by consumption abroad relatively more than trade delivered through commercial presence (UNCTAD, 2006). Continued liberalization of cross-border trade in ICT-enabled services would reinforce this effect and would bring more business opportunities decoupled from commercial presence.
+
+35. During the period 1995-2004, computer and information services represented the world's fastest growing services export sector, with a growth rate six times faster than total services exports. The pick-up in computer and information services exports from relatively low initial levels reflects the emergence of new ICT-enabled trade opportunities in services. The share of developing countries in this export sector increased from 4 per cent in 1995 to 20 per cent in 2003, with the highest growth occurring after 2000. This compares well with the share of developing countries in total ICT-enabled services exports (between 16 and 18 per cent in the same period). For computer and related services, WTO members' schedules of commitments for market access show that trade in this sector is already more liberalized, with the least number of restrictions under Mode 3 and the most under Mode 4. Market access under Mode 4 is of interest for developing countries when outsourced operations are closely linked to the temporary movement of foreign service suppliers. Many developed countries have only committed to allow market access under Mode 4 when linked to forms of commercial presence. This is likely to disadvantage service exporters with reduced commercial presence abroad.
+
+36. Furthermore, there are fewer market access commitments on the developing countries' side than from developed countries, particularly for Modes 1, 2 and 3. Clearly negotiations on the GATS commitments, as agreed upon in 1993 and reflected in the sectoral schedules, did not take into account the particular importance that outsourcing and offshoring have for developing countries. A renegotiation of the level of protection applied in international trade in ICT-enabled services would therefore be in the interest of developing countries. In particular, to explore the existing South-South trade potential, developing countries should seek more market access liberalization from their developing counterparts under all modes of delivery and in particular cross-border trade.
+
+V. IMPACT OF ICTs ON LABOUR MARKETS AND EMPLOYMENT
+
+37. ICTs have an impact on employment and working conditions through several mechanisms.  Firstly, ICTs fundamentally change production systems. These changes transform the occupational structure and,  as a result, change demand for competencies.  In seminal research, Levy and Murnane (2004) show how those occupations that can be undertaken by digitally controlled equipment fell, while those that require more complex competencies rose.  Numerous studies also show that high-skilled workers have seen their wages rising more than those of other workers. 
+
+38.  Secondly, ICTs permit improved inventory management, better flow control, better integration between sales and production and, therefore, enhanced management of production.  As many systems become automated, workers acquire new tasks and require new competencies.
+
+39. Thirdly, better and more affordable communication reduces the site dependency of data processing.  As a result, today many business services11 can be carried out anywhere provided qualified staff and infrastructure are available.
+
+40. ICTs have also reduced transaction and search costs in both product and factor markets, with a direct influence on labour markets. This process can lead to a re-evaluation of value chains and to a more in-depth review of the functions that enterprises carry out internally and those that can be subcontracted.  More recently ICTs expanded the scope of subcontracting to include services on a larger scale than before.
+
+41. More transparency and trade have scaled-up international competition, shortened product life cycles and added emphasis on innovation and productivity.  All these factors considerably influence the demand for labour in terms of skill profiles, localization and speed of change.  
+
+42. In developed economies, employment in manufacturing has stagnated, though output has grown.  The deficient growth of employment opportunities in manufacturing has been compensated by significant increases in business services employment (UNCTAD, 2006).
+
+43. There is limited statistical information about recent employment trends in emerging developing countries such as India, China and Brazil.  International trade data for some of these countries suggest that employment levels have grown significantly.  Developing countries see the possibility of exporting business services to the industrialized world as a new way of generating decent employment.  On the other hand, the potential transfer of jobs from the North to the South has raised concerns about job losses in developed countries. Preliminary data indicate that 2 per cent of firms in Japan offshored (Tomiura, 2004).  In the European Union, offshoring affected only 0.14 per cent of jobs in 2004 (Kirkegaard, 2005), while Marin (2004) estimates that 0.26 per cent of German jobs were lost to offshoring between 1990 and 2001.  Data from the United States confirm the small impact of offshoring on local employment levels (Brown, 2004), with only 0.2 per cent of all jobs being either changed or lost. At the same time, the globalisation of IT boosted US GDP by US$ 230 billion in the period 1997-2004 (Drezner, 2004). 
+
+44. Taking a different analytical approach, van Welsum and Vickery (2005) and van Welsum and Reif (2006 a, b) calculate the share of potentially offshorable jobs in total employment by identifying the occupations that can be rendered geographically footloose by ICT adoption.12  They find that each year a maximum of 20 per cent of jobs in a group of OECD countries could be offshored. A further breakdown of these footloose jobs into clerical (standardized) and non-clerical (skilled) reveals that occupations are affected differently by international sourcing (van Welsum and Reif, 2006b). At least some aspects of offshoring go hand in hand with job creation in developed countries. In particular, higher exports of ICT-related services,13 more net outward manufacturing FDI and more ICT investment are positively associated with increases in the skilled footloose employment and negatively associated with the low-skilled. Net outward FDI in services, a variable which has recently picked up in developed countries, is positively correlated with ICT-related job creation for both skilled and unskilled workers. 
+
+45. However, most of these studies do not look into the improved economic conditions of the countries profiting directly from outsourcing. The Indian case demonstrates that investment in IT skills and human resources for the provision of ICT-enabled services can help create a dynamic and productive new segment in the labour market. Estimates of employment in the Indian software industry show average growth of 18 per cent to 568,000 within only four years (1999-2003). Employment in business process outsourcing grew even faster at an average rate of 42 per cent in the same period, reaching 245,500 (Kumar and Joseph, 2005). Not all economies have a vast human resource pool and the linguistic abilities to conquer the IT market, but investing in IT would improve the competitiveness of their lead sectors. 
+
+46. ICTs are tools, and their utility depends on the capacity of the users. Only individuals, firms and economies having the capacity to extract value from ICTs really benefit from them.  Thus investments in ICTs can widen existing social and economic divides. Studies of the evolution over time of the different cost components of manufacturing in Colombia show a noticeable fall in the participation of unskilled workers and a rise in that of skilled workers (Ramírez and Núñez, 2000).  CEPAL also found (Gutierrez, 2004) that technological change has contributed positively (and sometimes significantly) to employment in the business services sector in Brazil, Colombia and Chile.  In some countries, a lower involvement of women in ICT-related occupations poses a constraint on the development of ICT-skills. Women often have less access to the acquisition of ICT literacy due to socio-cultural factors, as well as discriminatory time and financial constraints. In many countries, few women work in the ICT sector, particularly in higher positions (Huyer et al., 2005).  For instance, according to ITU data for 2001,14 women represented less than 10 per cent of the telecom staff in Saudi Arabia, the Islamic Republic of Iran, Yemen and Malawi, while similar figures were above 25 per cent for developed countries. Fieldwork on measuring the gender digital divide by Orbicom-ITU (2005) in six African countries found that women have 36 per cent fewer ICT-related opportunities and benefits than men, particularly in terms of skills and decision-making. The exclusion of women from ICT has been identified as one of the causes of the digital divide within and between countries and should thus be addressed in the design of human resources development policies and programmes. In particular, there is evidence that sometimes markets may under-provide rural ICT infrastructure, may under-invest in ICT skill acquisition for lower-income people and may result in a misuse of women's potential to work in the information economy.
+
+47. Access to ICTs can also play a role in increasing divides between high- and low-income workers or between urban and rural inhabitants.  For example, low-income and less qualified workers have less access to online job offers.
+
+48. Without intervention, a greater use of ICTs can increase existing social and economic inequality both between and within countries. Adopting corrective measures to deal with this digital divide is therefore a major concern in development policymaking. ICT-enabled offshoring to developing countries has the potential to create employment in globally competitive sectors. Developing countries with less abundant IT-skilled labour should consequently focus on broadening their ICT-related human capital base and infrastructure in order to benefit fully from the opportunities generated by ICTs.  
+
+49. Enterprises that fail to adapt to the structural changes associated with globalization and ICTs might be marginalized if they ignore the competitive advantage offered by technology in association with larger markets. Moreover, economic activity will increasingly be network-driven, with subcontracting and supply management becoming a source of competitive advantage.  
+
+50. Several paths can be taken to achieve social and economic progress through ICTs.  In the first place, enterprises must be able to fully exploit the benefits of ICTs. This implies ensuring that firms achieve productivity gains when investing in these technologies. Accessibility (in terms of both infrastructure and affordability) must be achieved; security and trust must be established; finally, managers and entrepreneurs need to be able to develop organizations that optimize the use of investments in ICTs.  
+
+51. The transformation of enterprises in all economic sectors requires training of the work force, particularly by improving reading, analytical and numerical skills. Additionally, managers should promote positive attitudes towards change and provide information about impending transformations. Uninformed people fear change.  Indeed, it has been standard practice in the development of IT applications to ensure the full participation of users in the process (Martin, 1990).  Unfortunately, in some instances the redeployment of workers is inevitable.  When this happens – and in order to make change acceptable – measures to ease the transition from one job to another are critical. This can be achieved through dialogue, social security and training.  
+
+VI. THE WAY AHEAD
+
+52. The preceding sections have shown the wide-ranging nature of the strategic and policy issues involved in the application of ICT and e-business to maximize growth and development. The Governments of developing countries face a fundamental challenge: devising and implementing ICT policies and programmes to ensure that their economies can join in and benefit from the emerging global information economy.  Participation in the information economy needs to result in economic growth and employment gains for all groups of society, particularly the more vulnerable ones (such as the poor, women and indigenous or rural communities).   The discussions of the Expert Meeting could shed light on the specific policies, at both the international and the domestic levels, that are more likely to deliver tangible results. Another aspect that could be considered by the experts is the policy-making process itself, and how to ensure that ICT-related policies promote the inclusion of different sectors and citizens in the information economy.
+
+53. Developing countries' participation in the information economy is conditioned by the availability and affordability of ICTs. Accordingly, a first set of questions that could be addressed by the experts concerns the promotion of access to ICTs in developing countries and questions of efficiency and equity that are connected with access issues. Besides discussing the infrastructural dimensions of ICT and e-business policies for SMEs and the conditions in which specific sectors of the economies of developing countries can benefit most from ICT and e-business, experts could analyse their societal implications. In particular, ICTs can boost productivity and growth but they can also have the unintended effect of leaving some categories of society behind. How can ICT-for-development policies address problems such as gender discrimination and poverty alleviation? What are the benefits in terms of overall productivity gains that can be obtained from improved access of women and/or poor people to ICTs? Can ICTs be streamlined to bring more social cohesion and more equal opportunities to developing country citizens? 
+
+54. In terms of more industry-specific opportunities, an area where the discussions of the Expert Meeting could provide inputs for further policy work is offshoring and the relationship between ICT and e-business policies and labour market and education policies. What are the real advantages that developing countries can derive from attracting outsourcing and offshoring? Experts may want to share their views on how developing countries can prepare themselves in order to take part in international competition in these markets. This issue is closely connected with the promotion of equal participation of both men and women in the ICT labour market. Finally, the multilateral dimension of this issue, as well as of more general matters of trade in ICT-enabled services, is another aspect of the implications of ICT and e-business for growth and development in which experts could contribute to international sharing of experiences and consensus-building.
+
+
+
+References
+Abramovsky L and Griffith R (2005). Outsourcing and Offshoring of Business Services: How Important is ICT? Institute For Fiscal Studies Working Paper 05/22, London: IFS.  
+Auer P, Besse G and Méda D, eds. (2006). Offshoring and the Internationalization of Employment. A challenge for a fair globalization? International Labour Organization, International Institute for Labour Studies, Ministère de l'emploi, de la cohésion sociale et du logement de la France, 2006. 
+Bloom, Sadun and van Reenen (2006). It ain’t what you do, it’s the way that you do I.T. - testing explanations of productivity growth using US transplants. Mimeo, Centre for Economic Performance, London School of Economics, London.  
+Brown SP (2004). Mass Layoff Statistics Data in the United States and Domestic and Overseas Relocation  Presented at the EU-US Seminar on “Offshoring of Services in ICT and Related Services,” Brussels, Belgium, December 13-14. http://www.bls.gov/mls/mlsrelocation.pdf
+Campos NF (2006). The Impact of Information and Communication Technologies on Economic Growth in Latin America in an International Perspective. Centre for Economic Development and Institutions, Brunel University.
+Chakrabarty SK, Ghandi P and Kaka NF (2006). The Untapped market for offshore services. The McKinsey Quarterly,  No. 2/2006. 
+Clayton T and Goodridge P (2004). E-business and labour productivity in manufacturing and services. Economic Trends, 609, pp. 47-53.
+Commander S and Harrison R (2006). ICT adoption in developing countries: Firm-level evidence from Brazil and India. Presentation given at the Conference on Digital Transformations in the Information Society, hosted by the International Telecommunication Union and the London Business School, Geneva, June 2006. 
+Crespi G, Criscuolo C and Haskel J (2006). Information Technology, Organisational Change and Productivity Growth: Evidence from UK Firms. Working Paper No. 558, Department of Economics at Queen Mary University of London, London. 
+Drezner DW (2004). The Outsourcing Bogeyman. In: Foreign Affairs, 83, 3. 
+Economic and Social Commission for Western Asia (ESCWA) (2005). Regional Profile of the Information Society in Western Asia - 2005. New York and Geneva: United Nations.
+Freund CL and Weinhold D (2002). The Internet and International trade in services. American Economic Review, Vol. 92(2), pp. 236-240. 
+Gerster R and Zimmermann S (2005). Up-scaling Pro-Poor ICT-Policies and Practices. A Review of Experience With Emphasis on Low Income Countries in Asia and Africa. SDC and M S Swaminathan Research Foundation Richterswil, January 2005.
+Gillett SE, Lehr WH, Osorio CA and Sirbu MA (2006). Measuring Broadband's Economic Impact. Report for the US Department of Commerce, Economic Development Administration, February 2006. http://cfp.mit.edu/groups/broadband/docs/2006/Measuring_bb_econ_impact-final.pdf.  
+Grossman GM and Helpman E (2005). Outsourcing in a Global Economy. In: Review of Economic Studies 72, 1, pp. 135-159.
+Gutiérrez G (2004). Crecimiento económico, creación y erosión de empleo: un análisis intersectorial. CEPAL Estudios Estadísticos y Prospectivos No. 29, Santiago de Chile, octubre. 
+Huyer et al (2005). Women in the Information Society. In: Orbicom-ITU (2005). 
+International Institute for Communication and Development (2005). The TIC Bolivia Country programme. The impact of IICD support for poverty reduction and development using ICTs, 2000-2004.
+Jorgenson D, Ho MS and Stiroh K (2005). Productivity (Volume 3): Information Technology and the American Growth Ressurgence. London; Cambridge: The MIT Press.
+Kirkegaard JF (2005). Outsourcing and offshoring: Pushing the European Model over the hill, rather than off the cliff! Institute for International Economics WP 05-1.
+Krugman P (1995). Growing world trade: Causes and consequences. Brookings Papers on Economic Activity No. 1, Washington D.C.: The Brookings Institution. 
+Kumar N and Joseph KJ (2005). Export of Software and Business Process Outsourcing from Developing Countries: Lessons from the Indian Experience. Asia-Pacific Trade and Investment Review, Vol. 1, No.1, April 2005.
+Levy F and Murmane RJ (2004). The New Division of Labour: How Computers are Creating the Next Job Market. Russell Sage Foundation, New York, Princeton University Press, Princeton and Oxford, 2004.
+Maliranta M and Rouvinen P (2004). Informational Mobility and Productivity - Finnish Evidence. Discussion Paper No. 919, The Research Institute of the Finnish Economy, Helsinki. 
+Marin D (2004). A Nation of Poets and Thinkers - Less so with Eastern Enlargement? Austria and Germany, CEPR Discussion Paper 4358.
+Martin J (1990). Information Engineering, Book III: Design and Construction. Prentice-Hall, Englewood Cliffs.
+OECD (2003). ICT and Economic growth. Evidence from OECD countries, industries and firms. Paris, France.
+OECD (2004). Information Technology Outlook. Paris, France.
+OECD Working Party on Indicators for the Information Economy (2006). Presentation at the WPIIS Expert Group on ICT Impact, Paris, 4 May 2006.
+OECD (2006). Information Technology Outlook. Paris, France.
+Orbicom-ITU (2005). From the Digital Divide to Digital Opportunities. Measuring Infostates for Development. Edited by George Sciadas.
+Orbicom (2003). Monitoring the Digital Divide… and Beyond. National Reasearch Council of Canada, Quebec, Canada.
+Ramírez JM y Núñez L (2000). Reformas, Crecimiento, Progreso Técnico y Empleo en Colombia. Proyecto Crecimiento, empleo y equidad: América Latina en los años noventa, Serie Reformas Económicas 59 (Parte II).
+Solow RM (1957). Technical Change and the Aggregate Production Function. The Review of Economics and Statistics, Vol.39, No.3, pp. 312-320.
+Song GS and Mueller-Falcke D (2006). The Economic Effects of ICT at Firm-Levels. In: Torero M and von Braun J. Information and Communication Technologies for Development and Poverty Reduction. The Potential of Telecommunications. Baltimore: Johns Hopkins University Press, 166-184. 
+Statistics Canada (2006). Measuring ICT impacts at Statistics Canada. Paper presented by Bryon van Tol at the OECD WPIIS Meeting, May 2006, Paris.
+Suarez F (2005). Network Effects Revisited: The Role of Strong Ties on Technology Selection. Academy of Management Journal, vol. 48/4, pp. 710-720.
+Tomiura E (2004). Foreign Outsourcing and Firm-Level Characteristics: Evidence from Japanese manufacturers. http://hi-stat.ier.hit-u.ac.jp/research/discussion/2004/pdf/D04-64.pdf
+UNCTAD (2003). E-Commerce and Development Report 2003Geneva: United Nations.
+UNCTAD (2004a). E-Commerce and Development Report 2004. Geneva: United Nations.
+UNCTAD (2004b). World Investment Report 2004. The Shift Towards Services. Geneva: United Nations.
+UNCTAD (2005). Information Economy Report 2005. Geneva: United Nations. 
+UNCTAD (2006). Information Economy Report 2006. Geneva: United Nations. 
+van Welsum D and Vickery G (2005). Potential offshoring of ICT-intensive using occupations. DSTI Information Economy Working Paper, OECD, Paris; available at www.oecd.org/sti/offshoring
+van Welsum D and Reif X (2006a). The share of employment potentially affected by offshoring - an empirical investigation. DSTI Information Economy Working Paper, OECD, Paris; available at www.oecd.org/sti/offshoring. 
+van Welsum D and Reif X (2006b). Potential impacts of international sourcing on different occupations. DSTI Information Economy Working Paper, DSTI/ICCP/IE(2006)1/FINAL, OECD, Paris; available at www.oecd.org/sti/offshoring. forthcoming
+Waverman L, Meschi M and Fuss M (2005). The impact of telecoms on economic growth in developing countries. Vodafone Policy Paper Series: Africa: The impact of mobile phones, Number 2, March 2005, pp.10-23.
+Whisler A and Saksena A (2003). Igniting the next broadband revolution. Accenture Outlook Journal, January 2003, available on the Internet: http://www.accenture.com/Global/Research_and_Insights/Outlook, accessed May 2006.
+WSIS Geneva Declaration of Principles, 2003. Declaration of Principles. Building the Information Society: A Global Challenge in the New Millennium. 
+http://www.itu.int/ITU-D/ict/statistics/at_glance/f_staff.html
+1 This paper benefited from valuable inputs by the ILO and OECD secretariats.
+2 The analysis is based on the Infodensity composite index developed by the Orbicom Digital Divide Initiative, which defines Infodensity as “representing the ICT productive function of an economy”, composed of ICT enhancing capital and labour (Orbicom, 2003).
+3 Other composite ICT indexes include the World Economic Forum (WEF) Network Readiness Index, the ITU Digital Access Index and Digital Opportunity Index, the UNCTAD Index of ICT Diffusion, and the Economic Intelligence Unit (EIU) e-readiness ranking. 
+4 Such as difficult access to credit, lower diffusion of technology, lower enrolment rates in higher education resulting in scarce high-skilled labour, etc.
+5 Based on a presentation by OECD at the WPIIS Expert Group on ICT Impact, Paris, 4 May 2006.
+6 For more information, see UNCTAD (2006).
+7 For more information on the choice of technology, network effects, strong ties and loose ties, see Suarez (2005).
+8 Outsourcing is defined as the contracting out of operations from the internal production of a company to a third party. Operations can be transferred within the same country (domestic outsourcing) or abroad (international outsourcing). Offshoring is defined as the transfer of activities abroad. It can be done internally by moving services from a parent company to its foreign affiliates (sometimes referred to as “captive offshoring”, involving FDI, in differentiation from offshoring to third parties). It is different from the concept of outsourcing, which always involves a third party, but not necessarily a transfer abroad. Offshoring and outsourcing overlap only when the activities in question are outsourced internationally to third-party services providers (UNCTAD, 2004 b). For more information on business process outsourcing, see UNCTAD (2003).
+9 ICT-enabled services are here defined to include communication, insurance, financial, computer and information services, royalties and licence fees, other business and personal, cultural and recreational services.
+10  OECD (2006), chap. 3.
+11 Like data entry, back office operations, transaction processing, and even research and development.
+12 Accordingly, potentially offshorable jobs are those that use ICTs intensively, produce output that can be digitized or otherwise transmitted through ICTs or have no face-to-face contact requirements.
+13 Defined as computer and information services and other business services.
+14 http://www.itu.int/ITU-D/ict/statistics/at_glance/f_staff.html
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+TD/B/COM.3/EM.29/2
+Page 18
+
+
+TD/B/COM.3/EM.29/2
+Page 19
+
+
+
+
+GE.06-51601
+

@@ -1,0 +1,316 @@
+Measuring progress: review of the targets and information and communications technology indicators of the World Summit on the Information Society**
+Note by the secretariat
+Summary
+    Asia and the Pacific is at the forefront of the information and communications technology (ICT) revolution, ranking as the largest producer and exporter and as one of the main consumers of ICT. Understanding the benefits and costs of ICT has become more complex, making it more challenging for policymakers to analyse its social, economic and environmental impact. Consequently, governments urgently need accurate, relevant and internationally comparable data. 
+    In response, the World Summit on the Information Society called for developing clear indicators for ICT measurement. The Partnership on Measuring ICT for Development was subsequently launched as an inter-agency initiative tasked with defining a core list of indicators and related statistical methodologies and standards in order to build up an internationally comparable database for ICTs. Despite progress made by the Partnership in increasing the availability of statistics, the Asia-Pacific region continues to show the largest data gaps. As a consequence, it is particularly difficult for policymakers of the region to base their strategies on evidence-based analysis. Among other things, the gaps concern key data sets that would facilitate a better understanding of the multidimensional impact that ICTs have on sustainable development goals in the context of the emerging post-2015 development agenda.
+    The secretariat, as a founding member of the Partnership, proposes to support the region in its efforts related to ICT statistics. In this regard, it will implement a regional review of the availability of indicators in the region and assess progress in the implementation of the targets of the World Summit on the Information Society in preparation for the ten-year review of the implementation of the World Summit on the Information Society in 2014/15. 
+    The secretariat also proposes to support countries by delivering appropriate capacity-building activities in this area through its regional institute, the Asian and Pacific Training Centre for Information and Communication Technology for Development (APCICT). 
+    The Committee may wish to consider these issues and to provide further guidance to the secretariat in its implementation of this work. 
+Contents
+									Page
+	I.	Introduction	3
+	II.	The Partnership's core indicators and regional trends	3
+		A.	ICT access and infrastructure	4
+		B.	ICT access and use by households and individuals	8
+		C.	ICT use in businesses	9
+		D.	ICT sector measurement	10
+		E.	Indicators on measuring ICT in education	11
+		F.	E-government indicators	12
+	III.	Measuring progress towards achieving the targets of the World Summit on the Information Society	13
+	IV.	Work in progress: selected emerging issues of relevance to the 
+Asia-Pacific region	14
+		A.	E-waste	14
+		B.	Social indicators	14
+		C.	Infrastructure networks	15
+		D.	Economic indicators	15
+	V.	Issues for consideration by the Committee	15
+		A.	Partnership on Measuring ICT for Development	15
+		B.	World Summit on the Information Society review	16
+	VI.	Conclusions	16
+Tables
+	1.	Mobile phone penetration per region	5
+	2.	Fixed broadband Internet subscribers per 100 inhabitants	6
+	3.	International Internet bandwidth per inhabitant	7
+	4.	Top five economies with highest and lowest broadband tariffs in the ESCAP region	8
+	5.	Selected indicators on business use of ICT in Asia and the Pacific	10
+	6.	E-government development index across selected regions	12
+Annexes
+	I.	Revised and extended core list of ICT indicators of the Partnership on Measuring ICT for Development	18
+	II.	Availability of core indicators	20
+	II.	Core indicator levels in the Asia-Pacific region	21
+	IV.	List of economies by categories used in the present report	23
+
+	I.	Introduction
+1. Over the past 20 years, information and communications technologies (ICTs) have become essential in the functioning of societies and economies due to the rapid rate of innovation. Innovations related to the mobile phone and broadband Internet have leapfrogged intermediate technologies, and are providing a host of new services to people who were previously unable to tap into communications technologies. The Asia-Pacific region is at the heart of this progress, both in terms of ICT penetration and as the global hub for the production and export of ICT goods and services.
+2. Understanding the benefits and costs of ICT have become more complex, making it more challenging for policymakers to analyse its social, economic and environmental impact. Consequently, governments urgently need accurate, relevant and internationally comparable data. Following a number of initiatives at the individual country level, the World Summit on the Information Society called for the development of clear indicators and methodologies for ICT measurement. The Partnership on Measuring ICT for Development was subsequently launched at the eleventh United Nations Conference on Trade and Development (UNCTAD XI) in Sao Paulo, Brazil, in June 2004.1
+3. The Partnership on Measuring ICT for Development is a multi-stakeholder initiative aimed at improving the availability and quality of internationally comparable ICT statistics.2 The work of the Partnership has received the endorsement of the Statistical Commission as well as the Economic and Social Council. Internal and external evaluation exercises have hailed its performance as constituting a good practice in terms of inter-agency coordination, avoiding redundancies of work and facilitating cost-saving synergies.3 ESCAP and other regional commissions are among the members of the Partnership.
+4. The purpose of the present note is to review the statistical initiatives of the Partnership, examine the region’s trends in ICT development that have emerged from the Partnership’s indicators, and present for the consideration of the Committee areas for future work of ESCAP.
+	II.	The Partnership's core indicators and regional trends
+5. The Partnership has developed a core list of ICT indicators that every country must agree to collect in order to build a common and internationally comparable database. These core indicators were defined through a global consultation process, which also involved the Asia-Pacific region. The Partnership and its members, in consultation with member countries, are continuously adjusting and improving the core list based on data-collection experiences and technological changes. So far, five clusters of core indicators have been developed. For each cluster, one of the Partnership’s agencies assumes a leading role, according to its area of expertise and mandate. 
+	A.	ICT access and infrastructure
+6. The Partnership has mandated the International Telecommunication Union (ITU) to develop a set of indicators to measure ICT access and infrastructure (see annex I for details).
+7. These indicators are mainly collected through administrative data obtained from telecommunication regulators and ICT ministries. Typically, they are available for a large number of countries and are usually up-to-date and relatively inexpensive to gather. Furthermore, as there is a relatively long history of collection for these indicators, they are now available for more than 80 per cent of countries worldwide, allowing for a significant degree of comparability and offering policymakers a very useful broad view on the situation of their national ICT markets. On the other hand, they may provide less statistical insight than data based on surveys through which more information can be collected and cross-variable correlations can be drawn. 
+8. With regard to data availability for basic ICT access indicators worldwide, Asia and the Pacific not only has the lowest availability rate across developing regions but also has experienced a decline in availability. This highlights the need for more sustained data development efforts among ESCAP members and associate members, a point that will be expanded on in the final section of the present report.
+	1.	Fixed telephony
+9. Between 2005 and 2011, the penetration rates of fixed telephony decreased by 8.96 per cent in Asia and the Pacific. This is in line with the declines experienced in most regions worldwide, including developed countries, as mobile phones and voice-over-Internet protocol gained inroads. This regional weighted average is largely influenced by the changes in the two most populous countries of the region, China and India. A closer look at the situation shows that there are significant variations across countries, with a number of ESCAP member countries in all income categories experiencing gains in fixed telephony penetration. 
+	2.	Mobile telephony
+10. Data on mobile phone subscriptions clearly indicate the realization of the mobile phone miracle in the Asia-Pacific region (see figure 1 in annex III). Thanks to investments in infrastructure, increased competition and declining hardware costs, prices of mobile telecommunications have come down, enabling mobile telephony to be accessible and affordable to a much larger share of the population. The region’s average penetration rates have jumped by 215 per cent between 2005 and 2011, increasing from 25.77 per cent to 81.18 per cent. Consequently, with regard to mobile telephony, the World Summit on the Information Society target 10, namely “Ensure that more than half the world’s inhabitants have access to ICT within their reach”4 has been surpassed well before the end of the implementation period. Furthermore, the rates of increase have been far higher in countries that started from a lower base of mobile phone penetration. In 2005, only 14 countries (all from the high-income or upper-middle-income categories) had a penetration rate of more than 50 per cent. By 2011, at least 45 ESCAP members had surpassed the 50 per cent penetration benchmark, including many least developed countries. Notably, the countries in South Asia have performed particularly well in this area, and, as a result, their large populations are able, for the first time, to reap the multiple benefits of connectivity. The core indicator on mobile phone subscriptions per 100 inhabitants for India increased almost tenfold, jumping from 7.91 per cent to 72 per cent between 2005 and 2011. Similar progress was recorded in Pakistan (8.05 per cent to 61.61 per cent) and Bangladesh (6.4 per cent to 56.48 per cent). Least developed countries in Asia and Central Asian countries have also enjoyed very rapid increases in their penetration rates while Pacific island States have made progress at a slower rate (table 1). At the other end of the spectrum, the developed and more advanced countries of the region have experienced lower growth rates in mobile phone penetration, a reflection of their higher starting base and market saturation. 
+11. In a few countries in the region, coverage is still very low, such as in Kiribati where only 13.54 per cent of its population had access to a mobile signal in 2010. Other examples are the Democratic People’s Republic of Korea (4.09 per cent), the Marshall Islands (7.03 per cent), Myanmar (2.57 per cent) and Nepal (35 per cent). This underlies the need to further increase mobile phone penetration in those countries in order to close the digital divide in mobile telephony. By continuing to incorporate leadership provided by the private sector within an overall pro-poor policy environment provided by governments, the region is moving closer to bringing forward the vision of universal mobile telephony coverage.
+Table 1
+Mobile phone penetration per region
+Regions aA2 – mobile cellular telephone subscriptions per 100 inhabitants1. 20112005Absolute variation in penetration (percentage)ESCAP developed economies and advanced developing economies137.5782.1355.44Other ESCAP developing economies b75.6519.8255.84ESCAP least developed economies47.10  4.7042.40ESCAP Pacific island economies45.60  6.9738.63ESCAP landlocked developing economies77.90  8.9968.91Africa c53.1012.4040.70Arab States c 96.9027.1069.80Europe d120.8091.6029.20Latin America and the Caribbean d106.6543.3563.30North America d102.8967.0735.82a See annex IV for details on ESCAP categories of economies. 
+b ESCAP developing economies excluding: Republic of Korea; Russian Federation; Singapore; Hong Kong, China; and Macao, China.
+c As available from www.itu.int/ITU-D/ict/statistics/at_glance/keytelecom.html.
+d ESCAP, based on ITU World Telecommunication/ICT Indicators database.Source: ESCAP, based on ITU World Telecommunication/ICT Indicators database and www.itu.int/ITU-D/ict/statistics/at_glance/keytelecom.html.
+	3.	Internet penetration
+12. The availability of indicators on Internet penetration, both fixed and mobile narrowband and broadband, remains a problem in the region. Data for mobile broadband are available for only a handful of countries, while for fixed broadband, data are more extensive. Nevertheless, the information available indicates that there is a digital divide with regards to Internet access, and a widening gap for broadband, both fixed and mobile. As mentioned in other secretariat reports prepared for the Committee at its third session, this is a matter of much concern as broadband offers the most complete benefits of the Internet in terms of speed and quality. For example, the use of broadband has become an essential precondition for such activities as outsourcing services overseas or implementing disaster early warning systems. E-data available for 2005 to 2011 indicates that fixed broadband penetration has grown slowly in the region, from 2.34 per cent to 6.79 per cent. A review of the data also brings out a number of other interesting facts. One is that this growth is low by international standards (see table 2 below). Second, the disparities across countries are greatest in this region as the advanced ICT countries in the region top the world ranks, while the developing countries lag behind the developing countries of Latin America. Similarly, the top ten best performers in the region in terms of increased fixed broadband penetration are exclusively high-income countries. The other seven countries that recorded increases that were higher than the regional average during this time period were all high-income or upper middle-income countries. Third, the divide in fixed broadband access is actually increasing rather than decreasing (annex III, figure 2). 
+Table 2
+Fixed broadband Internet subscribers per 100 inhabitants
+Regions aA4 – Fixed broadband Internet Subscribers per 
+100 inhabitants1. 20112005variationESCAP developed economies and advanced developing economies22.3811.8310.57Other ESCAP developing economies b5.131.223.91ESCAP least developed economies0.090.000.09ESCAP Pacific island economies1.100.300.80ESCAP landlocked developing economies1.890.021.87Africa c0.200.000.20Arab States c2.100.301.80Europe c24.8010.9013.90Latin America and the Caribbean d6.661.515.15North America d29.0717.6711.40a See annex IV for details on ESCAP categories of economies. 
+b ESCAP developing economies excluding the following: Republic of Korea; 
+  Russian Federation; Singapore; Hong Kong, China; and Macao, China
+c As available from http://www.itu.int/ITU D/ict/statistics/at_ glance/ keytelecom. html.
+d ESCAP, based on ITU World Telecommunication/ICT Indicators database.Source: ESCAP, based on ITU World Telecommunication/ICT Indicators database and http://www.itu.int/ITU-D/ict/statistics/at_glance/keytelecom.html.
+13. A more detailed breakdown of Internet access data will likely highlight further disparities within countries as well as between urban and rural areas and across gender, age and income levels. As explained above, the availability of disaggregated data is a critical factor for understanding the social dynamics and other characteristics of the digital divide and for formulating targeted corrective measures. Data on household use of the Internet, when available, offer some guidance on that matter.
+	4.	International Internet bandwidth
+14. International Internet bandwidth per inhabitant reflects the quality and speed that can be anticipated for Internet users. As expected, among ESCAP members and associate members, the indicator reveals a large divide between the hyperconnected economies and poorer countries, notably least developed economies, Pacific island economies and landlocked developing economies. Cross-regional comparisons show that the Asia-Pacific region as a whole has made phenomenal strides in terms of Internet bandwidth availability and hence in its infrastructure capacity to provide ICT services. This is largely because the more advanced countries now have the highest bandwidth availability worldwide, while the rest of Asia and the Pacific is at a level comparable to the Middle East and North Africa grouping and lags behind Latin America. International bandwidth in the least developed economies in the region is comparable to what is available in Africa, and has experienced the lowest growth in the world (table 3).
+Table 3
+International Internet bandwidth per inhabitant
+Regions a A6 – International Internet bandwidth per inhabitants (bits/sec/inhabitant)1. 20112005Increase in percentageESCAP developed economies and advanced developing economies53 6642 3302 203Other ESCAP developing economies b9 8604572 056ESCAP least developed economies4 054719464ESCAP Pacific island economies7 301887723.18ESCAP landlocked developing economies6 8634491428Africa3 55340947Arab States9 148797950Europe72 4406 8971 049Latin America and the Caribbean 19 6321 3411 364North America 49 4447 431565a See annex IV for details on ESCAP categories of economies. 
+b Developing economies excluding the following: Republic of Korea; Russian Federation;
+         Singapore; Hong Kong, China; and Macao, China.Source: ESCAP, based on ITU World Telecommunication/ICT Indicators database.
+	5.	Tariffs
+15. The Partnership collects and disseminates data on tariffs for both fixed broadband Internet access and for mobile cellular telephone (pre-paid).
+16. In 2011, the average tariff for broadband Internet access per user among ESCAP members stood at about $15.63 per month, representing 2.17 per cent of average monthly per capita gross national income (GNI). This figure is a weighted average, thus it is largely influenced by countries with large populations. Table 4 shows that the disparities across the region range by a factor of almost 100 with regard to tariffs, and even more in terms of share of income. On the other hand, interestingly, some developing economies, including least developed economies, are within the group that has lowest tariffs for broadband in absolute (US$) terms, demonstrating that there is no inextricable linkage between high broadband prices and low development levels. South Asian economies have, in particular, succeeded in slashing their broadband tariffs to low absolute levels (even though they still remain relatively high in terms of the share of average monthly income). In Bangladesh, the broadband tariff decreased in 2011 to $7.75 a month, a sharp decline of 84.4 per cent from almost $50 per month in 2009. Notwithstanding this drastic reduction, the tariff still amounted to 12.08 per cent of average monthly income in Bangladesh and therefore remained affordable only to people in the upper- and middle-income brackets. 
+Table 4
+Top five economies with highest and lowest broadband tariffs in the ESCAP region 
+(in United States dollars and as a percentage of average monthly income)
+EconomiesFixed broadband Internet monthly access tariff in 2011, US$EconomiesFixed broadband Internet access tariff in 2011, percentage of monthly average incomeFive economies  with highest fixed broadband Internet monthly access tariff Kiribati 428.3Tajikistan478.721. Tajikistan347.1Solomon Islands280.181. Solomon Islands259.2Kiribati243.571. Vanuatu168.6Afghanistan187.831. Lao People’s Democratic Republic139.2Lao People’s Democratic Republic147.87Five economies with lowest fixed broadband Internet monthly access tariffMacao, China8.5Russian Federation1.171. Maldives8.2Singapore0.781. Bangladesh7.8Hong Kong, China0.721. India6.0Japan0.711. Sri Lanka5.5Macao, China0.22Weighted average ESCAP 15.6Weighted average ESCAP 2.17Source: ESCAP, based on ITU World Telecommunication/ICT Indicators database.
+	B.	ICT access and use by households and individuals
+17. ITU has been tasked with defining and collecting indicators on ICT access and use by households and individuals within the Partnership. This series of twelve indicators is composed of six indicators on access to ICT by households and six indicators on ICT use by individuals. The indicator on individuals’ use of the Internet constitutes an indicator for Millennium Development Goal 8 as well as for the targets of the World Summit on the Information Society and the Broadband Commission. These household indicators are usually collected by national statistical offices through household surveys. Developed countries have collected these statistics for a number of years while developing countries have, in general, only started to do this recently, mostly only after the inception of the Partnership, and the design of model questionnaires by ITU to facilitate collection. 
+18. These indicators offer interesting complementary information to the findings provided by the indicators on access and infrastructure as they shed light on the underlying socioeconomic variables that influence ICT usage and the type of ICT usage. They can also be combined with variables, such as income, gender, age and geographical location. This can help policymakers better understand the dynamic ramifications of ICT usage and how various categories of users benefit or are challenged by ICT developments. Ultimately, these indicators provide policymakers with additional tools to refine their policy actions.
+19. With regard to availability of household indicators, for the period 2008-2011, the Asia-Pacific region typically fares better than Africa but lags slightly behind other developing regions (see annex II). Household and individual indicators are currently not available for any of the Pacific economies and very little data have been reported for large South Asian countries, namely Bangladesh, India or Pakistan, or for China. 
+20. Interestingly, the data available on household access to ICT show that mobile phone penetration surpasses fixed phone penetration in all the ESCAP economies and that sometimes the gap between the two is very steep, especially in economies with lower incomes or with low fixed phone penetration rates. This further illustrates the important role the mobile phone is playing in empowering those who had remained unconnected for decades due to inefficient fixed-phone infrastructure.
+21. Recalling the discussion above on the infrastructure indicators, data available on access and use of computers and the Internet show that the region has the greatest disparities in the world (96.8 per cent for Republic of Korea against 2.6 per cent for Bangladesh).5 Other evidence-based insights on the potential benefits of and disruptions caused by the Internet have yet to emerge due to limited information on the use of the Internet by individuals, frequency, location and type of activities.
+	C.	ICT use in businesses
+22. The information economy is envisaged to be made up of two main components, the demand and utilization of ICT by enterprises on the one hand, and production activities encompassing both ICT goods manufacturing and ICT services on the other. There are 12 core indicators on ICT use by business and 4 indicators on the ICT production sector, for which UNCTAD has been tasked to do the collection (annex I).
+
+23. Indicators on ICT use by business provide measures on the following:
+      (a) The presence of ICT in business and the use of ICT by business employees; 
+      (b) The type of utilization of ICT in businesses, including web presence and trading over the Internet as well as by type of economic activity carried out online. 
+24. In order to provide very detailed and policy-relevant information, these indicators are collected by enterprise size and by activity sector.
+25. Available data on ICT use in business provide insights that are useful in terms of implications for firm competitiveness (table 5). As expected, ICT usage in the region is higher among the firms of more advanced economies and lower in the other developing economies. Likewise, specific usage of the Internet by enterprises, such as online banking, varies among economies, possibly due to differences in enabling regulatory environments. In general, large numbers of firms have basic access to ICT, but the usage of ICT tends to decline in relation to the degree of ICT sophistication. 
+Table 5
+Selected indicators on business use of ICT in Asia and the Pacific
+EconomyB1: Proportion of businesses using computersB3: Proportion of businesses using the InternetB5: Proportion of businesses with a web presenceB7: Proportion of businesses receiving orders over the InternetB12: Proportion of businesses using the Internet for Internet bankingB12: Proportion of businesses using the Internet for delivering products onlineAzerbaijan 25.3916.662.650.245.670.78Hong Kong, China 63.5760.6219.971.482119.69Macao China, (2007)44.2635.82.66 a 10.03....Kazakhstan (2008)75.5655.57.3414.1520.222.2Kyrgyzstan96.8638.0110.93....2.25Philippines (2008)88.3772.6534.114....Russian Federation (2008)91.9976.2325.3411.7519.563.96Singapore77.8474.6336.6830.2142.2127.32Thailand (2008)23.4815.717.041.822.231.45Turkey90.6888.8352.169.167.762.75 ba	2003
+b	2004
+Source: UNCTADSTAT, see http://unctadstat.unctad.org/ReportFolders/reportFolders.aspx.
+26. With regards to ICT use in business, additional data are required in order to improve the relevance of cross-country comparisons and formulate robust policy lessons. The development of time series is also essential in order to assess the impact of policy measures aimed at using ICT for private sector development. Likewise, the tabulation of ICT usage data with other data, such as profitability and growth in business turnover, would also be useful in order to assess the microeconomic impact of ICT usage by enterprises.
+	D.	ICT sector measurement
+27. The ICT sector accounts for a large share of the total production and exports of major economies of Asia and the Pacific, with the region now dominating the world's exports in ICT goods and services. Notably, the region is home to seven of the top ten exporters of ICT goods, including world leader China.6
+28. Of the  four core indicators on the ICT production sector (annex  I), two of them  provide a picture of the relative importance of the ICT sector in the overall business sector and the other two measure the share of ICT goods in total national imports and exports of goods, which is the share of ICT in trade flows. 
+29. The two indicators on the relative size of the ICT sector as a share of the private sector are collected through business surveys. This process is expensive and time consuming, resulting in limited data availability. In contrast, trade data on ICT goods are available for most countries globally as they are collected regularly through administrative sources (from customs authorities).
+30. With regard to data on trade in ICT services, no internationally agreed measurement methodologies have been set, even though international trade in ICT services has grown rapidly in the region in such countries as India and the Philippines.
+	E.	Indicators on measuring ICT in education
+31. Improved and universal education is often described as the key ingredient to a successful development outcome. ICT offers unprecedented opportunities in terms of education. E-education projects can bring one way or even interactive communications between instructors and students, including in remote areas. It can greatly enrich pedagogical experiences by offering unprecedented levels to training material. Moreover, much progress has been made in introducing ICT-related subjects and training curricula across all sectors. 
+32. In view of the rising demand for statistical standards on ICT in education, the United Nations Educational, Scientific and Cultural Organization Institute for Statistics (UIS-UNESCO) has developed eight core indicators for the Partnership (annex I). The data used for ICT in education indicators can be generated within existing official administrative sources, and therefore do not have to be obtained through surveys. This should contribute to making the data collection for these indicators sustainable over the long term.
+33. In order to close data gaps globally, UIS-UNESCO launched a pilot project in 2011 that significantly increased data availability in Latin America and the Caribbean. The Institute is implementing a similar exercise, which should result in the publication of new data by mid-2013. This exercise should also significantly increase the availability of core indicators on e-education in the region. The new data will also be useful in efforts to measure progress towards achieving the targets of the World Summit on the Information Society (see section III below) and will provide inputs to the World Summit on the Information Society 2015 regional review process. 
+	F.	E-government indicators
+34. Accessing government services online offers much scope for economic and social development. Among its potential benefits are better delivery of public services to citizens, improved interactions with business and industry, citizen’s empowerment through access to information and more efficient government management, all of which can lead to increased transparency, greater convenience, revenue growth and /or cost reduction. 
+35. At the thirty-eighth session of the Statistical Commission, held in New York from 27 February to 2 March 2007, the Commission encouraged the Partnership to extend the core list of indicators to include indicators on ICT use in government.7 Hence, the Partnership's Task Group on e-Government, led by the Economic Commission for Africa (ECA), proposed seven core indicators on e-government, which can be classified in three areas: the use of ICT by employees of government; the availability of ICT to government organizations; and the supply of 
+e-Government services to citizens. The task force is working on a manual which will provide statisticians with detailed methodologies and guidelines on producing internationally comparable indicators. Upon completion, the Partnership is expected to start to collect and disseminate such data internationally. 
+36. Data are not always readily available at the national level. The Department of Economic and Social Affairs publishes a biennial survey on e-government, which includes the e-government development index (EGDI), a composite indicator measuring the willingness and capacity of national administrations to use information and communication technologies to deliver public services. In 2012, the Republic of Korea topped the ranking of the EGDI at the global level, and as indicated in table 6, Asia on average topped all other regions.
+Table 6
+E-government development index across selected regions
+RegionEGDIAfrica0.278Asia0.5403Europe0.4992Oceania0.424World0.4882Source:  United Nations e-Government Survey 2012, United Nations publication Sales No. E.12.II.H.2.
+	III.	Measuring progress towards achieving the targets of the World Summit on the Information Society 
+37. The World Summit on the Information Society was a multi-stakeholder initiative that brought together governments and representatives of the private sector and civil society to discuss ways and means to deliver the full benefits of ICT for development towards an inclusive information society. The Summit agreed to a set of commitments and actions to be taken by the international community. It also agreed to set 10 targets to be reached by 2015, in line with the Millennium Development Goals, to measure its outcome. These targets are the following:8
+Target 1:	To connect villages with ICTs and establish community access points;
+Target 2:	To connect universities, colleges, secondary schools and primary schools with ICT;
+Target 3:	To connect scientific and research centres with ICTs;
+Target 4:	To connect public libraries, cultural centres, museums, post offices and archives with ICTs;
+Target 5:	To connect health centres and hospitals with ICTs;
+Target 6:	To connect all local and central government departments and establish websites and e-mail addresses;
+Target 7:	To adapt all primary and secondary school curricula to meet the challenges of the Information Society, taking into account national circumstances;
+Target 8:	To ensure that all of the world's population have access to television and radio services;
+Target 9:	To encourage the development of content and put in place technical conditions in order to facilitate the presence and use of all world languages on the Internet;
+Target 10:	To ensure that more than half the world's inhabitants have access to ICTs within their reach.
+38. The core indicators of the Partnership provide insights into several of these targets, such as those pertaining to infrastructure, households, 
+e-education and e-government. Moreover, the Economic and Social Council recommended that the Partnership consider the creation of benchmarks and indicators, including impact indicators, for further consideration and decision by the Statistical Commission, in order to track progress towards the attainment of the specific goals and targets set out in the outcome documents of the World Summit on the Information Society, particularly section B of the Plan of Action adopted in Geneva.9 
+39. Measuring the targets of the World Summit on the Information Society is essential in order to take stock of the progress in the implementation of the Summit’s objectives. Consequently, the forthcoming overall review of the implementation of the Summit outcomes in 2014/1510 will examine these statistical indicators and assess progress achieved. The review will take place in two phases. During the first phase, regional commissions will survey the availability of the World Summit on the Information Society target indicators in their respective regions. In this regard, the secretariat plans to send member States a questionnaire by late 2012 or early 2013. In the second phase, after data gaps are identified, the secretariat, in collaboration with the relevant agencies of the Partnership, will collect and analyse the indicators. The review of the Summit outcomes will coincide with the review of the outcome of the Millennium Development Goals. New targets, which would include ICT, may be set for post-2015 sustainable development objectives. 
+	IV.	Work in progress: selected emerging issues of relevance to the Asia-Pacific region
+40. In line with the mandates set by the member States and the specialization of each of its agencies, the Partnership is developing additional measurement benchmarks to inform and guide policymaking on new ICT issues. With the post-2015 development agenda evolving around sustainable development goals, the Partnership is developing methodologies and continuously reviewing existing practices and indicators to ensure that measurement initiatives address the policy challenges and opportunities arising from the economic, social and environmental impacts of ICTs. Among some of the key issues of interest to this region are as follows: 
+	A.	E-waste
+41. By the end of 2012, it is expected that for the first time, the number of information technology devices in circulation will exceed the number of people living on the planet. For the Asia-Pacific region, as for other regions of the world experiencing massive environmental degradation, e-waste is becoming a growing issue of health and environmental concern. Estimates show that within 10 years, developing countries will replace developed countries as the main source of e-waste. Illegal flows of e-waste from developed to developing countries are also a major concern. Such flows are strictly controlled and limited under the Basel Convention.11 Although most ESCAP member countries have ratified the Convention, there are numerous reports of illegal streams of dangerous electronic material reaching the region’s developing countries. 
+42. Due to their heavy exposure to issues related to e-waste, ESCAP developing economies would benefit from a better understanding of the production and flows of e-waste. A task group was recently created within the Partnership with this mandate. It is led by the Basel Convention Secretariat of the United Nations Environment Programme (UNEP), with the ESCAP secretariat serving as a member of the task group.
+	B.	Social indicators 
+43. Understanding the linkages between ICT access and socioeconomic vulnerabilities related to age, gender and income levels are essential in evaluating the transformative societal impacts of ICTs and the perils that arise when technological innovations disproportionately provide greater opportunities for some groups of people. For example, in developed countries, it is estimated that about a third of the children are using the Internet by the time they reach six years of age, which raises opportunities as well as exposure to new forms of vulnerabilities that have yet to be fully understood. Similarly, a better understanding of the extent to which ICTs are available in a relevant and affordable way to women, in comparison to men, is essential in changing the age-old societal biases and the vestiges of power structures. Some of the Partnership core indicators are already broken down by age and gender and others could be easily broken down, provided that marginal additional efforts are made in collecting the data on the ground. The secretariat is working closely with the Partnership in raising the profile of these issues. 
+	C.	Infrastructure networks
+44. As technological advances drive the need for constant upgrading of existing infrastructure and deployment of new infrastructure, additional indicators on data traffic, network capacity and digital broadcasting, as well as related revenue-generation and investments in network capacities would help facilitate planning processes for both governments and the private sector. With support from the secretariat, these issues were included on the agenda of the 10th World Telecommunication/ICT Indicators Meeting, which was held in Bangkok from 25 to 27 September 2012.
+	D.	Economic indicators
+45. The Partnership has developed indicators on trade in ICT goods but has yet to complement this with indicators for trade in information technology services or for trade that is facilitated by communication technology. The advent of business outsourcing and the rapid emergence of a considerable information technology service export industry in the region have created a strong need for the development of such indicators. In response, the Partnership will soon launch international consultations on the development of new indicators on trade in information technology and ICT-enabled services. In addition, the Partnership is working on developing a methodology to measure the economic impact of ICTs. Such indicators will be relevant to ESCAP members and associate members if they are adapted to their policy needs and statistical capacities rather than be tailor made for developed countries. In this regard, the secretariat’s analytical contribution and participation in the consultations could ensure that the region’s development interests are reflected in the emerging core indicators.
+	V.	Issues for consideration by the Committee
+46. The Committee  may wish to consider the issues addressed above and guide the secretariat on future work on the following items: 
+	A.	Partnership on Measuring ICT for Development
+47. As already discussed, the Partnership has played a significant role in developing harmonized international standards and methodologies for measuring ICT in a growing array of subjects pertaining to development. In doing so, it has made use of existing international standards and has enhanced inter-agency coordination, preventing costly duplication of work and boosting synergies. The Partnership has also provided useful technical assistance to developing countries, including some countries in the Asia-Pacific region. 
+48. In view of accomplishments of the Partnership, ESCAP members and associate members may wish to consider strengthening their support for its work. More specifically, since there is an insufficient amount of data on the core indicators in the region, ESCAP members and associate members may wish to consider ways of stepping up their efforts to collect and disseminate to the Partnership the data on the core list of indicators and other ICT data in relation to their own policy needs. Members and associate members may wish to provide guidance on ways in which the secretariat could strengthen, in collaboration with ESCAP members, its participation in the Partnership. For example, as a founding member, the secretariat could engage in the following activities:
+      (a) Further develop its role as a link between the region and other Partnership agencies;
+      (b) Regularly inform the region on how Partnership initiatives are relevant to its statistical institutions and ICT policymakers;
+      (c) Ensure that emerging indicators reflect the region’s policy needs and statistical capacity, tracking ICT policy areas that require better streamlined measurement and the definition of international standards;
+      (d) Provide analytical background on emerging ICT issues, such as e-waste and ICT social indicators;
+      (e) Produce a recurrent online update on the availability of all the Partnership’s core indicators in the region;
+      (f) Continue to deliver capacity-building activities under the capacity-development programmes of APCICT.
+	B.	World Summit on the Information Society review
+49. As mandated by the Economic and Social Council, the Partnership is launching a review of the implementation of the targets of the World Summit on the Information Society. Members and associate members of ESCAP are invited to support the secretariat’s regional review by facilitating cross-ministerial statistical and ICT policy cooperation with the secretariat and the Partnership so that the necessary data can be made available in a timely manner. This would include preparing timely responses to the ESCAP questionnaire on data availability on the World Summit on the Information Society target indicators. These initiatives will also be brought to the attention of the national statistical offices by the secretariat during a side event on ICT statistics. The event, which will take place on 14 December 2012, is being organized in parallel to the third session of the Committee on Statistics, which will be held in Bangkok from 12 to 14 December 2012. 
+	VI.	Conclusions
+50. With the growing importance of ICT, policymakers as well as the general public have been increasingly confronted with the need for more relevant and internationally comparable data on a wide number of ICT issues.
+51. The international community, including ESCAP members and associate members, agreed at the World Summit on the Information Society to enhance the measurement of ICT and committed to produce data on ICT, including through the Partnership. Some of the statistics on ICT are already widely available. For others, data availability is still very limited and support by the international community will be needed to develop the capacities of least developed countries, landlocked developing countries and Pacific island countries, in particular. 
+52. The ESCAP-led regional review on the World Summit on the Information Society target indicators will provide further understanding on the data gaps in the region and assist in providing an evidence base for policies that build synergies between ICT and sustainable development goals in the context of the post-2015 development agenda. 
+
+           
+Annex I
+Revised and extended core list of ICT indicators of the Partnership on Measuring ICT for Development
+Core indicators on ICT infrastructure and access (ITU)
+A1	Fixed telephone lines per 100 inhabitants
+A2	Mobile cellular telephone subscriptions per 100 inhabitants
+A3	Fixed Internet subscribers per 100 inhabitants
+A4	Fixed broadband Internet subscribers per 100 inhabitants
+A5	Mobile broadband subscriptions per 100 inhabitants	
+A6	International Internet bandwidth per inhabitant (bits/second/inhabitant)
+A7	Percentage of the population covered by a mobile cellular telephone network
+A8	Fixed broadband Internet access tariffs per month in US$, and as a percentage of monthly per capita income
+A9	Mobile cellular telephone prepaid tariffs per month in US$, and as a percentage of monthly per capita income
+A10	Percentage of localities with public Internet access centres (PIACs) 
+Core indicators on access to, and use of, ICT by households and individuals (ITU)
+HH1	Proportion of households with a radio
+HH2	Proportion of households with a television
+HH3	Proportion of households with telephone
+HH4	Proportion of households with a computer
+HH5	Proportion of individuals who used a computer in the last 12 months
+HH6	Proportion of households with Internet access
+HH7	Proportion of individuals who used the Internet in the last 12 months
+HH8	Location of individual use of the Internet in the last 12 months
+HH9	Internet activities undertaken by individuals in the last 12 months
+HH10	Proportion of individuals who used a mobile cellular telephone in the last 12 months
+HH11	Proportion of households with access to the Internet by type of access
+HH12	Frequency of individual use of the Internet in the last 12 months
+Core indicators on use of ICT by businesses (UNCTAD)
+B1	Proportion of businesses using a computer
+B2	Proportion of persons employed routinely using a computer
+B3	Proportion of businesses using the Internet
+B4	Proportion of persons employed routinely using the Internet
+B5	Proportion of businesses with a web presence
+B6	Proportion of businesses with an intranet 
+B7	Proportion of businesses receiving orders over the Internet
+B8	Proportion of businesses placing orders over the Internet
+B9	Proportion of businesses using the Internet by type of access	
+B10	Proportion of businesses with a local area network (LAN)
+B11	Proportion of businesses with an extranet
+B12	Proportion of businesses using the Internet by type of activity
+Core indicators on the ICT (producing) sector and trade in ICT goods (UNCTAD)
+ICT1	Proportion of total business sector workforce involved in the ICT sector
+ICT2	ICT sector share of gross value added
+ICT3	ICT goods imports as a percentage of total imports
+ICT4	ICT goods exports as a percentage of total export
+Core indicators on ICT in education (UIS-UNESCO)
+ED1	Proportion of schools with a radio used for educational purposes
+ED2	Proportion of schools with a television used for educational purposes
+ED3	Proportion of schools with a telephone communication facility
+ED4	Learners-to-computer ratio in schools with computer-assisted instruction
+ED5	Proportion of schools with Internet access by type of access
+ED6	Proportion of learners who have access to the Internet at school
+ED7	Proportion of learners enrolled at the post-secondary level in ICT-related fields
+ED8	Proportion of ICT-qualified teachers in schools
+Core indicators on ICT in Government (ECA)
+EG1	Proportion of persons employed in central government organizations routinely using computers 
+EG2	Proportion of persons employed in central government organizations routinely using the Internet
+EG3	Proportion of central government organizations with a local area network (LAN)
+EG4	Proportion of central government organizations with an intranet
+EG5	Proportion of central government organizations with Internet access, by type of access
+EG6	Proportion of central government organizations with a web presence
+EG7	Selected online services available to citizens, by level of sophistication of service
+
+Annex II
+      Availability of core indicators
+Table 1
+Cross-regional comparison of the availability of the core indicators
+Indicators average availability for the regionRegion and periodA1-A10HH1-HH12B1-B12+ICT1,ICT2ED1-ED8Africa2003?200553.85.2N/AN/A2008?201065.211.35.46.5Asia and the Pacific2003?200553.211.0N/AN/A2008?201060.123.414.73.0Central Asia and
+South?eastern
+European Countries2003?200553.911.8N/AN/A2008?201078.742.129.66.8Latin America and the Caribbean2003?200554.722.0N/AN/A2008?201073.734.414.456.4Western Asia2003?200573.612.5N/AN/A2008?201074.937.534.917.0Other countries
+(mainly OECD)2003?200560.362.5N/AN/A2008?201076.078.783.015.2Total2003?200555.622.6N/AN/A2008?201069.836.4N/AN/ASource: ESCAP, based on background document to the report of the Partnership on Measuring ICT for Development on Information and Communication Technology statistics. Available from unstats.un.org/unsd/statcom/sc2012.htm. Accessed on 8 October 2012.
+
+Annex III
+      Core indicator levels in the Asia-Pacific region
+Figure 1
+A2: mobile-cellular telephone subscriptions per 100 inhabitants in Asia-Pacific countries and territories 
+Source: ESCAP, based on ITU World Telecommunication/ICT Indicators database.
+
+Figure 2
+A4: Fixed broadband Internet subscribers per 100 inhabitants
+
+              Source: ESCAP, based on ITU World Telecommunication/ICT Indicators database.
+
+Annex IV
+      List of economies by categories used in the present report
+ESCAP developed economies and advanced
+developing economies KyrgyzstanPacific island economies Lao People's Democratic Republic  Australia Lao People's Democratic Republic American Samoa Mongolia Hong Kong, China Malaysia Fiji Nepal Japan Maldives French Polynesia Tajikistan Macao, China Marshall Island Guam Turkmenistan New Zealand Micronesia (Federated States of) Kiribati Uzbekistan Republic of Korea Mongolia Marshall Islands Russian Federation  Myanmar Micronesia (Federated States of)ESCAP least developed economies Singapore Nauru Nauru Afghanistan Nepal New Caledonia BangladeshESCAP developing economies a New Caledonia Northern Marianas Islands Bhutan Afghanistan Northern Marianas Islands Palau Cambodia American Samoa Pakistan Papua New Guinea Kiribati Armenia Palau Samoa Lao People's Democratic Republic  Azerbaijan  Papua New Guinea Solomon Islands Myanmar Bangladesh Philippines Timor-Leste Nepal Bhutan Samoa Tonga Samoa Brunei Darussalam Solomon Islands Tuvalu Solomon Islands Cambodia Sri Lanka Vanuatu Timor-Leste China Tajikistan Tuvalu French Polynesia Thailand Vanuatu Fiji Timor-LesteESCAP landlocked economies  Georgia Tonga Afghanistan  Guam Turkey Armenia  India Turkmenistan Azerbaijan  Indonesia Tuvalu Bhutan  Iran (Islamic Republic of) Uzbekistan Kazakhstan  Kazakhstan Vanuatu Kyrgyzstan  Kiribati Viet Nam Democratic People’s Republic of Korea ___________________________________________
+a	 Cook islands and Niue not available from the ITU database
+
+___________________
+1	See TD/412.
+2	See Partnership brochure. Available from www.itu.int/ITU-D/ict/partnership.
+3	See E/CN.3/2012/12.
+4	www.itu.int/ITU-D/ict/publications/wtdr_10/index.html. Accessed 24 September 2012.
+5	ITU World Telecommunication/ICT Indicators database.
+6	Tiziana Bonapace and Jorge Martinez-Navarrete, “The digital economy as an accelerator of regional integration in Asia-Pacific”, ESCAP staff working paper, 2012. Available from http://www.unescap.org/idd/papers.asp. Accessed 
+27 September 2012.
+
+
+7	See Official Records of the Economic and Social Council, 2007, Supplement No. 4 (E/2007/24 – E/CN. 3/2007/30), chap. I, sect. B, decision 38/104, subpara. (d).
+8	See the Plan of Action of the Summit (A/C.2/59/3, annex, chap. I, sect. B, para. 6).
+9	Economic and Social Council resolution 2008/3 of 18 July 2008.
+10	See General Assembly resolution 60/252.
+11	United Nations, Treaties Series, vol. 1673, No. I-28911.
+
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+E/ESCAP/CICT(3)/3
+
+
+E/ESCAP/CICT(3)/3
+
+
+6
+
+7
+
+United Nations	E/ESCAP/CICT/(3)/3Economic and Social CouncilDistr.: General
+19 September 2012
+
+Original: EnglishEconomic and Social Commission for Asia and the Pacific
+Committee on Information and Communications Technology
+
+Third session
+Bangkok, 20-22 November 2012
+Item 6 of the provisional agenda*
+Measuring progress: targets and information and communications technology indicators of the World Summit on the Information Society 
+
+___________________________
+*	E/ESCAP/CICT(3)/L.1.
+**	Late submission is due to  the timing of expert consultations.
+DMR A2012-000291  TP171012	CICT3_3E
+
+19
+
+___________________________
+*	E/ESCAP/CICT(3)/L.1.
+**	The present document was submitted late due to  the timing of expert consultations.
+DMR A2012-000332  TP 091012	CICT3_3E
+

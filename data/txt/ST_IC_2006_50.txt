@@ -1,0 +1,43 @@
+[Start1]
+
+
+	*	The present circular will remain in effect until further notice.
+Information circular*
+		
+	To:	Members of the staff at Headquarters
+
+	From:	The Acting Under-Secretary-General for Management
+
+	Subject:	Termination of support for obsolete computing equipment
+
+
+1.	The Information Technology Services Division (ITSD) establishes standards for computing equipment that connects to the United Nations common network infrastructure. However, funds to acquire and/or replace such equipment have been assigned to the respective individual departments, which are responsible for identifying what equipment needs to be purchased and/or replaced.
+2.	In addition to establishing equipment standards, ITSD provides end-user offices with technical support based on service-level agreements. The age and condition of the equipment used on the network can have a significant impact on the overall performance of the technical infrastructure, and as hardware ages it becomes more difficult to maintain and support. In addition, the age of the equipment also has a negative impact on its capacity to receive the latest software distributed through regular updates of the Central Management Software. 
+3.	Pursuant to the above, and in line with paragraph 7 of General Assembly resolution 58/270, which dictates that the replacement cycle for desktop computer equipment should be no less than four years, ITSD regularly publishes information relating to when it will cease to provide support for computer equipment considered to be obsolete and/or not capable of operating the standard software.
+4.	Therefore, please note the following:
+	(a)	As of 31 March 2007, ITSD will terminate support for all desktop computers below the level of Pentium 4 2.0GHz;
+	(b)	As of 31 December 2007, ITSD will terminate support for all desktop computers below the level of Pentium 4 2.4GHz;
+	(c)	As of 31 December 2008, ITSD will terminate support for all desktop computers below the level of Pentium 4 2.8GHz.
+5.	Current ITSD equipment standards are posted on iSeek, and this information can be viewed by following the links to Topics/Information Technology/Alphabetical List of ITSD Services/Standards (Hardware).
+6.	Users should address questions about departmental replacement schedules to their respective IT Coordinators. The list of IT Coordinators is also available on iSeek by following the links to Topics/Information Technology/Alphabetical List of ITSD Services/IT Focal Points. All other questions, comments or suggestions should be directed to the ITSD Help Desk by e-mail to the Lotus Notes address Help Desk ITSD/NY/UNO, or to the Internet e-mail address helpdeskitsd@un.org.
+
+[Start1]<<ODS JOB NO>>N0663246E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2006/50<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+ST/IC/2006/50
+
+ST/IC/2006/50
+
+06-632462
+
+106-63246
+
+United NationsST/IC/2006/50 
+Secretariat
+28 November 2006
+
+
+
+06-63246 (E)    011206
+*0663246*
+

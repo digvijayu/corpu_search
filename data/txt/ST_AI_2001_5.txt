@@ -1,0 +1,286 @@
+[Start1]
+		Administrative instruction
+
+
+		United Nations Internet publishing
+
+
+
+
+	*	Reissued for technical reasons.
+	The Under-Secretary-General for Management, pursuant to section 4.2 of Secretary-General’s bulletin ST/SG/1997/1 and for the purpose of establishing guidelines for Internet publishing in the United Nations, hereby promulgates the following:
+
+		Section 1
+Scope and purpose of the guidelines for Internet publishing in the
+United Nations; establishment of the Working Group on Internet Matters;
+and revised terms of reference of the Headquarters Working Committee of
+the Publications Board and its working groups in Geneva and Vienna
+
+1.1	The United Nations is committed to providing up-to-date access through the Internet to comprehensive information on the work of the Organization, including the Secretariat and intergovernmental and expert bodies, as well as to its informational databases. The Publications Board is responsible to the Secretary-General for providing overall policy guidance on the public dissemination of and access to United Nations materials, except public information materials, for all United Nations offices at and away from Headquarters, as specified in the guidelines for publishing in an electronic format (ST/AI/189/Add.28). Departments and offices are responsible for implementing those policies so as to meet their objectives in a fully accountable and cost-effective manner.
+1.2	The term “United Nations Internet publishing” refers to the provision of any textual, tabular, graphic or audio-visual material to the public by or on behalf of the United Nations on the Internet.
+1.3	The present guidelines establish an administrative foundation and framework for maintaining the United Nations web sites and for the development and implementation of policies concerning Internet projects. These guidelines set out the procedures and objectives for disseminating United Nations materials over the Internet. The policy issues include, for example, copyright and permission to reproduce United Nations materials, links to and from Internet sites of non-United Nations organizations, the use of the United Nations emblem, contractual arrangements with non-United Nations organizations, free versus paid dissemination and budgetary questions.
+1.4	Consistent with the current regulations for the control and limitation of documentation contained in the administrative instruction entitled, “Initiation, approval and execution of the United Nations biennial publications programme” (ST/AI/189/Add.1/Rev.2), the present instruction applies to materials posted on United Nations web sites.
+1.5	The Publications Board has designated the Electronic Working Group of its Working Committee as the Working Group on Internet Matters. It will be composed of representatives of the Office of Legal Affairs, the Information Technology Services Division of the Department of Management, the Information Technology Section of the Department of Public Information and all substantive content-providing areas as deemed appropriate, including liaison offices for offices away from Headquarters. The Working Group will be chaired by the Information Technology Section of the Department of Public Information and will be entrusted with the following duties:
+	(a)	Coordinating United Nations Secretariat Internet sites and home pages;
+	(b)	Developing and issuing guidelines for home-page layouts of departments and offices, presentation standards, the provision of metadata and the use of search engines, search tools and internal and external hyperlinks.
+1.6	The Working Committee of the Publications Board at Headquarters and the working groups at the United Nations Offices at Geneva and Vienna will be entrusted with the following new duties:
+	(a)	Reviewing the Internet portion of the biennial publications programme submitted by author departments, which will essentially be a broad overview of departmental Internet publishing and will include Internet sites and recurrent publication series, such as newsletters and bulletins. Only notifications of major changes to the Internet programme should be submitted to the Working Committee for its review;
+	(b)	Providing guidance on the publication of sales publications and other copyrighted material on the Internet;
+	(c)	Monitoring compliance with existing guidelines and procedures for publications, electronic publishing and editorial practices as set out in the administrative instructions governing the control and limitation of documentation (ST/AI/189 and applicable addenda), as well as General Assembly resolutions on multilingualism;
+	(d)	Reviewing and making such recommendations as may be necessary to the Publications Board and consulting, as appropriate, with other United Nations offices and departments on the establishment, revision and implementation of additional guidelines and information on Internet publishing, such as on the use of the United Nations emblem; copyright, dissemination and sales policies; quality assurance; and standardization of materials.
+1.7	The Working Committee shall be expanded to include the Chairman of the Working Group on Internet Matters.
+1.8	Offices away from Headquarters may designate appropriate staff members who are available in New York at the time of meetings to represent them, or may forward their comments on pertinent agenda items to the Secretary of the Working Committee. From time to time, offices away from Headquarters may be included in such meetings via videoconferencing facilities.
+
+		Section 2
+Overall responsibility and accountability for United Nations Internet publishing
+
+2.1	The United Nations Internet sites at Addis Ababa, Bangkok, Beirut, Geneva, Nairobi, New York, Santiago and Vienna comprise the main server sites of the Secretariat at Headquarters and at offices away from Headquarters. They offer the most comprehensive access to information on the work of the United Nations for Governments and their missions, other United Nations programmes and organizations, other intergovernmental and non-governmental organizations, the media and the public worldwide. The Publications Board, in view of its coordinating role, its oversight of the Internet publishing programme and its issuance from time to time of administrative instructions and guidelines on Internet publishing, will ensure that the information provided on those web sites is standardized and of high quality.
+
+		Role of United Nations organs and subsidiary bodies
+
+2.2	The General Assembly, on the recommendation of the Committee on Conferences and the Committee on Information, establishes dissemination and access policies for United Nations publishing, including on the Internet.
+2.3	The General Assembly, in paragraph 4 of its resolution 54/248 E of 23 December 1999, requested the Secretary-General to ensure that the goal of the equal treatment of the six official languages is taken into account in the course of the continuous development, maintenance and enrichment of United Nations web sites.
+2.4	All secretariats of United Nations intergovernmental bodies should ensure that proposals for Internet publications being considered by those bodies are reviewed for financial implications. They should also ensure that any such proposals with potential financial implications are brought to the attention of the Office of Programme Planning, Budget and Accounts, and that statements of programme budget implications arising from such proposals are presented to the concerned intergovernmental bodies before they take a decision on them. Once the proposals are approved by intergovernmental bodies, they should be incorporated into departmental work programmes, the proposed programme budget and the publications programme in accordance with established procedures and the proposals forwarded to the Working Committee and the Working Group on Internet Matters for review and inclusion in the Internet portion of the publications programme.
+
+		Responsibilities of the Publications Board
+
+2.5	With regard to Internet publishing policy, the Working Group on Internet Matters will review and advise the Working Committee of the Publications Board on, among other things:
+	(a)	The objectives, organization and coordination of web sites, as well as the Internet portion of the biennial publications programme;
+	(b)	The harmonization and compatibility of the presentation of material and of the related software and file formats used;
+	(c)	The improvement of navigation and search functions, including document numbering and identification systems;
+	(d)	Cooperation with information technology services on hardware, software and security issues;
+	(e)	The confidentiality of designated United Nations materials and the privacy of United Nations staff;
+	(f)	Copyright, the use of the United Nations name and emblem and related intellectual property policies concerning publications, in consultation with the Office of Legal Affairs;
+	(g)	The consistent use of terminology and nomenclature;
+	(h)	The maintenance of up-to-date information on the Organization’s Internet policies and its dissemination to all Secretariat offices and programmes.
+
+		Responsibilities of author departments
+
+2.6	Every department, office, including those away from Headquarters, mission and information centre is encouraged to establish an Internet site relating to its specific programmes, bearing in mind the provisions set out in the present guidelines.
+2.7	All departments and offices planning to maintain an Internet site should include the site in their biennial programme of work and in their proposals to the Publications Board for the biennial publications programme, bearing in mind the desirability of multilingualism, as indicated in General Assembly resolution
+54/248 E. Any major changes in the Internet publishing programme should be submitted to the Working Committee for its review.
+2.8	The responsibilities of the respective departments and offices include developing, authoring, editing and coding the content of Internet home pages and files, coordinating content with related sites and archiving and deleting material from their sites.
+2.9	Each United Nations Internet site and home page should have a United Nations staff member designated as webmaster, who shall be responsible for:
+	(a)	Ensuring technical operations and the maintenance of the site in cooperation with the Information Technology Section of the Department of Public Information, the Information Technology Services Division of the Department of Management and/or relevant local information technology personnel;
+	(b)	Maintaining liaison with the appropriate publications planning officer, the webmaster of the main United Nations Secretariat site (http://www.un.org) and the Publications Board through its Working Committee and the Working Group on Internet Matters.
+The webmaster’s e-mail address should be included.
+2.10	Substantive offices should consult the Public information officials at the duty station concerned before releasing any material related to that duty station that is of primary interest to the media.
+2.11	Departments are also responsible for monitoring and evaluating their web sites in order to better define the objectives of and principal audiences for the individual sites. This is in compliance with the recommendation by the Office of Internal Oversight Services that departments identify the major users of their outputs and services and track indicators of the use made of their work (“Guidelines on programme monitoring and evaluation in departments and offices”, issued with the joint signature of the heads of the Office of Internal Oversight Services and the Department of Management in November 1997). A server log along with user feedback analysis is recommended to measure the use made of individual web sites. The Information Technology Section and the Information Technology Services Division will assist in the technical aspects of audience measurement.
+
+		Section 3
+Administration, preparation, presentation and maintenance of Internet sites
+
+
+		Administration of United Nations Internet sites, home pages and joint sites
+
+
+			Site approval and responsibility
+
+3.1	Guidelines for the administration of United Nations Internet sites and home pages are set out below. They apply to all United Nations Internet sites, including those of the regional commissions and the United Nations Conference on Trade and Development, as well as to any sites provided jointly by the United Nations and another organization or by another organization on behalf of the United Nations.
+3.2	At United Nations Headquarters, the United Nations home page and its links are the responsibility of the Department of Public Information, with technical support provided by the Department of Management. At Geneva, Nairobi and Vienna, responsibility for site operation should be approved by the respective Director-General, and at the regional commissions, by the respective Executive Secretary. The creation and operation of home pages should be approved by officials designated by those senior officials. At all other offices away from Headquarters, as well as at peacekeeping missions, such assignments should be delegated by the senior departmental executive concerned to the chief officer in the field. In the case of home pages developed by United Nations information centres under the authority of the Department of Public Information, prior approval should be sought from the Information Centres Service of the Department.
+3.3	Home pages are entrance points to an Internet site or to principal areas of information on a site. The home pages serve as gateways to collections of directories and files that are maintained by author departments and offices. Every home page should have a clearly identified administrative unit of the Secretariat responsible for it and should include an e-mail address. United Nations offices worldwide are encouraged to establish Internet sites relating to their specific programmes in accordance with the various provisions and guidelines contained in the present administrative instruction and to provide a full range of links to related materials at the main United Nations site (http://www.un.org) at Headquarters. Responsible offices at and away from Headquarters should transmit the addresses and content listings of their respective home pages to the Working Group on Internet Matters, which will maintain a current and comprehensive list for periodic dissemination. Internet sites comprise a site home page with a distinct uniform resource locator (URL) and one or more levels of secondary domains, file directories and linked files in a hierarchical tree.
+
+			Uniform resource locators
+
+3.4	In the Internet domain name system, there are generic top-level domain names, such as “.com”, “.org”, “.edu” and “.net”. There are also country-code specific top-level domain names, such as “.uk”. The domain name specification that comes before the “dot” is referred to as the second-level domain name. Thus, in http://www.un.org, “.org” is the generic top-level domain name and “un” is the second-level domain name. The acronym “ods” in http://www.ods.un.org is a tertiary-level domain name. All tertiary URLs for United Nations web sites should be communicated to the Working Group on Internet Matters, which will monitor the use of these URLs for the main United Nations web site. Lower-level URLs, such as http://www.un.org/works, should be thematically meaningful, and abbreviations and acronyms not widely used should be avoided. The Information Technology Section is responsible for coordinating lower-level URLs. 
+3.5	Any problems related to the registration by the Organization of domain names that use the name or abbreviation of the United Nations or any of its subsidiary organs, or any problems concerning the registration and/or misuse by external entities of such names or abbreviations in domain name registrations should be brought, through the Publications Board Working Group on Internet Matters, to the attention of the General Legal Division, Office of Legal Affairs, for appropriate action.
+
+			Links
+
+3.6	Generally, links from United Nations web sites to external web sites should be avoided. Exceptions to the general policy may be warranted to highlight external web sites that provide information regarding the activities of other non-United Nations system intergovernmental or non-governmental organizations that operate programmes or conduct activities consistent with the policies, aims and activities of the Organization or external web sites that contain information or non-commercialized products (such as downloadable software) that facilitate the use of United Nations web sites. Exceptions to the general policy may be made upon a decision of the Publications Board, through its Working Group on Internet Matters, with advice, as appropriate, from the Office of Legal Affairs, that the proposed link to an external web site would further the policies, aims and purposes of the Organization and would not operate as, or potentially be seen to operate as, an endorsement of the activities or policies of the operator of the external web site.
+
+			Posting rights
+
+3.7	For security purposes, it is necessary to limit the number of content providers directly posting material on to the Headquarters web server. The Information Technology Section will evaluate and approve posting rights for offices requesting such privileges, based on the frequency and urgency of postings. Some offices away from Headquarters may be provided with secure access to the Headquarters web server in order to maintain their sites.
+
+			Server responsibility
+
+3.8	All United Nations files for publication on the Internet, with the exception of public information materials, should physically reside on a web server operated by the United Nations or under arrangements approved by the Publications Board. Examples of such arrangements are:
+	(a)	The department or office may conduct financial transactions through the web page that require an independent server or communication through a vendor-hosted site;
+	(b)	The content requires a level of security that is not available on any of the principal United Nations web servers;
+	(c)	Owing to its technical nature, the content may require special technology that is not available within the United Nations, such as some audio-visual and video programming;
+	(d)	The necessary communications infrastructure or staff skills are not available within the author office;
+	(e)	Where required by lack of technical or infrastructure resources at a United Nations location, the operation of an Internet server may be contracted to an outside entity by the author department, provided that the content of the site is controlled exclusively by the United Nations. Such arrangements are subject to, and should be effected in the form of a written contract in accordance with, the provisions of relevant regulations and rules of the United Nations. Proposals for such arrangements should be forwarded to the Secretary of the Publications Board for review by the Working Group on Internet Matters.
+
+			Day-to-day site support
+
+3.9	Technical infrastructure (including hardware, software and communications systems) is supported at Headquarters by the Information Technology Services Division, or, in some cases, by author departments in coordination with the Division. Responsibility for managing the contents of the Headquarters site rests with the Department of Public Information. The senior executive officials at offices away from Headquarters will designate appropriate officials and offices to undertake those responsibilities for sites away from Headquarters and will liaise with the Information Technology Section and the Information Technology Services Division on those assignments. The officials will assist designated publications planning officers in the preparation and implementation of the Internet publications programme.
+
+			Joint Internet sites and home pages with United Nations programmes
+and agencies
+
+3.10	Where the United Nations and another body or bodies of the United Nations system share responsibility for the contents of a site, the principal responsibility for operating the site and maintaining its content should be indicated clearly on the main home page. Where a department or office of the United Nations Secretariat is not directly responsible for site operation and content, a disclaimer of responsibility should also be attached to the site’s main home page. Where the United Nations is not the operational entity, the United Nations emblem should not be used. Where the United Nations is the operational entity, the emblems or imprints of all bodies concerned may appear in connection with materials that they provide or jointly maintain.
+
+			Joint Internet activities with non-United Nations entities
+
+3.11	Internet activities pages maintained with non-United Nations entities may be established only with the authorization of the Publications Board and, if appropriate, the Office of Legal Affairs.
+
+			Publication of technical material
+
+3.12	Departments may publish on their site non-United Nations technical information, provided such materials have been reviewed by the department concerned and have been determined to be consistent with its work programme. Authorship and responsibility for such materials should be clearly identified therein and the materials should carry a disclaimer such as the one given in section 6 of the attached annex. Where sensitive legal, political or copyright issues may be involved, the department should consult with the Secretary of the Publications Board and, where appropriate, with the General Legal Division of the Office of Legal Affairs before issuing such materials.
+
+			Training
+
+3.13	The Secretariat training programme should, in consultation with the Information Technology Section and the Information Technology Services Division, ensure that a comprehensive range of the necessary training on Internet publishing services is available to staff at all duty stations.
+
+			Preparation of United Nations materials
+
+3.14	The United Nations Internet site at Headquarters (http://www.un.org) is the central web site of the Organization. It should comprise content and references covering the work of the Organization as a whole, with links to all sites at offices away from Headquarters. The specialized activities represented in the various parts of the web sites at and away from Headquarters should be presented in an overall context that can be readily understood and navigated by Internet users, including those in government offices, missions and academic and research institutions, as well as students, the media and the general public.
+3.15	Each department and office is responsible for posting the content of its Internet pages in a timely manner. They are also responsible for ensuring the accuracy and timeliness of content and the application of appropriate editorial and design standards and practices.
+3.16	Improvements and changes in United Nations Internet sites should be undertaken on an ongoing basis, with full coordination among related sites and with the Headquarters site, maintaining balance among the official languages. Changes should be based on systematic evaluation and feedback by users. Technical development and infrastructure should be consistent among the sites and should aim at ease of use in all regions, including those with less advanced hardware and software infrastructure and availability.
+
+		Presentation of United Nations materials
+
+
+			Document presentation
+
+3.17	In general, parliamentary documentation must be posted in accordance with policies governing its official dissemination. Advance text and unedited draft or incomplete versions of parliamentary documentation should not be disseminated on the Internet, except in consultation with the Chairman of the concerned body and its Secretary, and with an appropriate disclaimer.
+3.18	All official documentation, parliamentary and non-parliamentary, must carry the official symbol provided by the competent service and should be prepared from the official electronic files of the optical disk system, where available. The Dag Hammarskjöld Library will provide guidance where needed. If annexes to official documents are not available or cannot readily be converted to an Internet file format, this should also be indicated. All summarized documents should include a hyperlink to the address where the full text can be obtained, if available, or a citation. Where document files are made available to download, the size and format should be clearly indicated. Simple, widely used formats should be used to ensure the widest possible global accessibility. 
+3.19	As stated in the administrative instruction on guidelines for publishing in an electronic format (ST/AI/189/Add.28), no changes may be introduced to the content, presentation or language of the printed document without the approval of the author department and editorial services.
+3.20	All unofficial documentation on United Nations web sites should carry a title, the date and the number of the latest revision, a series identifier (for working papers and newsletters) and a statement of author responsibility, as indicated in paragraph 3.10 above.
+3.21	Further guidance on official symbols and document numbers is contained in the Dag Hammarskjöld Library’s publication “United Nations Documentation: A Brief Guide” (ST/LIB/34/Rev.2 and Corr.1 and 2), and at http://www.un.org/Depts/dhl.
+
+			Editorial guidelines
+
+3.22	The Internet encourages the use of less formal styles of presentation and language than are normally used in United Nations materials. Author departments and offices should use concise, direct language in their unofficial materials on the Internet, especially on home pages, aimed at meeting outside user needs for clarity and directness, including those whose primary language is not the language used in the materials. Slang and idiomatic phrases should be avoided, and abbreviations, acronyms and technical terminology should be explained and used with discretion and only where widely recognizable. 
+3.23	Author departments are also responsible for ensuring high standards of editorial quality and presentation, and for following applicable editorial guidelines on their web sites. The Department of General Assembly Affairs and Conference Services is the authority for editorial, presentation, linguistic and dissemination practices in official and parliamentary documentation throughout the Organization. For all other materials, the editorial and related guidelines contained in administrative instruction ST/AI/189 and applicable addenda on documentation should be followed where practical and applicable. Offices and departments may nevertheless exercise discretion in adapting them to the Internet medium where specific guidance is not contained in the present administrative instruction.
+3.24	All materials provided on the Internet must follow source citation instructions as set out in the United Nations Editorial Manual (ST/DCS/2). In particular:
+	(a)	All references to United Nations materials must include the document symbol or other identifying number and sales number, if applicable;
+	(b)	All other source references must include at least the author, publisher and date and place of publication.
+3.25	In addition, where materials are not officially edited the author department has final responsibility for checking the accuracy of all quotations and citations against the original sources and including specific page, paragraph, table and/or figure numbers in the citation as applicable.
+3.26	National and international information such as treaty texts, terminology and statistics included in web site databases should be reviewed in advance of Internet publication with the relevant department to ensure adherence to the official standards established for the source material.
+
+			Navigation and search tools
+
+3.27	Each site should provide a search mechanism that is compatible with the primary search engine used by the main United Nations web site (http://www.un.org) following discussions with the Information Technology Section and the Information Technology Services Division staff. Such tools should be used in a uniform way across the various home pages of the site, and relatively detailed instructions and tips for users should be available from all home pages using a search tool.
+
+			Use of maps
+
+3.28	Consistent with the guidelines for the publication of maps (ST/AI/189/Add.25/Rev.1), cartographic materials must be reviewed by the Cartographic Section of the Department of Public Information before their publication by an author department on the Internet. The Section will provide advice on accuracy, as well as on the need for any copyright permission or notice, and any disclaimer as to political boundaries or the status of areas.
+
+			Use of photos
+
+3.29	Departments may publish photographs on their web sites. The use of United Nations photographs is permitted with proper attribution. This includes photographs used in design elements. For non-United Nations photographs, appropriate copyright clearance should be obtained by author departments and retained on file.
+
+			Audio-visual and multimedia materials
+
+3.30	Where informational material relies heavily on graphics or audio-visual formats, an alternative text-only set of pages should be considered for ease of access by users with either physical disabilities or slower Internet connections.
+
+		Maintenance of United Nations materials
+
+3.31	Substantive material prepared exclusively for the Internet should be archived and preserved by the author departments. This would result in the long-term preservation of globally accessible, comprehensive and authoritative records on the work of the Organization in cases where they are issued only on the Internet. United Nations libraries will assist in organizing this material. Departments should also maintain parallel electronic records for their own reference.
+3.32	Author departments are also responsible for ensuring that materials that are no longer current are deleted, bearing in mind that archival access to official documents will be maintained through the optical disk system. When the Internet server reaches full capacity, author departments should be informed of the necessity of deleting information and the minimum deletion requirements. Where necessary action is not taken to ensure the continued viability of a server within its capacity, automatic deletion of older materials may be instituted by the webmaster in consultation with the author departments, ensuring that archival copies of the deleted materials are retained.
+
+		Section 4
+Dissemination policy
+
+4.1	The primary objectives of Internet publishing are:
+	(a)	To ensure global and easy access by Governments, the United Nations system and the public at large to United Nations materials and information as well as to achieve efficiencies in the dissemination of those materials;
+	(b)	To preserve the Organization’s intellectual property rights and, where appropriate, to generate revenue and recovery costs in order to finance dissemination costs and the continuing investment in electronic systems and knowledge management technologies in support of the above objectives.
+4.2	The publication sales services should be consulted at the initial stage of planning the dissemination via Internet of any publication that is also normally issued as a sales publication in print, as set out in the guidelines for publishing in an electronic format (ST/AI/189/Add.28). In the case of United Nations databases and other information services not previously issued as sales publications but adjudged to have commercial value, electronic commerce systems may be developed through the cooperation of author departments, publication sales offices and the supporting information technology services. 
+4.3	The sale of information over the Internet should be developed in accordance with United Nations publication pricing policies (ST/AI/189/Add.15/Rev.1), while ensuring free access to partner institutions and relevant government offices as well as in less developed regions, especially the least developed countries. The pricing policy for major electronic services should be considered by the Working Committee of the Publications Board on a case-by-case basis.
+
+		Section 5
+Copyright policy and disclaimers
+
+5.1	Pursuant to the established copyright policy of the Organization (ST/AI/189/Add.9/Rev.2), all published materials of the Organization are generally copyrighted, with the exception of parliamentary documentation and public information material not offered for sale. That includes all intellectual property in the form of text, photos and captions, maps and labels, databases, directories, copyrighted public information materials, software, audio-visual materials and documentation.
+5.2	Sample statements of copyright and terms of use of United Nations materials published on the Internet are provided in the annex. The assertion of copyright found in the first line of section 1 of the annex, and the applicable disclaimers found in sections 3 to 5 should be displayed on all home pages and files published on the Internet. The copyright tag should be linked to the Terms and Conditions of Use of United Nations Web Sites, found in section 2 of the annex. The Terms and Conditions of Use should be maintained as one file and should not be duplicated in various subdirectories.
+5.3	Public information material that is not offered for sale and is not copyrighted may carry the following tag line on each file: “Reproduction and redissemination is encouraged with proper attribution to the United Nations”.
+5.4	Any request for permission to reprint, copy, license or redisseminate any copyrighted United Nations materials published on the Internet must be referred to the Secretary of the Publications Board. A final decision will be made on a case-by-case basis in accordance with the best interests of the Organization and with specific considerations based on the current guidelines.
+5.5	References to external web sites must not be seen as an endorsement on the part of the United Nations of external organizations not part of the United Nations system, including non-governmental organizations, or of commercial establishments and products. Authors may provide URLs as citations to relevant materials on non-United Nations-related sites. Where appropriate, a disclaimer of United Nations responsibility for or endorsement of any such site or commercial product should be included in the text of the citation.
+5.6	If there is a contract with an outside entity to create a web site for the United Nations it is understood that the United Nations does not assign, transfer or otherwise grant any copyright or any other intellectual or property rights that it may have to the content of the site.
+
+		Section 6
+Coordination in the United Nations system
+
+	Coordination activities will be pursued through the Information Systems Coordinating Committee of the Administrative Committee on Coordination in, for example, the development of search and retrieval programs, supporting metadata systems and information on library holdings, publications and documentation; the pooling of information for international security and humanitarian crises requiring quick response; the harmonization of common databases; and the exchange of technical information.
+
+		Section 7
+Final provision
+
+	The present instruction shall enter into force on 1 July 2001.
+
+(Signed) Joseph E. Connor
+Under-Secretary-General for Management
+
+Annex
+
+		Copyright, terms of use and disclaimer notices for use on United Nations web sites
+
+
+	1.	Copyright notice
+
+	Copyright (c) United Nations [date]. All rights reserved. None of the materials provided on this web site may be used, reproduced or transmitted, in whole or in part, in any form or by any means, electronic or mechanical, including photocopying, recording or the use of any information storage and retrieval system, except as provided for in the Terms and Conditions of Use of United Nations Web Sites, without permission in writing from the publisher. To request such permission and for further enquiries, contact the Secretary of the Publications Board, United Nations, New York, NY, 10017, USA (email: pubboard@un.org; facsimile: 1(212)963-4969).
+
+	2.	Terms and Conditions of Use of United Nations Web Sites
+
+	The use of this web site constitutes agreement with the following terms and conditions:
+	(a)	The United Nations maintains this web site (the “Site”) as a courtesy to those who may choose to access the Site (“Users”). The information presented herein is for informative purposes only. The United Nations grants permission to Users to visit the Site and to download and copy the information, documents and materials (collectively, “Materials”) from the Site for the User’s personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works therefrom, subject to the terms and conditions outlined below, and also subject to more specific restrictions that may apply to specific Material within this Site. 
+	(b)	The United Nations administers this Site. All Material on this Site from the United Nations appears subject to the present Terms and Conditions.
+	(c)	Unless expressly stated otherwise, the findings, interpretations and conclusions expressed in the Materials on this Site are those of the various United Nations staff members, consultants and advisers to the United Nations Secretariat who prepared the work and do not necessarily represent the views of the United Nations or its Member States.
+
+		Disclaimers
+
+	Materials provided on this Site are provided “as is”, without warranty of any kind, either express or implied, including, without limitation, warranties of merchantability, fitness for a particular purpose and non-infringement. The United Nations specifically does not make any warranties or representations as to the accuracy or completeness of any such Materials. The United Nations periodically adds, changes, improves or updates the Materials on this Site without notice. Under no circumstances shall the United Nations be liable for any loss, damage, liability or expense incurred or suffered that is claimed to have resulted from the use of this Site, including, without limitation, any fault, error, omission, interruption or delay with respect thereto. The use of this Site is at the User’s sole risk. Under no circumstances, including but not limited to negligence, shall the United Nations or its affiliates be liable for any direct, indirect, incidental, special or consequential damages, even if the United Nations has been advised of the possibility of such damages.
+	The User specifically acknowledges and agrees that the United Nations is not liable for any conduct of any User.
+	This site may contain advice, opinions and statements of various information providers. The United Nations does not represent or endorse the accuracy or reliability of any advice, opinion, statement or other information provided by any information provider, any User of this Site or any other person or entity. Reliance upon any such advice, opinion, statement, or other information shall also be at the User’s own risk. Neither the United Nations nor its affiliates, nor any of their respective agents, employees, information providers or content providers, shall be liable to any User or anyone else for any inaccuracy, error, omission, interruption, deletion, defect, alteration of or use of any content herein, or for its timeliness or completeness, nor shall they be liable for any failure of performance, computer virus or communication line failure, regardless of cause, or for any damages resulting therefrom.
+	As a condition of use of this Site, the User agrees to indemnify the United Nations and its affiliates from and against any and all actions, claims, losses, damages, liabilities and expenses (including reasonable attorneys’ fees) arising out of the User’s use of this Site, including, without limitation, any claims alleging facts that if true would constitute a breach by the User of these Terms and Conditions. If the User is dissatisfied with any Material on this Site or with any of its Terms and Conditions of Use, the User’s sole and exclusive remedy is to discontinue using the Site.
+	This Site may contain links and references to third-party web sites. The linked sites are not under the control of the United Nations, and the United Nations is not responsible for the content of any linked site or any link contained in a linked site. The United Nations provides these links only as a convenience, and the inclusion of a link or reference does not imply the endorsement of the linked site by the United Nations.
+	If this Site contains bulletin boards, chat rooms, access to mailing lists or other message or communication facilities (collectively, “Forums”), the User agrees to use the Forums only to send and receive messages and materials that are proper and related to the particular Forum. By way of example and not as a limitation, the User agrees that when using a Forum, he or she shall not do any of the following:
+	(a)	Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+	(b)	Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
+	(c)	Upload or attach files that contain software or other material protected by intellectual property laws (or by rights of privacy and publicity) unless the User owns or controls the rights thereto or has received all consents therefor as may be required by law;
+	(d)	Upload or attach files that contain viruses, corrupted files or any other similar software or programs that may damage the operation of another’s computer;
+	(e)	Delete any author attributions, legal notices or proprietary designations or labels in any file that is uploaded;
+	(f)	Falsify the origin or source of software or other material contained in a file that is uploaded;
+	(g)	Advertise or offer to sell any goods or services, or conduct or forward surveys, contests or chain letters, or download any file posted by another user of a Forum that the User knows, or reasonably should know, cannot be legally distributed in such manner.
+	The User acknowledges that all Forums and discussion groups are public and not private communications. Further, the User acknowledges that chats, postings, conferences, e-mails and other communications by other Users are not endorsed by the United Nations, and that such communications shall not be considered to have been reviewed, screened or approved by the United Nations. The United Nations reserves the right to remove, for any reason and without notice, any content of the Forums received from Users, including, without limitation, e-mail and bulletin board postings.
+
+		Preservation of immunities
+
+	Nothing herein shall constitute or be considered to be a limitation upon or a waiver of the privileges and immunities of the United Nations, which are specifically reserved. 
+
+		General
+
+	The United Nations reserves its exclusive right in its sole discretion to alter, limit or discontinue the Site or any Materials in any respect. The United Nations shall have no obligation to take the needs of any User into consideration in connection therewith.
+	The United Nations reserves the right to deny in its sole discretion any user access to this Site or any portion thereof without notice.
+	No waiver by the United Nations of any provision of these Terms and Conditions shall be binding except as set forth in writing and signed by its duly authorized representative.
+
+	3.	Disclaimer for reproduction of official documents
+
+	This is an unofficial copy for informational purposes only [and, if applicable] prepared from the official electronic file.
+
+	4.	Country and area nomenclature
+
+	The designations employed and the presentation of Material in this Internet publication do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The term “country” as used in this Material also refers, as appropriate, to territories or areas.
+	The designations “developed” and “developing” regions are intended for statistical and analytical convenience and do not necessarily express a judgement about the stage reached by a particular country or area in the development process.
+
+	5.	Privacy notice
+
+	By accessing this site, certain information about the User, such as Internet protocol (IP) addresses, navigation through the Site, the software used and the time spent, along with other similar information, will be stored on United Nations servers. These will not specifically identify the User. The information will be used internally only for web site traffic analysis. If the User provides unique identifying information, such as name, address and other information on forms stored on this Site, such information will be used only for statistical purposes and will not be published for general access. The United Nations, however, assumes no responsibility for the security of this information.
+
+	6.	Authorship disclaimer
+
+	This report has been prepared by _______ [as applicable: “as consultant to the United Nations Secretariat”, or “in a private capacity”, or “as (give professional title and affiliation)”]. As provided for in the Terms and Conditions of Use of United Nations Web Sites, the opinions expressed in this report are those of the author and do not necessarily reflect those of the United Nations or its Member States. This report is reproduced as submitted by the author [except as otherwise noted].
+
+
+[Start1]<<ODS JOB NO>>N0142099E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/AI/2001/5<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+16
+
+17
+
+United NationsST/AI/2001/5* 
+Secretariat
+22 August 2001
+
+
+
+01-42099* (E)    230801
+*0142099*
+

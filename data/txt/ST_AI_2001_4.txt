@@ -1,0 +1,124 @@
+[Start1]
+		Administrative instruction
+
+
+		Disposal of computer equipment at United Nations Headquarters
+
+
+
+	The Under-Secretary-General for Management, for the purpose of setting forth procedures and guidelines to be followed for disposal of computer equipment at United Nations Headquarters, promulgates the following:
+
+		Section 1
+		Outline of the procedure
+
+1.1	Further to the decision to decentralize the procurement of computer equipment in the biennium 1998-1999, the responsibility for inventory management and for disposal of such equipment remains with the departments and offices. As stated in paragraph 6 of document A/C.5/50/51 of 28 February 1996, “... each department and office shall continue to be responsible and accountable for creating, maintaining, and updating its property records, monitoring movement of its property, recommending disposal of obsolete and unserviceable property, and conducting periodical physical inventories during each biennium. Departments and offices will be required to designate a property records custodian as the focal point and to establish their own administrative arrangements for that purpose”.
+
+		List of equipment
+
+1.2	Departments and offices that need to dispose of computer equipment must first submit a list of equipment to the Information Technology Services Division (ITSD) and request advice on disposal methods. The list must contain the manufacturer, model, and serial number of each piece of equipment. The request for advice with the attached list must be submitted by the departmental property records custodian, using form ITSD.1 (ITSD Request for Services Form), to the ITSD Requests for Services Group, Room S-1951B.
+
+		Assessment of condition for possible donation to permanent missions
+
+1.3	ITSD will assess the condition of the equipment. If all or some of the equipment is suitable for donation to permanent missions and if there are pending requests from them, ITSD will make arrangements to pick up the equipment from the department, prepare them for donation and dispatch them. The department’s property records custodian must keep records of the transfer of equipment to ITSD. ITSD is responsible for any submissions to the Headquarters Property Survey Board (HPSB) related to donation of equipment to permanent missions.
+
+		Value determination
+
+1.4	When the equipment is not donated, ITSD will determine the current estimated sale or trade-in value, using trade reference reports of all remaining equipment, and will assist the department in arriving at recommendations for disposal. ITSD will issue a written statement to the department of its findings.
+
+		Submission to HPSB
+
+1.5	Pursuant to financial rule 110.32, the property records custodian must complete form HPSB.1 (HPSB Case Report and Recommendation), with a recommendation on the proposed method of disposal and a brief justification, and forward the completed form to the Secretary of HPSB. The form must be signed by an authorized department official. The list of equipment and the statement from ITSD must be attached to the form. If necessary, the department may ask for ITSD assistance in preparing its submission to HPSB.
+
+		Approval
+
+1.6	HPSB will submit a recommendation on the submission to the Controller and the Assistant Secretary-General, Office of Central Support Services, for their consideration and approval. The Secretary of HPSB will send a memorandum notifying the department of their decision.
+
+		Deletion of software and data from disk drives
+
+1.7	The property records custodian must ensure that all disk drive contents (data and software) of computers approved for disposal are erased prior to actual disposal. Departments may contact ITSD for advice on how to erase the content of computers in a safe and effective manner. ITSD will also post on the Intranet the guidelines for erasing disk drive contents.
+
+		Implementation of approved HPSB recommendations for disposal
+
+1.8	After a copy of the approval is received, the property records custodian may proceed with the actions necessary to implement the approved recommendation for disposal.
+
+		Deletion from inventory records
+
+1.9	The property records custodian is responsible for deleting equipment from departmental inventory records.
+
+		Section 2
+		Possible methods of disposal
+
+2.1	Five possible methods of disposal are described below. Departments may recommend more than one method for each HPSB submission. The methods are:
+	(a)	Trade-in;
+	(b)	Sale to highest bidder;
+	(c)	Donation to other United Nations organs or non-governmental organizations;
+	(d)	Sale to United Nations staff;
+	(e)	Discarding the equipment.
+2.2	Notification to ITSD in relation to any of the methods listed must be provided by the property records custodian in writing and sent to ITSD Requests for Service, Room S-1951B, or by electronic mail to ITSD Requests-for-Service.
+
+		Trade-in
+
+2.3	If ITSD determines that the used equipment still has some commercial value the department may opt to recommend a trade-in. The trade-in method allows a department to buy new equipment and pay for a portion of its cost by giving the vendor its old equipment. After notice of approval of its submission is received from HPSB, the department must request the Procurement Division to identify and select vendors that are willing to accept trade-ins through tender solicitation, in accordance with the financial regulations and rules.
+
+		Sale to highest bidder
+
+2.4	Alternatively, if ITSD determines that the used equipment still has some commercial value, the department may opt to recommend the sale of the equipment to the highest commercial bidder. After notice of approval of its submission is received by HPSB, the department must request the Procurement Division to identify interested bidders and conduct competitive bidding to sell the equipment to the highest bidder.
+
+		Donation to other United Nations organs or non-governmental organizations
+
+2.5	The department may opt to recommend donation of used computer equipment to other United Nations organizations or non-governmental organizations in consultative status with the Economic and Social Council or affiliated with the Department of Public Information. After notice of approval is received from HPSB, the department must make arrangements directly with the recipient organization for pick-up or delivery.
+
+		Sale to United Nations staff
+
+2.6	The department may opt to recommend the sale of used computer equipment to staff members. The proceeds from the sale of equipment must be handled in accordance with financial rule 110.37, “Accounting for proceeds from sales”. The procedure to carry out a “staff sale” is as follows:
+	(a)	After notice of approval of its submission is received from HPSB, the property records custodian must announce the sale to staff members and establish internal procedures for the sale;
+	(b)	The property records custodian must complete form ITSD.5 (Bill of Sale) for each buyer, indicating the information for each piece of equipment, unit and total prices;
+	(c)	The buyer must go to the Cashier’s Office in person to pay for the equipment. The Cashier’s Office will issue a receipt to the buyer;
+	(d)	The bill of sale, together with the Cashier’s receipt, will serve as the property pass to allow the buyer to remove equipment from United Nations premises.
+
+		Discarding of equipment
+
+2.7	If ITSD determines that used equipment has no commercial value and is not acceptable for donation to the permanent missions, the department may opt to recommend discarding the equipment. After notice of approval of its submission is received from HPSB, the department must complete form FMD.66 (Requisition for Services and Furniture) to submit a request to the Facilities Management Division (FMD) to pick up and discard the equipment. FMD makes arrangements with qualified vendors to remove such equipment from United Nations premises and dispose of them in accordance with applicable environmental regulations.
+
+		Section 3
+		Forms
+
+3.1	The forms mentioned in the present circular are all available on the Intranet via the following links:
+	ITSD.1 (ITSD Request for Services Form) — Quicklinks, Forms, Information Technology
+	HPSB.1 (HPSB Case Report and Recommendation) — Quicklinks, Forms, Finance
+	ITSD.5 (Bill of Sale) — Quicklinks, Forms, Information Technology
+	FMD.66 (Requisition for Services and Furniture) — Quicklinks, Forms, Supplies and Services
+
+		Section 4
+		Assistance
+
+4.1	Formal advice will be provided by ITSD in accordance with the procedures outlined in paragraph 1.2 above. However, informal assistance with the disposal process may be obtained from the ITSD Request for Services Group by calling extension 3-2040 or by sending electronic mail to ITSD Requests-for-Service.
+
+		Section 5
+		Final provision
+
+	The present instruction shall enter into force on 1 July 2001.
+
+(Signed) Joseph E. Connor
+Under-Secretary-General for Management
+
+[Start1]<<ODS JOB NO>>N0139853E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/AI/2001/4<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+4
+
+3
+
+United NationsST/AI/2001/4 
+Secretariat
+5 June 2001
+
+
+
+01-39853 (E)    110601    
+*0139853*
+

@@ -1,0 +1,79 @@
+[Start1]
+
+
+	*	Expiration date of the present information circular: 31 December 2001.
+Information circular*
+
+	To:	Members of the staff
+
+	From:	The Assistant Secretary-General for Human Resources Management
+
+	Subject:	Human Resources Handbook
+
+
+1.	I am pleased to inform you that the Human Resources Handbook was posted on the Headquarters Intranet at the end of December 2000. The Information Technology Services Division has now expanded access to the Handbook to make it available to managers, administrators and staff who do not have access to the Headquarters Intranet site.
+
+		Access
+
+2.	For staff with access to the Headquarters Intranet, the Handbook may be accessed in a variety of ways:
+	(a)	From the Headquarters Intranet homepage the easiest way to access the Handbook is through any of the links to the Human Resources Handbook made on that page under “Quicklinks”, “Reference Material”, “UN Departments/Department of Management/Office of Human Resources Management” and “Staff Services”;
+	(b)	For staff who do not have the Headquarters Intranet homepage as their default when they open the browser, the Handbook may be accessed by entering one of the following addresses:
+	http://intranet/hr_handbook
+	http://intranet.un.org/hr_handbook
+	http://157.150.196.1/hr_handbook
+Depending on location, one or several of the above addresses will access the Handbook.
+3.	For staff who do not have access to the Headquarters Intranet, the Handbook has been posted in a password protected area, which the user would access by first entering the following address:
+	www.un.org/hr_handbook
+A prompt will appear, requesting a user name and a password. For the time being, and to allow for immediate availability to this new important working tool, the user should enter the word handbook in both the user name and password fields.
+4.	Access through Intranet is preferable, as it will allow full use of all the features of the Handbook, including links to sites available only through the Intranet, as is the case for the “Forms” site, and the use of additional search features not available through Internet.
+
+		Focal points
+
+5.	In order to facilitate the introduction of the Handbook, the following officials have been designated to serve as focal points for any questions that users may have:
+	(a)	For staff serving at Headquarters: Ms. Anchalee Charnsupharindr and Ms. Cornelia Zelter;
+	(b)	For staff serving in peacekeeping missions: Ms. Donna M. Chiurazzi-DelGaudio;
+	(c)	For staff serving in Geneva: Ms. Khin Khin Morvan;
+	(d)	For staff serving in Nairobi: Ms. Vibeke Glavind;
+	(e)	For staff serving in Vienna: Ms. Savitri Butchey;
+	(f)	For staff of the Economic Commission for Africa: Mr. Valeri Evstigneev;
+	(g)	For staff of the Economic and Social Commission for Asia and the Pacific: Mr. Suthat Ungsuthornrungsi;
+	(h)	For staff of the Economic Commission for Latin America and the Caribbean: Mr. Christian Dahoui;
+	(i)	For staff of the Economic and Social Commission for Western Asia: 
+Ms. Danielle Pecorini;
+	(j)	For staff of the International Criminal Tribunal for Rwanda: Mr. George Kabore;
+	(k)	For staff of the International Tribunal for the Former Yugoslavia: 
+Mr. Antonie Vermeulen;
+	(l)	For staff of the United Nations University: Mr. Peter Button.
+The focal points will work with the Information Technology Services Division and other technical experts at their duty station to ensure optimal use of the Handbook. Technical experts at duty stations away from Headquarters should address their questions to the Information Technology Services Division (Ms. Chantal Quincy-Jones and Mr. Eduardo Blinder).
+
+
+		Updates
+
+6.	The Handbook will be updated periodically; the first update has now been posted. I encourage the users to click the “Read me first” button on the Handbook web page, which will provide a list of new elements under “What’s new?”. The same button will also lead to useful navigation tips, including the choice of browsers.
+7.	As part of the effort of the Office of Human Resources Management to streamline the rules and make them more accessible, the electronic handbook replaces the blue three-volume Personnel Manual, for which no further updates will be issued. In keeping with the advances in technology, the Handbook was created in an electronic version for easy updating and maintenance. It will not be distributed in hard copy. However, the official documents contained in the Handbook, such as administrative issuances and information circulars, will continue to be distributed in print as they are issued and will also be posted on the Headquarters Intranet, where they can be accessed through “Quicklinks”, “SGB/AI/IC”, or through “Reference Material”.
+
+		Training
+
+8.	Use of the Handbook is easier for staff familiar with the basics of using Intranet or Internet. Staff members are encouraged to avail themselves of the possibilities existing at their duty station for developing their skills in this area. The courses provided by the Office of Human Resources Management at Headquarters are listed in the booklet entitled “Staff Development Programme 2001”. Headquarters staff may also contact staff of the Dag Hammarskjöld Library for Internet research courses, which also cover basic navigation skills (Maureen Ratynski, who may be contacted at extension 5321 or through email at dhluss@un.org).
+
+[Start1]<<ODS JOB NO>>N0124370E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2001/15<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+2
+
+3
+
+United NationsST/IC/2001/15 
+Secretariat
+8 February 2001
+
+
+
+
+01-24370 (E)    160201 
+*0124370*
+

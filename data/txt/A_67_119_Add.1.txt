@@ -1,0 +1,113 @@
+[Start1]
+		Sixty-seventh session
+
+
+	*	A/67/50.
+Item 136 of the preliminary list*
+		Joint Inspection Unit
+
+
+
+		Information and communications technology governance in United Nations system organizations
+
+
+		Note by the Secretary-General
+
+
+	The Secretary-General has the honour to transmit to the members of the General Assembly his comments and those of the United Nations System Chief Executives Board for Coordination on the report of the Joint Inspection Unit entitled “Information and communications technology governance in United Nations system organizations” (JIU/REP/2011/9).
+
+
+
+	Summary		The report of the Joint Inspection Unit entitled “Information and communications technology governance in United Nations system organizations” aims at promoting effective information and communications technology (ICT) governance through comparative analysis of the different ICT governance frameworks, practices and processes in the various United Nations system organizations with a view to identifying best practices and lessons learned. The report includes 11 recommendations that seek to strengthen the ICT governance frameworks of the United Nations system organizations regarding the role, composition and effectiveness of the organizations’ ICT governance committee, or equivalent; the organizations’ ICT strategy, its alignment with business needs and implementation; the role and responsibilities of the Chief Information Officer, or equivalent; ICT risk management; ICT performance and oversight; and ICT investments.	The present note sets out the views of organizations of the United Nations system on the recommendations provided in the report. The views of the system have been consolidated on the basis of inputs provided by member organizations of the United Nations System Chief Executives Board for Coordination, which welcomed the report and supported its analysis and conclusions.
+
+	I.	Introduction
+
+
+1.	The report of the Joint Inspection Unit entitled “Information and communications technology governance in United Nations system organizations” aims at promoting effective information and communications technology (ICT) governance through comparative analysis of the different ICT governance frameworks, practices and processes in the various organizations of the United Nations system, with a view to identifying best practices and lessons learned. The report includes 11 recommendations that seek to strengthen the ICT governance frameworks of the organizations of the United Nations system regarding the role, composition and effectiveness of the organizations’ ICT governance committee, or equivalent; the organizations’ ICT strategy, its alignment with business needs and implementation; the role and responsibilities of the Chief Information Officer, or equivalent; ICT risk management; ICT performance and oversight; and ICT investments. 
+
+
+	II.	General comments
+
+
+2.	Organizations of the United Nations system largely support the analysis and conclusions of the report and note that it provides useful benchmarking information and advocates a “best practice” approach to ICT governance. Most organizations are pleased to note that the majority of the recommendations contained in the report are already implemented and plans are under way to ensure the implementation of the other relevant recommendations of the report. Agencies further express appreciation for the high degree of collaboration that took place between the Joint Inspection Unit and the heads of ICT at the participating organizations, noting that the Unit participated in two meetings of the Information and Communications Technology Network of the United Nations Chief Executives Board for Coordination (CEB) High-level Committee on Management.
+
+
+	III.	Specific comments on recommendations
+
+
+		Recommendation 1 
+
+The executive heads of the United Nations system organizations should ensure that the ICT governance committee, or equivalent, is composed of the most senior business managers representing all major services of the organization, and chaired by an executive manager, preferably at the level of deputy head of the organization or equivalent. 
+3.	Organizations of the United Nations system support and welcome this recommendation. 
+
+		Recommendation 2
+
+The executive heads of the United Nations system organizations should ensure that the ICT governance committee, or equivalent, is convened regularly with the fullest possible participation of its members, adequate documentation is 
+
+provided in a timely manner and meeting records are kept, so as to make full use of the committee’s work and function.
+4.	Organizations of the United Nations system support and welcome this recommendation. 
+
+		Recommendation 3
+
+The executive heads of the United Nations system organizations should ensure that the function and performance of the ICT governance committee, or equivalent, is reviewed and evaluated regularly, but not less than every three years, so as to ensure its effectiveness and facilitate improvement.
+5.	Organizations of the United Nations system support and welcome this recommendation. 
+
+		Recommendation 4
+
+The executive heads of the United Nations system organizations should ensure that the Chief Information Officer (CIO), or equivalent, should be placed at an appropriate senior level with overall responsibilities and authority, and have access to executive management.
+6.	Organizations of the United Nations system support and welcome this recommendation. 
+
+		Recommendation 5
+
+The executive heads of the United Nations system organizations should ensure that corporate ICT strategies are prepared, endorsed and periodically reviewed and updated, in order to ensure that they are closely aligned to the organization’s business needs and priorities and yield value for their ICT investment.
+7.	Organizations of the United Nations system support and welcome this recommendation.
+
+		Recommendation 6
+
+The legislative bodies of the United Nations system organizations should request the executive heads to present the corporate ICT strategies to Member States for their information and support.
+8.	Organizations of the United Nations system support and welcome this recommendation. They note that this is a well-established practice at most of their legislative and governing bodies.
+
+		Recommendation 7
+
+The executive heads of the United Nations system organizations should make sure that their ICT strategies are closely aligned to the organization’s medium- and long-term strategic plans, or equivalent, so as to ensure that ICT sustains and supports the organization’s business needs and mandates.
+9.	Organizations of the United Nations system support and welcome this recommendation.
+		Recommendation 8
+
+The executive heads of the United Nations system organizations should establish monitoring mechanisms for the implementation of their ICT strategies, ensuring that the ICT strategy and its implementation road map, deliverables and performance indicators are continuously monitored and regularly reported on to the ICT governance committee, or equivalent.
+10.	Organizations of the United Nations system support and welcome this recommendation.
+
+		Recommendation 9
+
+The executive heads of the United Nations system organizations should strengthen their efforts in keeping track of the ICT costs in their organizations, including the total annual recurring and ad hoc ICT costs, as well as details on the main cost elements.
+11.	Organizations of the United Nations system support and welcome this recommendation. Agencies note that an initiative within the ICT Network of the United Nations system seeks to standardize the methodology used by agencies to calculate ICT costs.
+
+		Recommendation 10
+
+The executive heads of the United Nations system organizations should ensure that post-implementation reviews of major ICT investments and projects are conducted in line with the organization’s ICT investment methodologies and policies.
+12.	Organizations of the United Nations system support and welcome this recommendation, although many suggest that further clarity regarding the precise point when many projects are concluded, noting that ICT projects have a substantial business operational component.
+
+		Recommendation 11
+
+The Secretary-General, in his capacity as Chairman of the CEB, should streamline the CEB ICT Network by identifying and focusing on common ICT issues, and providing clear guidance to the Network in order to improve cooperation and coordination among the United Nations system organizations.
+13.	The Secretary-General, as Chair of CEB, welcomes this recommendation. However, within the context of the recommendation, agencies noted, in paragraph 131 of the report, a reference to the number of inter-agency, ICT-related entities, among them a “United Nations-ICC working group”. Agencies note that no such entity exists; they suggest that the report may have been referring to the Management Committee of the International Computing Centre (ICC), which is not an inter-agency working group but the governance body of ICC and is not under the authority of the inter-agency mechanisms.
+
+[Start1]<<ODS JOB NO>>N1239804E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/67/119/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/67/119/Add.1
+
+A/67/119/Add.1
+
+12-398044
+
+512-39804
+
+United NationsA/67/119/Add.1 
+General AssemblyDistr.: General
+29 June 2012
+
+Original: English
+
+12-39804 (E)    180712    
+*1239804*
+

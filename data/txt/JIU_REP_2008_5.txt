@@ -1,0 +1,518 @@
+JIU/REP/2008/5
+
+
+  
+
+
+
+
+
+
+REVIEW OF INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) HOSTING SERVICES IN THE UNITED NATIONS SYSTEM ORGANIZATIONS
+
+
+
+
+Prepared by
+
+Yishan Zhang
+Nikolay Chulkov
+
+
+
+
+Joint Inspection Unit
+
+Geneva 2008  
+
+
+
+
+
+
+
+
+
+
+United Nations
+
+
+
+
+
+
+
+
+JIU/REP/2008/5
+Original: ENGLISH
+
+  
+
+
+
+
+
+
+REVIEW OF INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) HOSTING SERVICES IN THE UNITED NATIONS SYSTEM ORGANIZATIONS
+
+
+
+
+Prepared by
+
+Yishan Zhang
+Nikolay Chulkov
+
+
+
+Joint Inspection Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+United Nations, Geneva 2008
+
+
+
+
+
+
+			
+
+EXECUTIVE SUMMARY
+Review of information and communication technology (ICT) hosting services in the United Nations system organizations
+JIU/REP/2008/5
+Advances in information and communication technology (ICT) allow organizations to obtain their  ICT services from a broader range of sources, both internal and external. The arrangement of utilizing an outside entity to operate a specific ICT component is known as “ICT hosting”. Through these hosted-services arrangements, organizations can realize increased operating efficiencies, including cost savings, and gain access to expertise that may not be readily available internally.
+
+The objective of the review is to provide the governing bodies and executive heads of the United Nations system organizations with a comparative study of the main ICT hosting services, and identify best practices used by the United Nations system organizations. This is done with a view to reducing costs and enhancing efficiency and effectiveness of these organizations’ ICT infrastructure and operations.
+
+The Inspectors are of the view that an ICT hosting decision should be based on three important factors, namely, the organizational situation and business demands, ICT governance and ICT strategy; and cost-benefits analysis of each ICT service considered and that the selection process should incorporate a Strengths, Weakness, Opportunities and Threats (SWOT) analysis. 
+
+The United Nations system organizations encounter various difficulties in carrying out cost-benefits analysis in selecting an ICT hosting service. They also differ on the costing methodology applied and cost elements considered. Hence, they must implement consistent and comparable cost-benefits analysis in order to be accountable to the resources provided by Member States.
+
+ICT hosting services should be selected through effective ICT governance. For this to take place, a competent ICT manager should be held responsible and accountable for a well-managed and strategic ICT operation, including hosted ICT services. The executive heads of the United Nations system organizations should ensure that ICT managers be appointed at a senior level with sufficient access to the strategic decision-making process in the organization so that the ICT strategy and operation is aligned with business strategy.
+
+A comparative study of specific ICT hosting services implemented in several organizations discloses that factors for not using external hosting services include the reduced flexibility in managing resources if hosted externally, less cost effective on some services; difficulty in budgeting external service expenditures; inefficient service delivery; unreliable service quality; and legal concerns of losing extra-territorial status by hosting externally which could result in a possible loss of data confidentiality.
+
+The top factors considered by the United Nations system organizations for seeking external hosting services are: more cost-effectiveness for some services; more flexibility in managing resources; lack of internal expertise in the specific business area; difficulties in creating additional staff posts; and, more reliable service quality. In most cases, organizations using external hosting services realized extensively the expected benefits.
+
+United Nations International Computing Centre (UNICC) is an inter-organization facility to provide electronic data processing services for the United Nations system organizations and other users. More than 25 organizations, funds and programmes of the United Nations system currently use its services and participate in its governance. The Inspectors have learned that UNICC clients have positive comments on the quality and cost of service provided by UNICC, but continue to request it to improve its cost structure and lower its costs, to explore new services and to improve its service quality.
+
+The Inspectors consider the joint governance structure established by UNDP/UNFPA/UNV on Atlas project, a PeopleSoft ERP system, as a best practice for the implementation of a common ICT system since it establishes a mutually acceptable cost recovery mechanism built on transparency and accountability. The Inspectors also view the lead agency and cluster model as best practice in joint ICT initiatives. Through this model, one United Nations system organization takes the lead to implement a new ICT initiative, build the business case and achieve benefits which will become attractive and feasible for other United Nations system organizations to join later thereby formulating a cluster of organizations sharing the same system/application.
+
+Recommendation for the consideration of governing bodies
+
+Recommendation 6
+
+The governing bodies of the United Nations system organizations should request the executive heads to report to their next session on the implementation of the recommendations contained in this report, in particular those recommendations aimed at defining common methodology for ICT costs/expenditures and exploring hosting solutions to take advantage of economies of scale.
+
+
+
+CONTENTS
+ 
+PageEXECUTIVE SUMMARY.	iiiABBREVIATIONS.	viChapterParagraphsI.INTRODUCTION.	1-181II.FACTORS IMPACTING INFORMATION AND COMMUNICATIONS TECHNOLOGY HOSTING SERVICES DECISIONS	.19-424A.ICT governance19-294B.SWOT analysis: a snapshot30-366C.The context for making ICT hosting services decisions37-428III.COMPARATIVE STUDY OF MAJOR INFORMATION AND COMMUNICATIONS TECHNOLOGY HOSTING SERVICES43-649A.Portfolio of ICT Hosting Services43-459B.Level of senior ICT manager, ICT strategy and role of ICT hosting within ICT strategy4610C.Internally hosted services47-4812D.External hosting services49-5112E.UNICC hosting services52-5912F.Cross-hosting services among United Nations system organizations60-6414IV.CONCLUSION	.65-6815ANNEXESI.Cost elements considered in evaluating hosting services16II.Share of all external hosting expenditures over the overall ICT expenditures17III.Source of ICT hosting services by organizations18IV.Overview of action to be taken by participating organizations on JIU recommendations19LIST OF TABLES1.Conceptual SWOT analysis of a United Nations organization’s ICT operation72. Commercial ERP systems and the related ERP hosting service93.Costs of ICT hosting services provided by UNICC based on Yearly Service Delivery Agreements (SDA)13
+ABBREVIATIONS
+
+CEB 		United Nations System Chief Executives Board for Coordination
+CITO		Chief Information Technology Officer 
+DIGIT		Directorate-General for Informatics of the European Commission
+DRBC		Disaster Recovery and Business Continuity
+EMC		emerging market communications
+ERP 		enterprise resources planning
+FAO 		Food and Agriculture Organization of the United Nations
+HLCM 		High Level Committee on Management of the CEB
+IAEA 		International Atomic Energy Agency
+ICAO 		International Civil Aviation Organization
+ICJ		International Court of Justice
+ICT 		Information and Communication Technology
+ILO 		International Labour Organization
+IMO 		International Maritime Organization
+IPSAS		International Public Sector Accounting Standards
+ITIL 		Information Technology Infrastructure Library
+ITSD 		Information and Technologies Services Division, United Nations
+ITU 		International Telecommunication Union
+JIU 		Joint Inspection Unit of the United Nations system
+LAN		Local Area Network
+SDA 		Service Delivery Agreement
+SLA		Service Level Agreement
+SWOT		Strengths, Weakness, Opportunities and Threats
+UNCTAD	United Nations Conference on Trade and Development
+UNDP 		United Nations Development Programme
+UNECA 	United Nations Economic Commission for Africa
+UNECE	United Nations Economic Commission for Europe
+UNESCO 	United Nations Educational, Scientific and Cultural Organization
+UNESCAP	United Nations Economic and Social Commission for Asia and Pacific
+UNESCWA	United Nations Economic and Social Commission for Central and South Asia 
+UNFPA 	United Nations Population Fund
+UNHCR 	Office of the United Nations High Commissioner for Refugees
+UNICC 	United Nations International Computing Centre
+UNICEF 	United Nations Children’s Fund
+UNIDO 	United Nations Industrial Development Organization
+UNITSD	United Nations Information and Technologies Services Division
+UNLB		United Nations Logistics Base in Brindisi
+UNODC 	United Nations Office on Drugs and Crime
+UNOG 		United Nations Office at Geneva
+UNRWA 	United Nations Relief and Works Agency for Palestine Refugees in the Near East
+UNU	United Nations University
+UNV 		United Nations Volunteers
+UNWTO 	World Tourism Organization of the United Nations
+UPU 		Universal Postal Union
+VSAT 		very small aperture terminal
+WFP 		World Food Programme
+WHO 		World Health Organization
+WIPO 		World Intellectual Property Organization
+WMO 		World Meteorological Organization
+
+I.	INTRODUCTION
+
+1. As part of its programme of work for 2008, the Joint Inspection Unit (JIU) conducted a review entitled “Information and communication technology (ICT) hosting services in the United Nations system organizations” from February to September 2008, based on a proposal submitted by the International Atomic Energy Agency (IAEA). 
+2. The objective of the review is (a) to provide the governing bodies and executive heads of the United Nations system organizations with a comparative study of main ICT hosting services used by the United Nations system organizations; (b) to identify, promote and disseminate best practices on the use and implementation of ICT internal and external hosting services; and (c) to enhance cooperation and coordination among the United Nations system organizations in this area, with a view to reducing costs and enhancing efficiency and effectiveness of these organizations’ ICT infrastructure and operations.
+3. With advances in high-speed global communications, it is technically feasible and economically attractive to operate, manage and monitor all or part of an organization’s ICT infrastructure at a facility distant from its primary users. This allows organizations to obtain its ICT services from a broader range of sources, both internal and external. The arrangement of utilizing an outside entity to operate a specific ICT component is known as ICT hosting. Through these arrangements, organizations could realize increased operating efficiencies, including cost savings, and gain access to expertise that may not be readily available internally. 
+4. In a hosting arrangement, one organization operates a specific service on behalf of another. Examples include (a) web-hosting services, a type of Internet hosting service that allows individuals and organizations to provide their own websites accessible via the World Wide Web; (b) e-mail hosting, an Internet hosting service which runs e-mail servers; (c) data centres, facilities used to house computer systems and associated components, such as telecommunications and storage systems; and (d) hosting of enterprise resource planning (ERP) systems. 
+5. Theoretically speaking, almost every ICT service provided internally could be a candidate for hosting from another source. But in reality, the selection of the service provider, either internal (known as in-sourcing), off-shoring (move operation base to a lower-cost location abroad), outsourcing (transfer operations to an external provider) or co-sourcing (get services from both internal and external providers), is influenced by many factors such as its business needs, its ICT strategic direction, its ICT governance structure, and a cost-benefits analysis. This report will examine the selection process by applying a strategic analysis tool, known as SWOT analysis (Strengths, Weakness, Opportunities and Threats).  
+6.  ICT infrastructure and operations are mission-critical to the United Nations system organizations.  The Secretary-General, in his report: “Investing in information and communications technology: information and communications strategy for the United Nations Secretariat” (A/62/793) rightly pointed out: “Information and Communications Technology can act as a key enabler for the Organizations to be effective and efficient in carrying out its work, and to meet growing commitments in an increasingly knowledge-based and interconnected global society.”
+7. The General Assembly, in its resolution 60/283, recognized the strategic importance of ICT as a critical reform instrument and approved the post of Chief Information Technology Officer (CITO) at the Assistant Secretary-General level.
+8. At the fall 2007 session of the United Nations System Chief Executives Board for Coordination (CEB), the Executive Heads of the United Nations system organizations, endorsed a plan of action for the harmonization and reform of business practices in the United Nations system (CEB/2008/HLCM/4), worked out by the High-Level Committee on Management (HLCM). The Plan covers all major fields concerning ICT, such as the International Public Sector Accounting Standards (IPSAS), ERP, United Nations Data Centres and the United Nations System Portal. 
+9. Financial data also shows the importance of ICT operations for the United Nations system organizations. A report issued by Geneva Group General1 in 2005 estimated that ICT expenses throughout the United Nations system are US$ 1 billion per year. 
+10. In short, ICT is an enabling tool to increase organizational efficiency. To ensure smooth ICT performance, hosting arrangements are of fundamental importance. How and where to source ICT services is an indispensable and critical element in the ICT strategic governance/decision-making process of each and every United Nations system organization. This report will highlight that decisions taken on ICT hosting services have lasting financial and productivity implications for organizations.
+11. The Inspectors are aware that HLCM agreed to develop, supported by its ICT networks; a detailed (with costs) plan to harmonize business practices across the United Nations system.2 Some of the initiatives proposed by them include studies of outsourcing and off-shoring of ERP solutions, common services and data centers, which are of relevance to this review. The JIU review will focus more on the strategic and managerial aspects on IT hosting services.
+12. ICT has been touched upon by the previous JIU reviews.3 These reports and notes have underlined the importance of sharing common ICT systems and strategies. This present report covers ICT hosting services.  
+Methodology
+13. In accordance with the internal standards and guidelines of JIU and its internal working procedures, the methodology followed in preparing this report included a detailed desk review, questionnaires, interviews and in-depth analysis. 
+14. The Inspectors, through interviews in person and by videoconferences, sought the views of over 50 ICT managers within the United Nations system organizations in various duty stations. A detailed questionnaire was sent to ICT managers in all JIU participating organizations. In addition, the Inspectors also had discussions with management of the United Nations International Computing Centre (UNICC), which is an important ICT hosting service provider to many United Nations system organizations. They also had discussions with the Directorate-General for Informatics (DIGIT) of the European Commission. Close collaboration was maintained between the Inspectors and the focal point of the ICT network in the CEB secretariat at various stages of the project, especially during the designing of the questionnaire and the analysis of the responses to the questionnaire. 
+15. Comments on the draft report from all the United Nations system organizations who received the questionnaire have been sought and taken into account in finalizing the report.
+16. In accordance with article 11.2 of the JIU statute, this report has been finalized after consultation among the Inspectors so as to test its conclusions and recommendations against the collective wisdom of the Unit.
+17. To facilitate the handling of the report and the implementation of its recommendations and the monitoring thereof, annex IV contains a table indicating whether the report is submitted to the organizations concerned for action or for information. The table identifies those recommendations relevant for each organization, specifying whether they require a decision by the organization’s legislative or governing body or can be acted upon by the organization’s executive head.
+18. The Inspectors wish to express their appreciation to all who assisted them in the preparation of this report, and particularly to those who participated in the interviews and provided responses to the questionnaires and so willingly shared their knowledge and expertise.
+
+II.	FACTORS IMPACTING INFORMATION AND COMMUNICATIONS TECHNOLOGY HOSTING SERVICES DECISIONS
+
+
+A. ICT Governance 
+
+19. The Inspectors stress the importance of effective ICT governance4 as a critical success factor for an organization’s ICT operation. With effective ICT governance, a United Nations system organization could get buy-in and support from all stakeholders, including its member states, senior management, ICT management and internal users. 
+
+20. The scope of this report does not include a detailed review of the ICT governance practices for each United Nations system organization, as this is an issue that requires intensive study and the complexity and implications of this issue merit a separate review. Nevertheless, the Inspectors wish to highlight that the management of ICT hosting services is fundamentally determined by the organization’s ICT strategic goals. Since the maturity of an organization’s ICT governance processes ultimately determines whether or not a particular course of action aligns with the organization’s strategic direction, any decisions regarding hosting must take place within a clearly defined, inclusive governance process. All weaknesses and shortcomings relating to ICT hosting services identified by the Inspectors in this report can be addressed through effective ICT governance.
+
+21. As noted, the ICT governance processes ensure the appropriate implementation of an organization’s ICT strategy, which defines the long-term plan of action needed to achieve the organization’s ICT objectives in alignment with business needs. While an organization’s mission is unlikely to change dramatically, many internal and external factors that impact an organization’s ICT operation will evolve, driving the need to revisit the ICT strategy, which should be updated as needed. The Inspectors have collected information on the timing of the last review of ICT strategic plans in the United Nations system organizations and also sought these organizations’ views on the status of ICT hosting services through a dedicated questionnaire. The summarized results of the questionnaire are contained in the relevant parts of the report.   
+
+22. The Inspectors believe that ICT sourcing decisions should be guided by a well-defined ICT strategy updated regularly and in alignment with business operational needs and based on a cost-benefits analysis of a proposed ICT action. It is business needs/demands that drive the ICT direction and not the contrary. An ICT strategy that is not aligned with the organization’s business needs is both unfeasible and unsustainable.   
+
+23. The cost-benefits analysis maps out possible strategic choices/actions that an organization could take to maximize the return on ICT investment. This analysis enables decision-makers to make sound strategic decision after systematically considering all factors involved in providing a specific ICT service. 
+
+24. In reality, the Inspectors learned from many organizations that accurate and detailed information regarding ICT costs and expenditures are not always easy to compile. This difficulty stems from many factors, including the limits of the current United Nations System Accounting Standards and the accounting information systems used in these United Nations system organizations, as these standards and systems are still not fully on an accrual basis, as well as the limit of many existing budget systems where ICT-related expenditures could be included in different budget lines. Even if some organizations do carry out some cost-benefit analysis of its ICT decisions, the methodologies applied by these organizations often differ from each other. The various cost elements considered by them, such as staff cost, direct non-staff cost, indirect non-staff costs, capital investment and other costs, may also differ. Even for the same organization, for different ICT hosting services, different cost elements could be considered, as shown in annex I.
+
+25. Reasons cited by the United Nations system organizations for having not yet carried out cost-benefit analysis included:  (a) difficulty in quantifying costs and benefits; for example, the business continuity benefits of external hosting are real but not easily quantified and; (b) the mindset that internal staff costs are inflexible so the organizations could not achieve savings on staff costs through hosting outside. They also indicated that, when making ICT decisions, there is a big gap between the United Nations system organization practices and the internationally accepted IT best practices, such as those adopted in the Information Technology Infrastructure Library (ITIL).5  There is a necessity for organizations to implement cost-benefits analysis in order to be accountable for the resources allocated by Member States.
+
+26. The difference of methodology applied and inconsistency in the application within the same organization leads to incomparability among the United Nations system organizations for the same specific hosting service decision, notwithstanding the challenges these organizations are facing when implementing cost-benefits analysis. The Inspectors are encouraged by the information provided by ICT managers that the implementation of IPSAS, a requirement for many United Nations system organizations by 2010, will help mitigate this problem. IPSAS provides for common standards in recording ICT-related costs on an accrual basis. It will greatly facilitate not only the comparison of ICT hosting services within the same organization but also among different United Nations system organizations.6 The Inspectors stress the importance of a dynamic dialogue between ICT managers and the IPSAS teams during the implementation of IPSAS, in order to ensure the intended consistency in coding ICT-related expenditures/costs and to achieve the comparativeness of ICT-related cost-benefit analysis between the United Nations system organizations.
+ 
+27. The Inspectors note that one of the initiatives included in the HLCM Plan of Action for the Harmonization of Business Practices in the United Nations System calls for the development of common standards and costing approaches for ICT operations. By establishing these standards, the ICT community will have a tool to benchmark their ICT-related costs and expenditures.
+
+28. The following recommendation will ensure the effectiveness of cost-benefits analysis applied by the United Nations system organizations and increase the effectiveness of ICT management, including hosting services.
+
+Recommendation 1
+
+The executive heads of the United Nations system organizations should work with HLCM towards defining a consistent method of recording ICT expenditures/costs to facilitate cost-benefit analysis of ICT services. 
+
+29. In summary, the Inspectors are of the view that a sound ICT sourcing decision, either in-sourcing, off-shoring, outsourcing, or co-sourcing, should be based on three important factors, namely:
+- Organizational situation and business needs;
+- ICT governance and ICT strategy;
+- Cost-benefit analysis of each ICT service considered.
+
+
+B. SWOT analysis: a snapshot 
+
+30. The primary mission of an organization’s ICT operation is to ensure the cost-effective delivery of ICT services that allow the organization to achieve its mandate. To meet this objective, the organization’s senior ICT manager must determine the most efficient manner to deliver services; i.e., whether to host certain ICT services internally or externally. Clearly, this decision has an impact on both the quality (benefits) and the costs of the service delivered. For example, e-mail, comes with many requirements, such as being available 24 hours per day and seven days per week (24/7), remote access, confidentiality, Spam filtering and junk-mail quarantine, sufficient mailbox size, etc. While externally hosting this service may efficiently provide these benefits, the costs involved in providing for increased communication services to support the increased traffic, along with the loss of direct control of this critical function, may tip the balance in favour of operating this function internally. As such, how to maximize the return on investment of every ICT hosting service decision requires a prior, detailed analysis.  
+
+31. For this strategic analysis, the Inspectors chose a powerful strategic analysis and planning tool, known as SWOT analysis, and applied it to construct a clear and simple conceptual framework for use in the report. The SWOT analysis requires specifying first the objective of the business operation concerned, i.e., the objective of the ICT operation and identifying those internal and external factors that have an impact on the achievement of the objective of the ICT operation. 
+
+32. Those internal favourable or unfavourable factors to realize the strategic objective of a certain ICT operation are known as strengths or weaknesses, respectively. For example, the in-depth knowledge of business activities acquired by an organization’s internal ICT operation would be considered as a strength which should be exploited on a continuous basis; while the lack of certain ICT technical expertise to implement a new mission-critical ICT system would be considered as a weakness which the organization should mitigate through the hiring of external experts to complement and strengthen its own ICT team through training.   
+
+33. Similarly, those external favourable or unfavourable factors to realize the strategic objective of a certain ICT service are known as opportunities or threats, respectively. For example, the increased bandwidth available and ensured network connectivity to an organization at an economical rate in developed countries’ markets could be considered as an opportunity for the United Nations system organizations to explore possible hosting service from a remote site. While the increased security risk and malicious attacks from hackers to an organization’s network and ICT system/application could be considered as a threat to ICT operation which requires the organization to implement stringent security policy measures and disaster recovery plan. 
+
+34. Table 1 below summarizes a conceptual SWOT analysis the Inspectors carried out through the listing of possible major internal and external factors that could impact a United Nations system organization’s decision of whether to host an ICT service internally or externally. This list, of course, is not an exhaustive one but it illustrates the complexity and diversity of factors involved in the ICT hosting services-related decision.
+
+
+Table 1 
+Conceptual SWOT analysis of a United Nations organization’s ICT operation
+STRENGTHS
+
+S1. In-depth knowledge of organization’s business needs
+S2. In-depth knowledge of UN business process, rules and regulations
+S3. Flexibility in managing resources
+S4. Staff loyalty and dedication
+S5. Staff knowledge/expertise of legacy ICT system /applications 
+S6. Appointment of CITO in several UN organizations
+S7. Closer client relations built over years
+S8. Updated ICT strategy
+S9. Revamped ICT governance structure with member states and senior management’s buy-in
+
+
+
+WEAKNESSES
+
+W1.  Limited staff resources and posts
+W2.  Lack of expertise in critical ICT areas
+W3.  More expensive compared to external providers in term of staff costs in many cases
+W4. Lack of financial means or other incentives to motivate staff to improve services
+W5. ICT manager may not be appointed at senior executive level and lack of influence
+W6. Difficulty in providing 24/7 ICT supports
+W7. Difficulty in creating new posts
+W8. Lack of efficiency in ICT governance structure
+W9. Lack of clear ICT strategy and buy-in from top
+W10. Lack of training funds for ICT staff
+W11. Lack of consistent cost and benefits analysis methodology to evaluate the Return on Investment of ICT service 
+W12. Lack of comparability on costing methodologies among UN organizations.
+W.13 Some ICT system and applications are out-dated
+W14. Decentralized and fragmented ICT management structure
+W15. Under-investment on ICT
+W15. Lack of expertise and/or resources to manage external service providersOPPORTUNITIES
+
+O1.   Technology advancement
+O2.   Network connectivity and bandwidth
+O3.   Awareness of importance of an integrated and coordinated ICT operation by key stakeholders, including member states, senior management/staff  
+O4. Standardization of business process endorsed and promoted by HLCM, CEB
+O5.  UNICC is available and competent to provide quality ICT hosting services at competitive rates
+O6.  UNLB could serve as a potential hosting provider, especially on data centre back-up.
+O7. Many other service providers could provide high quality hosting services at competitive rates
+O8. Implementation of new ERP system could provide momentum to improve ICT services
+O9. Increased field operations of UN organizations require strong ICT support
+O10. Stakeholders require integrated ICT operation
+O11. Use external service providers could shorten the deliver time required by business users
+O11. Use external services could save up-front capital investment
+O12. Adoption and Implementation of IPSASTHREATS
+
+T1: Security threats, hackers’ attacks
+T2: Zero nominal (real) budget growth caps the growth potential for ICT budget and investment, ICT operations are required to ‘deliver more with less’ 
+T3. Users of substantive programmes may leave internal ICT service and deploy their own ICT resources to develop new ICT applications and systems
+T4.  Proliferations of different ICT applications /systems within the same organization or between UN organizations that may become difficult and costly to harmonize in the future 
+T5.  Remote access and expanded network creates potential intrusion points by hackers
+T6.  Limited user knowledge of ICT security measures and standards may lead to unforeseen security risks
+T7. Lock-in to an ill-conceived and inflexible contract. External service providers may over-invoice on change orders
+T8.  Loss of extra-territory status if hosted externally which could result in possible loss in data confidentiality
+35. Before proceeding to a comparative analysis of ICT hosting services in select United Nations system organizations, the Inspectors note that these organizations may have different portfolios of strengths and weaknesses and are operating under different environments. Their specific strengths and weaknesses also vary depending on the specific ICT service considered. In other words, SWOT analysis is both organization-specific and ICT service-specific. In this system-wide review, the Inspectors established a simple conceptual SWOT analysis. They welcome further efforts by the United Nations system organizations to carry out similar detailed SWOT analysis for themselves when considering future plans for ICT hosting services
+
+36. The following recommendation will facilitate the selection of ICT hosting services.
+
+Recommendation 2
+
+The executive heads of the United Nations system organizations should ensure that a SWOT analysis be undertaken prior to selecting a particular ICT hosting service.
+
+
+C. The context for making ICT hosting services decisions
+
+37. The Inspectors consider that ICT technology advancement (O1) and enhanced network infrastructure (O2) are the two most important external favourable factors that drive the rapid growth of global ICT hosting services. To date, many international organizations, including some United Nations system organizations, have already moved a substantive part of their ICT operations to countries such as India, Malaysia and China. Many of these organizations have reduced the number of their data centres as a result of new ICT technologies and robust infrastructure. Annex II shows the share of all external hosting services’ expenditures over the total ICT expenditures of those United Nations system organizations that responded to the Inspectors’ questionnaire. It shows that they have used some kind of hosting services, at various levels, according to their requirements (see annex III). The share of hosting service-related expenditures over total ICT expenditures may further increase with the advancement of technology and network infrastructure.
+
+38. Cost-saving resulting from economy of scale is one key benefit that ICT hosting service providers offer to their clients. This holds true even in regions with limited or weak ICT infrastructure. For example, the common ICT hosting service provided by the ICT section of the United Nations Economic Commission for Africa (UNECA) to other organizations, based on the ECA campus, achieves a better economy of scale and leads to substantial cost savings for those participating organizations. 
+
+39. The awareness of the importance of an integrated and coordinated ICT operation by key stakeholders, including member States, senior management and staff (O3), has become more evident in recent years, especially from the member States. Many United Nations system organizations, including  FAO, ICAO, ILO, UNDP, UNFPA, UNHCR, WFP, WHO, WIPO, and WMO have spent substantial funds implementing new ERP systems. 
+
+40. The Inspectors reviewed the status of hosting arrangements for different commercial ERP systems for those organizations listed in table 2.  The table shows UNICC is gaining preference for hosting and with more United Nations system organizations implementing ERP systems, due consideration be given to the selection of UNICC for hosting purposes and eventual cost savings through economies of scale. 
+
+
+Table 2
+ Commercial ERP systems and the related ERP hosting service
+
+Hosting arrangement (internal, commercial or UNICC)ERP System and OrganizationCommercialAtlas (Peoplesoft), UNDPCommercialAtlas (Peoplesoft), UNFPACommercialOracle, ILOInternalOracle, ICAOInternalOracle, FAOInternal (being moved to UNICC soon)SAP, WFPInternal (part in UNICC)Peoplesoft, UNHCRUNICCPeoplesoft, WIPOUNICCOracle, WMOUNICCOracle, WHO
+
+41. Opportunities are always accompanied by risks. As shown in table 1, the SWOT map, the increased security risks (T1) and attacks (T2) should never be underestimated, especially when using external hosting services, which increase the complexity and vulnerability of the network infrastructure. The management of ICT hosting service providers, especially on the change-related billing (T7) must be carefully monitored and protected by an exit clause when the relation with the hosting service providers becomes unsustainable. Concerns about the loss of extra-territorial status of the United Nations system organizations when using an external hosting service is also a top risk, as it may result in a possible loss in data confidentiality, especially taking into account that the legal-enforcement entity in some Member States may require access to data stored in a non-United Nations external service provider’s server stored outside the premises of a United Nations system organization. 
+
+42. The following recommendation will ensure the cost-effective hosting of ERP systems for United Nations system organizations.
+
+Recommendation 3
+
+The executive heads of those United Nations system organizations that currently host their own ERP implementations internally or in the process of implementing new ERP system, should explore external hosting solutions, particularly UNICC, to take advantage of economies of scale when operating these systems as well as to provide for the safety of these systems by placing them in an off-site, secure location.
+
+
+
+III.	COMPARATIVE STUDY OF MAJOR INFORMATION AND COMMUNICATIONS TECHNOLOGY HOSTING SERVICES
+
+
+A. Portfolio of ICT hosting services
+
+43. In this chapter, the Inspectors present a comparative study on the major ICT hosting services (listed in Annex I) as recommended by the CEB ICT network. As stated previously, cost elements are taken into consideration when selecting an ICT hosting service. Annex I indicates the importance of each element in the selection of a particular hosting option. The Inspectors reviewed 12 hosting areas, namely, ERP system hosting, other corporate/business applications (e.g., documents sales, e-recruitments, webcasting, etc.), Internet services (including website hosting), email and messaging services hosting, directory, file/print and other related server hosting, desktop management services, helpdesk or other first-level support services, video, telephony or other conferencing services, ICT security and system monitoring, disaster recovery/business continuity services, mainframe and other ICT services. 
+
+44. The availability of hosting services from UNICC (O5), UNLB (O6) and other United Nations organization or non-United Nations ICT service providers (O7) provide plenty of opportunities for the United Nations system organizations to consider cost effective and quality ensured hosting service arrangements.
+
+45. Annex III lists the sources of ICT hosting services used by the United Nations system organizations. It shows that all of the major categories of ICT services are predominately hosted internally while hosting by other sources, are less frequent.
+
+B. Level of senior ICT manager, ICT strategy and role of ICT hosting within ICT strategy 
+
+46. Responses to the Inspectors’ questionnaire show that many ICT managers have direct access to senior management and participate in the decision-making process: also, organizations do review ICT strategy on a timely basis, and consider ICT hosting as a strategic objective or a tool to reach strategic objectives. 
+
+Figure 1 
+Level of most senior ICT manager in United Nations system organizations
+
+
+
+
+
+
+
+
+
+
+Figure 2
+ ICT reporting line in United Nations system organizations
+
+
+Figure 3
+ Relation of ICT hosting services to strategic ICT planning objectives 
+
+
+Figure 4
+ Timing of last review of ICT strategic plan
+
+
+
+C. Internally hosted services
+
+47. The main reasons, in order of importance, to use internal, instead of external, hosting services are: less flexibility in managing resources if hosted externally; less cost-effective on some ICT services; difficult to budget external service expenditures; inefficient service delivery; unreliable service quality on some services; and legal concerns of losing extra-territorial status by hosting externally which could result in a possible loss in data confidentiality.
+
+48. Even though many ICT services are still hosted internally, many organizations have established plans to move some services to external service providers, including commercial service providers, UNICC and other United Nations system organizations. The movement from internal hosting services to external hosting services started several years ago with the advancement of ICT technology and the demands from the business operational needs. 
+
+D. External hosting services
+
+49. The main factors, in order of importance, considered by the United Nations system organizations for seeking external hosting services are: more cost-effectiveness on some services; more flexibility in managing resources; lack of internal expertise in the specific business area; back-up for disaster recovery and business continuity; difficulties in creating additional staff posts; more reliable service quality on some services. The results show that only when external hosting services bring tangible benefits to an organization, would an organization consider the possibility to host externally. It is normal that IT managers would rather not take the risk of disrupting normal business operation for the sake of outsourcing.
+
+50. Being that as it may, United Nations system organizations are using external hosting services. Annex III shows the percentage of external hosting services expenditures over total ICT operations expenditures for select organizations.
+
+51. The Inspectors have learned through answers from their questionnaire that most United Nations system organizations using external hosting services have achieved the expected benefits. For some, it is too early to tell as they have switched only recently. 
+
+E. UNICC hosting services
+
+52. A Memorandum of Agreement among the United Nations, the United Nations Development Programme (UNDP) and the World Health Organization (WHO), pursuant to General Assembly resolution 2741 (XXV) , established the United Nations International Computing Centre (UNICC) in 1971. It was created as an inter-organization facility to provide electronic data processing services for themselves and other users. UNICC has expanded considerably since its establishment, and more than 25 organizations, funds and programmes of the United Nations system currently use its services and participate in its governance. In addition, governmental entities, inter-governmental and non-governmental organizations as well as other not-for-profit institutions use UNICC services. Over the years, UNICC has broadened the range of services to include Internet hosting, managed storage and other services it provides to reflect the changing requirements of its clients. UNICC has now over 200 staff beyond its Headquarters in Geneva and established offices in New York and Brindisi, Italy.7
+
+53. The Inspectors are of the view that United Nations system organizations consider using the hosting services provided by UNICC. The financial data provided from UNICC (table 3) on its ICT service (including hosting and consultancy) business volume is an indication of its acceptance/credibility by its United Nations clients.
+
+Table 3
+Costs of ICT hosting services provided by UNICC
+ based on Yearly Service Delivery Agreements (SDA)
+
+OrganizationsYearly SDA (USD)OrganizationsYearly SDA  (USD)OrganizationsYearly SDA  (USD)IAEA379,728WFP1,427,340WHO4,359,300ILO60,732WIPO6,714,096UNJSPF6,456,144IMO153,372WMO815,556DFS8,574,000UNCTAD723,912UNOG351,084ITU22,908UNEP554,976ITSD3,587,460UNHCR2,466,564UNECE43,356TOTAL36.7 million	Source: Data provided by UNICC (Services hosted by ICC -based on 2008-2009 MSDA and countersigned proposals)
+
+
+54. The Inspectors also note that most of the organizations using UNICC services are satisfied with their selection, while only a few were somewhat satisfied and for others, it was too early to comment as they had only recently started using them. This positive feedback should encourage UNICC to improve, strengthen and broaden their services.
+
+55. UNICC advantages for the specific ICT hosting services includes its cost efficiency on some services, such as ERP system hosting; higher service quality on some services; its extra-territoriality status to protect confidentiality of data; being a part of the United Nations system and accountable to the Secretary-General; no surcharge on change orders, and better control of additional costs. As an internal United Nations entity, UNICC is exempted from participating in the bidding process, it understands better the United Nations environment and costs less to procure.
+
+56. UNICC disadvantages for the specific ICT hosting services includes less cost-effectiveness on some services; the constraint that UNICC can only sign service-level objectives (in a SDA) rather than service level agreements (SLA); the lack of expertise in the required business area; insufficient start-up funds to ensure UNICC could provide cost-effective and efficient new service; the requirements by some organizations’ procurement and/or financial regulations and rules to UNICC to participate in the competitive bidding process instead of exemption. 
+
+57. UNICC has to find a mechanism to ensure its guarantee of service. It is difficult for UNICC to implement an SLA due to the fact that the organization is not an independent business entity but a cooperative among United Nations system organizations. UNICC could not use funds provided by other United Nations system organizations to compensate the loss incurred due to its breach of service quality commitment under a SLA. The current arrangement is a SDA, which is a weaker arrangement financially. The Inspectors are of the view that UNICC should consider allocating funds for signing SLAs through its operation surplus.
+
+58. In preparing the report, organizations also made suggestions to the Inspectors as to how UNICC could improve its services.  These included, inter alia, implementing charging arrangements similar to commercial entities; to improve the response time to requests for cost estimates of new services; to ensure cost transparency, and benchmark its tariffs against best-practice suppliers; to act more proactively in introducing/suggesting new technologies and services; to explore new possibilities for shared initiatives in order to reduce operational costs. UNICC could also negotiate hosting arrangements with private providers on behalf of its partners in compliance with its partners’ specific financial and procurement regulations and rules and then extend these favourable conditions to other organizations, resulting in significant cost savings and benefits. The Inspectors are encouraged by these pertinent suggestions and recommend that all stakeholders pursue further efforts in order to make the best use of UNICC as a joint platform for all United Nations system organizations to improve ICT service. UNICC should also make the appropriate structural changes in order to improve its operating environment that could benefit all organizations.
+
+59. The following recommendation will improve the efficiency and effectiveness of the ICT services provided by UNICC to the United Nations system organizations with substantial cost savings. 
+
+Recommendation 4
+
+The executive heads of those organizations participating in UNICC should establish an ad-hoc working group within their organization, involving membership from both ICT and business operations, or use their internal ICT governance structure, to come up with concrete suggestions and action plan to improve the cooperation with and use of ICT hosting services provided by UNICC.
+
+
+F. Cross-hosting services among United Nations system organizations
+
+60. It is also very common for one United Nations system organization to provide ICT hosting service to other organization(s) due to geographic proximity or technical expertise on the subject matter or shared infrastructure/equipment. To ensure the smooth operation of cross-ICT hosting services between those United Nations system organizations requires a mutually acceptable cost-recovery mechanism built on transparency and accountability, i.e., an effective joint ICT governance structure for decision-making affecting all organizations involved. 
+
+61. The Inspectors note the joint governance structure established by UNDP/UNFPA/UNV on the Atlas project, a PeopleSoft ERP system, as a best practice of the implementation of a common ICT system. UNDP, the United Nations Office at Vienna and UNFPA set up a joint governance structure on overseeing the whole project, including a sponsorship committee at Assistant Secretary-General level, a tri-parties advisory panel at management level and a change control board on operational level. The tri-parties panel meets every two weeks to ensure that the implementing, upgrading, testing and training processes are well managed and the cost sharing mechanism is fair to all parties. UNU will join this system at the beginning of 2009. This project does ensure economies of scale, and cost savings for each agency. 
+
+62. The Inspectors view the lead agency and cluster model as a best practice in this area. In this model, one United Nations system organization takes the lead to implement a new ICT initiative, build the business case and realize some benefits which will become attractive and feasible for other United Nations system organizations to join later. This cluster of organizations could reach economy of scale by using the same external ICT hosting service, share capital investment as well as operating expertise. Past experience showed that it was difficult to require all United Nations system organizations to reach consensus to follow the same path simultaneously, while the lead agency model provides some flexibility for other organizations to join on a voluntary basis.8
+
+63. The Inspectors would also highlight that, in selecting ICT hosting services, a better deal could be reached through joint procurement. There are a number of instances where United Nations system organizations have realized substantive savings, such as the United Nations secretariat long-term system contract on network equipment, Enterprise Content Management and UNHCR EMC VSAT project.9 The Inspectors encourage more joint efforts, although currently many organizations still keep different procurement rules and processes, which may hinder cooperative efforts.
+
+64. The following recommendation would ensure that United Nations system organizations get better value for money and achieve better quality of service through joint procurement of ICT hosting services.
+
+Recommendation 5
+
+The executive heads of those United Nations system organizations which have not yet done so, should pursue joint procurement of ICT hosting services; this is especially the case for those organizations that are in the same duty station/when similar requirements arise.
+
+
+IV. CONCLUSION
+
+65. Competent ICT Governance:  The Inspectors reiterate that without competent ICT governance, ICT hosting arrangements will suffer from poor coordination and the lack of oversight.
+
+66. Evolving ICT strategy: With constant ICT technological advances, the Inspectors emphasize the necessity to review ICT strategy on a regular and consistent basis. In doing so, an organization will realize maximum benefits from its portfolio of ICT hosting services
+
+67.	The role, responsibility and accountability of the ICT manager would determine the maturity (cost effectiveness, efficiency and responsiveness) of an organization’s ICT operation. A good ICT manager with corresponding responsibilities and accountabilities could ensure a well-managed and strategic ICT operation, including hosted ICT services. The executive heads of the United Nations system organizations should ensure that ICT managers be appointed at a senior level with sufficient access to the strategic decision making process in the organization so that the ICT strategy and operation is aligned with business strategy, which is not yet the case for some organizations as shown in figure 3 above. The Inspectors are encouraged by the appointment of a CITO for the United Nations secretariat pursuant to  resolution 60/283. This would solve the decentralized and fragmented ICT operation, i.e., each duty station has its own ICT budget and ICT operation within the United Nations secretariat. The creation of a CITO provides a good opportunity to solve these problems. It will also pave the way for coordinating ICT hosting services among the entities of the United Nations secretariat.
+
+68.	The following recommendation will ensure the accountability of the executive heads of the United Nations system organizations to their Member States on the effective and efficient use of the resources provided by Member States.
+
+Recommendation 6
+
+The governing bodies of the United Nations system organizations should request the executive heads to report to their next session on the implementation of the recommendations contained in this report, in particular those recommendations aimed at defining common methodology for ICT costs/expenditures and exploring hosting solutions to take advantage of economies of scale.
+
+
+Annex II
+External hosting expenditures over the total ICT expenditures
+
+% of external hosting services expenditures over the total ICT expendituresUnited Nations system organizationsNoneUNICEF, UNODCLess than 10%IAEA, ICAO, ITU, UNESCAP, UNOGBetween 10% and 30%UNDP, UNIDO, WFP, WMOBetween 30% and 50%ICJ, ITSD, UNECE, UNICCBetween 50% and 70%UNCTAD, UNEPMore than 70%WIPO (this is expressed as a percentage of non staff budget, i.e. more than 70% of non-staff budget, which does not include staff salaries)
+
+Annex III
+Sources of ICT hosting services by organizations
+
+Service CategoryImplemented internallyCommercial providersUNICCOther UN Organizations (excluding UNICC)Enterprise resource planning (ERP) systems hostingICAO, IMO, ITSD, ITU, UNICEF, UNESCO, UNHCR, UNIDO, UNODC, UNESCWA, WFP, UNOG, UNLB, UNESCAPILO, UNDPWHO, WIPO, WMOUNCTAD, UNECE, UNEP,Other corporate/business applications hosting, please describe briefly IAEA, ICJ, ITSD, ITU, UNCTAD, UNESCAP, UNESCO, UNHCR, UNLB, UNODC, UNOG, WFP, WIPO
+ICAO (documents sales), ILO (e-recruitment), UNCTAD, UNICEF (anti-spam)UNDP (Datahouse), UNHCR, WHO,ITU (Web casting, Documentum, Library), UNIDO (HRM/payroll)Internet Services (including Website hosting)IAEA, ICAO, ILO, IMO, ITSD, ITU, UNEP, UNESCO, UNHCR, UNICEF, UNIDO, UNLB, UNODC, UNOG, WFP, WHO, WIPOICJ, IMO, UNDP, UNECE, UNEP, UNESCAP, UNESCWA, UNHCRUNCTAD, UNHCR, UNEP, WFP, WMOUNEP, UNECE, UNHCREmail and Messaging Services hostingIAEA, ICAO, ICJ, ILO, IMO, ITSD, ITU, UNEP, UNESCAP, UNESCO, UNESCWA, UNHCR, UNICEF, UNIDO, UNLB, UNODC, UNOG, WFP, WHO, WIPO, WMOUNDP, UNHCRUNEP, WFPUNCTAD, UNECE, UNEPDirectory, File/Print and other related server hostingIAEA, ICAO, ICJ, ILO,I MO, ITU, UNCTAD, UNDP, UNECE, UNEP, UNESCAP, UNESCO, UNESCWA, UNHCR, UNICEF, UNIDO, UNITSD, UNLB, UNODC, UNOG, WFP, WHO, WIPO, WMOUNEP, WFP, WMOUNCTAD, UNECE, UNEPDesktop management servicesIAEA, ICAO, ICJ, ILO, IMO, ITSD, ITU, UNCTAD, UNDP, UNECE, UNEP, UNESCAP, UNESCO, UNESCWA, UNHCR, UNICEF, UNIDO, UNLB, UNODC, UNOG, WFP, WHO, WIPO, WMOUNIDOUNEPUNEPHelpdesk or other first-level support servicesIAEA, ICAO, ICJ, ILO, IMO, ITSD, ITU, UNCTAD, UNDP, UNECE, UNEP, UNESCAP, UNESCO, UNESCWA, UNHCR, UNICEF, UNIDO, UNLB, UNODC, UNOG, WFP, WHO, WIPO, WMOUNDP, UNESCWA, UNIDOUNEP, WIPOUNEPVideo, telephony or other conferencing servicesIAEA, ILO, IMO, ITSD, ITU, UNCTAD, UNDP, UNEP, UNESCAP, UNESCO, UNHCR, UNICEF, UNIDO, UNLB, UNODC, UNOG, WFP, WHO, WIPO, WMOICAO, UNESCWA, UNHCR, UNIDOUNEPITU, UNECE, UNEPICT security and system monitoringICAO, ICJ, ILO, IMO, ITU, UNCTAD, UNDP, UNECE, UNEP, UNESCAP, UNESCO, UNESCWA, UNHCR, UNICEF, UNIDO, UNITSD, UNLB, UNODC, UNOG, WFP, WHO, WMOITU, UNDPIAEA, UNEP, UNHCR, , WFPUNECE, UNEPDisaster Recovery /Business continuity Services, ICAO, ICJ, ITSD, ITU, UNCTAD, UNDP, UNEP, UNESCAP, UNESCWA, UNHCR, UNICEF, UNLB, UNODC, WFP, WHOITU, UNIDO, UNODCIAEA, ILO, IMO, UNCTAD, UNEP, UNHCR, UNOG, WFP, WHO, WMOUNEPMainframeIAEAIAEAUNHCR, WHO, WIPO,UNIDOOther areasITSD (off-site fax and photocopy), UNHCRITSD (Data center, physical equipment security), UNOG (Blackberry)
+
+
+ANNEX IV
+
+Overview of action to be taken by participating organizations on JIU recommendations
+JIU/REP/2008/5
+
+Intended impact              United Nations*UNCTADUNODCUNEPUN-HABITATUNHCRUNRWAUNDPUNFPAUNICEFWFPOTHERS)ILOFAOUNESCOICAOWHOUPUITUWMOIMOWIPOUNIDOUNWTOIAEAReportFor actionFor information
+Recommendation 1eEEEEEEEEEEEEEEEEEEEEEEEEERecommendation 2oEEEEEEEEEEEEEEEEEEEEEEEEERecommendation 3fEEEEEEEEEEEEEEEEEEEEEEEEERecommendation 4eEEEEEEEEEEEEEEEEEEEEEEERecommendation 5fEEEEEEEEEEEEEEEEEEEEEEEEERecommendation 6aLLLLLLLLLLLLLLLLLLLLLLLLL
+Legend:		L:	Recommendation for decision by legislative organ
+		E:	Recommendation for action by executive head
+		   :	Recommendation does not require action by this organization
+      
+Intended impact: a:  enhanced accountability   b:  dissemination of best practices    c:  enhanced coordination and cooperation    d: enhanced controls and compliance 
+e:   enhanced effectiveness   f:  significant financial savings g:  enhanced efficiency    o:  other    
+
+* Covers all entities listed in ST/SGB/2002/11 other than UNCTAD, UNODC, UNEP, UN-HABITAT, UNHCR, and UNRWA.
+
+1 Report of the Geneva Group General on Information and Communication Technology Systems in International Organizations, October 2005.
+2 See “Plan of action for the harmonization of business practices in the United Nations System” (CEB/2008/HLCM/11).
+3 JIU/REP/2005/4, “A common payroll for United Nations system organizations”; JIU/REP/2002/9, “Managing information in the United Nations system organizations: Management information systems”; JIU/NOTE/2007/2,  “Review of selected telecommunication issues and use of voice over Internet protocol technologies in the United Nations system organizations”; and JIU/REP/2007/6, “Knowledge management in the United Nations system”.
+4 ICT governance is defined as ‘the leadership and organisational structures and processes that ensure that the organisation’s ICT sustains and extends the organisation’s strategies and objectives’, according to ICT Governance Institute 2003’s paper on "Board briefing on ICT governance, 2nd Edition" (http://www.isaca.org/Content/ContentGroups/ITGI3/Resources1/Board_Briefing_on_ICT_Governance/26904_Board_Briefing_final.pdf ).
+5 The Information Technology Infrastructure Library (ITIL) is a set of concepts and policies for managing information technology (IT) infrastructure, development and operations. ITIL is published in a series of books, each of which cover an IT management topic. The names ITIL and IT Infrastructure Library are registered trademarks of the United Kingdom's Office of Government Commerce (OGC). ITIL gives a detailed description of a number of important IT practices with comprehensive check lists, tasks and procedures that can be tailored to any IT organization.
+6 An on-going JIU report in its programme of work of 2008 will provide detailed analysis of the impacts of the implementation of IPSAS in the United Nations system. 
+7 Information on the description of UNICC is based on UNICC website, www.unicc.org
+8 See table 2 on ERP systems.
+9 For advantages of joint procurement, see “Procurement practices within the United Nations System (JIU/REP/2004/9). 
+---------------
+
+
+------------------------------------------------------------
+
+
+---------------
+
+
+------------------------------------------------------------
+
+
+xxx
+
+
+xxx
+
+
+
+
+
+
+
+xxx
+
+
+iii
+
+

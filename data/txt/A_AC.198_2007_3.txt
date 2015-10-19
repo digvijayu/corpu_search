@@ -1,0 +1,232 @@
+[Start1]
+	Committee on Information
+Twenty-ninth session 
+30 April-11 May 2007
+
+
+
+		The United Nations website: progress towards parity among official languages, accessibility and content management
+
+
+		Report of the Secretary-General
+
+
+
+	Summary	The present report outlines the progress being made towards parity among the official languages, accessibility and content management, as well as the development, maintenance and enrichment of the United Nations website. It is the eighth report submitted to the Committee on Information on the United Nations website.
+
+	I.	Introduction
+
+
+1.	The official United Nations website (www.un.org) went online in June 1995 on the occasion of the fiftieth anniversary of the Organization. Since then, one of the major issues of concern of the Committee on Information and the General Assembly has been parity among the six official languages on the website. The Secretary-General has addressed this issue in seven previous reports: A/AC.198/1999/6, A/AC.198/1999/9 and Corr.1 and 2, A/AC.198/2000/7-A/AC.172/2000/4, A/AC.198/2001/8, A/AC.198/2002/6, A/AC.198/2005/6 and A/AC.198/2006/3. In a report to the General Assembly at its fifty-seventh session (A/57/355), the Secretary-General laid down the resource requirements for establishing the six language units on a firm footing to meet the challenges of moving towards parity of the official languages on the United Nations website. The present report reviews progress made towards language parity on the United Nations website, provides additional information on the new requirements of ensuring accessibility to the website by persons with disabilities and highlights progress towards more efficiently managing the content on the website.
+
+
+	II.	Background
+
+
+2.	In its resolution 61/121 B of 14 December 2006, the General Assembly reaffirmed that the United Nations website was an essential tool for the media, non-governmental organizations, educational institutions, Member States and the general public. In the same resolution, the Assembly also reaffirmed its request to the Secretary-General to “ensure, while maintaining an up-to-date and accurate website, the adequate distribution of financial and human resources within the Department of Public Information allocated to the United Nations website among all official languages, taking into consideration the specificity of each official language on a continuous basis”.
+3.	The General Assembly recognized the efforts of the Department of Public Information to implement the basic requirements for accessibility of the United Nations website by persons with disabilities. It called upon the Department to continue to work towards compliance with all levels of accessibility requirements on all pages of the website with the aim of ensuring its accessibility by persons with different kinds of disabilities. 
+4.	The General Assembly recalled paragraph 74 of its resolution 109 B of
+8 December 2005 and reiterated that all content-providing offices in the Secretariat should continue their efforts to translate into all official languages all English language materials and databases posted on the United Nations website in the most practical, efficient and cost-effective manner. 
+
+
+	III.	Current website usage
+
+
+5.	Visitors from more than 212 countries and territories access the United Nations website, viewing more than 1.1 million pages daily. Until now, usage of the website was being reported using page views and accesses to www.un.org. However, in reporting on usage of websites the current industry trend favours using “visits” in combination with “page views” or accesses as this provides more accurate data on usage patterns. Therefore, the Department is using “visits” as a second measure of usage in addition to “page views”. In order to interpret these different units of measurement in a useful way, additional clarification is required in the context of their usage for www.un.org:
+	(a)	“Hits” or “accesses” measure the total number of requests made to the server during the given time period (month, day, hour, etc.). Each separate item on a single page will produce a hit when the page is requested by a user. For example, if a page includes three graphics and some text, a request for that page will result in four hits;
+	(b)	“Page views” are those uniform resource locators (URLs) that would be considered the actual page being requested, rather than the individual items that make it up (such as images and audio clips). Any URL that has an extension of .htm, .html, .shtml, .asp, .jsp or .cgi is usually considered a page for purposes of counting page views. Thus the same page referred to in subparagraph (a) above would result in one page view;
+	(c)	“Visits” are recorded when a user makes a request for a page on the server for the first time. As long as the same user continues requesting pages within a given timeout period, they will all be considered part of the same visit. A user can view any number of pages during one visit. If the user makes a request to the server and the length of time since the last request is greater than the specified timeout (currently, 30 minutes), a new visit is counted. 
+
+Table 1
+Visits, page views and accesses to the United Nations website, 2002-2006
+
+United Nations websiteVisitsPage viewsAccessesYearly totals	2002221 433 7501 606 841 549	2003268 027 0802 165 122 997	2004337 544 9752 331 566 302	200535 322 875396 566 1782 766 987 638	200649 389 245413 891 020—Daily averages	2002606 6684 402 306	2003734 3215 931 844	2004922 2546 370 400	200596 7751 085 7627 575 761	2006135 3131 133 948—
+
+6.	Table 1 above shows the number of visits, pages viewed and accesses to the United Nations website from 2002 to 2006. Because of the new measure of website usage, accesses are no longer being tallied. Therefore there are no numbers in the accesses column for 2006. Owing to server problems, statistics for a number of days were not available. To get the most accurate estimate for those days, data has been extrapolated by averaging the data from the days before and the days after.
+7.	The data provided above still does not provide a totally accurate measure of site usage. Web server downtime, e.g., when the United Nations site is not accessible owing to maintenance projects, hacker attacks or because of server stability problems, reduces the capacity to measure site traffic accurately. Use of caching mechanisms by Internet service providers also decreases the ability to accurately count users. Internet service providers often store page information in a way that makes it easier and faster for their users to access highly trafficked pages, but the process disguises how many page views and visits are actually happening, because the request for the page is never passed on to the originating server.
+8.	Given the importance of accurate figures on usage, the Web Services Section of the Department of Public Information acquired a new statistics server, which will provide the Department with the ability to measure visitor patterns more accurately and thereby make quick changes to the site as necessary. 
+9.	The upward trend in the use of the website has been consistent among the language sites, although the scale of the increase varies widely. Table 2 below depicts the increase in the number of pages viewed, as well as the number of visits to the website across the language sites from 2005 to 2006.
+
+Table 2
+Increase in the number of page views and visits to the United Nations website across languages, 2005-2006
+
+ArabicChineseEnglishFrenchRussianSpanishwww.un.orgPages viewed	200510 178 61818 433 275318 133 89118 267 86311 873 86919 678 662396 566 178	200612 346 64824 203 023365 400 93421 065 35116 335 04724 540 017463 891 020	2006 versus 2005 (percentage)+21.3+31.3+14.8+15.3+37.5+24.7+16.9Visits	20051 542 1102 411 10321 359 0713 766 3161 566 1794 678 09635 322 875	20062 445 8584 085 58228 737 2054 596 1192 919 1806 605 30149 389 245	2006 versus 2005 (percentage)+58.6+69.4+34.5+22.0+86.3+41.2+39.8
+
+10.	The number of page views as well as the number of visits registered increases for all languages, with some languages showing a large gain. The growth in visits is considerably higher than the growth in page views. This means that visitors to the United Nations website are coming more often but viewing fewer pages on each visit. One interpretation of this trend is that visitors are taking more time reading the texts, rather than going from page to page reading only portions of them; another is that with greater familiarity with the site and improved search engines, users are able to access the information they want more readily, generally by bookmarking pages frequently visited. It should be noted that a number of directories in the languages that were residing within the English structure were moved to the respective language directories. These had previously been counted under English, but this does not affect the data on usage growth from 2005 to 2006. 
+11.	Table 3 shows the daily average number of page views and visits on the website across languages, comparing 2005 and 2006. The same note applies as in tables 1 and 2: owing to the loss of the log files for a number of days during the time period, some numbers have been extrapolated by averaging the numbers from the previous and subsequent days.
+
+Table 3
+Evolution of daily average page views and visits across the language sites 
+for 2005-2006
+
+ArabicChineseEnglishFrenchRussianSpanishwww.un.orgPage views	Daily average, 200527 88750 502871 60050 04932 53153 9141 086 483	Daily average, 200633 28666 3101 000 59657 71344 75467 2331 270 432	2006 versus 2005 (percentage)+21.3+31.314.8+15.3+37.5+24.7+16.9Visits	Daily average, 20054 2256 60658 51810 3194 29112 81796 775	Daily average, 20066 70111 19378 73212 5927 99818 097135 313	2006 versus 2005 (percentage)+58.60+69.45+34.54+22.03+86.39+41.2039.82
+
+12.	The overall number of new pages on the site in official languages other than English has steadily risen. The Department is presently responsible for the majority of these language pages. The Web Services Section, which handles the bulk of these pages, has increased the number of new or updated pages in languages other than English or French. Table 4 below shows the number of pages handled by the Web Services Section only. The high figures for updated pages demonstrates the weight this task now represents — a commitment of resources which is compounded by virtually every new page created. The number of new pages in Arabic is low because of temporary staff changes and because, despite serious efforts, the Department has not yet been able to enlist the support of an institution of higher learning for that language for pro bono translation as is the case for Chinese, Russian and Spanish. 
+
+Table 4
+New pages created and pages updated in 2006 by the Web Services Section 
+of the Department of Public Information
+
+ArabicChineseEnglishFrenchRussianSpanishNew pages                 8792 4661 0839101 8851 278Updated pages        3 8785 6284 3701 9875 8887 791
+
+
+	IV.	Progress towards parity among official languages
+
+
+13.	As manager of the United Nations website, the Department of Public Information has been grappling with the goal of parity among the official languages on the United Nations website as requested by Member States. This challenge also extends to all other content-providing offices. The challenge is complex; its practicality and the scale of resources needed to meet the request of the General Assembly have been submitted in earlier reports to the Committee on Information and to the Fifth Committee.
+14.	Moving towards the goal of parity in the official languages on the United Nations website has many aspects. Access to official documents in all official languages is now available from the United Nations website, but the day-to-day reality is that new material is placed on the site by author departments in the working languages, English and French, but overwhelmingly in the former. 
+15.	In order for the website to remain fresh and useful, it needs constant updates and revision. This in turn means the challenge of achieving parity becomes more complex every day. The commitment of resources to this function for pages in all official languages is therefore essential, but comes at the cost of slowing the pace in which new material can be processed in all languages.
+16.	The new posts made available in the present biennium allow the Web Services Section to increase the volume of new and updated postings. At the same time, however, as requested by the General Assembly in paragraph 66 of its resolution 61/121 B, new requirements, such as making all new and updated pages accessible for persons with disabilities, has meant that the original intended impact of the new posts may not be fully realized. Other efforts to increase parity are centred on the Dag Hammarskjöld Library and Knowledge Sharing Centre (DHLink) which ensures that official documents are fully indexed and made accessible through the Official Document System (ODS) as well as in the Library’s United Nations Bibliographic Information System (UNBISnet). Documents are searchable on ODS by subject in all six official languages of the Organization through the application of the UNBIS Thesaurus. The United Nations website provides links to both of these resources. 
+17.	The DHLink continues to develop its web products with the aim of providing equitable access to United Nations information and knowledge in the six official languages of the United Nations. In collaboration with the library at the United Nations Office at Geneva, DHLink continues its retrospective digitization programme with a focus on Security Council documentation. Documents in all six official languages are scanned, processed for full text retrieval, and posted to ODS.
+18.	Technical changes are producing progress towards the goal of enhancing the multilingual nature of the United Nations website in a number of ways. The Department continues to work towards enhancing the multimedia elements of the site, and through it, the delivery of material in audio and visual forms to an expanding global audience. Radio programmes in all the official languages, as well as a number of non-official languages, including Kiswahili and Portuguese, continue to enhance the multilingualism of the site and are available both for the listening public and for broadcasters to download. Webcasting, now available in the language delivered, in addition to English, has become an important tool that the Department is planning gradually to expand to the other official languages, again offering a daily enhancement of the multilingualism of the site. Websites created by the network of United Nations information centres are providing information in 28 non-official languages. The rationale behind the drive to enhancing multilingualism on the website is to ensure wider access to information on the United Nations to all the peoples of the world, and such technical improvements to the site are a key means to that end, along with progress in such areas as improving access for persons with disabilities. 
+19.	Member States have recognized the responsibility of the individual author departments for producing their websites in the official languages. The Department of Public Information has sought to promote actively multilingualism on the United Nations website across the Secretariat bilaterally with author offices and through the Working Group on Internet Matters, which is being revitalized. 
+20.	In terms of its own areas of responsibility, the Department has striven to ensure language parity in key areas of information about the Organization and its activities. For example, the United Nations websites on the Counter-Terrorism Committee, the Peacebuilding Commission, Reform at the United Nations, Millennium Development Goals, Human Rights Day, Water for Life Decade, International Women’s Day, World Press Freedom Day, United Nations Peacekeeping, Ten Stories the World Should Hear More About and Messengers of Peace, as well as the pages for the President of the General Assembly and the Secretary-General, are available in the six official languages; the United Nations News Centre continues to provide breaking news in all languages; and the same applies to the United Nations Radio webpages, providing radio news in all official languages, in addition to Kiswahili and Portuguese; and all continue to be updated daily. The websites developed by the Department for conferences and events continue to be made available in the six languages. The overall progress has been steady and key information areas on the website such as news — one of the most visited areas of the site — have made significant strides in enhancing the multilingual nature of the site.
+
+
+	V.	Making the United Nations website accessible
+
+
+21.	A survey was commissioned by the Department of Social and Economic Affairs to determine how accessible the Internet is for persons with disabilities. The audit, the first of its kind, investigated the accessibility of 100 leading websites, including private and public sector sites, from 20 countries from around the world.
+22.	The aim of the survey was to obtain an indication of the existing status of accessibility of websites that people with disabilities might access as part of their daily lives.
+23.	This snapshot produced stark results: most of the leading websites around the world do not meet de facto international standards for accessibility. Many of the sites investigated could be easily upgraded to remove the obstacles that prevent many people with disabilities from using the sites. However, the majority of sites need considerable work. 
+24.	In order to make information on the United Nations and its activities available to the widest range of audience, and in keeping with resolutions of the General Assembly, the Department of Public Information is aggressively pursuing accessibility to the United Nations website by persons with disabilities, including visual and hearing disabilities. The objective is to comply with the World Wide Web Consortium standards, which at the present time are the only standards with worldwide recognition. To improve the level of staff expertise, training sessions on accessibility were offered to 20 members of the Department involved in web production. In cooperation with the American Foundation for the Blind, on-site demonstration of screen readers by blind users was organized, which provided much needed practical knowledge and understanding of the requirement as well as raising awareness of the issue among content-providing offices. 
+25.	All new web projects are designed to meet accessibility requirements. As resources permit, older pages are corrected to address accessibility issues. The diagnosis and correction of accessibility barriers in existing pages is a process that is more time consuming than the creation of new accessible pages. Therefore the Department pursues its effort to raise awareness on this issue, so that the accessibility factor is taken into account at the start of a project. This, however, increases the production time by an average of 20 to 25 per cent. Development and updates of existing pages have been reduced, thereby further slowing the progress towards parity among official languages.
+26.	With the adoption by the General Assembly of the Convention on the Rights of Persons with Disabilities on 13 December 2006 (resolution 61/106), the Department, in collaboration with the Department of Economic and Social Affairs, has begun work on preparing a set of guidelines on accessibility to be applicable to United Nations websites. 
+
+
+	VI.	Towards a content management system
+
+
+27.	There is a need for a robust and secure system that can grow and develop, leading to greater efficiencies in the management of a multilingual web content as varied as that of the United Nations. Such a content management system would assist in the enforcement of agreed standards, ensure uniformity of statistics criteria and other web metrics among languages and a more accurate and efficient analysis of website usage. The process of standardization of content presentation, branding, management and technology and the creation of an effective architecture and governance structure should begin as soon as possible in order to facilitate migration and subsequent implementation.
+28.	The content management system would implement a suite of tools to enable more efficient management of content, applications, infrastructure and comply with the World Wide Web Consortium guidelines on accessibility for disabled persons. It would facilitate top-down rearchitecting and consolidation of the existing websites incorporating current best practices for distributed content management, centralized infrastructure management, performance monitoring, management, disaster recovery, business continuity and security. A new architecture would also provide for advanced authorization and authentication capabilities in the future. A content management system would enable better management and enforcement of global policies for content creation, publishing and security, as well as integration with enterprise search and portal tools.
+29.	The core processes supported by a content management system includes:
+	(a)	Creation of large multimedia and web content;
+	(b)	Publishing of dynamic web content;
+	(c)	Versioning of created and published content;
+	(d)	Storage of web-based documents, materials and content;
+	(e)	Website building in a centralized governance structure.
+30.	The core benefits of a content management system includes: 
+	(a)	Synchronization of content creation and publishing in all six official languages;
+	(b)	Consolidation into a single site of all official United Nations public websites around the world;
+	(c)	Improvement of access to all web facilities for persons with disabilities;
+	(d)	Improvement of content integrity by eliminating multiple copies and enabling strict version control;
+	(e)	Facilitation and enforcement of strong policies on content retention, including usage-based automatic archiving;
+	(f)	Meeting or exceeding all applicable standards for security and privacy;
+	(g)	Formal content publishing workflow, standards, review and approval process to reduce errors and maintain quality integrity of content;
+	(h)	Establishment of pre-built templates for the most commonly requested content types;
+	(i)	Increase in productivity for content creators and technical support staff;
+	(j)	Enabling delivery of rich multimedia content and its management.
+31.	The Department has been working closely with the Information Technology Services Division of the Department of Management on the prospect of a web content management system. Such a solution, however, is still long term. In the meantime, a short-term solution, such as the use of open source content management system, is being considered. Such an effort would facilitate institutional branding and easier content management. 
+
+
+	VII.	The search facility
+
+
+32.	In 2005, one aspect of the Department’s annual programme impact review focused on improving the user experience of finding information on the United Nations website. After an analysis of the top 100 search queries over a one-year period, findings revealed that overall search requests are highly generic in nature, such as “United Nations”, “jobs” and news specific, e.g., “tsunami” and “Darfur”. Other popular queries include United Nations agencies, “Charter of the United Nations”, country names and peacekeeping missions. Full analysis of search logs was constrained by limitations in the search appliance, most specifically on queries done in Arabic, Chinese and Russian. Search logs currently do not provide nonroman alphabet characters and these reports now are unable to separate by language. Research is continuing for better search analysis tools. As a result of the annual programme impact review, the Department is taking a number of measures to help improve the search experience for users: 
+	(a)	A feedback page was made available on search result pages in all official languages;
+	(b)	Key matches continue to be created on the search appliance in order to position the “best bet” web pages for specific types of queries;
+	(c)	More news focus pages were created on the United Nations News Centre website in an effort to consolidate content types and create one-stop shopping for similar types of information.
+33.	However, the full use and further development of the search system to fulfil the demands from other content-providing offices for customized search pages and collections to limit search results to their sites continues. From a management perspective, a much-needed analysis of user search patterns continues to present a challenge. In order to provide this type of follow-up action effectively and efficiently, dedicated resources need to be assigned to it, which means that this task can be achieved only at the cost of limiting progress in other areas. 
+34.	The Department continues to work with the Information Technology Services Division on an enterprise search solution. The Division has issued a request for proposals for an enterprise search solution and the Department has been closely involved in the process.
+35.	It has not been possible to index the United Nations system websites despite at least a six-month effort of fine tuning, owing to limitations of the current search appliance. The Organization had procured the largest appliance available to the commercial market.
+36.	The search engine market had matured prior to the creation of the request for proposals and there were other offerings that were server-based and did not have the limitations of the appliance approach and that could operate in a federated fashion giving more flexibility in the mode of operation. The technical evaluation was completed in November 2006 and by mid-February 2007 the Procurement Service was undertaking a financial evaluation.
+37.	The Information Technology Services Division has funded the current search appliance and has also requested funds in the current biennium to replace the appliance to address the requirements of the Secretariat. The possible implementation of indexing the United Nations system is under discussion, but the funding mechanism has not been addressed at this early stage.
+38.	Discussions with the United Nations System Chief Executives Board for Coordination (CEB) will be necessary to fully explore what the approach will be from a funding perspective for the search solution as well as for the enterprise content management system and the United Nations portal to encompass the United Nations system. The hardware in a highly available architecture, the software licences and the resources to coordinate this effort will need to be found. 
+
+
+	VIII.	Webcasting (Internet broadcasting)
+
+
+39.	United Nations Internet broadcasting (United Nations Webcast) provides the platform and opportunity to a global audience to view, directly from the source, proceedings of United Nations meetings and events of, for example, the Security Council, the General Assembly, the Economic and Social Council and the Human Rights Council, as well as United Nations conferences, and to follow debates, discussions and decisions on various issues that may affect people worldwide. It brings awareness and a better understanding of the work of the United Nations as well as the position of Member States on various issues, through live and ondemand video images over the Internet directly to the general public. United Nations webcasting, or Internet broadcasting as it is sometimes referred to, promotes the Organization’s core values of transparency and objectivity. The ondemand availability of these webcasts means that anyone, anywhere can watch at their convenience. Over 8.3 million webcast videos — both live and archived — were viewed by users from over 194 countries and territories during 2006. The email alert system for the daily webcast schedule garnered 2,894 new subscribers in 2006, bringing the total number of subscribers to 7,842.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40.	The Department has recognized the importance of the United Nations Webcast as a cost-effective communications tool with global outreach and is seeking ways to strengthen webcasting capacity in order to meet the high demand for this service both at Headquarters and at other duty stations such as Geneva, Nairobi and Vienna. In 2006, United Nations Webcast provided live and on-demand coverage of about 2,000 events, including all sessions of the Human Rights Council held in Geneva, as well as the Conference of the Parties to the United Nations Framework Convention on Climate Change held in Nairobi. On 8 December 2006, the Human Rights Council adopted decision 3/104 (see A/HRC/3/L.11), requesting Webcast coverage of all its future sessions on a regular basis. A report is being prepared to address the implications of that request. More requests for webcast coverage of United Nations conferences to be held away from Headquarters are expected in 2007. Furthermore, in order to meet the demands for multilingualism, the Department is exploring ways to expand its webcast services worldwide in the six official languages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	IX.	Website governance
+
+
+41.	The Department has been reviewing the current decentralized governance mechanism in coordination with the Information Technology Services Division of the Department of Management, to ensure a system that provides coherent organizational strategies for both content and technology. The Department continues to work with the Division and is revitalizing the Working Group on Internet Matters of the Publications Board to develop common technical standards for software and programming, as opposed to guidelines, and intends to make these standards an organizational requirement. 
+42.	Website governance can be significantly improved once a content management system is in place whereby a centralized template ensures organizational branding and lays down specific presentational requirements. In a content management system, since the content is separate from the presentation, the same content can be presented in different formats to match different contexts.
+43.	A system of governance that will introduce coherence is essential for further development of the website and progress towards language parity, accessibility and organizational branding. It continues to be a challenge to put into place an overall governance scheme for coherent management and governance of the public website that allows differing authoring offices the flexibility and creativity to meet the needs of their particular audiences — be they government officials, the media, academia, civil society or the public at large — while ensuring a unified technical infrastructure, consistency in presentation, organizational branding, addressing accessibility needs, as well as meeting the imperative of producing material in all official languages. There continues to be a need for a robust and secure system that can grow and develop, leading to greater efficiencies in the management of multilingual content.
+
+
+
+	X.	Other issues
+
+
+44.	Pursuant to General Assembly resolution 60/109 B of 8 December 2005, the Web Services Section has been restructured accordingly. Six language units were established to correspond to the six official languages of the United Nations, as per the request from Member States to create separate language units. This increased capacity has improved management of each language site on a continuous basis, as opposed to the previous situation where each language was left without professional coverage for approximately eight weeks of the year as a result of leave schedules, illness or travel. This enhanced capacity, once fully achieved with the completion of the recruitment process expected by mid-2007, will permit an increase in the processing of new pages in languages other than English, more assistance to other departments to render their content in other languages, and more resources for maintenance of existing pages. There has already been increased assistance towards content generation for the News Centre and other new sites, as well as the processing of more material translated pro bono by a number of universities. 
+45.	With the exception of the Spanish language unit, the staffing of the new language units is, however, not yet complete. The remaining posts in the other language units have been announced in the Galaxy System and the recruitment process is under way to fill them. Each of the language units in the Web Services Section now have two professional posts. One of the most challenging tasks has been the recruitment of qualified staff with the technical and language skills required to fill the available vacancies. Given the difficulty of identifying appropriate local support staff, the search has been expanded internationally, but difficulties with visas and travel have made the recruitment process more difficult. 
+46.	The recruitment of junior staff with the appropriate skill sets for web design and programming continues to be a problem. Two P-2 posts in the Web Development Unit could only be filled by temporary staff, since no suitable staff were found as a result of the competitive examination for recruitment to the Professional category of staff members from other categories and the national competitive examinations during the past two years. To address this issue, the Department, in collaboration with the Office of Human Resources Management, introduced a special national competitive examination in web development in 2005. The exercise was carried out in 2006, and the roster of successful candidates has been made available to the Department. It is expected that suitable candidates will be found from this roster.
+47.	The Department continues to supplement staffing resources in the drive to enhance the website. In this regard, the Department wishes to express its gratitude to the Government of France for providing an associate expert to work on the French site. The Department continues to aggressively utilize the services of interns and skilled volunteers in a number of the official languages to complement the work performed by its staff. 
+48.	In keeping with General Assembly resolution 61/121 B, paragraph 68, through increased collaboration, content-providing offices are receiving assistance from the Department in the creation, maintenance and posting of information in the language sites. The Department has been sharing the expertise it has developed over the past 10 years, and assisting other content-providing offices in rendering their English pages into the official languages, on a cost-reimbursable basis. Similar arrangements continue to be set up with other departments in order to assist them in rendering their content into the other official languages. The Department has also been making its developing expertise in the area of accessibility available to author offices in order to assist them in making their sites accessible. Although content-providing offices are becoming more conscious of the need to create, develop and maintain their specialized sites, the Department continues to encourage them to improve the actions taken in this regard, in accordance with the General Assembly resolution.
+49.	On a broader scale, the Department, in collaboration with the World Bank and the Global Alliance for Information and Communications Technology, organized and hosted the Third Annual Web for Development Conference at United Nations Headquarters from 20 to 22 November 2006, with the theme “Web-based communication, collaboration and best practices for development”. Its purpose was to foster communication, cooperation, and the sharing of best practices in the field of web development with the United Nations system, non-governmental organizations, intergovernmental organizations, civil society and the private sector. At the same time, the Department contributed to raising awareness of the international community of the importance of the implementation of the outcome document of the World Summit on the Information Society. 
+50.	The first and second Conferences were held in Washington, D.C., in November 2003 and May 2005, respectively. They set the stage for greater cooperation and information sharing among the Web for Development community, who are responsible for managing and directing the major sites of their organizations. The community has since grown to include close to 300 members from over 80 organizations.
+51.	This latest meeting gathered over 250 participants from the United Nations and its agencies, including participants from other duty stations, Governments, business, industry experts, academia and non-profit and civil society attendees with an interest in the web and information and communications technology for development. A full agenda was prepared, which featured speakers on such topics as: content management systems, web metrics, website evaluation, multilingual websites, Internet broadcasting, accessibility, website governance models, collaboration tools (blogs and wikis), service oriented architecture, open source, and information technology infrastructure.
+52.	The Department of Public Information continues its efforts to increase the number of pages available in some languages by the use of external pro bono translations provided by academic institutions. A new agreement is in place with Zhejiang University (China). The University of Salamanca (Spain) and Minsk State Linguistic University (Belarus) continue to provide such service. These pro bono materials have increased the pool of available material in the three languages. 
+
+
+	XI.	Looking ahead
+
+
+53.	There is a necessary trade-off in the allocation of available resources between site development, moving towards parity among languages, compliance with requirements for access by persons with disabilities, content management and site analysis.
+54.	While awaiting the identification, acquisition and implementation of an enterprise-wide content management system, the Department continued to redesign portions of the United Nations website in 2006, and will progressively incorporate more database-driven features. Increasingly automated processes and easy access to news and latest developments will be introduced, as will be better navigation, presentation, search and accessibility in compliance with the requirements. A complete redesign of the United Nations home page is under way to make the site more user-friendly, intuitive, more personalized and, of course, accessible. Efforts are being made to ensure that there is a thematic rather than a hierarchical approach to the site. The redesign will provide more information to the user with fewer clicks. The United Nations global issues link will feature as one of the navigation paths for the site. The new approach is towards creating engaging web content that provides the visitors with the latest information on the various pages of the site.
+55.	The scale of the resources required to achieve parity has been presented in earlier reports. With the new resources referred to in the preceding section, the Department continues to strive towards improving parity without sacrificing the comprehensiveness and the up-to-date nature of the site. Additional new pages in all languages are now available at a greater frequency. Special attention is paid to areas showing higher levels of usage. However, the use of some resources to ensure accessibility has affected the pace in moving towards parity. 
+
+
+	XII.	Conclusions
+
+
+56.	The Department continues to step up the pace of moving towards parity among the official languages on the website, ensure accessibility and better manage the contents of the United Nations website. With the establishment of separate language units, the Department is able to increase the volume of new material going onto the site and the required maintenance and updating, but that capacity has been tempered by new requirements of ensuring access by persons with disabilities. 
+57.	The Department is focusing on key areas, not only with new pages with textual information, but including webcasting, audio, video and photographic materials, all enhancing the multilingual web-accessible nature of the United Nations website. Balancing the need to ensure access and efficiently managing the content, the Department is aiming to continually broaden its outreach to a wider range of audiences in all regions of the world.
+
+[Start1]<<ODS JOB NO>>N0724650E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/AC.198/2007/3<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/AC.198/2007/3
+
+A/AC.198/2007/3
+
+07-2465014
+
+1507-24650
+
+United NationsA/AC.198/2007/3 
+General AssemblyDistr.: General
+21 February 2007
+
+Original: English
+
+
+07-24650 (E)    060307 
+*0724650*
+

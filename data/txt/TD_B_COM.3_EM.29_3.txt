@@ -1,0 +1,267 @@
+TDUnited Nations
+Conference
+on Trade and
+DevelopmentDistr.
+GENERAL
+
+TD/B/COM.3/EM.29/3
+22 December 2006
+
+Original: ENGLISH
+TRADE AND DEVELOPMENT BOARD
+Commission on Enterprise, Business Facilitation and Development
+Expert Meeting in Support of the Implementation and Follow-up of WSIS: 
+  Using ICTs to Achieve Growth and Development
+Geneva, 4–5 December 2006
+
+
+ REPORT OF THE EXPERT MEETING IN SUPPORT OF THE IMPLEMENTATION AND FOLLOW-UP OF WSIS: USING 
+ ICTs TO ACHIEVE GROWTH AND DEVELOPMENT
+
+Held at the Palais des Nations, Geneva,
+from 4 to 5 December 2006
+
+
+ CONTENTS
+	Page
+	I.	Chairperson’s summary		2
+	II.	Organizational matters		13
+
+Annex
+Attendance		14
+
+Chapter I
+ CHAIRPERSON’S SUMMARY
+Introduction
+1. The Expert Meeting in Support of the Implementation and Follow-up of WSIS: Using ICTs to Achieve Growth and Development was held from 4 to 5 December 2006, pursuant to a decision by the Commission on Enterprise, Business Facilitation and Development at its tenth session. The meeting referred to the WSIS documents adopted in Tunis in 2005, the Tunis Commitment (WSIS-05/TUNIS/DOC/7-E) and the Tunis Agenda for the Information Society (WSIS-/TUNIS/DOC/6(rev.1)-E) as a basis for its work. It was organized jointly by UNCTAD, the OECD and the ILO. The main objectives of the meeting were to present and discuss the latest empirical evidence on the impact of ICTs on firm productivity and competitiveness, trade, employment and, as a result, accelerated economic growth, in particular in developing countries, and to provide policymakers with hard facts about the benefits of ICTs for economic development, so as to enable them to better target national and global policy formulation. The findings and results of the meeting will also serve as inputs to UNCTAD's Information Economy Report 2007. A basic discussion of the subject is provided in the background document prepared by the secretariat (TD/B/COM.3/EM.29/2.). The presentations and information about the panellists can be found on the Internet at www.unctad.org/ecommerce/.
+2. The meeting provided a forum for exploring the role of ICTs in poverty reduction, business development, trade in ICT goods and services, outsourcing and offshoring, and employment creation. Experts came from ICT ministries, and other ministries and agencies involved in technology and trade, as well as from academia, the technology industry, regional and international organizations, and civil society.
+3. This summary focuses on the substantive discussions which were structured according to the following thematic sessions during the meeting:
+      (a) The impact of ICTs on productivity and growth; 
+      (b) The impact of ICTs on business sectors;
+      (c) ICTs and international trade in goods and services; 
+      (d) ICTs, labour markets and employment, and society;
+      (e) Concluding remarks. 
+The impact of ICTs on productivity and growth 
+4. A substantial part of the first day was spent in discussing the impact of ICTs on growth and development in both developed and developing countries. This included different methodological approaches to measure ICT impact, the latest findings from academic research and best practice examples from developing countries, as well as policy suggestions that could be drawn from the empirical research and the implementation of national ICT programmes.
+5. Concerning the methodological approaches related to measuring the impact of ICT, the experts discussed the importance of carrying out research on ICT and its relation to productivity at both micro and macro levels. Generally speaking, increasing labour productivity through ICTs can be achieved — and hence measured — through three channels: (a) ICT investment, (b) the ICT-producing industry, and (c) the effective use of ICT. The globalization and delocalization of ICT production have recently led to productivity gains in many developing countries, such as China for hardware production and India for software production. However, firm-level studies suggest that while ICT investment and ICT production result in significant one-off productivity gains, in the long run the positive productivity effects arise mostly from ICT use. A central message was that it does not pay to simply promote ICT diffusion, but to encourage the most effective use of ICT in order to achieve greater economic growth. A comparison of productivity data from the United States and Europe showed that in the United States productivity growth had been increasing significantly over the past 20 years, while it had been declining continuously in Europe (EU-15), mainly because of the failure to use ICTs efficiently. One policy conclusion of this finding is that policymakers should carefully assess the ICT programmes they are promoting, which should match the needs of the country, sector or firms. The experts concluded that ICT is not a solution on its own but a tool that, if correctly applied, results in greater productivity.
+6. Speakers pointed out that ICTs are not conducive to growth and efficiency in isolation from other policy measures. This applies to the three main channels of technological diffusion: ICT investment, ICT production and ICT use. The interplay between investment in ICTs and certain organizational factors was found to be crucial in determining the intensity of gains in firm efficiency and economic growth. At the firm level, returns to ICT investment depend on the quality of the technology adopted, the economic sector in which companies operate, the type of ownership and management, and adaptability to change. Studies found similar complementarities between ICT use and issues such as the adaptation of business processes to IT solutions, and the quality and size of the communication network. A study of ICT adoption by Chinese enterprises shows that returns to ICT investment compare well with the situation in OECD countries, especially if coupled with the appropriate reforms in terms of management structure.
+7. Research carried out in the Latin American region found that only in some countries was ICT investment conducive to economic growth and that the positive effect was considerably lower than that for OECD countries. More importantly, ICT adoption did not yet account for distinguishable gains in the long run (total factor productivity growth) in Latin America. Particularly when countries underwent economic crisis situations, the positive effect of ICTs was lost.
+8. Another study on the impact of new technologies in developing countries showed that ICTs are general-purpose technologies since their impact is reaching most adopting countries and across most economic sectors through backward and forward linkages. Nevertheless, structural weaknesses such as difficult access to finance, an unfavourable regulatory environment and poor functioning of institutions can offset the positive productivity effect of ICTs. Therefore, a careful analysis of the benefits generated by ICT should take into account as much as possible the determinant characteristics of a particular business and the environment in which it operates. Each sector of economic activity has a distinctive learning curve and ICT adoption is the result of a learning process. To improve analysis, researchers need to consider case studies of the processes taking place within firms in order to better account for productivity differences between companies with similar levels of investment in ICTs.
+9. Discussions among participants revealed that specific difficulties arise when growth accounting analyses are undertaken in developing countries. For example, the productivity- enhancing effect of ICTs is hard to assess when the informal sector is an important component of the domestic economy. The validity of certain policy measures is hard to verify given the inherent bottlenecks in the process of implementation, as has been the case for example with e-government procurement, data protection or the adoption of intellectual property rights. 
+10. Another method of measuring and comparing country performances in terms of ICT uptake is the elaboration of composite indexes (such as the one published by the WEF, as highlighted by one of the presenters). Variables such as the regulatory environment or the effective adoption of new technologies by firms and individuals can be used to compare performances between similar countries. However, this framework is not without problems when countries with very different levels of development are being compared. Evidence shows that the countries with the highest productivity indexes invest more in education and R&D, attract more foreign investment and have markets that are more open to trade. There is less agreement on how to sequence and how to stage reforms and policy actions that would enable developing countries to emulate good ICT performances and growth. In addition, qualitative components of such indexes make their comparability across countries and regions challenging. 
+11. The meeting reaffirmed that ICT measurement was a key determinant of the quality of the analysis of ICTs' impact on growth. Good data quality and coverage were essential to setting, implementing and evaluating national ICT policies, and to carrying out international and regional benchmarking. As ICTs are adopted more widely and the intensity of their use is scaled up, more efforts should be devoted to improving and increasing ICT measurement. In this context, international initiatives on ICT measurement, such as the Partnership on Measuring ICT for Development, provide ideas for solutions regarding how developing countries could improve the quality and comparability of their data.
+12. There are new aspects where measuring the impact of ICT needs to be innovative. For example, ICT use is not only changing the way in which people and enterprises work, but is also affecting individuals in their everyday life. The social impacts of ICTs have not received much attention in past analyses. However, the link between ICTs and certain social aspects needs to be measured and analysed in case studies in order to answer multifaceted questions — for example, is ICT, on balance, beneficial for society?
+13. During the session, the participants highlighted various ways of using ICTs to achieve growth and development in the African region, where many Governments are developing their country-specific ICT policies and have incorporated the development of ICTs into their growth and poverty reduction strategies. The case of Ghana, which has been a leading African country in the WSIS process, demonstrated significant progress achieved in past years in building up ICT infrastructure. The experts discussed the contribution of market liberalization in this context. Following the privatization of the telecom sector in Ghana, the number of mobile phone users has increased significantly in the last five years. The importance of supporting intangible investment such as education and the building up of IT skills, as well as promoting R&D, was emphasized. Practical examples included the recently established educational centres in Ghana, such as the Ghana-India Kofi Annan ICT Centre of Excellence and the Ghana Telecommunication University College.
+14. Experts discussed the role of Governments in creating an enabling environment in order to achieve economic growth through ICTs. In addition to investing in IT infrastructure, it was important to establish a sound regulatory and legal environment to attract the private sector and FDI. 
+15. The session highlighted the impact of ICTs on productivity and growth as reflected by a series of case studies and projects conducted in Thailand. Experience showed that ICTs had a substantial impact on productivity if the new technologies were made available to the majority of the population. Therefore, Governments need to identify the sectors of the economy where investment in ICT solutions would maximize ICT-driven productivity gains at the domestic level. In the opinion of experts, ICT-related policies should not bypass remote rural areas, local SMEs or the equitable dissemination of education and skills. 
+16. More generally, it was recognized that designing ICT policies for growth is not simply a matter of scaling up good practices encountered in other countries, but rather a detailed study of existing particularities and environment to fine-tune the appropriate policy tools. Training and education remain among the pillars of pro-growth policy action. Participants agreed that there is scope to harness ICTs to provide education of better quality in a more cost-effective manner and on a more equitable basis in developing countries. 
+17. It was pointed out that social capital brings about more productive ICT use and that network effects are significant in this regard. In this connection, speakers pointed out that gender inequality needs to be addressed before societies and economies can realize their full growth potential. Women should not be excluded from ICT training, ICT employment or ICT innovation processes since their contribution can generate important value added. When designing ICT solutions it should be borne in mind that diversity makes business sense and that discrimination does not take full advantage of larger markets.
+The impact of ICTs on business sectors
+18. The third session of the Expert Meeting was devoted to examination of the economic effects that the adoption of ICT was having, or could have in the future, on industries of interest to developing countries, such as oil, tourism or trade finance.
+19. The presentations made at this session provided practical illustrations of several general points that had been made during the previous two sessions of the Expert Meeting. Thus, experts discussed how the experience of ICT adoption in a number of developing countries showed that ICTs should be regarded as instruments for achieving a broad business vision, and not as ends in themselves. ICT uptake was not merely about acquiring ICT, but about a complex process of organizational and managerial change that could not succeed without support and involvement at all the levels of a firm's structure. It was noted that ICTs were increasingly influencing economic activity in developing countries, in both the public and the private sectors, including in agriculture, industry and services, most notably in the financial sector. In this context, a number of key success factors were mentioned, including the need to make global reach compatible with a local touch, the importance of moving from a culture of procurement to one of solutions management, and the role of demand-driven investment in skills.
+20. Experts discussed the current trends in ICT spending in the oil sector and its effects on different segments of the oil industry. An upward trend in spending had been visible among the upstream companies over the last five years. Companies involved in exploration and production tended to have higher levels of IT spending. In regional terms, companies operating in the more demanding environments of Africa and Europe (offshore) tended to have higher levels of spending. In the case of the downstream segment of the industry, the trend in spending pointed downwards, owing to narrower margins. However, the complexity and scale of global downstream operations were increasing IT spending for a few very large players. In terms of a qualitative assessment, it was pointed out that the main challenge posed by ICT to the major players in the oil industry was not merely a technological one, but one of management and business communications.
+21. Tourism was another sector that was looked at during this session. It was noted that tourism was one of the main world economic sectors in terms of contribution to GDP and of employment, in particular in developing countries. It was an industry that had varied and fragmented structures and suffered from an unbalanced distribution of value among the various participants in the industry at the global level, with developing country producers usually on the losing side. Tourism markets were going through a process of segmentation that made the ability to pursue niche strategies increasingly important. All these considerations made tourism an industry in which the adoption of ICTs and ICT-enabled innovations could generate benefits for developing countries, improving the competitiveness of their suppliers of tourism services, enabling the creation of linkages among the various players at local and national levels, and creating more opportunities for autonomous marketing and management of destinations in developing countries. The case of Sri Lanka was mentioned as an example of how ICTs allowed developing countries to take advantage of new orientations in tourism markets. 
+22. The case of e-credit information was a further illustration of how ICTs are enablers of economic growth, but not the whole answer to development problems. Issues pertaining to public policy (such as the existence of, and accessibility to, reliable public records or aspects of the regulatory regime such as banking secrecy), cultural attitudes towards credit information among borrowers and the general public, and the existence of standards were at least as important factors of success for efficient trade finance as technology. That having been said, bridging the digital divide in this sector would greatly help to achieve lower levels of imperfect information and hence reduce the number of imperfect credit decisions. Partnership between the private and the public sector was crucial in order to address problems in the sphere of the legal and regulatory framework and in that of the mindsets affecting credit information. There was also a need to invest in modern information systems and in the provision of electronic access to the relevant registries. The result would be greater availability of trade finance, particularly for smaller businesses. This was the experience of two developing countries — Thailand and Singapore — whose cases were presented as examples.
+23. Other aspects of the discussion concerned the importance of ensuring that the diffusion of ICTs in the economies of developing countries was monitored and measured using appropriate, adapted methodologies. Some experts wondered about the extent to which information is available regarding the effectiveness of ICTs in bringing about improvements in key development fields such as education and health. The response was that the process of measuring and monitoring ICT impact in developing countries was still at an early stage and that the international community has undertaken encouraging efforts that will lead to increased availability of comparable data in the medium term.
+24. All agreed that ICT investments should be made — and their value assessed — on the basis of their effects on business performance, but that this was not necessarily the case in every instance. Experts noted that ICTs made new business models and industry architectures possible. Often, this implied changes in the way value was captured by the different participants in an industry's value chain. From a developing country perspective it was important to make sure that ICT investments were based on a sound understanding of their impact on the operations of a particular industry and on value creation and distribution. In this regard, developing countries need to benchmark best practice and to implement solutions rather than technologies. To that end, ICT vendors should undertake research for solutions that are relevant and adapted to a developing country context.
+25. It was felt that the previous considerations should be incorporated into the terms of reference of the multistakeholder work groups involved in the implementation of the e-business action line from the World Summit on the Information Society. It was suggested that these should also involve other items, such as free access to scientific information, and trust on both data and metadata.
+ICTs and international trade in goods and services 
+26. The session opened with a discussion on comparative performance in the trade of major ICT goods and service-producing countries. Overall trends confirmed the influence of production networks' effects on macroeconomic performance and indicators. However, it was difficult to gauge intra-firm and intra-affiliate effects of production redistribution as these were largely not reported. While there was much discussion about the potential of production networks for computer-related services, the evidence largely consisted of the example of India and several countries on the periphery of the OECD. However, even the Indian data were biased by the fact that an important amount of provision was done on-site or through trade between affiliates. Thus, developing country suppliers could not expect the same total domestic economy benefits as in trade dominated by manufactured goods.
+27. It was noted that, nonetheless, India had greatly benefited from international trade in ICT-enabled services. The main issue was how to increasingly take part in global technology development and R&D activities, beyond providing call-centre type services. The challenge was to address, at the same time, the macroeconomic problems related to employment and investment, thus positively supporting broad-based development, while affecting ICT policy and strategy reform. The Indian policy model was described as “government enabling without interfering”, thus emphasizing the Government’s role as a facilitator. The limitations of available infrastructure, talent pool, and managerial and operational skills were all seen as challenges that needed to be resolved in such a way as to positively affect global readiness to offshore services and ease barriers to overall trade in services in all its modes. While the WTO process of negotiations for trade in services was currently lacking in dynamism, what was needed above all was recognition of the various interlinkages between the different modes of delivery.
+28. The Chinese experience provided a somewhat different example of policy practice in an environment that was biased towards ICT goods manufacturing and trade. Government policy needed to address this issue, but at the same time was committed to facing the challenge of enabling access to ICTs in underdeveloped and rural areas and with equal emphasis on issues such as social development and e-government. What was needed was improvement of human resources and skills in management in order to win large-scale outsourcing assignments. This was closely related to acquiring and maintaining high-level international quality certification, as well as improving the enforcement of IPR protection and regulation. Finally, there were basic uncertainties arising from the fact that China was a transition economy country and that often the legacy of administrative interference in business activities affected strategic decisions of outsourcing companies as potential clients. The involvement of the Government in addressing these challenges was greater than in the Indian example, while a number of private-sector initiatives such as WITKEY had also sprung up in an effort to improve the marketability of Chinese ICT services.
+29. The discussion next considered the context and role of the WTO negotiations and the Doha round. The question was raised as to whether the Information Technology Agreement provided a basis for tariff reduction for technology products, and it was suggested that countries that advanced commitments generally fared better on the issue of the digital divide and opportunity. It was reaffirmed that, from a negotiations perspective, the main impact was regarding the issue of the interlinkages between the various modes of delivery and the need to advance negotiations on these relationships. However, of significant importance for trade and commerce were also the issues of standards and the need for these to be implemented as trade and technology facilitators rather than non-tariff barriers, as well as trade issues related to e-government and e-procurement. Finally, given the timeliness of discussion on digital delivery and computer-related services and how these relate to the international trade regime, it was noted that the Doha round might become very focused on ICT issues.
+30. Underscoring the ideas presented during the opening discussions whereby the most important productivity impact of ICTs related to their use, with this phase often following periods in which countries would invest in ICTs or facilitate the development of an ICT industry, the example of Canada was used to show that significant gains were being made in ICT-intensive services, such as online shopping, e-banking and online financial services, as well as transport and e-logistics. While, as several experts had already mentioned, inter-linkages between different delivery modes needed to be recognized and analysed, policymakers were encouraged to think of trade-enhancement agreements outside the scope of the WTO multilateral framework as possible testing beds for exploring paths to resolving issues related to the imperfect fit between the concepts of digital delivery and computer- related services and the traditional goods versus services paradigm.
+31. It was suggested that liberalization in services, in particularly ICT-intensive services, was good in and of itself, beyond the fact that such a commitment had a separate value as a bargaining chip in the WTO context. A liberalized services sector provided an input shaping a dynamic environment for the development of the ICT-enabled e-economy because service providers that managed well in an open and competitive setting typically provided higher- quality services with better coverage at a lower cost to consumers. It was noted that computer-related service providers, including those from developing countries, managed to develop into world-class operations because they rarely enjoyed the historical position of an incumbent, monopolistic state or parastatal enterprise, and that this clearly differentiated them from telecoms that have a different track record. Thus, liberalization served to improve the competencies and performance of enterprise, ultimately benefiting consumers. In that connection, the GATS commitments assisted those necessary transformations, while at the same time improving the level of confidence among investors by strengthening the predictability of the institutional and commercial environment in a given market. However, some experts questioned whether commitments in ICT-enabled services did not, through commercial and productive linkages, lead to consequential liberalization of other sectors and industries that might not be within the scope of a country’s current negotiating position. The discussion also addressed the need for balanced international interconnectivity costs, and the need to study how the recommendations adopted by the International Telecommunication Union related to the way in which such services were examined within the WTO. It was pointed out that such a topic could provide an area for further research to be undertaken by UNCTAD.
+32. The discussion underscored the need to differentiate policy, depending on the economic realities of particular countries and regions, and indicated that this would comprise their production capacities and trade profiles, and included their ICT mix of investment, production or use. It was also noted that different digitally tradable products resulted in heterogeneous IPR implications. Moreover, they did not fit well into the trade in goods and/or services negotiation framework, and therefore bilateral negotiations were expanding the possibilities for better or alternative approaches. In this way, the technological nature of products was affecting and changing the international trade regime.
+33. Some experts maintained that, whatever the framework, the goal of trade liberalization was pivotal, and that entertaining notions of customs duties in cyberspace was a step back from the policy challenge of decreasing and eliminating trade tariffs. Adding difficulty to the policy discussions was the problem of accounting for international trade in computer-related services, as this was fundamental to evaluating the economic effects of e-services and, subsequently, adjusting supportive e-strategies and polices. While the experiences of developed market economies and several large and successful developing countries were interesting, experts noted that it would have been useful to review the experiences of less digitally evolved countries. Experts also commented on the need to review the relationship between industrial policy and labour relations in developed economies when the latter were faced with offshoring or outsourcing competition from abroad, so as to explore any potential for relevant policy practice when developing countries face similar disruptive changes brought on through globalization. The discussion also showed the need to have a holistic view of trade in goods and services related to ICTs within the WTO framework. Linkages needed to be made with other WTO initiatives related to technology, such as the Working Group on the Relationship between Trade and the Transfer of Technology. Also, the challenges of classification within the ITA framework and its implications for dual-use goods, and how these could constitute a backdoor for non-agricultural market access (NAMA), which have a clear development impact, should be studied. It was suggested that UNCTAD, with the expertise in its Trade and Services Infrastructure Divisions, could be very well positioned to study the development impact of major trade agreements.
+ICTs, labour markets and employment, and society
+34. This session started with the notion that ICTs were facilitating the creation of production networks, promoting the subcontracting of both goods and services. This generates changes in the nature of labour demand, favouring qualified persons able to work in competitive and rapidly changing environments. It was observed that unless corrective policies can be taken, this can result in wide social differences. Technology can lead to increased socio-economic divides, and thus actions to pre-empt such effects can facilitate the adoption of new technologies.
+35. The discussions pointed to the need for efforts to improve managerial and entrepreneurship capacities to enhance the value accrued from investments in ICTs. This could make enterprises more competitive and thus generate decent employment: these were the only sustainable mechanisms to eradicate poverty. Efforts to enhance the productivity of SMEs through networking and the promotion of production processes could result in greater competitiveness and quality employment.
+36. Another critical factor for ensuring that ICTs did not widen existing social and economic gaps was to train workers in non-repetitive skills, so as to ensure their literacy and their ability to learn, solve problems and work in teams. It was mentioned that the participation of the labour force in the process of change ensures buy-in, thus facilitating the adoption of new technologies.
+37. Furthermore, the role of business services should be examined since evidence from a number of economies tended to show relative growth in the number of jobs in the sector, which, incidentally, tended to have higher remuneration levels.
+38. It was noted that, in the OECD area, ICT specialists accounted for up to 5 per cent of total employment, whereas ICT-intensive users accounted for up to 30 per cent of total employment. There appears to be a change in demand for ICT specialists — from purely technical skills towards a combination of technical and other skills (e.g. business, management, marketing). This may lead to a two-speed labour market for ICT specialists, with declining demand for lower-skilled jobs, which are either replaced by technology (digitization, automation) or offshored to lower-cost locations.
+39. Some experts pointed to the fact that the increase in bandwidth allows an increasing range of services to be delivered from remote locations, allowing distance/tele-work, but also offshoring. Occupations that (i) make intensive use of ICTs, (ii) can be traded/delivered with the help of ICTs, (iii) have a high codifiable information/knowledge content, and (iv) do not require face-to-face content account for up to 20 per cent of total employment. In EU-15 this share has been increasing, whereas in the United States, Canada and Australia it has started to decline (from 2000/2001). 
+40. The distinction between clerical types of occupations (relatively low skilled) and “professionals” (more highly skilled) was considered to be very important, as changes in the share of these two groups are quite different. In the United States and Australia, the share of clerical occupations is decreasing significantly, while it is more or less flat in Canada and EU-15. The share of professionals, on the other hand, is increasing in the United States, Australia and EU-15 (and remains flat in Canada). Clerical workers also account for variable shares in employment potentially affected by offshoring: from about 30 per cent in Australia, Ireland, Sweden, the United Kingdom and the United States, to over 60 per cent in Italy and Portugal.
+41. Econometric work has demonstrated that it is important to make the distinction between different types of employment, as different factors (that control for international openness, the structure of the national economy and economy-wide framework factors) have a different impact. In particular, net outward manufacturing FDI, ICT investment, the comparative size of the services sector and trade union density have a different impact on the evolution of the two shares.
+42. Experts noted that skills are seen as a major factor in attracting offshored services activities. In India and China, there was already a very large absolute amount of skilled people, but there was still a huge potential for growth. Language skills and corporate culture types of skills were also important for being able to work in foreign multinationals. 
+43. It was noted that statistics on employment in the ICTs sector were deficient. The sector, being heavily investment-geared, was closely related to business cycles. It had been found that entry into ICT-related educational systems was countercyclical: the fall in employment during contractions led to fewer people embarking on scientific and IT careers. Moreover, employees tended to be young, full-time and male.
+44. In job-exporting countries it has become clear that the impact of outsourcing on jobs has been limited. The absence of information about positive impacts of offshoring on employment should be underlined in order to limit a public backlash against globalization and technological change. Moreover, the early involvement of workers, avoidance of compulsory job layoffs and respect for international labour standards would clearly facilitate the acceptance of outsourcing. Finally, the presence of foreign IT workers employed in less adequate working conditions undermining the conditions of local employees should be avoided.
+45. Part of the discussions on ICT and employment focused on the different impact on men and women. Overall, the rates of women's participation in the labour market tend to be significantly lower than those of men, but are increasing in most countries. In general, women have a lower share of managerial positions, but a higher share than men in many professional occupations, especially health care and education. In contrast to these general patterns, the gender distribution of ICT employment is an outlier in terms of both women's participation and shifts in the share of women in ICT-related employment. Women have low shares of ICT-specialist employment, and, if anything, these shares are decreasing or remaining constant, but rarely show an increase. Experts noted that among ICT-related occupations women tended to have much higher shares of office and secretarial occupations and lower shares in scientific and professional ones.
+46. It was also noted that women have increased their share in higher education, in particular in the arts and health-related education. However, the share of women remains low in engineering and computer science. Although informal assistance from colleagues and learning-by-doing are important ways of acquiring computer skills for all, for women more formal types of training courses may be relatively more important than for men.
+47. The gender distribution of ICT access is also skewed. ICT access by women tends to lag behind that of men, but the gaps are generally becoming smaller. However, there are differences in the location of Internet access. Men are more likely to access from both home and work in many countries, whereas women are more likely to access from educational establishments. In terms of the use of ICTs there are significant differences in patterns of use across the whole population. For example, in their online activities women are more likely to engage in shopping and health-related activities, while men are more likely to play games and visit sports pages. 
+48. Finally, the experts concluded that for both equity and efficiency reasons gender differences in ICT occupations, education, access and use need to be addressed, that further analytical work on the evolution of ICT occupations, education and use should be undertaken, and that the effects of policy on women and ICTs should be analysed in detail.
+Concluding remarks 
+49. The final session of the meeting drew some overall conclusions from the discussions. It was noted that two years had passed since the WSIS thematic meeting in Guatemala organized by the same partner organizations. Since then, many things had changed. The world economy had generally been growing, and technology development and globalization had continued. The emergence of China and India as global players has exceeded the forecasts of most observers in OECD countries. Some experts considered that the illusion that existed at the start of the WSIS process, namely that there would be a massive mobilization of public funding to invest in IT and build telecom infrastructure in developing countries, had evaporated. However, there was now a feeling among all stakeholders, particularly and most crucially the private sector, that sustainable and competitive market dynamics were moving in the right direction, and the technological tools were coming on stream to move to a global information economy. 
+50. It was stressed that ICTs, however, were part of a bigger picture for economic and social development that included other microeconomic drivers such as the innovation system, human resources development, entrepreneurship and the business environment, which were required alongside macroeconomic and societal fundamentals. 
+51. It was now becoming clearer under what conditions ICTs could have a positive impact on the economy. Experts agreed that ICT application and use, facilitated by the right enabling conditions, was the key. ICT-enabled offshoring of services was a potential source of growth and jobs in the providing countries and of productivity and competitiveness in client countries. On the social side, opportunities and technological tools now existed to address inequities such as the "gender divide" and, through "user-created content", contributed to maintaining strong cultural and linguistic diversity in the virtual world. 
+52. All these posed policy challenges that could be clarified only by further efforts to improve statistics, information and analysis. Multi-organization initiatives such as the Partnership on Measuring ICT for Development and meetings such as the present one had an important role to play.
+53. In the context of the development of science and technology policies, it was stressed that the role of ICT-related policies was pivotal. During the past decade, ICTs had become part of many developing countries' development plans and poverty reduction strategies. Those countries had designed, and were now implementing, national ICT policies for reaching overall development goals, recognizing the potential of new technologies in fostering economic and social development. Now it was necessary to review the status of their plans and understand the impact they had had so far on their economies and societies and to allow decision makers to formulate new policies. ICT policies were dynamic tools that must be continuously updated to keep up with national, international and technological developments.
+54. Experts concluded that this meeting had made an important and useful contribution to the post-WSIS process by laying the theoretical foundations in respect of ICT, growth and development. It was now important for UNCTAD, which had participated continuously in the WSIS process, to continue its work and define a concrete, strategic road map for its contribution to the implementation and follow-up of the WSIS outcomes. 
+
+Chapter II
+
+ ORGANIZATIONAL MATTERS
+A. Convening of the Expert Meeting
+55. The Expert Meeting in Support of the Implementation and Follow-up of WSIS: Using ICTs to Achieve Growth and Development was held at the Palais des Nations, Geneva, from 4 to 5 December 2006.
+B. Election of officers
+(Agenda item 1)
+56. At its opening meeting the Expert Meeting elected the following officers to serve on its bureau:
+
+      Chairperson:  				Mr. Jaya Ratnam (Singapore)
+      Vice-Chairperson-cum-Rapporteur: 	Mr. Amr Aljowaily (Egypt)
+
+C. Adoption of the agenda and organization of work
+(Agenda item 2)
+57. At the same meeting, the Expert Meeting adopted the provisional agenda circulated in document TD/B/COM.3/EM.29/1. The agenda for the meeting was thus as follows:
+1.	Election of officers
+2.	Adoption of the agenda and organization of work
+3.	The implementation and follow-up of WISIS: Using ICTs to achieve growth and development
+4.	Adoption of the report of the Meeting
+D. Documentation
+58. For its consideration of the substantive agenda item, the Expert Meeting had before it a background paper by the UNCTAD secretariat entitled “Using ICTs to achieve growth and development” (TD/B/COM.3/EM.29/2).
+E. Adoption of the report of the Meeting
+(Agenda item 4)
+59. At its closing meeting, the Expert Meeting authorized the Rapporteur to prepare the final report of the meeting under the authority of the Chairperson.
+
+Annex 
+
+ATTENDANCE1
+
+1. Experts from the following States members of UNCTAD attended the Meeting:
+
+
+Argentina
+Austria
+Bangladesh
+Bolivia
+Burkina Faso
+China
+Colombia
+Dominican Republic
+Ecuador
+Egypt
+Fiji
+Finland
+France
+Georgia
+Ghana
+Greece
+Honduras
+Indonesia
+Iran (Islamic Republic of) 
+Italy
+Jamaica
+Lesotho
+Malaysia
+Mauritania
+Mauritius
+Mexico
+Mongolia
+Morocco
+Nepal
+Pakistan
+Peru
+Philippines
+Romania
+Russian Federation
+Saudi Arabia
+Senegal
+Singapore
+Slovakia
+Spain
+Sri Lanka
+Switzerland
+Syrian Arab Republic
+Timor-Leste
+The former Yugoslav Republic of  
+   Macedonia
+Trinidad and Tobago
+Tunisia
+Turkey
+United States of America
+Uruguay
+Yemen
+
+
+2. The following intergovernmental organizations were represented at the Meeting:
+
+African, Caribbean and Pacific Group of States
+African Union
+European Commission
+League of Arab States
+Organisation for Economic Co-operation and Development
+
+3. The following United Nations agencies were represented at the Meeting:
+
+Economic Commission for Africa
+Economic Commission for Europe
+United Nations Research Institute for Social Development
+4.	The following specialized agencies was represented at the Meeting:
+
+International Telecommunication Union
+United Nations Industrial Development Organization
+Universal Postal Union
+
+5.	The following non-governmental organizations attended the Meeting:
+
+General Category
+BPW International
+International Confederation of Free Trade Unions
+Ocaproce International
+
+6.	The following panellists attended the Meeting:
+Mr. Jaya Ratnam, Deputy Permanent Representative of Singapore, to the United Nations, Geneva
+Mr. John Dryden, Deputy Director, STI, OECD 
+Mr. Rashid Amjad, Director, Policy Planning, Employment Sector, ILO
+Mr. Kwaku Ofosu-Adarkwa, Permanent Secretary, Ministry of Communications, Ghana 
+Mr. Bart van Ark, Professor, University of Groningen, Netherlands 
+Mr. Michael G. Jacobides, Professor, London Business School and Harvard University 
+Mr. Manoo Ordeedolchest, Honorary President, ACTI, Thailand 
+Ms. Irene Mia, Senior Economist, World Economic Forum 
+Mr. Tony Clayton, Director, Economic Analysis, ONS, UK 
+Ms. Marina Larios, President, WiTEC and Director, Nova Consultancy, UK 
+Ms. Sheridan Roberts, Consultant, STI, OECD
+Mr. Nanno Mulder, Economic Affairs Officer, ECLAC 
+Mr. Mario Cimoli, Economic Affairs Officer, ECLAC 
+Mr. David Rose, Managing Director, Aupec, UK 
+Mr. Joachim Bartels, Managing Director, Business Information Industry Association, Asia Pacific-Middle East 
+Mr. William Usimaki, Sales Operations Manager for Africa, HP
+Mr. Jacob Kirkegaard, Research Associate, IIE, Washington, USA 
+Mr. Gaurav Singh, Senior Manager, NASSCOM, India  
+Mr. Li Zhongzhou, WTO Lead Expert, EU-China Trade Project, China 
+Ms. Lee Tuthill, Senior Counsellor, Trade in Services Division, WTO 
+Mr. Richard Bourassa, Director, E-Commerce Branch, Industry Canada 
+Mr. Kenneth Schagrin, Director, Telecommunications and E-commerce Trade Policy, USTR
+Mr. Roberto Zachmann, Focal Point for ICTs, ILO 
+Ms. Desirée van Welsum, STI, OECD 
+Mr. Gerhard Rohde, Professor, UNI, Nyon, Switzerland 
+Mr. Pierre Montagnier, STI, OECD
+Mr. Dario Celaya Alvarez, Counsellor, Permanent Mission of Argentina, Geneva
+
+*  *  *    *  *     *  *  *
+1 For the list of participants, see TD/B/COM.3/EM.29/INF.1.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+TD/B/COM.3/EM.29/3
+page 12
+
+
+TD/B/COM.3/EM.29/3
+page 13
+
+
+GE.06-52646
+
+TD/B/XXX
+page 16
+
+
+GE.06-
+
+

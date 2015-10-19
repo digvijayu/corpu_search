@@ -1,0 +1,438 @@
+[Start1]
+Sixty-second session
+
+
+
+		Proposed programme budget for the biennium 2008-2009*
+
+
+		Part VIII
+		Common support services
+
+
+		Section 28D
+		Office of Central Support Services
+
+
+		(Programme 24 of the biennial programme plan and priorities for the
+period 2008-2009)**
+
+
+
+Contents
+  Page		Overview	2A. Executive direction and management	5B. Programme of work	81. Information and communication technology services	92. Other support services	14
+
+
+
+	*	A summary of the approved programme budget will subsequently be issued as Official Records of the General Assembly, Sixty-second Session, Supplement No. 6 (A/62/6/Add.1).
+	**	Official Records of the General Assembly, Sixty-first Session, Supplement No. 6 (A/61/6/Rev.1).
+
+
+
+
+
+
+
+		Overview
+
+
+	28D.1	The Office of Central Support Services is responsible for the implementation of the work programme under this section. The activities for which the Office of Central Support Services is responsible fall under subprogramme 4, Support services, of programme 24, Management and support services, of the biennial programme plan for the period 2008-2009.
+	28D.2	The main objectives of the Office include (a) ensuring continued efficient, effective and high-quality support for substantive programmes in the areas of information technology, procurement, travel and transportation, facilities management, archives and records management, and management of commercial activities in meeting the development goals of the Organization, (b) ensuring efficient Secretariat support services to the sessions of the intergovernmental machinery and for the special conferences and meetings held under the auspices of the United Nations, (c) facilitating, through the provision of information and documentation, the deliberations of the General Assembly and its relevant subsidiary organs on specific support service issues under their review, and (d) enabling an integrated and collaborative approach for the Organization to store, search and retrieve information. Within the context of the Secretary-General’s management reforms, efforts to strengthen existing common and joint services among the United Nations organizations will continue. The progress being made in the area of common and joint services is reported in specific reports of the Secretary-General. The Office carries out its activities in cooperation with other departments and offices of the Secretariat. A major challenge anticipated in the biennium 2008-2009 will be the coordination with the Office of the Capital Master Plan and the provision of facility and information and communications technology services necessary to support the first construction phase of the capital master plan while continuing to maintain the premises. Areas of particular concern will be space, asset, archives and records management, given the magnitude of the staff moves required at the onset of the construction. An assessment of the impact of the capital master plan on the operations of the Office of Central Support Services will be provided in the annual report on the capital master plan to the General Assembly.
+	28D.3	The total regular budget resource requirements proposed under this section for the biennium 2008-2009 amount to $247,470,500, before recosting, reflecting an increase in the amount of $2,061,700, or 0.8 per cent, as compared with the revised appropriation for the biennium 2006-2007. The estimated resources under this section of the proposed programme budget for the biennium 2008-2009 may be affected pending consideration by the General Assembly of the report on information and communication technology requested in section II of its resolution 60/283. The report of the Secretary-General will provide detailed information on the structure and staffing requirements of the envisaged information and communication technology structure as well as the lines of responsibility, the functions of the proposed structure and its relationship with other information and communication technology units in the Secretariat, offices away from Headquarters, regional commissions, peacekeeping operations, special political missions and other field offices, including any revision to the existing information and communication technology strategy.
+	28D.4	It will be recalled that in his note to the General Assembly (A/61/758), the Secretary-General submitted his comments on the recommendations contained in the report of the Redesign Panel on the United Nations system of administration of justice (A/61/205) and identified the time and resources needed to implement the Panel’s recommendations. The proposed resource redeployments and growth sought in the report as they affect the biennium 2008-2009 have not been incorporated under the present budget section. In its resolution 61/261, the General Assembly decided to establish a new, independent, transparent, professionalized, adequately resourced and decentralized system of administration of justice. In addition, the General Assembly requested the Secretary-General to report on resources required for the implementation of that resolution as a matter of priority at the second part of its resumed sixty-first session and on issues identified in the resolution regarding the establishment of the new system of administration of justice no later than the early part of the main part of its sixty-second session. Following consideration, decisions of the General Assembly on those reports and the related ongoing resource proposals would be incorporated in the budget appropriation at the time of adoption of the programme budget for the biennium 2008-2009 in December 2007.
+	28D.5	By its resolution 61/256, the General Assembly requested the Secretary-General to submit a comprehensive report, as soon as possible, elaborating on the restructuring of the Department of Peacekeeping Operations and the establishment of the Department of Field Support, including functions, budgetary discipline and full financial implications for the consideration of and decision by the General Assembly during its sixty-first session, in accordance with established procedures. Some proposals contained in the requested report would lead to budgetary implications for section 28D, in particular for the Procurement Division. Those implications have not been included in the present budget proposal. Decisions of the General Assembly following consideration of the requested report would be incorporated, as necessary, in the initial appropriation at the time of adoption of the programme budget for the biennium 2008-2009 in December 2007.
+	28D.6	The overall net increase of $2,061,700 can be summarized as follows:
+		(a)	The net decrease of $5,200 under executive direction and management relates to a reduction in non-post requirements on the basis of pattern of expenditures and internal reallocation of resources;
+		(b)	The net increase of $2,066,900 under programme of work relates to an increase of $4,341,100 in other support services due partly to necessary non-post requirements ($2,493,100) in support of the total proposed new posts to be established in Headquarters for the biennium 2008-2009 and other increases ($1,848,000), in particular under utilities, communications, maintenance of office automation equipment and office supplies, partially offset by a decrease in non-post resources of $2,274,200 in information and communication technology services ($2,723,100), partially offset by the proposed establishment of one P-4 and two P-3 level posts ($448,900). 
+	28D.7	Regular budget resources under this section are supplemented by extrabudgetary funding derived from programme support income received as reimbursement for the services provided by the central administration for extrabudgetary activities, funds and programmes, as well as from the support account for peacekeeping operations. Extrabudgetary resources are also derived from various sources of funding of Secretariat-wide requirements for the rental and maintenance of premises, telecommunications services and travel services. For the biennium 2008-2009, extrabudgetary resources are estimated at $133,834,500. The increase over current estimates reflects the effect of the expansion of support for peacekeeping operations.
+	28D.8	Resources associated with common support services, such as communications, maintenance of office automation equipment, stationery and office supplies, previously centralized under information and communication technology services are proposed to be realigned within the Office of Central Support Services in order to more accurately reflect the managerial responsibilities attached to its various components.
+	28D.9	The estimated percentage distribution of the total resources of the Office for the biennium 2008-2009 is shown in table 28D.1.
+
+Table 28D.1	Distribution of resources by component
+		(Percentage)
+
+ComponentRegular budgetExtrabudgetaryA.	Executive direction and management0.9—B.	Programme of work  	1.	Information and communication technology services29.826.4	2.	Other support services69.373.6	Total100.0100.0
+
+	28D.10	The distribution of resources is summarized in tables 28D.2 and 28D.3.
+
+	Table 28D.2	Resource requirements by component
+(Thousands of United States dollars)
+(1)	Regular budget
+Component2004-2005
+expenditure2006-2007
+appropri-
+ationResource growthTotal
+before
+recostingRecosting2008-2009
+estimateAmountPercentageA.	Executive direction and management3 323.02 273.7(5.2)(0.2)2 268.5 130.42 398.9B.	Programme of work	1.	Information and communication technology services65 097.876 019.4(2 274.2)(3.0)73 745.24 492.478 237.6	2.	Other support services158 702.3167 115.74 341.12.6171 456.812 517.7183 974.5	Subtotal223 800.1243 135.12 066.90.9245 202.017 010.1262 212.1	Total227 122.9245 408.82 061.70.8247 470.517 140.5264 611.0
+
+(2)	Extrabudgetary
+2004-2005
+expenditure2006-2007
+estimate2008-2009
+estimate	Total98 657.3123 090.1133 834.5	Total (1) and (2)325 780.2368 498.9398 445.5
+
+	Table 28D.3	Post requirements
+
+Established
+regular
+budget postsTemporary postsRegular budgetExtrabudgetaryTotalCategory2006-
+20072008-
+20092006-
+20072008-
+20092006-
+20072008-
+20092006-
+20072008-
+2009Professional and above	ASG 1 1———— 1 1	D-2 3 3———— 3 3	D-1 6 6——11 7 7	P-5 20 20——44 24 24	P-4/3 70 73——3440 104 113	P-2/1 14 14——67 20 21	Subtotal 114 117——4552 159 169General Service	Principal level 19 19——99 28 28	Other level 219 219——4447 263 266	Subtotal 238 238——5356 291 294Other 	Trades and Crafts 100 100——33 103 103	Subtotal 100 100——33 103 103	Total 452 455——101a111b 553 566
+	a	Comprises 1 P-4, 1 P-2, 1 General Service (Principal level), 15 General Service (Other level) and 3 Trades and Crafts posts financed from reimbursement for support to extrabudgetary administrative structures; 1 P-5, 1 P-3 and 2 General Service (Other level) posts financed from technical cooperation; 1 D-1, 3 P-5, 16 P-4, 15 P-3, 5 P-2, 6 General Service (Principal level), 18 General Service (Other level) financed from the support account for peacekeeping operations; and 1 P-4, 2 General Service (Principal level) and 9 General Service (Other level) posts financed from the telecommunications support account.
+	b	Comprises 1 P-4, 1 P-2, 1 General Service (Principal level), 15 General Service (Other level) and 3 Trades and Crafts posts financed from reimbursement for support to extrabudgetary administrative structures; 1 P-5, 1 P-3 and 2 General Service (Other level) posts financed from technical cooperation reimbursement resources; 1 D-1, 3 P-5, 18 P-4, 19 P-3, 6 P-2, 6 General Service (Principal level) and 21 General Service (Other level) posts financed from the support account for peacekeeping operations; and 1 P-4, 2 General Service (Principal level) and 9 General Service (Other level) posts financed from the telecommunications support account.
+
+
+	A.	Executive direction and management
+
+
+		Resource requirements (before recosting): $2,268,500
+
+	28D.11	The Assistant Secretary-General for Central Support Services is responsible for all the activities of the Office of Central Support Services and its administration and management, as well as the coordination of common services. He or she provides the Secretary-General, through the Under-Secretary-General for Management, with advice and support on all matters that relate to the provision of central support services to the Organization, for both Headquarters and offices away from Headquarters, including other organizations of the United Nations, especially its funds and programmes; plans, organizes, directs and monitors, through the senior managers of the Office, the effective and efficient provision of central support services, including information and communication technology and the Integrated Management Information System (IMIS), procurement and contract administration, travel and transportation, facilities management, commercial activities services, the United Nations Postal Administration and the management of the archives and records of the United Nations. In discharging his or her responsibilities, the Assistant Secretary-General is assisted by his or her immediate Office, which coordinates inter-office activities and monitors and follows up their implementation.
+
+	Table 28D.4	Objectives for the biennium, expected accomplishments, indicators of achievement and performance measures
+
+Objective of the Organization: To ensure full implementation of legislative mandates and compliance with United Nations policies and procedures with respect to the management of the programme of work and of staff and financial resources.Expected accomplishments of the SecretariatIndicators of achievement(a)	Programme of work is effectively managed(a)	Timely delivery of outputs and services
+Performance measures
+(Percentage of clients expressing that services are provided in a timely manner)
+2004-2005: 76 per cent
+Estimate 2006-2007: 78 per cent
+Target 2008-2009: 80 per cent(b)	Timely recruitment and placement of staff(b)	Reduction in the average number of days a Professional post remains vacant from the date of departure of the incumbent to the entry on duty of the new incumbent
+Performance measures
+2004-2005: not applicable
+Estimate 2006-2007: 322 days
+Target 2008-2009: 310 days(c)	Improved geographical representation and gender balance of staff(c)	(i)	Increased percentage of staff recruited from unpresented and underrepresented Member States in the Office
+	Performance measures
+	2004-2005: 11.7 per cent
+	Estimate 2006-2007: 15 per cent
+	Target 2008-2009: 18 per cent	(ii)	Increased percentage of women at the Professional level and above for appointments of one year or more
+	Performance measures
+	2004-2005: 27.6 per cent
+	Estimate 2006-2007: 28.5 per cent
+	Target 2008-2009: 30 per cent(d)	Increased timeliness of submission of documentation(d)	Increased percentage of pre-session documents submitted in accordance with the required deadline
+Performance measures
+2004-2005: 17 per cent
+Estimate 2006-2007: 20 per cent
+Target 2008-2009: 25 per cent
+
+External factors
+
+	28D.12	The objectives and expected accomplishments will be achieved on the assumption that:
+		(a)	There will be no major shortfall in the funding of the programme of work that might affect the delivery of services;
+		(b)	There will be no unforeseen situations originating from events deemed to be force majeure;
+		(c)	All stakeholders fulfil their responsibilities and obligations.
+
+	Table 28D.5	Resource requirements
+
+Resources (thousands of United States dollars)PostsCategory2006-20072008-2009
+(before recosting)2006-20072008-2009Post1 500.41 500.455Non-post 773.3 768.1——	Total2 273.72 268.555
+
+	28D.13	Resources amounting to $2,268,500 would provide for continuation of five posts in the immediate Office of the Assistant Secretary-General and related non-post requirements. The non-post requirements, which would cover, inter alia, general temporary assistance, overtime, travel by the Assistant Secretary-General and furniture and equipment, reflect a decrease of $5,200. The decrease is the net result of decreases under general temporary assistance and overtime, partially offset by increases under communications, computer maintenance and replacement of office automation equipment and furniture and equipment, based on review of the work programme and internal reallocation of information and communication technology resources.
+
+	B.	Programme of work
+
+
+	Table 28D.6	Resource requirements by subprogramme
+
+Resources (thousands of United States dollars)PostsSubprogramme2006-20072008-2009
+(before recosting)2006-20072008-2009Regular budget	1.	Information and communication technology services76 019.473 745.2132135	2.	Other support services167 115.7171 456.8315315	Subtotal243 135.1245 202.0447450Extrabudgetary123 090.1133 834.5101111	Total366 225.2379 036.5548561
+
+			Regular budget resource requirements by subprogramme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1.	Information and communication technology services
+
+
+		Resource requirements (before recosting): $73,745,200
+
+	28D.14	Under the guidance of the Information and Communication Technology Board (see ST/SGB/2003/17), the Information Technology Services Division is responsible for the implementation of policies and standards promulgated by the Board; maintaining an up-to-date inventory of information and communication technology activities in the Secretariat; coordinating the implementation of strategic decisions taken by the Steering Committee on Reform and Management concerning information and communication technology; establishing, in cooperation with the Office of Human Resources Management, training plans for information and communication technology staff worldwide; and providing the necessary tools for supporting knowledge exchange and cooperative work. The Division is responsible for the provision of overall computing, telecommunications, office automation, software and hardware support and infrastructure support for conference rooms at Headquarters and, in cooperation with the Department of Peacekeeping Operations, as appropriate, for lease lines and satellite communications to overseas duty stations. The Division also provides infrastructure support for enterprise-wide applications such as IMIS, talent management system, electronic mail and the Official Document System (ODS), as well as consulting and advisory services to all offices of the Secretariat, and undertakes research and development of new technologies. The Division also delivers services to permanent and observer missions of Member States to the United Nations in New York.
+	28D.15	The estimated resources of $73,745,200, including a decrease of $2,274,200 from the revised appropriation for the biennium 2006-2007, relate to the realignment of resources among various entities of the Office of Central Support Services which were all previously included in the information and communication technology services subprogramme.
+
+	Table 28D.7	Objectives for the biennium, expected accomplishments, indicators of achievement and performance measures
+
+Objective of the Organization: To ensure that information and communication technology services efficiently and effectively support the operational goals of the Organization.Expected accomplishments of the SecretariatIndicators of achievement(a)	Improved alignment of information and communication technology initiatives with the Organization’s operational objectives(a)	(i)	Increased proportion of information and communication technology initiatives that can be traced back to the information and communication technology strategy
+	Performance measures
+	2004-2005: not applicable
+	Estimate 2006-2007: 50 per cent
+	Target 2008-2009: 70 per cent	(ii)	Increased proportion of information and communication technology investments exceeding or meeting the predefined benefits
+	Performance measures
+	2004-2005: not applicable
+	Estimate 2006-2007: 50 per cent
+	Target 2008-2009: 75 per cent(b)	Improved timeliness and effectiveness of information and communication technology acquisition and implementation processes(b)	Increased proportion of systems and services meeting target deliverables
+Performance measures
+(Percentage of information and communication technology acquisitions that are introduced within 45 days of receipt)
+2004-2005: not applicable
+Estimate 2006-2007: 60
+Target 2008-2009: 80 (c)	Increased efficiency and effectiveness in delivering and supporting information and communication technology applications, systems and services(c)	Increased proportion of services meeting expected service levels
+Performance measures
+(Average availability of mail, workflow and database servers)
+2004-2005: not applicable
+Estimate 2006-2007: 99.3 per cent
+Target 2008-2009: 99.5 per cent(d)	Increased responsiveness in closing operational gaps(d)	Increased number of improvement actions identified and implemented
+Performance measures
+(Increased number of implemented major change requests by user community)
+2004-2005: not applicable
+Estimate 2006-2007: 25
+Target 2008-2009: 30
+
+Objective of the Organization: To facilitate achieving the strategic goals of the Organization through information and communication technology.Expected accomplishments of the SecretariatIndicators of achievement(a)	Improved information management capability of the Organization, enabling an integrated and collaborative approach to store, search, and retrieve information in all media formats(a)	Decreased time required to search, retrieve and file electronic information
+Performance measures
+Increased number of departments using the Enterprise Content Management functionalities, which are aimed at helping with information management and decreasing time to search, retrieve and file electronic information; the introduction of the Enterprise Content Management is contingent on receipt of the necessary approvals and the necessary funding
+2004-2005: not applicable
+Estimate 2006-2007: 1
+Target 2008-2009: 2(b)	Improved resource planning management capability of the Organization, enabling an integrated and coordinated approach to financial controls, human resources systems, supply chain management, reporting and consolidated decision-making(b)	(i)	Increased number of redundant/ duplicate data elements consolidated
+	Performance measures
+	(Number of processes and information requirements provided in the core system)
+	2004-2005: 15
+	Estimate 2006-2007: 28
+	Target 2008-2009: 40		(ii)	Reduction of manual inputs 
+		Performance measures
+	(Number of personnel actions and financial/accounting documents processed by IMIS and avoiding manual inputs)
+		2004-2005: not applicable
+		Estimate 2006-2007: 300,000
+		Target 2008-2009: 350,000(c)	Improved support to substantive programmes in meeting the development goals of the Organization(c)	Increased number of substantive projects developed and implemented
+Performance measures
+2004-2005: not applicable
+Estimate 2006-2007: 15
+Target 2008-2009: 25
+
+External factors
+
+	28D.16	The subprogramme is expected to achieve its objectives and expected accomplishments on the assumption that:
+		(a)	The evolution of technology and developments in related industries is in line with related projections;
+		(b)	Stakeholders fulfil their responsibilities and obligations and extend their full cooperation in attaining the objectives of the information and communication technology strategy.
+
+Outputs
+
+	28D.17	During the biennium 2008-2009, the following outputs will be delivered:
+		(a)	Operational support for computer and network infrastructure:
+			(i)	Policy: ensuring the conformity of all information and communication technology services delivered by the Information Technology Services Division with policies of the Information and Communication Technology Board and relevant industry standards; enforcing network security in line with international security standard ISO 17799 (compliance and certification of security) for the Secretariat information and communication technology infrastructure;
+			(ii)	Connectivity: management and maintenance of the global telecommunications infrastructure connecting United Nations Headquarters with offices away from Headquarters and peacekeeping missions; expansion and upgrading of the e-mail, Internet and Intranet systems (in cooperation with the Department of Peacekeeping Operations, as appropriate);
+			(iii)	Capital investment: upgrading the United Nations headquarters campus network infrastructure with robust capabilities to support large and multiple user groups with diverse requirements for mission-critical data, voice and video traffic;
+			(iv)	Information security: periodic security risk assessments of technological structures and operations at the United Nations Headquarters and at offices away from Headquarters, and securing the network through the use of anti-spam and anti-virus solutions;
+			(v)	User support: technical and operational support for servers, personal computers and mobile devices connected to the United Nations Headquarters network; provision of electronic messaging services involving facsimile messages, telex and cable services;
+		(b)	New technologies and development:
+			(i)	Development and implementation of systems to meet the Organization’s changing business needs;
+			(ii)	Implementation of Customer Relationship Management applications;
+			(iii)	Development and implementation of information technology standards as well as provision of technical expertise and advice on information technology projects;
+		(c)	Coordination activities and administrative support:
+			(i)	Coordination of services relating to approximately 280 photocopiers at Headquarters;
+			(ii)	Coordination of the provision of information and communication technology support for all permanent and observer missions to the United Nations in New York;
+			(iii)	Operation and maintenance of about 17,000 telephone, trunk ports and facsimile lines connected to the private branch exchange at Headquarters and implementation of approximately 14,000 user requests for moves and changes;
+			(iv)	Operation and maintenance of secure voice and message communication globally among United Nations offices;
+			(v)	Administrative support for information and communication technology services, including the processing of contracts and related invoices;
+			(vi)	Technical and operational support for voicemail users at United Nations Headquarters and technical support for pagers and cellular phones;
+			(vii)	Telephone and facsimile-related billing services for approximately 28 million calls each biennium;
+		(d)	Integrated Management Information System:
+			(i)	Provision of programming and implementing enhancements to IMIS;
+			(ii)	Progressive integration of IMIS with other administrative systems (e.g., e-PAS, the Operations Processing Integrated Control System/Society for Worldwide Interbank Financial Telecommunication, the United Nations budget information system, talent management system, Mercury, external vendor systems);
+			(iii)	Implementation of IMIS-related user requests for security services;
+			(iv)	Provision of system support for all central software application, such as IMIS, ODS, email, talent management system and the Internet/Intranet;
+			(v)	Ensuring the integrity and unified architecture of databases; 
+			(vi)	Maintenance of the central reporting system to provide support for the user areas responsible for the development of reports by facilitating optimal access to data and ensuring that the reporting facility evolves, taking into account modern technology and new requirements at all duty stations;
+			(vii)	Supervision of training and qualification of all IMIS programming staff.
+
+Table 28D.8	Resource requirements
+
+Resources (thousands of United States dollars)PostsCategory2006-20072008-2009
+(before recosting)2006-20072008-2009Regular budget	Post31 379.931 828.8132135	Non-post44 639.541 916.4——	Subtotal76 019.473 745.2132135Extrabudgetary35 123.235 277.52022   Total111 142.6109 022.7152157
+
+	28D.18	Resources amounting to $73,745,200 would provide for the posts shown in table 28D.8 (76 Professional, 58 General Service and 1 Trades and Crafts) in the Information Technology Services Division and related non-post requirements. The increase in post requirements relates to the proposed establishment of one P-4 level post, the incumbent of which would be responsible for the security systems projects, including Access control, Closed Circuits and Intrusion Detection Systems as well as for the provision of expert advice on Security Systems Integration, and two P-3 level posts, the incumbents of which would be responsible for the planning, support, design, installation and testing of physical security systems and maintenance and management of changes in the information technology components, as well as providing strategic advice on security issues as a whole. The resources under non-post requirements, reflecting a decrease of $2,723,100, would cover the work programme detailed in paragraph 28D.14 above. The decrease, resulting from the proposed reduction of resources under general operating expenses, supplies and materials, and furniture and equipment, mainly reflects the proposed realignment of resources indicated in paragraph 28D.8 above and the discontinuation of resources under grants and contributions since the mainframe services provided by the International Computer Centre are replaced by internally hosted solutions. The decreases are partly offset by increases under (a) general temporary assistance and overtime that would ensure the maintenance of the Web Focus software and enterprise reporting, and the configuration and installation of Portfolio Management tools and would assess opportunities for further automation of services provided to Member States; and (b) contractual services for the implementation of initiatives under the information and communications technology strategy for the proactive development of enterprise-wide application solutions ranging from specialized scopes (e-PAS, iSeek) to global system-wide applications, including security features for Headquarters and offices away from Headquarters as well as acquisition and implementation of applications and databases; software licences and protection of software against hacker intrusion.
+
+
+	2.	Other support services
+
+
+		Resource requirements (before recosting): $171,456,800
+
+	28D.19	The Facilities and Commercial Services Division is responsible for this component of the central support services. This includes the management and operation of all existing physical facilities and the physical plant at Headquarters and the coordination of the management of overseas properties; the transportation, accommodation and routing of all travel undertaken at United Nations expense and the moving of the household goods and personal effects of staff from and to locations worldwide; the procurement of goods and services for the Organization’s activities at Headquarters through the provision of related services; and the preservation and servicing of records with continuing value in support of the Organization’s operational, informational, legal and other needs. In addition, the Division is responsible for the management of commercial-related activities at Headquarters and the coordination of special events and the mail and pouch operations.
+
+	Table 28D.9	Objectives for the biennium, expected accomplishments, indicators of achievement and performance measures
+
+
+Objective of the Organization: To ensure efficient, effective and high-quality support in the areas of procurement, facilities management, travel and transportation and archives and records management.Expected accomplishments of the SecretariatIndicators of achievement(a)	Maintenance of the physical condition of the facility pending implementation of the capital master plan(a)	An increase in infrastructure system malfunctions caused by the ageing of the facility is minimized
+Performance measures
+2004-2005: not applicable
+Estimate 2006-2007: 50 malfunctions
+Target 2008-2009: 55 malfunctions (increase is minimized to not more than 10 per cent over the prior biennium)(b)	Improved efficiency of facility services(b)	Increased proportion of service requests completed within standard turnaround times
+Performance measures
+2004-2005: 53 per cent
+Estimate 2006-2007: 56.8 per cent
+Target 2008-2009: 59 per cent(c)	Maintenance of efficient and cost-effective travel, visa and transportation services to the Organization at Headquarters(c)	Maintenance of savings achieved relative to the full cost of travel
+Performance measures
+2004-2005: 24 per cent
+Estimate 2006-2007: 25 per cent
+Target 2008-2009: 26 per cent(d)	Improved management of Secretariat recordkeeping(d)	Increased percentage of offices implementing recordkeeping standards in the Secretariat
+Performance measures
+2004-2005: not applicable
+Estimate 2006-2007: 5 per cent
+Target 2008-2009: 30 per cent(e)	Enhanced level of quality and timeliness in the acquisition of goods and services(e)	(i)	Increased percentage of respondents expressing satisfaction with the procurement service
+Performance measures
+2004-2005: 95 per cent
+Estimate 2006-2007: 97 per cent
+Target 2008-2009: 97 per cent
+(ii)	Reduction in procurement processing time
+(Cases processed per week per officer)
+2004-2005: 1.49 
+Estimate 2006-2007: 1.53
+Target 2008-2009: 1.58(f)	Improved access and participation of vendors from developing countries and countries with economies in transition in United Nations procurement(f)	Increased procurement from vendors from developing countries and countries with economies in transition in United Nations procurement
+Performance measures
+2004-2005: 882 vendors
+Estimate 2006-2007: 974 vendors
+Target 2008-2009: 1,074 vendors
+
+External factors
+
+	28D.20	The subprogramme is expected to achieve its objectives and expected accomplishments on the assumption that: 
+	(a)	Developments in the airline and shipping industries will continue to enable the negotiation of favourable contracts; 
+	(b)	National institutions and organizations are supportive of efforts for diversification of United Nations suppliers.
+Outputs
+
+	28D.21	During the biennium 2008-2009, the following outputs will be delivered:
+	(a)	Technical cooperation (regular budget/extrabudgetary):
+	(i)	Advisory services and training for staff at Headquarters, offices away from Headquarters and field missions on procurement matters; advisory services and business seminars to suppliers from developing countries and countries with economies in transition on how to do business with the United Nations (approximately 20 missions);
+	(ii)	Technical and substantive archives and records management services for the Secretariat, offices away from Headquarters and peacekeeping and special missions with regard to paper and electronic records; records transfer, storage, disposal and preservation; reference services; and outreach for the general public;
+	(b)	Central support services (regular budget/extrabudgetary):
+			(i)	Special events services: planning, coordinating and managing all the support services required for special events held at United Nations Headquarters; 
+		(ii)	Supervision of catering services, newsstand and gift centre operations;
+		(iii)	Asset and information management services: efficient and effective management of all non-expendable property, equipment and support of automation for facility management services;
+		(iv)	Information and reception services: information and reception services for delegates, staff and visitors in the Delegates’ Lounge and lobbies at Headquarters; handling telephone requests for information from the public, diplomatic mission personnel and staff;
+		(v)	Mail operations services: provision of means of transmitting official correspondence and material through the worldwide pouch and postal service and the messenger service within the Headquarters complex;
+		(vi)	Planning and design services: architectural and engineering services related to design and supervision of alterations and improvements, major maintenance and electrical construction projects for Headquarters buildings;
+			(vii)	Office space planning and space management services: projecting and planning the need for office space, managing all the United Nations-owned and leased premises effectively and redesigning them, as necessary, to service the changing needs and/or optimize the use of available office space; provision of rental services involving office and storage space in rented premises;
+		(viii)	Plant engineering services: heating, ventilation and air-conditioning services, plumbing services, carpentry/upholstery/carpet services, painting and general maintenance services, garden and grounds maintenance; supervision on a continuous basis of cleaning, conference servicing and custodial and electrical maintenance work carried out through contractual arrangements;
+		(ix)	Broadcast and conference support services: technical support for meetings and fulfilment of requests for audio and video services; management and coordination of videoconferences;
+		(x)	Travel services: expansion of discounts from major and regional airlines to cover almost all travel effected by the United Nations; monitoring and audit of all tickets issued for United Nations travellers to ensure the lowest available airfares; consolidation of its United Nations laissez-passers databases into a single application; an enhanced system which will include the possibility for field based offices to record their renewals of travel documents; upgrade of the laissez-passer to include the most current safety and security features, such as biochip technology, in order to ensure document integrity and continued compliance with the standards of the International Civil Aviation Organization; re-engineering of the host country reporting system;
+		(xi)	Transportation services: expansion of electronic monitoring of the usage of all United Nations Headquarters vehicles to ensure that they are operated by authorized drivers; expansion of bar-code technology to track urgent mail deliveries and other driving assignments; implementation of a global shipments contract for the provision of the removal of household goods and personal effects;
+		(xii)	Procurement services: posting of procurement plans and upcoming procurement opportunities on the Division’s website; preparation and issuance of tenders; presentation of cases to the Headquarters Committee on Contracts, including review of procurement procedures being proposed and conducted by offices away from Headquarters and peacekeeping and other field missions; award of purchase orders and contracts and negotiation and execution of contracts for the procurement of goods and services; 
+		(xiii)	Registration of qualified suppliers from a wide geographical area; public opening of tenders at designated dates and times while ensuring the confidentiality and security of tender documents prior to opening; substantive contribution to the implementation of procurement training programmes for both Headquarters and field staff; information technology support for procurement activities; and implementation of other innovative means to increase efficiency in procurement;
+		(xiv)	Overall administration and management: records management and recordkeeping services to the Secretariat, offices away from Headquarters and peacekeeping and special missions; retention schedules; identification of best practices and standards for electronic recordkeeping; and provision of distance learning tools;
+
+	Table 28D.10	Resource requirements
+
+Resources (thousands of United States dollars)PostsCategory2006-20072008-2009
+(before recosting)2006-20072008-2009Regular budget	Post53 223.453 223.4315315	Non-post113 892.3118 233.4——	Subtotal167 115.7171 456.8315315Extrabudgetary87 966.998 557.08189	Total255 082.6270 013.8396404
+
+	28D.22	Resources amounting to $171,456,800 would provide for the continuation of 315 posts in the Facilities and Commercial Services Division and related non-post requirements. The increase under non-post requirements ($4,341,100) is due to the standard provision for office facilities for the total proposed new posts to be established in Headquarters included under various sections of the proposed programme budget for the biennium 2008-2009 as well as an internal reallocation of resources, particularly under general operating expenses, including communications and maintenance of office automation equipment, and under supplies and materials, including stationery.
+
+	Table 28D.11	Summary of follow-up action taken to implement the relevant recommendations of the oversight bodies
+
+
+Brief description
+of the recommendationAction taken to implement
+the recommendationAdvisory Committee on Administrative and Budgetary Questions
+(A/60/7 and Corr.1)The Committee pointed out that more should be done to (para. VIII.41):
+(a)	Expand functions that could be more efficiently performed by contractors;
+
+Review of this issue is carried out on an ongoing basis.(b)	Improve space management through close coordination of space requirements with funds and programmes;The Facilities and Commercial Services Division is regularly in contact with funds and programmes to align space requirements or identify availability of office space when organizational needs arise.(c)	Improve global contracts with airlines so that other duty stations could make more use of discounted rates;The Organization entered into an additional global agreement with an international carrier offering reduced airfares to offices in all countries that the carrier serves. Further, the United Nations offices at New York and Geneva have been successful in including in several airline agreements the possibility of applying negotiated discounts on airfares bidirectionally, that is, the trip can originate in offices away from the respective headquarters. Local agreements of such nature often provide deeper discounts than global agreements. The Facilities and Commercial Services Division is continuing its effort to expand these travel arrangements.(d)	Facilitate and expand the access of permanent missions at Headquarters and other main duty stations to information systems in use by the Organization, including the Internet, Intranet and ODS (para. VIII.41).Desktop computers and Wi-Fi in strategic areas in the Secretariat building have been installed to allow access to the Internet, ODS, and other information sources. Further, systems have been developed to assist delegates in their work (such as Candiweb, a secure website to facilitate elections to various committees).
+Planned enterprise solutions, such as enterprise content management, and a portal would increase access to Secretariat information resources. However, the delivery of latter projects is contingent upon funding being made available for the enterprise platforms in question. The Secretariat’s work on identity management is also geared to facilitating this.The Committee noted with concern that a substantial degree of decentralization remains in information and communications technology.This is part of the long-term strategy of the Secretariat that was outlined by the Secretary-General in his interim report on information and communications technology (A/61/765). It is expected to effectively address this issue as funding and support is made available.The Committee was concerned that not much progress has been achieved in terms of improved governance of information and communications technology systems since its review of the proposed budget for 2004-2005; there continue to be a number of systems and databases, such as IMIS, the Budget Information System, IMDIS, Galaxy and Mercury, that are not compatible with each other or that require complicated systems of bridges to keep them interconnected (para. VIII.42).This issue is also of concern to the Secretariat. However efforts to implement the subject recommendation through the planned introduction of enterprise applications such as the enterprise resource planning, customer relationship management and enterprise content management will not be successful unless approved for implementation and appropriately funded and supported.Report of the Board of Auditors
+(A/59/5, vol. I, chap. II)The Board recommended that the United Nations adopt and implement a uniform methodology for determining the total cost of information and communications technology with a view to improving the decision-making process on such issues as outsourcing and cost recovery (para. 89).The Information Technology Services Division continues to implement initiatives to realize the goals of this recommendation as reflected by the following outcomes:
+On 8 August 2005, an Administrative Instruction on information and communications technology initiatives was issued (ST/AI/2005/10), which created the requirement of a high-level business case for information and communications technology initiatives in support of the relevant portions of proposed budget requests. In this connection, a needs-based training campaign has been undertaken by the Information Technology Services Division on how to develop high-level business cases in accordance with established professional best practices and standards in project management and costing methodologies. Review and revision of standard costs for cost recovery by applying a uniform methodology are being prepared for inclusion in the budget instructions for the proposed programme budget for the biennium 2008-2009.
+The Information Technology Services Division expects to continue implementation of this recommendation during 2007 following the approval of a Chief Information Technology Officer to oversee the creation and implementation of an effective information management strategy.The Board recommended that the United Nations review the delegations of authority, methodology and monitoring for the management of computerized data and information (para. 95).It is expected that with the approval of the post of Chief Information Technology Officer under the Secretary-General’s management reform agenda, these issues will be revisited and will be addressed in the context of the new information and communications technology governance strategy.The Board recommended that the Administration establish, as planned, a formal portfolio of information and communications technology assets in line with the best information and communications technology industry practices in order to provide a complete view of information and communications technology initiatives, projects and facilities across all United Nations organizational units (para. 97).The Information and Communications Technology Board and its task forces govern information and communications technology in the Secretariat and have responsibility to review and approve initiatives and standards. Those governance entities have been addressing the risk identified by the Board of Auditors regarding the need for a “total view of current information and communications technology assets” by ensuring the achievement of the following objectives:
+	•	Standardization of information and communications technology initiatives
+	•	Analysis and approval of information and communications technology high-level business cases
+	•	Consistent application of information and communications technology procurement standards
+The above listed functions are supported by eAssets (electronic assets management database).Planned actions for the next biennium
+During the biennium 2008-2009, the Information Technology Services Division expects to:
+	•	Automate high-level business case processing
+	•	Automate standards case processing
+	•	Standardize project status and reporting processes
+	•	Capture and maintain key information for all major technology initiatives and assets 
+	•	Enable pro-active resource forecasting based on future project demand
+	•	Enable strategic alignment of the portfolio against overall goals and priorities of the United Nations
+	•	Reduce redundancy by enabling access to a comprehensive project and asset inventory
+	•	Provide financial and operational transparency for all projects 
+	•	Identify opportunities for consolidationThe Board recommended that the Administration ascertain that training programmes on the development and implementation of an information and communication strategy are available and coordinated (para. 99).This recommendation has been implemented through training of staff in the development of information and communications technology strategies and workshops on high-level business case methodology for an information and communications technology initiative.The Board recommended that the Administration continue to take appropriate steps to adopt common standards and best practices, including documenting “lessons learned” exercises (para. 102).See action taken to implement the recommendation of the Board of Auditors (A/61/5, vol. I, para. 232).Report of the Board of Auditors
+(A/61/5, vol. I, chap. II)The Board recommended that the Administration establish a written information and communications technology quality plan, based on the Control Objectives for Information and related Technology (COBIT) audit guidelines for planning and organization, and consider customizing the operations in accordance with the standard COBIT quality assurance approach or framework adopted (para. 232).This recommendation will be implemented by the end of the biennium within the context of the implementation of the ISO 9001 standard, a quality management system that will complement the ISO 27001-based information security management system (see A/61/214, para. 50).Office of Internal Oversight Services
+(A/60/682)The Department of Management should ensure that the Office of Central Support Services identifies the most efficient space criterion for estimating rental costs, using a single measurement for rental cost, which could be either the number of square feet per grade or a flat average number of square feet per staff member regardless of grade (para. 57).This recommendation has been implemented.
+A flat rate per staff member has been established for estimating rental costs.The Department of Management should ensure that the Information Technology Services Division reviews the cost structure of the service-level agreements in order to reflect actual costs. The revised service-level agreements should be included in the standard cost guidelines (para. 69).The review of the cost structure of the service-level agreements has been completed, and revised rates were incorporated as part of the instructions for the proposed programme budget for the biennium 2008-2009.The Department of Management should develop a policy clarifying the determination of an efficient printer/desktop ratio (para. 71).The ratio defined in General Assembly resolution 59/296 was adopted in the preparation of the 2006/07 support account budget. 
+In addition, the Information Technology Services Division is in the final stage of implementation of a photocopier/printing network project, which will enable the Secretariat to further rationalize the use of printers in the future.The Department of Management should update the costs of acquiring desktop computers, printers and laptop computers set out in the standard cost guidelines whenever new contractual agreements or market conditions require such a change, thereby ensuring that costs reflect prices and conditions offered by selected providers (para. 73).A recent review of the costs for desktop computers, printers and laptops has been completed and new rates were incorporated in the Instructions for the proposed programme budget for the biennium 2008-2009.Office of Internal Oversight Services
+(A/60/717)The Department of Management should defer the two high-level business cases that have an impact on the systems and processes of the Department of Peacekeeping Operations pending the formulation of an integrated solution that would meet both departments’ needs, also considering the strategic direction the Secretariat will take regarding the future of IMIS (para. 102).The Department of Management acknowledged and agreed with the need to integrate high-level business case proposals with the strategic direction of the overall information and communications technology environment of the Secretariat but did not concur with the recommendation because the Information Technology Services Division of the Department of Management believes that the budget formulation system proposed by the Peacekeeping Finance Division of the Department of Management is aligned with the overall information and communications technology strategy of the Secretariat and can be integrated with any enterprise resource planning solution that the Organization may adopt in the future.
+
+
+		Department of Management: Office of Central Support Services
+
+
+		Organizational structure and post distribution for the 
+biennium 2008-2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbreviations: RB, regular budget; XB, extrabudgetary; ASG, Assistant Secretary-General; GS, General Service; PL, Principal level; OL, Other level; TC, Trades and Crafts.
+	a	New post.
+
+
+[Start1]<<ODS JOB NO>>N0735906E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/62/6 (Sect. 28D)<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+A/62/6 (Sect. 28D)
+
+07-3590625
+
+307-35906
+
+United NationsA/62/6 (Sect. 28D) 
+General AssemblyDistr.: General
+24 May 2007
+
+Original: English
+
+
+07-35906 (E)    180607    
+*0735906*
+
+
+
+
+
+07-359064
+
+
+
+2507-35906
+

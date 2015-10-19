@@ -1,0 +1,444 @@
+         
+      Distribution: General 
+                                               			             
+                                                                                                            E/ECA/CODIST/1/25
+									12 March 2009
+
+UNITED NATIONS                                                       
+ECONOMIC AND SOCIAL COUNCIL                        Original: English
+
+
+ECONOMIC COMMISSION FOR AFRICA 			
+
+
+Committee on Development Information, 
+Science and Technology 
+First session
+
+Addis Ababa, Ethiopia
+28 April – 1 May 2009
+
+
+
+
+Scan-ICT Phase II
+Indicators of information and communications technologies
+
+
+
+
+
+
+
+Executive summary
+
+
+
+
+
+
+
+
+A.	BACKGROUND
+
+1. The Scan-ICT programme was launched in November 2000 as a collaborative project between the Acacia programme of the International Development Research Centre and the United Nations Economic Commission for Africa (ECA), with support from the European Union and the Norwegian Agency for Development Cooperation. It was initiated in recognition of the importance of designing and implementing effective and appropriate tools to measure the impact of information and communications technologies (ICTs) in various sectors of the economy. This is vital if the efforts being undertaken to harness ICT for development under the African Information Society Initiative (AISI)1are to bear fruit. This recognition led to the development of information society assessment and measurement indicators to monitor and measure the growth of the information society, in response to the Plan of Action adopted by the World Summit on the Information Society. 
+
+2. Scan-ICT monitors the penetration, impact and effectiveness of ICT applications in pilot countries across Africa, providing added value to AISI implementation at the national, regional and global levels.2 It is a multi-partnership initiative that seeks to build support for the phased development of a comprehensive African capability to define, collect and manage key information needed to support the growing investment in ICTs, as well as the transition of Africa to an information society. 
+
+B.	OBJECTIVE AND RATIONALE OF THE SCAN-ICT STUDIES
+
+3.	The Scan-ICT project was aimed at assisting member States in their efforts to evolve an information society and expand their economies by developing and compiling indicators of the information society or of ICT for development (ICT4D) that would guide their ICT policies and help them plan development and implementation processes. It was also aimed at monitoring, assessing, evaluating and measuring the impact of the development of the information society or the information and knowledge economy on the socio-economic well-being of their citizens, the performance of their business activities as well as the economy, and the functioning of the public sector in each country.
+
+4.	The original rationale of Scan-ICT was built on three interrelated goals: to enable Africa to integrate into the new and emerging information economy; to be able to measure the effective role that ICTs play in ensuring sustainable socio-economic development; and to provide relevant data and information to decision makers to enable them to devise ICT policies which would harness ICTs as effective development tools. 
+
+5.	Scan-ICT aims to build support for the phased development of a comprehensive African capability to collect and manage key information needed to support the growing investment in ICTs, as well as the transition of Africa to an information society. In addition, it offers an opportunity to build Africa’s capacity to influence ICT investments and extend their impact, draw up sound policies and encourage the development of made-in-Africa solutions, applications and content.
+
+C.	Scan-ICT IMPLEMENTATION PROCESS
+
+6.  This programme was carried out in two phases. The first phase was completed in 2004 and covered six countries – Ethiopia, Ghana, Mozambique, Morocco, Senegal and Uganda. The second phase was competed in 2007 and covered five countries – Cameroon, the Gambia, Ghana, Mauritius and Rwanda. Under this phase, national statistical offices and national observatories for ICTs from these countries participated in the process.  
+
+7.  The minimum and common themes identified for data collection were based on indicators developed in AISI focus areas such as infrastructure, sectoral applications (education, health, public sector and private sector) and the information economy.
+
+8.  The first phase of the programme was basically regarded as a pilot, and was launched in 2001. This phase was implemented by ECA and the International Development Research Centre with support from the Norwegian Agency for Development Cooperation. The main objectives of Phase I were to determine ICT4D status and activity in the pilot countries, and develop and continuously monitor indicators that could be used to measure ICT4D activities and progress, to make it easier to develop and implement strategies that could be used to improve the performance of ICTs in Africa. These pilot case studies were designed to demonstrate best practices based on lessons learned from other African countries. 
+
+9.  Phase II was implemented jointly by the selected countries’ national statistical offices and their information technology institutions. This was done to ensure mainstreaming of the outcomes of the project into the institutions’ work, and more importantly to integrate the collection, compilation, analysis and publication of indicators relating to information systems or ICT4D into the national statistical systems of these countries.
+
+10.  The main objective of Phase II was to build on the lessons learned and the outcomes of  Phase I and contribute to the process of developing and collecting data on progress towards an information society and the introduction of ICT4D as well as impact monitoring, assessment and measurement indicators as part of efforts to respond to the call of the World Summit on the Information Society for States to devise indicators to monitor and measure the development of the information society.  
+
+1.	Methodology for Phase II
+
+11.  Phase II involved the collection of both primary and secondary data. Surveys were conducted using the Scan-ICT methodology framework, from which questionnaires were developed addressed to institutions in the public and private sectors as well as households.  Data were also collected from secondary sources, especially national statistical offices, as well as telecommunications institutions. 
+
+
+
+
+2.	Findings and lessons learned: Results of country studies
+
+(a)	CAMEROON
+
+      (i)	Policy and regulatory framework
+      
+12.  The telecommunications sector in Cameroon has undergone major changes since 1998, when the sector was liberalized in pursuance of the structural adjustment programmes introduced by the Government, involving the adoption of a series of legal measures. Most important was Act No 98/014 of 14 July, 1998 which led to the regulation of the telecommunications sector. 
+
+13.  Before this date, the Ministry of Posts and Telecommunications as was the case with most African countries, was the sole public service provider, and was in charge of setting up and exploiting telecommunications networks. It also ensured the regulation and control of private telecommunications network providers. The 1998 Act liberalized the telecommunications market, and the Ministry was assigned a supervisory role, while regulation was assigned to the Telecommunication Regulatory Agency. 
+
+14.  Since then, Cameroon has experienced sustained growth of the Internet market. Internet services very common in the market include the development and hosting of websites, electronic mail and IP (Internet protocol) telephony. Connection of users is effected by means of VSAT (very-small-aperture-terminal), public-switched-telephone-network or specialized radioelectric or telegraphic links. The liberalization, was partial – the mobile market was opened up to competition, while the fixed network remained a monopoly controlled by the incumbent, the Cameroon Telecommunications Company up to 2004. 
+
+15.  The survey also revealed a steady increase in the number of institutional subscribers, while the number of individual subscribers showed a downward trend. This drop was due to the entry of new operators into the Internet market and the very high use of IP telephony, which was being provided at affordable prices by the new entrants into the sector. The increase in the number of institutional subscribers was due to investment aimed at modernizing the network of the traditional operator.
+
+      (ii)	Infrastructure and access
+      
+16.  At the time of the study, the telecommunications infrastructure and services were being provided by one fixed telephone service operator and two mobile telephone operators. Fixed telephony was provided exclusively by the semi-public Cameroon Telecommunications Company, the privatization of which had already started at the time of the survey. The mobile network was being operated by two operators: Mobile Telephony Network and Orange Cameroon. 
+
+17.  In the past few years, mobile telephony has witnessed rapid growth far beyond that of fixed telephony. On 31 December 2005, the fixed telephone network covered 107 localities with a population of at least 50,000 inhabitants, while Orange Cameroon covered 183 localities and Mobile Telephony Network 155. It should also be noted that the deployment of infrastructure depends on the availability of power, the lack of which retards development in the telecommunications sector, as the proportion of households connected to the electricity network was 46 per cent in 2001.3 
+
+18.  The fixed telephony market was still the exclusive preserve of CAMTEL, and it comprised 6 remote switching units, 37 self-contained routing centres, 7 regional switching centres, 2 national switching centres, 2 international switching centres and about 100 rural telephony centres. These centres were linked by a transmission system made up of microwave links comprising 79 relay stations and some urban optical-fibre links for national communication. National communication was based on satellite links and the SAT3 optical fibre.4
+
+ (iii)	Subregional connectivity
+ 
+19.  At the time of the survey, there was a submarine cable network linking Portugal and Malaysia and skirting the Atlantic seaboard of the African continent known as SAT3/WASC/SAFE.5 There is another project aimed at developing a trunk line in Central Africa, linking Cameroon, the Central African Republic and Chad and providing essential connections between these countries, which envisage significant potential economic benefits from the Douala-Ndjamena broadband connection. This project is expected to be linked up with the neighbouring networks in Nigeria and the Sudan to form a trans-African backbone that would allow access to submarine cable stations situated on the coasts of western and eastern Africa. 
+
+      (iv)	Equipment and use of ICT services 
+      
+20.  The findings obtained through the workplace approach used in this survey showed that on average 25.7 per cent of individual respondents had a computer at home. The two largest cities, Yaoundé and Douala, were ahead with 43.4 and 35.1 per cent respectively. Only 2.1 per cent of respondents said they had a photocopying machine at home; 83.2 per cent of the individual respondents said they had a television set, 30.2 per cent had a video tape recorder, 64.5 per cent a video compact disc player, 36.6 per cent at least one digital radio set and 34.2 per cent a video game device. Households in possession of a parabolic antenna were still rare in Cameroon (7.3 per cent). This could be explained by the prohibitively expensive nature of the equipment and the advent of cable operators in image distribution. 
+
+      (v)	Mobile and fixed telephone density
+      
+21.  The mobile telephone was introduced in Cameroon in 2000, and it has not ceased luring customers. The penetration rate increased from 7.1 per cent in 2003 to 9.1 per cent in 2004 and about 12 per cent in 2005. Big towns, especially all the 10 provincial headquarters and the 58 divisional headquarters, are served by the two mobile telephony networks. 
+22.  Fixed telephony has been experiencing slight growth since the introduction of a new product, the “CT phone”. This product could lead to new opportunities for fixed telephony. On the whole, there was a slight increase in the number of subscribers during the three years to 2007, except for card-operated telephone and public booth subscriptions, which witnessed a sharp drop during this period. The very low and decreasing number of card-operated telephones should be attributed to vandalization of the equipment, the difficulty of maintaining these booths and also the introduction of public booths on the market. The drop in the number of public booths was due to the boom in the “call box”, a new product provided by mobile operators at affordable prices. 
+
+      (vi)	Equipment for use in ICT services at the workplace 
+      
+23.  The rate of penetration of computers in institutions was very low at the time of the survey. On average 6.2 per cent of the institutions owned more than one computer, while 27.6 per cent owned one. Photocopying machines were used at the workplace (21.5 per cent) more than in homes, but use remained low in most provinces. Here too, the differences observed in the distribution of the other equipment were apparent, with the regions of Yaoundé and Douala topping the list. 
+
+      (vii)	Level of awareness, use and training in the use of ICT 
+      
+24.  As is the case with most African countries, the survey found that radio remained the most widely used channel of broadcasting information in Cameroon. The results also showed that among the people who had heard about the Internet before the time of the survey, 84.2 per cent obtained the information from the radio, while 78.6 per cent and 63.1 per cent obtained it from national television and national newspapers respectively. 
+
+25.  As many as 44 per cent of respondents had an electronic mail address. Analysis by place of residence showed that e-mail addresses were more common among persons who lived in provincial headquarters than among all the other areas. The results showed also that the proportion of persons having an e-mail address increases with the level of education, and decreases steadily with age. 
+
+26.  With regard to distribution by gender, a little more than a third of women consulted electronic mail, a higher proportion than for men. The proportion of men interested in scientific sites was practically twice that of women; inversely, the proportion of women interested in entertainment sites was twice that of men. 
+
+27.  It was found that 86.1 per cent of Internet users accessed the Internet through cybercafés, while 28.2 per cent accessed it from their workplaces. 
+
+28.  With regard to training received in the use of the Internet, there were disparities  based on gender, with and the proportion of men having received training in Internet use standing at 31.6 per cent. The results showed that the proportion of persons having received training in the use of the Internet increased with the level of education. It was also observed that about 50 per cent of the people interviewed had pursued training online, as against 46 per cent who received training in training institutions. 
+
+29.  The findings reveal that only 23.3 per cent of institutions sampled organized ICT training in-house. The general administration sector organized most training courses on ICT, while the education sector had the lowest proportion (see figure 1). The results also show that it was semi-public institutions that organized the bulk of training for their personnel. 
+
+
+       Figure 1. Sectoral distribution of ICT training 
+      
+
+
+
+
+
+
+              
+           Source:  Scan-ICT Survey, 2006.
+           
+      (viii)	Limitations on access to ICT in Cameroon 
+      
+ Expenditure on consumption of ICT services 
+ 
+30.  Average expenditure on telephone use was measured on a monthly basis. Telephony services include fixed and mobile telephony. According to the findings, of the 812 institutions responding, 29 per cent paid monthly mobile telephone bills and 30 per cent paid monthly fixed telephone bills. It can be concluded that the remarkable development of mobile telephony in recent years has been limited to the individual level, and that very few business concerns have included it in their communication plans. In fact, institutions use the personal mobile phones of their staff for communication for work purposes. 
+
+31.  Expenditure on Internet services is still relatively low. Barely 20 per cent of institutions paid for Internet services, which also meant that very few institutions used or accessed the Internet. 
+
+ (ix)	Constraints on the development of ICT 
+
+32.  The cost of access to ICTs remained a limiting factor on its full development, in the view of 59.1 per cent of institutions in the sample. A drop in the cost of Internet access could increase the take-up of services offered by this highly valued tool.
+
+33.  The majority of institutions acknowledged that very low purchasing power constituted a real obstacle to the development of ICT. Most individuals thought that poverty, reflected in low purchasing power, was a major factor blocking the development of ICT. This was also exacerbated by lack of awareness of and training in ICT. The institutions also alluded to the lack of political will and high taxation. 
+
+(b)	GAMBIA
+
+      (i)	ICT infrastructure and access
+      
+34.  By 2007 the Gambian telecommunications sector was composed of one fixed-line telephone operator, the Gambia Telecommunication Company (GAMTEL), and two mobile phone operators – GAMCEL and AFRICEL – which together had a total customer base of 430,000 in 2006. GAMTEL has laid a fibre-optic cable on the south bank of the river Gambia that runs the length of the country. The country has a fixed-line telephone penetration rate of 3.1 per cent, with 6 per cent in urban areas and about 1 per cent in rural areas. Taking fixed-line and mobile phones together, there was an increase in the total penetration rate from 18.35 per cent in 2005 to 21.6 per cent in 2006.
+
+35.  Although ICTs may be meeting the needs of individuals and households for products or services delivered in most developing countries, in the Gambia, as in most African countries, the direct application of ICTs is still relatively limited for most individuals and households. The study found that there was only one public television station and no private stations in the country by 2006, though alternative satellite and cable television viewing were also available. There are also five private radio stations as well as one public and three community radio stations. Most information was communicated to households through radio and television programmes. 
+
+36.  The results also showed that the rate of penetration of computers in workplaces was relatively high: 66.2 per cent of institutions on average owned or accessed more than one computer, while 12.0 per cent owned only one. Photocopying machines are normally found and used in most workplaces: on average about 45.8 per cent of institutions used photocopying machines, but some local government offices reported low use. At the national level, the overall availability and use of other ICT equipment, such as fax machines and printers, in offices was relatively high at 38.5 per cent and 58.7 per cent respectively.
+
+37.  The survey results revealed that on average 46.2 per cent of institutions covered had Internet connectivity, and about 22.1 per cent of workplaces interviewed had their own websites (see table 1).
+
+
+
+
+
+
+
+Table 1. Extent of Internet connection and website ownership at the workplace (per cent)
+
+Type of institutionConnected to the Internet at the workplaceInstitution has a websiteGovernment62.5015.63Health sector30.0020.00Education sector20.6210.31ICT sector91.6758.33Business sector79.1741.67TOTAL46.2322.11Source: Scan-ICT baseline survey 2006.
+
+38.  Fixed telephony. There was a significant increase in the number of fixed-line subscribers over the three years to 2007, despite increases in the cost per minute of making a call. There was a significant increase in the provision of fixed telephone lines in different institutions, with a penetration rate of 42.0 per cent. On average, the findings showed that 31.2 and 33.7 per cent of institutions had one and at least two fixed telephone lines respectively in their workplaces. 
+
+39.  Mobile telephony. Two GSM (Global Systems Mobile) operators, GAMCEL and AFRICEL, were providing mobile telephone services in 2006, with countrywide coverage. The findings revealed that the mobile penetration rate had increased from 7.3 per cent in 2003 to 16.9 per cent in 2006. According to the study results, a higher proportion of households owned mobile telephones than fixed-line telephones. In urban areas 76.5 per cent owned a mobile telephone, while in rural areas the figure was 54.8 per cent. 
+
+Table 2. Fixed and mobile telephone lines per 100 inhabitants
+
+
+Source: Annual Report 2006, Public Utilities Regulatory Authority.
+
+      (ii)	Legal and regulatory environment
+      
+40.  The authorities reported that a telecommunications bill had been drafted. The purpose of the bill was to create an enabling environment in order to improve the quality and delivery of telecommunication services in the country. The bill was expected to be tabled in parliament in 2007, and was designed to clearly delineate the complementary roles of various stakeholders. 
+
+      (iii)	Training in ICTs
+      
+41.  The results of the study showed that in 2006 the availability of computers in the education sector was still very low. The student-to-computer ratio was 142. The availability of computers rose together with the level of education, as in other countries studied. In fact, 256 pupils in lower basic school had to share one computer, whereas in tertiary/higher education one computer was available for every 10 students.
+
+42.  The survey results showed that only 18 per cent of female students in tertiary education were enrolled in ICT-dominated fields in 2006, while about 60 per cent of male students were studying in an ICT-dominated field. Results for vocational and technical schools showed higher participation by female than male students in the ICT field. The proportion of students and teachers using Internet services was found to be relatively high.
+
+      (iv)	Limitations on access to ICTs
+       
+43.  The study found that there were low literacy levels, and that a low-skilled workforce which is required to use new technology that is always changing must acquire relevant knowledge in order to make maximum use of ICTs. There were very low levels of awareness regarding the relevance of ICTs; the high cost of computers and the high cost of accessing the Internet were among the main issues that affected the spread of ICTs; and ICT services were far beyond the reach of most women. 
+
+(c)	GHANA
+
+44.  Ghana, like other African countries, recognizing the crucial role that ICTs could play in facilitating the country’s socio-economic development, put in place its national ICT4D policies and strategies to facilitate the process of transforming its economy and society into an information-based and knowledge-based one. To support this effort, attention was also directed towards the development of the national statistical system through the expansion of impact monitoring, assessment and measurement indicators to assess and measure Ghana’s progress in developing its knowledge economy.
+
+45.  It was recognized that although Ghana’s ICT4D policies encompassed all the key economic and social sectors, very little was known about the impact (assessed and measured in terms of specific information society/ICT4D indicators) of the development, deployment and exploitation of ICTs on economic growth. It was, however, acknowledged that in most of the developing countries and some developed countries, attention had only recently turned to developing indicators for monitoring, assessing and measuring the impact of investment in national ICT initiatives such as e-commerce, e-education, e-government, telecentres, telemedicine, etc. on households (which are the targeted beneficiaries) and on the economy as a whole.
+
+46.  Given that ICTs have been deployed for some time to support Ghana’s socio-economic development activities, as well as to support the activities and operations of the public and private sectors, the Ghana Statistical Service, like most national statistical offices in Africa, also recognized the need to develop and fully integrate socio-economic ICT indicators into the national statistical system. The implementation of the Scan-ICT project would facilitate this task.
+
+47.  Phase 1 of the Scan-ICT  project was implemented by the International Institute for Information Technology in 2001. Phase II was jointly implemented by the Ghana Statistical Service and the Institute.
+
+      (i)	Project scope and deliverables
+      
+48.  Within the context of the Ghana ICT4D process, and in keeping with the provisions of the Scan-ICT Phase II toolkit, the project focused on: identification of a basket of suitable ICT4D status and impact monitoring indicators; the development of a framework to facilitate the integration of the Ghana basket of ICT4D status and impact monitoring and assessment indicators in the Ghana Statistical System; and the development of tools and mechanisms for supporting the implementation of the framework for the integration of ICT4D indicators into the national statistical system.
+
+49.  The deliverables of the project included the organization of stakeholder training workshops on the Scan-ICT-II toolkit and the Phase II process; the development and documentation of the ICT4D indicators, as well as the different sources and data collection methods to be used; and tools and mechanisms for mainstreaming ICT4D indicators into the national statistical system and the development of the Ghana Statistical System, including websites and databases.
+
+50.   By the time of the study,  indicators had been designed, formulated and selected under Phase II for inclusion in the basket of ICT4D indicators. A number of country-specific requirements were taken into consideration, in addition to ensuring international comparability of the indicators identified. These indicators mainly encompassed infrastructure and access, the different economic sectors such as business, education, agriculture and health, and also ICT investment and expenditure indicators. The sources of the various indicators were also identified, as well as the different methods of data collection.
+
+      (ii)	ICT infrastructure and access
+      
+51.  The results of the study indicated that by 2007 there were 1.83 and 26.05 main telephone lines and mobile subscribers per 100 inhabitants respectively, with 0.06 broadband subscribers per 100 inhabitants. Sixty-five per cent of the population was covered by mobile telephony (see table 2). 
+
+52.  The results also showed that, as with most African countries studied, the primary source of information for households was the radio, while only 31 per cent had a television set. Some 1.9 per cent of households had a telephone line, and 19 per cent a mobile phone, while 1.8 per cent of households had a computer and about 15.2 per cent of the population had access to the Internet. About half of households (49.2 per cent) had electricity.
+
+
+
+
+
+
+Table 3. Ghana: Basket of information society/ICT4D Indicators, 2006-2007
+Main telephone lines per100 inhabitants1.83Mobile cellular subscribers per 100 inhabitants25.05Teledensity ( total population: 20 million)25 per centPercentage of population covered by mobile telephony65 Broadband Internet subscribers per 100 inhabitants0.06 Percentage of households with a radio74.3 Percentage of households with a television set31 Percentage of population with Internet access15.2Percentage of government offices with Internet access69 Percentage of government workers that use ICTs85 Percentage of government offices and agencies with a website 56 Percentage of ICT-qualified teachers in primary and secondary schools16 Percentage of tertiary education institutions with e-learning courses 13 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: Scan-ICT Survey 2007.
+ 	
+      (iii)	Sector specific results
+       
+53.  The sectors that were surveyed included the business sector – i.e., the private sector – the health sector and the education sector. The results of the survey from the private sector indicated that by 2007 about 8 per cent of establishments used computers, 2.7 per cent used the Internet and 19.2 per cent had a website, while 39.4 per cent were involved in e-commerce. In the education sector, about 25 per cent of primary and secondary schools had Internet access for pupils in 2007. And about 13.1 per cent of pupils and students had enrolled in IT-related courses in primary, secondary and tertiary education. The results also showed that 16 per cent of teachers in primary and secondary schools had IT qualifications. In addition, 13 per cent of tertiary institutions had e-learning courses.
+
+54.  In the health sector, about 36 per cent of institutions (hospitals, pharmacies and government health offices) used ICTs in 2007, 46 per cent had access to the Internet and about 62 percent of health professionals used ICTs for medical purposes.
+
+(d)	MAURITIUS
+
+      (i)	ICT infrastructure and access
+      
+55.  At the end of 2006, there were two fixed telephone service providers and three mobile service providers in the country. Prior to 2006 there were only one fixed and two mobile service providers. The number of Internet service providers increased from one in 2000 to seven in 2006.
+
+56.  The study showed that international Internet bandwidth capacity,6 which was 10 megabits per second (mbps) for both incoming and outgoing traffic in the year 2000, increased to 192 mbps for incoming traffic and 153 mbps for outgoing traffic in 2006.
+
+57.  The number of fixed telephone lines was 36.4 per cent higher in 2006 than it was in 2000. However, there was slower growth during the period 2002-2006. This could have been due to the increasing use of mobile phones. There was an increase in teledensity7 from 22.0 in 2000 to around 28.4 in 2003, a level which was maintained till 2006.
+
+58.  The study also showed that the number of mobile subscribers registered an increase of more than 300 per cent in 2006, and that by 2002 mobile service subscribers outnumbered fixed telephone line subscribers. In 2006, 98 per cent of the population was covered by mobile cellular telephony, up from 92 per cent in 2000.8 Mobidensity9 also increased to 61.5 in 2006 from 14.6 in 2000.
+
+      (ii)	Internet subscribers
+      
+59.  The number of Internet subscribers increased by 300 per cent between 2000 and 2006. The number of Internet subscribers per 100 inhabitants increased from 2.9 to 10.9 per cent during this period. The number of Internet subscribers registered an increase of 64.9 per cent in 2004, following the introduction of mobile Internet services. The number of mobile Internet subscribers as a percentage of total Internet subscribers increased to 44.4 per cent in 2006 from 33.5 per cent in 2005, while the proportion of fixed Internet subscribers declined to 55.6 per cent in 2006 from 66.5 per cent in 2005 (see figure 2). 
+
+Figure 2. Fixed and mobile telephone subscribers per 100 inhabitants (2000 – 2006)
+
+
+                  Source: SCAN-ICT Survey, 2006.
+
+
+
+
+      (iii)	Broadband Internet access
+
+60.  Broadband Internet 10 was introduced in 2002. The findings show that the number of broadband Internet subscribers increased by more than 600 per cent between 2003 and 2006. Conversely, the use of narrowband Internet 11 declined by 6 per cent during the same period. 
+
+61.  In 2006, 24.6 per cent of broadband Internet subscribers had access to the service through a fixed line and wireless connections, of whom 53.1 per cent had a digital subscriber line connection. The remaining 75.4 per cent had access through a mobile cellular telephone. 
+
+      (iv)	Tariffs
+      
+62.  The tariff for a three-minute local call from a fixed telephone (off-peak) declined from 2.05 rupees in 2005 (up from 1.00 rupee in 2000) to 1.80 rupees in 2006. The tariff for international direct dialling from fixed telephones registered a continuous decline during the period 2000 to 2006. For example, the tariff for a three-minute call to London or Johannesburg declined by 61.6 per cent from 75.00 rupees in 2000 to 28.80 rupees in 2006.
+
+63.  The tariff for a three-minute local call within the same network using the mobile prepaid service remained unchanged at 3.60 rupees between 2000 and 2006, while the cost of a similar call to a different network declined by 18.9 per cent from 14.40 rupees in 2000 to 11.70 rupees in 2006. This meant that it was more expensive to call a subscriber on a different network than one on the same network.
+
+64.  The tariff for an Internet connection per minute using dial-up access (off-peak) decreased by 46.0 per cent in 2006, while household Internet access using digital subscriber line technology (128 kbps) cost 750 rupees per month in 2006 compared with 1,499 rupees in 2003.
+
+      (v)	ICT access and use by households and individuals
+      
+65.  ICT access by households: By 2006, 77.4 per cent of households had a fixed telephone and 68.7 per cent had a mobile cellular telephone; 95.7 per cent of households had television, some 8.3 per cent of households had more than one television set and 11.1 per cent received paid-for television channels (other than the Mauritius Broadcasting Corporation).12
+
+66.  Nearly 60.0 per cent of households with no computer at home reported that a computer was not necessary, while a further 34.9 per cent cited high cost as the reason for not having one. Some 72.0 per cent of the households with no computer did not have any intention of buying one; 5.0 per cent intended to buy one within 12 months.
+
+67.  Among households with a computer, 68.4 per cent had access to the Internet. The most common mode of access to the Internet was dial-up (76.0 per cent), followed by an asymmetric digital subscriber line (16.8 per cent). 
+
+68.  ICT access and use by individuals. The results showed that in 2006, some 62.9 per cent of persons aged 12 years and above did not have any knowledge of information technology (IT), while 30.8 per cent were IT-literate but did not have any IT qualification, and around 2.2 per cent had an Ordinary Level certificate in computer studies, with a further 0.4 per cent possessing Advanced Level certification. Some 1.1 per cent had a diploma or degree in an IT- related field, and 2.8 per cent had some other certificate in IT.
+
+69.  Internet use by individuals. The results of the study revealed that in 2006, 69.8 per cent of persons aged 12 and above had access to the Internet at home, 21.0 per cent at educational institutions and 28.9 per cent at workplaces; 8.4 per cent used cybercafés and 4.4 per cent other places. Among those using the Internet at home in 2006, 62.2 per cent used it for e-mail or chat, 76.2 per cent for news or information, 27.3 per cent for downloading games, music or software, 9.1 per cent for distance learning and 7.7 per cent for Internet phone communication.13
+
+      (vi)	ICT Use by sector
+      
+70.  ICT use in education. The study found that by the end of March 2006, the proportion of primary schools providing Internet access to pupils for study purposes was 4.8 per cent, compared with 4.5 per cent a year earlier, while the number of pupils per computer had improved to 163.4 from 185.0 in 2005. The proportion of secondary schools providing Internet access to pupils had increased to 92.1 per cent from 72.3 per cent in 2005, and the number of pupils per computer fell from 24.8 in 2005 to 23.9 in 2006. 
+
+71.  The number of students enrolled in ICT or an ICT-dominated field at tertiary level was 3,971 in 2006/07, compared with 4,134 in 2005/06. This reflected a decline in the proportion of tertiary-level students from 14.3 per cent in 2005/06 to 12.0 per cent in 2006/07.
+
+72.  ICT use in business. The results on employment and earnings among large establishments (those employing 10 or more people) showed that 91.4 per cent of large establishments had computers, that 84.7 per cent used Internet or e-mail, that 38.6 per cent had a website and that 35.7 per cent had an intranet in 2006. About 29.5 per cent of large establishments placed orders over the Internet; those receiving orders totalled 27.8 per cent. The results also showed that ICT usage was highest among establishments in the tertiary sector, comprising firms specializing in trade, hotels and restaurants, transport and all other service industries, and lowest in the primary sector, which covers agriculture and mining and quarrying. (See table 4 for more details).
+
+
+
+Table 4. ICT use in businessa  by industrial sector,b 2006
+
+Use of  ICTPercentage of establishmentsPrimary sectorSecondary sectorTertiary sectorAll1. Computer
+2. Website
+3. Internet/e-mail
+4. Intranet
+5. Receiving orders over the Internet
+6. Placing orders over the Internet68.3
+12.2
+57.3
+22.0
+11.0
+9.892.4
+26.5
+86.7
+31.7
+31.2
+32.796.7
+53.3
+89.7
+42.3
+28.6
+30.691.4
+38.6
+84.7
+35.7
+27.8
+29.5
+Source: Survey of employment and earnings in large establishments, March 2006.
+
+ 	(vii)	Employment
+
+73.  The survey revealed that 52 large establishments were operating in the ICT sector in the year 2000. This figure more than doubled by 2006, to reach 116. The number of employees in establishments operating in the ICT sector increased by 87.6 per cent between 2000 and 2006. Employment in the ICT sector as a proportion of total employment in large establishments increased from 1.5 per cent in 2000 to 2.8 per cent in 2006.
+
+      (viii)	Trade in ICT goods
+      
+74.  Available data indicate that imports of ICT goods increased by about 300 per cent between 2002 and 2006, while imports of ICT services declined by 23.1 per cent. Exports of ICT goods, including re-exports, increased by a factor of more than 15 during the period, while exports of ICT services increased by 36.4 per cent. Imports of ICT goods and services represented 9.7 per cent of total imports in 2006, compared with 5.6 per cent in 2002. Exports of ICT goods and services as a proportion of total exports increased from 2.0 per cent in 2002 to 7.2 per cent in 2006.
+
+(e)	RWANDA
+
+75.  When this report was compiled, the Scan-ICT team in Rwanda had finished formulating the methodological framework for undertaking Scan-ICT activities and rolling out the process. The general objective of Phase II for Rwanda was to build cooperation with other development partners in order to carry out Scan-ICT studies in the country as well as lay the foundation for a Scan-ICT coordination framework. In particular, after the review of the first National Information and Communication Infrastructure (NICI) Plan in 2005, Rwanda was in the final process of launching the second NICI Plan in 2006. The Scan-ICT project came at an opportune time as the NICI Plan process was to be reviewed through a set of monitoring and evaluation tools that could be used as a guiding vehicle for the whole process. Specifically, Phase II was expected to develop key basic ICT baseline indicators that would enable the building of a foundation for future ICT studies on the one hand, and the monitoring and assessment of the ICT policy implementation process on the other. There were also plans to assist in the development of human capacity in ICT research, as well as raising awareness of ICT4D activities in the country.
+
+76.  While Scan-ICT provides a comprehensive tool to monitor, assess and measure the impact of NICI Plan implementation, it also has an important role in terms of raising awareness amongst the key players so as to better coordinate the various activities involved in the implementation of the various solutions and actions.
+
+      (i)	The premise of the methodology
+      
+77.  The Rwanda Scan-ICT baseline survey was based on a comprehensive methodology, developed to guide the data-gathering and analysis exercise. Given the long-term nature of the Scan-ICT project, it was deemed necessary to develop a detailed design of the underlying processes, procedures and tools required to facilitate the implementation process – involving data collection, analysis and presentation of the study results. This would be done through the periodic collection of indicators by the National Institute of Statistics for the Economic Development and Poverty Reduction Strategy, which would mostly cover indicators on education, health and the economy.
+
+78.  For each of the specific indicators under each of the Scan-ICT themes, the methodology provided specific details for the relevant information to be gathered, possible sources and collection methods to be used. 
+
+      (ii)	Activities
+      
+79.  A number of tools were devised in the methodology framework that were going to be used in the data collection process. These tools included questionnaires, face-to-face interviews and even radio shows, in order to raise awareness of the significance of the data collection exercise. Appropriate design options were selected to conform to the Scan-ICT methodological framework, and data would be derived from a variety of sources. The terms of reference for the study were drawn up in the context of Scan-ICT, including lines of enquiry and the main elements of the NICI II Plan.
+
+80.  The activities to be undertaken would include a review of literature on national ICT trends as well as background information on ICTs in Rwanda. Specific baseline indicators adopted through a consultative process involving key stakeholders would be used to track various ICT sector trends in Rwanda. Census and surveys would be developed and field-tested. Questionnaires would be designed to collect primary data. The information would be collected by administering the instruments and conducting interviews. 
+
+81.  The main outcome of this exercise would be the indicators identified for the continuous data collection process using the methodology framework. These include the development, definition and the data collection methods to be used during the implementation of the methodology developed. 
+
+
+
+
+
+D.	CONCLUSIONS AND RECOMMENDATIONS
+
+1. Conclusions 
+
+82.  The implementation of the Scan-ICT II project made it possible for the selected countries to identify and fully mainstream the vast majority of the ICT indicators into their national statistical systems. On the whole, these indicators took into account the countries’ specific requirements and circumstances and were designed to meet specific developmental requirements, circumstances and priorities as well as support for the countries’ ICT4D processes. Most of the countries, by virtue of the implementation of the Scan-ICT project, were now in a position to effectively compile and analyse within their national statistical systems key internationally comparable ICT indicators which could support their ICT4D processes aimed at developing their information and knowledge economy and society.
+
+83.  The implementation of Phase II, by building on the lessons of Phase I, assisted the different countries to a large extent in making progress towards mainstreaming ICT indicators into their national statistical systems. The project also contributed to the process of developing the capacity of the different national statistical offices in developing and integrating information society/ICT4D indicators as well as data collection and analysis techniques into the countries’ statistical systems.
+
+84.  The results of Phase II indicated that there had been an increase in investment in ICT infrastructure, especially after liberalization of the telecommunications sector in various African countries. There had been tremendous developments in mobile telephone services, giving positive expectations in the fight against the digital divide. The results showed that of late, mobile telephony had overtaken fixed telephone services in terms of the number of subscribers, while most of the countries were still lagging behind in the use of broadband infrastructure. These developments had led to higher increases in ICT access and use in the different economic sectors. However, there was a need to place more emphasis on increasing investment in ICTs in the education and health sectors, as the results of the study showed that these sectors lagged behind in most of the countries in terms of ICT access and use. 
+
+2. Recommendations
+
+85.  A general reduction in costs, awareness creation, the training of the population and the availability of ICT statistics were identified as being major factors necessary for the development of ICT in Africa. 
+
+86.  ICT and computer equipment costs. Most of the households and institutions surveyed in the countries involved in this study expressed concern at the high cost of telecommunication services. They believed that in order to expand ICT, the cost of communication and computer equipment should be greatly reduced so as to allow easy access by the underprivileged classes of the population. To this end, it was suggested that States should consider reducing taxes on goods and services in this sector. 
+
+87.  Awareness and training. There was a need to raise awareness regarding the significance of ICTs for economic and social development. This could be achieved through more training of the population in the use of ICTs by the different sectors and institutions. Most of the institutions surveyed revealed that training personnel to use ICT was a factor that promoted the development of ICT in their structures. The results of this study also showed that in some of the countries, it had been proposed not only to introduce computer training in the school curriculum but also to make it a compulsory subject from primary level in order to enhance awareness of the significance of ICTs in everyday life.
+ 
+88.  Continuity in ICT studies. The study also showed that one of the major concerns faced was the lack of statistics in most of the institutions in the different countries. There was a need for countries to guarantee continuity in ICT data collection so that up-to-date information was always available to help in decision-making pertaining to ICTs. It was also important to update household surveys to include indicators in the ICT domain, so as to ensure that these indicators were continuously and regularly updated. 
+1 http://www.uneca.org/aisi.
+2 http://www.uneca.org/aisi/scanict.htm.
+3 2001 Household survey. 
+4 SAT3 = South Atlantic 3 cable link.
+5 WASC = West Africa submarine cable.
+   SAFE = South Africa-Far East cable link.
+6Bandwidth capacity is the amount of information that can be transmitted to or from a country in a given time, and hence the quality of Internet access in the country.
+7 Teledensity is defined as the number of fixed telephone lines per 100 inhabitants.
+8 The population covered by mobile cellular telephony is defined as the number of inhabitants who live within areas covered by a mobile cellular network, irrespective of whether or not they subscribe to the service.
+9 Mobidensity is the number of mobile cellular phones per 100 inhabitants.
+10 Broadband Internet is Internet connectivity at a speed of at least 128 kilobits per second.
+11 Narrowband Internet is Internet access with a connection speed of less than 128 kilobits per second.
+12 Data on ICT access and use by households and individuals were obtained from the Continuous Multi-Purpose Household Survey conducted in 2006.
+13 Some people may have used the Internet at more than one place, and for more than one purpose.
+a Covers establishment employing 10 or more persons, and excludes government ministries and departments, municipalities and district councils.
+b The primary sector covers “agriculture, hunting, forest and fishing” and “mining and quarrying”. The secondary sector includes “manufacturing”, “electricity, gas and water supply” and “construction”. The tertiary sector covers “trade, hotels and restaurants, transport and all the other service industries”.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+18
+   E/ECA/CODIST/1/25 
+  Page  
+
+   	E/ECA/CODIST/1/25
+   		  Page   
+
+
+
+
+
+
+
+E/ECA/CODIST/1/25 
+Page 18 
+
+   	E/ECA/CODIST/1/25
+   		  Page 17    
+
+
+
+E/ECA/CODIST/1/25
+
+
+

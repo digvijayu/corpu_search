@@ -1,0 +1,510 @@
+
+ United Nations  A/63/774
+
+  
+ 
+
+General Assembly  Distr.: General 
+18 March 2009 
+ 
+Original: English 
+
+ 
+
+09-27300 (E)    190309     
+*0927300* 
+
+Sixty-third session 
+Agenda items 118 and 132 
+ 
+
+Programme budget for the biennium 2008-2009 
+ 
+
+Administrative and budgetary aspects of the financing 
+of the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology security, 
+disaster recovery and business continuity for the 
+United Nations: arrangements for the secondary data centre 
+at Headquarters 
+ 
+ 
+
+  Report of the Advisory Committee on Administrative and 
+Budgetary Questions 
+ 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the report of the Secretary-General on arrangements for a secondary data 
+centre at Headquarters (A/63/743). During its consideration of the report, the 
+Committee met with representatives of the Secretary-General, who provided 
+additional information and clarification. The Committee also visited the current 
+primary and secondary data centres in the Secretariat and DC2 Buildings. 
+
+2. The report of the Secretary-General was issued pursuant to General Assembly 
+resolution 63/262, by which the Assembly requested the Secretary-General to report 
+to it at the first part of its resumed sixty-third session on the risk mitigation 
+measures to be taken during the relocation of the primary data centre to the North 
+Lawn (sect. IV, para. 11), as well as to present a new proposal for a secondary data 
+centre, including on cost-sharing arrangements (sect. IV, para. 19).  
+
+3. According to the current schedule, the new North Lawn data centre will be 
+ready for occupancy in November 2009, and the data centre in the Secretariat 
+building must be vacated by March 2010 in order to avoid delays in the 
+implementation of the capital master plan project. The Secretary-General proposes 
+to set up the initial information and communications technology (ICT) infrastructure 
+and to relocate systems from the Secretariat Building to the North Lawn data centre 
+
+
+
+A/63/774  
+ 
+
+09-27300 2 
+ 
+
+in phases during the four-month period from 1 November 2009 to 28 February 2010 
+(see A/63/743, paras. 20 and 21).  
+
+4. The Secretary-General indicated that, in order to meet this timetable, a new 
+secondary data centre must be fully operational by the end of October 2009. He 
+further indicated that the timetable did not allow for the construction of a data 
+centre, as originally planned, and that, consequently, a commercial data centre 
+facility must be identified and leased by 1 July 2009 in order to ensure the 
+availability of a fully functional centre, set up with the necessary initial ICT 
+infrastructure, by the end of October 2009. He also stated that this presented a very 
+challenging timetable for the completion of all the associated procurement and 
+negotiation processes, significantly increasing the risk that the deadline for the 
+commissioning of the new secondary data centre would not be able to be met 
+(see A/63/743, paras. 21 and 22).  
+
+5. In view of these constraints, the Secretary-General proposes to establish a 
+temporary secondary data centre for the two-and-a-half-year period from 1 July 
+2009 to 31 December 2011 and to revert to the question of the permanent secondary 
+data centre during the biennium 2012-2013. The key elements of the proposal for a 
+temporary secondary data centre include: 
+
+ (a) Leasing of a commercial “infrastructure-ready” data centre facility at a 
+total estimated cost of some $11 million, comprising annual rent of $4.3 million and 
+an initial set-up charge of $350,000;  
+
+ (b) Establishment of a service delivery agreement with the International 
+Computing Centre (ICC) to provide the necessary equipment and services for 
+running the new secondary data centre at a total cost of $12.7 million, comprising 
+one-time costs of $994,700 and $1 million for commissioning equipment and 
+migrating applications, respectively, as well as annual charges of $5.4 million for 
+operating the data centre; 
+
+ (c) Decommissioning of the existing secondary data centre in the DC2 
+Building as from July 2010, with an annual reduction of $627,800 in the current 
+service delivery agreement with ICC; 
+
+ (d) Sharing of the costs of the secondary data centre between the regular 
+budget (80 per cent) and peacekeeping budgets (20 per cent) on the basis of the 
+proportion of capacity of the secondary data centre used for peacekeeping and 
+non-peacekeeping operations.  
+
+A breakdown of costs by object of expenditure, funding source and financial period 
+is provided in table 2 of the report of the Secretary-General. 
+
+6. The Secretary-General is requesting urgent action on the proposal because, as 
+indicated in paragraph 11 of the report, if the primary data centre in the Secretariat 
+Building is not vacated as planned by the end of March 2010, the implementation of 
+the capital master plan project will be delayed, resulting in a cost increase currently 
+estimated at about $14 million per month owing to several costs associated with 
+swing space leases and the resumption of construction activity after an interruption. 
+ 
+ 
+
+
+
+ A/63/774
+ 
+
+3 09-27300 
+ 
+
+ II. Comments and observations 
+ 
+ 
+
+7. The Committee considers that the report does not provide a complete analysis 
+of the costs that are likely to be incurred over the lifespan of the project. In this 
+connection, the Committee would have found it useful if estimates of comparative 
+costs had been provided for: (a) leasing versus acquisition of the ICT equipment; 
+(b) the provision of services in house versus a service delivery agreement with ICC; 
+and (c) temporary leasing of premises versus construction of a permanent secondary 
+data centre. Upon enquiry, the Committee was informed that, were the ICT 
+equipment to be acquired rather than leased, the total cost for data centre equipment 
+and services would amount to $12.7 million, comprising $7.1 million for acquisition 
+of the equipment, $1.6 million for maintenance of the equipment and $4 million for 
+ICC services. Under this option, the outlay in 2009 due to the initial capital costs for 
+equipment would be $12.6 million, compared with $7.2 million in the Secretary-
+General’s proposal. The Committee was further informed that, even under the 
+current proposal, ICC would have the option of buying the ICT equipment using 
+United Nations systems contracts, thereby ensuring that the United Nations did not 
+incur a higher cost under the proposed arrangement. The Committee recommends 
+that a final decision on whether to lease or purchase be based on an analysis of 
+which option would result in the least cost to the Organization, taking into 
+account the expected lifespan of the relevant ICT equipment.  
+
+8. In addition, the Committee notes that the proposed solution involves an initial 
+relocation from the DC2 site to the temporary data centre for two and a half years 
+followed by a second move from the temporary to the permanent secondary site. It 
+is evident from the Secretary-General’s proposal that such relocations are costly: 
+they involve complex, high-risk processes that require considerable preparation and 
+mobilize large numbers of specialized staff over extended periods, during which 
+such staff would not be able to contribute to other strategic projects such as the 
+enterprise resource planning system. The Committee emphasizes the importance 
+of the conduct of a full analysis of costs and the provision of complete costing 
+information to facilitate its consideration of and decision-making on such 
+proposals, particularly in the light of the potential for duplication and the 
+resource implications. 
+
+9. In its report on ICT (A/63/487 and Corr.1 and 2, para. 83), the Committee 
+requested that the Secretary-General provide information on the costs already 
+incurred in connection with the Long Island City site. Upon enquiry, the Committee 
+was informed that the costs incurred thus far for investigating the different options 
+for the secondary data centre totalled $178,000, covering expenditures arising from 
+the “due diligence” evaluation of the various sites, as well as the design of and 
+construction cost estimates for the data centre in the United Nations Federal Credit 
+Union (UNFCU) building in Long Island City. Of that amount, $20,000 was funded 
+from resources appropriated under section 36, Office of Information and 
+Communications Technology, of the programme budget for the biennium 2008-2009 
+and $158,000 from the capital master plan under the arrangements set out in the 
+letter from the Secretary-General to the President of the General Assembly 
+(A/C.5/62/29). 
+
+10. The Secretary-General does not provide assurances that the deadline for the 
+commissioning of the new secondary data centre can indeed be met (see para. 4 
+above and A/63/743, para. 22). The Committee points out that the need for ensuring 
+
+
+
+A/63/774  
+ 
+
+09-27300 4 
+ 
+
+full capability for disaster recovery and business continuity at United Nations 
+Headquarters in the context of the capital master plan project has been known for 
+some time. The Secretary-General submitted an initial proposal in October 2007 for 
+the construction of a data centre at the UNFCU building in Long Island City to 
+replace the centre in DC2, including the possibility of establishing a joint operation 
+and sharing costs with other United Nations entities located in New York 
+(A/62/477). However, in September 2008, the Secretariat determined that the Long 
+Island City site was not viable after it had entered into a long-term lease for the 
+proposed data centre (A/63/743, paras. 1-5). Subsequently, the Secretariat pursued a 
+search for alternative sites and determined, in January 2009, that it would not be 
+possible to build a data centre in time for the relocation of the primary data centre. 
+The Secretariat then decided to opt for leasing commercial, “infrastructure-ready” 
+data centre facilities where it could immediately install and operate its own ICT 
+equipment. 
+
+11. In the view of the Committee, this sequence of events demonstrates 
+continued deficiencies in the planning and management of the project, which 
+appear to be based on an improvised reaction to situations as they arise rather 
+than being the result of anticipation of potential issues, preparation for a 
+variety of contingencies and consideration of strategic, long-term requirements. 
+Given the significant impact of any delay in the relocation of the primary data 
+centre on the overall cost of the capital master plan, as well as the complexity of 
+the project, which requires long lead times for procurement and commercial 
+telecommunications links, the Committee believes that the Secretariat should 
+have proactively considered a variety of different, scalable options from the 
+outset, in September 2008, when the Long Island City option was abandoned, in 
+order to ensure sufficient time to fully develop cost-effective alternative 
+proposals as well as to implement technically sound and robust solutions. 
+Furthermore, the Committee believes that some of the risks associated with the 
+current DC2 facility (see para. 15 below) could have been mitigated earlier 
+through managerial due diligence and foresight. 
+
+12. In this connection, the Committee is not convinced by the Secretariat’s 
+argument that the delays are due partially to the fact that it had to re-evaluate 
+its strategy relating to the secondary data centre for Headquarters in the light 
+of the principles set out by the General Assembly for managing disaster 
+recovery and business continuity, such as the consolidation of systems in central 
+data centres and the use of enterprise data centres rather than local data 
+centres (see A/63/743, paras. 16-19). In the Committee’s view, the requests of 
+the Assembly endorse and build upon the Secretary-General’s own long-term 
+proposals for a more unified approach to global operations and the 
+implementation of enterprise systems to be hosted globally at the United 
+Nations Logistics Base at Brindisi, Italy, as set out in documents A/62/477 and 
+A/62/510/Rev.1, rather than establishing new parameters for the secondary 
+data centre that have an impact on the strategy. 
+
+13. Upon enquiry, the Committee was informed that a definitive classification of 
+critical and non-critical systems did not yet exist. Such a classification would allow 
+for clear prioritization of the systems to be backed up in the secondary centre. At 
+present, business continuity capability is provided for the systems generally 
+acknowledged to be important, such as e-mail, BlackBerry, the Integrated 
+Management Information System (IMIS), treasury and budget systems, the Official 
+
+
+
+ A/63/774
+ 
+
+5 09-27300 
+ 
+
+Document System, the Secretary-General’s system for managing his contacts and 
+schedule, the iSeek Intranet site and the United Nations website (see also para. 14 
+and annex below). The Committee recalls that in General Assembly resolution 
+63/262, the Assembly requested the Secretary-General to prioritize systems in order 
+to minimize the cost of disaster recovery and business continuity (sect. IV, para. 3). 
+The Committee was informed that the Business Continuity Management Unit of the 
+Office of Central Support Services was responsible for undertaking the 
+classification effort and for reporting on the matter to the Assembly in the context of 
+the Secretary-General’s proposals for a unified disaster recovery and business 
+continuity plan, as requested in resolution 63/262 (sect. IV, para. 12). The 
+Committee notes with regret the absence of such a classification, which, in its 
+view, constitutes a deficiency in the Secretary-General’s proposal. The 
+Committee considers that such a classification would be an essential basis for 
+the establishment of a timeline for the migration of systems and would also 
+allow streamlining and optimization of the migration process. The Committee 
+urges the Secretariat to make every effort to conclude this process expeditiously 
+and to provide to the Assembly at the time of its consideration of this question, 
+an inventory of systems classified according to their degree of criticality. 
+
+14. In this connection, the Committee considers that the terminology used to 
+qualify systems, which are referred to critical, major, important or non-critical, 
+merits clarification. Upon enquiry, the Committee was provided with additional 
+information on the systems that are backed up or running in the DC2 data centre, 
+including their criticality, which is provided in the annex below. The Committee 
+notes that: (a) systems such as Windows, antivirus programs and firewalls are 
+considered critical, as they affect the continued availability of all other ICT systems 
+running in the data centres; (b) systems such as IMIS, e-mail and BlackBerry are 
+considered to be important; and (c) non-critical systems include departmental 
+applications such as the e-commerce system for the United Nations Postal 
+Administration (Department of Management) and the Networked Interactive 
+Content Access System, used for managing digital content, including photographs 
+and video (Department for Public Information). The Committee was informed that, 
+due to capacity limitations in the primary data centre in the Secretariat Building, 
+these non-critical departmental applications are hosted in DC2 only. 
+
+15. According to the Secretariat, during the move of the primary site to the North 
+Lawn, demands on DC2 would increase for data backup and running systems. 
+During the move, the DC2 data centre will acquire the role of a primary data centre 
+for the systems that are being relocated. In the view of the Secretariat, this would 
+magnify the risk of failures due to power disruption (DC2 lacks emergency power) 
+or other circumstances, leading to the possible disruption of critical communications 
+systems (e.g. e-mail, BlackBerry) as well as key administrative systems (e.g. IMIS) 
+(see A/63/743, paras. 8 and 9). The Secretariat reiterated to the Committee that 
+neither the power supply nor the cooling systems in DC2 could be upgraded.  
+ 
+ 
+
+ III. Recommendations 
+ 
+ 
+
+16. The Committee considers that the Organization has been put in a difficult 
+position in which it is forced to make a strategic decision on an urgent basis in 
+respect of a proposal for a substantial investment, which the Committee 
+considers to be lacking in analysis, information and overall information on 
+
+
+
+A/63/774  
+ 
+
+09-27300 6 
+ 
+
+financial implications. More importantly, the Committee is not convinced that 
+the proposal put forward is the most cost-effective one possible or the most 
+workable. The Secretary-General himself acknowledges the challenging 
+timetable for the project and the significant risk that the deadline for the 
+commissioning of the data centre will not be able to be met. In this connection, 
+the Committee points out that the General Assembly, in its resolution 63/262, 
+requested the Secretary-General to report on the risk mitigation measures to be 
+taken during the relocation of the primary data centre to the North Lawn 
+(sect. IV, para. 11). The Secretary-General’s proposal does not appear to 
+provide the necessary assurance that its implementation would sufficiently 
+mitigate those risks.  
+
+17. The Committee has outlined in the present report its serious concerns in 
+respect of the Secretary-General’s proposals. However, the Committee 
+recognizes that the secure relocation of the primary data centre from the 
+Secretariat Building to the North Lawn facility is an essential component of the 
+capital master plan and that a reliable secondary data centre is an important 
+factor (see also A/63/736, para. 49). In addition, disruptions in the provision of 
+some ICT services would have an adverse impact on the operations of the entire 
+Organization.  
+
+18. Under the circumstances and given the time constraints, the Committee 
+finds itself in a position where it has no prudent alternative but to recommend 
+approval of the Secretary-General’s proposal to establish the new secondary 
+data centre. Accordingly, the Committee recommends that the General 
+Assembly take note of the total estimate of $25,737,500 for the project, as well 
+as the Secretariat’s strategy of entering into a service delivery agreement with 
+the International Computing Centre. The Committee also recommends that the 
+Assembly approve additional resource requirements of: 
+
+ (a) $3,774,100 under section 36, Office of Information and 
+Communications Technology, and $1,995,200 under section 28D, Office of 
+Central Support Services, under the programme budget for the biennium 2008-
+2009; 
+
+ (b) $2,384,300, to be included in the proposed budget of the support 
+account for the peacekeeping operations for the period from 1 July 2009 to 
+30 June 2010. 
+
+19. The Committee does not object to the cost-sharing arrangement for the 
+new data centre proposed by the Secretary-General. However, it recommends 
+that the General Assembly request the Secretary-General to re-examine the 
+approach for dividing costs between the regular and peacekeeping budgets. 
+Under the current approach, the cost-sharing ratio of peacekeeping to 
+non-peacekeeping activities is established on a case-by-case basis, taking into 
+account the proportion of peacekeeping and non-peacekeeping operations at 
+each site. In the future, as Brindisi becomes an Organization-wide hub 
+centralizing enterprise applications used across the United Nations, it may be 
+timely to consider shifting towards the application of a common cost-sharing 
+arrangement between peacekeeping and non-peacekeeping operations across 
+the Organization. 
+
+
+
+ A/63/774
+ 
+
+7 09-27300 
+ 
+
+20. The Committee further recommends that the Secretary-General be 
+requested to review the migration strategy with a view to seeking efficiencies, 
+prioritizing among the critical and non-critical applications to be migrated and 
+optimizing the utilization of existing facilities, and to ensure that the scope of 
+the project is as lean as possible, consistent with the need to preserve the 
+integrity of the Organization’s data. 
+
+21. The Committee believes that the continuing deficiencies in the planning 
+and management of this project must be remedied. It stresses that the 
+successful implementation of the project will require effective leadership and 
+management, as well as clearly defined roles and responsibilities, rigorous 
+monitoring of progress against performance targets, procedures to ensure that 
+corrective action is taken quickly should problems emerge and mechanisms to 
+hold individuals accountable for their areas of responsibility. The Secretary-
+General should also be requested to ensure that robust, technically sound 
+solutions are put into place. In this connection, the Committee recommends 
+that the Secretary-General be requested to utilize the services of an 
+independent expert possessing a high degree of technical experience in the field 
+of migration and relocation of data centres to validate the project 
+implementation plan and provide advice to the implementation team, as 
+required, without disrupting the project schedule, to be funded from within 
+existing resources. The Committee also requests that the necessary measures be 
+taken to ensure the confidentiality of the Organization’s data during the 
+relocation of the primary data centre from the Secretariat Building to the 
+North Lawn facility. 
+
+
+
+A/63/774  
+ 
+
+09-27300 8 
+ 
+
+Annex 
+ 
+
+  Systems currently running in the DC2 data centre, including 
+their criticality 
+ 
+ 
+
+1. Several systems operated by the Office of Information and Communications 
+Technology are considered critical, as they affect the continued availability of all 
+other information and communications technology systems running in the data 
+centre. Therefore, it has established such systems, listed below, in both the primary 
+data centre in the Secretariat Building and a backup in the DC2 secondary data 
+centre, with capacity for the secondary data centre to take over automatically if 
+there is a failure in the primary data centre: 
+
+ • Windows Active Deployment System (ADS) (for workstation login) 
+
+ • Symantec antivirus (for virus protection) 
+
+ • Firewalls (for security of United Nations information assets from external 
+threats) 
+
+ • Local area network and Internet access (for all computing resources) 
+
+ • Shared printing (for accessing shared printers) 
+
+2. The following important systems are currently backed up in the DC2 
+secondary data centre onto “storage systems” that facilitate easy retrieval and ensure 
+that no data are lost:  
+
+ • Integrated Management Information System 
+
+ • Galaxy 
+
+ • Treasury systems (Operations Processing Integrated Control System — 
+investment management, SWIFT, check printing) 
+
+ • Procurement system (Reality/Procureplus) 
+
+ • ePAS (performance appraisal system) 
+
+ • Budget information system 
+
+ • iSeek (Intranet) 
+
+ • Parts of the United Nations website (www.un.org) 
+
+ • Webmail — for the Secretariat and permanent missions 
+
+ • Official Document System 
+
+ • E-mail 
+
+ • Some Lotus Notes applications  
+
+ • BlackBerry 
+
+ • Mobile Office (for pandemic business continuity) 
+
+ • Secretary-General’s system for managing his contacts and schedule 
+
+ • Executive Office of the Secretary-General “Corlog” for tracking/ 
+correspondence 
+
+
+
+ A/63/774
+ 
+
+9 09-27300 
+ 
+
+ • Security video (from security cameras) 
+
+ • SQL databases (nearly 300 of them for various departments) 
+
+ • Some finance and budget applications for the Department of Peacekeeping 
+Operations 
+
+ • Some applications for the Office for the Coordination of Humanitarian Affairs 
+and the Department of Economic and Social Affairs 
+
+3. Owing to capacity limitations in the primary data centre, some non-critical 
+departmental systems, such as the e-commerce system for the United Nations Postal 
+Administration and the Networked Interactive Content Access System, a system for 
+managing digital content (pictures, videos, etc.), are running only in the DC2 data 
+centre. 
+
+ 
+
+

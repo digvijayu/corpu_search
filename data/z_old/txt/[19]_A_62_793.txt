@@ -1,0 +1,3525 @@
+
+ United Nations  A/62/793
+
+  
+ 
+
+General Assembly  Distr.: General 
+9 April 2008 
+ 
+Original: English 
+
+ 
+
+08-30015 (E)    300408     
+*0830015* 
+
+Sixty-second session 
+Agenda items 128 and 140 
+ 
+
+Programme budget for the biennium 2008-2009 
+ 
+
+Administrative and budgetary aspects of the financing  
+of the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Investing in information and communications technology: 
+information and communications strategy for the 
+United Nations Secretariat 
+ 
+ 
+
+  Report of the Secretary-General 
+ 
+ 
+ 
+
+ Summary 
+ The present report, submitted in accordance with paragraph 3 of section II of 
+General Assembly resolution 60/283, provides the information and communications 
+technology (ICT) strategy for the United Nations Secretariat. The strategy serves as 
+the Organization-wide agreement on the future direction of ICT. The report builds 
+upon the significant progress made since the launching of the ICT strategy in 2002, 
+and seeks to extend this achievement in order to meet the strategic ICT needs of the 
+Secretariat over the next three to five years. 
+
+ Based upon a collaborative planning process, which included interviews with 
+the Organization’s executive leadership and surveys directed at United Nations 
+personnel and permanent missions, the strategic ICT needs of the Secretariat have 
+been identified and summarized into four broad categories of institutional driver: 
+knowledge-sharing and collaboration; improvement of and support for internal 
+Secretariat operations; communications and infrastructure; and overall ICT 
+management. These institutional drivers, together with technological drivers 
+comprising emerging technology trends, provide the basis for the overall vision of a 
+strong ICT for a better United Nations.  
+
+ The strategy for realizing the ICT vision spans five cross-cutting priority areas: 
+ICT management structure; strategic programme delivery; service and performance 
+management; global architecture and standards; and financial control and reporting. 
+Changes will be made in these areas to establish a global, transparent and high-
+performing ICT environment. In addition, three strategic programmes of high 
+
+
+
+A/62/793  
+ 
+
+08-30015 2 
+ 
+
+Organization-wide value, which correspond to the identified institutional drivers, are 
+proposed to achieve the vision: (a) knowledge management; (b) resource 
+management; and (c) infrastructure management. Implementation plans for each 
+strategic programme are presented in the report.  
+
+ A management framework which supports the effective implementation of the 
+ICT strategy and programmes is also presented in the report. Core elements of the 
+management structure include management oversight committees, advisory bodies, 
+the Chief Information Technology Officer, the Office of Information and 
+Communications Technology and other ICT units of the Secretariat. The key 
+functions and responsibilities of each component and the relationships among them 
+are outlined, along with an organizational structure of the Office of Information and 
+Communications Technology and the reporting relationships between that Office and 
+other ICT units throughout the world. The overall plan and proposed timeline for 
+implementing the management framework are also submitted for consideration.  
+
+ Finally, organizational benefits expected upon the implementation of the 
+strategy are presented, along with the key success factors required to ensure the 
+successful realization of the ICT vision. 
+
+ 
+
+ 
+
+
+
+ A/62/793
+ 
+
+3 08-30015 
+ 
+
+Contents 
+ Paragraphs Page
+
+I. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1–4 4
+
+II. Information and communications technology strategy . . . . . . . . . . . . . . . . . . . . . . . 5–20 5
+
+A. Planning process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5–12 5
+
+B. Vision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 8
+
+C. Priorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14–19 8
+
+D. Strategic programmes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 9
+
+III. Information and communications technology management framework . . . . . . . . . 21–46 10
+
+A. Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21–24 10
+
+B. Design considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 11
+
+C. Organizational structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26–46 12
+
+IV. Implementation plan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47–71 21
+
+A. Approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47–50 21
+
+B. Implementation of the strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51–66 22
+
+C. Implementation of the management framework . . . . . . . . . . . . . . . . . . . . . . . . 67–71 31
+
+V. Organizational benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72–74 35
+
+A. Improved effectiveness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73 35
+
+B. Increased efficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74 36
+
+VI. Key factors for success . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75 37
+
+VII. Conclusions and recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76–82 37
+
+VIII. Action to be taken by the General Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83 39
+
+ Annexes  
+
+I. Executive interviews . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+II. Information and communications technology strategy: institutional and technological 
+drivers.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+III. Information and communications technology survey . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+IV. Information and communications technology personnel of the United Nations Secretariat as 
+of December 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+
+
+A/62/793  
+ 
+
+08-30015 4 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The rapid growth of global networks and wireless communications has 
+combined with major advances in technology to create opportunities for the United 
+Nations to achieve a global and integrated Secretariat. Information and 
+communications technology (ICT) can enable the Organization to be effective and 
+efficient in carrying out its work and adapt to changing environments. By 
+strategically harnessing the power of such technology, the Organization can 
+accelerate the realization of its mission and meet growing commitments in an 
+increasingly knowledge-based and interconnected global society. 
+
+2. Significant progress has been made towards the realization of effective and 
+efficient ICT operations in all offices of the Secretariat since the launching of the 
+ICT strategy in 2002. Today, all offices of the Secretariat apply uniform ICT 
+standards and have reached similar levels of technological capabilities. However, 
+the disparate development of ICT systems — driven largely by departmental, 
+regional and local needs (without a coherent Organization-wide ICT vision, strategy 
+and architecture, uniform standards and a management structure) — has been 
+neither effective nor cost-efficient. The absence of overall strategic management of 
+ICT investments and operations has largely contributed to the current gaps and 
+deficiencies reported by the Secretary-General (A/60/846/Add.1). ICT units in the 
+Secretariat are highly fragmented and often operate in isolation from one another. 
+Strategic ICT capabilities of the Secretariat lag behind those of other organizations 
+owing to systemic under-investment for Organization-wide purposes. As a result, the 
+Secretariat has not been able to take full advantage of ICT in a manner that enables 
+the entire Organization to benefit from the opportunities that it offers.  
+
+3. Recognizing the strategic importance of ICT as a critical reform instrument, 
+the General Assembly, in section II of its resolution 60/283, decided to establish the 
+post of Chief Information Technology Officer at the level of Assistant Secretary-
+General in the Executive Office of the Secretary-General, and requested the 
+Secretary-General to: (a) submit the comprehensive report on investing in ICT with 
+a view to maximizing its value to the global Secretariat; (b) rejustify the level and 
+resource requirements for the post of Chief Information Technology Officer; and 
+(c) provide information on the functions, responsibilities, structures and staffing 
+requirements of the envisaged ICT organization and its relationship with other ICT 
+units in the Secretariat. The Chief Information Technology Officer assumed his 
+duties late in August 2007 and, pending submission of a comprehensive report to the 
+General Assembly at its second resumed sixty-second session, the Secretary-General 
+provided a status report on efforts to develop the ICT strategy (A/62/502).  
+
+4. The present report provides the comprehensive ICT strategy for the medium 
+term (3-5 years), which lays the groundwork for maximizing the value of ICT across 
+the global Secretariat, and the management framework needed to successfully 
+implement that strategy. The strategy outlined in the report serves as the 
+Organization-wide agreement on the future direction of ICT. It provides the 
+foundation for achieving a comprehensive vision by enhancing existing ICT efforts 
+and launching new ICT initiatives that will assist the achievement of Secretariat-
+wide goals. The resources required for implementation of the strategy will be 
+requested once specific project proposals have been fully developed by the Chief 
+Information Technology Officer and appropriate stakeholders. Project proposals will 
+be evaluated as regards their conformity with the strategy and will be approved by 
+
+
+
+ A/62/793
+ 
+
+5 08-30015 
+ 
+
+ICT management oversight committees, subject to the availability of overall 
+resources and organizational priorities.  
+ 
+ 
+
+ II. Information and communications technology strategy  
+ 
+ 
+
+ A. Planning process 
+ 
+ 
+
+5. The strategic planning process began with a broad-based exercise aimed at 
+identifying the key ICT needs of the global Secretariat. These organizational needs 
+(“institutional drivers”) are combined with technological trends and market 
+developments (“technological drivers”) to produce the ICT vision for the 
+Secretariat. To realize this vision, a strategy encompassing five cross-cutting 
+priority areas is proposed: (a) ICT management structure; (b) strategic programme 
+delivery; (c) service delivery and performance management; (d) global and 
+standards architecture; and (e) financial control and reporting. In turn, a set of three 
+strategic programmes carries out the overall ICT strategy (see fig. 1). The 
+management framework that enables the effective implementation of the overall 
+vision is described in section III of the present report.  
+ 
+ 
+
+
+
+A/62/793  
+ 
+
+08-30015 6 
+ 
+
+Figure 1 
+Information and communications technology strategy 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+6. The development of the ICT strategy rests upon obtaining a firm understanding 
+of the mission, programme direction and objectives of the Secretariat and of the 
+priorities of stakeholders. To this end, the planning team — the Chief Information 
+Technology Officer and his advisers — undertook a series of strategic planning 
+activities, including executive interviews, an Organization-wide ICT survey, 
+discussions with permanent missions and technology research. The results of these 
+activities are described below.  
+
+7. Executive interviews. The planning team conducted 36 interviews with 
+executive staff in December 2007 and January 2008 (see annex I). The 28 interviews 
+with staff of Headquarters departments, offices away from Headquarters and 
+regional commissions, focused specifically on organizational challenges and how 
+ICT added value over the medium term. The remaining 8 interviews with senior 
+staff from United Nations funds, programmes and other organizations focused on 
+harmonization and opportunities for working together in the future.  
+
+Institutional 
+drivers 
+
+Technology
+drivers
+
+Vision
+
+ICT 
+management 
+
+structure 
+
+Financial
+control and
+reporting
+
+Service and
+performance 
+management 
+
+Global 
+architecture 
+
+and standards
+
+Strategic 
+programmes
+
+Knowledge
+management
+
+Resource
+management
+
+Infrastructure 
+management 
+
+Strategic programmes
+
+Priorities
+
+ICT strategy 
+
+Deliver Develop Enhance Implement Improve 
+
+
+
+ A/62/793
+ 
+
+7 08-30015 
+ 
+
+8. Organization-wide ICT survey. On 10 January 2008, the Chief Information 
+Technology Officer launched the first Secretariat-wide ICT survey conducted at the 
+United Nations. The purpose of the survey was to gauge the level of satisfaction of 
+United Nations personnel with 12 core ICT services and to identify major areas for 
+improvement. The survey generated 5,015 responses, with over 1,500 write-in 
+comments from across the global Secretariat. Results (see annex III) showed that 
+overall user satisfaction is around 71 per cent, below the 80 per cent target generally 
+set for user satisfaction. However, at the organizational level (i.e., departments, 
+offices and field missions), the gap in overall user satisfaction was 20 per cent 
+(ranging between 62 and 82 per cent), indicating that some ICT units are providing 
+ICT services that meet user needs substantially better than others. 
+
+9. The five top-rated ICT services were basic office automation software (79 per 
+cent), computer equipment and related support (76 per cent), telephone equipment 
+and related support (79 per cent), e-mail services (74 per cent), and the performance 
+and reliability of the Internet (73 per cent). The lowest ratings were given to training 
+related to ICT technologies and services (62 per cent), remote access to 
+United Nations applications (64 per cent), United Nations common application 
+software (66 per cent), mobile equipment and related support (67 per cent), and the 
+ability to find information on United Nations websites and in document repositories 
+(67 per cent). The gap between most satisfactory service (basic office automation 
+software) and least satisfactory (training) was 17 per cent.  
+
+10. Input from permanent missions. The Chief Information Technology Officer 
+consulted with permanent missions to the United Nations based in New York, both 
+directly and through the Ad Hoc Open-ended Working Group on Informatics of the 
+Economic and Social Council, to gather their views on ICT services. The Chief 
+Information Technology Officer participated in the first meeting of the Working 
+Group on 14 February, briefing its members on the ICT strategic planning process. 
+The Working Group launched a survey to gauge overall user satisfaction with the 
+ICT services currently available to permanent missions.  
+
+11. Technology research. Extensive research on current technology trends and 
+market developments in the ICT industry was conducted by teams of ICT staff. 
+Advice from technology industry experts, such as the Gartner Group, provided 
+information on technology trends, and market developments and the forecasts 
+needed to develop the ICT strategy.  
+
+12. Strategic planning retreat. A three-day strategic planning retreat was held the 
+first week of February 2008, with over 25 senior ICT managers in attendance. 
+Participants analysed the results of the above-mentioned strategic planning 
+activities. Discussions at the retreat resulted in the identification of key institutional 
+and technological drivers that form the basis of the ICT strategy. The identified 
+drivers, further delineated in annex II, are as follows:  
+
+ (a) Institutional drivers: 
+
+ (i) Knowledge-sharing and collaboration; 
+
+ (ii) Improvement of internal operations; 
+
+ (iii) Communications and infrastructure; 
+
+ (iv) Management of ICT; 
+
+
+
+A/62/793  
+ 
+
+08-30015 8 
+ 
+
+ (b) Technological drivers: 
+
+ (i) Mega-trend towards connecting everyone; 
+
+ (ii) Convergence of technologies; 
+
+ (iii) Increased intensity and velocity of information-sharing; 
+
+ (iv) Knowledge management tools. 
+ 
+ 
+
+ B. Vision 
+ 
+ 
+
+13. The vision of the Secretary-General is for a stronger United Nations for a 
+better world; the new ICT vision is for strong ICT for a better United Nations. The 
+vision translates into three broad goals, to be achieved over the forthcoming three to 
+five years:  
+
+ (a) Work: ICT to be aligned with the mission and work programmes of the 
+Secretariat; 
+
+ (b) People: United Nations personnel and their stakeholders to connect and 
+share knowledge anytime, anywhere; 
+
+ (c) Resources: institutional resources to be efficiently deployed and utilized. 
+ 
+ 
+
+ C. Priorities 
+ 
+ 
+
+14. To achieve the ICT vision, the strategy will encompass the five cross-cutting 
+priority areas of ICT management structure, strategic programme delivery, service 
+delivery and performance management, global architecture and standards, and 
+financial control and reporting. 
+
+15. ICT management structure. A major element of the strategy is the creation of 
+a new global management structure that achieves coherence and eliminates the 
+duplication and fragmentation of ICT that currently exist across the Secretariat. 
+Only by bringing the mechanisms for the delivery of major ICT services under a 
+single, united structure can the Organization take advantage of economies of scale 
+and eliminate redundant operations. Implementing a new structure which comprises 
+programme-based centres of excellence and a global service delivery model will 
+strengthen organizational ownership of ICT while simultaneously improving ICT 
+effectiveness and efficiency. This will, across the Organization, positively impact 
+upon the quality of ICT customer services, preserve local ICT support and lower the 
+overall cost of providing ICT services. 
+
+16. Strategic programme delivery. ICT should effectively support the work 
+programmes of the Secretariat. Increasing the alignment of ICT with substantive 
+activities means that ICT must be more responsive to programme units so that 
+changes to work programmes or priorities are quickly reflected in the ICT activities. 
+In turn, this means increasing the programme ownership of ICT strategic 
+programmes such that substantive organizational needs directly drive strategic ICT 
+actions. To achieve near-term wins, value-added products and services will be 
+quickly implemented, while strategic programmes progress over the long term. 
+Potential projects include a Secretariat-wide ICT service catalogue and a portal 
+dedicated to Member States.  
+
+
+
+ A/62/793
+ 
+
+9 08-30015 
+ 
+
+17. Service delivery and performance management. In accordance with the 
+Secretary-General’s proposed accountability framework (see A/62/701 and Corr.1), 
+ICT will help to develop an open environment which allows access to the timely and 
+reliable information that contributes to effective decision-making. To increase both 
+efficiency and effectiveness, a new results-based measurement framework will be 
+implemented; the framework will permit objective tracking of key measures of 
+performance and enable improved management of ICT resources in order to enhance 
+service delivery. To support this effort, the strategy calls for increasing the 
+capacities of ICT staff across the board by enhancing staff skills and adjusting the 
+span of control of ICT management to further improve organizational effectiveness.  
+
+18. Global architecture and standards. Establishing an Organization-wide, 
+service-oriented architecture and strong technical standards will enable the 
+consolidation of ICT assets, systems and services on a global scale. This will drive 
+down unit costs, lower maintenance costs, reduce deployment time and enable a 
+high level of business process integration among systems. Additional efforts will be 
+made to establish Secretariat-wide guidelines for adopting open-source solutions.  
+
+19. Financial control and reporting. To maximize the value of ICT, a global 
+financial framework will be established. This will allow the Office of Information 
+and Communications Technology to enforce financial discipline and accountability 
+for all spending on ICT. Emphasis will be placed on determining and reducing fixed 
+operating costs through consolidation, improvements in efficiency and centralized 
+purchasing with a view to making more funds available for discretionary 
+programmes. New projects will be carefully scrutinized to determine whether they 
+are adding the value to the Organization. Each main ICT initiative, irrespective of 
+funding source, will be reviewed by the Office of Information and Communications 
+Technology and management oversight committees. 
+ 
+
+ D. Strategic programmes  
+ 
+ 
+
+20. The ICT strategy for the Secretariat will be carried out through a set of 
+strategic programmes. These programmes consist of three broad categories of 
+initiatives that build upon one another. The infrastructure management programme 
+provides the foundation for the essential ICT services employed globally by the 
+Secretariat; the resource management programme builds upon the infrastructure 
+management programme to create, process and store information on the 
+Organization’s resources and enable their effective and efficient management; and 
+the knowledge management programme depends upon the aforementioned two 
+programmes to provide an enabling environment for capturing, managing and 
+sharing the Organization’s information assets (see fig. 2). Detailed information on 
+these programmes is presented in section IV below.  
+
+
+
+A/62/793  
+ 
+
+08-30015 10 
+ 
+
+Figure 2 
+Strategic programmes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ III.  Information and communications technology  
+management framework 
+ 
+ 
+
+ A. Overview 
+ 
+ 
+
+21. Information and communications technology is maturing and taking on a new 
+shape as expanding worldwide communications technology increasingly facilitates 
+its global management and the global operations of the Organization as a whole. 
+International standards and the availability of open-source software are increasingly 
+relevant to the Organization’s ICT portfolio and service delivery model. Economies 
+of scale foster consolidation of ICT infrastructure, especially as technologies 
+standardize and converge; basic user needs (voice, data, image etc.) are the same 
+throughout the world. It is within this context that ICT management must continue 
+to adapt and change.  
+
+22. The processes associated with ICT decision-making and its underlying 
+organizational structures come together under the broad concept of ICT 
+management. The ICT management framework clarifies how decisions are made, 
+who is accountable and how ICT activities are coordinated within the Secretariat. 
+The framework presented in the present report ensures that key stakeholders take on 
+the appropriate roles and responsibilities to guide, clearly and effectively, the 
+management of the Organization’s activities and resources. At present, ICT 
+personnel worldwide number almost 3,800 (see annex IV). ICT management is 
+therefore also about how the Organization can manage this significant level of 
+resources efficiently.  
+
+23. As the long-term success of the Organization’s mission depends increasingly 
+upon ICT, decision-making related to ICT becomes more critical. According to a 
+
+Infrastructure
+Management
+
+Resource 
+Management
+
+Knowledge
+management
+
+Strategic programmes 
+build upon each other 
+
+
+
+ A/62/793
+ 
+
+11 08-30015 
+ 
+
+study from a premier consulting firm, organizations with high-performing ICT 
+management share the following traits: clearly differentiated organizational 
+strategies; clear organizational objectives for ICT investments; high-level executive 
+participation in ICT management; stable ICT management, with few changes from 
+one year to the next; well-functioning, formal exception processes; and formal 
+communication methods.1 
+
+24. On the basis of the previous reports of the Secretary-General and resolutions 
+of the General Assembly as well as best practices in ICT management, the following 
+five key principles serve as the foundation for developing the ICT management 
+framework for the Secretariat: (a) organizational strategy drives ICT investments for 
+better outcomes; (b) Chief Information Technology Officer responsible for the 
+overall direction and performance of ICT activities in the Organization; (c) the 
+Office of Information and Communications Technology provided with sufficient 
+authority and resources to manage significant ICT activities that affect the entire 
+Organization; (d) a sensible balance maintained between centralization and 
+decentralization of ICT functions; and (e) ICT units and staff are centres of 
+excellence for innovation. These principles are described in detail in a previous 
+report of the Secretary-General (A/62/502, sect. III). 
+ 
+ 
+
+ B.  Design considerations 
+ 
+ 
+
+25. To develop an ICT-effective management framework, a number of important 
+design considerations have been taken into account. These include: (a) the definition 
+of ICT; (b) decision rights and advisory rights; (c) balance between effectiveness 
+and efficiency; and (d) a strong centralized ICT organization. These can be 
+explained as follows: 
+
+ (a) Definition of ICT. Since ICT activities are continually evolving, it is 
+important to clearly define ICT within the context of the United Nations. For the 
+purposes of the present report, ICT activities are defined as those associated with 
+the development, implementation and management of processes and technologies 
+that enable the effective management of electronic information including data, 
+documents, websites and multimedia objects (i.e., voice, data and image);  
+
+ (b) Decision rights and advisory rights. There are two types of rights often 
+given to entities involved in decision-making. Entities with decision rights 
+participate in decision-making and have the authority to make decisions, while 
+entities with advisory rights do not have authority to make decisions but provide 
+advice or input. The assignment of decision rights and advisory rights provides the 
+foundation for an effective decision-making system within the ICT management 
+framework; 
+
+ (c) Balance between effectiveness and efficiency. Effectiveness is the ability 
+to achieve stated goals or objectives, measured in terms of both output and impact. 
+Efficiency is the ability to maintain the same level of output with fewer resources or 
+to produce a higher level of output with the same resources. The work programmes 
+carried out by the Secretariat must be delivered successfully, but at the same time 
+resources must also be allocated and utilized efficiently; 
+
+__________________ 
+
+ 1  M. Broadbent and P. Weill, “Effective IT Governance: By Design”, Gartner EXP Premier report, 
+Gartner, Inc.,January 2003. 
+
+
+
+A/62/793  
+ 
+
+08-30015 12 
+ 
+
+ (d) Strong centralized ICT organization. Centralization of ICT services 
+provides an opportunity to remedy the high level of fragmentation that currently 
+exists within ICT services. A strong, central ICT organization with sufficient 
+authority, accountability and resources is required to effectively administer ICT 
+policies, architecture and standards, and to manage the strategic programmes and 
+common services that affect the entire Organization.  
+ 
+
+ C. Organizational structure 
+ 
+ 
+
+26. The core elements of the ICT organizational structure are as follows: 
+(a) management oversight committees; (b) advisory bodies; (c) the Chief 
+Information Technology Officer; (d) the Office of Information and Communications 
+Technology; and (e) other ICT units. These organizational elements (see fig. 3) are 
+described below.  
+ 
+
+Figure 3 
+Information and communications technology: organizational structure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+  Management oversight committees 
+ 
+
+27. To guide ICT work programmes and services, a two-tiered oversight structure 
+will be established, consisting of an executive committee and three steering 
+committees as follows:  
+
+Chief Information 
+Technology Officer
+
+Executive
+committee
+
+on ICT 
+
+Decision Rights Advisory Rights
+
+Client 
+services
+
+Strategic 
+management
+
+Architecture and 
+standards
+
+Office of Information and 
+Communications Technology 
+
+ICT 
+services
+
+Programme 
+steering 
+
+committee 
+
+Other ICT units
+
+Advisory 
+groups 
+
+
+
+ A/62/793
+ 
+
+13 08-30015 
+ 
+
+ (a) An executive committee, the highest-level decision making body on 
+major ICT matters will decide overall ICT strategy and priorities. The committee 
+will comprise the Deputy Secretary-General (chair), a small number of senior 
+managers at the level of Under-Secretary-General, from both substantive and 
+support areas, and the Chief Information Technology Officer (ex officio member). 
+The committee will meet on a quarterly basis to review ICT strategy and programme 
+performance and to determine investment portfolio and management priorities, as 
+needed; 
+
+ (b) Steering committees will decide on ICT investment priorities, projects 
+and other investments at the programme level. It is expected that three steering 
+committees, one for each of the strategic programmes, will be established. These 
+steering committees will each comprise five or six staff members at the Under-
+Secretary-General or Assistant Secretary-General level and the Chief Information 
+Technology Officer (ex officio member). One of the senior managers or the Chief 
+Information Technology Officer will chair each steering committee, which will meet 
+on a regular or as-needed basis. The strategic management unit of the office of 
+information and communications technology will serve as the secretariat of the 
+committees and, in particular, as the project management office (see para. 38). The 
+project management office will submit business cases for each major project, with 
+the support of the Chief Information Technology Officer and a project sponsor. The 
+appropriate steering committees will make a final decision on implementation and 
+ensure that the project corresponds to the programme strategy and is to be carried 
+out within the level of resources allocated by the executive committee on 
+information and communications technology. 
+ 
+
+  Advisory bodies 
+ 
+
+28. To provide appropriate advice and input for ICT investments and services, 
+existing and new advisory groups will be utilized. The Secretariat-wide Advisory 
+Group on Information and Communications Technology will be established and will 
+comprise staff members at the D-1/D-2 level, representing each department, office 
+or field mission. The Advisory Group will provide feedback on ICT programmes 
+and services. Members of the Advisory Group will also receive periodic briefings 
+from the Office of Information and Communications Technology on ICT matters. 
+Member States and the Ad Hoc Open-ended Working Group on Informatics will also 
+provide feedback on the ICT services available to delegates. The existing group of 
+executive officers will advise the Office of Information and Communications 
+Technology, as needed.  
+ 
+
+  Chief Information Technology Officer 
+ 
+
+29. The Chief Information Technology Officer will be responsible for the overall 
+direction and performance of ICT activities in the Organization. The Chief 
+Information Technology Officer will be provided with sufficient central authority 
+and resources to oversee ICT activities in the United Nations Secretariat throughout 
+the world. The key functions and responsibilities of the Chief Information 
+Technology Officer are to:  
+
+ (a) Provide strategic vision and leadership in the management of information 
+and technology for the global Secretariat; 
+
+
+
+A/62/793  
+ 
+
+08-30015 14 
+ 
+
+ (b) Act as the principal representative of the Secretary-General in regard to 
+issues of technology and information management; 
+
+ (c) Provide advice to the executive committee on information and 
+communications technology, in the capacity of permanent member of the committee; 
+
+ (d) Promulgate policies and standards on ICT matters; 
+
+ (e) Participate in the ICT steering committees which guide major ICT 
+initiatives;  
+
+ (f) Oversee ICT project implementation and change management processes 
+throughout the Organization; 
+
+ (g) Head the Office of Information and Communications Technology which 
+is responsible for carrying out strategic ICT activities and for providing shared 
+services affecting the entire Organization; 
+
+ (h) Oversee, through appropriate delegation, ICT operations and investments 
+in all offices of the Secretariat; 
+
+ (i) Monitor and improve the effectiveness of the ICT management 
+framework;  
+
+ (j) As the principal representative of the Secretary-General for ICT, further 
+coordination and cooperation among the organizations of the United Nations system 
+in that regard. 
+
+30. The broad scope of the functions of the Chief Information Technology Officer 
+encompasses developing a Secretariat-wide strategy and leading in its 
+implementation. To carry out these responsibilities effectively, the post of Chief 
+Information Technology Officer has been established at the level of Assistant 
+Secretary-General, reporting to the Deputy Secretary-General. This relationship 
+enables the Chief Information Technology Officer to build stronger partnerships 
+with senior managers of departments and offices and to assume a more strategic and 
+transformational role within the executive management team (e.g., Management 
+Committee) for the benefit of the entire Organization. Justification for this level of 
+authority is based on best practice in both the public and private sectors, whereby 
+the chief information officer commonly reports directly to top management.  
+
+31. The Chief Information Technology Officer will increasingly play a critical role 
+in reforming and modernizing the Secretariat. This transformational change requires 
+clear authority and the direct support of the Secretary-General. The direct reporting 
+relationship of the Chief Information Technology Officer within the Executive 
+Office of the Secretary-General, along with increased access to the senior leadership 
+team, provides a strong framework for implementing systemic reforms and will help 
+to mitigate and overcome the effects of organizational silos and cultural resistance 
+to change.  
+
+32. This reporting relationship enables a better strategic alignment of ICT with 
+substantive activities and allows for the more effective implementation of 
+institution-wide changes. A number of international organizations (e.g., World 
+Bank) have already adopted this approach. The Secretariat should lead by example 
+in adopting this best practice in ICT leadership. The reporting relationship is also in 
+accordance with the expressed intent of the General Assembly which, in resolution 
+60/283, decided to establish the post of Chief Information Technology Officer in the 
+
+
+
+ A/62/793
+ 
+
+15 08-30015 
+ 
+
+Executive Office of the Secretary-General. In response to the Secretary-General’s 
+proposal in 2007 to place the Chief Information Technology Officer in a new Office 
+of Information and Communications Technology to be established in the Department 
+of Management (see A/61/765), the Advisory Committee on Administrative and 
+Budgetary Questions found insufficient justification for the proposal to reverse the 
+decision of the General Assembly, considering it important that the appointee be 
+given the opportunity to contribute to the formulation of the organizational structure 
+of the Office for which he or she would be responsible (A/61/804, paras. 4-5).  
+ 
+
+  Office of Information and Communications Technology  
+ 
+
+33. The Office of Information and Communications Technology (see fig. 4), 
+headed by the Chief Information Technology Officer, will be provided with the 
+critical resources to manage significant ICT activities that affect the entire 
+Organization. Without the proper authority and adequate resources under its direct 
+management, the Office must constantly negotiate for cooperation and/or the 
+resources to carry out strategic activities, resulting in ineffective and fragmented 
+implementation of ICT strategy and programmes. Therefore, to carry out its mandate 
+effectively, the Office is established as an independent unit, reporting directly to the 
+Executive Office of the Secretary-General.  
+
+34. The new ICT strategy has identified three broad areas of critical needs, 
+knowledge management, resource management and infrastructure management, 
+which must be addressed in a coherent manner across the Secretariat. This involves 
+working collaboratively with all substantive and support organizational units in the 
+Secretariat. In this regard, the Office of Information and Communications 
+Technology must be independent so as to maintain objectivity and neutrality in the 
+handling of supporting ICT administration, such as policy, architecture and 
+standards, budgeting and performance management.  
+
+35. The main functions of the Office of Information and Communications 
+Technology are to set overall strategic ICT directions for the Organization, plan and 
+coordinate Secretariat-wide ICT activities, and provide enterprise systems and 
+infrastructure (see fig. 4). More specifically, its functions include: 
+
+ (a) Developing the ICT strategy for the Secretariat and coordination of its 
+implementation; 
+
+ (b) Reviewing budgets from all funding sources for all ICT initiatives and 
+operations of the Secretariat; 
+
+ (c) Monitoring, measuring and evaluating the performance of ICT units 
+against established goals, objectives and budgetary targets, utilizing accountability 
+frameworks as appropriate (see para. 46); 
+
+ (d) Setting the technological direction and architecture for the Organization; 
+
+ (e) Planning and developing all organization-wide ICT applications, 
+including, inter alia, an enterprise resource planning system and other major 
+systems;  
+
+ (f) Planning and developing the overall infrastructure architecture 
+encompassing the communications networks and data centres of the Organization; 
+
+
+
+A/62/793  
+ 
+
+08-30015 16 
+ 
+
+ (g) Using the Organization’s global presence and ICT infrastructure to 
+develop and operate Secretariat-wide applications and infrastructure in order to 
+maximize benefits and cost-effectiveness; 
+
+ (h) Undertaking, in collaboration with other ICT units, ICT research and 
+development activities; 
+
+ (i) Overseeing the assessment and management of ICT risks for the 
+Organization; 
+
+ (j) Developing and maintaining the information security policy of the 
+Organization and monitoring compliance across operational units; 
+
+ (k) Managing the implementation of disaster recovery and business 
+continuity plans for the Organization;  
+
+ (l) Coordinating ICT human resources management programme and activities, 
+including staff development and mobility of all ICT staff in the global Secretariat; 
+
+ (m) Providing business consulting and project management methodologies 
+and services to all ICT units;  
+
+ (n) Monitoring, measuring and evaluating the performance and strategic 
+alignment of all projects and investment initiatives in the ICT project portfolio of 
+the global Secretariat; 
+
+ (o) Establishing ICT vendor management policies; reviewing and monitoring 
+purchasing and contract renewal activities;  
+
+ (p) Implementing quality assurance processes to ensure that all policies, 
+processes and standards are in compliance. 
+ 
+
+
+
+ A/62/793
+ 
+
+17 08-30015 
+ 
+
+  Figure 4 
+Information and communications technology units of the Secretariat 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Abbreviations: CITO, Chief Information Technology Officer; CRM, customer relationship management; DAM, digital asset 
+management; ECM, enterprise content management; ERP, enterprise resource planning; GIS, geographic information system; 
+IM, infrastructure management; IMIS, Integrated Management Information System; KM, knowledge management; 
+LAN/WAN, local area network/wide area network; OAH, Offices away from Headquarters; ODS, Official Document System; 
+OICT, Office of Information and Communications Technology; RM, resource management; RSS, rich site summary; SAN, 
+storage area network. 
+
+Ed. note: RSS = format for sharing content among different websites; SAN = high-speed subnetwork of shared storage devices, 
+which works in a way that makes all storage devices available to all servers on a LAN or WAN; GIS = information 
+management systems tied to geographic data; CRM = functions and programmes used to connect with customers/facility of 
+integrating every aspect of IT that relates to the customer. 
+
+ 
+ 
+
+36. In this model, the Office of Information and Communications Technology 
+leads the implementation of ICT strategic programmes and provides centralized 
+shared services (e.g., core applications, network infrastructure, service desks etc.) to 
+all organizational units in the Secretariat and potentially to other United Nations 
+organizations. Many United Nations organizations have already implemented this 
+shared services model and, according to the leading ICT consulting firm (Gartner, 
+Inc.), there is a strong global trend towards the recentralization of ICT operations. 
+
+CITO
+
+HQ 
+services 
+
+Field 
+services 
+
+OAH
+services
+
+KM
+services
+
+RM
+services 
+
+IM 
+services
+
+DESA 
+DGACM 
+
+DM 
+DM/OCSS/CMP 
+
+DM/OHRM 
+DM/OPPBA 
+
+DPA 
+DPI 
+
+DPKO/DFS 
+DSS 
+
+OCHA 
+ODA 
+
+OHRLLS 
+OIOS 
+OLA 
+
+MINURCAT 
+UNAMID 
+UNMIS 
+UNOCI 
+UNMIL 
+
+MONUC 
+UNMEE 
+
+MINURSO 
+MINUSTAH 
+
+UNMIT 
+UNMOGIP 
+UNFICYP 
+UNOMIG 
+UNMIK 
+UNDOF 
+UNIFIL 
+UNTSO 
+
+UNON
+UNOG
+UNOV
+
+UNODC
+UNCTAD
+
+UNEP
+UN-HABITAT
+
+ECA
+ECE
+
+ECLAC
+ESCAP
+ESCWA 
+OHCHR
+UNRWA
+
+ ITY
+ICTR
+
+Strategic 
+management 
+
+Architecture  
+and standards 
+
+Service desk
+. Workstation
+Management
+
+. Help desk
+
+Data centre 
+management
+. Server/SAN
+Management
+
+. E-mail 
+
+. Identity mgt
+
+Communication 
+management
+. LAN/WAN
+. Voice and
+messaging
+
+Current ERP 
+. IMIS
+. Galaxy
+
+New ERP:
+. Budget
+. Finance
+. Human Res. 
+. Supply chain 
+. Fixed assets 
+. Travel
+
+Special Systems 
+. CRM
+. Meeting
+Services
+
+Content 
+management
+. Taxonomy
+. ECM
+. ODS
+. DAM
+. Subscription
+
+Web 
+management
+. Web content
+management
+
+. Search
+
+. GIS
+
+. Portal/RSS
+
+. Web
+collaboration
+
+OICT
+
+ICT services focus Client services focus
+
+Other ICT Units 
+
+
+
+A/62/793  
+ 
+
+08-30015 18 
+ 
+
+Gartner reports that over 90 per cent of large organizations have centralized their 
+ICT operations to take advantage of efficiency gains resulting from streamlining, 
+standardization and consolidation of similar systems and services.  
+ 
+
+  Strategic management unit 
+ 
+
+37. The strategic management unit will oversee the functional requirements of the 
+Office of Information and Communications Technology, including overall 
+management of the implementation of the ICT strategy, as well as Secretariat-wide 
+ICT planning. Budget formulation, expenditure monitoring and ICT staff career 
+development are also included among its functions. 
+
+38. Within the strategic management unit, a project management office is 
+established to provide business consulting and project management services, 
+including portfolio management, process re-engineering, business-case development 
+and project reviews. The development of all new ICT projects, whether customized 
+systems or the result of acquisitions of software packages, regardless of their source 
+of funding, is subject to review by the project management office. The review 
+process is intended to ensure proper strategic direction and coherence across the 
+Organization. Project assessment, including benefit analysis and return on 
+investment, are also examined. However, the ultimate authority for assigning 
+priorities to and approving major ICT projects resides with the executive committee 
+on information and communications technology, the appropriate steering committees 
+and the Chief Information Technology Officer. To help review a project proposal, 
+the project management office ensures that a standard business case is prepared for 
+each project, facilitates the presentation of the case by its sponsor to the Chief 
+Information Technology Officer for endorsement and, subsequently, with the 
+support of the Chief Information Technology Officer, its submission to the 
+appropriate steering committee for approval. 
+ 
+
+  Architecture and standards unit 
+ 
+
+39. The architecture and standards unit will coordinate Secretariat-wide 
+technology planning and assessment activities, and be responsible for developing 
+and maintaining overall ICT architecture, goals, principles and standards 
+(technology and process). In addition, it will oversee the development of the 
+Organization’s information security policy, serve as the centre of excellence in ICT 
+quality control management, and ensure compliance and assume responsibility for 
+planning and coordinating the Organization-wide disaster recovery and business 
+continuity activities. This unit will also undertake technology research and 
+development efforts, in collaboration with other ICT units. 
+
+40. To meet the objective of closely aligning business requirements with ICT 
+services, two additional sets of units will be established, with the goal of providing 
+client services and ICT services. These units, together with the other core 
+components, complete the organizational structure of the Office of Information and 
+Communications Technology. Each of these functional components will address a 
+fundamental need in managing and delivering ICT programmes and services to the 
+Secretariat.  
+ 
+
+
+
+ A/62/793
+ 
+
+19 08-30015 
+ 
+
+  ICT services units 
+ 
+
+41. This area comprises three functional units which, together, define many of the 
+fundamental ICT activities noted as critical to the operation of the Organization, 
+namely, infrastructure management, resource management and knowledge 
+management. The responsibilities of the units are as follows: 
+
+ (a) Knowledge management services. This unit has the responsibility for 
+overseeing efforts to capture and share the Secretariat’s most important asset: its 
+knowledge base. It oversees the work on content management and web management. 
+Through the development and management of tools such as Web-based services, 
+collaborative environments and document repositories, this unit will enhance the 
+Organization’s ability to gather, store and deliver these valuable resources. Included 
+in the unit’s mandate is responsibility for improving information management 
+policies, architecture and standards for all information; also included is oversight of 
+search facilities, archives and all electronic repositories;  
+
+ (b) Resource management services. This unit works closely with departments 
+across the Organization to develop tools and techniques to improve institutional 
+policies and work processes for the effective management of financial, human and 
+other resources. It comprises a project team focused on the development of a new 
+enterprise resource planning system, a support service that will maintain the 
+Integrated Management Information System (IMIS) and other existing systems. In 
+addition, a team to implement service-delivery and workflow-based applications is 
+included. All systems development activities, ranging from financial management to 
+conference services, require a dedicated team of knowledgeable and talented 
+software and business professionals. The resource management unit brings them 
+together to construct and manage these critical applications;  
+
+ (c) Infrastructure management services. This unit forms the basis for all 
+other ICT services, and consists of the tools and techniques required to plan, build 
+and manage the global ICT environment. Reporting to the Chief Information 
+Technology Officer, this unit not only develops the Secretariat-wide infrastructure 
+architecture, but operates the global service desk and oversees the central data 
+centres that house and safeguard all Secretariat-wide data. In addition, this unit is 
+responsible for a range of hardware and software-related services, including desktop 
+computing, and for providing global data and voice communications services. The 
+infrastructure management services literally form the backbone of the 
+Organization’s ability to operate, and the unit has the mandate to deliver these 
+services wherever United Nations personnel are located.  
+
+  Client services 
+ 
+
+42. While providing core technological capabilities to the Organization remains 
+the foundation of all ICT activities, the effective delivery of services requires close 
+alignment with all departments, offices and missions. To achieve this, the Office of 
+Information and Communications Technology comprises three other structures 
+dedicated to maintaining this close organizational association. Each structure 
+contains a cluster of local ICT units, namely, New York-based services, offices away 
+from headquarters, and field services. Each unit is led by a senior client services 
+manager who reports directly to the Chief Information Technology Officer. These 
+client services units are accountable and responsible to their respective 
+organizational units for the full range of ICT programmes and services available. 
+
+
+
+A/62/793  
+ 
+
+08-30015 20 
+ 
+
+The professionals who serve in this capacity must build strong relationships with 
+their clients to ensure the strategic alignment of ICT to substantive work 
+programmes and to ensure continuous customer satisfaction for all of the 
+departments within their purview.  
+ 
+
+  Other ICT units 
+ 
+
+43. The ICT strategy recognizes that not all ICT programmes and services are best 
+delivered from a central location, and that some local ICT units provide common 
+services to other institutions. In these instances, a complementary governance 
+mechanism at the duty station level will be defined and implemented. Establishing a 
+careful balance between Secretariat-wide activities and those at and among 
+departments will help to ensure that ICT services are delivered efficiently and 
+effectively. A significant level of authority will remain with local ICT units. The 
+objective is to centralize resources within the Office of Information and 
+Communications Technology for initiatives that impact upon the entire Secretariat 
+while empowering departmental ICT units to focus on their own unique 
+requirements. The goal is to avoid the current fragmentation of ICT without creating 
+excessive layers of management. Achieving this balance requires a close working 
+relationship between the Office of Information and Communications Technology 
+and the heads of other ICT units, as well as a combination of both management 
+oversight and advisory structures. 
+
+44. Client services managers are responsible for working with local ICT managers 
+to identify enterprise needs, determine local participation requirements and ensure 
+that adequate resources are available to support enterprise-wide initiatives. They 
+will work with local ICT managers to plan, prepare and review local ICT budgets 
+with the Office of Information and Communications Technology, coordinate human 
+resources activities, synchronize local and enterprise project portfolios, coordinate 
+issues related to policy, standards and architecture, balance resources with demand 
+and ensure a customer-based and integrated approach to the delivery of projects that 
+span multiple strategic programmes. At the ICT strategic planning retreat held in 
+February, extensive discussions were held on the roles and responsibilities between 
+the Office of Information and Communications Technology and other ICT units (a 
+matrix that captures the proposed roles and responsibilities arising from the 
+discussion will be made available in a separate document).  
+
+45. The heads of local ICT units will continue to report directly to their existing 
+supervisors in their respective organizations. However, they will also be accountable 
+for the implementation of Organization-wide ICT strategy, policies and standards, as 
+directed by the Office of Information and Communications Technology. Local ICT 
+managers will liaise with one of the three client services units of the Office of 
+Information and Communications Technology but may engage directly with the 
+Chief Information Technology Officer on all urgent and substantial ICT matters. 
+Local ICT managers will become members of a Secretariat-wide ICT leadership 
+council, chaired by the Chief Information Technology Officer, and will meet several 
+times each year to discuss ICT strategy, performance and management issues. The 
+group will also hold regular videoconferences to coordinate ICT activities across the 
+board. 
+
+46. Finally, to ensure that local ICT managers perform at the expected level, a 
+formal mechanism will be established between the Office of Information and 
+
+
+
+ A/62/793
+ 
+
+21 08-30015 
+ 
+
+Communications Technology and the managers to monitor the quality of service, 
+strategic alignment, and compliance with Secretariat-wide policies and procedures.  
+ 
+ 
+
+ IV.  Implementation plan  
+ 
+ 
+
+ A. Approach 
+ 
+ 
+
+47. The ICT strategy will allow the Secretariat to reduce the current high level of 
+fragmentation in ICT activities and deliver more effective and efficient ICT work 
+programmes and services. The strategy will also permit the Secretariat to take 
+advantage of synergies among various ICT efforts and of economies of scale, 
+resulting in a global ICT organization that effectively supports the work of the 
+Secretariat. Each strategic programme, along with a time frame for implementation 
+and organizational benefits, is presented in section B below. 
+
+48. It is expected that the implementation of the ICT strategy will take place over 
+three to five years, subject to management priorities and the availability of resources 
+and other support. The strategy will be implemented through close coordination of 
+work among all relevant parties, including management oversight committees, 
+advisory bodies, user organizations and the global ICT organization. Key 
+implementation activities will include the establishment of new management 
+structures, extensive business analysis to develop programme objectives and scope, 
+and assignment of priorities at the programme and project levels.  
+
+49. To carry out the ICT strategy and effectively achieve programme objectives, 
+the following activities will be undertaken during the implementation phase:  
+
+ (a) Establishment of an executive committee on information and 
+communications technology; 
+
+ (b) Establishment of steering committees for the knowledge management, 
+resource management and infrastructure management programmes; 
+
+ (c) Establishment of a project management office and a new investment 
+management and business case process; 
+
+ (d) Completion of an inventory and assessment of existing ICT assets; 
+
+ (e) Creation of an interim financial management model; 
+
+ (f) Development of new business cases and investment proposals; 
+
+ (g) Completion of inventory and assessment of existing project portfolio; 
+
+ (h) Review and prioritization of both existing and proposed projects by each 
+steering committee; 
+
+ (i) Review, prioritization and approval of initiatives and projects by the 
+executive committee;  
+
+ (j) Rebalancing exercise to align resources with highest priority projects and 
+initiatives;  
+
+ (k) Creation of a staffing plan and proposal to meet resource needs beyond 
+rebalancing of existing staff and contractors.  
+
+
+
+A/62/793  
+ 
+
+08-30015 22 
+ 
+
+50. The following principles will be applied during the implementation:  
+
+ (a) Organization-focused ICT investments. All ICT endeavours (apart from 
+infrastructure projects) will be considered business projects rather than technology 
+projects. As such, justification and prioritization of ICT programmes and projects 
+will be based on inputs from user and ICT organizations. In particular, the steering 
+committees for knowledge management and resource management programmes will 
+play an important role in the planning, development and implementation of 
+programmes and projects under their purview; 
+
+ (b) Modular and phased implementation. Significant efforts will be made to 
+break down a strategic programme into smaller projects or efforts so that a set of 
+specific capabilities can be deployed in a phased manner in order to achieve the 
+early realization of benefits. This approach will also allow the Secretariat to better 
+manage implementation risks and project costs;  
+
+ (c) Time-boxing approach. This is an iterative development approach that 
+enables functionality to be delivered in parts. Each iteration is completed in a time 
+box of fixed duration. Functionality to be delivered is adjusted to fit the time box. 
+This is an effective way to manage risks and reduce product delivery time. The ICT 
+strategy will utilize this approach, when appropriate, in implementing development 
+projects;  
+
+ (d) Fast-track initiatives. While carrying out long-term strategic programmes 
+and projects, the ICT strategy will make every effort to implement technical 
+solutions as quickly as possible. This approach will require frequent monitoring of 
+service levels so as to maintain a high level of customer satisfaction throughout the 
+development life cycle; 
+
+ (e) Provision of reliable ICT services during strategic change. It is important 
+to ensure that all existing ICT projects and services are carried out in an efficient 
+and reliable manner. Significant attention must be paid to ensuring the provision of 
+reliable ICT services during this period and to minimizing the impact on existing 
+projects and services. 
+ 
+ 
+
+ B. Implementation of the strategy  
+ 
+ 
+
+51. To ensure strict alignment with institutional drivers, as described in previous 
+sections and in detail in annex II, three programmes are identified which are 
+implemented by directly corresponding ICT service units in the Office of 
+Information and Communications Technology. Each programme is a group of 
+initiatives comprising what ICT will do, in accordance with the strategy and 
+utilizing the management framework, to achieve the vision that has been articulated 
+in response to the drivers. Each programme has a focus, rationale and proposed time 
+frame (see tables 1-3). 
+
+52. Once the ICT strategy and the management framework are established, they 
+will be put into operation to identify, rationalize, detail (cost and schedule), justify 
+and assign priorities among the initiatives for each programme. For each identified 
+initiative, a business case will be developed, under the guidance of the project 
+management office of the strategic management unit, to present concisely costs, 
+benefits and return on investment. Collectively, the initiatives will be rationalized 
+by the project management office to eliminate duplication, ensure the conformance 
+
+
+
+ A/62/793
+ 
+
+23 08-30015 
+ 
+
+of standards and make use of comparable measures for resource requirements and 
+realization of benefits. The business cases for the initiatives can then be 
+transparently considered by the steering committees and prioritized for 
+implementation by ICT units, including new investments and/or the redirection of 
+existing resources. 
+
+53. Estimated initiation time frames are included for each strategic programme. 
+Time frames are based on views and priorities expressed during the organization-
+wide interview process and on discussions with other stakeholders and ICT service 
+providers. The selection of initiatives and time frames for their implementation will 
+be determined by the executive committee on ICT and the steering committees, 
+subject to Organization-wide prioritization and availability of resources.  
+ 
+
+  Knowledge management programme 
+ 
+
+54. The goal of the knowledge management programme is to provide an effective 
+collaborative environment in which United Nations personnel and stakeholders 
+capture, share and own the substantive knowledge relevant to their expertise. For 
+example, the Secretariat is host to a number of in-house experts and the knowledge 
+management programme will provide the tools to take advantage of expertise both 
+within the Organization and among all stakeholders. In addition, all personnel 
+generate and contribute to areas of expertise (both substantive and administrative); 
+such contributions should be retained after they leave. Likewise, the operations of 
+the Secretariat often generate knowledge as a by-product (e.g., in the conduct of a 
+field mission or humanitarian effort). Similarly, specific functions of the 
+Organization, such as the work of the international tribunals, create a legacy of 
+knowledge based upon legal precedence, which can and should be made more easily 
+available to relevant communities of practice and to the international research 
+community at large. Processes, best practice and lessons learned can be more 
+uniformly kept and made accessible with the help of knowledge management tools 
+and policies. 
+
+55. By taking advantage of both mature and leading-edge knowledge management 
+technologies in the market, such as collaborative applications (e.g., wikis, weblogs 
+and other Web 2.0 tools) and visualization applications, such as geographic 
+information systems, the knowledge management programme will facilitate 
+organizational innovation and provide United Nations personnel and stakeholders 
+with the ability to fully apply the knowledge they produce. This programme will 
+also support such initiatives as search tools to help locate relevant information 
+quickly and easily and the analytical tools that support good decision-making.  
+
+56. This programme will provide the enabling policies, work processes, standards 
+and technological tools for knowledge management activities, while departments 
+and offices provide and own substantive content. For example, a new approach to 
+the public website of the United Nations will be one of the key initiatives under the 
+knowledge management programme, effectively transforming the site into a 
+knowledge-sharing platform that will serve all stakeholders throughout the world. 
+Collaborative efforts to establish the website, http://www.un.org, as the gateway for 
+finding information on the substantive and support activities of the United Nations 
+are currently under way and include the involvement of the Chief Information 
+Technology Officer in a web governance committee that is to be chaired by the 
+Department of Public Information. Other potential projects include Secretariat-wide 
+
+
+
+A/62/793  
+ 
+
+08-30015 24 
+ 
+
+information management policies and standards, implementation of web-content 
+management and document management systems, knowledge-sharing and 
+collaborative networks, and web-based tools for permanent missions.  
+
+57. Benefits include providing United Nations substantive programmes, Member 
+States and the global public with access to relevant, easy-to-find information on 
+specific issues. Overall, improved information management policies, standards, 
+processes and infrastructure support an environment in which the United Nations 
+becomes an authoritative knowledge broker, most notably within the scope of its 
+three main pillars: peace and security, development and human rights. 
+
+58. Table 1 summarizes the goals, objectives, potential strategic initiatives, 
+proposed time frame and organizational benefits associated with creation of the 
+knowledge management programme. 
+ 
+
+Table 1 
+Knowledge management programme 
+
+ 
+ 
+
+Focus, rationale and time frame of the resource management programme 
+
+Goal 
+
+Provide an effective collaborative environment in which United Nations personnel and their stakeholders 
+capture, share and own the substantive knowledge relevant to their expertise. 
+
+Objectives: 
+• Retain institutional knowledge 
+
+ • Facilitate and enhance knowledge-sharing and 
+collaboration 
+
+ • Improve organization, accessibility and 
+usability of information 
+
+ • Utilize open-source solutions where 
+appropriate 
+
+ • Improve websites and web-content management 
+ • Improve and enhance analytical and decision 
+
+support capabilities 
+ • Improve information management policies and 
+
+processes 
+
+Strategic initiatives Time framea Organizational benefits 
+
+Digitization   
+
+Digitize paper documents in conjunction 
+with the capital master plan. 
+
+Near term Loss of institutional memory during the capital 
+master plan process is averted. Costs and risks 
+associated with hard-copy storage are reduced. 
+
+Portal for Member States   
+
+Implement a portal to provide Member 
+States with the tools to locate, use and 
+exchange information and data. 
+
+Near term A portal dedicated to Member States will provide 
+timely, up-to-date information and data specific to the 
+needs of delegations. 
+
+
+
+ A/62/793
+ 
+
+25 08-30015 
+ 
+
+Information management policy   
+
+Establish Secretariat-wide information 
+management policies, processes and 
+standards. Includes security, taxonomy, 
+retention etc. 
+
+Near term Consistent, secure and up-to-date content and data. 
+Data formats are universally accessible and 
+shareable. 
+
+Web content management   
+
+Transform the United Nations website, 
+http://www.un.org, into a rich, multimedia 
+knowledge-sharing platform. Provide for 
+consistent user interface, robust search 
+and improved content management. 
+
+Near term The United Nations website, http://www.un.org, is 
+the established gateway for finding information on 
+substantive, administrative and operational activities 
+of the United Nations. 
+
+Create a collaborative and sharing 
+environment 
+
+  
+
+Introduce enhanced tools for 
+collaboration and for sharing of 
+information. 
+
+Near term The necessary technical and policy components for 
+knowledge-sharing are established and the enabling 
+environments are available for use. 
+
+Data gateway (UNData)   
+
+Promote and support a UN system-wide 
+gateway for sharing statistical 
+information. 
+
+Near term United Nations statistical data are consistent, 
+accessible and easy to share. The environment makes 
+it easier for entities outside the United Nations to 
+share statistical data with the Organization. 
+
+Web content management, 
+Secretariat-wide 
+
+  
+
+Migrate other Secretariat-wide websites 
+(iSeek, United Nations online Network of 
+Regional Institutions for Capacity-
+building in Public Administration and 
+Finance (UNPAN), My UN etc.), to the 
+new web-content management 
+environment. 
+
+Near to 
+medium 
+
+term 
+
+Secretariat-wide websites are easy to update, have a 
+common look and feel and provide United Nations 
+staff and the global public with information on 
+substantive programmes that is easy to locate and up 
+to date. 
+
+Digital asset management   
+
+Implement advanced digital asset 
+management capabilities. 
+
+Near to 
+medium 
+
+term 
+
+Digital resources are easily accessible and available 
+for repurposing. Web publishing is improved. 
+Communication is enhanced and reaches a wider 
+audience. 
+
+Document management   
+
+Implement a Secretariat-wide content 
+management facility to manage official 
+documents, records and business 
+correspondence. Design and implement 
+workflow and processes. Migrate content 
+from the Official Document System and 
+other content repositories. 
+
+Near to 
+medium 
+
+term 
+
+Enhanced search capability and faster retrieval of 
+unstructured documents within content repositories. 
+Document security, integrity and version control are 
+improved. Document storage requirements (cost and 
+space) are reduced. 
+
+
+
+A/62/793  
+ 
+
+08-30015 26 
+ 
+
+Enterprise portal   
+
+Implement an enterprise portal facility to 
+enable user interface customization, 
+simplify access and provide a single sign-
+on capability. 
+
+Near to 
+medium 
+
+term 
+
+Integrated and comprehensive portal technologies 
+allow users to access the most relevant information 
+more quickly. 
+
+Enterprise search   
+
+Implement an enterprise search engine to 
+improve accessibility to information 
+across all media types. 
+
+Near to 
+medium 
+
+term 
+
+Enables quick search and retrieval of information 
+contained in databases, websites, and internal and 
+external data repositories. 
+
+Archives and record management   
+
+Enhance institutional record management 
+and archival capabilities. 
+
+Near to 
+medium 
+
+term 
+
+Institutional knowledge is retained and preserved. 
+Capital master plan project is used to improve 
+archival processes. 
+
+Knowledge hubs   
+
+Create knowledge hubs for specific 
+communities of practice, regional groups, 
+specialized thematic areas etc. 
+
+Near to 
+medium 
+
+term 
+
+United Nations substantive programmes, Member 
+States and the global public have access to 
+information on specific issues that is relevant and 
+easy to find. The United Nations becomes an 
+authoritative knowledge broker. 
+
+ 
+
+ a Near term refers to one to two years and medium term to three to five years. Actual delivery time frames will be determined 
+by the steering committee for the knowledge-management programme and subject to Organization-wide prioritization and the 
+availability of resources.  
+
+ 
+ 
+ 
+
+  Resource management programme 
+ 
+
+59. The resource management programme will focus resources from throughout 
+the United Nations Secretariat on a set of cross-cutting, mission-critical initiatives. 
+The goal of the programme is to support management reform by improving 
+performance, accountability and transparency and to enable the rapid mobilization 
+of resources. Specifically, the programme will improve the Organization’s ability to 
+manage, effectively and efficiently, human, financial and physical resources. To 
+achieve these goals, work processes will be streamlined to improve the operational 
+performance of the Organization.  
+
+60. The programme will provide the facilities to conduct these operations, 
+including specific capabilities to support the logistical and other critical and time-
+sensitive needs that are characteristic of them. Another important objective of this 
+programme is to provide improved support for decision-making by linking 
+programmes and operations with resource data. By establishing transparent access 
+and providing timely information, better management of programmes can result. 
+Sample projects for this programme include a talent management system, a 
+procurement system, an employee self-service portal, enterprise identity 
+management and a strategic decision support system.  
+
+61. Benefits include increased operational effectiveness, improved accountability, 
+especially of senior managers, compliance with best practice and standards such as 
+
+
+
+ A/62/793
+ 
+
+27 08-30015 
+ 
+
+the International Public Sector Accounting Standards, and enhanced transparency in 
+the utilization of financial, human and other resources. The Secretariat will realize 
+substantial efficiency gains on the part of administrative support staff and a 
+productivity gain on the part of the staff at large owing to the automation of 
+administrative work. In addition, the new resource management systems will result 
+in substantial cost savings as a result of the elimination of redundant information 
+technology systems and the consolidation of purchasing activities. 
+
+62. Table 2 summarizes the goals, objectives, potential strategic initiatives, 
+proposed time frame and organizational benefits associated with creation of the 
+resource management programme. 
+ 
+
+Table 2 
+Resource management programme 
+
+ 
+ 
+
+Focus, rationale and time frame of the resource management programme 
+
+Goal 
+
+Support management reform by providing institutional capabilities for effectively managing human, financial 
+and physical resources. 
+
+Objectives 
+
+• Increase transparency, accountability and results • Increase staff learning and capacity-building 
+
+• Improve administrative policies, processes and 
+coordination 
+
+• Improve delivery of services, including conference 
+services 
+
+• Manage resources more efficiently • Enhance staff security 
+• Make informed decisions based on reliable and 
+
+timely data 
+• Strengthen deployment capabilities and effective 
+
+support for field operations 
+
+• Utilize open-source solutions where appropriate  
+Strategic initiatives Time framea Organizational benefits 
+
+Resource management   
+
+Implement enterprise resource management, which will 
+include human resource administration and talent 
+management, financial management and logistical and 
+supply chain management. 
+
+Near term Improved management of financial, 
+human and other resources. 
+
+Enterprise portfolio management system   
+
+Implement applications to create, manage and align the 
+ICT project and investment portfolio with the business 
+strategy. 
+
+Near term ICT projects and investments are 
+aligned with departmental/office goals 
+and objectives. Improved business 
+case process as regards approval and 
+prioritization of projects. 
+
+
+
+A/62/793  
+ 
+
+08-30015 28 
+ 
+
+Conference and meeting management   
+
+Implement a comprehensive system that will provide 
+integrated documentation, translation and logistical 
+support for United Nations meetings and conferences. 
+
+Near term Improved management of meetings 
+and of document creation, translation, 
+dissemination and workflow in 
+relation to meetings and conferences. 
+
+Customer relationship management   
+
+Implement a service-level management process to 
+improve the delivery of information technology 
+services and to comply with the Information 
+Technology Infrastructure Library (ITIL) and 
+international standards for service delivery. Implement 
+a global request management system to improve the 
+delivery of ICT and facility services. Provide customer 
+self-service capabilities where appropriate. Implement 
+an integrated contact, meeting, trip, and event 
+management and scheduling system for the Office of 
+the Secretary-General. 
+
+Near term Improved responsiveness, timeliness, 
+efficiency and quality of ICT and 
+facility services. Higher customer 
+satisfaction and consistent customer 
+experience across service providers 
+and channels. Transparent access to 
+performance management data 
+enabling monitoring and improvement 
+of service levels. Productivity gains 
+through process re-engineering and 
+adoption of best practices. 
+
+Security system   
+
+Improve and implement comprehensive staff and 
+facility security systems. Implement a global United 
+Nations laissez passer system to issue and track United 
+Nations passports. Create a single Organization-wide 
+view of travel document data. 
+
+Near to 
+medium term
+
+Increased security of staff at duty 
+stations and while on travel. Improved 
+ability to locate staff and notify others 
+in case of emergency. Compliance 
+with audit recommendations of the 
+Office of Internal Oversight Services. 
+
+Decision support system   
+
+Implement business intelligence tools, including 
+advanced analytics, predictive modelling and ad hoc 
+reporting. Provide managers and staff with easy access 
+to transactional data at the departmental and 
+organizational level. 
+
+Near to 
+medium term
+
+More timely and fact-based decision-
+making. Enhanced transparency and 
+managerial accountability. 
+
+Space management   
+
+Implement computer-aided facilities management 
+software to support global real estate and space 
+management 
+
+Medium term Reduced planning time and increased 
+support for data analysis activities. 
+Reduced moving and operating costs. 
+Space utilization is optimized. 
+
+ 
+
+ a Near term refers to one to two years and medium term to three to five years. Actual delivery time frames will be determined 
+by the steering committee for the resource management programme and subject to Organization-wide prioritization and the 
+availability of resources. 
+
+ 
+ 
+
+
+
+ A/62/793
+ 
+
+29 08-30015 
+ 
+
+  Infrastructure management programme 
+ 
+
+63. The goal of the infrastructure management programme is to strengthen the 
+global ICT infrastructure to support effectively Secretariat programmes and 
+operations throughout the world. This requires the consolidation and standardization 
+of infrastructure components to enable their more predictable and efficient 
+management on a global basis. To be effective, personnel at all duty stations require 
+a readily available and highly performing ICT infrastructure which provides the 
+basic services for the other ICT programmes of resource management and 
+knowledge management. With a consistent, manageable, global infrastructure, the 
+Secretariat can harmonize activities with other United Nations organizations and 
+external partners. Specifically, the global Secretariat network will be strengthened 
+and remote access capability will be improved. To ensure the continued operation of 
+the global Secretariat during disasters or other organizational interruptions and to 
+assist in the protection of resources, including information assets and personnel, a 
+comprehensive set of plans will address each location and the enterprise as a whole, 
+especially in regard to the ICT aspects of business continuity and disaster recovery.  
+
+64. The services related to infrastructure will be consolidated and extended 
+globally, and will provide a service desk for the entire Organization operating 
+24 hours a day, seven days a week. The global scope of infrastructure will make it 
+feasible to uniformly adopt international standards related to service management, 
+that is, the International Organization for Standardization (ISO) standard 20000 for 
+information technology service management, which defines an integrated process 
+for delivering managed services to meet organizational requirements. Other best 
+practices and international standards will be implemented globally, for example, the 
+ISO 27000 series for information security management, which encompasses security 
+control objectives and a recommended set of specific security controls.  
+
+65. These improvements to infrastructure will allow United Nations personnel to 
+communicate anytime, anywhere, enable support to be provided around the clock by 
+a global help desk and provide enhanced videoconferencing services. This is made 
+possible by a global communications network that is robust and reliable, providing 
+common services for the Secretariat and for other United Nations organizations in 
+the future. New investments in ICT infrastructure, to be set forth in ICT standards 
+and policies, will promote green technologies, in conformity with the Secretary-
+General’s greening initiatives. 
+
+66. Table 3 summarizes the goals, objectives, potential strategic initiatives, 
+proposed time frame and organizational benefits associated with creation of the 
+infrastructure management programme. 
+ 
+
+
+
+A/62/793  
+ 
+
+08-30015 30 
+ 
+
+Table 3 
+Infrastructure management programme 
+
+ 
+ 
+
+Focus, rationale and time frame of the infrastructure management programme 
+
+Goal 
+
+Strengthen global ICT infrastructure to support effectively the programmes and operations carried out by the 
+Secretariat throughout the world. 
+
+Objectives 
+
+• Improve network connectivity and performance • Provide enhanced videoconferencing facilities 
+
+• Improve ICT service desk support • Enhance information security and privacy 
+• Improve mobile and remote access capabilities • Improve ICT service delivery 
+• Provide effective crisis management and business 
+
+continuity 
+• Utilize open-source solutions where appropriate 
+
+Strategic initiatives Time framea Organizational benefits 
+
+Identity management   
+
+Create an authenticated directory of United Nations 
+personnel. 
+
+Near term Streamlined access to information, 
+applications, facilities and services 
+etc. 
+
+Remote access and mobility   
+
+Provide staff with the ability to access the United 
+Nations system from home and while travelling. 
+
+Near term Increased access to information and 
+services in the field. Higher staff 
+productivity. Promotion of work/life 
+balance. 
+
+Disaster recovery business continuity   
+
+Provide disaster recovery capabilities and business 
+continuity plan. 
+
+Near term Improved preparedness in cases of 
+natural or man-made disaster. 
+Minimal disruption to critical United 
+Nations operations and services. 
+
+Internet protocol (IP) telephony for Headquarters 
+and offices away from Headquarters 
+
+  
+
+Replace conventional telephone system with an 
+IP-based telephone system. 
+
+Near term Provide a more cost-effective 
+telephone system with more flexible 
+managerial capabilities. 
+
+
+
+ A/62/793
+ 
+
+31 08-30015 
+ 
+
+Infrastructure rationalization   
+
+Continue consolidation, standardization and 
+streamlining of communications and information 
+technology infrastructure. 
+
+Near term More efficient operation of 
+infrastructure. 
+
+Green technology   
+
+Issue policy guidelines for the procurement, use and 
+disposition of technology equipment. 
+
+Near term Compliance with the Secretary-
+General’s greening initiatives and 
+increased contributions by the 
+Secretariat to addressing global 
+environmental issues. 
+
+Videoconferencing   
+
+Increase the use of videoconferencing and improve 
+capabilities. 
+
+Near to 
+medium term
+
+Decrease travel time and costs, and 
+contribute to broader United Nations 
+greening initiatives. 
+
+Global service desk   
+
+Establish an around-the-clock global help desk. Near to 
+medium term
+
+Provide consistent, cost-effective 
+support services to users anytime, 
+anywhere. Improved provision of 
+services. 
+
+Bandwidth (connectivity)   
+
+Provide improved connectivity to all United Nations 
+departments and offices. 
+
+Near to 
+medium term
+
+Ability of United Nations personnel 
+to carry out their work more 
+effectively and efficiently. 
+
+ 
+
+ a Near term refers to one to two years and medium term to three to five years. Actual delivery time frames will be determined 
+by the steering committee for the infrastructure management programme and subject to Organization-wide prioritization and 
+the availability of resources. 
+
+ 
+ 
+ 
+
+ C. Implementation of the management framework 
+ 
+ 
+
+67. Implementation of the proposed new ICT organizational structure will require 
+careful planning and preparation to ensure that operational risks are managed and 
+that all ICT staff are fully engaged during the restructuring process. The Advisory 
+Committee on Administrative and Budgetary Questions has stated that the Chief 
+Information Technology Officer should head an office which would integrate the 
+Information Technology Service of the Department of Management and the 
+Information and Communications Technology Division of the Department of Field 
+Support (at that time known as the Communication and Information Technology 
+Service of the Department of Peacekeeping Operations), and provide Secretariat-
+wide leadership, including for information technology functions of offices away 
+from Headquarters (A/62/7/Add.31, para. 36) and that the Organization would 
+
+
+
+A/62/793  
+ 
+
+08-30015 32 
+ 
+
+benefit greatly by having in place a more centralized approach to managing ICT 
+initiatives and operations (A/60/7, para. VIII.47). 
+
+68. In accordance with the expressed intent of the General Assembly, steps have 
+been taken to establish the Office of Information and Communications Technology 
+as an independent unit reporting and accountable directly to the Executive Office of 
+the Secretary-General. It is proposed that the Office of Information and 
+Communications Technology be established through the integration of existing 
+resources from the Information Technology Services Division of the Department of 
+Management and the Information and Communications Technology Division of the 
+Department of Field Support, which together comprise approximately 433 staff and 
+contractors. Accordingly, the Office of Information and Communications 
+Technology would manage all of the related ICT facilities in New York along with 
+the commensurate budgetary allocations, as well as relevant ICT staff, data centres 
+and information-related facilities at the United Nations Logistics Base (UNLB), in 
+Brindisi, Italy. 
+
+69. The main rationale for the integration of staff and facilities is to provide the 
+Office of Information and Communications Technology with the critical resources to 
+plan, develop and manage strategic ICT activities that affect the entire Organization. 
+Integration of the two main ICT units at United Nations Headquarters and UNLB 
+will provide a larger base of ICT systems and support structures which can then 
+serve as a critical mass for carrying out Secretariat-wide ICT programmes and 
+services. In addition, the ICT facilities at UNLB are strategic assets for the 
+Organization and will soon become the global hub for a number of Secretariat-wide 
+programmes. These include hosting of enterprise systems (e.g., knowledge-sharing 
+systems and enterprise resource planning system), global connectivity, business 
+continuity operations, centralized service desks etc. It is envisaged that the new 
+management framework (see table 4) will be implemented in two phases over a 
+12-month period.  
+
+70. During phase I (July-December 2008), the Office of Information and 
+Communications Technology will review the structures and resources of the 
+Information Technology Services Division and the Information and 
+Communications Technology Division with a view to integrating their structures. 
+Proposals to this effect will be submitted to the General Assembly at its sixty-third 
+session. Management oversight committees and advisory bodies will be formed and 
+strategic programmes will be formally launched. In line with this proposal and 
+ongoing programme activities, structural reviews of all ICT units throughout the 
+world will be conducted to rationalize and harmonize ICT operations and structures. 
+Coordination and reporting relationships between the Office of Information and 
+Communications Technology and other ICT units will be fully defined. An ICT 
+budget and financial management processes will be established. A change 
+management programme will be initiated to improve ICT communication with all 
+stakeholders during the transition. ICT-wide performance management standards 
+will be developed to measure the performance of ICT units against strategic and 
+operational objectives.  
+
+71. During phase II (January-June 2009), the Office of Information and 
+Communications Technology will implement the results of structural reviews in all 
+ICT units, as approved by the General Assembly. At the same time, the structures 
+within the Office will be further optimized to support more effectively ICT strategic 
+
+
+
+ A/62/793
+ 
+
+33 08-30015 
+ 
+
+programmes and services. The formal reporting relationships between the Office and 
+other ICT units will be put into effect. The Office will also establish overall 
+management oversight of ICT staff and facilities at UNLB and delegate appropriate 
+ICT operations to the Department of Field Support. The centralized project portfolio 
+will be updated to include additional projects under way in departments, offices and 
+missions. A longer-term road map will be developed for the strategic programmes. 
+The global service management framework will also be completed.  
+ 
+
+Table 4 
+Management framework for the implementation of the information and communications 
+technologies strategy 
+
+ 
+ 
+
+Management framework for information communications technologies 
+
+Goal 
+
+Implementation of the ICT strategy in two phases: phase I (July-December 2008) and phase II 
+(January-June 2009). 
+
+Objectives 
+
+• Establish the Office of Information and 
+Communications Technology 
+
+• Form management oversight committees and 
+advisory bodies 
+
+• Develop reporting relationships between the 
+Office of Information and Communications 
+Technology and other ICT units 
+
+• Develop ICT financial management and 
+performance management standards 
+
+Key activities Time frame Deliverables 
+
+Establishment of the Office of Information and 
+Communications Technology 
+
+  
+
+Create the Office of Information and Communications 
+Technology by integrating the Information Technology 
+Services Division of the Department of Management 
+and the Information and Communications Technology 
+Division of the Department of Field Support at United 
+Nations Headquarters. 
+
+July-Dec 
+2008 
+
+Fully developed internal structures 
+staff assignments and staff 
+recruitment. Issuance of the 
+Secretary-General’s bulletin on the 
+Office of Information and 
+Communications Technology. 
+
+Establishment of management oversight committees 
+and advisory bodies 
+
+  
+
+Develop the terms of reference, structure and 
+memberships of the Secretariat bodies that will formally 
+oversee and advise the Office of Information and 
+Communications Technology. 
+
+July-Dec 
+2008 
+
+Adoption of administrative policies 
+and guidelines, as necessary, for the 
+establishment of the Secretariat 
+bodies. Initial memberships of bodies 
+and leadership roles agreed, and 
+formation meetings completed. 
+
+
+
+A/62/793  
+ 
+
+08-30015 34 
+ 
+
+Undertake structural reviews of all ICT units   
+
+Perform operational reviews of ICT units in 
+departments at United Nations Headquarters, offices 
+away from Headquarters and in the field. 
+
+July-Dec 
+2008 
+
+Recommendations made for each 
+department, office and field mission 
+on organizational and other changes 
+to improve the effectiveness and 
+efficiency of ICT operations and align 
+them with those of the Office of 
+Information and Communications 
+Technology. 
+
+Create ICT performance management framework   
+
+Develop measurement standards, benchmarks and 
+reporting systems to track the performance of ICT units.
+
+July-Dec 
+2008 
+
+Development of an ICT performance 
+management framework that will 
+provide transparent and timely access 
+to information on ICT performance in 
+relation to United Nations strategic 
+and operational objectives and to 
+industry norms. 
+
+Develop budgetary and financial management 
+framework 
+
+  
+
+Design ICT global budgetary process and templates. 
+Centralize purchasing demand and procurement 
+activities. 
+
+July-Dec 
+2008 
+
+Improved ICT investment governance 
+process and standardized business 
+case format. Set of budget 
+formulation and financial reporting 
+templates created. Estimate impact of 
+ICT initiatives on the programme 
+budget for the biennium 2010-2011. 
+
+Establish institutional oversight of ICT activities at 
+UNLB 
+
+  
+
+Transition management of ICT assets at Brindisi and 
+Valencia (proposed) to the Office of Information and 
+Communications Technology proceeds. 
+
+Jan-June 
+2009 
+
+The Office of Information and 
+Communications Technology oversees 
+and manages data centres at Brindisi. 
+Operational control of 
+communications facilities is delegated 
+to the Department of Field Support. 
+
+Implement result of structural reviews   
+
+Improve organizational structure for the Office of 
+Information and Communications Technology and other 
+ICT units. 
+
+Jan-June 
+2009 
+
+Rationalized and harmonized ICT 
+organizational structures. 
+
+ 
+ 
+ 
+
+
+
+ A/62/793
+ 
+
+35 08-30015 
+ 
+
+ V. Organizational benefits 
+ 
+ 
+
+72. When fully implemented, the new ICT strategy will result in significant and 
+measurable improvements in the internal work of the Secretariat, in the delivery of 
+its services to Member States and other stakeholders, and in the strengthening of 
+relations with external organizations and the public. 
+ 
+ 
+
+ A. Improved effectiveness 
+ 
+ 
+
+73. The implementation of the new ICT strategy will enhance the overall 
+effectiveness of the Secretariat. Enhanced effectiveness will be seen in a number of 
+ways, including improvements in institutional memory, agility, accessibility, 
+transparency and accountability: 
+
+ (a) Institutional memory. A key goal of the knowledge management 
+programme is to develop a stronger, richer, more readily shared environment of 
+knowledge for the Secretariat throughout the world. This will enable the 
+Organization to be more effective in the development and delivery of the 
+programmes and services that support all three of the United Nations pillars: 
+development, human rights, and peace and security; 
+
+ (b) Agility. The Secretariat will be more agile and able to respond more 
+quickly and proactively to changes throughout the world. Enhanced collaboration 
+and streamlined document management processes supported by ICT will expedite 
+substantive work, the management of documents and the sharing of knowledge 
+across organizational units and geographical boundaries. The introduction of portal 
+technology will provide relevant, timely information to staff members’ desktops. 
+Intergovernmental processes and policy development work will be expedited as the 
+Secretariat shifts from paper-based to electronic methods of accessing, managing 
+and disseminating documents and data; 
+
+ (c) Accountability. The resource management programme will support the 
+accountability architecture under discussion and improve decision-making by 
+linking substantive programmes and operations with accurate and up-to-date 
+resource data. The resource management programme will improve the accountability 
+of managers and staff by implementing performance management tools to support 
+the results-based management framework while ensuring compliance with best 
+practice and international standards, such as the International Public Sector 
+Accounting Standards; 
+
+ (d) Accessibility. The ICT strategy will yield further enhancements in the 
+accessibility of people and information. The infrastructure management programme 
+will improve global connectivity and identity management so that Secretariat 
+personnel will have ready and reliable access to information and people, around the 
+clock, regardless of where they are. At the same time, new tools for the delivery of 
+information will provide staff with seamless access to a full array of pertinent 
+information, internal and external, as required. Communication among delegations, 
+Member States, members of committees and their constituencies will be enhanced, 
+and they will be able to engage in policy discussions using secure, Internet-based 
+collaborative tools and discussion forums. Similarly, the overhauling of the financial 
+information systems used by the Secretariat and the introduction of data warehouse 
+technology will expand access to financial data by authorized users; 
+
+
+
+A/62/793  
+ 
+
+08-30015 36 
+ 
+
+ (e) Transparency. ICT will continue to be a major enabler of the efforts of 
+the Secretariat to increase its openness and to collaborate and communicate more 
+effectively with Member States and other stakeholders. New technologies will 
+support the rapid dissemination and effective repurposing of information using a 
+wide range of high-quality electronic and print media. As a result, other 
+international institutions, private sector organizations, the press, non-governmental 
+organizations and the general public will gain a better understanding of the work of 
+the Secretariat through greater access to United Nations websites, such as 
+http://www.un.org, electronic archives and electronic discussion forums. The 
+implementation of an enterprise portfolio management system and ICT budgetary 
+framework will facilitate financial transparency of the ICT investment portfolio and 
+enable project performance reporting to the stakeholders.  
+ 
+ 
+
+ B. Increased efficiency 
+ 
+ 
+
+74. The implementation of the new ICT strategy will increase the overall 
+effectiveness of the Secretariat. Efficiency improvements will enable the Secretariat 
+to provide services and deliver programmes in a more timely and cost-effective way. 
+More specifically, the ICT strategy will contribute to organizational efficiency by 
+increasing staff productivity and by helping the Secretariat reduce or avoid costs: 
+
+ (a) Productivity. Each of the three strategic programmes contains features 
+that will increase staff productivity while also yielding benefits for Member States 
+and the public. For example, the infrastructure management programme will 
+introduce new data centre technologies to ensure the continuing operations of the 
+Secretariat through the availability of the global network and core application 
+systems in cases of disaster or major disruption at United Nations locations. 
+Initiatives to improve secure connectivity, from remote sites and home, will benefit 
+the staff by increasing the flexibility of work arrangements and ensuring the 
+continuity of Secretariat operations in emergencies. The knowledge management 
+programme will enable staff to produce key outputs in less time, at reduced cost and 
+of a higher quality, by making information easier to create, find and reuse. It will 
+also provide staff members with a single point of access to all of the information 
+relevant to their work, significantly reducing the time and effort required to locate 
+and retrieve documents and data. At the same time, new content management and 
+web-publishing technologies will streamline and automate the labour-intensive tasks 
+involved in dissemination to a variety of internal and public audiences. The resource 
+management programme uses ICT to enhance productivity by reducing the burden 
+of time-consuming, low value-added administrative activities, thus enabling staff to 
+spend more time on the substantive work of the Secretariat. The wide availability of 
+self-service capabilities will eliminate labour-intensive manual processes and further 
+raise staff productivity and satisfaction; 
+
+ (b) Cost reduction and avoidance. Closer alignment of technology 
+investments with the needs of the Secretariat will result in a more efficient 
+allocation of human and financial resources. It will also generate cost savings 
+attributable to more efficient decision-making and shorter project cycle times, as 
+well as cost savings due to the online aggregation of products and services 
+purchased by the various units across the world. The new approaches will focus on 
+improving the management of ICT programmes while strengthening current 
+processes for prioritizing projects and ensuring that they are implemented in a cost-
+
+
+
+ A/62/793
+ 
+
+37 08-30015 
+ 
+
+effective manner. The new management structure will centralize demand for ICT 
+products and services, enforce financial discipline and accountability for ICT 
+spending, and generate significant cost savings through the consolidation and 
+standardization of global ICT assets and services. Taking advantage of economies of 
+scale will enable cost savings to be made throughout the Secretariat in a number of 
+areas, including application development, global network connectivity, and 
+procurement of ICT products and services.  
+ 
+ 
+
+ VI. Key factors for success 
+ 
+ 
+
+75. To ensure the success of the ICT strategy and programmes, the following 
+conditions must exist or be provided:  
+
+ (a) Senior management support. Senior management support for the ICT 
+programmes is by far the most important factor for the success of any ICT strategy. 
+While every effort can be made to align and integrate ICT activities with the work 
+programmes of the Secretariat, the active involvement of senior management in and 
+its support for strategic programmes are critical to achieving success; 
+
+ (b) Budgetary resources for strategic investments. An adequate level of 
+resources is needed to overcome past, systemic under-investment. Similarly, a 
+multi-year ICT budgetary framework is required to effectively to support strategic 
+investments; 
+
+ (c) Streamlined policies, processes and support structures. Simplifying and 
+streamlining administrative policies, processes and support structures throughout the 
+Organization is important in maximizing the benefits of technology. For example, 
+the policy of instituting electronic signatures will enable faster workflow, simplify 
+systems, reduce paper and provide many other benefits; however, its implementation 
+requires Organization-wide action beyond the area of ICT; 
+
+ (d) An organizational culture that is supportive of change. Creating a culture 
+that is supportive of change is a task that falls upon all personnel in the 
+Organization and is a precursor to the successful implementation of the programmes 
+and projects that will be carried out as part of the ICT strategy. 
+ 
+ 
+
+ VII. Conclusions and recommendations 
+ 
+ 
+
+76. Departments of the Secretariat now, more than ever, rely on information 
+technology to help maximize value. In the new, technology-enabled world, ICT 
+plays an increasingly important role. In addition to keeping data centres up and 
+running, ICT organizations must help other leaders see what is possible, and then 
+drive that vision through an organization where change is often difficult. This 
+requires sufficient authority, control of resources and full membership and 
+participation in the Secretariat’s executive management team.  
+
+77. Member States have repeatedly called for changes in the way ICT services are 
+administered throughout the global Secretariat. Diverse stakeholders across the 
+globe have expressed the need for positive changes in ICT service delivery and in 
+access to information. The creation of the post of Chief Information Technology 
+Officer at the level of Assistant Secretary-General is the first step in responding to 
+
+
+
+A/62/793  
+ 
+
+08-30015 38 
+ 
+
+this global demand for change. The present report described the actions necessary to 
+achieve the vision of a comprehensive, responsive and efficient ICT structure. 
+
+78. The proposed ICT strategy for the Secretariat has been developed through a 
+comprehensive process, resulting in recognition of the following key components: 
+
+ (a) ICT vision. The vision of a strong ICT for a better United Nations will be 
+achieved over the next three to five years by closely aligning ICT with the work 
+programmes carried out by the Secretariat, connecting United Nations personnel and 
+their stakeholders anytime, anywhere, and by facilitating the more efficient 
+management of the Organization’s global resources; 
+
+ (b) Priorities. A set of five cross-cutting strategic priorities have been 
+developed to support the ICT vision and enable strategic programmes. These 
+priorities include the development of an ICT management structure, delivery of 
+strategic programmes, enhanced service and performance management, 
+implementation of global architecture and standards, and improved financial control 
+and reporting; 
+
+ (c) Strategic programmes. The three strategic programmes of knowledge 
+management, resource management and infrastructure management build upon one 
+another and collectively address the ICT needs of the global Secretariat.  
+
+79. To carry out the strategy effectively, a requisite ICT management framework is 
+proposed to consolidate fragmented ICT resources in the Office of Information and 
+Communications Technology and to establish service units directly related to the 
+strategic programmes. The two key functions created within the Office to address 
+Organization-wide issues are strategic management, which includes the 
+establishment of a project management office, and architecture and standards. Two 
+levels of oversight, the executive committee on information and communications 
+technology and steering committees, are established to provide proper guidance in 
+regard to ICT. In addition, an advisory group on information and communications 
+technology, broadly representing the global Secretariat, and the existing group of 
+executive officers will provide additional advice and expertise on key issues. 
+
+80. The Chief Information Technology Officer provides the centralized 
+coordination and decision-making necessary to drive this framework, and is the 
+senior officer of the Secretariat responsible and accountable for ICT matters. To 
+maintain the independence necessary to effectively carry out transformational 
+changes, steps have been taken to establish the Office of Information and 
+Communications Technology as an independent office reporting directly to the 
+Executive Office of the Secretary-General. Given the critical role that ICT plays in 
+supporting the Organization’s operational and substantive programmes, the post of 
+Chief Information Technology Officer has been established at the level of Assistant 
+Secretary-General, reporting to the Deputy Secretary-General. This post level is 
+further justified given the scope of the Secretariat’s global resources devoted to ICT, 
+which requires that the Chief Information Technology Officer provide strategic 
+advice and fully participate in discussions at the senior management level. 
+
+81. Implementation of the ICT management framework will take place in two 
+phases, over a 12-month period: 
+
+ (a) In phase I (July-December 2008), ICT management oversight committees 
+and advisory groups will be established, and procedures will be defined and 
+
+
+
+ A/62/793
+ 
+
+39 08-30015 
+ 
+
+formalized by means of administrative issuances. To rationalize and harmonize ICT 
+organizational structures, reviews will be conducted of all ICT units, including the 
+Information Technology Services Division of the Department of Management and 
+the Information and Communications Technology Division of the Department of 
+Field Support, and UNLB, and the results submitted to the General Assembly at its 
+sixty-third session for its approval of any changes proposed to the approved 
+programme of work, changes in organizational structures, and the realignment of 
+resources that may be necessary; 
+
+ (b) In phase II (January-June 2009), the Office of Information and 
+Communications Technology will establish overall management oversight of ICT 
+resources at UNLB, delegating appropriate ICT operations to the Department of 
+Field Support. Subject to the authorization of the General Assembly, the Office will 
+proceed with the implementation of the results of structural reviews of all ICT units 
+and with the optimization of its structure in order to support ICT strategic 
+programmes and services more effectively. The transition to a new ICT management 
+framework will be completed and the Secretary-General will report to the General 
+Assembly at its sixty-fourth session on the status of implementation. 
+
+82. The proposed ICT strategy establishes the core building blocks necessary to 
+create a strong ICT capable of meeting the operational and strategic needs of the 
+global Secretariat well into the future. While the level of change is substantial, so 
+are the benefits.  
+ 
+ 
+
+ VIII. Action to be taken by the General Assembly  
+ 
+ 
+
+83. It is proposed that the General Assembly: 
+
+ (a) Endorse the overall approach relating to the comprehensive ICT strategy 
+for the Secretariat, as contained in the present report; 
+
+ (b) Note that the Secretary-General intends to proceed with the 
+implementation of the ICT management framework in two phases; 
+
+ (c) Note that the Secretary-General intends to proceed with structural 
+reviews and the rationalization and harmonization of all ICT units, including the 
+Information Technology Services Division of the Department of Management, the 
+Information and Communications Technology Division of the Department of Field 
+Support and UNLB; 
+
+ (d) Request the Secretary-General to report to the General Assembly at its 
+sixty-third session on the results of such reviews, including the impact on and 
+changes proposed to the approved programme of work, changes in organizational 
+structures, and the realignment of resources that will be required. 
+
+
+
+A/62/793  
+ 
+
+08-30015 40 
+ 
+
+Annex I 
+ 
+
+  Executive interviews 
+ 
+ 
+
+1. Capital Master Plan 
+
+2. Department of Economic and Social Affairs 
+
+3. Department of Field Support and Department of Peacekeeping Operations 
+
+4. Department for General Assembly and Conference Management 
+
+5. Department of Management 
+
+6. Department of Political Affairs 
+
+7. Department of Public Information 
+
+8. Deputy Secretary-General 
+
+9. Department of Safety and Security 
+
+10. Economic Commission for Africa 
+
+11. Economic Commission for Europe 
+
+12. Economic Commission for Latin America and the Caribbean 
+
+13. Economic and Social Commission for Asia and the Pacific 
+
+14. Economic and Social Commission for Western Asia 
+
+15. ICT for Peace Foundation 
+
+16. International Criminal Tribunal for Rwanda 
+
+17. International Tribunal for the Former Yugoslavia 
+
+18. Office for the Coordination of Humanitarian Affairs 
+
+19. Office of Disarmament Affairs  
+
+20. Office of the United Nations High Commissioner for Human Rights  
+
+21. Office of the High Representative for the Least Developed Countries, 
+Landlocked Developing Countries and Small Island Developing States  
+
+22. Office of Human Resources Management  
+
+23. Office of Internal Oversight Services  
+
+24. Office of Legal Affairs  
+
+25. Office of Programme Planning, Budget and Accounts  
+
+26. Secretariat of the United Nations Conference on Trade and Development  
+
+27. United Nations Development Programme  
+
+28. Secretariat of the United Nations Environment Programme  
+
+29. United Nations Population Fund  
+
+30. Global Alliance for Information and Communications Technologies and 
+Development  
+
+
+
+ A/62/793
+ 
+
+41 08-30015 
+ 
+
+31. United Nations Geographic Information Working Group  
+
+32. United Nations Children’s Fund 
+
+33. United Nations Office at Geneva 
+
+34. United Nations Office at Vienna, United Nations Office for Drugs and Crime 
+
+35. United Nations Relief and Works Agency for Palestine Refugees in the Near 
+East 
+
+36. World Food Programme 
+
+
+
+A/62/793  
+ 
+
+08-30015 42 
+ 
+
+Annex II 
+ 
+
+  Information and communications technology strategy: 
+institutional and technological drivers 
+ 
+ 
+
+ Summarized below are the key points and priorities raised during the executive 
+interview process. This input provided a foundation for the strategic programmes 
+proposed in the ICT strategy and, in respect of the institutional drivers, should not 
+be construed as a set of pre-approved deliverables. 
+ 
+ 
+
+ A. Institutional drivers 
+ 
+ 
+
+  Knowledge-sharing and collaboration 
+ 
+
+1. The need for increased knowledge-sharing and collaboration was expressed 
+across the board during the interview process. The specific areas identified included: 
+
+ (a) Retention of institutional knowledge. The United Nations should seek 
+ways to mitigate the risks posed by staff mobility, turnover, retirement, natural and 
+unnatural disasters and the upcoming capital master plan and consequent 
+displacement;  
+
+ (b) Facilitation and enhancement of knowledge-sharing and collaboration. 
+The United Nations is uniquely positioned to broker knowledge exchanges that 
+improve programme delivery. This includes communities of practice as well as 
+global and regional knowledge hubs and portals; 
+
+ (c) Improved websites and web-content management. Websites are 
+fragmented and inconsistent across the Organization, both in design and content. 
+Web-content management systems are needed to allow consistent, real-time 
+updating and harmonization of design; 
+
+ (d) Improved organization, accessibility and usability of information. 
+Information is fragmented across the Organization and is difficult to find, access 
+and use. Document tracking and workflow management are needed; 
+
+ (e) Improved and enhanced analytical and decision support capabilities. 
+Databases are not integrated. The United Nations needs data mining and predictive 
+modelling capabilities, as well as the accurate, timely and regular production of 
+statistics across the Organization; 
+
+ (f) Improved information management policies and processes. The existing 
+information management and record retention processes and policies are outdated. 
+Policies for the classification and declassification of documents should be reviewed. 
+ 
+
+  Improvement of internal operations 
+ 
+
+2. Internal operations would be enhanced by: 
+
+ (a) Increased transparency, accountability and results. United Nations 
+management reform is supported with the establishment of an accountability 
+architecture. Auditing and compliance should be strengthened; this would include 
+implementation of the International Public Sector Accounting Standards; 
+
+
+
+ A/62/793
+ 
+
+43 08-30015 
+ 
+
+ (b) Improved administrative policies, processes and coordination. Processes 
+and data are fragmented and inefficient. The United Nations should clarify, 
+coordinate and harmonize programme functions internally and across departments 
+and duty stations; 
+
+ (c) More efficient management of resources. Business analytics and 
+modelling should be used to strategically plan and manage resources. Targeted 
+needs assessments and risk management frameworks should guide priority-setting. 
+Industry benchmarking should be implemented; 
+
+ (d) Informed decisions based on reliable and timely data. Accurate and 
+timely core resource data from the global Secretariat should be captured; 
+
+ (e) Fast deployment and effective support for field operations. Mandated 
+missions often require a rapid response to establish essential ICT services and, to 
+maintain their operations, effective integration of financial, logistical and technical 
+resources; 
+
+ (f) Improved delivery of services, including conference services. There is a 
+need for an integrated global management of services, together with additional self-
+service capabilities for management and staff. A shared services capability is needed 
+to allow for the internal sourcing of services; 
+
+ (g) Enhanced staff security. The United Nations is unable to identify 
+consistently staff across the Organization or the United Nations system. Real-time 
+access to information is needed during a crisis (e.g., a unified security response 
+system); 
+
+ (h) Increased staff learning and capacity-building. Strategic workforce 
+planning is needed. Talent management should be made more effective and 
+recruitment made more proactive and speedy. 
+ 
+
+  Communications and infrastructure  
+ 
+
+3. Requirements in regard to communications and infrastructure include: 
+
+ (a) Improved network connectivity and performance. Connectivity and 
+bandwidth are of particular concern to departments, offices and field missions in 
+areas with limited access to traditional ICT infrastructure; 
+
+ (b) Effective crisis management and business continuity. Service and support 
+levels do not reflect extended needs during a crisis. A rapid response capability is 
+needed; 
+
+ (c) Improved mobile and remote access capabilities. Better remote access 
+capabilities are needed to enable effective remote participation, strengthen business 
+continuity and facilitate telecommuting; 
+
+ (d) Provision of enhanced videoconferencing facilities. Current 
+videoconferencing systems are ineffective and unreliable. Upgraded systems are 
+needed to enable participation and improve the effectiveness and morale of staff 
+serving in remote locations;  
+
+ (e) Enhanced information security and privacy. Consolidated identity 
+management is needed to ensure better physical and data security; 
+
+
+
+A/62/793  
+ 
+
+08-30015 44 
+ 
+
+ (f) Improved ICT service desk support. Centralized, around-the-clock 
+support is needed.  
+ 
+
+  Management of information and communications technology 
+ 
+
+4. Areas identified in ICT management include: 
+
+ (a) Fostering the strategic use of ICT. Greater awareness is needed among 
+senior executives of the value of ICT as an enabler for achieving programme 
+objectives; 
+
+ (b) Improved ICT governance framework. Centralized and decentralized 
+functions should be rationalized, and a coherent ICT governance framework 
+established; 
+
+ (c) Enhanced ICT budgetary framework. The current budgetary framework 
+does not allow for rational investment in ICT;  
+
+ (d) Improved ICT policy, standards and processes. Organization-wide 
+policies are needed for information management, security and privacy; 
+
+ (e) Improved ICT service delivery. Fragmentation of ICT systems across the 
+Secretariat should be reduced and existing systems made available to other 
+locations, wherever possible. ICT training must be increased;  
+
+ (f) Harmonization with other United Nations agencies and pursuit of 
+alternative sourcing strategies. The Secretariat should work more collaboratively 
+with other United Nations organizations to take advantage of synergies and 
+economies of scale in applications, services and purchases. 
+ 
+ 
+
+ B. Technological drivers 
+ 
+ 
+
+5. Mega-trend towards connecting everyone. The world is becoming 
+increasingly interconnected. This mega-trend towards connecting everyone is 
+supported by the rapidly growing volume of global communications and by the 
+infrastructural enhancements planned for the medium term in underserved markets, 
+such as Africa and major portions of Asia. 
+
+6. Convergence of technologies. Cell phones, digital radio, satellite phones and 
+other mobile technologies continue to advance rapidly, enhancing the ability to 
+communicate without wired access. Simultaneously, the underlying technologies are 
+converging such that a single connection can carry voice, image and/or data, 
+regardless of whether the connection is established by means of a copper wire, fibre 
+cable or, wirelessly, satellite or radio. Usually a mix of these technologies is 
+employed in a way that is transparent to the users. 
+
+7. Increased intensity and velocity of information-sharing. Building upon the 
+accelerating electronic connections among people, new personal technologies are 
+increasing the velocity of information; information is being captured and shared 
+ever more quickly and effectively and in newer forms and combinations. These 
+technologies aim to facilitate creativity, collaboration and sharing among users and 
+are collectively known as Web 2.0; they include wikis, blogs, podcasts etc., and 
+social networking sites, such as YouTube, MySpace, Facebook etc. Together, a new 
+paradigm for connectivity is being established in a trend that will continue strongly 
+
+
+
+ A/62/793
+ 
+
+45 08-30015 
+ 
+
+in the medium term: the creation of knowledge-intensive environments in which 
+human interactions generate content that is published, managed and used by means 
+of network applications.  
+
+8. Knowledge management tools. Some information technologies have matured 
+and can be efficiently exploited over the medium term; such technologies are 
+expected to strengthen their positions as the broadly adopted ICT building blocks of 
+major global enterprises. Enterprise resource planning is the fundamental tool for 
+managing financial, human, and physical resources, and is one of the major ICT 
+initiatives of the Organization in the medium term. Other technologies have also 
+reached maturation and can be employed in beneficial initiatives: information 
+portals and search engines can provide much-improved access to information across 
+the board and for specific groups, such as the delegations of Member States. 
+Enterprise content management is a broad category of tools that facilitate the 
+capture and sharing of the Organization’s knowledge in electronic form, whether 
+text, audio or video. Customer relationship management will help to coordinate the 
+efforts of the Organization to deliver, efficiently and uniformly, to a diverse set of 
+internal and external customers. 
+
+
+
+A/62/793  
+ 
+
+08-30015 46 
+ 
+
+Annex III 
+ 
+
+  Information and communications technology survey 
+ 
+ 
+
+ A. Topics  
+ 
+ 
+
+1. Computer equipment (e.g., computer, monitor, printer, scanner etc.) and 
+related support 
+
+2. Performance and reliability of the Internet  
+
+3. E-mail services (LotusNotes mail, archiving, calendar, mailing lists etc.) 
+
+4. Remote access to United Nations applications and information while travelling 
+to or from home (Webmail, Intranet etc.) 
+
+5. Telephone equipment and related support 
+
+6. Mobile equipment (cellular phone, BlackBerry, personal digital assistant 
+(PDA) etc.) and related support 
+
+7. Basic office application software (word-processing, spreadsheets, 
+presentations etc.) 
+
+8. Department-specific application software (specialized local applications and 
+databases) 
+
+9. United Nations common application software (e.g., Integrated Management 
+Information System, official document system, Galaxy, Performance Appraisal 
+System (ePAS) etc.) 
+
+10. Finding information on United Nations websites and in document repositories 
+and databases  
+
+11. Help desk services 
+
+12. Training related to the above-mentioned ICT services, systems and tools 
+
+13. Overall ICT effectiveness 
+ 
+ 
+
+
+
+ A/62/793
+ 
+
+47 08-30015 
+ 
+
+ B. Respondent demographics  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+By Location/Duty 
+Station 
+By Location/Duty 
+Station 
+By location/duty
+station 
+
+
+
+A/62/793  
+ 
+
+08-30015 48 
+ 
+
+ C. Satisfaction levels, by service 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Target for ICT Services is 80% 
+
+
+
+ A/62/793
+ 
+
+49 08-30015 
+ 
+
+Annex IV 
+ 
+
+  Information and communications technology personnel of 
+the United Nations Secretariat as of December 2007a 
+ 
+ 
+
+Department or office D P FS, L GS
+Total 
+
+international Local UNV ICC 
+Contractual 
+
+staff Total
+
+Department of Management 
+(Information Technology 
+Services Division and other) 5 115 97 217  30 82 329
+
+Department of Field Support and 
+field missions 1 103 606 5 715 1 057 245 255 410 2 682
+
+Other departments at 
+Headquarters 1 44 60 105   105
+
+Regional commissions 40 3 78 121 61   63 245
+
+International Criminal Tribunal 
+for Rwanda 7 24 31 23  11 65
+
+International Tribunal for the 
+Former Yugoslavia 10 59 69   69
+
+United Nations Office at Geneva 33 55 88   14 102
+
+United Nations Office at Nairobi 11 38 49   11 60
+
+United Nations Office at Vienna 
+and United Nations Office on 
+Drugs and Crime 1 8 5 75 89 2  35 126
+
+ Total 8 371 638 467 1 484 1 143 245 331 580 3 783
+ 
+
+Abbreviations: D, Director; FS, Field Service; GS, General Service category; ICC, International Computing 
+Centre; L, project personnel; P, Professional category; UNV, United Nations Volunteers. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ a Data collected from United Nations departments, offices and field missions during the ICT 
+strategic planning exercise. 
+
+

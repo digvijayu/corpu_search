@@ -1,0 +1,268 @@
+[Start1]
+Statistical Commission 
+Forty-third session 
+28 February-2 March 2012
+Item 3 (i) of the provisional agenda*
+Items for discussion and decision: information and 
+communications technology statistics 
+
+
+
+		Report of the Partnership on Measuring Information and Communication Technology for Development1 
+
+
+		Note by the Secretary-General 
+
+
+	In accordance with a request of the United Nations Statistical Commission at its forty-second session, the Secretary-General has the honour to transmit the report of the Partnership on Measuring Information and Communication Technology for Development. The report presents progress made on information and communications technology (ICT) statistics worldwide during the past five years, including the revised and extended core list of ICT indicators developed by the Partnership. It identifies the indicators and countries where most progress has been made and the major data gaps. The report also highlights important statistical challenges and proposes a set of actions to be taken to enhance the availability of internationally comparable indicators on ICT by 2015, the agreed date to review progress made on the Millennium Development Goals and the targets set out by the World Summit on the Information Society. The Commission is requested to express its views on the points for discussion set out in section V of the report.
+
+
+		Report of the Partnership on Measuring Information and Communication Technology for Development 
+
+
+
+Contents
+PageI. 	Introduction	3II. 	Progress made in the area of information and communications technology statistics since 2007	4III. 	Statistical challenges and future work	12IV. 	Conclusions and recommendations	14V. 	Points for discussion by the Commission	15	AnnexPartnership on Measuring Information and Communication Technology for Development revised and extended core list of information and communications technology indicators	16
+
+	I.	Introduction
+
+
+1.	The Partnership on Measuring Information and Communication Technology for Development was launched in 2004 to improve the availability of internationally comparable ICT statistics.2 Since then, ICT statistics has been a regular item on the agenda of the Statistical Commission and the Partnership reported on its progress in 2005, 2007, 2009 and 2010 (E/CN.3/2005/23, E/CN.3/2007/5, E/CN.3/2009/19 and E/CN.3/2010/28).
+2.	The Commission considered the topic of ICT statistics as an item for discussion at its thirty-eighth session, in 2007. It endorsed the Partnership’s core list of ICT indicators and encouraged countries to use the core list in their data-collection programmes. The Commission further recognized that ICT is a rapidly evolving area and encouraged the Partnership to continue work to improve and update the list of indicators.
+3.	The need for statistical indicators on ICT developments has been recognized internationally at the highest level. The outcome documents of the World Summit on the Information Society include a set of targets to be achieved by 2015, in line with the target date of the Millennium Development Goals. The World Summit Geneva Plan of Action (2003) acknowledged the role of the Partnership in measuring progress towards the Summit outcomes. The Tunis Agenda for the Information Society (2005) reiterated the importance of measurement, called for the tracking of progress in the use of ICT to achieve internationally agreed goals and referred to the efforts of the Partnership.3 
+4.	Resolutions of the Commission on Science and Technology for Development and the Economic and Social Council give a mandate to the Partnership in monitoring progress in implementation of the outcomes of the World Summit.4 In 2008, the Economic and Social Council recommended that the Partnership consider the creation of additional benchmarks and indicators in order to track progress towards the achievement of the World Summit goals. In 2009, it acknowledged the work of the Partnership, its institutional strengthening and the creation of a working group to measure the economic and social impact of ICTs and recommended that it consider the creation of benchmarks and impact indicators for further consideration by the Statistical Commission. In 2011, in resolution E/2011/16, the Economic and Social Council endorsed the work of the Partnership and called upon it to further its work on measuring the impact of ICTs by creating practical guidelines, methodologies and indicators. It also encouraged Governments to collect relevant data at the national level on ICTs, to share information about country case studies and to collaborate with other countries in capacity-building exchange programmes. Finally, it called upon international development partners to provide financial support to further facilitate capacity-building and technical assistance in developing countries.
+5.	Goal 8, target F of the Millennium Development Goals recognizes the importance of making available the benefits of new technologies, especially ICTs, which are part of the Millennium Development Goals monitoring process. In recognition of the link between the Goals and ICTs and the increasing economic and social impact of ICTs, the Broadband Commission for Digital Development was launched in 2010.5 It is advocating for the achievement of four measurable targets by 2015.6 
+6.	The year 2015 is approaching rapidly. The preparation of the World Summit for the Information Society 10-year review has started. The Partnership is expected to prepare a quantitative assessment report on the implementation of the World Summit outcomes and the achievement of the targets to support discussions during the 10-year review. There is therefore an urgent need to identify existing data gaps and priority areas in which the availability of ICT statistics should be improved.
+7.	The present report takes stock of progress made since 2007 when the Commission considered ICT statistics as an item for discussion at its thirty-eighth session. The assessment includes progress made on both methodological aspects and on the availability of internationally comparable ICT indicators. It identifies main data gaps and makes recommendations for action that should be taken in order to improve ICT statistics for effective policymaking.
+
+
+	II.	Progress made in the area of information and communications technology statistics since 2007 
+
+
+	A.	Definitions and statistical standards: core list of information and communications technology indicators 
+
+
+8.	One of the main achievements of the Partnership is the establishment of a core list of ICT indicators, which was endorsed by the Commission at its thirty-eighth session, in 2007. Since then, it has served as the basis for the collection of ICT statistics worldwide.
+9.	Following the Geneva phase of the World Summit in 2003, members of the Partnership started to work with statistical agencies and policymakers to develop an agreed core list of indicators. A number of regional meetings on ICT measurement were held and indicators of interest to policymakers were discussed. A final list was agreed on at the World Summit thematic meeting on measuring the information society, held in Geneva in February 2005. 
+10.	This list, published as Core ICT Indicators in 2005, was officially launched at the second phase of the World Summit in Tunis in November 2005. The list included 41 core indicators covering ICT infrastructure and access; access to and use of ICT by households and individuals; use of ICT by businesses; the ICT sector; and trade in ICT goods. The main purpose of the core list is to help countries that collect (or are planning to collect) ICT statistics to produce high quality and internationally comparable data. In order to achieve this, the indicators have associated statistical standards and metadata.
+11.	The Partnership and its members are continuously improving the core list, in consultation with member countries, based on data-collection experiences and in light of technological changes. Revisions and additions to the core list were presented as an item for information to the fortieth session of the Commission, in 2009, and noted by members. An important improvement to the first core list was the addition of eight new indicators on measuring ICT in education. 
+12.	The latest addition to the core list is a set of indicators on measuring egovernment. The Partnership’s Task Group on E-government, led by the Economic Commission for Africa (ECA), in collaboration with the Economic Commission for Latin America and the Caribbean (ECLAC), the International Telecommunication Union (ITU) and the Department of Economic and Social Affairs, has produced a report on a framework for developing e-Government indicators.7 The framework document proposes a set of seven globally comparative e-government core indicators, reflecting the emphasis on e-government by the World Summit and the suggestion by the Commission that the Partnership extend its core list to include indicators on ICT use in government. Elements of the framework include defined core indicators and associated statistical standards. The document went through a series of reviews by members of the Partnership, in consultation with member countries, before its adoption in November 2011.
+13.	The annex to the present report details the 53 indicators that are included in the latest — revised and extended — version of the Partnership core list of ICT indicators.
+14.	The methodological work carried out by the Partnership benefited greatly from the effort of making the best use of existing competencies in each partner organization. At the same time, this helped to avoid overlaps in the respective mandated areas of work of the different partners. There has been continued collaboration with national statistical offices in the development of methodologies and in the implementation of activities by partners; national statistical offices have thus had a dual role as both contributors and beneficiaries. Partner activities have been carried out with a range of stakeholders in the area of ICT statistics and policy, including relevant ministries.
+15.	In 2010, the Partnership created a new task group, led by ITU, to develop indicators to measure the World Summit targets. The targets consider the information society as a whole and go beyond the areas covered by the Partnership core indicators, including subjects such as health, online content, language diversity on the Internet and connecting scientific and research centres. 
+16.	Reflecting the multi-stakeholder nature of the World Summit, this task group welcomes the contribution of relevant actors external to the Partnership. As a first output, it has prepared a statistical framework document for measuring the World Summit targets at the national level, which proposes measurable indicators along with their definitions and model questions. The Partnership launched the publication Measuring the WSIS Targets: A Statistical Framework at the World Summit Forum in Geneva in May 2011.8 The framework is meant to serve as a basis for national and international data collection related to the World Summit outcomes. It is expected to become the major reference document for the World Summit 10-year quantitative review document.
+17.	The Partnership is involved in a number of other activities that support its mission of achieving internationally comparable and reliable ICT statistics. They include the compilation and dissemination of ICT data, and the provision of technical assistance to enable statistical agencies to collect the data that underlie the core indicators. 
+18.	In the area of capacity-building, the combined efforts of the Partnership organizations continue to enable many developing countries to benefit from tailor-made technical assistance and training. The capacities of developing countries to produce internationally comparable ICT statistics have been significantly enhanced by a range of initiatives. However, this effort is far from complete. Some regions and countries have not yet benefited from capacity-building and there is demand for distance-learning activities and training of trainers at the regional level, which would help to develop the capacities of countries in a cost-effective way. The availability of resources will be key to future success in this area.
+19.	Many least developed countries lack the resources to carry out ICT surveys and therefore still lack national baseline data on the sector. While significant resources are being allocated to finance a variety of statistical surveys in developing countries, there is an overall lack of funding for ICT surveys, which needs to be addressed urgently. 
+
+
+	B.	Data availability 
+
+
+20.	In 2005, when the Partnership core list was first presented, the collection of official ICT statistics was still relatively unknown outside the countries of the Organization for Economic Cooperation and Development (OECD). The exceptions were telecommunication statistics, which have been collected for decades by ITU from national administrative sources. They include both traditional indicators, such as fixed telephone lines and traffic, as well as more recent indicators such as mobile cellular subscriptions, broadband Internet subscriptions and Internet bandwidth. 
+21.	One of the key challenges related to ICT statistics is the rapid pace with which technologies develop and spread, and the rapid uptake of ICTs in all countries. For example, accessing the Internet through mobile devices was almost non-existent in 2005, whereas the 1.2 billion mark for mobile broadband subscriptions was reached in 2011. In addition, ICT use is not confined to certain groups or sectors of society. Falling prices for both services and devices brings ICTs within the reach of all people and economic sectors in an ever-growing global information society. Monitoring these trends requires continuous data collection, revision of definitions and development of new indicators (see sect. III below). 
+22.	This section compares data availability for the Partnership core ICT indicators between 2005 and 2010. It does not include the latest addition of e-government indicators. The results show that significant progress has been made in measuring household access to the Internet (including by type of access, narrowband or broadband), use of the Internet and mobile telephones, as well as in almost all of the ICT business indicators. The indicators on ICT in education have not yet been collected at the global level but for those countries where they have been collected, most progress has been made in measuring school access to the Internet and school use of radio for educational purposes. Major data gaps still exist when it comes to measuring the use of ICTs by individuals and business employees, as well as data capturing the contribution of the ICT sector in countries (e.g. value added).
+23.	Detailed country-level information about the availability of each indicator is provided in the background document to the present report. 
+24.	ICT infrastructure indicators are the most widely available among the core indicators. They usually come from administrative data sources, mainly telecommunication operators, and are collected by Governments at the national level (ministries or regulatory authorities) and by ITU at the global level. For some of the indicators, data availability was already fairly high in 2005 (see figure I below).9 These include fixed telephone lines, mobile cellular subscriptions and fixed broadband Internet subscriptions. Others did not exist in 2005 and have increased significantly since then, such as mobile broadband subscriptions, an indicator which in 2010 was collected/reported by 34 per cent of countries. Indicator A8 (fixed broadband Internet tariff), while in principle available since 2005, was not collected by ITU until 2008. Indicator A10 (localities with Internet access) has proven to be difficult to collect. It will therefore be removed from the ITU questionnaire and is likely to be removed from the core list in the next revision. For some of the indicators (usually those highest in demand by users), ITU produces and disseminates estimates when official data are not available.
+
+
+		Figure I 
+Availability of core indicators on information and communications technology infrastructure as reported to the International Telecommunication Union, 2005 and 2009-2010 (percentage of countries)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: ITU.
+
+
+25.	Much progress has been made in terms of the indicators for household ICT access, including in developing countries (see figure II below). In particular, data on whether households have Internet access or a computer are now being collected by more than 100 countries worldwide, including more than 80 per cent of countries in Europe, 41 per cent of countries in the Asia-Pacific region, 50 per cent in Western Asia, 67 per cent in Central Asian and South-Eastern European Countries and 55 per cent of countries in Latin America and the Caribbean. The number of States Members of the United Nations collecting data on households with Internet access has increased from 65 to 98 between 2003-2005 and 2008-2010. Around 20 per cent of countries in Africa collect this indicator, compared with 4 per cent in 2005. Traditional indicators, such as whether households have television or radio, are becoming less relevant and hence are less collected globally than five years ago. However, they remain relevant in many African countries where they are collected more often than households with a computer or the Internet. For some of the indicators (usually those highest in demand by users), ITU produces and disseminates estimates when official data are not available.
+26.	A major achievement was the inclusion of eight core household indicators in the 2008 revision of the United Nations Principles and Recommendations for Housing and Population Censuses, Revision 2.10 This has led many developing countries to include some ICT questions in the latest census round. Most progress has been made in respect of indicator HH6 (households with Internet), but indicators HH3 (households with mobile telephone) and HH4 (households with computer) also showed a notable increase in 2010 compared with the 2000 census round. Nevertheless, international standards and definitions are not always applied and therefore some of the data are not comparable. 
+27.	There is much less information available on indicators of the use of ICTs by individuals — with the exception of Europe and the OECD countries in general — but they have grown significantly over the past five years. Figure II below shows the substantial progress that has been made in the availability of core indicators HH5, 7, 8, 9 and 10 and HH12 (see annex for the list of household indicators). These indicators provide important insights into who is on the Internet (according to age, gender, education level and location), where people access the Internet, how much time they spend on it and what they actually do when online. For policy and analytical purposes, such data are critical to assessing the impact of ICTs on socioeconomic change. Data on ICT access in households and use by individuals are collected annually by ITU via a questionnaire sent to national statistical offices. 
+28.	As a minimum requirement, all countries should collect indicators HH5 (individuals using a computer), HH7 (individuals using the Internet) and HH10 (individuals using a mobile telephone). HH7 is one of the most demanded among the core ICT indicators. It is also one of the indicators for the Millennium Development Goals and an indicator for measuring progress on the World Summit outcomes and the targets set by the Broadband Commission. While good progress has been made, in 2010 only 35 developing economies were collecting this indicator and only 23 were collecting indicator HH10. For countries where no data on Internet users are available, ITU makes estimates. HH10 is necessary to capture the real use of mobile telephones — especially in developing countries — and therefore the widely appraised development potential of mobile telephony. The commonly available — and used — indicator A2 (mobile cellular subscriptions per 100 inhabitants) includes double counting and has surpassed the 100 per cent mark in most countries; it therefore does not provide accurate information on how many people are using a mobile telephone.
+
+		Figure II
+Availability of core indicators on household information and communications technology access and individual use as reported to the International Telecommunication Union, 2003-2005 and 2008-2010 (percentage of countries) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: ITU.
+29.	In the case of ICT indicators related to the information economy, there was a significant increase in the data collected and made available by the United Nations Conference on Trade and Development (UNCTAD) between 2005 and 2010. The number of countries for which the core indicators on ICT use by businesses and on the ICT sector are available, has risen over the past five years, as illustrated in table 1 below.
+30.	Based on the Partnership core indicators, the Network of the United Nations Educational, Scientific and Cultural Organization (UNESCO) Chairs in communications (Orbicom) carried out five country studies (in Brazil, Cameroon, Egypt, India and Malaysia) to measure the ICT sector and analyse where the gaps lie. In order to add to these country case studies and to help improve comparability of national data and ICT trends in the Asia-Pacific region, the Economic and Social Commission for Asia and the Pacific (ESCAP) plans to contribute to the measurement of these trends by including three additional country studies, which will be carried out in consultation with interested countries in South-East Asia, South Asia and Central Asia. 
+
+		Table 1
+Number of countries reporting core indicators on the information economy to the United Nations Conference on Trade and Development, 2005 and 2010
+
+Number of countries for which data are available by indicatorB1B2B3B4B5B6B7B8B9B10B11B12ICT1ICT2200540314230423639393614333940362010*6857695568606464636059635246
+Note: * Refers to availability of indicators between 2007 and 2009.
+Source: UNCTAD information economy database.
+
+
+31.	For core indicators on the use of ICT in enterprises (indicators B1 to B12 in the annex), data availability has increased on average by about two thirds. The increase is most pronounced for developing and transition economies. Between 2005 and 2010, the number of developing countries reporting core indicators on ICT use in business grew from 10 to 27, an increase of 170 per cent. During the same period, the number of countries reporting core indicators on the ICT sector rose by about one third. 
+32.	Data on trade in ICT goods (ICT3 and ICT4 in the annex) are produced by analysing international trade data that are collected by national customs and compiled at the international level in databases such as United Nations Comtrade.11 Such data are available for most countries.
+33.	For the core indicators on ICT in education, the UNESCO Institute for Statistics (UIS) continues to lead the data development efforts in the Partnership. Given the relative paucity of data as observed across countries from the previous ICT in education scoping (2006/07) and pilot (2009/10) studies, in 2010 UIS started to focus the roll-out strategy for its survey on ICT in education on a demand-driven basis, starting with a region — Latin America and the Caribbean — where there is a clear need as evidenced by the existence of an explicit regional policy framework on ICT in education. Between late 2010 and March 2011, UIS conducted a region-wide data-collection exercise on the use of ICT in education in all countries of Latin America and the Caribbean. This initiative was aimed at generating core indicators on ICT in education to monitor related World Summit targets, as well as contributing to the statistical requirements of the regional information and communication technologies for development policy platform, the Regional Action Plan on the Information Society (eLAC2015) monitored jointly by the Observatory for the Information Society in Latin America and the Caribbean (OSILAC) and the Statistical Conference of the Americas established by ECLAC (see also section III below). 
+34.	The UIS regional questionnaire on ICT in education has been successfully completed by 38 countries and territories out of a total of 40 targeted (a 95 per cent response rate). The preliminary results, which were shared with participating countries in a peer review workshop (held in Sao Paolo, Brazil, on 29 and 30 September 2011) showed an appreciable number of countries in the region able to produce the core indicators for ICT in education. The detailed outcomes of the survey will be released during the first quarter of 2012 in the form of an analytical report featuring the overall profile of the integration by Latin American and Caribbean countries of ICTs into their primary and secondary schools. UIS plans to extend its regional roll-out strategy to Asia and the Pacific in 2012.
+35.	The core indicators on ICT in government are the most recent addition to the Partnership core list and have not yet been widely tested. Their objective is to support the efforts of countries in the collection of e-government statistics. Drawing upon the approach of the Department of Economic and Social Affairs to the measurement of e-government, particular attention has been paid to providing a measurement approach that is feasible for developing countries and supports their efforts to utilize e-government for the benefit of citizens and businesses. A methodological manual on the collection of the data required to construct the core egovernment indicators in countries will be produced by ECA and other Partnership members in 2012. Moreover, capacity-building workshops are planned to train statisticians and other stakeholders, following the completion of the manual.
+36.	Finally, the indicators identified to measure the World Summit targets include several of the Partnership core indicators on ICT infrastructure and ICTs in households, education and government. In addition, they address areas such as ICTs in health, language diversity on the Internet, online content and connecting public institutions such as museums, archives, libraries and scientific and research centres. Data availability for those indicators is still limited, especially in developing countries. The Partnership has identified measurable indicators for each of the World Summit targets and some countries have started to use them for national data collection. In view of the forthcoming global World Summit 10-year review in 2014-2015, the demand for statistical indicators to assess progress in the global information society is expected to increase significantly over the next few years. In support of the review, ESCAP, in cooperation with ITU, UNCTAD and other organizations of the United Nations system, plans to convene a meeting of senior ICT policymakers to review at the regional level the implementation of the World Summit targets in order to assess progress achieved and identify remaining gaps that need to be addressed in a post-World Summit 2015 scenario. 
+	III.	Statistical challenges and future work 
+
+
+37.	The above assessment has illustrated the significant progress made on ICT statistics over the past five years, in particular in terms of defining indicators and providing methodological guidelines for data collection. This has resulted in an improved availability of policy-relevant internationally comparable indicators.
+38.	Despite these improvements, major ICT data gaps remain, in particular in developing countries. This concerns, among others, the availability of statistics on ICT use by individuals, businesses, governments and other public sector organizations, the ICT sector itself, and data related to online security and cybercrime, gender and youth, and cultural and environmental aspects. 
+39.	This is even more critical given that more than 80 per cent of countries worldwide have established, and are implementing, national ICT policies and strategies and many others are defining and implementing national broadband plans. The growing information society will increasingly require more and better statistics to assess the social, economic and environmental impacts of ICTs. To achieve this, a number of issues need to be addressed.
+40.	First, the coordination of data collection at the national level needs strengthening. Among the institutional challenges to producing ICT statistics and indicators, the most relevant is the establishment of coordination mechanisms between relevant institutions, including national statistical offices, telecommunication regulatory authorities and ministries responsible for ICT policies. Since survey-based ICT statistics is still a relatively new field in many developing countries, the initiative to produce ICT data often originates from a demand by policymakers. Traditionally, telecommunication statistics have been collected by national telecommunication regulators or ministries, based on administrative sources and therefore it is not always obvious to turn to national statistical offices for the collection of survey data on ICT access and use. Furthermore, the cross-cutting nature of ICTs requires the involvement of line ministries dealing with culture and education, health, economics and agriculture, which may include questions related to ICT in their surveys or obtain them from administrative records. 
+41.	Second, ICT statistics need to be incorporated into statistical work programmes at the country and regional levels, especially in developing countries. By including the implementation of ICT surveys in their regular national work programmes and national statistical strategies or master plans, developing countries may be able to secure financing for stand-alone surveys on the topic.
+42.	A good best practice example for enhancing the availability of ICT statistics at the national and regional levels by mainstreaming the topic into the ongoing statistical work can be found in Latin America. In 2005, the Statistical Conference of the Americas of ECLAC created a working group on ICT, with the objective of contributing to the development and dissemination of statistics and indicators relating to ICT and their comparability at the regional level through the sharing of national experiences and harmonization of methodologies. Since its inception, the group has coordinated all its activities with the Observatory for the Information Society in Latin America and the Caribbean (OSILAC), which has enabled it to share experiences on measuring access to and use of ICT in the region. The group has also served as a forum for discussing and disseminating the methodological issues and indicators proposed by the Partnership by fostering the implementation and harmonization of statistics on ICT in the region and facilitating the development by ECLAC of a regional database on ICT statistics. The working group, which is coordinated by the representative of the national statistical office of the Dominican Republic, meets regularly and has engaged in a number of activities, including the organization of regional workshops, the development of methodological material and a compendium of best practices. The group reports regularly to the Statistical Conference of the Americas on progress made. In addition, the group has become the core of an indicators commission that will help define the indicators to measure the targets of the Regional Action Plan on the Information Society (eLAC2015). The Commission brings together national statistical offices and institutions dealing with ICT policies to start discussions to improve the measurement and follow-up of ICT policy targets.
+43.	Third, in the absence of timely official statistics, third-party (non-official) data sources on ICT are emerging. Consultancy firms specializing in ICT, as well as telecommunication/ICT companies, collect, analyse and disseminate data, while often not providing much information about sources, definitions and methodologies associated with the data. Furthermore, private institutions, such as industry associations or national observatories concerned with the development of the information society, also have an interest in implementing surveys, which are not necessarily coherent with official data and do not necessarily follow international standards. As a result, the data may not be representative for the country or internationally comparable. On the other hand, some of the data/forecasts published by private companies provide important information on the development of the Internet and website usage (e.g. the use of social media sites), which complements official data. 
+44.	Fourth, new indicators, standards and definitions need to be developed. In view of the rapid changes in technologies, services and devices, ICT statistics is an area that needs to undergo continuous review. Moreover, since ICTs permeate all economic and social sectors, the demand for statistics in areas not yet covered by the Partnership core list of indicators is growing, such as ICTs in health or agriculture. Voices have also been heard urging that statistics unveiling some of the negative aspects related to ICTs should be made available, such as those related to security (including child online safety) and environmental effects. In this context, the expected addition of the secretariat of the Basel Convention to the Partnership will provide an excellent opportunity to launch discussions at the international level on the measurement of e-waste. The development of new standards and indicators will require the active participation of countries in ongoing forums and expert groups organized regularly by the Partnership and its member organizations.12 
+45.	Finally, there is still a significant need for more capacity-building to speed up the production of core indicators for many developing countries. This applies to both old and new indicators. In this context, donor support is essential to allow for an expansion of technical assistance. The process to improve data availability to support ICT policies needs to be accelerated if the international community and individual countries are to conduct any significant review of the progress on the information society and ICTs for development by 2015.
+
+
+	IV.	Conclusions and recommendations 
+
+
+46.	During the past five years, the collection and dissemination of ICT statistics has improved significantly. Based on the work of the Partnership, internationally comparable indicators are widely available and increasingly collected at the national level. Most progress has been made on collecting ICT indicators through household surveys. 
+47.	The analysis provided in the present report has shown, however, that significant gaps remain when it comes to ICT statistics, especially in developing countries. In particular, statistics are limited on ICT use by individuals, businesses, Governments and other public sector organizations, as well as the ICT sector itself. Data availability is also closely related to national income, with the least data available in low-income and least developed countries (see country-level data provided in the background document to the present report).
+48.	In the coming years, the demand for ICT data will increase even more, in view of the growth of the information society and its impact on other sectors. The year 2015 is the agreed date to review progress made on the achievements of the Millennium Development Goals and the targets set by both the World Summit on the Information Society and the Broadband Commission. Statistical indicators will be crucial for assessing the state of advancement of countries in the access to and use and impact of ICTs. 
+49.	In order to improve the availability of ICT statistics, the report has identified a number of challenges that need to be addressed and has provided suggestions on what could be done to overcome them. These recommendations can be summarized as follows: 
+	(a)	The data collection and dissemination related to the core list of ICT indicators should be enhanced at both the national and international levels, based on international standards and definitions;
+	(b)	ICT statistics should be included in national strategies for the development of statistics and in regional statistical work programmes, taking as an example the lessons learned from the Working Group on ICT indicators of the ECLAC Statistical Conference of the Americas;
+	(c)	The coordination of data collection at the national level should be enhanced by setting up coordination mechanisms between relevant institutions, including national statistical offices, telecommunication regulatory authorities and ministries responsible for ICT policies, including line ministries;
+	(d)	Indicators for new areas (e.g. health, e-waste) should be developed by the Partnership in close coordination with national statistical organizations and other national relevant institutions in order to reflect national priorities; 
+	(e)	Local statistical capacity should be strengthened by assessing capacity needs and delivering targeted training on ICT statistics. 
+
+
+	V.	Points for discussion by the Commission 
+
+
+50.	The Commission is invited to:
+	(a)	Review and comment on the progress made on ICT statistics during the past five years;
+	(b)	Endorse the revised and extended core list of ICT indicators in the annex to the present report;
+	(c)	Review and endorse the recommendations proposed to improve ICT statistics;
+	(d)	Express continued support for the work of the Partnership on Measuring Information and Communication Technology for Development.
+
+Annex
+
+
+		Partnership on Measuring Information and Communication Technology for Development revised and extended core list of information and communications technology indicators
+
+
+A1		Fixed telephone lines per 100 inhabitants
+A2		Mobile cellular telephone subscriptions per 100 inhabitants
+A3		Fixed Internet subscribers per 100 inhabitants	
+A4		Fixed broadband Internet subscribers per 100 inhabitants
+A5		Mobile broadband subscriptions per 100 inhabitants
+A6		International Internet bandwidth per inhabitant (bits/second/inhabitant)
+A7		Percentage of the population covered by a mobile cellular telephone network
+A8		Fixed broadband Internet access tariffs per month in United States dollars and as a percentage of monthly per capita income
+A9		Mobile cellular telephone prepaid tariffs per month in United States dollars and as a percentage of monthly per capita income
+A10		Percentage of localities with public Internet access centres (PIACs)	
+
+HH1		Proportion of households with a radio
+HH2		Proportion of households with a television
+HH3		Proportion of households with telephone
+HH4		Proportion of households with a computer
+HH5		Proportion of individuals who used a computer in the past 12 months
+HH6		Proportion of households with Internet access	
+HH7		Proportion of individuals who used the Internet in the past 12 months
+HH8		Location of individual use of the Internet in the past 12 months
+HH9		Internet activities undertaken by individuals in the past 12 months
+HH10	Proportion of individuals who used a mobile cellular telephone in the past 12 months
+HH11	Proportion of households with access to the Internet by type of access
+HH12	Frequency of individual use of the Internet in the past 12 months
+
+B1		Proportion of businesses using computers
+B2		Proportion of persons employed routinely using computers
+B3		Proportion of businesses using the Internet
+B4		Proportion of persons employed routinely using the Internet
+B5		Proportion of businesses with a Web presence
+B6		Proportion of businesses with an Intranet
+B7		Proportion of businesses receiving orders over the Internet
+B8		Proportion of businesses placing orders over the Internet
+B9		Proportion of businesses using the Internet by type of access
+B10		Proportion of businesses with a local area network (LAN)
+B11		Proportion of businesses with an Extranet
+B12		Proportion of businesses using the Internet by type of activity	
+
+ICT1		Proportion of total business sector workforce involved in the ICT sector
+ICT2		ICT sector share of gross value added
+ICT3		ICT goods imports as a percentage of total imports
+ICT4		ICT goods exports as a percentage of total exports
+
+ED1		Proportion of schools with a radio used for educational purposes
+ED2		Proportion of schools with a television used for educational purposes
+ED3		Proportion of schools with a telephone communication facility
+ED4		Learners-to-computer ratio in schools with computer-assisted instruction
+ED5		Proportion of schools with Internet access by type of access
+ED6		Proportion of learners who have access to the Internet at school
+ED7		Proportion of learners enrolled at the post-secondary level in ICT-related fields
+ED8		Proportion of ICT-qualified teachers in schools
+
+EG1		Proportion of persons employed in central Government organizations routinely using computers 
+EG2 		Proportion of persons employed in central Government organizations routinely using the Internet
+EG3		Proportion of central Government organizations with a local area network (LAN)
+EG4		Proportion of central Government organizations with an Intranet
+EG5		Proportion of central Government organizations with Internet access, by type of access
+EG6		Proportion of central Government organizations with a Web presence
+EG7		Selected Internet-based online services available to citizens, by level of sophistication of service 
+
+	*	E/CN.3/2012/1.
+	1 	This report is complemented by a background document providing country-level information about the availability of core information and communications technology (ICT) indicators.
+	2 	As at November 2011, members of the Partnership were International Telecommunication Union (ITU); Organization for Economic Cooperation and Development (OECD), United Nations Conference on Trade and Development (UNCTAD), United Nations Educational, Scientific and Cultural Organization Institute for Statistics (UIS), Economic Commission for Latin America and the Caribbean (ECLAC), Economic and Social Commission for Western Asia (ESCWA), Economic and Social Commission for Asia and the Pacific (ESCAP), Economic Commission for Africa (ECA), Department of Economic and Social Affairs, Eurostat and World Bank. In November 2011, the United Nations Environment Programme (UNEP) secretariat of the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal submitted an application for membership in the Partnership. Pending the decision of the members, it is expected that the secretariat will become a full member of the Partnership in 2012.
+	3 	See http://www.itu.int/wsis/index.html.
+	4 	See Economic and Social Council resolutions E/2008/3, E/2009/7 and E/2011/16.
+	5 	See http://www.broadbandcommission.org.
+	6 	http://www.broadbandcommission.org/Documents/Broadband_Targets.pdf.
+	7 	This work benefited from the financial support of the Government of Finland.
+	8 	Available at http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-MEAS_WSIS-2011-PDF-E.pdf.
+	9 	See annex for an explanation of the list of indicators in figure I.
+	10 	Available at http://unstats.un.org/unsd/demographic/sources/census/docs/P&R_Rev2.pdf.
+	11 	United Nations Commodity Trade Statistics Database, see http://comtrade.un.org/.
+	12 	For example, the ITU World Telecommunication/ICT Indicators Meeting (WTIM) and Expert Group on Telecommunication/ICT Indicators (EGTI), the OECD Working Party on Indicators for the Information Society (WPIIS), the Eurostat Working Group on Information Society Statistics and the SCA-ECLAC Working Group on ICT.
+[Start1]<<ODS JOB NO>>N1162457E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/CN.3/2012/12<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+E/CN.3/2012/12
+
+E/CN.3/2012/12
+
+11-6245716
+
+1711-62457
+
+United NationsE/CN.3/2012/12 
+Economic and Social CouncilDistr.: General
+6 December 2011
+
+Original: English
+
+11-62457 (E)    050112
+*1162457*
+

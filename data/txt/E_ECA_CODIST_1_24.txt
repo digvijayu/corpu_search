@@ -1,0 +1,190 @@
+  
+
+
+UNITED NATIONS
+ECONOMIC AND SOCIAL COUNCIL
+      
+ECONOMIC COMMISSION FOR AFRICA
+
+First Session of the Committee on Development
+ Information, Science and Technology (CODIST-I)
+
+Addis Ababa, Ethiopia
+28 April - 1 May 2009
+
+
+
+
+
+ICT STANDARDS FOR AFRICAN TEACHERS NEEDS ASSESSMENT:
+TEACHER TRAINING INSTITUTES IN FOCUS
+
+Executive Summary
+
+
+
+
+I.	BACKGROUND
+             
+1.		The majority of sub-Saharan African (SSA) countries have developed national ICT policies that support their economic policies. Policymakers in most African countries have identified the need to integrate ICTs into education and most consider ICTs to be essential for achieving the Education for All goals as well as the United Nations Millennium Development Goals (MDGs)1. 
+
+2.	The United Nations Economic Commission for Africa (UNECA) launched the African Information Society Initiative (AISI)2 in 1996, in recognition of the critical role played by ICTs in facilitating the achievement of national development goals and promoting the dissemination and usage of new technologies in society (i.e. among individuals, businesses, governments and schools). AISI serves as a guiding framework for building the African information society and participating in the emerging global knowledge economy. 
+
+3.	AISI recognizes the central role that the education sector plays in building human capacity as the foundation of the information society. One of the objectives of AISI is to ensure that: 
+
+“Every man and woman, school child, village, government office and business can access information and knowledge resources through computers and telecommunications by 2010”.
+
+4.	 One of the strategies used to achieve this objective is to:
+
+“Foster a new generation of men and women in Africa who are able to use information and communication technologies to leverage the development of their nations”.
+
+5.	In order to implement the AISI vision at national level, UNECA has been assisting member States to develop and implement national information and communications infrastructure (NICI) policies and plans3, as ICTs accelerate socio-economic development. UNECA has assisted over 32 countries with e-strategies, and all of them have indicated that education is the main thrust of their policies, with human resource development being the key to developing the information society. The NICI framework recognizes that educational institutions are critical for the enhancement of ICT diffusion, usage and adoption in Africa. Such institutions would need guidelines and standards not only for the ICT subject content, but most importantly, for ICT pedagogy. 
+
+6. 	Most countries in sub-Saharan Africa have been working under severe socio-economic conditions resulting from changing household structures caused by HIV/AIDS, family dispersion due to migration, and complex political environments that make it difficult to achieve tangible economic, social and political gains. ICT-in-education policies could help to educate teachers, who in turn educate students, who upon graduating become the backbone of their societies. The greater the teacher’s ability to teach, the better equipped the students would be to pull their countries out of poverty. 
+
+7.	 A study entitled “ICT Standards for African Teachers” was commissioned by the UNESCO Institute for Capacity-Building (UNESCO-IICBA) on behalf of UNECA, in the context of the Commission’s ePol-NET for Africa4, which was set up with support from the Government of Canada to provide expertise, guidance and advice to African countries implementing national e-strategies. The overarching goal of the study was to develop a set of guidelines and standards for enabling the African education system to deal with and benefit from the change that new technologies were promoting on the continent. The objective of the needs assessment was to identify, analyze and collect existing policies and guidelines related to the introduction of ICTs in teacher training at country level and to report on perceived needs and benefits of continental guidelines for ICTs in teacher training. The study also sought to capture the ICT needs of teachers in sub-Saharan Africa and to demonstrate how different countries on the continent could benefit from a common framework for the implementation of ICTs in the education sector, with particular emphasis on teacher training.  
+ 
+8.	The researchers found that all the 18 sub-Saharan African countries included in the study had also developed some form of ICT-in-education policies and strategies. For example, the Ministry of Education in Kenya was the first to develop an ICT-in-education strategic plan, and other Sub-Saharan African countries were in the process of developing ICT-in-education strategies or had already done so. The challenge facing most of these countries was how to implement these ICT strategies and plans. Few of them were implementing the strategies at national level, although there were many pilot studies in progress. South Africa and Mauritius were some of the leading countries in the use of ICTs in education in Africa. However, even in South Africa, the challenge of integrating ICTs into the curriculum still existed, and the distance learning programmes offered were still predominantly print-based. 
+
+9. 	The study also showed that there is no unique formula for a successful implementation of ICT-in-education policies, strategies or plans, as each case should be tailored to its particular national context. In fact, some poorer developing countries could raise their standard of living by themselves, but many others rely on substantial financial and technical support from international bodies such as the United Nations, NGOs and multilateral and bilateral donors, to become part of the knowledge society and to attain their socio-economic goals. An in-depth assessment of the needs of teachers and the infrastructure required at teacher-training institutions would undoubtedly improve decision-making at all levels. 
+
+1.1 ICT diffusion and teacher-training institutions
+
+10.	There is a huge demand for teachers in Africa and African governments are responding by increasing enrolments in autonomous or university-affiliated public teacher-training institutions (UNESCO, 2007). There is demand also for in-service teacher training and many countries have recognized that ICTs could be used to satisfy such demand. This study found, however, that there is very limited use of ICTs in teacher training institutes (TTIs). Where they exist, ICTs are used only for administrative purposes, class management, or preparation of notes. Most African governments have adopted the ICT literacy curriculum, but only a limited number of ICT subject teachers are enrolled in TTIs.  
+
+11. 	Another problem with the adoption of ICTs in schools is one of scale. Most of the 18 African countries surveyed already had compulsory primary school education, making the number of primary schools and pupils very high.  African governments struggling with payment of teacher salaries are unable to equip schools with ICTs for teaching and learning. Since there are fewer secondary schools in each country, it is easier to introduce ICTs at the secondary school level. This is consistent with most of the ICT strategies that African governments have developed, which focus primarily on ICT usage in secondary schools and tertiary institutions, including universities and non-degree TTIs. 
+
+12.	The focus of this study was, therefore, on pre-service secondary school teachers. It turned out that most secondary school teachers were trained in universities or in tertiary colleges affiliated to universities. Thus, the leading secondary school teacher-training institutions were in faculties of education in universities in many of the African countries. The study noted that even the private primary schools that were introducing ICTs in their curriculum employed mostly degree-level teachers trained in universities. 
+
+1.2 Terms of reference of the study 
+
+13. 	The following were the terms of reference of the study:
+
+* Reviewing the vision, goals and progress of any existing ICT-in-education or ICT standards/guidelines, as well as their level of implementation.
+* Assessing the level of involvement and capacity of teacher-training institutions in developing and implementing ICT standards in teacher training.
+* Assessing the linkage between the development of the standards/guidelines and national e-strategies.
+* Assessing the possibility of developing regional ICT-in-education standards/guidelines
+* Assessing the willingness of governments to implement and endorse ICT standards.
+* Compiling a case study for each region in Africa documenting how teachers are trained in the use of ICTs.
+* Reviewing policy documents regulating the implementation of ICTs in teacher training.
+* Analysing a sample collection of curricula currently used in teacher-training institutions for the training of teachers in the use of ICTs.
+* Conducting interviews with policymakers about their attitude towards the development and implementation of regional guidelines and standards for the training of teachers in the use of ICTs.
+* Assessing the role of education actors in promoting the development of ICT standards.
+* Assessing the capacity of the private sector to engage in the development and implementation of ICT-in-education standards for teachers.
+* Identifying high-level ICT and education champions who are ready to lead the process in their countries. 
+* Adopting a set of recommendations on the nature and scope of ICT standards to be developed.
+
+14.	 Although the study addressed all of these terms of reference, interviews with policymakers and analysis of the sample curricula were only possible in some countries that the researchers visited.
+ 
+
+II.	METHODOLOGY
+
+15.	The study was in the form of case studies  conducted in 18 representative countries covering Eastern Africa (Ethiopia, Kenya, Mauritius, Sudan, Tanzania and Uganda), Southern Africa (Angola, Lesotho, Malawi, Mozambique, South Africa and Zimbabwe), and Western and Central Africa (Benin, Cameroon, Congo, Côte d’Ivoire, Ghana and Senegal). 
+
+16.	The case studies were conducted using a multi-dimensional and multi-stakeholder approach. They analyzed efforts undertaken in various countries to harness the potential of ICTs as tools that teachers could use for both self-learning and lifelong learning. They also highlighted the critical success factors for the implementation of ICTs in teaching and learning, in an effort to meet the Education for All (EFA) goals. It is by building on these success factors and on the needs expressed by teachers that UNESCO-IICBA and its partners would be able to develop a set of ICT standards for African teachers to steer African education systems towards the best possible use of ICTs. A lead researcher was assigned to each subregion, but a common research framework and questionnaire was developed to guide each of the researchers.  As expected, the study was more comprehensive in countries that arranged interviews with government officials and those that made relevant policy documents readily available.   
+ 
+
+17. 	The study used a layered model in assessing the type and nature of ICT standards: 
+
+(i)   The ICT infrastructure standards are foundational and would be necessary in countries with limited national ICT infrastructure and human capacity (e.g., Benin, Angola and Tanzania).
+
+(ii) 	The ICT curriculum standards address the quality issues of the ICT courses taught in TTIs and secondary schools. These standards could form the basis of a framework for national or regional ICT certification for teachers. They would be important especially because secondary teachers are being trained in universities that have their autonomous curricula, despite the need for common minimum standards.  
+
+(iii)    The ICT pedagogy standards would be critical for the transformation of teaching and learning using ICTs in African countries and would also be relevant for teachers of other subjects. This study used both secondary and primary sources of data. Although it covers 18 African countries, it used primary data from ministries of education and secondary school teacher-training institutions of only nine countries.  
+
+18. For the remaining nine countries, secondary data were obtained from government sources, UNESCO, UNECA and teacher-training institutional websites. 
+
+III.	ICT-IN-EDUCATION POLICIES
+
+19.	The study found that most of the universities and teacher-training institutions (TTIs) in the 18 African countries had been addressing ICT infrastructure issues and had introduced ICT curriculum standards. However, very few of them addressed ICT pedagogy issues or were even aware of UNESCO work in this area. It also found that many of the countries had by the time of the study developed national ICT policies and strategies, as summarized in table A1 below.  However, only a very small fraction of them had implemented the ICT strategies in any significant way by making ICTs available to students and staff. This suggested a lack of institutional ICT leadership by the heads of the TTIs (e.g. deans, principals or vice-chancellors), who did not consider ICTs a high priority.   
+
+Table A1: 	Statistics on ICT-in-education policies 
+
+Policy categoryEastern Africa subregionWestern and Central Africa subregionSouthern Africa subregionOverallPublished national ICT policies83% (5/6)66.6% (4/6)66.6% (4/6)72% (13/18)National ICT-in-education policies or strategies 83% (5/6)50% (3/6)66.6% (4/6)76% (13/16)Institutional ICT-in-teacher-education policies or strategies (nine countries visited only)100% (7/7)66% (4/6)75% (3/4)82% (14/17)Implementation of ICT-in-teacher-education strategies (qualitative measured in terms of access to PCs and the internet by students in countries visited)25%25%25%25%
+IV.	 THE NEED FOR ICT STANDARDS
+
+20.	This study found that, overall, ICT infrastructure standards are the least needed, with only 29 per cent of the TTIs expressing an interest in them, as shown in table A2 below. This indicates that when it comes to the mere setting-up of ICT laboratories or similar systems, only a few schools have had problems in identifying what kind of infrastructure is needed. However, the findings of the research study showed that the TTIs visited in Western and Central Africa seemed to need ICT infrastructure standards the most. In Eastern and Southern Africa, the results revealed a minimal need for guidelines in this area, probably due to their more vibrant ICT developments in the private sector. Although many TTIs would need to make decisions about technology platforms (e.g. open source versus proprietary systems, thin client versus networked personal computers (PCs)), ICT infrastructure standards are not a high priority for the TTIs. 
+
+21. On the contrary, table A2 shows that almost all the institutions visited had a need for ICT subject standards. In fact, the few that taught ICT subjects complained that the curriculum was often outdated and the scope was too broad for non-specialized ICT teachers. Analysis of the ICT subject curriculum indicated a lack of ICT subject expertise among ICT teachers. At the university level, the results showed that there had been limited collaboration with specialist ICT departments in the development of ICT curricula for teacher training departments. 
+
+22.	Table A2 also shows that all of the TTIs visited would benefit from the existence of ICT pedagogy standards and guidelines. For example, one of the TTIs in Kenya trained lecturers on the use of a learning management system (Moodle) rather than on how to teach effectively with ICTs or even on how to develop interactive multimedia content. None of the TTIs were aware of the work of UNESCO in the area of ICTs for teacher education. 
+
+23.	These findings illustrate that there is an urgent need to develop both ICT curriculum standards and ICT pedagogy standards for teachers in order to promote the effective use of ICTs in teacher education. Makerere University in Uganda is an excellent example of a TTI that offers an ICT pedagogy certification course for its lecturers. However, all of the TTIs visited were unprepared to implement ICT curriculum or pedagogy standards because of limited access to ICTs by both lecturers and students. Since the leadership of the TTIs still does not consider ICTs a priority, there is limited investment in ICT infrastructure. One solution is therefore to focus on the leaders of TTIs in demonstrating the impact of ICTs in teacher education. This could be achieved, for example, by funding pilot ICT projects in the lead teacher-training institutions in each African country. 
+
+Table A2: 	  Learning infrastructure
+Category of ICT standardsEastern AfricaWestern and Central AfricaSouthern AfricaOverallICT infrastructure standards14% (1/7)50% (3/6)25% (1/4)29% (5/17)ICT curriculum standards100% (7/7)100% (6/6)75% (3/4)94% (16/17)ICT pedagogy standards100% (7/7)100% (6/6)100% (4/4)100% (17/17)TTIs with human capacity to implement standards100%50%75%76% (13/17)ICT infrastructure readiness of TTIs14% (1/7)16% (1/6)25% (1/4)17.6% (3/17)
+
+V.	KEY OBSERVATIONS
+
+24. 	Despite the differences in education systems and status of ICTs in each of the countries studied, a number of general observations can be made based on the study:
+
+   (a) National ICT policies in the surveyed countries has been motivated mainly by the quest for economic development and expansion. The role of teachers and the way in which they are being trained have not been seen as critical for the implementation of national ICT policies. 
+
+    (b) Secondary school teachers are being increasingly trained in universities or in TTIs affiliated to universities. However, the ICT-in-education policies and strategies developed in the ministries of education in general do not address ICT needs at university level, because universities are considered autonomous institutions. Thus, there is limited alignment between government strategies for ICT standards and university ICT policies and strategies. However, the findings showed that universities are willing to adopt international or regional ICT standards and implement them in their affiliated TTIs. 
+
+   (c)	        TTIs are lagging behind in the adoption of ICTs, even in universities with strong ICT academic departments. Although there are ICT initiatives directed at secondary schools, there is little focus on teacher-training institutions. This is mainly due to inadequate institutional ICT infrastructures in the TTIs. The only exception from the study was Tanzania, where a donor-funded project had connected all of the country’s 32 TTIs.  
+
+ (d) There is limited ICT leadership in TTIs. The findings revealed that the focus of the heads of TTIs in most of the 18 African countries is on buildings, classroom space and lecturers, in order to cope with increasing enrolment. The study did not find any TTI that consider ICTs to be critical for the improvement of the quality of teaching. 
+
+ (e) All the institutions and government officials interviewed seemed to welcome the idea of standards. However, each institution would need support in order to implement such standards, both at the leadership level and at the technical level. 
+
+ (f) In each subregion, there are countries and institutions that could provide ICT leadership and technical support for the implementation of ICT standards for teachers. Examples include:
+
+(i)  Mauritius or Kenya in Eastern Africa. 
+
+(ii)  South Africa in Southern Africa. 
+
+(iii)     Senegal or Ghana in Western and Central Africa.
+
+
+
+
+VI.	RECOMMENDATIONS
+
+25. 	The study makes the following recommendations:
+
+* Engage the leadership of teacher-training institutions at tertiary levels in the implementation of national ICT strategies and align sectoral ICT strategies with national ICT policies.
+
+* Articulate the role of TTIs in the implementation of national ICT policies and strategies at the highest level of political leadership (e.g. Ministers of Education and Ministers of ICTs).
+
+* Secure adequate financial support from African governments and their development partners for ICTs targeted at TTIs. The level of funding should be consistent with the need to achieve high levels of readiness in the use of ICTs, and to retain teachers trained in the use of ICTs in secondary schools.
+
+* Develop ICT subject standards as a first priority for all TTIs in Africa.
+
+* Develop ICT pedagogy standards for African educational institutions, starting with TTIs. In addition, introduce ICT pedagogy at all the leading teacher-training universities in each and every country.
+
+* Use consultative and participatory methods to develop and promote ICT standards. This would increase awareness and the chances of adoption of standards and use of existing ICT knowledge in ICT standards.
+
+* Involve university faculties of education in the development of ICT standards for African teachers (I-SAT), particularly the ICT curriculum and ICT pedagogy standards.
+
+* Conduct a detailed e-readiness survey for all TTIs in Africa to determine their level of preparedness to implement ICT standards.  
+
+
+1 http://www.un.org/millenniumgoals.
+2 www.uneca.org/aisi/
+
+3 http://www.uneca.org/aisi/nici/strategies.htm
+4 See: www.epolafrica.org for more details.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+E/ECA/CODIST/1/24
+8
+Page
+
+
+
+E/ECA/CODIST/1/24
+
+Page 7
+
+
+
+
+
+

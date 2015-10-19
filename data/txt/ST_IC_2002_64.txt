@@ -1,0 +1,42 @@
+[Start1]
+Information circular*
+
+	To:	Members of the staff at Headquarters
+
+	From:	The Assistant Secretary-General for Central Support Services
+
+	Subject:	Termination of support for obsolete computing equipment
+
+
+
+1.	Starting with the biennium 1998-1999, the Information Technology Services Division (ITSD) no longer manages the replacement of office automation equipment. The Division’s responsibility is to establish standards for equipment connected to the common network infrastructure. The funds to acquire and/or replace the equipment have been assigned to individual departments, which are responsible for identifying the equipment that has to be replaced on the basis of their needs.
+
+
+	*	Expiration date of the present information circular: 30 June 2004.
+2.	In addition to establishing equipment standards, ITSD provides end-user offices with technical support based on service level agreements. Given that the age and state of the equipment used on the network can have a significant impact on the overall performance of the technical infrastructure, as well as on the capability of ITSD to provide effective technical support, it is important that offices replace old equipment in a timely fashion.
+3.	In line with the budget instructions for the biennium 2002-2003, ITSD strongly urges all departments and offices to replace as soon as possible any computer equipment that is over three years old from the date of manufacture. Timely replacement will ensure faster and more efficient performance, effective technical support and the capability to receive the latest software distributed through the Central Management Software.
+4.	In addition, the migration to the Windows 2000 operating system is in full progress and will soon affect the desktop computers. Old equipment at the level of Pentium 500 MHz and lower will not be capable of operating efficiently under Windows 2000. However, considering the severe cuts suffered by information technology budgets this biennium, ITSD will terminate support only for computers below the level of Pentium 450 MHz as of 1 January 2003. Since ITSD records show that there are only about 175 computers on the network below 450 MHz, constituting only 2.9 per cent of our total install base of 6,000 computers, we are hoping that the replacement costs this biennium will not be significant.
+5.	Nevertheless, we urge all offices to plan accurately for computer equipment replacement in the biennium 2004-2005. As of 1 April 2004, ITSD will terminate support for all computers below the level of Pentium 733 MHz.
+6.	We would also like to remind all users that the schedule for termination of support for printers may be viewed on the United Nations Headquarters (UNHQ) Intranet by following the links to Technical Support/User Services/Termination of Support. For procurement purposes, ITSD standards are posted on the UNHQ Intranet by following the links to Technical Support/Standards.
+7.	Users should address questions about departmental replacement schedules to their respective Information Technology (IT) Coordinators. The list of IT Coordinators may be viewed on the UNHQ Intranet by following the links to Technical Support/User Services/IT Coordinator-Tech. Focal Pt. All other questions and comments may be directed to the ITSD Help Desk by e-mail to Lotus Notes address Help Desk ITSD.
+
+[Start1]<<ODS JOB NO>>N0261875E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2002/64<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+2
+
+2
+
+United NationsST/IC/2002/64 
+Secretariat
+3 October 2002
+
+
+
+02-61875 (E)    081002
+*0261875*
+

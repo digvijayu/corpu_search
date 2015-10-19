@@ -1,0 +1,3523 @@
+
+ United Nations  A/66/7/Add.1
+
+  
+ 
+
+General Assembly  Distr.: General 
+21 November 2011 
+ 
+Original: English 
+
+ 
+
+11-60207 (E)    251111 
+*1160207*   
+
+Sixty-sixth session 
+Agenda items 134 and 146 
+ 
+
+Proposed programme budget for the biennium 2012-2013 
+ 
+
+Administrative and budgetary aspects of the financing 
+of United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology 
+ 
+ 
+
+  Second report of the Advisory Committee on Administrative and 
+Budgetary Questions on the proposed programme budget for the 
+biennium 2012-2013 
+ 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the following reports relating to information and communications 
+technology: 
+
+ (a) Third progress report on the enterprise resource planning project 
+(A/66/381); 
+
+ (b) Enterprise information and communications technology initiatives for the 
+United Nations Secretariat (A/66/94). 
+
+2. During its consideration of the reports, the Advisory Committee met with the 
+Deputy Secretary-General and other representatives of the Secretary-General, who 
+provided additional information and clarification. The Committee was also provided 
+with substantial additional information in response to its queries, which, where 
+relevant, has been reflected in the paragraphs below. 
+ 
+ 
+
+ II. Enterprise resource planning project 
+ 
+ 
+
+3. The third progress report (A/66/381) of the Secretary-General was submitted 
+pursuant to General Assembly resolution 64/243, in which the Assembly requested 
+the Secretary-General to continue to ensure that the Assembly is kept informed, on 
+an annual basis, of the progress regarding the enterprise resource planning project 
+(Umoja).  
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 2 
+ 
+
+4. The report of the Secretary-General provides information on the status of the 
+project, the activities accomplished during the reporting period (1 August 2010- 
+31 August 2011) and proposals for the future direction of the project. A major 
+setback is the anticipated two-year delay in the full implementation of Umoja, 
+which is now projected for the end of 2015 instead of 2013. In his report, the 
+Secretary-General puts forward measures intended to mitigate the effects of the 
+delay, in particular, changes to governance and project oversight and a phased 
+implementation approach. He indicates that, given the critical dependency of the 
+adoption of the International Public Sector Accounting Standards (IPSAS) on the 
+timely implementation of the enterprise resource planning system, the first phase, 
+Umoja Foundation, will include functionality to support IPSAS requirements. 
+Umoja Foundation is planned to be piloted in January 2013 and deployed in clusters 
+across the Organization by December 2014, in time for the transition to IPSAS. The 
+second phase, Umoja Extension, is planned to be deployed by December 2015, and 
+will deliver the remaining functions, including human resources management and 
+budget formulation.  
+
+5. As regards project governance, the Advisory Committee was informed that the 
+Umoja Steering Committee was being chaired by the Deputy Secretary-General on 
+an ad interim basis following the resignation of the Under-Secretary-General for 
+Management on 16 June 2011. It notes that the membership of the Steering 
+Committee has been expanded to include the Chef de Cabinet, as well as the Office 
+of Legal Affairs and the Office of Internal Oversight Services in observer capacity. 
+As indicated in the report, the Management Committee has also increased its 
+monitoring of project progress, especially with regard to the interdependencies with 
+the IPSAS implementation project. The Secretary-General states that, to mitigate 
+risks of further delay, he is implementing streamlined procedures to expedite 
+recruitment and developing contingency plans for managing risks, should certain 
+critical functions not be completed in time for IPSAS adoption in 2014 (see also 
+A/66/536). The Secretary-General affirms that the revised approach is consistent 
+with the “pilot first” implementation endorsed by the General Assembly in 
+paragraph 113 of its resolution 64/243 and will deliver the comprehensive 
+functionality for driving management reform and organizational transformation as 
+originally envisioned. He also states that the overall approved resource requirements 
+for project implementation remain unchanged, at $315.8 million. 
+
+6. The Advisory Committee was informed at the time of its review of the 
+proposed programme budget for the biennium 2012-2013 that the Secretariat was 
+anticipating delays in the implementation of the enterprise resource planning 
+project. It was also informed at that time that the project had been without a 
+Director since June 2011, and furthermore that the Under-Secretary-General for 
+Management had resigned as Chair of the Umoja Steering Committee. In its first 
+report on the proposed programme budget for the biennium 2012-2013, the 
+Advisory Committee expressed disappointment and provided preliminary comments 
+on the status of the project (A/66/7, paras. 123-125 and VIII.7-13). The Committee 
+commented further on this issue in the context of its consideration of the Secretary-
+General’s fourth progress report on adoption of IPSAS (see A/66/536).  
+
+7. In paragraph 8 of his current progress report (A/66/381), the Secretary-General 
+elaborates on the factors causing the delay in the implementation of the Umoja 
+project. He indicates that more time was required than originally planned for 
+procuring the enterprise resource planning software; analysing current operations in 
+
+
+
+ A/66/7/Add.1
+ 
+
+3 11-60207 
+ 
+
+order to transition to the future operating model; completing the design phase; and 
+gaining acceptance of the system by the business process owners and end-users. The 
+cultural and institutional changes required to move to the new operating model are 
+also reported to have proven more complex and challenging than anticipated. Other 
+difficulties cited by the Secretary-General include the time-consuming process for 
+the recruitment of the project team members and subject matter experts despite the 
+implementation of measures to expedite recruitment, as well as the securing of 
+independent consultants with the appropriate expertise. He also states that the 
+capacity of the design team was constrained by the limited availability of specialist 
+knowledge of new enterprise resource planning software.  
+
+8. While recognizing the challenges posed by the complexity, scale and scope 
+of the project, the Advisory Committee considers that the anticipated two-year 
+delay in its completion clearly reflects a failure in management of the project. 
+The Committee regrets that the Secretary-General did not provide information 
+earlier to the General Assembly as to the serious problems affecting the 
+implementation of the project. It is deeply disturbed and dismayed by the 
+apparent lack of awareness and foreknowledge in the Organization as to the 
+actual status of the project, which, in its view, points to the inadequacy of the 
+project governance, oversight and reporting arrangements. The Committee is 
+also concerned that the concurrent departure of the Director of the project and 
+the resignation of the Chair of the Steering Committee in June 2011 left the 
+project without leadership and with a weakened management structure at a 
+critical juncture, when the project was experiencing significant delays. 
+
+9. Furthermore, in the Advisory’s Committee’s view, many of the factors 
+identified by the Secretary-General as the causes of the delay, such as the 
+length of time required for recruitment, constitute well-known areas of risk and 
+vulnerability, which could have been foreseen and avoided through proper 
+project planning and prompt management action. In light of the strategic 
+importance of the project and the potential impact of any delay in terms of cost 
+escalation, as well as on the planned transition to IPSAS in 2014, the 
+Committee regrets in particular that closer attention was not paid to 
+anticipating and resolving such project management issues promptly and to 
+ensuring that the project structures were functioning properly. In this 
+connection, the Advisory Committee also emphasizes the important role of the 
+project Steering Committee in guiding implementation of the project, 
+supporting the Director of the project in securing the necessary resources, and 
+facilitating decision-making and rapid resolution of issues. It also points out 
+that the composition and membership of the Steering Committee was designed 
+precisely to ensure that the key stakeholders were represented at a sufficient 
+level of authority to take relevant decisions. The Advisory Committee is 
+therefore disappointed that, despite the representation of senior managers on 
+the Umoja Steering Committee, the project continued to face difficulties in 
+areas such as the recruitment of staff, the release of subject matter experts and 
+in gaining acceptance of the system by users and business process owners.  
+
+10. The Advisory Committee also considers that the Secretary-General’s 
+analysis of the factors causing the delay is incomplete. It is of the view that he 
+should also have reviewed the impact of factors such as the adequacy and 
+effectiveness of the project’s governance, decision-making and risk 
+management structures, as well as of the level of cooperation and coordination 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 4 
+ 
+
+throughout the Secretariat. The Committee notes that the Secretary-General 
+makes no attempt to attribute responsibility for the action, or lack thereof, 
+leading to the delay, or to hold anyone to account for this situation. 
+
+11. The Advisory Committee recognizes nonetheless the efforts made to 
+address the delay and plans to accelerate the process, including the 
+development of a revised implementation approach and the efforts aimed at 
+strengthening the composition, leadership and role of the project Steering 
+Committee, as well as enhancing oversight mechanisms. The Committee 
+believes that, at this stage, all efforts must be directed towards ensuring that 
+the project is firmly back on track, with a fully staffed team, and that all 
+activities are delivered according to plan. It is also necessary that Member 
+States have confidence that their investment is protected and are provided 
+assurances that the project will be delivered in accordance with the revised 
+timeline and within the approved budget. The Committee strongly believes that 
+in order for such assurances to be credible, it is essential to demonstrate that 
+lessons are fully analysed and effectively applied to ensure that the same 
+mistakes are not repeated. To that end, the Committee recommends that the 
+Secretary-General be requested to conduct a thorough internal review of the 
+factors contributing to the delay in the project and to adjust operational 
+controls accordingly and report thereon to the General Assembly in the next 
+progress report.  
+
+12. With respect to the revised implementation approach, while the Advisory 
+Committee accepts the Secretary-General’s focus on the implementation of 
+IPSAS in the first phase, it reiterates that Umoja is a key enabler underpinning 
+the Organization’s management reform agenda. It emphasizes that the 
+significant investment made by Member States was justified, in part, on the 
+basis of management improvements and reforms that Umoja would enable, 
+including results-based management, risk management, a strengthened internal 
+control framework and enhanced performance and accountability, as well as 
+the enhanced efficiency and effectiveness in programme management that the 
+system would allow. The Committee reiterates that these improvements remain 
+essential organizational goals that must be achieved within the budget 
+approved for the project (see also A/66/7, para. 125).  
+
+13. The Advisory Committee recognizes the challenges facing the 
+Organization as it embarks on the simultaneous implementation of multiple 
+major initiatives over a short period of time, including Umoja and IPSAS, 
+which entail significant changes in working methods and will impact large 
+numbers of staff across United Nations duty stations worldwide. It emphasizes 
+that close cooperation and coordination is required at all levels of the 
+Secretariat in order to meet organizational goals and ensure a successful 
+outcome.  
+
+14. In addition to the information on governance arrangements and the revised 
+implementation approach, the report of the Secretary-General provides an update on 
+progress made during the reporting period as regards the design phase and 
+reengineering of business processes; the analysis and inventory of the existing 
+systems to be replaced or interfaced to Umoja; the analysis of requirements in terms 
+of customizations and extensions to the enterprise resource planning software; 
+technical activities for implementation of enterprise resource planning 
+
+
+
+ A/66/7/Add.1
+ 
+
+5 11-60207 
+ 
+
+infrastructure; change management; and benefits realization. It also provides 
+information on collaboration initiated with other United Nations entities, in 
+particular the World Food Programme, and on opportunities for the realization of 
+additional benefits through an alternative service delivery model. 
+ 
+ 
+
+ A. Governance and accountability 
+ 
+ 
+
+15. The Advisory Committee notes that, at the time of its consideration of the third 
+progress report, in October 2011, the Umoja Director post had yet to be filled. 
+However, the Committee was informed that the Director was expected to be 
+recruited by November 2011. The Advisory Committee considers that the post of 
+Umoja Director is crucial for ensuring the effective direction, planning and 
+day-to-day management of the project, particularly at a time when major 
+changes are occurring and important decisions on the direction of the project 
+are being taken. It therefore urges the Secretary-General to ensure that the new 
+Project Director is recruited without any further delay.  
+
+16. In paragraphs 11 to 15 of his report, the Secretary-General describes the 
+changes made to the Umoja governance structure following the resignation of the 
+Under-Secretary-General for Management as Chair of the Umoja Steering 
+Committee (see also para. 5 above). The chart in annex I to the report shows the 
+modified governance model of the project. The key changes instituted include the 
+following: 
+
+ (a) The Steering Committee is chaired ad interim by the Deputy Secretary-
+General and its membership has been expanded to include the Chef de Cabinet; 
+
+ (b) The Office of Legal Affairs and the Office of Internal Oversight Services 
+are included in the Steering Committee in an observer capacity; 
+
+ (c) The Management Committee has increased its monitoring of project 
+progress, in particular with regard to the interdependencies with IPSAS; 
+
+ (d) The Chief Information Technology Officer will guide the management of 
+the project on behalf of the Steering Committee; 
+
+ (e) A Business Owners Advisory Group will progressively replace the 
+Process Owners Advisory Group as the project evolves from the design to the build 
+and deployment phases; 
+
+ (f) A Change Advisory Board has been established to monitor, control and 
+document project changes. 
+
+17. From the figure in annex I to the report of the Secretary-General, the Advisory 
+Committee notes that the Director of the project now reports to the Chief 
+Information Technology Officer only. Under the previous governance model, which 
+was last updated and reflected in annex III to the second progress report (A/65/389), 
+the Director had two reporting officers: the Chair of the project Steering Committee 
+on business processes and the Chief Information Technology Officer on day-to-day 
+project management and technology issues. 
+
+18. The Advisory Committee enquired as to the expected duration of the interim 
+governance arrangements and whether the Secretary-General intended to present a 
+proposal in this regard for consideration by the General Assembly. It was informed 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 6 
+ 
+
+that once the new Director was on board, the Secretary-General would make a 
+decision regarding the governance structure of the project in close consultation with 
+the members of the Umoja Steering Committee and the Management Committee. An 
+update on the project governance structure would be provided in the next annual 
+progress report.  
+
+19. In his report, the Secretary-General states that the Umoja governance structure 
+will ensure full accountability and clear lines of responsibility. Upon enquiry, the 
+Advisory Committee was informed that Umoja remained a business project driven by 
+business process demands, for which all Steering Committee members were 
+collectively accountable. While acknowledging the interim measures put into 
+place to improve monitoring and oversight of the project (A/66/381, 
+paras. 11-15), the Committee believes that much remains to be done to foster a 
+culture of accountability and commitment to the project. The Advisory Committee 
+was informed by the Deputy Secretary-General that the Steering Committee was fully 
+committed to putting Umoja back on the path to success, and that its members were 
+prepared to take extraordinary measures to support the project within their areas of 
+responsibility. The Advisory Committee welcomes the commitment to the project 
+proffered by the Umoja Steering Committee and expects that the members of the 
+Committee will assume fully their responsibilities under the leadership of the 
+Deputy Secretary-General (see also para. 5 above). The Committee recommends 
+that the Secretary-General be requested to provide a permanent governance 
+structure for the project as a matter of priority, no later than at the first part of 
+the resumed sixty-sixth session of the General Assembly, including information 
+on the responsibilities of the various actors involved in the governance of the 
+project and the mechanisms for ensuring effective accountability. 
+ 
+ 
+
+ B. Revised implementation approach, timeline and current status 
+ 
+ 
+
+20. As indicated in paragraph 4 above, the Umoja implementation approach has 
+been revised in order to mitigate the effects of the delay and accelerate progress, 
+while giving priority to implementation of IPSAS by 2014. Under the revised 
+approach, the enterprise resource planning system is to be deployed in two phases — 
+Umoja Foundation and Umoja Extension. Details on the functions and scope of each 
+phase are provided in paragraphs 40 to 47 of the report of the Secretary-General. A 
+detailed timeline of the revised implementation plan is also provided in annex II to 
+the report. The Advisory Committee notes that to date 317 business processes have 
+been developed reflecting the requirements of the Organization, of which a total of 
+119 will be provided under Umoja Foundation and the remaining 198 under Umoja 
+Extension. The Committee was provided with a table showing the processes to be 
+included under each phase by functional group (see annex I). The Committee was 
+also informed that the number of processes may evolve during the build phase as a 
+result of the consolidation of processes or the business requirements of the 
+Organization. However, a tight change control mechanism had been instituted in the 
+form of the Change Advisory Board to ensure that any new requirements would be 
+contained within the original scope of Umoja. 
+
+21. The functions and timeline of each phase can be summarized as follows: 
+
+ (a) Umoja Foundation will provide the functions required to support the 
+transition to IPSAS, including financial management and administrative controls; 
+
+
+
+ A/66/7/Add.1
+ 
+
+7 11-60207 
+ 
+
+certain central support services, such as sales and distribution, travel management 
+and real estate management; and supply chain procurement logistics. The pilot will 
+commence in January 2013 and be deployed in five successive clusters across the 
+Organization by December 2014. As shown in annex I to the present report, the 119 
+processes of Umoja Foundation to be deployed comprise 68 finance, 13 central 
+support services, 35 supply chain procurement logistics and 3 programme and 
+project management processes. The Committee notes that certain existing systems, 
+such as Galileo, will be temporarily retained and interfaced to Umoja Foundation to 
+provide inventory management functions until the full functionality is provided in 
+Umoja. It is indicated in footnote 9 of the report that it will be possible to ensure 
+IPSAS requirements through a combination of enterprise resource planning 
+software, legacy systems and manual workarounds; 
+
+ (b) Umoja Extension will deliver the remaining functions aimed at 
+enhancing planning and resource management, including: human resources 
+management; budget formulation; force planning, demand planning and logistics 
+execution; conference and events management; documents production and 
+distribution; grants management; and sales and services to the public. The 198 
+additional processes to be provided under Umoja Extension comprise 61 human 
+resources management, 56 finance, 33 central support services, 35 supply chain 
+procurement logistics and 13 programme and project management processes. The 
+human resources and budget formulation functions will be designed and built at the 
+same time as Umoja Foundation, but will commence deployment in 2014. The 
+design phase for the rest of Umoja Extension will recommence in 2013 and move 
+into the build phase in 2014, with deployment planned for completion by the end of 
+2015.  
+
+22. The Secretary-General indicates in paragraph 18 of his report that during the 
+reporting period the project team focused on the finalization of the documentation, 
+prototyping and refinement of the design of the processes in the areas of finance, 
+human resources, central support services, supply chain procurement logistics, and 
+programme and project management. Upon enquiry, the Advisory Committee was 
+informed that the final design was complete for all the processes relating to Umoja 
+Foundation, as well as the human resources management processes to be 
+implemented in the Umoja Extension phase. The final design of Umoja Extension 
+was planned to commence in mid-2013, at which point minor adjustments to the 
+remaining processes would be made, if required.  
+
+23. The Secretary-General further indicates in paragraph 40 of his report that the 
+criteria for the selection and timing of deployment sites for each cluster will be 
+guided by training needs, volume of transaction and business readiness of each 
+location. The Advisory Committee was informed that the selection of the 
+missions/organizational units to be included in each cluster would be based on the 
+geographical proximity of the sites, the alignment of their time zones and the size 
+and complexity of the sites, and would aim to achieve economies of scale in 
+predeployment, training and post-implementation support activities. The 
+recommended locations for the pilot site were the United Nations Interim Force in 
+Lebanon (UNIFIL) and the Economic and Social Commission for Western Asia 
+(ESCWA) because of their close geographical proximity in Lebanon. Furthermore, 
+UNIFIL was considered to be suitable for pilot testing because it was a moderate- 
+sized peacekeeping mission with a well-established technical infrastructure, and also 
+served as a regional information technology hub and training centre. The pilot 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 8 
+ 
+
+would also include the Field Procurement Section of the Procurement Division, 
+which manages Headquarters-based contracting for common commodities and 
+services via systems contracts and provides essential services for UNIFIL and 
+ESCWA operations.  
+
+24. The Advisory Committee was also informed that in order to complete the 
+necessary tests and preparatory activities, the enterprise resource planning software 
+and infrastructure would have to be installed at the enterprise data centres at 
+Brindisi, Italy, and Valencia, Spain, six months prior to deployment of the pilot in 
+January 2013. Discussions on this issue were currently under way between the 
+Umoja project team, the Office of Information and Communications Technology, 
+and the Department of Field Support. 
+
+25. In paragraphs 58 and 59 of the report, the Secretary-General provides 
+information on opportunities for consolidating administrative functions and services 
+and achieving greater economies of scale through alternative service delivery 
+approaches. He indicates that the next progress report will provide information on 
+the outcome of an assessment of the current operating environment, including 
+potential benefits and areas of improvement, as well as a detailed business case and 
+implementation plan. The Advisory Committee notes from paragraph 59 of the 
+report that any service delivery model adopted at the United Nations must be able to 
+support the model for delivering field support. The Committee looks forward to 
+receiving the Secretary-General’s proposals for improved and cost-effective 
+service delivery approaches. It trusts that any new approaches proposed will be 
+compatible with the business process model developed for the implementation 
+of Umoja.  
+
+26. As regards the temporary retention and adaptation of legacy systems 
+to support IPSAS pending availability of full functionality in Umoja (see 
+para. 20 (a) above), in its report on the IPSAS implementation project, the 
+Advisory Committee cautioned about the need to ensure that the 
+implementation of temporary solutions did not divert vital resources away from 
+the implementation of Umoja, thereby compounding risks of delays and cost 
+escalation in the delivery of Umoja Foundation (A/66/536, para. 16). 
+ 
+ 
+
+ C. Procurement 
+ 
+ 
+
+27. From the detailed project timeline shown in annex II to the report of the 
+Secretary-General, the Advisory Committee notes that procurement is under way of 
+the systems integration services for the build and implementation activities of the 
+first phase, Umoja Foundation. Upon enquiry, the Committee was informed that the 
+Procurement Division had advertised four separate rounds of expressions of interest 
+and that the Secretariat was finalizing its statement of work for the build phase. The 
+solicitation was to be released in the immediate future and was expected to be 
+completed in the first quarter of 2012. In view of the implementation timeline of 
+Umoja Foundation and the planned start of the pilot at the beginning of 2013, 
+the Advisory Committee urges the Secretary-General to ensure that all the 
+necessary steps are taken to secure the services of the systems integrator in a 
+timely manner so as to avoid any risks of further delays to the project. 
+
+
+
+ A/66/7/Add.1
+ 
+
+9 11-60207 
+ 
+
+ D. Recruitment and staffing 
+ 
+ 
+
+28. The Secretary-General indicates that despite the implementation of measures 
+to expedite recruitment, the hiring of United Nations staff members and subject 
+matter experts remains a time-consuming factor causing delays in the project (see 
+para. 7 above). The Advisory Committee was informed that, on the basis of the 
+current projected requirements for the bienniums 2012-2013 and 2014-2015, it 
+would be possible to deliver the project within the approved budget of 
+$315.8 million on the condition that all of the 90 project and 66 subject matter 
+expert positions were filled by April 2012 (see also paras. 29-35 below). The 
+Committee was also informed that as of September 2011, 53 of the 90 Umoja 
+project positions and 17 of the 66 subject matter expert positions had been filled 
+(see table 1 below). 
+
+29. The Advisory Committee was informed that measures to expedite recruitment 
+had been taken following the decisions made by the Steering Committee at its 
+meeting on 16 November 2010 (see annex II below). Since July 2011, the Office of 
+Human Resources Management had made available additional special measures for 
+recruiting Umoja staff, allowing advertisement of job openings for 15 days only and 
+without a requirement for review by the central review bodies, on the condition that 
+employment of the recruited staff would be limited to service with the Umoja 
+project. The Committee was informed that this arrangement was expected to yield 
+positive results in terms of accelerating the recruitment process. It was indicated 
+that, as of 10 October 2011, the recruitment process was well under way; at the time 
+of the Committee’s consideration of the report of the Secretary-General, recruitment 
+for 15 vacancies was in process. The Advisory Committee notes the efforts made 
+to adapt recruitment procedures in response to the specific circumstances of 
+and challenges faced by the Umoja project. In this connection, the Committee 
+recalls that in his second progress report, the Secretary-General had stated that 
+timely recruitment had been a challenge and had been regarded as a significant 
+project risk factor (A/65/389, para. 54). Given that the difficulties in filling 
+vacant Umoja positions partly contributed to the delay in the implementation 
+of the project, the Committee considers this situation should have been 
+addressed in a timely manner. 
+
+30. With respect to the subject matter experts, the Advisory Committee was 
+informed that an active outreach programme was in place for identifying the staff 
+members required for the project and for gaining the support of the concerned 
+departments, offices, and field missions in the release of those staff members when 
+needed by the project. 
+
+31. The Advisory Committee was provided with the following table showing the 
+Umoja recruitment plan for staff and subject matter experts from September 2011 to 
+May 2012: 
+ 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 10 
+ 
+
+  Table 1 
+Umoja recruitment plan for staff and subject matter experts from September 2011 to May 2012 
+ 
+
+ 
+September 
+
+2011
+October 
+
+2011
+November 
+
+2011
+December 
+
+2011
+January
+
+2012
+February 
+
+2012 
+March 
+
+2012 
+April
+ 2012
+
+May
+ 2012
+
+Staff 53 66 70 74 76 78 82 86 90
+
+Subject matter experts 17 16 17 21 28 38 48 58 58
+
+ Total 70 82 87 95 104 116 130 144 148
+ 
+ 
+
+32. The Advisory Committee notes that timely recruitment of staff and 
+subject matter experts represents a critical requirement for the delivery of the 
+project within the approved budget and the timeline of the revised 
+implementation approach (see para. 28 above). It is therefore of paramount 
+importance that the Umoja project positions are filled on time and that the 
+required subject matter experts are made available to meet the requirements of 
+the timetable of the project. To that end, the Committee recommends that the 
+Secretary-General be requested to closely monitor the effectiveness of the 
+expedited recruitment procedures and ensure that they are producing the 
+desired results. It stresses that immediate action must be taken to address any 
+delays in meeting the targets of the Umoja recruitment plan for filling posts 
+and subject matter positions (see table 1 above). The Secretary-General should 
+also be requested to provide in his next progress report details on the month-to-
+month evolution of the status of staffing and any further actions taken to keep 
+the process on track. 
+
+33. The Advisory Committee recalls that subject matter experts have an in-depth 
+knowledge of their functional areas and the requirements of their 
+departments/offices and are needed to assist the Umoja project team on a temporary 
+basis in system design, data conversion, interface development, report generation 
+and testing of the enterprise resource planning system. They also have a key role to 
+play in training and supporting users during deployment and in the post-deployment 
+period. The contributions of subject matter experts range from a few hours to 
+several months at a time. The positions of the subject matter experts are filled on a 
+temporary basis if their continuous absence from their regular functions exceeds 
+four weeks. The Committee had previously been informed that without such a 
+provision, there was a risk that managers would refuse to release subject matter 
+experts (see A/64/7/Add.9, paras. 82 and 83).  
+
+34. The Advisory Committee is concerned that as the duration of the 
+implementation period has been increased from 2 to 3 to 4 to 5 years, new 
+challenges in recruiting subject matter experts may arise. In particular, it may 
+become increasingly burdensome for departments/offices to release their 
+subject matter experts to the project for extended periods. The Committee 
+urges the Secretary-General to proactively take the necessary steps to ensure 
+the continued availability of the expertise provided by subject matter experts 
+that is needed by the project. Furthermore, the Committee considers that it is 
+in the interest of the contributing departments/offices to provide their most 
+knowledgeable staff to support the design and implementation of the 
+Organization’s new operating model so as to ensure that it meets their 
+requirements, as well as to develop their internal expertise and knowledge of 
+
+
+
+ A/66/7/Add.1
+ 
+
+11 11-60207 
+ 
+
+the new system. The Committee also emphasizes the important role of the 
+members of the Umoja Steering Committee in supporting the recruitment of 
+the subject matter experts required for the project. The Advisory Committee 
+recommends that the Secretary-General be requested to provide details on the 
+status of the recruitment of subject matter experts in his next progress report.  
+
+35. The Advisory Committee requested additional information in support of the 
+Secretary-General’s statement in paragraph 8 of his report, that the limited 
+availability of specialist knowledge of new enterprise resource planning software 
+had constrained the capacity of the design team and was one of the causes of the 
+delay in the project. It was informed that, to complement specialist knowledge 
+provided by the systems integrator, the project relied on specialists retained as 
+independent consultants to supplement Umoja staff on an “as-required” basis. 
+However, the United Nations had faced competition for scarce specialists with 
+others in the market who offered rates that were significantly higher than those of 
+the United Nations for individual consultants. The Committee was further informed 
+that the project team had used well-known international publications and specialized 
+websites for the recruitment of such specialists, but often lost potential candidates to 
+competition as a result of the lengthy procedures and long recruitment times. The 
+representatives of the Secretary-General also stated that the inability to secure 
+specialist consultants when needed would impede progress in the concerned area 
+and could also have an adverse impact on overall project delivery and costs. In light 
+of the serious risks of cost escalation and delays in the delivery of the project, 
+the Advisory Committee recommends that the Secretary-General be requested 
+to address this issue as a matter of urgency, taking into account all options for 
+using expedited procedures for the recruitment of such specialists. He should be 
+requested to report on this matter in the context of his next progress report. 
+ 
+ 
+
+ E. Change management 
+ 
+ 
+
+36. In paragraphs 21 to 27 of his report, the Secretary-General provides an 
+overview of the change management activities undertaken during the reporting 
+period, which included: efforts to increase staff awareness about the project by 
+organizing information sessions and encouraging staff to join Umoja NET, the 
+project portal; the organization of senior-level meetings and working group sessions 
+on topics such as fixed assets, inventory management and real estate management to 
+increase understanding of the interdependencies between IPSAS and Umoja; the 
+development of a global learning plan to support end-users, blending traditional 
+instructor-led classroom learning and e-learning approaches; and an update on the 
+review and acceptance of the new business processes. The Committee notes that 
+since the last progress report, 229 of the future “to-be” processes were released for 
+acceptance by the business owners, of which 143, or some 50 per cent, have been 
+accepted.  
+
+37. Upon enquiry, the Advisory Committee was informed that a comprehensive 
+training plan was currently under development. It was envisaged that end-user 
+training would be conducted by cluster and business area and would begin six weeks 
+before deployment. An estimated 26 per cent of the 40,890 United Nations staff 
+members, representing approximately 10,429 end-users, would need to be trained. 
+The Committee requested clarification as to the requirement of $4,592,380 proposed 
+in paragraph 80 (d) of the report to cover travel costs of Umoja trainers to deliver a 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 12 
+ 
+
+comprehensive training to end-users in 2012-2013. It was provided with a 
+breakdown of costs, which is attached as annex III to the present report. 
+
+38. As indicated in paragraph 13 above, the Organization is undertaking the 
+simultaneous implementation of multiple major initiatives, including Umoja and 
+IPSAS, all of which entail significant change in working methods and business 
+processes. The Advisory Committee emphasizes that close attention should be 
+paid to coordinating change management activities related to the 
+implementation of Umoja at each location so as to ensure a smooth deployment 
+of systems, limit the burden on end-users and avoid disrupting operational 
+activities. In this regard, the Committee recalls that in its report on progress in the 
+implementation of IPSAS, the Board of Auditors recommended that the Secretariat 
+assess the feasibility of combining the business change activities for Umoja and 
+IPSAS (A/66/151, para. 52). The Committee shares the Board’s view that some 
+of the business change activities for Umoja and IPSAS could potentially be 
+combined to bring benefits in terms of costs (for communications, training, 
+staff time) and effectiveness and furthermore that change management 
+messages would be more powerfully delivered as a joint message and would 
+more effectively use senior management time. The Advisory Committee 
+recommends that the Secretary-General be requested to provide information in 
+his next progress report on the feasibility of combining any of the business 
+change activities for Umoja and IPSAS and for achieving cost savings and 
+efficiency gains. 
+ 
+ 
+
+ F. Existing systems, interfaces, customizations, extensions and 
+technical activities 
+ 
+ 
+
+39. The Secretary-General provides an update on existing systems, interfaces, 
+customizations, extensions and general technical activities in paragraphs 28 to 35 of 
+his report. He indicates that the process of analysis and inventory of the systems that 
+could be replaced by Umoja continues in close coordination with the Office of 
+Information and Communications Technology. As indicated, approximately  
+700 systems will be replaced, while up to 300 of the remaining systems may require 
+a technical interface to Umoja. The Secretary-General provides some details on the 
+interfaces to be established between Umoja and major systems such as Inspira 
+(talent management system), Galileo (inventory management in peacekeeping 
+missions) and Documentum (document/records management system). He indicates 
+that many of the remaining systems could be interfaced to Umoja through a small 
+number of common, technical interfaces. The Secretary-General also asserts that no 
+essential customization of the core software is required. Furthermore, two 
+anticipated major extensions referred to in the previous progress report will not be 
+required, namely, a parallel ledger to cope with the United Nations dual budgetary 
+cycles and a solution for United Nations requirements in material tracking (see 
+A/66/381, para. 32). 
+
+40. In his second progress report, the Secretary-General had indicated that a 
+comprehensive cataloguing of existing applications was being carried out in 
+cooperation with the Office of Information and Communications Technology and 
+the Information and Communications Technology Division of the Department of 
+Field Support (A/65/389, footnote 18). The Advisory Committee, in its related 
+report had requested the Secretary-General to pursue his analysis and to provide a 
+
+
+
+ A/66/7/Add.1
+ 
+
+13 11-60207 
+ 
+
+comprehensive inventory of all the systems providing core functions for the 
+management of human, financial and physical resources, which would also provide 
+information on: (a) the systems to be replaced by Umoja, which could be 
+decommissioned; (b) the systems to be maintained, which would be interfaced to 
+Umoja; and (c) the systems to be maintained for which no interface was required 
+(see A/65/576). The Committee has consistently emphasized, since the inception 
+of the project, the importance of making such an inventory available, which in 
+its view is essential for decision-making and planning of the enterprise resource 
+planning project, including for the estimation of costs relating to the 
+development of interfaces and cleansing and migration of data (see paras. 53 
+and 54 below), as well as for estimating the related costs and resources released 
+as a result of the decommissioning of the systems to be replaced by Umoja. The 
+Committee considers that there has not been much progress made in this area 
+since its consideration of the previous report of the Secretary-General. It 
+continues to stress the importance of making progress in this regard and 
+reiterates its previous request (see A/65/576, paras. 31 and 32).  
+ 
+ 
+
+ G. Collaboration with other United Nations entities 
+ 
+ 
+
+41. In paragraphs 54 to 57 of his report,  the Secretary-General provides 
+information on collaboration between the Umoja team and the World Food 
+Programme (WFP). The Advisory Committee notes that in the first quarter of 2011 a 
+“fit-gap analysis” was conducted comparing the WFP enterprise resource planning 
+solution, WINGS II,1 to the requirements of the United Nations, with a view to 
+determining whether any elements of WINGS II could be incorporated into Umoja 
+in order to accelerate progress. The Secretary-General indicates that this exercise 
+demonstrated that the United Nations could benefit from WINGS II in the areas of 
+finance and human resource management and by replicating WFP documentation 
+and training materials. The Umoja team also benefited from the lessons learned by 
+WFP, as an early implementer of an enterprise resource planning system, in 
+developing the approach for phasing the initial deployment of the system to meet 
+IPSAS requirements. The Committee also notes from paragraph 17 of the report that 
+the Umoja team worked with representatives of WFP and relevant United Nations 
+departments to analyse the rules, regulations and policies that would need updating 
+to support the new business processes. The Committee notes that the Umoja team 
+will continue to collaborate with WFP in the future and will examine WINGS II 
+with a view to identifying further areas for accelerating progress.  
+
+42. The Secretary-General indicates in paragraph 52 of his report that the Umoja 
+project team has initiated a study of approximately 25 United Nations organizations 
+that have implemented enterprise resource planning systems to identify common 
+solutions, procedures and standards across United Nations organizations. It is 
+expected that the results of study will provide the Umoja team with information on 
+best practices for the build and deploy phases, with a view to lowering the costs of 
+Umoja. Upon enquiry the Advisory Committee was provided with some information 
+on the initial findings of the study, which is attached as annex IV to the present 
+report. 
+
+__________________ 
+
+ 1  WFP Information Network and Global System. 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 14 
+ 
+
+43. The Advisory Committee welcomes the collaboration between the Umoja 
+team and its counterpart at WFP. It encourages the Secretary-General to 
+pursue such cooperation and collaboration and to draw lessons from the 
+experience of WFP. The Committee also notes the Secretary-General’s decision 
+to initiate a United Nations system-wide study on enterprise resource planning 
+solutions. It looks forward to receiving an update on collaboration activities 
+and further information on the findings of the system-wide study in the next 
+progress report. The Committee considers that the study should also examine 
+the feasibility of convergence towards the adoption of common enterprise 
+resource planning solutions among the entities of the United Nations system in 
+the long term. It remains convinced that such convergence will be necessary to 
+manage costs and maintain sustainable enterprise resource planning solutions 
+in the future.  
+ 
+ 
+
+ H. Benefits realization 
+ 
+ 
+
+44. An update on the expected qualitative and quantitative benefits is provided in 
+paragraphs 48 to 50 of the report of the Secretary-General. Qualitative benefits 
+include increased operational effectiveness and timeliness, improved accountability, 
+adoption of international best practices and standards, enhanced transparency, 
+higher client satisfaction and better internal controls across the broad range of 
+financial, procurement and staffing processes, as well as improvement in the 
+availability and quality of information, reduction in manual effort, and building of 
+staff skills. The Secretary-General states that the overall quantitative benefits related 
+to Umoja that were identified in the first and second progress reports remain valid. 
+Such benefits are estimated in the range of $139 million to $220 million. It is also 
+indicated that an analysis of the impact of the revised implementation approach on 
+the realization of benefits is under way. 
+
+45. Upon enquiry, the Advisory Committee was provided with updated 
+information on the quantitative benefits provided in the first progress report of the 
+Secretary-General (A/64/380, annex I) showing a high and a low range of expected 
+cost savings by function and business process. The Committee was informed that 
+the benefits were examined for feasibility and data accuracy and were categorized 
+under the two phases of the revised implementation approach, Umoja Foundation 
+and Umoja Extension.  
+
+46. The Advisory Committee recalls that the analysis of quantitative benefits 
+provided in the first progress report had included details on productivity and 
+efficiency gains underlying the cost savings. For example, productivity gains were 
+translated in terms of a high and a low range of savings in staff time, which were 
+consolidated as full-time equivalents and converted to financial values using the 
+average cost of the full-time equivalents performing those tasks. Estimates for 
+savings resulting from efficiency gains such as the decommissioning of systems to 
+be replaced by the enterprise resource planning system were established on the basis 
+of overall support costs and industry standards. In his first progress report, the 
+Secretary-General indicated that the estimates of quantitative benefits, while 
+calculated on thorough analysis using a structured methodology, were based on a 
+number of assumptions and existing data that was not always complete or fully 
+reliable, owing to the limitations of current information systems. The expectation 
+
+
+
+ A/66/7/Add.1
+ 
+
+15 11-60207 
+ 
+
+was that the assumptions would continue to be validated and refined as the detailed 
+design phase and reengineering of business processes progressed.  
+
+47. The Advisory Committee is of the view that the analysis of quantitative 
+benefits provided in the first progress report facilitated its consideration of the 
+report of the Secretary-General on the implementation of the enterprise 
+resource planning system. It recommends that the Secretary-General be 
+requested to continue to include in future progress reports updated information 
+similar to that presented in the table contained in annex I to document 
+A/64/380, including details on productivity gains and savings in staff time, with 
+a view to providing greater transparency in measuring the expected 
+quantitative benefits.  
+ 
+ 
+
+ I. Status of expenditures and other costs related the implementation 
+of the enterprise resource planning 
+ 
+ 
+
+48. By its resolution 63/262, the General Assembly authorized the Secretary-
+General to establish a multi-year special account to record income and expenditures 
+for the enterprise resource planning project. Subsequently, in its resolution 64/243, 
+the General Assembly endorsed the proposal of the Secretary-General to deploy the 
+enterprise resource planning project through the “pilot first” option. The resource 
+requirements to implement the pilot first option through full deployment were 
+estimated at $315,792,300.  
+
+49. In paragraphs 66 to 75 of his report, the Secretary-General provides details on 
+the status of resources approved for and utilized by the project during the bienniums 
+2008-2009 and 2010-2011. Table 3 of the report provides a summary of the amounts 
+approved and expenditures by biennium. The Advisory Committee notes that a total 
+amount of $195,348,200 has been approved by the General Assembly thus far, 
+comprising $20,000,000 in 2008-2009 and $175,348,200 in 2010-2011. Actual 
+expenditures amounted to $17,699,700 in 2008-2009 and are projected at 
+$103,635,800 during the current biennium. Total expenditures since the project was 
+approved by the General Assembly in its resolution 63/262 are estimated at 
+$121,335,500, reflecting an underexpenditure of $74,012,700 as compared to the 
+amount approved.  
+
+50. As indicated in the preceding paragraphs, the Secretary-General states that the 
+overall level of resources required for the implementation of Umoja in two phases 
+remains unchanged at $315,792,300. Table 5 of the report shows the estimated 
+implementation costs of Umoja Foundation (phase 1) and Umoja Extension (phase 
+2) by year, from 2012 to 2015, as well as the total projected expenditures for the 
+2008-2011 period.  
+
+51. The Advisory Committee sought additional information on financial 
+implications of the delay and the revised implementation approach and clarification 
+as to how Umoja would be delivered within the approved budget of $315,792,300. It 
+was informed that the two-year extension of the implementation period would entail 
+additional overhead costs during that period to cover staff salaries and entitlements 
+and general operating expenses for rent, communications, office automation 
+equipment, supplies and materials. However, every effort would be made to 
+minimize these costs by reducing the size of the team gradually over time as an 
+increasing number of individual components of the enterprise resource planning 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 16 
+ 
+
+system were completed and deployed. The Committee was further informed that the 
+requirements for the deployment of the complete system within the approved budget 
+had been projected until the end of the biennium 2014-2015.  
+
+52. The Advisory Committee was informed that it had been determined that the 
+project costs could be contained within the approved budget, subject to the 
+assumptions that: the 90 project posts and 66 subject matter expert positions would 
+be filled by April 2012; the required subject matter experts would be released by 
+their respective departments/offices and made available to the project when 
+required; the systems integrator for the build phase would have an onshore and 
+offshore ratio of 30:70 (this assumption impacts multiple objects of expenditure, 
+including requirements for contractual services and general operating expenses to 
+cover requirements for office facilities); United Nations staff would acquire greater 
+enterprise resource planning technical expertise during the first phase and be able to 
+assume a greater role in the second phase of implementation, thereby reducing the 
+requirement for costly specialists; the user community would commit to 
+participating in onsite preparatory activities such as data cleansing, user testing, and 
+user training (see para. 53 below); and maintenance costs would be borne by the 
+user community from 2014 onwards. 
+
+53. Upon enquiry as to the expected involvement of the user community referred 
+to in paragraph 52 above, the Advisory Committee was informed that the project 
+team was conducting an analysis of the total cost of ownership2 of the Umoja 
+project. The study would include a complete costing of items funded from the 
+Umoja project budget, as well as costs that are to be borne by United Nations 
+departments/offices. The representatives of the Secretary-General stated that such a 
+study reflected a best practice for large enterprise resource planning and information 
+and communications technology projects in which the majority of development 
+costs are borne by the central project, but costs for related activities, such as the 
+cleansing of data to be migrated to the enterprise resource planning system, are 
+supported by the user departments that own the data and must perform those 
+activities as part of their operational responsibilities. The Committee was also 
+informed that the study was expected to be completed by the end of the first quarter 
+of 2012. Further details on the composition of the costs to be supported by user 
+departments were provided to the Committee (see annex V). In this connection, the 
+Committee recalls that in its previous report it had also requested the Secretary-
+General to provide estimates of future operating costs (see A/64/7/Add.9, para. 87 
+and A/65/576, para. 37). 
+
+54. The Advisory Committee was further informed that the Umoja budget covered 
+costs associated with data conversions and interfaces of applications categorized as 
+“priority systems”. These included, inter alia, data conversion of all instances of 
+IMIS, procurement systems and the enterprise systems of the Department of Field 
+Support (inter alia, SUN, Mercury, Progen, Nucleus and the Field Personnel 
+Management System), as well as the interfaces to be developed between Umoja and 
+other major systems, such as Inspira, the iNeed customer relationship management 
+system and the corporate telephone billing systems. The Committee was further 
+
+__________________ 
+
+ 2  Includes all direct and indirect costs associated with the acquisition and operation of a computer 
+system over its entire life cycle, including capital investment, hardware and software, plus 
+indirect costs of installation, training and technical support, as well as future costs for 
+operations and upgrading of the system. 
+
+
+
+ A/66/7/Add.1
+ 
+
+17 11-60207 
+ 
+
+informed that the costs associated with archiving and decommissioning priority 
+legacy systems were not included under the Umoja budget, but would be assumed 
+by the owners of those systems. The representatives of the Secretary-General 
+indicated that many of the other systems to be replaced were relatively small and 
+would not require data conversions. Upon enquiry the Committee was also informed 
+that the deferral of the realization of benefits until after the deployment and 
+stabilization of Umoja Foundation and Umoja Extension represented an opportunity 
+cost for the Organization.  
+
+55. The Advisory Committee notes the information provided on the costs 
+related to the implementation of the enterprise resource planning system. It 
+considers that there is an urgent need to: identify precisely and 
+comprehensively all the tasks required for the implementation of the enterprise 
+resource planning system; determine the resources required for the 
+accomplishment of those tasks; establish clearly the costs to be covered under 
+the Umoja budget and those to be absorbed by the concerned departments; and 
+assign responsibility for the completion of the tasks in accordance with the 
+schedule of implementation of Umoja (see also para. 40 above). The Committee 
+recommends that the Secretary-General be requested to complete the analysis 
+of the total cost of ownership of Umoja as a matter of priority and to report 
+thereon to the General Assembly at the second part of its resumed sixty-sixth 
+session. 
+ 
+ 
+
+ J. Resource requirements for 2012-2013 
+ 
+ 
+
+56. The estimated resource requirements for the Umoja project for the biennium 
+2012-2013 are set out in paragraphs 77 to 80 of the report. The total cost for the 
+biennium 2012-2013 is estimated at $117,373,500 comprising: 
+
+ (a) $30,864,100 under posts, to provide for salary and common staff costs 
+for the continuation of 90 posts for the Umoja project team (1 D-2, 8 D-1, 21 P-5, 
+37 P-4, 9 P-3, 1 P-2, 1 General Service (Principal level) and 12 General Service 
+(Other level);  
+
+ (b) $17,792,700 under other staff costs, to cover requirements for general 
+temporary assistance to provide for 66 subject matter experts;  
+
+ (c) $3,484,800 under consultants and experts to provide for fees 
+($3,196,800) and travel costs ($288,000) based on an estimate of 288 work months 
+of specialized expertise; 
+
+ (d) $8,651,900 under travel of staff, to cover requirements for the travel of 
+Umoja staff to complete the build and deployment of Umoja Foundation in the pilot 
+location and the subsequent clusters, including a provision of $4,592,380 to cover 
+travel costs of the Umoja trainers who will deliver a comprehensive training to end-
+users in the biennium 2012-2013; 
+
+ (e) $34,625,800 under contractual services, largely to cover the requirements 
+for system integrator services ($30,140,600) commencing in early 2012 to build, test 
+and deploy Umoja Foundation, as well as for legal and strategic consulting, training 
+of Umoja staff, including subject matter experts, on enterprise resource planning 
+software, training of trainers and user training for the deployment of Umoja 
+Foundation;  
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 18 
+ 
+
+ (f) $5,164,700 under general operating expenses, to provide for rental of 
+premises, maintenance and support of the local area network technical infrastructure 
+and central servers for support of Umoja and rental and maintenance of office 
+automation equipment;  
+
+ (g) $290,400 under supplies and materials, to provide for stationery and 
+office supplies, including $104,600 for Umoja training materials;  
+
+ (h) $16,499,100 under furniture and equipment, for the acquisition of 
+software licences, furniture and equipment.  
+
+57. Explanations of the variances between the proposals for 2012-2013 as 
+compared to 2010-2011 under individual objects of expenditure are provided in 
+paragraph 78 of the report. The Committee notes that the differences are mainly due 
+to the revised phased implementation approach. 
+ 
+ 
+
+ K. Conclusion and recommendation 
+ 
+ 
+
+58. The proposals for action to be taken by the General Assembly are set out in 
+paragraph 85 of the Secretary-General’s report. The Advisory Committee 
+recommends that the General Assembly:  
+
+ (a) Take note of the Secretary-General’s third progress report on the 
+implementation of the Umoja project taking into account the views and 
+recommendations in the present report, in particular the recommendation in 
+paragraph 19 above that the Secretary-General provide a permanent 
+governance structure for the Umoja project no later than at the first part of the 
+resumed sixty-sixth session of the General Assembly; 
+
+ (b) Authorize the Secretary-General to enter into commitments in a total 
+amount not to exceed $17,806,300 (net), as presented under section 29A, Office 
+of the Under-Secretary-General for Management, of the proposed programme 
+budget for the biennium 2012-2013, representing the regular budget share for 
+the Umoja project (A/66/6 (Sect. 29A) and Corr.1);  
+
+ (c) Note that the requirements for the biennium 2014-2015 in the 
+amount of $13,269,700 (net) will be included in the proposed programme 
+budget under section 29A, Office of the Under-Secretary-General for 
+Management, representing the regular budget share for the Umoja project;  
+
+ (d) Note that the future remaining requirements in the estimated amount 
+of $56,006,500 (net) will be included in the subsequent requirements for the 
+support account for peacekeeping operations for the financial periods 
+beginning from 1 July 2012. 
+ 
+ 
+
+ III. Enterprise information and communications technology 
+initiatives for the United Nations Secretariat  
+ 
+ 
+
+59. The Advisory Committee initially considered the report of the Secretary-
+General on enterprise information and communications technology (ICT) initiatives 
+(A/66/94) in conjunction with his proposals under section 30, Office of Information 
+and Communications Technology, of the proposed programme budget for the 
+
+
+
+ A/66/7/Add.1
+ 
+
+19 11-60207 
+ 
+
+biennium 2012-2013. Just as it was finalizing its report, the Committee was 
+informed that the Secretariat was anticipating delays in the implementation of the 
+enterprise resource planning project and that the Secretary-General would propose 
+measures to mitigate delays in the context of his next progress report, including a 
+revised approach for delivering the project in phases, focusing initially on the 
+functions needed to support the adoption of the International Public Sector 
+Accounting Standards (IPSAS). The Advisory Committee decided to defer the 
+issuance of its report and to revisit the Secretary-General’s proposals for enterprise 
+ICT initiatives until further information on the revised approach for the 
+implementation of Umoja became available. In making its observations and 
+recommendations below, the Committee bore in mind the challenges facing the 
+Organization as it concurrently undertakes multiple major, high-risk and costly 
+initiatives, which must be implemented within tight time frames. 
+
+60. Background to the report of the Secretary-General is given in paragraphs 1 to 3 
+of the report. As indicated, by its resolution 63/262, the General Assembly endorsed 
+the overall approach relating to the ICT strategy for the Secretariat and decided to 
+establish, effective 1 January 2009, the Office of Information and Communications 
+Technology, as a central organizational unit to provide strong leadership for the 
+development and implementation of Organization-wide ICT programmes that 
+effectively support the Secretariat’s mission and its global operations. As one of the 
+first steps in the implementation of the ICT strategy, the Office of Information and 
+Communications Technology conducted a structural review of all ICT units 
+Secretariat-wide and established a comprehensive inventory of ICT capacities across 
+the Organization (A/65/491, paras. 82-103). The key findings of the review were 
+that the ICT environment and processes of the Organization remained highly 
+decentralized, fragmented, duplicatory and non-standardized, thereby driving up the 
+costs of operations and preventing the Organization from realizing economies of 
+scale. Furthermore, a large proportion of resources were directed towards 
+infrastructure and routine operational tasks, and ICT support for programmatic, 
+substantive, administrative and managerial activities was lacking. The review 
+highlighted that annual ICT expenditures of the United Nations were estimated at 
+$774 million, including from regular budget, peacekeeping and support account and 
+extrabudgetary funding sources. In the same report, the Secretary-General also 
+highlighted the difficulties encountered in determining a consolidated budget figure: 
+because of the lack of consistent and comparable data across the Organization, the 
+overall estimate was based on a time-consuming manual compilation of information 
+from a variety of documents, making it difficult to track the costs of ICT activities 
+on a regular basis. 
+
+61. On the basis of the findings of the review, in his progress report on the 
+implementation of the ICT strategy (A/65/491) the Secretary-General proposed four 
+structural review projects aimed at streamlining and standardizing the ICT 
+environments across the Secretariat: (a) globalize service desks; (b) streamline data 
+centres; (c) rationalize ICT organization; and (d) strengthen the Office of 
+Information and Communications Technology. The overall resources proposed for 
+the four projects over a five-year implementation period from 2011 to 2015 
+amounted to $140.7 million ($8.5 million for the biennium 2010-2011, $50.7 million 
+for 2012-2013 and $81.4 million for 2014-2015) and involved the establishment of a 
+total of 51 posts under the regular budget, of which 23 were proposed to be 
+established in 2011 and a further 28 in the biennium 2012-2013. The structural 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 20 
+ 
+
+review projects were proposed to be funded on the basis of the cost-sharing 
+arrangement approved for the enterprise resource planning project, Umoja.3 
+
+62. In its resolution 65/259 on the above proposals, the General Assembly 
+endorsed the related report of the Advisory Committee (A/65/575). It authorized the 
+Secretary-General to proceed with structural review project 3, Rationalize ICT 
+organization, and decided that the $1.5 million required for the project for 2011 
+would be provided from within the resources approved for the biennium 2010-2011. 
+The Assembly also decided to provide general temporary assistance equivalent to 
+seven P-4 positions for structural review project 4, Strengthen the Office of 
+Information and Communications Technology, of which five were to be funded from 
+within existing resources for 2010-2011. The Assembly did not support structural 
+review project 1, Globalize service desks, or structural review project 2, Streamline 
+data centres. It requested the Secretary-General to review the proposals on the 
+implementation of the ICT strategy contained in his report (A/65/491), and to 
+submit new and/or revised proposals in the context of the proposed programme 
+budget for the biennium 2012-2013. The current report of the Secretary-General 
+(A/66/94) is submitted in response to that request. The report also responds to 
+previous requests by the General Assembly in its resolutions 63/262, 63/269 and 
+64/243 concerning the implementation of the solutions for enterprise content 
+management and customer relationship management and the development of a 
+unified disaster recovery and business continuity plan. 
+
+63. In his report (A/66/94), the Secretary-General presents four revised cross-
+cutting, Organization-wide initiatives as follows: 
+
+ (a) Improve enterprise ICT management, integrating earlier proposals for 
+structural review project 3, Rationalize the ICT organization, and structural review 
+project 4, Strengthen the Office of Information and Communications Technology;  
+
+ (b) Leverage knowledge through ICT, formerly referred to as enterprise 
+content management, which responds to the General Assembly’s request for a fully 
+justified proposal for the implementation of enterprise content management in the 
+context of the proposed programme budget for the biennium 2012-2013 (resolution 
+64/243, para. 126); 
+
+ (c) Enhance ICT service delivery, revising the Secretary-General’s previous 
+proposal for structural review project 1, Globalize service desks (see A/65/491) and 
+integrating ongoing implementation of the customer relationship management 
+system. This initiative also responds to the General Assembly’s request for a fully 
+justified proposal for the implementation of customer relationship management in 
+the context of the proposed programme budget for the biennium 2012-2013 (ibid.); 
+
+ (d) Create a resilient ICT infrastructure, presenting a revised proposal for 
+structural review project 2, Streamline data centres (see A/65/491), which 
+incorporates, in response to General Assembly resolutions 63/262, 63/269 and 
+65/259, the requirements for a unified disaster recovery and business continuity 
+plan, including a permanent solution for Headquarters.  
+
+64. Figure 1 of the report illustrates the linkages between previous General 
+Assembly resolutions and the four enterprise ICT initiatives being proposed. For 
+
+__________________ 
+
+ 3  Comprising 15 per cent from the regular budget, 62 per cent from the support account for 
+peacekeeping operations and 23 per cent from the special accounts for programme support costs. 
+
+
+
+ A/66/7/Add.1
+ 
+
+21 11-60207 
+ 
+
+each initiative, the report provides details on the background of the proposal; the 
+objectives to be achieved; the implementation approach, including key activities, 
+phases and a timetable; progress made in related areas since the establishment of the 
+Office of Information and Communications Technology on 1 January 2009; resource 
+requirements proposed for implementation of activities during the biennium 2012-
+2013; and preliminary estimates of requirements for 2014-2015. The Secretary-
+General also provides information on the qualitative and quantitative benefits 
+expected from the implementation of each initiative. Annex IV to the report contains 
+a quantitative benefit analysis for each initiative.  
+
+65. The Secretary-General states that, taken together, these four initiatives would 
+address critical institutional ICT needs and improve the effective and efficient 
+delivery of the Secretariat’s ICT programmes. They would also allow the 
+Organization to move from a decentralized to a federated model, in line with the 
+ICT strategy adopted by the General Assembly. Under that model, the Office of 
+Information and Communications Technology is responsible for setting 
+Organization-wide strategy, standards and policies, providing enterprise systems and 
+infrastructure, and planning and coordinating Secretariat-wide ICT activities, while 
+decentralized, independent ICT units in departments/offices deal with local and 
+operational issues and provide departmental systems and services as required, based 
+on organizational standards. The Secretary-General further indicates that, should the 
+initiatives not be implemented, or only partially implemented, it will be difficult to 
+overcome the challenges arising from the continued fragmentation of ICT capacities 
+and resources across the Organization, including the high cost of ICT operations.  
+
+66. The Secretary-General states that by addressing the fragmentation of the 
+current ICT environment of the United Nations, the implementation of the four 
+initiatives would create an optimal environment for the effective implementation 
+and operation of ICT systems, including enterprise systems, in particular through 
+the establishment of suitable ICT policies and organizational structures, technical 
+architecture and standards, end-user technical services, communications and 
+infrastructure. 
+
+67. The Secretary-General proposes that the four initiatives be carried out over a 
+four-year period from 2012 to 2015 and that they be funded on the basis of the cost-
+sharing arrangement approved for Umoja (see para. 61 above). A summary of the 
+total costs for the implementation of the four initiatives for the biennium 2012-2013 
+is provided in section III of the report of the Secretary-General (A/66/94,  
+paras. 150 and 151). The overall resources proposed for 2012-2013 amount to 
+$42,822,500, comprising $6,423,400 to be funded from the regular budget, 
+$26,550,000 from the support account for peacekeeping operations over the 
+2011/12, 2012/13 and 2013/14 financial periods, and $9,949,100 in extrabudgetary 
+resources from the special accounts for programme support costs. Estimated 
+requirements for the biennium 2014-2015 and beyond range from $37 to  
+$54 million.  
+
+68. The Secretary-General states that, in response to the General Assembly’s 
+request, the proposals presented in previous reports were reviewed and revised with 
+the goal of presenting an integrated set of new proposals and achieving a similar 
+impact at a significantly reduced cost by leveraging existing efforts and 
+technological tools across the Organization. The Advisory Committee notes that the 
+proposed initiatives were developed in consultation and collaboration with 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 22 
+ 
+
+departments and offices through the ICT governance mechanisms in place and that 
+they are to be deployed through a joint effort of the Office of Information and 
+Communications Technology and other organizational units (see A/66/94, para. 7).  
+
+69. The Advisory Committee was informed that the $42.8 million proposed for the 
+four initiatives for the biennium 2012-2013 reflected a 33 per cent reduction as 
+compared to combined resource requirements of $64 million for the previous 
+proposals contained in documents A/65/491 and A/62/510/Rev.1. The Committee 
+was provided with summary information on the differences and cost comparisons 
+between the current and previous proposals, which are attached as annexes VI and 
+VII below. An overview of the key activities undertaken in the area of each initiative 
+and progress made since 2009 is provided in annex VIII below. 
+
+70. In its first report on the proposed programme budget for the biennium 2012-
+2013, the Advisory Committee noted that the regular budget share of the resources 
+proposed for the four initiatives was not reflected under budgetary proposals for 
+2012-2013 (A/66/7, para. VIII.128). The proposals contained in document A/66/94 
+would therefore represent additional requirements under section 30, Office of 
+Information and Communications Technology ($5,639,100) and section 29D, Office 
+of Central Support Services ($784,300). Upon request, the Committee was provided 
+with the following clarification as to how each initiative was related to section 30 of 
+the proposed programme budget, including information on the subprogramme and 
+the organizational unit responsible for its implementation:  
+ 
+
+Initiative Subprogramme Organizational unit 
+
+A. Improve enterprise ICT 
+management 
+
+ Executive direction and 
+management 
+
+ 5, ICT strategic management and 
+coordination 
+
+ 6, ICT operations 
+ Programme support 
+
+ Office of the Chief Information 
+Technology Officer 
+
+ Strategic Management Service 
+ Infrastructure Management 
+
+Service 
+ Field Application Section 
+ Executive Office 
+
+B. Leverage knowledge through ICT  6, ICT operations  Knowledge Management Service
+C. Enhance ICT service delivery  6, ICT operations  Resource Management Service 
+
+ Infrastructure Management 
+Service 
+
+D. Create resilient ICT infrastructure  6, ICT operations  Infrastructure Management 
+Service 
+
+ 
+ 
+
+
+
+ A/66/7/Add.1
+ 
+
+23 11-60207 
+ 
+
+ A. General observations and recommendations 
+ 
+ 
+
+71. The Advisory Committee recognizes the effort made to present a revised 
+proposal for the implementation of the ICT strategy at a reduced cost. It notes 
+the approach taken to integrate and combine, under each of the four enterprise 
+ICT initiatives, the related structural review projects and ongoing activities of 
+the Office, as well as proposals in response to outstanding requests of the 
+General Assembly concerning enterprise content management, customer 
+relationship management and disaster recovery and business continuity. The 
+Committee considers that such an approach would avoid piecemeal 
+implementation of the ICT strategy and also allow consolidation and 
+streamlining of the reports on ICT matters submitted for consideration by the 
+General Assembly. In the Committee’s view fragmented reporting is unhelpful 
+and confusing. 
+
+72. As to the substance of the proposals, which was extensively discussed in 
+earlier reports, the Committee notes that the envisaged solutions are anchored 
+in an analysis of the outcome of the structural review of ICT capacities across 
+the Secretariat, which confirmed the fragmented state of the ICT environment 
+and the need for greater coherence and coordination in the management of ICT 
+activities (see A/65/491, paras. 93-103 and A/65/576, paras. 92-93). The 
+Committee has, over the years, repeatedly stressed the need for common 
+Secretariat-wide systems and platforms wherever possible, as well as central 
+leadership for policy, strategic guidance and standard-setting in the area of 
+information and communications technology, and broadly agrees with the 
+approach proposed by the Secretary-General.  
+
+73. Under the Improve enterprise ICT management initiative, the Secretary-
+General outlines a strategy to address the question of ICT posts expected to be 
+released and made available for redeployment through attrition, consolidation of 
+ICT units at the departmental level, optimized distribution of Secretariat-wide ICT 
+activities, or implementation of a global ICT staffing model (A/66/94, paras 20-27). 
+He indicates that future proposals on any staff reduction will be prepared in close 
+consultation with the relevant departments/offices and presented to the General 
+Assembly for consideration, as part of the normal departmental budget submission 
+process. He further states that any action approved by the Assembly will be 
+implemented in close collaboration with the Office of Human Resources 
+Management. The Advisory Committee is of the view that staffing implications 
+of technological change can be accommodated through careful planning of 
+future human resources needs, in consultation with all relevant departments. It 
+emphasizes that acceptance of the direction and objectives of the ICT strategy 
+will be key to the success of this endeavour, and recommends that every effort 
+be made to ensure close cooperation of departments and offices across the 
+Secretariat with the Office of Information and Communications Technology. 
+The Committee also emphasizes that the Office of Information and 
+Communications Technology should work closely with the Office of Human 
+Resources Management in the design, development and implementation of the 
+ICT global staffing model, which should be incorporated as part of a 
+Secretariat-wide workforce planning exercise.  
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 24 
+ 
+
+74. For each initiative, the Secretary-General sets out in some detail information 
+on the qualitative and quantitative benefits that are expected from its 
+implementation in terms of improved service delivery; transparency; distribution of 
+ICT roles; utilization of ICT resources; coordination and coherence among ICT 
+units, operations and processes; responsiveness to clients; support for substantive 
+and knowledge management activities; and efficiency gains and cost savings to be 
+realized through greater automation and reduced duplication. In annex IV to his 
+report, the Secretary-General provides a quantitative benefit analysis for each 
+initiative (except the Improve enterprise ICT management initiative), including, in 
+monetary terms, the low and high range of estimated benefits for each expected 
+improvement, along with information on the underlying assumptions and calculation 
+methodology. The expected improvements cover a broad range of performance 
+measures reflecting expected economies, efficiency gains or improved effectiveness, 
+translated into time and cost savings or cost avoidance. The overall benefits 
+expected to be realized on an annual basis are estimated at between $80.6 and 
+$114.5 million.  
+
+75. The Advisory Committee is of the view that, in some cases, the 
+performance measures are lacking in specificity and that the estimated benefits 
+are based on broad averages which do not appear to be very meaningful. For 
+example, under the Leverage knowledge through ICT initiative, the improvement 
+“Enhanced information-sharing across departments and locations” is expected to 
+yield between $3 and $3.7 million in cost savings per year. The explanatory footnote 
+indicates that the amount is based on the assumption that enhanced information-
+sharing will allow some 8,000 people to save 10 minutes per week, and that 65 per 
+cent of that time will be used productively. In this particular case, the Advisory 
+Committee considers that differentiated targets by occupational group could be 
+established, with more specific and measurable targets for productivity gains for 
+each group. The Committee recommends that, for the purpose of establishing 
+benchmarks, the Secretary-General be requested to continue to develop and 
+refine the performance measures and the methodology applied for estimating 
+the quantitative benefits resulting from economies, efficiency gains and 
+improved effectiveness, and to provide, where relevant and to the extent 
+possible, industry benchmarks for comparative purposes.  
+
+76. In annex III to his report, the Secretary-General sets out the conditions that 
+need to be in place for benefits to be realized, highlighting the indicative nature of 
+the estimates and lack of reliable data to serve as the basis for the calculation. He 
+further states that the potential savings would be available, at the earliest, after new 
+processes and structures have been fully deployed and stabilized for at least one 
+year. In the Advisory Committee’s view, given the conditions set out by the 
+Secretary-General, the probability of effective realization of the expected 
+quantified benefits in the future appears to be hypothetical at this stage. In this 
+regard, the Committee points out that, even under the best of circumstances, 
+projects with long timescales present considerable risks as to the effective 
+realization of the targets planned at inception, owing to the changes occurring 
+over time to project objectives, implementation activities and costs, as well as 
+turnover of project personnel. The Committee is of the view that the future 
+credibility of the ICT strategy depends on demonstrating the realization of 
+actual benefits in future progress reports. It expects that the actual quantified 
+benefits realized will be reported in the annual reports of the Secretary-General 
+
+
+
+ A/66/7/Add.1
+ 
+
+25 11-60207 
+ 
+
+on progress in the implementation of the ICT strategy. The Committee 
+considers that the findings of the structural review (see para. 61 above) 
+constitute a baseline of the status of ICT from which progress should be 
+measured. 
+
+77. In making its observations and recommendations on the individual initiatives 
+in section III.C below, the Advisory Committee focused its attention on the 
+differences between earlier and current proposals, the proposed resource 
+requirements and activities accomplished since the issuance of the previous report 
+(A/65/491). In that report, the Secretary-General provided an in-depth analysis of 
+the outcome of the structural review of ICT capacities across the Secretariat, with an 
+Organization-wide perspective on the ICT resources and state of the ICT 
+environment of the United Nations. He also provided detailed information on the 
+rationale, objectives, benefits and implementation plans of the four projects 
+proposed to address the findings of the structural review. In its related report, the 
+Advisory Committee commented extensively on those proposals. The Committee 
+points out that, while the current report of the Secretary-General revises and 
+repackages the structural review projects as enterprise ICT initiatives, 
+broadens their scope in some areas and incorporates additional requirements 
+such as enterprise content management, the thrust of the main proposals 
+remains unchanged. The weaknesses that the proposals are intended to address 
+likewise remain unchanged. The Committee’s related observations and 
+recommendations in its report A/65/576 also remain valid. 
+
+78. In paragraphs 41 to 59 of his previous report on the status of implementation 
+of the ICT strategy (A/65/491), the Secretary-General provided an update on the 
+objectives and key activities undertaken and planned with respect to the ICT 
+management framework and each of the three ICT strategic programmes: knowledge 
+management, resource management and infrastructure management. In its related 
+report, the Advisory Committee expressed its appreciation for the presentation of a 
+comprehensive overview of the ICT activities undertaken Secretariat-wide, 
+including the update on the implementation status of key enterprise systems (see 
+A/65/576, para. 58). The Committee recommends that the Secretary-General be 
+requested to continue to provide a similarly comprehensive update and to 
+further expand on the status of the major enterprise systems under 
+development in the next annual progress report on the implementation of the 
+ICT strategy.  
+
+79. In its previous report, the Advisory Committee recommended that the 
+Secretary-General review the prioritization and phasing of the structural review 
+projects and present alternative implementation approaches (ibid., para. 99). While 
+noting the attention that has been given to the Committee’s comments and 
+recommendations in the formulation and presentation of the enterprise ICT 
+initiatives, as well as the efforts made to lower overall costs, the Committee 
+points out that the proposals for the enterprise ICT initiatives still represent a 
+significant outlay. Moreover, the Committee is not convinced that the whole 
+range of activities associated with the four enterprise ICT initiatives needs to be 
+implemented at the same time. In the light of the difficulties encountered in the 
+management of the Umoja project, the Committee is equally unconvinced about 
+the Secretariat’s capacity to undertake and successfully execute a large number 
+of complex, management reform initiatives concurrently, in particular 
+initiatives involving significant institutional change (see para. 59 above). 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 26 
+ 
+
+Furthermore, given the tight timetable for the adoption of IPSAS by 2014 (see 
+A/66/379), the Committee believes that the Secretariat should, to the extent 
+possible, avoid launching major new initiatives and proceed with the 
+implementation of ongoing projects in a more gradual manner that allows 
+proper analysis and absorption of the lessons learned from recent experience. 
+Accordingly, in its discussion on individual initiatives in section III.C below, the 
+Committee recommends that the Secretary-General further reprioritize and 
+reduce the scope of the activities envisaged for the biennium 2012-2013 under 
+each of the four enterprise ICT initiatives and identify the features that could 
+be postponed without cutting short or negatively impacting ongoing activities 
+or compromising return on investments already made. 
+ 
+ 
+
+ B. Overall resource requirements 
+ 
+ 
+
+80. The tables below provide a summary of the resource requirements for the four 
+initiatives by object of expenditure and funding source for the biennium 2012-2013 
+and the low and high range estimates for the biennium 2014-2015 and beyond. The 
+Advisory Committee was informed that, except for the 14 regular budget posts, 
+which are proposed to be established under the first initiative and represent ongoing 
+expenditures, funding for all other activities envisaged under the four initiatives 
+represented a one-time investment, and that no further costs would be required upon 
+completion of the implementation. The Committee notes that a significant 
+proportion of the resource requirements is proposed under contractual services. To 
+facilitate consideration of the proposed requirements, a breakdown by type of 
+expenditure for software licences and tools, personnel costs, hardware and 
+infrastructure, and change management activities is provided in table 1 below. 
+ 
+
+Table 1 
+  Proposed resource requirements by object of expenditure for the biennium 
+
+2012-2013 
+(Thousands of United States dollars) 
+
+Object of expenditure 
+Improve enterprise 
+
+ICT management
+Leverage knowledge 
+
+through ICT
+Enhance ICT  
+
+service delivery 
+Create a resilient 
+
+ICT infrastructure
+
+Posts 2 883.6 — — —
+
+Other staff costs 1 346.6 — — 511.2
+
+Travel of staff 150 19.6 16.5 —
+
+Contractual services 498 10 057.2 11 103.5 4 369.5
+
+ Software licences and tools — 3 013 3 947.3 2 230.2
+
+ Personnel — 4 755.8 7 156.2 2 139.3
+
+ Hardware and infrastructure — 572.6 — —
+
+ Change management  — 1 715.8 — —
+
+General operating expenses 2 973.7 1 059.6 443.3 —
+
+Supplies and materials — — 1 166.1 —
+
+Furniture and equipment 502 17.6 27.4 4 947.2
+
+ Total 8 353.9 11 488.8 13 151.9 9 827.9
+ 
+ 
+
+
+
+ A/66/7/Add.1
+ 
+
+27 11-60207 
+ 
+
+Table 2 
+  Proposed resource requirements by funding source for the biennium 2012-2013 
+
+(Thousands of United States dollars) 
+
+Funding source 
+Improve enterprise 
+
+ICT management
+Leverage knowledge 
+
+through ICT
+Enhance ICT  
+
+service delivery 
+Create a resilient 
+
+ICT infrastructure
+
+Regular budgeta 1 253.1 1 723.3 1 972.8 1 474.2
+
+Peacekeeping support account 5 179.4 7 123.1 8 154.2 6 093.3
+
+Extrabudgetary 1 921.4 2 642.4 3 024.9 2 260.4
+
+ Total 8 353.9 11 488.8 13 151.9 9 827.9
+ 
+
+ a The delayed impact in future bienniums of the 14 regular budget posts proposed to be established is 
+estimated at $2,325,600. 
+
+ 
+ 
+
+Table 3 
+  Estimated resource requirements for the biennium 2014-2015 and beyond 
+
+(Thousands of United States dollars) 
+
+Estimates  
+Improve enterprise 
+
+ICT management
+Leverage knowledge 
+
+through ICT
+Enhance ICT  
+
+service delivery 
+Create a resilient 
+
+ICT infrastructure
+
+Posts (delayed impact) 2 325.6 — — —
+
+Low range requirements 1 000 8 000 14 900 11 600
+
+High range requirements 2 000 12 000 22 300 17 400
+ 
+ 
+ 
+
+ C. Observations and recommendations on individual initiatives 
+ 
+ 
+
+ 1. Improve enterprise ICT management 
+ 
+
+81. The Secretary-General’s proposals for the Improve enterprise ICT management 
+initiative, are presented in paragraphs 8 to 53 of his report. The initiative combines 
+and builds on two previous interrelated proposals, which were presented in 
+document A/65/491: structural review project 3, Rationalize the ICT organization, 
+and structural review project 4, Strengthen the Office of Information and 
+Communications Technology. As indicated in paragraph 62 above, by its resolution 
+65/259, the General Assembly authorized the Secretary-General to proceed with 
+structural review project 3, Rationalize ICT organization and decided that the 
+$1.5 million required for the project for 2011 would be provided from within the 
+resources approved for the biennium 2010-2011. The Assembly also decided to 
+provide general temporary assistance equivalent to seven P-4 positions for structural 
+review project 4, Strengthen the Office of Information and Communications 
+Technology, of which five were to be funded from within existing resources for 
+2010-2011. The Secretary-General indicates that resource requirements continue to 
+be monitored in order to identify funding for the $1.5 million and 5 P-4 general 
+temporary positions approved for the project from within existing resources. At the 
+time of its consideration of the Secretary-General’s current proposal in July 2011, 
+the Advisory Committee was informed that funding for those resources had not yet 
+been identified and that recruitment for two P-4 general temporary assistance 
+positions was under way. The Committee was further informed that the resources for 
+the two P-4 general temporary assistance positions were provided on a one-time 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 28 
+ 
+
+basis for 2011 and were not proposed to be continued in the budgetary proposals for 
+section 30 for the biennium 2012-2013 (see A/66/7, para. VIII.134).  
+
+82. The Advisory Committee was informed that the objectives and implementation 
+approach for the Rationalize ICT organization portion of the initiative remained 
+largely unchanged as compared to the previous proposal in document A/65/491. 
+However, the implementation schedule had been adapted to reflect the activities 
+already completed, which included, inter alia: the definition of ICT functions, jobs 
+and sourcing rules; the organizational review of OICT; and the design of criteria and 
+processes for a departmental review of ICT units (see A/66/94, para. 38 and fig. II). 
+The Committee was also informed that the Office had established a new ICT 
+governance framework and a client services function, developed several ICT 
+policies, increased its use of standards and reviewed Secretariat-wide ICT budget 
+proposals.  
+
+83. In paragraph 16 of his report, the Secretary-General indicates that there are 
+close to 2,000 applications, which will be reduced through sustained coordination of 
+cross-cutting ICT functions and as a result of the implementation of the enterprise 
+resource planning system, Umoja. In its previous report, the Committee 
+recommended that the Umoja project team establish, in cooperation with the Office 
+of Information and Communications Technology, an inventory of the applications 
+that could be replaced by the enterprise resource planning system. It expressed the 
+view that the activities related to the planning of decommissioning activities should 
+be coordinated by the Office of Information and Communications Technology, in the 
+context of the projects arising from the outcome of the structural review of ICT 
+capacities (A/65/576, para. 32). The Advisory Committee emphasizes the 
+importance of reducing the fragmentation of applications and infrastructures 
+and eliminating duplicate and redundant systems (see also paras. 39 and 40 
+above). A comprehensive inventory of Organization-wide applications and 
+infrastructure that could be consolidated or replaced should be established. 
+The Committee recommends that the Secretary-General be requested to pursue 
+his analysis and to provide information on progress in this regard in the context 
+of his next progress report.  
+
+84. As regards the proposals for the strengthening of the Office of Information and 
+Communications Technology, the Secretary-General indicates that an organizational 
+review of the Office was conducted in 2010 as part of the Rationalize ICT 
+organization structural review project (A/66/94, para. 31). According to the 
+Secretary-General, the review determined that seven critical cross-cutting functions 
+were understaffed and required strengthening to enable the Office to make progress 
+in implementing the ICT strategy in the areas of: enterprise architecture and 
+standards; security and risk management; strategic planning and policy 
+development; ICT portfolio management, including ICT financial management; ICT 
+performance management; business relationship management; and technology 
+research (A/66/94, paras. 31-34). On the basis of the findings of the review, the 
+Secretary-General is proposing to redeploy seven positions within the Office from 
+operational to cross-cutting functions, as well as to establish 14 new posts (2 D-2,  
+2 P-5, 10 P-4) in the biennium 2012-2013, to further strengthen capacity in those 
+cross-cutting areas. Annex II to the report of the Secretary-General provides an 
+organizational chart of the proposed structure of OICT for the biennium 2012-2013, 
+showing the proposed redeployments and new posts by division/service and 
+subprogramme.  
+
+
+
+ A/66/7/Add.1
+ 
+
+29 11-60207 
+ 
+
+85. Figure II of the report shows the schedule of the key implementation activities 
+to be undertaken in the context of the Improve enterprise ICT initiative, which are 
+described in paragraph 44 of the report. The Secretary-General indicates that work 
+will continue on implementing the global ICT staffing model and standardizing 
+functional titles and job descriptions, in close consultation with the Office of Human 
+Resources Management. All ICT units in the Secretariat will be reviewed, resulting 
+in recommendations on structural changes to the units, their reporting arrangements 
+within their respective departments and offices, and a clear division of labour 
+among ICT service providers. As indicated in paragraph 20 of the report, the review 
+of ICT units will lead to proposals for the consolidation of ICT units at the 
+departmental level and Secretariat-wide optimized distribution of ICT activities, 
+including a reduction in overall ICT staffing needs 
+
+86. The Advisory Committee notes that the recommendations will be presented to 
+the General Assembly for consideration (see also para. 73 above) as part of the 
+budgetary process, in the context of the proposed programme budget for 2014-2015 
+for departments/offices at Headquarters and at offices away from Headquarters, and 
+as part of the peacekeeping budget proposals for the period 2013/14 as regards any 
+recommendation concerning the Department of Field Support and an initial “wave” 
+of field missions reviewed. The Secretary-General envisages implementation of any 
+changes approved by the General Assembly starting in the second part of 2013 for 
+the initial field missions and in 2014 for departments/offices at Headquarters and in 
+offices away from Headquarters. He indicates that the strengthening of the cross-
+cutting ICT functions constitutes an ongoing effort, initiated in 2011, which is to be 
+continued throughout the duration of the implementation of the ICT strategy. 
+
+87. Resource requirements estimated for the initiative amount to $8.4 million, 
+comprising: (a) $2,883,600 in relation to the proposed establishment of 14 posts  
+(2 D-2, 2 P-5, 10 P-4); (b) $1,346,600 for general temporary assistance equivalent to 
+two posts at the P-5 level, two posts at the P-4 level and one post at the P-3 level for 
+12 months each in 2012, and one post at the P-4 level for an additional 6 months in 
+2013 to carry out activities related to the rationalization of ICT structures and 
+development of the ICT global staffing model and strategic workforce planning 
+framework; (c) $150,000 for travel of staff; (d) $498,000 for contractual services to 
+cover requirements for change management for the estimated 5 to 10 per cent of ICT 
+staff that will be redeployed towards different job functions; (e) $2,973,700 under 
+general operating expenses to cover expenditures for rental of premises and other 
+costs in connection with the establishment of the proposed posts and the 
+continuation of general temporary assistance; and (f) $502,000 under furniture and 
+equipment, also in relation to proposed posts and staffing. The delayed impact of the 
+14 proposed posts from the biennium 2014-2015 is currently estimated at 
+$2,325,600 (see A/66/94, table 1 and paras. 45-53). 
+
+88. Details on the functions of the proposed posts are provided in paragraph 35 of 
+the report of the Secretary-General. The Advisory Committee was informed that 7 of 
+the 10 P-4 posts proposed corresponded to the 7 general temporary assistance 
+positions previously approved by the General Assembly (see resolution 65/259 and 
+para. 81 above), which were being proposed for conversion. The 14 posts proposed 
+for establishment/conversion are as follows:  
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 30 
+ 
+
+ (a) Under executive direction and management: 
+
+ (i) One D-2 post for a Director for global strategy management is proposed 
+in the Office of the Chief Information Technology Officer. The incumbent 
+would be responsible, in close consultation with the Chief Information 
+Technology Officer, for ensuring coherence of Organization-wide ICT 
+activities and operations across 70 ICT units, with respect to infrastructure and 
+architecture, applications development, business process re-engineering, 
+networks, outsourcing and ICT operations and support; 
+
+ (ii) One P-4 Communications Officer is proposed to manage the ICT 
+communications strategy for the Secretariat and coordinate its implementation, 
+promote strategic programmes and initiatives and provide advice and expertise 
+to ICT programme managers and other ICT staff on a range of communications 
+issues, methods and approaches. 
+
+ (b) Under subprogramme 5, ICT strategic management and coordination: 
+
+ (i) One P-5 post is proposed for ICT security management in the Strategic 
+Management Service. The incumbent would be responsible for planning, 
+creating and implementing ICT security management and ensuring that 
+activities of all the security functions across the Secretariat are coordinated 
+efficiently. He/she would also ensure that information relating to ICT security 
+is communicated among affected stakeholders, thereby minimizing the 
+exposure of the Organization to ICT security risks and cyberattacks; 
+
+ (ii) One P-4 Officer for strategic planning and policy development is 
+proposed for conversion in the Strategic Management Service. The incumbent 
+would be responsible for planning, developing and updating the ICT strategy 
+and for monitoring and reporting on the implementation of the ICT strategy 
+across ICT units. He/she would ensure alignment of local and enterprise ICT 
+strategies and the consistent implementation of the ICT strategy across the 
+70 ICT units in the Secretariat; 
+
+ (iii) One P-4 Officer for enterprise architecture is proposed for conversion in 
+the Strategic Management Service. The incumbent would be responsible for 
+providing overall direction, guidance and definition of an enterprise 
+architecture for the analysis, design and delivery of ICT solutions that are 
+appropriate for both substantive and technology areas; 
+
+ (iv) One P-4 Officer for technology research is proposed for conversion in 
+the Strategic Management Service. The incumbent would be responsible for 
+coordinating Organization-wide technology research activities in cooperation 
+with ICT units, tracking emerging technologies and providing guidance and 
+strategic advice on their utilization in the Secretariat. He/she would also assist 
+in the definition of the architecture and technology needs of the Organization 
+based on new and emerging technologies; 
+
+ (v) One P-4 Officer for ICT performance management is proposed for 
+conversion in the Strategic Management Service. The incumbent would be 
+responsible for establishing Organization-wide performance standards for ICT 
+units and establishing appropriate internal and external reporting mechanisms; 
+
+
+
+ A/66/7/Add.1
+ 
+
+31 11-60207 
+ 
+
+ (vi) One P-4 Officer for ICT portfolio management is proposed for 
+conversion in the Strategic Management Service. The incumbent would be 
+responsible for maintaining the inventory of ICT capacities established in the 
+context of the structural review and creating appropriate processes and systems 
+to ensure transparency of the ICT expenditures of the Organization and to 
+support decision-making on ICT investments; 
+
+ (vii) Two P-4 Officers for business relationship management are proposed for 
+conversion in the Strategic Management Service. The incumbents would be 
+responsible for establishing, managing and maintaining strategic relationships 
+with customers across the Organization in order to ensure alignment of ICT 
+solutions with the needs of the Organization. They would also be responsible 
+for negotiating the consolidation of similar applications across substantive 
+areas and reducing the number of redundant applications. 
+
+ (c) Under subprogramme 6, ICT operations: 
+
+ (i) One D-2 post for a Director is proposed in the Infrastructure 
+Management Service. The incumbent would be responsible for providing 
+direction and coordination of enterprise infrastructure development and 
+operations, including global ICT disaster recovery, as well as for leading the 
+United Nations system-wide infrastructure harmonization efforts. He/she 
+would be responsible for driving the Organization-wide infrastructure 
+architecture and standardization and ensuring increased availability and 
+reliability of the global ICT infrastructure; 
+
+ (ii) One P-5 post is proposed for the Chief of the Field Systems Service for 
+enterprise applications development in the field. The incumbent would be 
+responsible for leading the Field Systems Service, which has been operating 
+without a Chief since its transfer to the Office of Information and 
+Communications Technology from the Department of Field Support on 
+1 February 2009. 
+
+ (d) Under programme support: 
+
+ (i) One P-4 post is proposed for human resources management in the 
+Executive Office;  
+
+ (ii) One P-4 post is proposed for financial management in the Executive 
+Office. 
+
+89. Recognizing the need for direction and coordination of enterprise ICT 
+infrastructure, the Advisory Committee recommends approval of the proposed 
+post for a Director for the Infrastructure Management Service at the D-2 level. 
+Pending completion of the Secretary-General’s review of all ICT units in the 
+Secretariat and the availability of further information on overall ICT staffing 
+needs (see paras. 85 and 86 above), the Committee believes that it would be 
+premature to establish new ICT posts for the Office of Information and 
+Communications Technology. It recognizes, however, the need to temporarily 
+augment the capacity of the Office of Information and Communications 
+Technology to undertake the strategic, cross-cutting activities of its broadened, 
+Organization-wide mandate, including the development of enterprise 
+architecture and standards (see A/65/576, para. 100). Bearing in mind the 
+General Assembly’s decisions on the Secretary-General’s earlier proposals (see 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 32 
+ 
+
+para. 62 above), the Advisory Committee recommends continuation of the seven 
+P-4 general temporary assistance positions approved by the General Assembly 
+in its resolution 65/259. The Committee recommends against approval of the 
+remaining proposals for the D-2 post for a Director for global strategy 
+management, the P-5 post for ICT security management, the P-5 post for the 
+Chief of the Field Systems Service for enterprise applications development in 
+the field, the P-4 post for a Communications Officer in the Office of the Chief 
+Information Technology Officer and the two P-4 posts under programme 
+support.  
+ 
+
+ 2. Leverage knowledge through information and communications technology 
+ 
+
+90. The second initiative, Leverage knowledge through ICT, formerly referred to 
+as enterprise content management, is designed to provide an integrated knowledge 
+management programme comprising functions for collaboration, document/records 
+management, web content management and enterprise search. The proposal also 
+responds to paragraph 126 of resolution 64/243, in which the General Assembly 
+requested the Secretary-General to submit a fully justified proposal for post and 
+non-post resources concerning the implementation of enterprise content 
+management in the context of the proposed programme budget for the biennium 
+2012-2013. The Advisory Committee recalls that enterprise content management 
+was not covered under the previous proposals for four structural review projects 
+contained in document A/65/491.  
+
+91. The Secretary-General’s proposals for the Leverage knowledge through ICT 
+initiative are set out in paragraphs 54 to 82 of his report (A/66/94). The key 
+challenges to be addressed in implementing the initiative include the lack of 
+Organization-wide standards and tools for effective web publishing and 
+collaboration, as well as the absence of a centralized document repository and 
+taxonomical classification to facilitate search and use of information stored in 
+numerous repositories across the Organization (A/66/94, para. 57). The Secretary-
+General indicates that a knowledge management road map was developed in 2009 
+through collaboration between departments and offices, discussions within the 
+Working Group on Knowledge Management and with the assistance of knowledge 
+management experts. The road map showed that the prevalence of inconsistent 
+knowledge management activities and inconsistent use of technological tools 
+continued to impede the Organization’s ability to carry out its programmes 
+effectively, while needlessly increasing the cost of operations (A/66/94, para. 56).  
+
+92. The Secretary-General indicates that the objectives pursued under the 
+Leverage knowledge through ICT initiative are to create enterprise-wide platforms; 
+improve and enhance analysis and decision-making support capabilities; improve 
+information management policies and processes; facilitate and enhance knowledge 
+sharing and collaboration; improve the management of websites and their content; 
+improve the organization, accessibility and usability of information; and retain 
+institutional knowledge (ibid., para. 59).  
+
+93. The qualitative and quantitative benefits expected through the implementation 
+of the initiative are set out in paragraphs 61 and 62 of the Secretary-General’s 
+report. The Secretary-General indicates that the amount of resources devoted to 
+knowledge management activities, although currently unavailable with any degree 
+of precision, is estimated to be very high, given the extensive fragmentation of the 
+
+
+
+ A/66/7/Add.1
+ 
+
+33 11-60207 
+ 
+
+content management processes, tools and resources of the Organization. After full 
+implementation, it is estimated that the overall savings from this initiative will range 
+between $23 million and $28 million on an annual recurring basis. Details of the 
+expected improvements and resulting savings are provided in annex IV to the 
+Secretary-General’s report. The Advisory Committee points out that its 
+comments in paragraph 75 above, on the need for continued refinement of 
+performance measures and the methodology for estimating savings and 
+efficiency gains, apply equally to the benefits identified with respect to the 
+Leverage knowledge through ICT initiative.  
+
+94. The implementation plan for the Leverage knowledge through ICT initiative is 
+outlined in paragraphs 63 to 76 of the Secretary-General’s report, covering the 
+approach, key implementation activities and schedule. The Advisory Committee 
+notes that the following set of four core knowledge management capabilities will be 
+implemented at each duty station:  
+
+ (a) A collaboration component, to enable the Organization to build virtual 
+partnerships, share knowledge, find experts and form communities of practice. The 
+current tool in place, e-Room, will be supplemented by more modern tools allowing 
+blogging, wikis and further options for United Nations personnel to connect and 
+consult with one another; 
+
+ (b) A documents records management component, to enable the Organization 
+to create, use, share, retain and dispose of documents and other kinds of content, 
+such as e-mail, in line with enterprise policies, standards and guidelines. The 
+Secretary-General indicates that on the basis of the enterprise content management 
+road map developed in 2009 (see para. 91 above), a standard documents/records 
+management system was developed late in 2010, designed to provide a centralized, 
+secure and scalable repository for all types of United Nations documents. Its main 
+functionalities include: creating document management workflows; enabling 
+document library services such as check-in, check-out and version control; 
+managing retention and disposal rules and schedules; securing access to documents; 
+and digitizing paper documents. The project is to be implemented in phases over 
+two bienniums (2012-2013 and 2014-2015), supported by the Office of Information 
+and Communications Technology. In addition, the Official Document System (ODS) 
+will be migrated to the system to improve ODS functionality and reliability; 
+
+ (c) A web content management component, to enable the Organization to 
+improve its Internet presence by facilitating the configuration, deployment, 
+customization and optimization of sites, site collections, pages, web parts and 
+documents. The project will first create an “iSeek 2.0” for the Secretariat’s Intranet, 
+and development work will be piloted on selected Internet websites. The web 
+content management system will subsequently be applied to high-impact United 
+Nations websites, including www.un.org, and will eventually be based on a global 
+platform, built in accordance with appropriate governance rules for policies, 
+procedures, guidelines and standards and with support services that oversee, 
+streamline and provide quality assurance for the creation of new websites; 
+
+ (d) An enterprise search component will index a large volume of information 
+and knowledge in various repositories, and enable the Organization to search and 
+find relevant information in a more effective way. The Secretary-General indicates 
+that, initially, the enterprise search system will be applied to existing document 
+repositories, such as www.un.org, ODS and iSeek, and subsequently to other sources 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 34 
+ 
+
+of information in the documents/records management and collaboration 
+environments. As new repositories are introduced, they will be included in the 
+enterprise search system, ultimately resulting in a one-stop search portal for the 
+entire Organization, Member States and other stakeholders. 
+
+95. The Secretary-General states that these components must be implemented 
+together in order to improve the ability of the Organization to gather, analyse, 
+synthesize and present information throughout the entire life cycle of institutional 
+knowledge and make knowledge more accessible to all stakeholders, worldwide. He 
+also highlights the requirement for the full support of departments/offices and the 
+need to plan and coordinate implementation through well-organized governance 
+mechanisms, in order to achieve success and ensure the adoption of improved 
+knowledge management policies, processes and technology tools. The governance 
+mechanisms in place to ensure such coordination include the ICT Executive 
+Committee, the ICT Advisory Group, the Working Group on Knowledge 
+Management and the managers of departments and offices throughout the 
+Secretariat (ibid., paras. 63-65).  
+
+96. Figure IV of the Secretary-General’s report shows the implementation 
+schedule of the key activities to be accomplished in 2012-2013, including: 
+establishing enterprise-wide knowledge management infrastructure and governance; 
+initiating pilot projects on collaboration and documents/records management; 
+initiating pilot projects on web content management; rolling out knowledge 
+management activities for up to 10 departments, offices away from Headquarters 
+and field missions; and establishing enterprise search capabilities. In 2014-2015, it 
+is envisaged to roll out and support knowledge management to remaining 
+departments, offices away from Headquarters and field missions, and to maintain 
+service delivery (ibid., para. 76).  
+
+97. The total resources proposed for the biennium 2012-2013 for the 
+implementation of the initiative amount to $11.5 million, comprising $1.7 million in 
+regular budget resources, $7.1 million from the support account and $2.6 million 
+from extrabudgetary funding sources. The Advisory Committee notes that the 
+totality of the resources proposed represents a one-time cost that would no longer be 
+required after full implementation of the initiative (see para. 80 above). It was 
+informed that, in comparison, the previous proposals for enterprise content 
+management put forward in document A/62/510/Rev.1 amounted to $14.9 million. 
+The Secretary-General indicates that the requirements for his current proposal were 
+reduced through the adoption of a phased approach starting with a pilot 
+implementation, and also by building on knowledge management activities already 
+accomplished within existing resources since the elaboration of the initial proposals. 
+The Committee was also informed that progress had been made in the following 
+areas: issuance of policies and standards by the Working Group on Knowledge 
+Management; procurement and setting up of an enterprise content management 
+platform; selective deployment of collaboration tools; piloting of a document and 
+records management and information portal; and improvement of the search 
+functions of ODS and other repositories. 
+
+98. The estimated requirements of $11.5 million proposed for the implementation 
+of the initiative in 2012-2013 are broken down as follows: (a) $196,000 for travel of 
+staff; (b) $10,057,200 for contractual services, comprising $3,013,000 for additional 
+software licences and maintenance, $4,755,800 for contractual personnel, $572,600 
+
+
+
+ A/66/7/Add.1
+ 
+
+35 11-60207 
+ 
+
+for hardware and storage, and $1,715,800 for change management activities; 
+(c) $1,059,600 under general operating expenses for common support costs related 
+to the contractual personnel proposed; and (d) $176,000 under furniture and 
+equipment, also in relation to the contractual personnel positions proposed. The 
+Advisory Committee requested clarification on the requirement of $1,715,800 for 
+change management and services related to the delivery of change management 
+activities (ibid., para. 79 (d)). It was informed that change management activities 
+were integrated as part of the ICT project management methodology to minimize the 
+disruptions caused by the adoption of new applications, technologies and business 
+processes, and that the inclusion of funding for such activities was considered a best 
+practice when implementing large ICT projects entailing the adoption of new 
+technologies and working methods.  
+
+99. The Advisory Committee recognizes the existing weaknesses in the 
+management of information and the need to provide the Organization with 
+enhanced tools and processes to capture, retain and share knowledge, as well as 
+to search for and retrieve information more effectively and efficiently. While 
+noting the Secretary-General’s comment on the need to implement the four 
+components of the initiative together, the Committee is of the view that 
+implementation of the whole range of activities planned for 2012-2013, 
+including the roll-out of all four components to 10 departments, is overly 
+optimistic. It believes that the Secretary-General should seek alternative 
+solutions for implementing the four components of the initiative at lower cost, 
+and identify activities or features that could be postponed without jeopardizing 
+the overall implementation of the initiative. In view of the above, as well as its 
+observations in paragraph 79 above, the Committee recommends that the 
+Secretary-General be authorized to proceed with the implementation of the 
+Leverage Knowledge through ICT initiative, but at reduced cost and scope.  
+ 
+
+ 3. Enhance information and communications technology service delivery  
+ 
+
+100. The third initiative, enhance ICT service delivery, revises the Secretary-
+General’s previous proposal for the globalization of service desks, Structural review 
+project 1 (see A/65/491). The initiative will incorporate the ongoing implementation 
+of the customer relationship management system, entitled iNeed, that service desks 
+throughout the Secretariat can use to record and track requests from United Nations 
+personnel. The initiative also integrates proposals in response to paragraph 126 of 
+resolution 64/243, in which the General Assembly requested the Secretary-General 
+to submit a fully justified proposal for post and non-post resources concerning the 
+implementation of customer relationship management in the context of the proposed 
+programme budget for the biennium 2012-2013. 
+
+101. In his previous report (A/65/491) the Secretary-General described at some 
+length the findings of the structural review with respect to the management of 
+service desks across the Secretariat, as well as the rationale, implementation 
+activities and expected benefits of his proposals for the globalization of service 
+desks. The Secretary-General’s revised proposals for enhancing information and 
+communications technology service delivery are set out in paragraphs 83 to 112 of 
+his report (A/66/94). He states that a high degree of fragmentation exists in this 
+area, with at least 131 ICT service desks worldwide. Moreover, the service desks do 
+not have standard working methods in accordance with best practice, and use tools 
+with limited functionality to support service desks and workstation operations. The 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 36 
+ 
+
+Secretary-General further indicates that, at present, it is difficult to assess the 
+quantity and quality of the service delivery processes, which impedes the 
+Organization’s ability to assign resources efficiently and establish work units that 
+can address the complexity and volume of services needed. The lack of 
+standardization increases complexity and fragmentation, and also drives up the costs 
+of user services. 
+
+102. The key objectives for the Enhance ICT service delivery initiative are 
+enumerated in paragraph 89 of the report. The aim is to, inter alia, improve the 
+quality, standards, availability and efficiency of ICT service delivery at all duty 
+stations; implement an enterprise ICT global service catalogue; establish a minimal 
+number of standardized workstation configurations based on the applications 
+required by all users; and implement business intelligence software to enable 
+performance monitoring. The Secretary-General proposes to consolidate the 131 
+ICT service desk functions into a minimum of three regional enterprise ICT service 
+desks which would provide all Secretariat offices with support for common 
+applications such as Umoja, e-mail and Inspira. Unique site-specific services would 
+continue to be provided locally, with a significantly reduced number of ICT service 
+desk staff. The three enterprise service desks would be established in different time 
+zones (for example in the Americas, Europe, and the Middle East and Africa) and 
+would be able to service all United Nations locations worldwide. At any given time 
+of the day, at least one of the three service centres would be operational, allowing, 
+in effect, provision of services 24 hours a day, 7 days a week to all locations.  
+
+103. The qualitative and quantitative benefits expected through the implementation 
+of the initiative are described in paragraphs 91 and 92 of the report. The Secretary-
+General indicates that the implementation of the Enhance ICT service delivery 
+initiative will provide qualitative benefits in terms of improved capability to resolve 
+issues quickly and consistently, the provision of multilingual support on a 24-hours-
+a-day, 7-days-a-week basis, increased responsiveness to users and greater 
+productivity. The Committee also notes that a common telephone extension number, 
+such as 3333, will be provided for all locations and that a user self-service 
+capability will allow United Nations personnel to resolve their problems without the 
+intervention of service agents or other technical staff, thereby decreasing the 
+workload of service desk agents. Overall, annual savings expected after full 
+implementation are estimated at between $39.7 and $59.6 million, comprising 
+savings resulting from the introduction of self-service functions ($6.6 to 
+$9.9 million); the automation of ICT asset management ($10.3 to $15.4 million); the 
+automation of service desks ($1.4 to $2 million); the introduction of workstation 
+standards and a reduced set of workstation configurations ($7.5 to $11.3 million); 
+automated workstation management ($7.4 to $11.2 million); and the migration of 
+common service functions from local service desks to the regional desks ($6.5 to 
+$9.8 million). The Committee’s comments on the need for continued refinement of 
+the performance measures and the methodology for estimating savings and 
+efficiency gains (see para. 75 above) apply equally to the benefits related to the 
+Enhance ICT service delivery initiative. The Advisory Committee notes that the 
+Organization currently spends approximately $135 million annually on ICT service 
+desk operations, comprising $39.6 million for equipment and $95.4 million for 
+labour costs to provide for approximately 835 full-time equivalent employees, 
+comprising 618 staff and 217 contractors. 
+
+
+
+ A/66/7/Add.1
+ 
+
+37 11-60207 
+ 
+
+104. The Advisory Committee notes that, in addition to ICT service delivery, the 
+regional service centres will also be capable of addressing service requests in other 
+functional areas, such as facilities, human resources, procurement and financial 
+services. The Secretary-General indicates that the Office of Information and 
+Communications Technology, the Department of Field Support and other ICT units 
+will work closely with departments and offices to identify other such administrative 
+services. 
+
+105. The Secretary-General indicates that a key element of the revised strategy is to 
+leverage investments in the existing enterprise customer relationship management 
+(iNeed) and enterprise identity management systems to record all service calls and 
+to validate the identity of users, thereby significantly reducing the overall 
+implementation cost of the initiative (A/66/94, para. 93). In paragraph 102 of the 
+report, the Secretary-General provides information on the progress to date since the 
+introduction of the customer relationship management concept in 2008 (see 
+A/62/510/Rev.1). The Advisory Committee notes that, in addition to the Office of 
+Information and Communications Technology and the Department of Field Support, 
+the iNeed system has been deployed in selected departments/offices at Headquarters 
+and at offices away from Headquarters, as well as at the United Nations Logistics 
+Base and in some field missions. Figure VI of the Secretary-General’s report shows 
+the implementation schedule for the various activities of the initiative.  
+
+106. The total resources proposed for the biennium 2012-2013 for the 
+implementation of the initiative amount to $13.1 million, comprising $2 million in 
+regular budget resources, $8.2 million from the support account and $3 million from 
+extrabudgetary funding sources. The previous proposals for structural review project 1, 
+Globalize service desks (see A/65/491) and customer relationship management (see 
+A/62/501/Rev.1) amounted to some $24 million (see annex VII below). The 
+Secretary-General indicates that the requirements for his current proposal were 
+reduced through the adoption of a phased approach and by leveraging previous 
+investments and existing systems to the maximum extent possible. The estimated 
+requirements of $13.2 million for Secretariat-wide implementation activities during 
+the biennium 2012-2013 are broken down as follows: (a) $165,000 for travel of 
+staff; (b) $11,103,500 for contractual services, comprising $3,947,300 to license 
+service desk and workstation toolsets and $7,156,200 for contractual personnel; 
+(c) $443,300 under general operating expenses for common support costs related to 
+the contractual personnel proposed; (d) $1,166,100 under supplies and materials to 
+cover the costs related to the establishment of regional service centres; and 
+(e) $274,000 under furniture and equipment to cover the costs of the additional 
+servers required for the infrastructure of the service desk software. The Advisory 
+Committee notes that the totality of the resources proposed are for one-time costs 
+that would no longer be required after full implementation of the initiative (see 
+para. 81 above).  
+
+107. The Advisory Committee believes that the Secretary-General’s proposal 
+for the replacement of a majority of the existing 131 information technology 
+service desks with three global service centres has far-reaching implications 
+and would have an impact on the day-to-day operations of United Nations duty 
+stations worldwide. The Committee is not convinced that, at this stage, all the 
+possible ramifications of such an initiative are fully known or understood. 
+Moreover, the Committee is of the view that it will only be possible to 
+determine the full extent of the requirements for service desks once a clearer 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 38 
+ 
+
+picture emerges of the service delivery model that will be adopted by the United 
+Nations and the manner in which the current fragmentation of applications and 
+infrastructure will be reduced (see para. 83 above). The Committee therefore 
+considers that the Secretary-General should proceed with implementation 
+activities in a gradual manner, identifying features that could be postponed 
+without jeopardizing implementation of the overall initiative, and seeking 
+further opportunities for lowering implementation costs. In view of the above, 
+and taking into account its observations in paragraph 79 above, the Committee 
+recommends that the Secretary-General be authorized to proceed with the 
+implementation of the Enhance ICT service delivery initiative, but at reduced 
+cost and scope. 
+ 
+
+ 4. Create resilient information and communications technology infrastructure  
+ 
+
+108. The fourth initiative, Create resilient ICT infrastructure, presents a 
+reformulated proposal integrating Structural review project 2, Streamline data 
+centres (see A/65/491) and the requirements for a unified disaster recovery and 
+business continuity plan for the Secretariat, including a permanent solution for 
+Headquarters, as requested by the General Assembly in its resolutions 63/262 and 
+63/269 (A/66/94, paras. 113-149).  
+
+109. The Secretary-General indicates that the current ICT infrastructure is based on 
+a decentralized approach, focused on the needs of individual duty stations, which 
+was consistently favoured and deemed necessary to ensure reliable infrastructure 
+operations, given that global data communications were not dependable (A/66/94, 
+para. 113). This model of operations is still in use and has resulted in the existence 
+of at least 34 data centres and 177 server rooms across the Secretariat, comprising 
+18 data centres and 63 server rooms at Headquarters, offices away from 
+Headquarters and the regional commissions, and 16 data centres and 114 server 
+rooms in field missions. With the exception of the United Nations Logistics Base, 
+which provides disaster recovery facilities for field missions, all other duty stations 
+are individually responsible for their own back-up infrastructure.  
+
+110. The Secretary-General states that the rationale for continued decentralization 
+is no longer valid, given the significant progress achieved over the past 10 years in 
+facilitating interconnectivity among all duty stations through the new generation of 
+communication technologies. The adoption of an enterprise approach and a shared-
+services model to support all Secretariat duty stations will lead to savings through 
+economies of scale, gradually reduce the scope of local data centre facilities and 
+provide disaster recovery services to duty stations according to their needs, thereby 
+creating a resilient ICT infrastructure (A/66/94, para. 116). Pursuant to General 
+Assembly resolution 63/269, in which the General Assembly requested the 
+Secretary-General to ensure that the United Nations used enterprise data centres 
+rather than local data centres as far as possible, the Secretariat’s strategy shifted 
+towards the enterprise management of ICT infrastructure.  
+
+111. The key objectives of the reformulated initiative are to implement two 
+enterprise data centres, one at the United Nations Logistics Base and another at the 
+secondary data centre at Valencia, and to centrally host all enterprise applications, 
+such as Umoja, e-mail, Inspira, iNeed and the enterprise identity management 
+system. Unique, site-specific applications will continue to be hosted in local data 
+centres (A/66/94, para. 121). In paragraphs 127 to 130 of his report the Secretary-
+
+
+
+ A/66/7/Add.1
+ 
+
+39 11-60207 
+ 
+
+General provides details of the implementation approach, which rests on the 
+following key elements: establishment of the enterprise data centre at the United 
+Nations Logistics Base and a mirror resilience site at Valencia; conformity of all 
+applications to the architecture, policies and procedures of the enterprise and local 
+data centres; standardization of the server and storage environments; virtualization 
+of servers to reduce the number of server rooms; reduction of the existing storage 
+space; management of small locations remotely; and utilization of iNeed at all 
+locations. The Secretary-General indicates that the streamlining of data centres, 
+which reduces the number of data centre locations and provides an enterprise 
+approach to server and storage management, will also facilitate and lower the costs 
+for the provision and maintenance of disaster recovery capabilities. The Advisory 
+Committee notes that the Office of Information and Communications Technology 
+and the Department of Field Support collaborated to formulate the implementation 
+approach to make the infrastructure ready for the global field support strategy and 
+Umoja.  
+
+112. The qualitative and quantitative benefits expected through the implementation 
+of the initiative are described in paragraphs 124 and 125 of the report. With regard 
+to the qualitative benefits, the Advisory Committee notes that the implementation of 
+the Create resilient ICT infrastructure initiative will allow an increase in data centre 
+performance and availability; an augmentation of disaster recovery capabilities and 
+business resilience, ensuring thereby that the Organization can continue to operate 
+during and after crises; and the promotion of sustainable use of ICT through a 
+reduced number of physical servers and reduced consumption of power. With regard 
+to the quantitative benefits, the Secretary-General’s estimates for overall annual 
+savings expected after full implementation of the initiative at Headquarters and at 
+offices away from Headquarters are estimated at between $17.9 million and $26.9 
+million, comprising savings resulting from: the introduction of software to provide 
+one source for all e-mail archives at the United Nations Logistics Base ($1.3 to 
+$2 million); the elimination of duplicate files ($1.3 to $2 million); reduced 
+requirements for equipment and labour resulting from the hosting of enterprise 
+applications in one location for all duty stations ($2.8 to $4.2 million per enterprise 
+application); reduced requirements for server and storage labour resulting from the 
+use of a reduced set of server and storage management and monitoring tools ($5 to 
+$7.5 million); and the migration of local server rooms to enterprise data centres 
+($5.4 to $8 million). The Committee notes that current annual expenditure on data 
+centres at Headquarters and at offices away from Headquarters amounts to 
+approximately $104 million, comprising $54.2 million for staff costs for 
+approximately 552 full-time equivalent employees, and $49.6 million for equipment. 
+The Committee also notes that the figures provided above do not include savings 
+achieved at field missions, which are to be reported by the Department of Field 
+Support (A/66/94, para. 126). 
+
+113. The Secretary-General states that a key strategy of the reformulated initiative 
+was to build on the significant investment already made in the enterprise data 
+centres at the United Nations Logistics Base and at Valencia for peacekeeping 
+operations to provide a resilient platform for the deployment of enterprise 
+applications. He indicates that requirements for 2012-2013 were reduced by 
+adopting a phased approach to implementation, fully leveraging internal capacities 
+and existing Department of Field Support investment in the United Nations 
+Logistics Base and reducing requirements for capital investment through leasing 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 40 
+ 
+
+instead of purchasing. In addition, the Secretary-General states that a number of 
+factors were taken into account in developing the reformulated proposal, such as the 
+continued improvements made in the context of the capital master plan at 
+Headquarters and of the United Nations Logistics Base, the construction of the 
+secondary data centre at Valencia and ongoing network upgrades to enable high-
+speed and multiple path connections across major duty stations, which are expected 
+to be implemented early in 2012. 
+
+114. The total resources proposed for the biennium 2012-2013 for the 
+implementation of the initiative amount to $9.8 million, comprising $1.5 million in 
+regular budget resources, $6.1 million from the support account and $2.3 million 
+from extrabudgetary funding sources. In comparison, the costs of the previous 
+proposals for the structural review project for streamlining data centres and 
+developing a unified disaster recovery and business continuity plan were estimated 
+at $15.8 million (see para. 113 above; see also annex VII below). The overall 
+proposed resource requirements of $9.8 million comprise the following:  
+(a) $511,200 for general temporary assistance equivalent to one post at the P-5 level 
+to lead efforts to operationalize the enterprise data centres at the United Nations 
+Logistics Base and the United Nations Support Base at Valencia and the integrated 
+management information system (IMIS) disaster recovery initiatives; (b) $4,369,500 
+for contractual services, comprising $2,230,200 for software licences for server and 
+storage management tools and $2,139,300 for the engagement of contractual service 
+personnel for project management and other functional and technical work; and  
+(c) $4,947,200 under furniture and equipment, for infrastructure equipment 
+necessary for the e-mail archival project and for setting up enterprise servers and 
+storage tools. The Advisory Committee notes that the totality of the resources 
+proposed are for one-time costs that would no longer be required after full 
+implementation of the initiative (see para. 80 above). In addition, the Secretary-
+General states that requests for additional funding for future phases of the initiative 
+will be submitted as part of the appropriate budget cycles of the United Nations 
+Secretariat.  
+
+115. The Advisory Committee notes that implementation of enterprise data 
+centres and of disaster recovery and business continuity is an ongoing effort. To 
+date, these activities have been undertaken separately for peacekeeping and the 
+rest of the Secretariat. The Committee considers that the Secretary-General’s 
+proposals respond to the General Assembly’s request for a unified disaster 
+recovery and business continuity plan and recommends that the General 
+Assembly approve implementation of the Create resilient ICT infrastructure 
+initiative. Bearing in mind its observations in paragraph 79 above, the 
+Committee recommends that the Secretary-General should be requested to seek 
+further opportunities for lowering implementation costs and identify features 
+that could be postponed without jeopardizing implementation of the overall 
+initiative.  
+
+116. The Advisory Committee also recommends that the Secretary-General be 
+requested to provide, in future progress reports, a comprehensive picture of the 
+totality of resources dedicated Organization-wide to creating resilient 
+infrastructure, including for field missions. 
+ 
+ 
+
+
+
+ A/66/7/Add.1
+ 
+
+41 11-60207 
+ 
+
+ D. Conclusions and recommendations 
+ 
+ 
+
+117. Taking into account its recommendations in paragraphs 89, 99, 107 and 
+115 above, the Advisory Committee recommends that the General Assembly 
+establish 1 D-2 post under section 30 and approve general temporary assistance 
+equivalent to 7 P-4 positions to provide additional capacity for the Office of 
+Information and Communications Technology in 2012-2013. It further 
+recommends that the Assembly also approve total resources in the amount of 
+$19,969,450 for the biennium 2012-2013, representing 50 per cent of the 
+non-post resources proposed in the amount of $39,938,900 for the 
+implementation of activities in connection with the Improve enterprise ICT 
+management, Leverage knowledge through ICT, Enhance ICT service delivery 
+and Create a resilient ICT infrastructure initiatives.  
+
+118. The actions to be taken by the General Assembly are set out in paragraph 153 
+of the Secretary-General’s report. Taking into account its recommendations in 
+paragraph 117 above, the Advisory Committee recommends that the General 
+Assembly: 
+
+ (a) Note that, should the establishment of 1 D-2 post for the biennium 
+2012-2013 be approved, the cost of the delayed impact is estimated at $217,200; 
+
+ (b) Note also the proposal for the total resource requirements for the 
+biennium 2012-2013, which are estimated at $21,568,450, to be distributed as 
+follows: 
+
+ (i) Regular budget: an amount of $2,843,123, under section 30, Office of 
+Information and Communications Technology, and an amount of 
+$392,145, under section 29D, Office of Central Support Services, of the 
+proposed programme budget for the biennium 2012-2013; 
+
+ (ii) Support account for peacekeeping operations: 
+
+  a. An amount of $3,343,110, to be financed as an additional 
+appropriation from the support account for peacekeeping operations for 
+the financial period from 1 July 2011 to 30 June 2012; 
+
+  b. Future remaining requirements in an estimated amount of 
+$6,686,220 would be considered in subsequent support account for 
+peacekeeping operations requirements for the financial period from 1 July 
+2012 to 30 June 2013; 
+
+  c. Future remaining requirements will be included in subsequent 
+support account for peacekeeping operations requirements in an 
+estimated amount of $3,376,775 for the financial period from 1 July 2013 
+to 30 June 2014; $67,332 for the financial period from 1 July 2014 to  
+30 June 2015; and $33,666 for the financial period from 1 July 2015 to  
+30 June 2016. 
+
+ (iii) Extrabudgetary resources: an estimated amount of $4,960,744 of the 
+overall cost of all projects for the biennium 2012-2013 would be financed 
+from extrabudgetary resources. 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 42 
+ 
+
+ (c) Approve an amount of $3,235,268, under the proposed programme 
+budget for the biennium 2012-2013, for section 30, Office of Information and 
+Communications Technology ($2,843,123), and section 29D, Office of Central 
+Support Services ($392,145); 
+
+ (d) Approve an amount of $3,343,110, under the support account for 
+peacekeeping operations for the financial period from 1 July 2011 to 30 June 
+2012. 
+
+
+
+ A/66/7/Add.1
+ 
+
+43 11-60207 
+ 
+
+Annex I 
+ 
+
+  Business processes by Umoja implementation phase, functional 
+area and group 
+ 
+ 
+
+ A. First implementation phase, Umoja Foundation 
+ 
+ 
+
+ This implementation phase focuses on processes critical to IPSAS compliance, 
+such as finance, procurement, travel, assets, inventory and property management. 
+ 
+
+Functional area Number of processes
+
+Finance 68
+Central support services 13
+Human resources 0
+Supply chain procurement logistics 35
+Programme and project management processes 3
+
+ Total 119
+ 
+ 
+
+Functional group Number of processes
+
+Conference and event management 0
+Facilities management 3
+Service management 0
+Project management 3
+Service to public and staff — income generating 5
+Travel management 5
+Cash management and treasury 18
+Cost and management accounting 8
+Programme management 0
+Financial accounting 29
+Financial management 13
+Strategic enterprise planning 0
+Organization management 0
+Payroll 0
+Position budgeting and control — post management 0
+Time 0
+Workforce management 0
+Plan and manage 0
+Source to acquire 19
+Receive to distribute 7
+Employ to dispose 9
+Force management 0
+
+ Total 119
+ 
+ 
+ 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 44 
+ 
+
+ B. Second implementation phase, Umoja Extension 
+ 
+ 
+
+ The second implementation phase focuses on those processes required to 
+enhance planning and resource management, including human resources, budget 
+formulation, conference and events management, grants management, sales and 
+services to the public, document production and distribution, force planning, 
+demand planning and logistical execution. 
+ 
+
+Functional area Number of processes
+
+Finance 56
+
+Central support services 33
+
+Human resources 61
+
+Supply chain procurement logistics 35
+
+Programme and project management processes 13
+
+ Total 198
+ 
+ 
+
+Functional group Number of processes
+
+Conference and event management 16
+
+Facilities management 6
+
+Service management 5
+
+Project management 6
+
+Service to public and staff — income-generating 2
+
+Travel management 4
+
+Cash management and treasury 0
+
+Cost and management accounting -3
+
+Programme management 7
+
+Financial accounting 7
+
+Financial management 49
+
+Strategic enterprise planning 3
+
+Organization management 4
+
+Payroll 10
+
+Position budgeting and control — post management 7
+
+Time 8
+
+Workforce management 32
+
+Plan and manage 16
+
+Source to acquire 1
+
+Receive to distribute 10
+
+Employ to dispose 3
+
+Force management 5
+
+ Total 198
+ 
+ 
+
+
+
+ A/66/7/Add.1
+ 
+
+45 11-60207 
+ 
+
+Annex II 
+ 
+
+  Measures to expedite recruitment following the decisions made by the 
+Umoja Steering Committee at its meeting on 16 November 2010 
+ 
+ 
+
+ Measures taken to expedite recruitment following the decisions made by the 
+Umoja Steering Committee at its meeting on 16 November 2010 included the 
+following: 
+
+ • Delegation of selection approval to the Umoja Project Director for vacancies at 
+the P-4 level and below 
+
+ • Commencement of reference checks in parallel with central review body’s 
+review 
+
+ • Recirculation of readvertised vacancies for which no qualified candidate 
+applied for 30 instead of 60 days 
+
+ • Prompt action on Umoja recruitment taken by focal points in the Executive 
+Office and the Office of Human Resources Management 
+
+ • Instructions from the Under-Secretaries-General of the Department of Field 
+Support and the Department of Management to their senior staff to release 
+needed subject matter experts and to nominate interview panel members for 
+the selection of candidates for vacancies 
+
+ • Improved cooperation within the Umoja team on recruitment activities. 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 46 
+ 
+
+Annex III 
+ 
+
+  Breakdown of costs of Umoja training 
+ 
+ 
+
+Total population    40,890 
+
+Estimated number of end users  10,429 
+ 
+
+Breakdown of total costs  
+
+Trainer daily subsistence allowance $2 336 603
+
+Trainer travel costs $2 255 775
+
+ Total cost $4 592 378
+ 
+ 
+ 
+
+  Phase 1: Umoja Foundation 
+ 
+
+ 2012 
+
+ Training of trainers Cluster 1 
+
+Estimated end users Not applicable 2 304
+
+Number of training centres 1 3
+
+Daily subsistence allowance cost $270 000 $589 064
+
+Travel costs $268 740 $628 443
+
+ Total $538 740 $1 217 507
+ 
+ 
+
+ 2013 
+
+ Cluster 2 Cluster 3 Cluster 4 Cluster 5 
+
+Estimated end users 1 151 1 206 2 961 861
+
+Number of training centres 3 3 4 5
+
+Daily subsistence allowance cost $360 099 $363 947 $366 281 $387 212
+
+Travel costs $314 221 $314 296 $338 140 $391 935
+
+ Total $674 321 $678 242 $704 421 $779 147
+ 
+ 
+
+Total costs 2012 and 2013: $4,592,378 
+ 
+ 
+
+
+
+ A/66/7/Add.1
+ 
+
+47 11-60207 
+ 
+
+Annex IV 
+ 
+
+  Initial findings of system-wide study of the United Nations 
+organizations that have implemented enterprise resource 
+planning systems 
+ 
+ 
+
+ • Organizations that had successfully implemented enterprise resource planning 
+indicated that support from the highest levels of management was consistently 
+demonstrated and manifested to all stakeholders — governing bodies, key 
+officers, staff and external parties like vendors, banks, clients or partners. 
+
+ • Many organizations started with a very ambitious plan — scope, timeline, 
+availability of staffing resources (skills) — and underestimated financial 
+requirements. Many of them had to de-scope during project execution even if 
+they planned to implement in phases. 
+
+ • Initially, project management always assumes that it is easy to co-opt business 
+owners and their staff and obtain their approval or agreement to the design or 
+blueprint or to getting their most knowledgeable staff into the project. Many 
+organizations found this more difficult than anticipated. 
+
+ • Those organizations that were upgrading their enterprise resource planning and 
+were at the same time implementing other initiatives (human resources reform, 
+results-based management, business continuity, ICT strategy, IPSAS) tried to 
+integrate them all into one common framework (by having the same steering 
+committee, the same project management, etc.). 
+
+ • Business process re-engineering and restructuring is a continuous process and 
+does not end when the system goes live. 
+
+ • Timely decision-making was crucial and had to be balanced with appropriate 
+adherence to regulations, rules and policies; competing priorities across the 
+organization; effective risk management; and reporting lines between senior 
+management and project management. 
+
+ • Timelines were ambitious and tight, resulting in either postponement of the 
+go-live date or reduction in scope. 
+
+ • Managing the relationship with the vendor or implementing partner was a 
+challenge because of the potential impact on costs and the timeline. 
+
+ • The time and effort needed for comprehensive data cleaning were 
+underestimated, resulting either in legacy systems being maintained or in 
+uncleaned data being migrated to the new system, if it was decided to 
+decommission the legacy systems. 
+
+ • The costs of ownership, upgrades and licences continue to be high for 
+organizations. 
+
+ • Organizations continue to be challenged as to how to measure the realization 
+of benefits or identify and assess key performance indicators. Anecdotal 
+evidence and some trends (processing time, production of key reports, 
+dashboards) are usually the way benefits are reported. 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 48 
+ 
+
+ • The more successful examples of implementation involved the active 
+engagement of the oversight bodies (internal and external auditors) and 
+periodic assessment by outside experts for quality assurance. 
+
+ • The more informed in a timely fashion the governing bodies were, the more 
+supportive they were of the projects. 
+
+ • There is a need for the organizations to invest in building up the skills of staff 
+with regard to the new enterprise resource planning system. While there is a 
+need to recruit outsiders with appropriate expertise, during the duration of the 
+project there should be extensive knowledge transfer. 
+
+
+
+ A/66/7/Add.1
+ 
+
+49 11-60207 
+ 
+
+Annex V 
+ 
+
+  Composition of the costs to be supported by Umoja 
+user departments 
+ 
+ 
+
+In connection with the implementation of Umoja, the following activities and their 
+associated costs are not included in the Umoja budget. It should be noted that 
+analysis of these activities is ongoing and therefore not definitive. 
+ 
+
+  Data preparation and cleansing 
+ 
+
+Business expertise and staff resources are required for the identification of the 
+current master data in support of the processes that are included in the Umoja 
+Foundation scope. Data will require cleansing and enriching in accordance with 
+Umoja master data templates which have been created for this purpose. The 
+cleansing activity will predominantly take place within the business area that owns 
+the legacy system. 
+
+The key master data elements identified in support of the Umoja Foundation phase 
+include: 
+
+ • Vendor 
+
+ • Material 
+
+ • Service 
+
+ • Employee 
+
+ • Customer 
+
+ • Equipment 
+
+ • Assets 
+
+ • Real estate 
+
+ • Cost centres 
+
+ • Funds 
+ 
+
+  Document data 
+ 
+
+Business expertise and staff resources are required to identify and clean current 
+business documents which reference master data. The key documents include: 
+
+ • Purchase orders 
+
+ • Global/local contracts 
+
+ • Sales orders 
+
+ • Lease agreements 
+
+ • Memorandums of understanding 
+
+ • Inventory balances 
+
+ • Accounts receivable/accounts payable balances 
+
+ • Employees 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 50 
+ 
+
+  Migration, validation and reconciliation 
+ 
+
+The business areas need to work with the Umoja team in the verification of 
+converted/migrated data to ensure accuracy and consistency with expected results 
+(especially in the case of migrating outstanding balances). 
+ 
+
+  Interfaces with critical business systems 
+ 
+
+There will be a need to develop some interfaces between Umoja and critical 
+business systems, especially during the roll-out period. 
+ 
+
+  System validation 
+ 
+
+  User acceptance testing requirements 
+ 
+
+The completion of testing of the Umoja system will require key business user staff 
+(who may transition into “coaches”) to validate the Umoja configured business 
+processes. 
+ 
+
+  Infrastructure 
+ 
+
+In support of the enterprise resources planning business software, the business will 
+be required to: 
+
+ • Test/assure system connectivity 
+
+ • Update/upgrade personal computers/laptops to run the enterprise resource 
+planning system 
+
+ • Provide access to legacy data for reference purposes/reporting for an 
+appropriate period in support of the business requirements 
+
+ • Archive and provide appropriate access to historical/legacy data upon the 
+decommissioning of the legacy system 
+
+ 
+
+  Implementation and training 
+ 
+
+  Champion 
+ 
+
+A nominated and approved organizational leader will be required for the Umoja 
+reform initiative for each function/mission/organization to support the preparation 
+of data and training, and to resolve issues and facilitate implementation. 
+ 
+
+  Coach 
+ 
+
+The coach, locally based and with a part-time role, will be responsible for 
+supporting the instructor in classroom training delivery (for local duty stations), 
+helping to resolve/address local participant queries, and providing end-user support 
+in the post-implementation period. 
+ 
+
+  Training coordinator 
+ 
+
+A locally based part-time coordination expert will be responsible for executing 
+deployment preparation tasks in collaboration with the central Umoja learning team. 
+The training coordinator’s responsibilities include gathering local training 
+participant data for role mapping purposes, reviewing local training 
+
+
+
+ A/66/7/Add.1
+ 
+
+51 11-60207 
+ 
+
+facilities/infrastructure and developing contingency plans where there are 
+constraints, planning participant travel and final preparation of training classrooms. 
+ 
+
+  Provision of training facilities 
+ 
+
+The deployment of the foundation phase of Umoja will require the identification of 
+adequate facilities for training end-users. 
+ 
+
+  Planning manager 
+ 
+
+The planning manager will be responsible for working with the Umoja team to 
+ensure the overall readiness of the organization/mission for all implementation 
+phases. 
+ 
+
+  Cutover manager/team 
+ 
+
+The cutover manager/team will be responsible for planning and preparing the 
+organization/mission, in coordination with the Umoja readiness team, for the 
+migration of the business unit from the legacy application to Umoja.  
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 52 
+ 
+
+Annex VI 
+ 
+
+  Summary of changes between the current and previous proposals 
+ 
+ 
+
+Initiative Previous proposals Changes and impact 
+   
+
+A. Improve 
+enterprise ICT 
+management 
+
+• Rationalize ICT 
+organization (A/65/491) 
+
+• Strengthen the Office of 
+Information and 
+Communications 
+Technology (A/65/491) 
+
+• Two previous proposals have been integrated  
+• No change in approach or funding request to rationalize 
+
+ICT organization 
+• Reduced request for new Office of Information and 
+
+Communications Technology posts in 2012-2013, from 
+23 to 14 
+
+• Delaying requests for additional Office of Information 
+and Communications Technology posts until the 
+Rationalize ICT organization project results are 
+available 
+
+B. Leverage 
+knowledge 
+through ICT 
+
+• Report on enterprise 
+content management 
+(A/63/477) 
+
+• Scope of initiatives narrowed 
+• Proposed phasing of implementation  
+• Leveraging of knowledge management activities within 
+
+existing resources 
+C. Enhance ICT 
+
+service delivery 
+• Globalize service desks 
+
+(A/65/491) 
+• Customer relationship 
+
+management 
+(A/63/477) 
+
+• Two previous proposals have been integrated  
+• Leveraging of existing investment in iNeed and the 
+
+enterprise identity management system, and the use of 
+existing facilities 
+
+• Revised costs are significantly lower than the original 
+estimate 
+
+D. Create resilient 
+ICT 
+infrastructure 
+
+• Streamline data centres 
+(A/65/491) 
+
+• Unified disaster 
+recovery plan 
+(A/63/774) 
+
+• Two previous proposals have been integrated 
+• Capital investment reduced through leasing instead of 
+
+purchasing 
+• Advantage taken of existing Department of Field 
+
+Support investment in the United Nations Logistics 
+Base 
+
+• Approval of the United Nations Logistics Base and the 
+United Nations Support Base at Valencia as enterprise 
+data centres 
+
+• Revised costs are significantly lower than the original 
+estimate  
+
+ 
+
+
+
+ A/66/7/Add.1
+ 
+
+53 11-60207 
+ 
+
+Annex VII 
+ 
+
+  Cost comparison between the current and previous proposals 
+ 
+ 
+
+Current proposal Previous proposals Cost reduction factors 
+
+A. Improve enterprise 
+ICT management 
+
+ 
+ 
+ 
+ 
+ 
+ Total $8.4 million 
+
+A/65/491  
+Structural review project 3, 
+Rationalize ICT organization 
+Structural review project 4, 
+Strengthen the Office of 
+Information and Communications 
+Technology 
+
+Total $9.7 million 
+
+• Reduced request for new Office of Information 
+and Communications Technology posts in 2012-
+2013, from 23 to 14 
+
+B. Leverage 
+knowledge through 
+ICT 
+
+ Total $11.5 million 
+
+A/62/510/Rev.1 
+Report on enterprise content 
+management  
+
+Total $14.5 million 
+
+• Implementation phased to begin with pilots to 
+demonstrate success, then replicate them across 
+the Secretariat 
+
+• Leveraging of knowledge management activities 
+within existing resources 
+
+C. Enhance ICT 
+Service Delivery 
+
+ 
+ 
+ 
+ 
+ 
+ Total $13.1 million 
+
+A/65/491 
+Structural review project, 
+Globalize service desks 
+A/62/510/Rev.1  
+Customer relationship 
+management 
+ 
+
+Total $24 million 
+
+• Leveraging of existing investment in iNeed and 
+EIDMS, and the use of existing facilities 
+
+• Phased implementation  
+• Leveraging of customer relationship 
+
+management activities within existing resources
+
+D. Create resilient 
+ICT infrastructure 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Total $9.8 million 
+
+A/65/491  
+Structural review project 2, 
+Streamline data centres  
+A/64/477 
+Unified disaster recovery plan  
+ 
+ 
+ 
+Total $15.8 million 
+
+• Reduced capital investment through leasing 
+instead of purchasing 
+
+• Leveraging of  existing Department of Field 
+Support investment in the United Nations 
+Logistics Base 
+
+• Initiative aligned with ongoing organizational 
+resilience management system and Business 
+Continuity Management Unit efforts 
+
+• Utilization of open source tools for server and 
+storage monitoring and management  
+
+ Current proposals 
+ 
+ $42.8 million 
+
+Previous proposals 
+ 
+$64 million 
+
+• Reduction of 33 per cent compared to previous 
+proposals 
+
+
+
+A/66/7/Add.1  
+ 
+
+11-60207 54 
+ 
+
+Annex VIII  
+ 
+
+  Progress made since 2009 
+ 
+ 
+
+Initiative Progress 
+
+Improve enterprise ICT 
+management 
+
+• Structural review undertaken to rationalize ICT organization and 
+strengthen the Office of Information and Communications Technology 
+
+• ICT functions and sourcing principles defined 
+• OICT organizational review completed 
+• A new ICT governance framework established 
+• A client services function established 
+• Several ICT policies and standards developed 
+• Secretariat-wide ICT budget proposals reviewed  
+
+Leverage knowledge 
+through ICT  
+
+• Policies and standards issued by the Working Group on Knowledge 
+Management 
+
+• Enterprise content management platform procured and set up 
+• Collaboration tools selectively deployed 
+• Document and records management and information portal piloted 
+• ODS search improved, along with that of other repositories 
+
+Enhance ICT service 
+delivery 
+
+• Structural review undertaken to propose globalized service desks 
+• Further development of iNeed and enterprise identity management system 
+
+functionality 
+• Progress made on a global service catalogue 
+• iNeed deployed to United Nations Headquarters (Office of Information and 
+
+Communications Technology, Department of Field Support, Department of 
+Management, Office for the Coordination of Humanitarian Affairs), the 
+United Nations Logistics Base, the United Nations Interim Force in 
+Lebanon, the Economic and Social Commission for Western Asia and the 
+United Nations Office at Geneva (Office for the Coordination of 
+Humanitarian Affairs)  
+
+Create resilient ICT 
+infrastructure 
+
+• Structural review undertaken to propose streamlined data centres 
+• Functionality of existing disaster recovery and business continuity projects 
+
+aligned and leveraged  
+• Approval obtained for the United Nations Support Base at Valencia as the 
+
+mirror site to the United Nations Logistics Base at Brindisi 
+• Enterprise data centre concept approved 
+• Primary and secondary data centres established at United Nations 
+
+Headquarters as part of the capital master plan; United Nations Office at 
+Geneva data centre updated  
+
+ 
+
+

@@ -1,0 +1,108 @@
+[Start1]
+Substantive session of 2001
+Geneva, 2-27 July 2001
+
+
+	*	E/2001/100.
+Item 7 (e) of the provisional agenda*
+Coordination, programme and other questions: 
+international cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General
+
+
+	I.	Introduction
+
+
+1.	The present report summarizes action taken by the United Nations Secretariat and its funds and programmes in response to Economic and Social Council resolution 1999/58 of 30 July 1999, in which the Council requested the Secretary-General to report to it on initiatives taken by the Ad Hoc Open-ended Working Group on Informatics. The resolution reiterated the high priority attached to easy, economical, uncomplicated and unhindered access for States Members of the United Nations and observers, through, inter alia, their permanent missions, to the growing number of computerized databases and information systems and services of the United Nations. Further, the resolution underscores the importance of improving electronic connectivity via the Internet for all Member States as well as electronic mail links between the Member States and the organizations of the United Nations system.
+2.	The present report reflects the various activities in the field of informatics reported by the departments of the United Nations Secretariat and its funds and programmes.
+
+
+	II.	Activities of the technical subgroup of the Ad Hoc 
+Open-ended Working Group on Informatics
+
+
+3.	Since July 2000, the technical subgroup has held meetings to discuss and address a wide range of issues related to information technologies, which are set out below.
+
+4.	The Information and Communication Technologies Task Force. One of the major activities of the Working Group during the past year was to fulfil the mandate contained in the ministerial declaration of the high-level segment of the Economic and Social Council, adopted by the Council on 7 July 2000,1 to submit recommendations for the design and composition of the proposed Information and Communication Technologies Task Force. The members agreed that the mandate of the Task Force should be concise, giving some idea of what the preferred outcome should be. The Task Force should also bridge the constraints that prevented agencies from being innovative and fast-acting and should ensure that there is follow-up to further shape the objectives and mandate, including the terms of reference, of the Task Force. The Working Group recommended that the Secretary-General hold consultations with all the stakeholders regarding the composition and administration of the Task Force and the trust fund. Finally, in order to create a link to the Economic and Social Council, the Working Group decided to request the Secretary-General to report to the Council the results of his consultations with stakeholders.
+5.	At the end of its deliberations, the Working Group produced a draft resolution that, in its annex, established the directives for the operation of the Task Force, which was adopted by the Council on 28 July 2000 as resolution 2000/29.
+6.	Global implications of the year 2000 problem. Recalling its many endeavours that resulted in the successful year 2000 roll-over among Member States and the Secretariat, the Working Group approved a preliminary version of a resolution drafted by the Secretariat entitled “Global implications of the year 2000 date conversion problem of computers”, which was subsequently adopted by the General Assembly as resolution 55/21 of 10 November 2000.
+7.	Working with the Association for Information Technology. The Working Group worked with the Association for Information Technology (AIT) to sponsor breakfast meetings in January, April and June 2001 at the permanent missions of Australia, Denmark and Germany. The purpose of the breakfasts was to engage the United Nations diplomatic community, at as high a level as possible, in the crucial task of investigating the impact of information and communication technologies on various economic and social agendas of interest to the international community. Underlying the value of the meetings is the belief that the digital divide needs to be addressed by all States Members of the United Nations and that it is proper for ambassadors to reflect on that belief so that they can keep pace with the information and communication technologies revolution sweeping the world. In that way they can better participate in the global debate on the subject.
+8.	The Working Group also worked with AIT to convene a conference on information security at United Nations Headquarters on 30 March. Five hundred representatives of Member States, United Nations departments, and the private sector attended the conference.
+9.	Reaching out to other United Nations agencies. Continuing its efforts to establish relationships with other United Nations agencies, the Working Group invited a representative from the International Tribunal for the Law of the Sea to brief members on how lawyers in the United Nations system were using information and communication technologies. The representative reported that as the Tribunal became more involved with cases and writing rules, it became apparent that there was a need to improve the process by employing current technology. Members had observed how technology was successfully being used by certain national courts in Australia, the United States of America and other Member States and was working to bring those benefits to the Tribunal.
+10.	Improving the speed of access to Member States. The Working Group addressed the question of improving the speed of Internet access to Member States. To that end, the Information Technology Services Division outlined the issues that would be involved in such an undertaking, as follows:
+	(a)	The current dial-up connection was dependent on available modems and circuits, which had an optimum speed of 56 kilobytes per second. That speed was adequate if large files were not being transmitted. However, when large amounts of data were transmitted the limitations of the modems were quite apparent. To overcome this limitation, the Information Technology Services Division researched the possibility of procuring digital subscriber line (DSL) connections for the missions from a commercial provider at retail cost. The Division advised that there would be security issues connected with the use of DSL connectivity, and advised that caution be used in deciding which data to store on the device used for the connection. In addition, there were potential problems with the use of DSL companies’ help desk and the inability of the United Nations missions’ help desk to resolve the problems due to its lack of familiarity with the proprietary systems;
+	(b)	The Information Technology Services Division worked with the service provider to overcome the limitations of the Internet infrastructure at United Nations Headquarters by tripling the Internet capacity at Headquarters. The internal infrastructure of the United Nations was upgraded to include five T1 lines, which enabled the United Nations to be the Internet service provider for Member States. In April 2001 the missions were migrated to the United Nations service. Further improvements to the Internet infrastructure at Headquarters have continued into the middle of 2001 with the installation of a T3 line to further enlarge the capacity of Internet connections and the added option of future enhancement.
+11.	Internet and email service. The Working Group and the Information Technology Services Division addressed concerns about the underutilization of services provided by the United Nations to Member States. A questionnaire was sent to Member States requesting information on their use of the various services provided by the United Nations. It was reported that of the 189 questionnaires mailed, 81 responses were received, representing 40 per cent of the target group. Based on the results of the survey, the Division will research the acquisition of bulk-rate DSL service for Member States.
+12.	Using technology to produce clean copies of documentation during negotiations of the General Assembly. The Working Group also considered discussing how data recorded in meetings would be overseen and managed. In the interim, the Information Technology Services Division would provide personal computers in conference rooms on an ad hoc basis until a decision was taken on a permanent solution.
+13.	New mandate for the Working Group. The Working Group held several discussions regarding its future activities and mandate. It contemplated changing its mandate under the terms stated in paragraph 19 of the ministerial declaration,1 which called for a review by the Economic and Social Council of the mandates and activities of its subsidiary bodies dealing with information and communication technology. It was expected that the establishment of the Information and Communication Technologies Task Force would determined what the future of the Working Group would be.
+
+
+	III.	Action taken by the Secretariat in response to issues raised in the Working Group
+
+
+	A.	Activities of the Information Technology Services Division 
+of the Office of Central Support Services
+
+
+14.	The Information Technology Services Division, in its effort to fulfil the mandate of providing connectivity to all permanent missions, cooperated with the technical subgroup of the Ad Hoc Open-ended Working Group on Informatics to stabilize and improve the Internet service offered. To that end, the following main activities were carried out:
+	(a)	As mentioned above, in April 2001 the United Nations migrated all dial-up access from an outside Internet service provider to an in-house dial-up Internet facility supported by T1 and T3 lines for the use of all permanent and observer missions. This improvement will allow Member States to work more efficiently and effectively with electronic tools. The Division configured at least one computer in each mission with the new access information. Permanent missions were notified of the complete phase-out of access to the United Nations Development Programme (UNDP) system;
+	(b)	More than 500 Internet connection accounts have been provided to missions and their personnel. In addition, each mission may request an unlimited number of email accounts. Currently, the missions’ server (un.int) hosts approximately 1,150 individual email accounts. All permanent missions are now accessible through a uniform email address system;
+	(c)	The support provided to missions includes facilities that were created to protect their mail operations from being disrupted in case of a planned or accidental flood of messages from the outside so that they can continue their daily routine. The Information Technology Services Division installed additional security measures to prevent “spamming” (unsolicited email) and unauthorized access to email accounts. The Division also responded to the request of Member States for virus protection by extending the United Nations contract to include the missions. A request for a two-year renewal of licences was recently processed by the Division, with the stipulation that the vendor must be able to maintain the current pricing for at least two years for all permanent missions, offices and agencies worldwide, with no minimum purchase limits for each order;
+	(d)	The hosting of mission web sites on the un.int server has increased during the past year. Each mission has the option of updating the web sites using the access code provided for either the Microsoft FrontPage or file transfer protocol software. There are now 114 web sites on the server, which receives about 34,000 visits each day;
+	(e)	The Division continued to provide technical advice and secretariat support to the Ad Hoc Open-ended Working Group on Informatics by attending their bimonthly meetings and providing members with updates on new technology;
+	(f)	A total of 1,357 personal computers and printers accrued from the Organization’s personal computer replacement programme were donated to permanent missions;
+	(g)	The Division continued to provide access to the optical disk system (ODS). There are now 192 permanent and observer missions with 1,109 users, at the missions themselves and in their capitals, using the ODS facility;
+	(h)	Help desk support continues to be provided to permanent missions from 9.30 a.m. to 5.30 p.m. on normal United Nations workdays. From July 2000 to June 2001, the missions’ help desk received 2,119 calls for technical support.
+15.	The Division continued to maintain 24 computers in the Delegates’ Lounge and the first basement of the Secretariat Building. They have direct access to the Internet and are provided for the use of delegations only. The Division continued to ensure their full availability by carrying out routine inspections of all devices twice a day.
+
+
+	B.	Informatics activities of the Department of Economic 
+and Social Affairs
+
+
+		Policy coordination
+
+16.	During the past year the Department of Economic and Social Affairs has supported the pivotal role of the Economic and Social Council in the area of information and communication technology for development. As mentioned above, a ministerial declaration was adopted in July 20001 on the role of information technology in the context of a knowledge-based global economy. The Council has been a major driving force behind the ground-breaking initiative to set up an Information and Communication Technologies Task Force, which will enable the United Nations system to bring together the information technology community and the development community to develop innovative approaches for bringing information and communication technologies capacity to the developing world.
+17.	The Information and Communication Technologies Task Force, to which the Department provides substantive support, will hold its first meeting in early September to approve a plan of action and road map for implementation. The Department has worked very closely with UNDP and the United Nations Fund for International Partnerships during the past months in developing a viable strategy for the Task Force.
+18.	The Department will further assist the Council in examining, during this year’s coordination segment, the role of the United Nations in promoting development with respect to access to and transfer of knowledge and technology, especially information and communication technologies, through, inter alia, partnerships with relevant stakeholders, including the private sector. Further information can be found at http://www.un.org/esa/coordination/ecosoc/itforum/ict.htm.
+
+		Application development
+
+19.	The Statistics Division provided access to UNSTATS, its massive database of statistical data, through the Internet and Intranet. The database was compiled in collaboration with more than 30 international organizations. Country profiles have been added in several areas, including social indicators (based on the minimum national social data set). Following successful access deployment to the regional commissions last fall, UNSTATS has been made available to all staff at major United Nations offices in New York, including UNDP, the United Nations Population Fund and the United Nations Children’s Fund, and in the field to UNDP resident coordinators’ offices and United Nations information centres. The address of the public site is at http://unstats.un.org.
+20.	The Department of Economic and Social Affairs further developed the Integrated Monitoring and Documentation Information System (IMDIS). The system was developed to assist senior-level staff in tracking the implementation of programme outputs and in meeting the performance reporting requirements of the General Assembly. The pilot version of IMDIS was adopted for use by 
+10 substantive departments in the biennium 1998-1999, both in New York and at offices away from Headquarters. According to a report of the Secretary-General on programme performance of the United Nations for the biennium 1998-1999, IMDIS has played an important role in strengthening intra-departmental discipline in performance monitoring and in facilitating the flow of management information from the bottom up (A/55/73, para. 11). Based on this achievement, IMDIS was extended at the request of the Programme Planning and Budget Division of the Department of Management, to facilitate the initial formulation of programme plans. Those plans will then serve as the basis for later monitoring and performance analysis. The address of the production site is http://imdis.un.org.
+
+		Communications
+
+21.	The Department utilized Internet technologies to build communities of practice, support its technical cooperation work and consult with civil society. The Division for Public Economics and Public Administration set up the Global Online Network on Public Administration and Finance (UNPAN). UNPAN provides online information services, such as information on United Nations programmes and projects on public policies, public administration and finance, best practices and relevant experiences at the regional, national and local levels. It provides online training programmes, materials, facilities, advisory services, interactive questions and answers, the UNPAN help desk, conference and workshops and worldwide directories in public administration and finance. The Internet address of the site is http://www.unpan.org.
+22.	The Population Division has developed DemoNetA to facilitate the exchange of research information among demographic centres of Africa and DemoNetAsia for Asia. The Division for the Advancement of Women has made extensive use of only conferencing facilities to conduct a series of online consultations on issues identified for follow-up to the Fourth World Conference on Women, held in Beijing in September 1995. The secretariat of the International Conference on Financing for Development, to be held in Mexico in 2002, has established an interactive site (http://www.un.org/esa/ffd) to solicit and receive feedback from the international community on the financing for development process. The Division for Sustainable Development has built the Johannesburg Summit web site as a major locus of information exchange and preparation for the 10-year review of the United Nations Conference on Environment and Development, to be held in Johannesburg, South Africa, in 2002. The address is http://www.johannesburgsummit.org.
+	Notes
+	1	Official Records of the General Assembly, Fifty-fifth Session, Supplement No. 3 (A/55/3/Rev.1), chap. III, para. 17.
+
+[Start1]<<ODS JOB NO>>N0142258E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2001/96<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+7
+
+United NationsE/2001/96 
+Economic and Social CouncilDistr.: General
+21 June 2001
+
+Original: English
+
+
+01-42258 (E)    090701
+*0142258*
+

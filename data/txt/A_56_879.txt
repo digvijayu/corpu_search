@@ -1,0 +1,295 @@
+[Start1]
+Fifty-sixth session
+Agenda items 121 and 130
+
+Review of the efficiency of the administrative and
+financial functioning of the United Nations
+
+Report of the Secretary-General on the activities of the
+Office of Internal Oversight Services
+
+
+
+		Post-implementation review of the Integrated Management Information System at United Nations Headquarters 
+
+
+		Note by the Secretary-General
+
+
+1.	Pursuant to General Assembly resolutions 48/218 B of 29 July 1994 and 54/244 of 23 December 1999, the Secretary-General has the honour to transmit, for the attention of the Assembly, the attached report, conveyed to him by the Under-Secretary-General for Internal Oversight Services, on the post-implementation review of the Integrated Management Information System (IMIS) at United Nations Headquarters.
+2.	The Secretary-General takes note of the findings and generally concurs with the recommendations made in the report, which will serve to maximize the benefit of the investment that has already been made in developing the principal management information system of the United Nations. The Secretary-General is also pleased to note that the Department of Management is taking steps to address IMIS governance and policy issues by fully implementing a governance framework, developing a strategy document and updating the IMIS common services agreement.
+
+		Report of the Office of Internal Oversight Services on the post-implementation review of the Integrated Management Information System at United Nations Headquarters
+
+
+
+	Summary	The development of an integrated management information system for the United Nations was approved by the General Assembly in section XII of its resolution 43/217 of 21 December 1988. Releases 1 to 4 of the Integrated Management Information System (IMIS) have since been implemented at United Nations Headquarters and are at various stages of implementation at the other seven duty stations. Notwithstanding this progress, OIOS is concerned about a number of policy and governance issues that still need to be addressed to ensure the effective operation of IMIS.
+	The November 1999 report of the working group on IMIS to the Task Force on Common Services acknowledged that the IMIS Steering Committee would continue to be the body responsible for IMIS governance, but recommended amending its original terms of reference. The report went on to spell out the basis for a common services agreement between the interested parties, and outlined the role that the main IMIS users, namely the United Nations, the United Nations Development Programme, the United Nations Children’s Fund, the United Nations Population Fund, the United Nations Office for Project Services and the International Labour Organization, would play in the governance framework for the biennium 2000-2001.	At the time of the review, few of the working group’s recommendations had been implemented. OIOS supports the recommendations made by the working group regarding the governance framework. OIOS further believes that the IMIS Steering Committee should take immediate steps to ensure that the governance framework for IMIS maintenance and development is fully implemented and that the common services agreement is redrafted to reflect the change in the level of participation by the United Nations funds and programmes and implemented.
+	Effective in May 2000, IMIS ceased to be treated as a project and was established as a service within the Information Technology Services Division of the Office of Central Support Services. OIOS believes that a governance framework is an essential element in managing the IMIS programme and ensuring the sustained development and maintenance of the system. With the completion of IMIS as a project at an identified cost of $78 million and its establishment as a programme, the IMIS Steering Committee needs to clearly identify the source of funding for future modification and enhancement of the system. Funding required within the Secretariat may be included in the programme budget for the Integrated Management Information Service. However, OIOS believes that as the principal “owners” of the system, the Office of Programme Planning, Budget and Accounts, the Office of Human Resources Management and the Office of Central Support Services are in a better position to plan for future functional enhancements and should absorb the costs that are directly related to the releases for which they are responsible. As such, the programme budgets of those offices should make provision for the costs.
+	Although the development of IMIS is complete in terms of its original plan, much work remains to be done to consolidate data and integrate the system across all duty stations. Furthermore, IMIS has not yet been implemented in any of the active peacekeeping missions or in the two international Tribunals. This major issue has implications for real-time consolidated reporting, transferring of staff records from one duty station to another and processing of inter-office vouchers.
+	There is also no formal strategic plan articulating the Organization’s vision for IMIS in the long term. OIOS believes that replacing IMIS in the short term is not feasible. It is therefore important for the Organization to have a strategic plan setting out its vision for IMIS over the next two bienniums. Such a plan should also clearly identify the number of technical personnel and the skills that will be required to maintain and enhance IMIS, as well as the related budgetary requirements. 
+	The IMIS Steering Committee needs to identify, secure and assign resources so that the consolidation and integration of all the IMIS databases is completed in the shortest possible time. The IMIS Steering Committee should also finalize its evaluation of the viability of implementing IMIS in the peacekeeping missions and Tribunals and propose a specific plan of action. Moreover, OIOS believes that the existing resources of the Integrated Management Information Service may not be adequate to process the outstanding requests for system modifications and enhancements. This matter should be addressed in the IMIS strategic plan and the revised common services agreement.	The IMIS Steering Committee also needs to address the implementation of various processes designed to ensure the sustained operation of the system. Some elements of those processes are in place, but full implementation, as recommended by the Board of Auditors (see A/52/755, annex, para. 85), has not been achieved.
+	The review by OIOS of the controls aimed at protecting IMIS data from unauthorized access shows that a sound framework is in place. However, OIOS is concerned that the current audit trail and security reports are largely ineffective, since they are based on redundant concepts and the fact that very few of the available reports are being reviewed. Moreover, recommendations made by OIOS in 1996 and the Board of Auditors in 1997 for undertaking an information systems risk analysis and implementing an information systems security policy are still outstanding and should be implemented by the Information Technology Services Division.
+	The Organization’s dependence on IMIS has grown to a point at which many basic operations and processes cannot be completed if the system is not available. There is no formal business continuity plan. OIOS believes that the Information Technology Services Division should take the lead in developing a plan that would ensure that the Organization is able to continue to provide core services in the event of a disaster. 
+	OIOS makes a series of recommendations intended to improve the governance structure for IMIS and to strengthen management controls at the operational level. Management has accepted all of the recommendations of OIOS and is in various stages of implementing them.
+Contents
+ParagraphsPageI. 	Introduction	1–75II. 	Review findings and observations	8–575A. Governance and policy issues	8–405B. Technical and operational issues	41–579III. 	Recommendations	58–8911
+
+
+	I.	Introduction
+
+
+1.	The Office of Internal Oversight Services (OIOS) conducted a post-implementation review of the Integrated Management Information System (IMIS) at United Nations Headquarters between February and August 2001. The review was performed in accordance with the general and specific standards for the professional practice of internal auditing in United Nations organizations and included such tests and other procedures as the auditors determined were necessary under the circumstances.
+2.	In section XII of its resolution 43/217 of 21 December 1988, the General Assembly approved the development of an integrated system for the processing and reporting of administrative activities at all major duty stations of the Organization. IMIS has been developed in line with that mandate.
+3.	The development and implementation of IMIS was planned in a phased approach, with each phase referred to as a “release”. The IMIS releases, as defined in the contract with the main contractor for developing IMIS, PricewaterhouseCoopers, comprised the following: 
+	•	Release 1			Human resources;
+	•	Release 2			Staff entitlements;
+	•	Release 3			Financial applications;
+	•	Release 4			Payroll.
+4.	In addition to the releases, the contract included a provision for data distribution, enhanced queuing and enhanced word-processing integration. Those components had been implemented by the time Release 4 was completed.
+5.	The table shows the actual and scheduled implementation dates for each of the first four releases at the eight duty stations. IMIS is also being used to varying degrees by the United Nations Development Programme (UNDP), the United Nations Population Fund (UNFPA), the United Nations Office for Project Services (UNOPS), the International Labour Organization (ILO) and the United Nations Children’s Fund (UNICEF). All duty stations are now using Release 3, and a rigorous schedule is in place to complete the implementation of Release 4 at all duty stations by July 2002.
+6.	The involvement of PricewaterhouseCoopers was phased out in October 2000. The IMIS project team, which was responsible for the system’s development and implementation, has evolved into the Integrated Management Information Service, which is part of the Information Technology Services Division of the Office of Central Support Services. The Service has 34 approved posts and provides a range of common services to the United Nations, UNICEF, UNDP and ILO.
+7.	The audit was approached in two phases to distinguish between the development and user environments of IMIS. The areas covered in the first phase included the management of the project, the technical architecture, maintenance and support and the security features of the system. The second phase focuses on the functional areas of IMIS. The present report deals with the findings and recommendations relative to the first phase of the audit, which had three main objectives:
+	(a)	Project management: to review the adequacy and effectiveness of the management of the project and the budget and skills required for maintaining and enhancing IMIS;
+	(b)	Technology, maintenance and support: to assess the Organization’s capacity to maintain and support IMIS in-house and to evaluate its commitment to ensure that the technical architecture is upgraded to be in line with current industry standards;
+	(c)	Security: to review the adequacy, effectiveness and reliability of IMIS security features and adherence by the IMIS user organizations to operational security procedures as a means of controlling access to the system and safeguarding data integrity.
+
+
+	II.	Review findings and observations
+
+
+	A.	Governance and policy issues
+
+
+	1.	Establishing a proper governance structure
+
+8.	The IMIS Steering Committee is responsible for the implementation and operation of IMIS. This responsibility is defined in a Secretary-General’s bulletin dated 27 April 1995 (ST/SGB/276), which also sets out the Steering Committee’s terms of reference.
+
+
+ReleaseDuty station1
+(Human resources)2
+(Entitlements)3
+(Finance)4
+(Payroll)Headquarters9/934/984/969/00United Nations Office at Vienna6/968/987/9910/01Economic and Social Council8/968/983/014/02United Nations Office at Geneva3/978/984/001/02Economic Commission for Latin America and the Caribbean4/979/987/004/02United Nations Office at Nairobi6/971/997/017/02Economic Commission for Africa10/978/9810/007/02Economic and Social Commission for Western Asia2/987/9810/997/01
+
+
+
+9.	In its November 1999 report to the Task Force on Common Services, the working group on IMIS commented that the roles and responsibilities set out in the 1995 bulletin required amendment, and deliberated at length on the question of governance and on how the various users could benefit from an IMIS common service. The report also identified the role that the United Nations, UNDP, UNICEF, UNFPA, UNOPS and ILO would play in the governance framework for the development and maintenance of IMIS.
+10.	In the recommended framework, the IMIS Steering Committee was retained as the body responsible for the governance structure. The working group made two recommendations concerning governance: that an IMIS development and maintenance governance framework be established for the biennium 2000-2001 and that the IMIS common service for maintenance and development be established as a division within the Office of Central Support Services and funded by the United Nations, UNDP, ILO and UNICEF.
+11.	The framework also introduced the concept of substantive interest groups, whose role would be to provide a means for users and the IMIS team to assess and prioritize modifications and enhancements to IMIS. The working group recommended that interest groups be established in the areas of human resources management, financial management, support services and information technology, and that subgroups be formed to deal with specialized areas. OIOS found, however, that few of the working group’s recommendations had been implemented in practice.
+12.	To date, the Organization has invested $78 million in direct costs to develop IMIS. OIOS believes that this investment may be jeopardized unless strong leadership is implemented and an appropriate management structure is developed (see recommendation 1).
+
+	2.	Need for a comprehensive strategic plan for the Integrated Management Information System
+
+13.	There is currently no documented long-term strategic plan that articulates the Organization’s vision and commitment regarding IMIS. The Advisory Committee on Administrative and Budgetary Questions requested the Secretary-General to address the long-term strategy for IMIS (A/55/7/Add.8, para. 7). While the report of the Secretary-General on information technology in the Secretariat: a plan of action (A/55/780) deals with an information technology strategy, it does not meet the essential requirements of an IMIS strategic plan.
+14.	Notable areas for which no firm commitment has been made to date include:
+	(a)	Data interchange between Headquarters and offices away from Headquarters;
+	(b)	The implementation of IMIS in peacekeeping missions and the international Tribunals;
+	(c)	Whether an IMIS procurement module should be developed;
+	(d)	Integration or interfacing with the new system scheduled to replace the budget information system;
+	(e)	Interfacing with the investment management software operated by the Treasury;
+	(f)	A decision on whether to develop Web-enablement capability in-house or to contract it out.
+15.	Without a clear strategy for IMIS, it has not been possible to develop detailed plans. Consequently, it is not clear what the Integrated Management Information Service intends to accomplish in the longer term and how it will be achieved. Furthermore, planning for the acquisition of resources has often been initiated relatively late, resulting in delays in execution (see recommendation 2).
+
+	3.	Funding
+
+16.	In the twelfth progress report on the IMIS project to the General Assembly (A/55/632), the Secretary-General declared that the development of IMIS was complete in terms of its original plan. However, the interfacing of IMIS with other systems that are utilized by the Organization still needs to be addressed. IMIS will also require ongoing maintenance in order to be kept current relative to changes in the Organization’s rules and regulations and new technological developments.
+17.	With the declared completion of the IMIS project, funds for IMIS operation, maintenance and enhancements will now have to be provided for separately in the regular budget. Now that IMIS has been established as a service within the Information Technology Services Division, the Division has budgeted funds to cover the costs of the ongoing maintenance and administration of IMIS and to keep up to date with technical advances. However, the principal owners of the system, namely the Office of Programme Planning, Budget and Accounts, the Office of Human Resources Management and the Office of Central Support Services should budget additional funds to cover the costs of future functional enhancements. OIOS notes that the final budgets of those offices for the biennium 2002-2003 do not include significant amounts for the future enhancement of IMIS.
+18.	The Organization has invested heavily to develop and implement a system that is functioning but that has not attained its full potential. Without adequate additional funding, IMIS will fall short of being a fully integrated management information system. There is also a risk that the system will become outdated, and that could force the Organization to replace IMIS sooner than may be necessary (see recommendation 3).
+
+	4.	Common services agreement not fully implemented
+
+19.	With the completion of the development of Release 4, the support provided to the user community has taken on a more important role. This has been defined under the terms of a common services agreement that established the Integrated Management Information Service as a central maintenance and support unit, offering services to the United Nations Secretariat, offices away from Headquarters and the other agencies using IMIS. The partners to the common services agreement include the United Nations Secretariat, UNDP, UNICEF and ILO.
+20.	The Integrated Management Information Service provides maintenance services in the following broad categories: application maintenance, application development, quality assurance, database management, technical research and development and business management services.
+21.	In its 1999 report, the working group on IMIS of the Task Force on Common Services recommended that UNDP, UNICEF and ILO contribute the equivalent of 6.3, 1.35 and 2.35 posts respectively to the central maintenance team. Those 10 posts, combined with 34 regular budget posts of the Secretariat, would have made up the total staff complement of the Integrated Management Information Service. According to the Director of the Information Technology Services Division, this level of staffing would have been the minimum required for the Service to be able to deliver the services defined in the common services agreement.
+22.	The IMIS Steering Committee has not completed the implementation of the working group’s recommendations, and therefore the status of the agreement remains unclear. To date, UNDP has contributed two posts, UNICEF has not given a firm indication of its involvement, and ILO has refused to take part. In addition, there is uncertainty regarding the continued participation of UNDP, UNICEF and ILO. OIOS is of the opinion that the reduced number of staff on the Integrated Management Information Service maintenance team resulting from this situation is likely to adversely affect the team’s ability to provide the services stated in the agreement (see recommendation 4).
+	5.	Substantive interest groups
+
+23.	In its 1999 report, the IMIS working group recommended the establishment of substantive interest groups for the purpose of promoting system ownership by the substantive units and facilitating user participation in identifying the development and enhancement priorities of IMIS. The groups were launched in June 2000, with representation from all Secretariat departments and participating agencies, funds and programmes. 
+24.	Substantive interest groups have been established in the areas of finance, human resources management, support services and technology. The decisions taken by the groups on the relative priority of system modifications and enhancements are to be communicated to the IMIS Steering Committee for review and approval. However, OIOS found that as at the end of 2001, the contributions and activities of the substantive interest groups had not been effective. Meetings were held infrequently; in the case of the technology group, no meetings had been held since the group’s establishment. This was due largely to resource constraints faced by the IMIS team, whose main commitment was finalizing the development of Release 4 and implementing Release 3 in offices away from Headquarters.
+25.	Substantive interest groups are an important interfacing mechanism for the user community. It is therefore essential that they operate effectively to ensure that IMIS keeps pace with changes in the work environment and continues to meet the users’ requirements. The failure to identify, prioritize and implement modifications is likely to result in the system’s becoming prematurely obsolete (see recommendation 5).
+
+	6.	Consolidation and integration of Integrated Management Information System data
+
+26.	The consolidation and integration of the system to facilitate the handling of inter-office vouchers, centrally maintained tables, consolidated reports and the like are key issues that will need to be resolved before IMIS becomes a fully integrated management information system. 
+27.	The absence of a consolidated and integrated database for the entire Organization has a negative impact on the efficiency of operations. In particular, the transfer of personnel records from one duty station to another in connection with staff movements has proven to be a cumbersome manual operation that has an inherent risk of error. This is likely to become a bigger issue once the payroll release is implemented at all duty stations, since the payment of a staff member’s salary will become directly dependent on the availability of his or her personnel data.
+28.	Another major area of concern is the raising and processing of inter-office vouchers. The inter-office voucher arrangement allows an office in one duty station to make payments or carry out other financial transactions on behalf of an office located in another duty station. Currently, a large number of inter-office vouchers need to be processed, and substantial effort is being made in each unit to reconcile the inter-office accounts. 
+29.	The processing of inter-office vouchers at Headquarters was the subject of an OIOS audit that was completed in November 1999. Management, in commenting on 6 of the 10 recommendations made in the report, stated that improvements in the processing of inter-office vouchers were expected when the new release of IMIS became functional. The Board of Auditors has also commented on the situation regarding the substantial backlog of unreconciled inter-office voucher transactions and the need for improvement in that area.
+30.	Further development of IMIS is therefore necessary to provide an online consolidated database, leading to the elimination of or a drastic reduction in inter-office vouchers. Consolidation will also help to prevent duplicate and redundant data and to facilitate the transfer of personnel records (see recommendation 6).
+
+	7.	Implementing the Integrated Management Information System in peacekeeping missions and the international Tribunals
+
+31.	The debate regarding the suitability of IMIS for deployment in remote offices, such as peacekeeping missions, has been going on for some years. Various technological options have been reviewed, but a workable solution has not yet been identified.
+32.	The main disadvantage to deploying IMIS as it stands is that the mission conditions may not be suitable for the hardware required to run the system. An alternative under consideration was the partial implementation of IMIS at the user level by assigning access rights only for certain application areas of the system. This version of IMIS could be run on equipment currently used in the missions. 
+33.	In any event, there would have to be a thorough review of the functions offered by IMIS with regard to the needs of peacekeeping missions. There may be some functions that are not required for missions, and there may be certain functions performed at missions that are not currently provided for in IMIS.
+34.	In practical terms, as a result of the above issues, little progress has been made towards implementing IMIS in peacekeeping missions and the international Tribunals or in identifying alternative solutions for interfacing the existing systems with IMIS. OIOS believes that the decision to use IMIS in peacekeeping missions and the Tribunals should be addressed conclusively in the long-term strategy outlined in recommendation 2 (see recommendation 7).
+
+	8.	Alternatives to the Integrated Management Information System
+
+35.	OIOS examined the feasibility of the Organization’s immediately moving away from IMIS to an alternative system, and determined that a decision to replace IMIS would require extensive research into the alternative integrated information systems available that would meet the requirements of the Organization.
+36.	The implementation of a commercially available system to replace IMIS would likely cost more than the continued development and enhancement of the system. This conclusion is based on the fact that the necessary human resources, particularly the external consultants that are skilled in such implementation activities, are scarce and therefore very expensive. In addition, such systems are commonly purchased together with a licensing agreement that requires the licensee to pay an annual fee. Industry benchmarks indicate that the fee could be as much as 15 per cent of the cost of purchasing the system. Moreover, a 1998 study conducted by the Standish Group found that for a Fortune 1,000 company, maintenance could account for as much as 36 per cent of the cost of a mission-critical application. 
+37.	In considering a replacement for IMIS, the Organization has the choice of changing all its processes to fit the chosen system or customizing and modifying the system to fit the Organization’s existing processes. If the Organization changes its processes and business rules to match those inherent in a commercial package, it would save on the modifications but spend more to manage the change.
+38.	A decision to change the Organization’s processes would also divert the already limited resources from programmatic activities to development activities. One must also keep in mind that for several years, the staff has been coping with pressures linked to the development and implementation of a major integrated application system.
+39.	On the other hand, modifying a proprietary system to suit the needs of the Organization could be equally costly, particularly if the modification process had to be repeated each time there were an upgrade to a newer version supplied by the vendor. 
+40.	In conclusion, OIOS believes that it would not be feasible to replace IMIS within a period of less than 10 years. The IMIS Steering Committee should, therefore, articulate its plans for the long-term use of integrated information systems in the United Nations to avoid the problems associated with ad hoc implementation (see recommendation 8).
+
+
+	B.	Technical and operational issues
+
+
+	1.	Staff establishment and post structure of the Integrated Management Information Service
+
+41.	The regular budget for the biennium 2002-2003 for the Integrated Management Information Service provides for 34 posts. At the time of the OIOS review, analysts and programmers accounted for 22 of those posts. Interviews with managers in the Integrated Management Information Service revealed a general concern regarding the Service’s continuing ability to support and develop IMIS with the existing staffing levels. OIOS also noted that there was no documented assessment concerning what the optimal mix and level of staff should be in the light of anticipated project activity. One of the main reasons for this is the absence of long-term strategic and project plans as referred to in the present report.
+42.	At present, systems development and systems maintenance are not distinct, which makes it more difficult to plan the human resource requirements for the two functions. Resource planning should also take into account the fact that development and maintenance work have different time lines (see recommendation 9).
+	2.	Keeping pace with new technology
+
+43.	When IMIS was planned in 1988, integrated applications based on client-server technology were not available commercially, and the Organization’s thinking was, at that time, on the leading edge of information technology. However, in the 13 years that it has taken to bring IMIS to where it is today, developments in technology have made available a better and wider selection of functions.
+44.	The strategy of the IMIS project team has been to move ahead with the development and implementation of IMIS up to the implementation of the payroll module, and then to assess what improvements can and should be made in order to bring the new technology features into the system. A case in point is the IMIS user interface, which, in terms of user-friendliness, lags behind the graphical user interface screens that are now available on the market. The IMIS Steering Committee needs to ensure that technological enhancements for IMIS are promptly identified and implemented (see recommendation 10).
+
+	3.	Integrated Management Information System maintenance processes not fully implemented
+
+45.	The study on the long-term maintenance of IMIS commissioned by the IMIS project and completed by external consultants in 1995 provided options for structuring the IMIS organization and recommended processes that should be implemented to ensure the sustained operation of the system. The IMIS maintenance processes outlined in the study included:
+	(a)	Change request process;
+	(b)	Help desk support process;
+	(c)	Ad hoc report development process;
+	(d)	Table maintenance process;
+	(e)	User processes for operating IMIS.
+46.	Some elements of these processes are in place, but full implementation, designated ownership and performance indicators have yet to be addressed. OIOS believes that full implementation of the long-term maintenance processes is necessary to prevent any gaps in maintenance that are likely to affect the proper operation of the system.
+47.	The Board of Auditors also commented on the need to raise the priority for the implementation of the IMIS long-term maintenance plan (A/52/755/annex, paras. 83-85) (see recommendation 11).
+
+	4.	Audit trail and security reports
+
+48.	The IMIS audit and security violation reports that are currently available need to be reviewed and updated. Currently only 17 of the 31 available security reports are being utilized. A number of the reports are not considered to be useful because they are based on concepts that have since been revised and do not contain all the data necessary to make them an effective management tool (see recommendation 12).
+49.	No reports relating to the security violation tables were being printed out and reviewed as a standard practice. As a result, audit trail and security violation information is not being analysed, as envisaged in the IMIS security administration manual.
+50.	The Administration, Liaison and Security Section of the Information Technology Services Division needs to develop a clear policy with regard to the distribution of audit trails and security reports. The policy should identify the reports that are to be restricted to the Section and those that should be made available to the security officers within the various departments (see recommendation 13).
+
+	5.	Implementing an information systems security policy
+
+51.	Based on its 1996 review of IMIS security, OIOS recommended the preparation and issuance of a policy statement on information security. Also, the Board of Auditors referred to a previous recommendation it had made three years earlier calling for the Administration to undertake an information systems risk analysis. The Board noted that the Administration had indicated that such a formal risk analysis would require significant human and financial resources that were not available (ibid., para. 94).
+52.	In the same report, the Board of Auditors took note of the fact that the Administration had prepared an information systems security policy, but that it had not been approved by the Steering Committee. The Board went on to recommend that the Administration obtain approval for the policy and implement it (ibid., paras. 95-96).
+53.	The information systems risk analysis has not yet been undertaken, and a security policy still needs to be finalized and implemented (see recommendation 14).
+
+	6.	Business continuity planning
+
+54.	Although the Organization has become increasingly dependent on the uninterrupted availability of IMIS, it does not have a formal business continuity plan to ensure that in the event of a major disaster affecting its computer facilities it would be able to mobilize alternative arrangements for processing data and to continue providing its core services efficiently while the facilities were being properly restored.
+55.	The current arrangements are ad hoc and largely dependent on a small number of individuals. The absence of a business continuity plan places undue reliance on the availability of these key staff members. In case of major disaster such as a fire, it is likely that damage would not be restricted to computer equipment, but would also affect other areas. Formal contingency plans are therefore necessary to define clearly the procedures and responsibilities for mitigating the risks if normal operations are disrupted.
+56.	Typically, a business continuity plan should define the following:
+	(a)	Critical business functions and the systems supporting them;
+	(b)	Different types of disasters, ranging from major malfunctions of equipment to large-scale disasters, that would affect all the site activities;
+	(c)	Key tasks and the individuals who are responsible for completing them;
+	(d)	Alternative arrangements to be made while the critical functions are being recovered.
+57.	While OIOS is recommending that the Information Technology Services Division take the initiative in preparing and implementing a business continuity plan for the Organization, all key managers from the various departments will need to be involved in formulating the plan. Once the plan has been formulated and approved, it needs to be tested. Procedures are also needed to ensure that the plan is reviewed and tested regularly, and that it is updated to reflect significant system or operational changes (see recommendation 15).
+	III.	Recommendations
+
+
+58.	OIOS makes the following recommendations, which are intended to improve the IMIS governance structure and to strengthen management controls at the operational level. Management’s comments are shown in italics. The recommendation numbers shown in parentheses are internal OIOS codes taken from the original audit report. OIOS has made a number of other more detailed recommendations that are aimed at strengthening management controls at the operational level. Those recommendations are included in a separate report to management. 
+
+		Recommendation 1
+
+59.	OIOS recommends that the Department of Management fully implement the governance framework for IMIS development and maintenance, as recommended by the working group on IMIS of the Task Force on Common Services (AM2001/54/01).
+60.	Implementation status. The Department of Management advised that the governance structure of IMIS had been partially implemented with the establishment of substantive interest groups. The contribution of funds and programmes to the funding arrangements for the IMIS common services agreement had not been fully implemented. With UNDP and UNICEF having confirmed their continued participation in IMIS, it was expected that the necessary funding arrangements would be put in place in the first half of 2002. The substantive interest groups had not been fully operational, due largely to a lack of resources for maintenance work beyond the support of the payroll application and the continuing implementation of IMIS in all offices. Efforts would be made in early 2002 to make the groups more operational.
+
+		Recommendation 2
+
+61.	OIOS recommends that the IMIS Steering Committee develop a strategic plan for IMIS covering the next two bienniums. The Steering Committee should ensure that the plan is supported by details specifying deliverables, timing and resource requirements, and that it addresses the functional areas that will continue to operate outside of IMIS and how they will interact with the system (AM2001/54/02).
+62.	Implementation status. The Department of Management agreed that a long-term strategy for IMIS was required and stated that such a strategy would be prepared and submitted to the IMIS Steering Committee for its consideration in 2002. However, given the pace of technological change, that strategy would be limited to a period of two rather than three bienniums. With regard to the specific areas mentioned in paragraph 14, areas related to the interchange of data between offices and the implementation of IMIS at peacekeeping missions and Tribunals were subject to the approval by the General Assembly of the thirteenth IMIS progress report (A/56/602). The development of an IMIS procurement module and the interfacing of the Treasury’s investment management system would be addressed in the IMIS strategic plan. Interfacing with the new budgeting system was in progress and was scheduled for implementation by mid-2002. The Procurement Division of the Office of Central Support Services was in the process of selecting a contractor for the Web enablement of IMIS. The project is scheduled to commence in 2002.
+
+		Recommendation 3
+
+63.	OIOS recommends that the IMIS Steering Committee, in developing the long-term strategy for IMIS as per recommendation 2 above, also determine the total funding requirements for IMIS. Those requirements should be incorporated in the proposed programme budgets of the Office of Programme Planning, Budget and Accounts, the Office of Human Resources Management and the Office of Central Support Services, the principal owners of IMIS (AM2001/54/03).
+64.	Implementation status. The Department of Management advised that funding arrangements were currently described in the IMIS common services agreement, under which the United Nations provided for 34 posts, the other posts being funded by the funds and programmes. During 2002, the funding requirements would be assessed as part of the review of the common services agreement and coordination by the IMIS Steering Committee of the long-term maintenance plan for IMIS. 
+
+		Recommendation 4
+
+65.	OIOS recommends that the IMIS Steering Committee assign a high priority to reviewing the common services agreement in the context of changes in the level of participation by the parties to the original agreement and ensure that the revised agreement is implemented in full (AM2001/54/04).
+66.	Implementation status. The Department of Management advised that the funds and programmes had confirmed their participation in the IMIS common services agreement, while ILO had not. It would therefore be useful to review the agreement, which would be done in the first half of 2002. 
+
+		Recommendation 5
+
+67.	OIOS recommends that the substantive interest groups prepare a schedule of regular meetings and adopt formal meeting guidelines to ensure that resolutions and issues arising are noted and passed on to the IMIS Steering Committee for review and approval (AM2001/54/05).
+68.	Implementation status. The Department of Management agreed with the recommendation of OIOS concerning the functioning of the substantive interest groups. The establishment of regular meeting schedules and guidelines would be conducted in the first quarter of 2002. 
+
+		Recommendation 6
+
+69.	OIOS recommends that the IMIS Steering Committee request the resources necessary to achieve the consolidation and integration of all IMIS databases as soon as possible (AM2001/54/06).
+70.	Implementation status. The Department of Management advised that the issues surrounding further consolidation of databases would be the subject of a study to be conducted in 2002, for which extrabudgetary funding had been requested from the General Assembly in the thirteenth progress report on IMIS. The resource requirements and the time line for implementing database consolidation would be known when the results of the study became available. 
+
+		Recommendation 7
+
+71.	Further to its recommendation for a long-term IMIS strategy (recommendation 2), OIOS recommends that the IMIS Steering Committee commission a detailed analysis to determine the technical and functional constraints that are impeding the implementation of IMIS in the peacekeeping missions and the Tribunals and propose a specific plan of action to address those problems (AM2001/54/07).
+72.	Implementation status. The Department of Management noted that the thirteenth IMIS progress report included plans for a phased implementation of IMIS in the peacekeeping missions commencing during the first half of 2002. The first phase would identify the degree of fit between IMIS functionality and mission needs and would provide a plan of action to address the functional gaps. A project to operate IMIS as a Web application is under way, as is the preparation of a funding request to increase bandwidth, which is required to support the Web version of IMIS.
+
+		Recommendation 8
+
+73.	OIOS recommends that the Information and Communications Technology Board, in its strategic plan, declare to the Steering Committee on Reform and Management that IMIS is the primary integrated management information system for the entire Organization (AM2001/54/08).
+74.	Implementation status. The Department of Management noted that the Information Technology Services Division would propose this recommendation to the Information and Communications Technology Board for its consideration. 
+
+		Recommendation 9
+
+75.	OIOS recommends that the IMIS Steering Committee undertake a study to ascertain the optimum number of staff and mix of skills required for the Integrated Management Information Service. The study should be based on the IMIS strategic plan, taking into account the provisions of the common services agreement, and should establish separate functions and resources for system development and maintenance (AM2001/54/10).
+76.	Implementation status. The Department of Management advised that resource requirements and staffing levels would be included in the long-term strategy. 
+
+		Recommendation 10
+
+77.	OIOS recommends that the IMIS Steering Committee:
+	(a)	Request the substantive interest group for technology to identify and evaluate IMIS technological enhancements;
+	(b)	Include its recommendations regarding technical enhancements in the IMIS strategy document; 
+	(c)	Ensure that the substantive interest group for technology, on a regular basis, provide the Committee with an update on new technology that may be used to enhance IMIS (AM2001/54/13).
+78.	Implementation status. The Department of Management advised that the actions identified in the recommendation were effectively being performed outside the substantive interest group structure. Meetings with relevant parties from the United Nations and UNDP had taken place, and meetings were also planned with representatives of UNICEF, which had confirmed its participation in the common service. 
+
+		Recommendation 11
+
+79.	OIOS recommends that the IMIS Steering Committee complete the implementation of the processes defined in the study on the long-term maintenance of IMIS, which was conducted by external consultants in 1995 (AM2001/54/14).
+80.	Implementation status. The Department of Management agreed that the long-term maintenance plan as described in the report of 1995 had not been implemented. The recommendation would be submitted to the Steering Committee for its consideration. 
+
+		Recommendation 12
+
+81.	OIOS recommends that the IMIS Steering Committee commission a review of the existing audit trail and security reports to ensure that they would incorporate data enabling the reviewer to investigate the reported exceptions (AM2001/54/16).
+82.	Implementation status. The Department of Management stated that it considered the audit trails in IMIS sufficiently robust and complete, but agreed that the security reports needed to be reviewed and enhanced. There were currently insufficient resources to meet all the requirements for reports, and, consequently, requests for enhancements had to be prioritized. 
+
+		Recommendation 13
+
+83.	OIOS recommends that the Chief of the Administration, Liaison and Security Section of the Information Technology Services Division develop and implement a clear policy with regard to the frequency of security report generation and distribution and responsibilities for the review and follow-up of those reports (AM2001/54/17).
+84.	Implementation status. The Department of Management stated that the Administration, Liaison and Security Section would review the policy concerning the generation and distribution of security reports that was currently in place, as well as the review and follow-up of those reports.
+
+		Recommendation 14
+
+85.	OIOS recommends that:
+	(a)	The Director of the Information Technology Services Division follow up on the recommendations of the Board of Auditors regarding undertaking an information systems risk analysis and 	implementing an information systems security policy; 
+	(b)	Once a security policy has been drawn up, the Department of Management ensure that it is formally endorsed by the heads of the Office of Programme Planning, Budget and Accounts, the Office of Human Resources Management and the Office of Central Support Services, the principal owners of IMIS data (AM2001/54/25).
+86.	Implementation status. The Department of Management stated that, subject to the availability of resources, an information systems risk analysis and finalization and implementation of a security policy for the Information Technology Services Division would be undertaken in 2002. The Department also agreed that the security policy should be endorsed by the heads of the Office of Programme Planning, Budget and Accounts, the Office of Human Resources Management and the Office of Central Support Services.
+
+		Recommendation 15
+
+87.	OIOS recommends that the Information Technology Services Division take the lead in drawing up and implementing a comprehensive business continuity plan, aimed at ensuring that in the event of a disaster, the Organization will continue to provide its core services effectively while ensuring that the facilities are properly restored (AM2001/54/30).
+88.	Implementation status. The Department of Management indicated that a business continuity plan would be drawn up in 2002. 
+89.	OIOS will follow up on management’s progress in implementing the above recommendations. 
+
+
+(Signed) Dileep Nair
+Under-Secretary-General for
+Internal Oversight Services
+
+[Start1]<<ODS JOB NO>>N0230456E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/56/879<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+14
+
+13
+
+United NationsA/56/879 
+General AssemblyDistr.: General
+26 March 2002
+
+Original: English
+
+
+02-30456 (E)    150402   
+*0230456*
+
+14
+

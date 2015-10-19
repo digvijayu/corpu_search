@@ -1,0 +1,203 @@
+[Start1]
+		Statistical Commission
+		Thirty-eighth session
+27 February-2 March 2007
+
+
+	*	E/CN.3/2007/1. 
+	a	See Official Records of the Economic and Social Council, 2006, Supplement No. 4 (E/2006/24), chap. I, sect. B.
+Item 3 (d) of the provisional agenda*
+		Items for discussion and decision: information 
+and communication technology statistics
+
+
+
+		Report of the Partnership on Measuring Information and Communication Technologies for Development: information and communication technology statistics
+
+
+		Note by the Secretary-General
+
+
+	In accordance with a request of the Statistical Commission at its thirty-seventh session,a the Secretary-General has the honour to transmit the report on information and communication technology (ICT) statistics of the Partnership on Measuring Information and Communication Technologies for Development. The present paper reports on progress made by the Partnership on Measuring Information and Communication Technologies for Development to improve the availability of internationally comparable statistics on ICT and to define a list of core ICT indicators. The Partnership aims to build the capacities of developing and transition economies to collect and process official data and indicators on their information societies. The list of core ICT indicators is a basic reference for the formulation and evaluation of policies on ICT for development. 
+
+
+
+		Report of the Partnership on Measuring Information and Communication Technologies for Development 
+
+
+
+Contents
+ParagraphsPageI. 	Background	1–33II. 	Partnership on Measuring Information and Communication Technologies for Development	4–74III. 	List of core information and communication technology indicators	8–164IV. 	Conclusions	17–186V. 	Action to be taken by the Commission	197	AnnexesI. 	Summary of main Partnership activities	8II. 	List of core information and communication technology indicators	10
+
+	I.	Background
+
+
+1.	During the last decades, advancements in the access to and usage of information and communication technologies (ICTs) have been a driving force for changes in business and in society. While ICT diffusion and usage presents an opportunity to developing countries, the digital divide between developed and developing countries persists, posing a new challenge for development. 
+2.	This has been recognized by Target 18 (part of Goal 8) of the Millennium Development Goals, which states: “In cooperation with the private sector, make available the benefits of new technologies, especially information and communications”. Measuring ICT for development can support the assessment of progress towards this goal. It can also contribute to measuring the impact of ICT on the achievement of all the Millennium Development Goals.1
+3.	In this development context, the first phase of the World Summit of the Information Society (WSIS), held in Geneva in 2003, highlighted the importance of benchmarking and measuring progress towards the information society through internationally comparable statistical indicators.2 The second phase, held in Tunis in 2005, recognized that the development of ICT indicators is important for measuring the digital divide, and called upon countries and international organizations to allocate appropriate resources for the provision of ICT statistics, and to develop effective measurement methodologies including basic ICT indicators and an analysis of the state of the information society. In particular, member States called for periodic evaluation, using an agreed methodology, such as described in paragraphs 113 to 120 of the Tunis Agenda for the Information Society,3 and referring to the work of the Partnership on Measuring Information and Communication Technologies for Development.
+
+
+	II.	Partnership on Measuring Information and Communication Technologies for Development
+
+
+4.	In response to the issues raised by the Millennium Development Goals and the first phase of WSIS, a number of key stakeholders involved in the statistical measurement of the information society joined to form the Partnership on Measuring Information and Communication Technologies for Development, which was officially launched during the eleventh session of the United Nations Conference on Trade and Development (UNCTAD XI), held in São Paulo, Brazil, in June 2004. Current partners are the International Telecommunication Union (ITU), the Organization for Economic Cooperation and Development (OECD), the Statistical Office of the European Communities (Eurostat), the United Nations Conference on Trade and Development (UNCTAD), four regional commissions (Economic Commission for Africa (ECA), Economic Commission for Latin America and the Caribbean (ECLAC), Economic and Social Commission for Asia and the Pacific (ESCAP), and Economic and Social Commission for Western Asia (ESCWA)), the United Nations Educational, Scientific and Cultural Organization Institute for Statistics (UIS) and the World Bank. The United Nations Information and Communication Technologies Task Force (UNICT) was a member of the Partnership until the end of its mandate.
+5.	The main objectives of the Partnership are: (a) to define and analyse internationally comparable statistical ICT indicators and develop methodologies to collect these indicators; (b) to assist in building the statistical capacity in developing countries; and (c) to set up a global database for hosting data on core ICT indicators. To achieve these objectives, the respective partners have combined human and financial resources and coordinated activities related to the measurement of the information society. 
+6.	Since March 2005, when the Commission considered the previous report of the Partnership on Measuring Information and Communication Technologies for Development (E/CN.3/2005/23), there has been constant progress towards attaining the Partnership’s stated objectives. This has been achieved through several events and activities, in which all Partners have collaborated among themselves and with national statistical offices (NSOs) and policymakers to raise awareness, discuss technical issues, and build capacities (see annex I to the present report).
+7.	Future work of the Partnership will focus on the subjects of its four task groups on capacity-building, database development, and the measurement of ICT in education and in government. In the area of capacity-building, the Partnership has received requests for technical assistance on ICT statistics from 35 developing countries. It has also compiled a roster of experts on ICT statistics and is currently coordinating the delivery of technical assistance among the members of the Partnership.
+
+
+	III.	List of core information and communication 
+technology indicators
+
+
+8.	The list of core ICT indicators presented in the present report (see annex II) was the outcome of an intensive consultation process by the Partnership on Measuring Information and Communication Technologies for Development that involved NSOs worldwide:
+	•	Following the stock-taking exercise carried out by the Partnership in 2004, the United Nations Regional Commissions hosted several regional statistical workshops on ICT measurement (see annex I). At these workshops, NSOs discussed the situation of ICT statistics in the respective regions and their countries, and proposed regional core lists of indicators for monitoring ICT infrastructure and access, access to, and use of, ICT by households and individuals, ICT use by enterprises, and the ICT sector.
+	•	The regional lists of indicators were presented for information to the United Nations Statistical Commission at its thirty-sixth session in March 2005 (see E/CN.3/2005/23). 
+	•	Based on the regional lists, and feedback received from NSOs, the Partnership on Measuring Information and Communication Technologies for Development consolidated a list of core ICT indicators. The list was circulated to all NSOs for further comments and suggestions. A final list was discussed, and agreed upon, at the WSIS Thematic Meeting on Measuring the Information Society, held in Geneva from 7 to 9 February 2005. The meeting was attended by 270 delegates from 85 United Nations member countries (primarily NSOs), intergovernmental organizations, non-governmental organizations and civil society. 
+	•	The final list of core ICT indicators was officially presented at the second phase of WSIS, held in Tunis in November 2005, during a parallel event on “Measuring the Information Society” organized by the Partnership. The list is contained in annex II to the present report.
+	•	Since then, the list has been disseminated widely and now serves as a basis for the Partnership’s work on measuring ICT. 
+9.	Involving NSOs from both developed and developing countries in all Partnership activities has been of utmost importance to the Partnership since its conception. National statistical offices from developed countries have provided guidance on methodologies and experiences in ICT data collection, analysis and dissemination, primarily through the OECD Working Party on Indicators for the Information Society (WPIIS). National statistical offices from developing countries have voiced their challenges and needs with regards to ICT measurement, making the Partnership a practical forum for exchanging experiences.
+10.	The list of core ICT indicators is recommended by all member organizations of the Partnership as a basis for the collection of ICT statistics that could be comparable at the international level. The Partnership publication Core ICT indicators provides definitions for the indicators and model questions for their collection.
+11.	The core indicators in the proposed list benefit from being based on internationally agreed standards (especially those developed by the ITU, OECD and Eurostat). It is one of the objectives of the Partnership to consolidate standards at the global level, taking into consideration the demands and special circumstances of developing countries.
+12.	A number of countries have already integrated the proposed list of core ICT indicators in their existing household and business surveys. Members of the Partnership are providing assistance to this process. In Latin America, for example, 7 of the 19 countries have adopted the list of core indicators on access to and usage of ICT by households and individuals, and 2 more have adopted part of it. Thirteen countries in the region are including the core indicators on access to ICT, in permanent surveys such as household surveys of living conditions or multiple purposes surveys, by posing questions on household equipment. Six Latin American countries have adopted the core indicators on ICT usage by businesses in existent business surveys. 
+13.	In Western Asia, the seventh session of the ESCWA Statistical Committee, meeting in Beirut from 7 to 9 November 2006, recommended that the Commission submit to ESCWA at its twenty-fifth session a resolution that calls for all ESCWA member countries to adopt the list of core ICT indicators and collect the ICT statistics needed to compute these indicators. The third annual Latin American and Caribbean meeting on measuring ICT for development recommended presenting a compendium of practices of ICT measurement methodologies to the fourth meeting of the Statistical Conference of the Americas of ECLAC, together with the recommendation to adopt the core indicators.
+14.	The core list serves as a basis for international data collection and has been adopted by UNCTAD for its collection of data on ICT use in businesses and the ICT sector and by the ITU for its collection of data on access to and use of ICT by households and individuals. The core list represents a subset of ICT indicators collected by Eurostat and the OECD from their member States. 
+15.	The topics on the availability of ICT devices in households adopted by the United Nations Expert Group Meeting on the 2010 World Programme on Population and Housing Censuses, held in July 2006, for inclusion in the United Nations Principles and Recommendations for Population and Housing Censuses, Revision 2, as core topics in housing censuses are based on the list of core ICT indicators.
+16.	As with all recommendations of indicators, the core list needs to be considered as a reference point which might require modifications in the future. The current list of ICT indicators is not intended to constitute a final list. Rather, the process is continuous, and the list will undergo periodic review. As countries gain experience with the collection of data for the indicators, and as policy needs evolve, indicators may be modified, removed or added. The Partnership’s task groups on measuring ICT in education and in government, for example, are expected to contribute to the development of internationally comparable indicators in these areas.
+
+
+	IV.	Conclusions
+
+
+17.	Several developing countries already have developed national strategies to measure information society developments and others are in the path to do so. In that context, the Partnership and the proposed list of core ICT indicators have provided valuable guidance. Two years after its adoption at the WSIS Thematic Meeting, the list has become a common reference for NSOs in developing countries. 
+18.	Technical cooperation provided by the Partnership, combined with a commitment of countries to implement the recommended list of core ICT indicators is essential to the improved availability of internationally comparable statistics on ICT for development.
+
+
+	V.	Action to be taken by the Commission
+
+
+19.	The Commission is invited to:
+	(a)	Note the progress made by the Partnership on Measuring Information and Communication Technologies for Development to enhance the availability of comparable statistics on ICT; 
+	(b)	Endorse the list of core ICT indicators contained in annex II to the present report; and
+	(c)	Encourage countries to use the list of core ICT indicators as a basis when collecting data on ICT and conducting surveys.
+
+
+
+Annex I
+		Summary of main Partnership activities
+
+
+DateActivityJune 2004Launch of the Partnership on Measuring Information and Communication Technologies for Development at UNCTAD XI in São Paulo, BrazilJune-August 2004Stock-taking exercise on the status of information society statistics in national statistical offices of developing countries (the Partnership sent a questionnaire that was answered by 86 out of 179 countries).a The results of that exercise are contained in the publication Measuring ICT: the global status of ICT indicators, launched in November 2005October 2004Joint ITU/ECA Subregional workshop on ICT indicators, GaboroneOctober 2004UN-ESCWA Round table on information society indicators and profiles for Western Asia, BeirutNovember 2004ECLAC Regional Workshop on Information Society Measurement in Latin America and the Caribbean, SantiagoNovember-December 2004Asia-Pacific ICT Technical Meeting, Wellington, New ZealandJanuary-February 2005WSIS Africa Regional Preparatory Conference on the Evaluation of the Implementation of the Geneva Plan of Action and ICT indicators, AccraFebruary 2005WSIS Thematic Meeting on Measuring the Information Society, GenevaMarch 2005Report of the Partnership (see E/CN.3/2005/23) and presentation of the WSIS Thematic Meeting outcome to the Statistical Commission at its thirty-sixth sessionbJune 2005UN-ESCWA Regional Capacity-building Workshop on Information Society Measurements: Core Indicators, Statistics, and Data Collection, BeirutAugust 2005Asia-Pacific Internet Research Alliance (APIRA) Second International Conference, SeoulOctober 2005ECLAC Second Regional Workshop on Information Society Measurement in Latin America and the Caribbean, Santo DomingoNovember 2005WSIS parallel event on “Measuring the Information Society” in Tunis. The outcome was reported to the Summit Plenary and the WSIS Tunis outcome recognized the work of the Partnership.November 2005Launch at WSIS Tunis of the Partnership publications Core ICT Indicators and Measuring ICT: the global status of ICT indicatorsJanuary 2006Establishment of the Partnership Steering Committee (UNCTAD, ITU, ECLAC)March 2006Establishment of the Partnership’s four task groups on: (1) capacity-building; (2) database development; (3) measuring ICT in education; and (4) measuring ICT in governmentJuly 2006Joint UNCTAD-ITU-ESCAP Regional Workshop on Information Society Measurements in Asia-Pacific, BangkokJune-October 2006Stock-taking on capacity-building requirements in the area of ICT statistics in developing countries (questionnaire sent by the Partnership)November 2006ECLAC-ITU Third Regional Workshop on Information Society Measurement in Latin America and the Caribbean, Panama City November 2006ESCWA-UIS Expert Group Meeting on Information and Communications Technology Indicators Adoption and Data Collection, Beirut
+	a	The coverage of the stock-taking exercise was assessed in terms of population and share of gross domestic product (GDP) for the respondent countries, with the following results. Africa: 19 out of 52 countries, 43 per cent of the population, 29 per cent of GDP; Western Asia: 10 out of 13, 83 per cent of the population, 83 per cent of GDP; Asia-Pacific: 18 out of 44, 51 per cent of the population, 50 per cent of GDP; Latin America and the Caribbean: 20 out of 36, 91 per cent of the population, 95 per cent of GDP; Central Asia and Central and Eastern Europe, 19 out of 24, 89 per cent of the population, 95 per cent of GDP.
+	b	The outcome of the WSIS Thematic Meeting is available at http://unstats.un.org/unsd/statcom/doc05/WSIS-ICTMembers.pdf.
+
+
+
+
+Annex II
+
+		List of core information and communication 
+technology indicatorsa
+
+
+		Core indicators on information and communication technology infrastructure and access
+
+A1Fixed telephone lines per 100 inhabitantsA2Mobile cellular subscribers per 100 inhabitantsA3Computers per 100 inhabitants A4Internet subscribers per 100 inhabitantsA5Broadband Internet subscribers per 100 inhabitants A6International Internet bandwidth per inhabitantA7Percentage of population covered by mobile cellular telephonyA8Internet access tariffs (20 hours per month), in US$, and as a percentage of per capita incomeA9Mobile cellular tariffs (100 minutes of use per month), in US$, and as a percentage of per capita incomeA10Percentage of localities with public Internet access centres (PIACs) by number of inhabitants (rural/urban)A11Radio sets per 100 inhabitantsA12Television sets per 100 inhabitants
+
+		Core indicators on access to, and use of, information and communication technology by households and individuals
+
+
+HH1Proportion of households with a radioHH2Proportion of households with a televisionHH3Proportion of households with a fixed line telephoneHH4Proportion of households with a mobile cellular telephoneHH5Proportion of households with a computerHH6Proportion of individuals who used a computer (from any location) in the last 12 monthsHH7Proportion of households with Internet access at homeHH8Proportion of individuals who used the Internet (from any location) in the last 12 monthsHH9Location of individual use of the Internet in the last 12 months
+	•	At home
+	•	At work
+	•	Place of education
+	•	At another person’s home
+	•	Community Internet access facility (specific denomination depends on national practices)
+	•	Commercial Internet access facility (specific denomination depends on national practices)
+	•	OthersHH10Internet activities undertaken by individuals in the last 12 months:
+	•	Getting information
+     o About goods or services 
+     o Related to health or health services
+o From government organizations/public authorities 
+via websites or e-mail
+     o Other information or general Web browsing
+	•	Communicating
+	•	Purchasing or ordering goods or services
+	•	Internet banking
+	•	Formal education or training activities
+	•	Dealing with government organizations/public authorities
+	•	Leisure activities
+o Playing/downloading video or computer games
+o Downloading movies, music or software 
+o Reading/downloading electronic books, newspapers or magazines
+o Other leisure activitiesHH11Proportion of individuals with use of a mobile telephoneHH12Proportion of households with access to the Internet by type of access
+•	Categories allow an aggregation to narrowband and broadband, where broadband excludes slower speed technologies, such as dial-up modem, ISDN (Integrated Services Digital Network) and most 2G (second generation) mobile phone access. Broadband will usually have an advertised download speed of at least 256 kilobits per second.HH13Frequency of individual access to the Internet in the last 12 months (from any location)
+	•	At least once a day
+	•	At least once a week but not every day
+	•	At least once a month but not every week
+	•	Less than once a month
+Reference indicatorHHR1bProportion of households with electricity
+
+		Core indicators on use of information and communication technology
+by businesses
+
+
+B1Proportion of businesses using computersB2Proportion of employees using computersB3Proportion of businesses using the InternetB4Proportion of employees using the InternetB5Proportion of businesses with a Web presenceB6Proportion of businesses with an intranetB7Proportion of businesses receiving orders over the InternetB8Proportion of businesses placing orders over the InternetB9Proportion of businesses using the Internet by type of access
+	•	Categories allow an aggregation to narrowband and broadband, where broadband excludes slower speed technologies, such as dial-up modem, ISDN and most 2G mobile phone access. Broadband will usually have an advertised download speed of at least 256 kilobits per second.B10Proportion of businesses with a local area network (LAN)B11Proportion of businesses with an extranetB12Proportion of businesses using the Internet by type of activity
+	•	Sending and receiving e-mail
+	•	Getting information
+o	About goods or services 
+o	From government organizations/public authorities via websites or e-mail
+o	Other information searches or research activities
+	•	Performing Internet banking or accessing other financial services
+	•	Dealing with government organizations/public authorities
+	•		Providing customer services
+	•		Delivering products online
+
+		Core indicators on the information and communication technology 
+sector and trade in information and communication technology goods
+
+
+ICT1Proportion of total business sector workforce involved in the ICT sectorICT2Value added in the ICT sector (as a percentage of total business sector value added)ICT3ICT goods imports as a percentage of total importsICT4ICT goods exports as a percentage of total exports
+
+	Notes
+	a	See Partnership publication Core ICT Indicators (2005), available in English, French and Spanish at http://measuring-ict.unctad.org.
+	b	Since electricity is not specifically an ICT commodity, but an important prerequisite for using ICT, it is not included in the core list, but included as a reference indicator.
+
+
+	1 	See International Telecommunication Union, World Telecommunication/ICT Development Report 2006: Measuring ICT for social and economic development, chap. 5.
+	2 	The World Summit on the Information Society took place in two phases (Geneva, 1012 December 2003 and Tunis, 15-18 November 2005).The Geneva Plan of Action (WSIS03/GENEVA/DOC), states:
+			“E.	Follow-up and evaluation 
+				“28.	A realistic international performance evaluation and benchmarking (both qualitative and quantitative), through comparable statistical indicators and research results, should be developed to follow up the implementation of the objectives, goals and targets in the Plan of Action, taking into account different national circumstances.
+					“…
+					“f)	All countries and regions should develop tools so as to provide statistical information on the Information Society, with basic indicators and analysis of its key dimensions. Priority should be given to setting up coherent and internationally comparable indicator systems, taking into account different levels of development.”
+	3 	WSIS-05/TUNIS/DOC/6(Rev.1).
+[Start1]<<ODS JOB NO>>N0665164E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/CN.3/2007/5<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+E/CN.3/2007/5
+
+E/CN.3/2007/5
+
+06-6516412
+
+1306-65164
+
+United NationsE/CN.3/2007/5 
+Economic and Social CouncilDistr.: General
+8 December 2006
+
+Original: English
+
+
+06-65164 (E)    211206  
+*0665164*
+

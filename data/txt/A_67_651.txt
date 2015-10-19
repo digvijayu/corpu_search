@@ -1,0 +1,459 @@
+[Start1]
+Sixty-seventh session
+Agenda item 128 
+Financial reports and audited financial statements,
+and reports of the Board of Auditors
+
+
+
+		Report of the Board of Auditors on the handling of information and communications technology affairs in 
+the Secretariat
+
+
+		Note by the Secretary-General
+
+
+	The Secretary-General has the honour to transmit to the General Assembly a letter dated 19 December 2012 from the Chair of the Board of Auditors transmitting the report of the Board on the handling of information and communications technology affairs in the Secretariat.
+
+		Letter of transmittal
+
+
+19 December 2012
+	I have the honour to transmit to you the report of the Board of Auditors on the handling of information and communications technology affairs in the Secretariat.
+
+
+(Signed) Liu Jiayi
+Auditor-General of China and Chair of the Board of Auditors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The President of the General Assembly
+of the United Nations
+New York
+
+		Report of the Board of Auditors on the handling of information and communications technology affairs in 
+the Secretariat
+
+
+
+	Summary
+		Introduction
+
+	There are over 70 different information and communications technology (ICT) units in various departments, offices and field missions, and nearly 2,000 software applications in use across the United Nations Secretariat. Information on ICT budgets is not routinely captured, but a review undertaken by the Office of Information and Communications Technology in 2010 estimated that annual ICT budgets across the Secretariat totalled as much as $774 million a year. The Board of Auditors can provide no assurance on this figure, which suffers from a number of limitations. (For example, it excludes capital budgets, does not capture actual expenditure and covers only proposed budgets because approved budgets do not contain sufficient detail to isolate relevant ICT components.)	In January 2012, the Advisory Committee on Administrative and Budgetary Questions requested the Board of Auditors to audit and evaluate the handling of ICT affairs in the Secretariat, including the Office of Information and Communications Technology. The present report contains the findings and recommendations of the Board resulting from the audit, which was undertaken in October 2012. 	Despite the serious issues highlighted in the report, the Board recognizes that the Administration has demonstrated important achievements at an operational level, such as those related to the challenges posed by the capital master plan. The Board notes the consistently positive feedback given by business users regarding the Office of Information and Communications Technology and ICT staff in other offices in the discharge of their operational functions and their commitment to quality service. 		
+		Overall conclusion
+
+	The United Nations sought to enforce a more centralized implementation and delivery strategy through the appointment of a Chief Information Technology Officer and the creation of the Office of Information and Communications Technology. This approach was unsuccessful and failed to establish a common vision and commitment across the Organization. The United Nations operates more like a network of organizations, rather than a single, global and homogenous entity, which means that transformation cannot be achieved solely through the work of a central ICT function that lacks the authority to enforce change. The Board considers that a global ICT strategy for the United Nations is unlikely to be successful unless these fundamental managerial and structural issues are understood and addressed, for example, through strengthened governance and the appropriate tailoring of strategies. The Board has proposed a way for senior management to consider addressing some of the structural barriers to successful business transformation by striking the right balance between central control and operational freedoms (see figure III).	In essence, if the United Nations wants a more centralized ICT structure and strategy, then senior management must support and drive more centralized decision-making and corporate behaviour from the centre. If senior management believes that it cannot successfully support and drive ICT-enabled change from the centre because of the current organizational and managerial structure of the United Nations, then it may need to consider an alternative approach to the development and implementation of an ICT strategy.	The Board is very concerned that the United Nations does not have an adequately secure information environment. There is no overall approved information security policy embedded in the United Nations administration, nor is there harmonization of security environments across the Secretariat. The Secretariat expressed its deep concern that prominently highlighting detailed issues regarding ICT security in a public report might present increased risks to the Organization. Without offering judgement, the Board accepted the force of the argument and has therefore prepared a separate memorandum, addressed to the Chair of the Advisory Committee on Administrative and Budgetary Questions, in which it sets out its detailed findings and recommendations in relation to ICT security. It is for the Secretariat to explain the nature of its concerns to the Committee, if required.	The Board has already noted that there has been no overall coherent view, framework or planned agenda that would allow the various United Nations business transformation projects to deliver the right strategic long-term outcome for the Organization (see A/67/5 (Vol. I)). The Board has also noted the absence of clear and effective governance and accountability arrangements for major business transformation programmes and weaknesses in control owing to the absence of regular financial management information to inform decision-making.	The reasons for the non-delivery of the ICT strategy mirror many of these issues. For example, the governance and accountability structures established to support the implementation of the ICT strategy did not operate effectively and senior management did not adequately assess the business environment and understand its requirements before developing the strategy. There is also no Secretariat-wide overview of ICT spending because management information does not routinely capture relevant expenditure, which has increased the risk of funding being directed to lower-priority activities.	The expectations created in 2006 have not been met and the three main objectives of the ICT strategy published in 2008 have not been delivered. As a result, the risk that the United Nations ICT systems are insufficiently aligned to support the achievement of the Organization’s objectives persists; staff and stakeholders cannot share important information and knowledge anytime, anywhere; and ICT resources are being utilized ineffectively and inefficiently.	If an ICT-enabled business transformation is to be successful in the Secretariat, senior management needs to establish a clear and shared vision for how ICT innovation could support business needs and the achievement of United Nations core objectives.	The Administration has accepted all of the recommendations in the present report and in the memorandum on ICT security addressed to the Chair of the Advisory Committee on Administrative and Budgetary Questions. The Administration has informed the Board that it will conduct a comprehensive review of its ICT strategy and governance, ICT operations and structure and ICT resource allocation and that it will submit a report to the General Assembly, at its sixty-eighth session, in 2013. The Administration has stated that, in that report, it will take into consideration all of the recommendations made by the Board in this report, as well as the decisions taken by the Assembly in reaction to this report during its resumed sixty-seventh session.	The Board notes both the Administration’s open acknowledgement of the issues raised in this report and its commitment to act upon them decisively to improve the current ICT situation in the Secretariat. The Board agrees that the Administration needs to undertake a comprehensive review of its ICTs before putting forward a well-considered and robust plan to address the full range of recommendations in this report. It is not feasible for the Administration to have completed such a review before the resumed sixty-seventh session of the General Assembly, early in 2013. It is essential, however, that when the Administration submits its report to the Assembly, in late 2013, it clearly set out the steps that it proposes to take and the timeline and cost of implementation. In addition, the Board emphasizes that, for an area as strategically important and fast-moving as ICT, the formulation and management of a strategy must be an iterative and continuous process.
+		Key findings and recommendations
+
+	The Board has identified a number of key elements that need to be in place for an organization to effectively use and benefit from ICT services. These include a clear and comprehensive business strategy that is owned and communicated by the executive management, and effective governance and accountability arrangements to manage business transformation. The Board has undertaken its assessment against these elements and identified the following key findings:	•	The United Nations does not have an adequately secure information environment and this must be urgently addressed. Senior management has not established accountability and responsibility for improving information security across the Secretariat. The Board is very concerned that the existing security controls fall short of what it would expect in a modern, global organization.	• 	The autonomous nature of the entities that constitute the Secretariat and the resulting business model were not sufficiently taken into account in designing and trying to implement a centralized ICT-enabled transformation. The approach to implementing both the ICT strategy and the enterprise resource planning system, Umoja, has been designed to enable a new, globally consistent operating model. However, insufficient attention has been paid to assessing how realistic this model is in the context of the United Nations; understanding the culture, business environment and other factors that need to be amended before such a major change to how the Organization operates can be made; preparing the Organization for this change; or identifying how Umoja and the ICT strategy could support this new way of working. The Board considers that either these fundamental structural issues need to be understood and addressed or that the approach needs to be tailored accordingly, if an ICT-enabled transformation is to have a greater chance of success in the United Nations. For example, there needs to be a better recognition and understanding of what are genuine Organization-wide activities that require strong central control and for which activities entities, offices away from Headquarters and missions require or merit operational freedom.	•	The ICT strategy did not provide a clear direction or describe how ICT changes were essential to business needs or to the core objectives of the United Nations. The strategy did not reflect the importance of the project for the implementation of Umoja, it was not funded appropriately or communicated effectively, and it was not aligned with United Nations culture and practice. As a result, the strategy was delivered only partially and its three main objectives have not been achieved.		•	The United Nations governance and accountability framework, as well as funding arrangements, have not been aligned to the Administration’s ambitions for an ICT-enabled transformation. Funding for ICT has been short term and fragmented across the Secretariat. This has encouraged tactical and operational delivery rather than a focus on strategic and corporate priorities. There has been no Secretariat-wide overview of ICT spending because management information does not routinely capture relevant expenditure, which has in turn increased the risk of funding being directed to lower-priority activities. In addition, the ICT governance structure established by the Chief Information Technology Officer to lead and manage the Secretariat’s ICT affairs has been ineffective in setting a clear strategic direction, adding strategic value or engendering a common vision and commitment across the Organization.	•	The scope and remit of the Chief Information Technology Officer with regard to a strategic vision, business transformation and leadership was not clearly defined, communicated or understood within the Secretariat, nor was it clearly differentiated from the function of managing day-to-day ICT operations. For example, the designation of the Secretariat’s most senior information officer as “chief information technology officer” (rather than as “chief information officer”) contributed to the expectation that the post would have a technical focus and encouraged behaviours that were consistent with an operational view of ICT. As a result, the Chief Information Technology Officer and management directed insufficient attention to (a) transformation, change or strategic leadership of the ICT function and (b) the development and enforcement of Secretariat-wide corporate guidance, frameworks, standards and policies.	•	The Administration has no strategy for software applications. There are nearly 2,000 software applications in use across the Secretariat, many of which were developed locally and perform duplicate functions. The lack of control over software applications opens the Organization to security risks and increases the risk of unnecessary expenditure and exploitation by software vendors because the Organization does not have a clear picture of who has purchased which applications from whom, under what terms and at what price. The proliferation of software applications also increases maintenance and support costs. The Administration expects 600-700 of these applications to be decommissioned following the implementation of Umoja	•	The skills base of the Office of Information and Communications Technology is predominantly directed at the running of day-to-day ICT operations rather than at leading business transformation. Approximately 82 per cent of the 366 posts in the Office are designated as operational. This, combined with the fact that the post of head of the Strategic Management Service has been vacant for 18 months, means that only a small proportion of the Office’s staff are dedicated to executing a challenging global strategic agenda, leading change or driving innovation.	In the light of those findings, the Board makes detailed recommendations in the main body of the present report, all of which the Administration has agreed with. In summary, the main recommendations are the following:	(a)	The Administration should develop a new ICT strategy that is consistent with United Nations objectives and realistic ambitions for transformation;	(b)	The Administration should recognize the changes that need to be made in responsibilities and the operating model of the Secretariat in order to deliver any new ICT strategy, and accept that senior management as a whole is responsible for the delivery of Organization-wide changes to support the Chief Information Technology Officer;	(c)	The Administration should emphasize the strategic priorities of the Chief Information Technology Officer by redefining the functions of the post and amending the title, evaluate whether there is a need to appoint a chief technology officer or designate an existing post with the specific function of assisting the chief information officer in operational matters, and clearly define and communicate the different roles of those two officers across the Secretariat, in particular the scope and remit of the chief information officer with regard to strategy and business transformation;	(d)	The entities, offices and programmes comprising the United Nations should prioritize ICT funding to ensure that sufficient attention is given to transformation, improvement and leadership, designing and enforcing corporate guidance, frameworks, policies and standards and operational services;	(e) 	The Administration should clearly specify how the chart of accounts in Umoja will enable ICT expenditure to be captured and monitored effectively, and consider whether any options for improving management information on ICT expenditure could be pursued prior to the implementation of Umoja;	(f)	The Administration should develop an application management strategy to minimize security risks and reduce costs while also addressing enterprise-wide applications and any necessary data migration;	(g)	The Administration should, over time, redirect existing resources of the Office of Information and Communications Technology to more strategic activities and consider the use of alternative sourcing arrangements for day-to-day ICT support services.
+
+		Report of the Board of Auditors on the handling of information and communications technology affairs in
+the Secretariat
+
+
+
+Contents
+PageI. 	Background	9II. 	Mandate, scope and methodology	11III. 	Findings and recommendations	13A. Strategy and business model	13B. Business transformation	16C. Governance	23D. People	26E. Service management and technology	28IV. 	Acknowledgement	32
+
+	I.	Background
+
+
+1.	Information and communications technology (ICT) allows organizations to understand, use and communicate information. Effective ICT is essential in supporting United Nations work on a broad range of issues, including peacekeeping, security, development, human rights, international affairs and humanitarian assistance.
+2.	Dependence on ICT has increased in the past two decades, as developments in technology have created opportunities for greater effectiveness and increased the need for organizations to protect their information assets, knowledge and systems. The United Nations requires the effective provision of ICT services to support a wide range of critical administrative and operational activities, both at Headquarters and in the field.
+3.	To support critical functions and to help the United Nations protect its information, improve its decision-making and build strong financial management, the ICT function manages the following:
+	(a)	Information and applications that help to manage United Nations daily operations, including with regard to finance (the Integrated Management Information System) and human resources management (Inspira); knowledge management systems that make it possible to store and search for and in United Nations documents (the Official Document System); and logistics systems and field support applications (the Electronic Vehicle Management System);
+	(b)	ICT support for more than 43,000 staff members around the world (including more than 23,000 staff in the field) and some 100,000 United Nations peacekeepers;
+	(c)	Major infrastructure, including two secure data centres (located at Brindisi, Italy, and Valencia, Spain, and owned and operated by the United Nations), networks, satellite and field-based communications facilities and 83,000 desktop users in 160 locations worldwide.
+4.	For an overview of the scope and scale of ICT services in the Secretariat, see figure I.
+5.	The United Nations is a complex organization comprising multiple entities, offices and projects across the globe. Many of these entities have a high degree of autonomy and work independently of each other to fund, design, procure and run their own ICT systems. They have often failed to reuse or adapt systems already available in other United Nations entities. As a result of this lack of harmonization, the Administration estimates that there are nearly 2,000 software applications in use across the Secretariat.
+
+
+		Figure I
+Scope and scale of information and communications technology affairs in the Secretariat 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.	To achieve an integrated Secretariat and enable the Organization to be more efficient and effective in meeting its growing commitments, the General Assembly sought to reform ICT across the Secretariat. In 2006, the post of Chief Information Technology Officer was created and the incumbent was given responsibility for providing a strategic vision and leadership in the management of ICT for the Secretariat.
+7.	In 2008, the Chief Information Technology Officer published a three-to-five year strategy for maximizing the value of ICT across the Secretariat in which he identified the high level of fragmentation of ICT activities and resources across the Secretariat as the key reason why ICT had not realized its full potential in the United Nations. To address this issue, the strategy set out to achieve three main aims:
+	(a)	 To create an ICT environment that is aligned with the mission and work programmes of the Secretariat;
+	(b)	 To enable United Nations staff and their stakeholders to connect and share knowledge anytime, anywhere; 
+	(c) 	To allow ICT resources to be deployed and utilized efficiently.
+8.	In 2009, the Office of Information and Communications Technology was established to provide enterprise-wide oversight of ICT programmes, budgets and decision-making and ensure alignment with the Secretariat’s overall ICT strategy. The Office was also given responsibility for the delivery of ICT services at Headquarters, in New York. The Secretariat’s other ICT operations are decentralized, with over 70 different ICT units in various departments and offices, including field missions and offices away from Headquarters.
+9.	Because of a lack of good corporate data and clarity over what is defined as an ICT expenditure or an ICT post, consolidated and consistent information on ICT expenditure is not routinely captured in the Secretariat (see para. 25). A review undertaken by the Office in 2010, however, estimated that annual ICT budgets across the Secretariat totalled as much as $774 million, 75 per cent of which was attributable to peacekeeping operations and special political missions.1 
+10.	The review also estimated that 4,219 individuals worked in ICT roles (including in staff posts and as external contractors), the majority of whom (68 per cent) were working in peacekeeping and special political missions. However, because of a lack of standard ICT job titles, in its review the Office had to make broad assumptions about what constituted an ICT role. For example, all staff working in ICT units were assumed to have an ICT role, whereas staff who performed ICT functions but were not part of an ICT unit or did not hold an ICT job title were excluded.
+
+
+	II.	Mandate, scope and methodology
+
+
+11.	In January 2012, the Advisory Committee on Administrative and Budgetary Questions requested the Board of Auditors to audit and evaluate the handling of ICT affairs in the Secretariat, including the Office of Information and Communications Technology. The present report contains the findings and recommendations of the Board’s audit and is the result of an evaluation undertaken in October 2012.
+12.	The Board has identified a number of key elements that need to be in place for an organization to effectively use and benefit from ICT services (see the table below). The present report assesses the Administration’s handling of its ICT affairs across the Secretariat against these key elements. In carrying out the review, the Board tailored its approach to the context of the United Nations environment by focusing on the following:
+	(a)	Elements that have the greatest impact across the Secretariat as a whole (strategy and business model, business transformation and governance); 
+	(b)	Specific aspects of the Office’s performance with regard to people, service management and technology that underpin its credibility and therefore determine whether the Office has the leadership, authority and ability necessary to lead strategic change.
+Table
+	Elements for assessing the effectiveness of information and communications technologies in an organizationa
+
+Key elementEvaluation criteriaImportance to an organizationStrategy and business modelIs there a clear and comprehensive business strategy and model underpinned by the ICT strategy that is owned and communicated by executive management?Establishes a clear direction that sets priorities and guides organizational investment and operations. 
+Can serve to inspire the organization and helps to shape culture and organizational style, ensuring that all leaders are striving for the same goal.Business transformationIs the plan and approach to transformation clearly defined throughout the organization and are expectations set and met?Creates a unity of purpose, maximizing the strengths of the organization and its people.
+Helps to manage risk and optimize the benefits from transformative change.Governance Are effective governance and accountability arrangements in place to manage business transformation?Helps to bring change agents together in a productive environment of challenge to optimize organizational investment and operations.PeopleAre staff motivated and do they have the appropriate skills?Aligns staff objectives and focus to the overall objectives of the organization.Service management and technology Is there an “intelligent customer” process between the business and ICT that articulates needs and requirements within the overall strategy? Is there a clear information strategy and technical architecture that is secure, optimized and understood and supported by the business?Creates and ensures alignment with the overall strategy and model. 
+Enables many aspects of organizational performance.
+	a	The Board has not examined United Nations business processes because this would require the examination of multiple business processes across multiple entities.
+
+
+13.	The Board has discussed its findings, conclusions and recommendations with the Administration and, where appropriate, the Administration’s comments have been reflected in the present report. The Board coordinated closely with the Office of Internal Oversight Services to understand and, where appropriate, utilize the results of recent internal audits. The Board has also considered the findings and recommendations arising from the review of ICT governance across the United Nations system conducted by the Joint Inspection Unit in 2011 (see A/67/119). 
+	III.	Findings and recommendations
+
+
+	A.	Strategy and business model
+
+
+		Formulation of the strategy
+
+14.	An organization’s ICT strategy should establish a vision and a clear set of priorities and actions that will help it to achieve the vision. Supported by effective ICT governance, the strategy can then drive the optimization of existing ICT investments and ensure that new ICT investments generate maximum value for the organization and address key risk areas.
+15.	The United Nations published an ICT strategy in April 2008. It had three main aims:
+	(a)	To create an ICT environment that is aligned with the mission and work programmes of the Secretariat;
+	(b)	To enable United Nations staff and their stakeholders to connect and share knowledge anytime, anywhere; 
+	(c)	To allow ICT resources to be deployed and utilized efficiently.
+16.	The strategy consolidated work undertaken after the Chief Information Technology Officer post was created in 2006 and set out the following four priority areas for action:
+	(a)	Development of the ICT management framework;
+	(b)	Delivery of a resource management programme;
+	(c)	Delivery of a knowledge management programme;
+	(d)	Delivery of an infrastructure management programme.
+17.	The strategy included wording to the effect that by harnessing the power of ICT, the Organization could accelerate the realization of its mission and meet growing commitments in an increasingly knowledge-based and interconnected global society. It did not, however, include a unifying vision for ICT for addressing existing business needs or transforming service delivery. United Nations senior managers were aware of the existence of the strategy and could list the four activity areas, but the strategy was not well understood throughout the Secretariat, nor was it viewed as a driver of investment, reform or day-to-day activity.
+18.	The Board identified the following key limitations of the strategy:
+	(a)	The Board would expect any major ICT-enabled business change to be a significant element of an ICT strategy; instead, the United Nations single largest ICT-enabled project (the enterprise resource planning system, Umoja, which is projected to cost well over $300 million) was deemed to warrant only a one-page case study and one bullet point in the strategy document published in November 2010, which is like equating Umoja, in terms of importance, with the implementation of IP telephony or instant messaging. Additional references to Umoja are contained in the report of the Secretary-General on investing in information and communications technology submitted to the General Assembly in 2008 (A/62/793), but none reflect the importance of Umoja to the Organization;
+	(b)	The issue of information security (for example, in terms of the approach of the United Nations to securing its strategically important information and protecting it from misuse) was given insufficient priority and formed only a minor component of the infrastructure management programme;
+	(c)	Insufficient recognition was given in the strategy to the size and major contribution of peacekeeping activities (which are estimated to account for around 75 per cent of the total ICT budget and 68 per cent of the Organization’s ICT staff), or to how harmonization and economies of scale could be achieved by harnessing the potential of this capacity and expenditure.
+19.	The strategy failed to give sufficient consideration to these three significant factors. It also failed to align the implementation of Umoja, address the lack of cohesive information security across the Secretariat or establish a means to harness the largest United Nations business area in a corporate way.
+20.	The Administration agreed with the Board’s recommendation that it develop a new ICT strategy, including a United Nations-wide information strategy and an enterprise architecture framework, that describes how information and technology will support and provide benefits for the Organization. Such a strategy needs to be consistent with United Nations objectives and realistic ambitions for transformation. The Administration then needs to make progress in the implementation of the ICT strategy in parallel with any agreed reforms to the Organization’s operating model, culture and approach.
+21.	The Administration informed the Board that it fully accepts the need to update and reformulate its ICT strategy. The new strategy has to be aligned with the implementation of Umoja and with a broader business support strategy, which defines the service delivery model of the Organization. Reformulating an ICT strategy for an organization as complex and decentralized as the United Nations Secretariat is a challenging task that will require an orderly process, as well as a fundamental review, which includes the following steps: settling on a business support strategy, assessing the current situation of ICT within the Organization, developing and implementing a plan for consulting with major stakeholders, developing the strategy itself (and a plan for its implementation) and strengthening the functions of the institutional mechanisms for governance, implementation, monitoring and evaluation.
+22.	In this context, the Administration has, as a preliminary step, identified the following elements, which might be part of the reformulated strategy:
+	(a)	Define a sourcing strategy that will allow the repurposing of existing resources to use ICT to enable and deliver change. This element shall contemplate the alignment of ICT with the business support strategy in the Organization, placing ICT in a leading role as a change driver and as an enabler of programme delivery;
+	(b)	Define an ICT architecture strategy, in other words an ICT-enabled business re-engineering component of the support processes and application architecture in the Organization, to be centred on Umoja. The key will be to leverage the investment made in Umoja to improve and harmonize the existing and fragmented ICT landscape and to provide business solutions in support of efficient service-delivery models;
+	(c)	Define a revised set of policies and standards to be enforced across the Organization, including in the peacekeeping area, to deal with ICT-related activities, in particular urgent matters such as information security, application systems control and audit trails.
+
+		Funding of the strategy
+
+23.	The ICT strategy was accompanied by a funding proposal that was presented to the General Assembly in the report of the Secretary-General on the status of implementation of the ICT strategy (A/65/491). The proposal included a request for $140.6 million for four projects.
+24.	Although the strategy was approved by the General Assembly, no additional funding was granted; instead, it was to be delivered within existing resources. The Office of Information and Communications Technology, however, maintains that a proposed budget of $117.7 million for the biennium 2012-2013 leaves it underfunded to deliver the level of change and capability planned under the approved strategy.
+25.	The funding base of the Office represents around 7 per cent of the estimated total of United Nations ICT funding and is prepared according to major activity (strategic management or operations), funding type (regular budget or extrabudgetary resources) and posts, by category (Professional, General Service and others). This approach to funding and budgeting does not provide the General Assembly with sufficient transparency to allow it to distinguish operational from strategic requirements, nor does it adequately differentiate between fixed and variable costs, for example, between licensing and maintenance costs and data centre fixed costs that provide important services at Headquarters.
+26.	Importantly, the United Nations ICT budget is arranged so that each department and office has its own budget. Consolidated management information on this budget and spending is not routinely prepared, which prevents the assessment, monitoring and prioritization of ICT funding across the United Nations. Consolidated management information on ICT would lead to greater transparency and allow appropriate challenges to be made on resources, risks and priorities associated with transformation, improvement and change, frameworks, policies and standards, and operational services, including associated fixed and variable costs.
+27.	The Board also notes that there is limited visibility of ICT expenditure throughout the Secretariat because the United Nations chart of accounts and supporting financial system do not enable the costs of ICT activities to be routinely tracked. For example, software licence and maintenance fees for Umoja are classified, for budget purposes, under “supplies, materials, furniture and equipment”, and costs associated with the primary data centre are recorded under “facilities”. The United Nations is therefore unable to ensure that its investment in ICT is being used effectively and efficiently. For this reason, the Board cannot provide any further analysis of the Organization’s ICT expenditure. The Administration itself has acknowledged the absence of useful financial information on ICT, stating in the report of the Secretary-General on the status of implementation of the ICT strategy that the inability to easily monitor and report on the Secretariat-wide ICT component of the budget, whether proposed, approved or appropriated, is a serious flaw in the existing budget process that significantly limits the effective global management of ICT (A/65/491, para. 94).
+28.	The Board has already noted that higher-level controls, such as routine and regular financial management information, are not available to managers at all levels to enable active monitoring and control in relation to expenditure (see A/67/5 (Vol. I)). The Board’s view is that accountability is less demonstrable given that managers do not have the tools to assess and challenge performance and that effective financial and operational management is compromised as decision-making is less well informed.
+29.	The Administration agreed with the Board’s recommendation that it review its arrangements for capturing information on ICT expenditure with a view to enabling more effective monitoring of costs and improved decision-making on future expenditure.
+30.	The Administration agreed with the Board’s recommendation that it clearly specify how the chart of accounts in Umoja will enable ICT expenditure to be captured and monitored effectively. In addition, it should consider whether there are any options for improving management information on ICT expenditure that could be pursued prior to the implementation of Umoja.
+31.	The Administration agreed with the Board’s recommendation that, in order to enable greater consistency and transparency with regard to ICT funding and budgets and allow better management of costs and effective prioritization, the Controller require that proposed ICT budgets set out (a) the cost of running day-to-day services; (b) the cost of licences and maintenance costs for existing systems; (c) costs related to upgrading existing service delivery (e.g. to improve security); and (d) new costs, including strategic requirements.
+32.	The Administration agreed with the Board’s recommendation that the entities, offices and programmes comprising the United Nations prioritize ICT funding to ensure that the right balance of attention is given to transformation, improvement and leadership, frameworks and policies, and operational services. 
+33.	The Administration informed the Board that the new chart of accounts that will be put in place with the implementation of Umoja will allow the Administration to clearly programme and record ICT resources and expenditures. Moreover, the Administration intends to strengthen the role of the Office of Information and Communications Technology to monitor ICT resources in the Organization by enforcing the reporting responsibilities of senior managers on ICT resources and projects, as reflected in their compacts with the Secretary-General. 
+
+
+	B.	Business transformation
+
+
+34.	The United Nations is a complex organization comprising multiple entities and offices and employing different ways of operating across the globe. Many of its entities and offices have a high degree of autonomy. The Organization is currently in the midst of several large major business transformation projects, including Umoja, the International Public Sector Accounting Standards and the global field support strategy. In this context, the challenges it faces in delivering further information technology-enabled transformation have increased.
+35.	The implementation of an ICT strategy involves aligning the often conflicting aspirations and interests of a wide variety of stakeholders across the Secretariat to a single vision and set of priorities. Senior management within an organization needs to be clear about priorities and desired outcomes, and there needs to be coherent and effective communication on accountability and specific responsibilities.
+36.	The Board has identified preconditions and circumstances common to global organizations that have successfully transformed services and operations.2 These include:
+	(a)	A clear vision and business model;
+	(b)	Ownership and leadership by the head of the organization or designate when it comes to change;
+	(c)	An organizational structure that can readily adapt to change;
+	(d)	Good corporate data and intelligence on a wide range of matters that are important for effective and efficient operations;
+	(e)	Funding and governance mechanisms that support change;
+	(f)	A focus on cultural challenges and how to gain buy-in from the organization; 
+	(g)	Clear communication on the need for change and expected behaviours;
+	(h)	Effective planning, organization and risk management at all levels.
+37.	The Board notes that the conditions and circumstances of the United Nations are currently inconsistent with those enjoyed by global organizations that have successfully undergone transformation. In that light, the Board questions whether a sufficient and grounded assessment has been undertaken of United Nations conditions, the business environment, ambitions and readiness for global change. For example, basic corporate information is absent in areas such as funding and staffing. The Board further notes that this assessment is a necessary precursor of a renewed strategy and is a key requirement to reduce the risks that are inherent to global reform (for example, the global roll-out of an enterprise resource planning system). Such risks will include, but are not limited to, very substantial business change and accountability risks.
+38.	The Board has already noted that there has been no coherent overview, framework or planned agenda for the various business transformation projects of the United Nations to deliver the right strategic long-term outcome for the Organization (see A/67/5 (Vol. I)). The Board found that there management had been unable to articulate to the Organization a coherent vision for change or to engage with the Organization as a whole instead of on a single-project basis. This approach has resulted in the business not preparing properly to take on the changes required, resulting in the risk that the objectives of the projects will not be achieved.
+39.	The Administration agreed with the Board’s recommendation that as a necessary precursor to any new ICT strategy, and to reduce the substantial risks associated with the implementation of a global enterprise resource planning system, it clearly document those elements of the culture, custom, practices and processes, as well as key cost and performance information, that may affect the achievability of a global ICT transformation in the United Nations. Using the results of this review, the Administration should define the Organization’s overall objectives and specify realistic ambitions for global service delivery, consistent processes and a unified Organization.
+40.	The Administration informed the Board that placing Umoja at the centre of the ICT-enabled business re-engineering component of the ICT strategy will facilitate the documenting of all the elements defined by the Board in paragraph 39 above, as the deployment of Umoja will require the harmonization, integration and automation of business processes globally. 
+41.	The Administration agreed with the Board’s recommendation that it recognize the changes in responsibilities and operating model across the Secretariat that are needed to deliver any new ICT strategy and accept the responsibility of senior management as a whole to deliver Organization-wide changes to support the Chief Information Technology Officer.
+42.	The Administration informed the Board that a plan to review the current operating model and identify opportunities to realize further benefits through changes to the service delivery model was presented and approved by the Under-Secretary-General for Management and process owners in October 2012. As a result, it was agreed that the process owners will have the ultimate responsibility for identifying and implementing opportunities to improve the service delivery model across the Secretariat. In addition, a methodology and timetable involving all relevant entities in the system were discussed and approved to identify and prioritize opportunities, and a workshop attended by process owners, senior representatives from the United Nations Office at Vienna, the United Nations Office at Geneva, the United Nations Office at Nairobi, the regional commissions, departments at Headquarters and executive officers was held in New York in November 2012 to discuss the methodology and activities related to the development of a future service delivery model for the Secretariat.
+43.	The Administration informed the Board that the Secretariat would submit a report on global service delivery models to the General Assembly at its sixty-eighth session in 2013. 
+44.	The chief information officer is a key individual in any organization. He or she is accountable for achieving major transformation projects from concept to delivery and operation. However, transformation cannot be achieved solely through the work of an individual. Collective ownership and a shared commitment to transformation and new businesses processes is required across an organization; without such ownership and commitment, new information technology-enabled business systems cannot be successful. Senior management leadership is needed to enable and support the chief information officer because any major business transformation needs to be led from the top of the organization.
+45.	 The chief information officer needs to apply, and help an organization apply, the disciplines required to manage transformation correctly. Most organizations call these ICT leaders “chief information officers”. Information technology and its systems have become so important that the chief information officer has come to be viewed in many organizations as critical to formulating strategic goals for the organization, understanding costs and managing risks.
+46.	The chief information officer is often supported by a chief technology officer who focuses on technology issues (rather than business issues). The chief technology officer would normally have in-depth technical knowledge and oversee the development of new technologies. He or she is more likely to focus on exploiting proprietary technologies, whereas the chief information officer has a more strategic outlook and is focused on the business and technical needs of running the organization.
+47.	The roles of chief information officer and chief technology officer are separate but complementary and cover related aspects of ICT. These aspects include: 
+(a) business transformation, innovation and development, and change; 
+(b) development and enforcement of organization-wide guidance, frameworks, standards and policies, covering information and systems; and (c) operational ICT services (data centres, networks, applications, computer desktops, etc.).
+48.	It is the Board’s view that the decision to designate and describe the most senior information officer at the United Nations as “Chief Information Technology Officer” raised expectations about the nature of the role and encouraged behaviours that are consistent with an operational view of the ICT function. Although the creation of the post of Chief Information Technology Officer could be considered just a merging of titles, the decision to use that title did not facilitate the incumbent’s attempts to act as an agent of transformational change across the Secretariat.
+49.	The Administration informed the Board that the United Nations Secretariat includes the word “information”, with different qualifiers, under different job networks and families, for example in “information systems and communications technology” (ICT-related), “public information specialists” (public information-related), “library and information specialists” (library-related), etc. When originally establishing the post of Chief Information Technology Officer, the Administration thought that including the word “technology” would reduce the possibility of confusion that the generic title “chief information officer” might give rise to. 
+50.	The Administration agreed with the Board’s recommendation that it 
+(a) emphasize the strategic priorities of the Chief Information Technology Officer by redefining the functions of the role and changing the title; 
+(b) evaluate whether there is a need to appoint a chief technology officer or designate an existing post to assist the chief information officer in operational matters; and (c) clearly define and communicate the different roles across the Secretariat, in particular the scope and remit of the renamed chief information officer with regard to strategy and business transformation.
+51.	The Administration fully agrees with the Board that the renamed chief information officer should play a lead role in achieving major transformation projects from concept to delivery and operation. This is precisely the kind of role that is contemplated in the preliminary considerations of a future ICT strategy for the Organization. In addition, the Administration agrees with the Board that the chief information officer should be assisted in his or her functions by a chief technology officer, who would be responsible exclusively for technology and operational issues (not strategic issues) within the Organization. The chief information officer would remain under the direct supervision of the Under-Secretary-General for Management, as decided by the General Assembly in its resolution 66/246. 
+52.	The Board is also of the view that a greater strategic role could have been fulfilled by the Office of Information and Communications Technology by creating an overall coherent view, framework or planned agenda. For example, by assessing the design of Umoja against a strategic framework, decisions could have been made early on to avoid costly mistakes and understand the full impact of integration. For example:
+	(a)	There is currently an enterprise identity management system that is managed by the Office, and there is also an identity repository being developed for Umoja. There is a lack of clarity between the Office and the Umoja team about which of these systems is the de facto identity management system for the United Nations. A decision in this regard could have been made earlier and the impact (in terms of resources and effort to reach a solution) could have been included in the project plan;
+	(b)	There has been insufficient engagement between the Office and the Umoja team, which means that whole-life costs may not have been assessed properly. The Office is a key stakeholder in the ongoing management of Umoja and in the decommissioning of legacy applications and will have insight into, and direct interest in, whole-life ICT costs.
+53.	Two other aspects of the United Nations operating model that have had important implications for the culture and positioning of the Chief Information Technology Officer and the Office of Information and Communications Technology are the following:
+	(a)	Investment environment. Funding for the Office is distributed unevenly across the Secretariat. Significant funding is available to the Department of Field Support and various entities in offices away from Headquarters receive funding from sources other than centralized funds (see figure II). This could result in the unintentional creation of a hierarchy in terms of the importance of the ICT function and could undermine the aim of strengthening the Office while weakening the ability to create greater harmonization;
+	(b)	Relationship between business and ICT. Many of the business areas to which the Office seeks to deliver services at Headquarters run their own ICT services with their own ICT resources. This creates a vicious cycle whereby the staff of the Office do not develop the skills and capability to service this customer base properly or professionally and the users enjoy an environment where they feel they can operate by delivering quickly and flexibly without the corporate overhead of a global organization slowing them down.
+
+
+		Figure II
+Estimated annual ICT budget of entities of the Secretariat, 2010 (millions of United States dollars)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54.	Overall, these factors have served to weaken the authority of the Chief Information Technology Officer and the Office and have contributed to limited progress in the implementation of the ICT strategy. These aspects should be addressed before any new ICT strategy is formulated. Even within a collaborative business model, the following should be kept in mind:
+	(a)	A chief information officer must have the requisite authority and be supported by clear management processes and messages so that it is clear that the United Nations is seeking to be a more corporate-minded and integrated organization;
+	(b)	Accountability should rest with the area where the benefits of success and consequences of failure of an initiative will be felt most, as well as with those that retain overarching responsibility.
+55.	The Administration agreed with the Board’s recommendation that it plan for any parallel business and ICT activities associated with a new strategy to be supportive of the implementation of Umoja and not conflict with its objectives.
+56.	The Administration agreed with the Board’s recommendation that, in relation to ICT, it define the leadership and executive roles, competencies and management effort that should be directed to three distinct aspects of ICT delivery, namely: (a) transformative change, innovation and leadership across the Secretariat; (b) the design and enforcement of corporate guidance, frameworks, policies and standards; and (c) operational services.
+
+		Possible framework for business transformation
+
+57.	In examining the implementation of the ICT strategy and other major business transformation projects, such as Umoja, the Board has noted that no assessment has been made of the balance to be struck between activities or processes that should be strongly controlled from the centre and those for which greater operational freedoms and delegated authorities could be given. Such an assessment is particularly necessary in organizations that do not operate as a single homogenous business but rather as a range of individual business units and offices with varying degrees of autonomy, different funding streams and different governance arrangements.
+58.	The Board considers that any new ICT strategy, and indeed any major business transformation, would have a greater chance of success in an environment where there is greater clarity about those initiatives and activities that need to be centrally controlled and those business operations and activities that could be given greater delegated authority. Tighter central control might be needed when (a) it is important that a consistent approach be adopted across the organization, for example, with regard to an enterprise resource planning system or a critical activity such as ICT security, and (b) there is clearly value to be gained, for example, with regard to certain categories of procurement. Less control from the centre may be appropriate in areas where individual business units are delivering locally specific activities and tasks, for example, in aspects of humanitarian aid that are specific to a given location. 
+59.	An illustration of how this concept might work in the United Nations is provided in figure III, which is offered to aid thinking on this issue rather than as a prescriptive way forward. The Board, while recognizing that there is an existing system of delegated authority, is trying to illustrate that there are more fundamental structural issues that need to be understood and addressed before major changes or transformations will have a good chance of successful implementation.
+
+
+
+
+
+
+
+
+
+
+		Figure III
+Business implications for United Nations-wide initiatives
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	C.	Governance
+
+
+60.	Effective governance of ICT can assist in the appropriate management and use of ICT to support the achievement of an organization’s aims and objectives. ICT governance covers the people, systems, processes and funding that direct, approve, control and assure an organization’s ICT. This includes the creation of clear lines of accountability and authority.
+61.	The ICT strategy set out a governance framework that was intended to describe the lines of authority, accountability and teamwork among the bodies and units that, together, manage ICT at the Secretariat. In addition to there being working and management coordination groups, some key governance committees exist, namely:
+	(a)	The Information and Communications Technology Executive Committee, which was designed to decide the overall ICT strategy and priorities for the Secretariat and optimize the investment of the organization in ICT, ensuring that it continued to be aligned with the substantive programmes of the Secretariat;
+	(b)	The Information and Communications Technology Advisory Group, which was designed to represent the user community and provide advice on the implementation of the ICT strategy and on Organization-wide issues; 
+	(c)	Local ICT committees, which were designed to address local issues and raise business needs that may require an ICT solution.
+62.	The planned ICT governance process, the roles of the various component bodies and the expected levels of interaction between them are summarized in 
+figure IV.
+
+		Figure IV
+Planned information and communications technology governance process of the United Nations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63.	Over the past two years, the ICT Executive Committee has met on four occasions. However, the terms of reference of the Committee indicate that over that period it should have met on eight occasions. The most recent meeting was held on 11 April 2012. The agenda for that meeting included only two substantive issues: a consultancy-led technology briefing and a briefing on knowledge management solutions. The Board considers that there is no evidence that the ITC Executive Committee has been routinely considering the kinds of issues that would be expected of the top-level decision-making body on ICT matters in the Secretariat, including strategically important matters such as the review of periodic investment profiles, in-depth risk analyses, including trend perspectives, and the delivery of value from ICT.
+64.	Similarly, the ICT Advisory Group has not operated effectively as a strategic ICT governance body for the United Nations. For example, the ICT Advisory Group was given the ICT strategy as a finished product. It had no time to provide input and its understanding of the business and its needs was not utilized. In March 2011, the Chair of the ICT Advisory Group wrote to the Chief Information Technology Officer setting out his concerns on the role and effectiveness of the ICT Advisory Group. He proposed revised terms of reference, based on the “control objectives for information and related technology” framework, which is an internationally recognized ICT governance framework devised by the Information Systems Audit and Control Association. Subsequently, discussions were held between the Chief Information Technology Officer and the Chair of the ICT Advisory Group, but no change was made to the Group’s terms of reference.
+65.	Local ICT committees were designed to address local ICT issues and provide a mechanism to identify cross-cutting strategic and operational issues that resonate across the Secretariat. If appropriate, these issues were to be forwarded up to the ICT Advisory Group and the ICT Executive Committee. The Office of Information and Communications Technology maintains no substantive records on the operation of the local ICT committees. As recently as April 2012 the ICT Executive Committee requested departments without a local ICT committee to form one; the present review has determined that many departments are still operating without one. It is therefore difficult to conclude that collectively these groups have fulfilled their United Nations-wide function to consolidate operations and forward local issues up to the more senior ICT governance groups. 
+66.	Beyond the operations of each committee layer, the overall committee structure as implemented blended key functions such as consultation, information sharing, advisory and decision-making. At the levels of the ICT Executive Committee and the ICT Advisory Group, the basic mechanics of meeting management and appropriate quality of decision-making material and review time were also not sufficient. On occasions, decisions were made on the basis of PowerPoint presentations with a single day of notice.
+67.	The Board considers that the weaknesses and issues it has identified in the governance and delivery of the ICT strategy mirror the issues and weaknesses it has seen in other United Nations major business transformation programmes. For example, the Board has already noted the absence of clear and effective governance and accountability arrangements for major business transformation programmes (A/67/5 (Vol. I)). The Board found a lack of clarity about roles, accountabilities and reporting lines, which meant that governance arrangements were not always effective, weakening management’s oversight of, and accountability for, the cost-effective use of resources.
+68.	The Administration agreed with the Board’s recommendation that it develop a fit-for-purpose governance framework to oversee the strategic development of ICT across the United Nations. This governance framework should clearly set out roles, accountabilities and responsibilities and ensure that decision-making bodies operate distinctly from consultative and advisory forums.
+69.	The Administration informed the Board that it foresees a governance structure whereby some decisions are taken centrally and others delegated locally. Such a governance structure would be directly linked to the Organization’s business model and the information technology architecture. The challenge remains for the Secretariat to clearly identify which activities should be centrally managed, which responsibilities should be delegated to the local level and, furthermore, which activities could possibly be consolidated and handled at a duty station other than New York (e.g., Vienna or Nairobi). In addition, this type of governance structure will require clear and effective accountability arrangements, clarity over roles and reporting lines and effective monitoring, evaluation and compliance instruments.
+70.	The Administration noted that the Secretariat does have some assets with which it will be able to strengthen this governance structure, including the following: (a) the existing key governance committees, which could play a very important role if organized according to the appropriate reporting lines and accountability structures; (b) the requirement for all ICT budget proposals to be submitted through the Office of Information and Communications Technology and in accordance with the project management frameworks developed by the Office, which helps facilitate the alignment of all departments and offices with an ICT strategy; (c) the inclusion, since 2010, of an ICT indicator and the resulting acceptable levels of compliance, both in 2010 and 2011, in the senior managers’ compacts with the Secretary-General; (d) the designation process by which all officials who are to be assigned ICT responsibilities Secretariat-wide are cleared by the Office before commencing their duties; and (e) the Chief Information Technology Officer is already a member of the Management Committee, which is responsible for, among other things, considering internal reform and management-related initiatives and issues, including change management processes, requiring strategic direction from the Secretary-General. This will allow the Officer to play a lead role in achieving major transformation projects. The challenge remains to use these assets to build a strong and effective governance structure for ICT matters.
+
+
+	D.	People
+
+
+71.	In modern organizations, the people involved in ICT will include change specialists, business strategists and analysts, as well as those with more traditional roles: the systems architects, software engineers, service managers and database administrators. ICT professionals will be responsible for the continuous design of operating models and business processes to take advantage of rapidly evolving technology. Successful organizations will typically rely on these individuals for strategic decision-making and designing new services, not just for applications development and the day-to-day running of operating systems.
+72.	The staff profile of the Office of Information and Communications Technology for the biennium 2012-2013 shows that approximately 82 per cent of staff occupy posts in operational roles. The Strategic Management Service, which is one of five major groups within the Office, is responsible for a number of activities, including those related to policy, architecture and standards. Until March 2012, it was also responsible for business relationship management. As noted previously, the position of Head of the Strategic Management Service (classified at the D-1 level) has been vacant since April 2011. The fact that the Office has a predominantly operational profile and that the post of Head of the Service continues to be vacant means that the Office is (a) significantly hampered in its ability to execute the full range of its strategic mandate, which is to set the overall strategic ICT direction for the Organization, to plan and coordinate Secretariat-wide ICT activities and to provide enterprise systems and infrastructure; (b) lacking in specific capability (for example, to review complex budget submissions and niche technical solutions, evaluating the associated risks); and (c) focused on running ICT operations rather than on leading change or innovation. 
+73.	The Office of Information and Communications Technology has a strong focus on the retention of in-house capability. The Board acknowledges the potential strengths of this arrangement but also notes that if it is not accompanied by adequate turnover or continuing professional development across the Office, it could have a negative impact in terms of maintaining skills updated and on the broader ICT capability.
+74.	The Office’s resourcing model has 161 posts (funded from the regular budget, extrabudgetary funds and other sources) and 186 contractors sourced from six main suppliers. All ICT entities need to supplement their permanent and temporary workforce with specialist skills to meet specific needs and, on occasion, they need additional resources to meet peak workloads. The Board has not reviewed the Office’s resourcing model and has not seen a strategic workforce model but is of the view that the Office’s short-to-medium term workforce should evolve to deliver a more strategic remit. As part of this evolution, consideration should be given to the most appropriate use of contractors and of temporary and permanent staff, based on an assessment of the skills and capacity required by the Office to meet its objectives.
+75.	The Board notes that there has not been a formal evaluation of workforce morale within the Office, but informal assessments by management are that morale is low. This may have an impact on service delivery and short-to-medium term sustainability.
+76.	The Administration agreed with the Board’s recommendation that, over time, it redirect existing resources of the Office of Information and Communications Technology to more strategic activities and that it consider the use of alternative sourcing arrangements for day-to-day ICT support services.
+77.	The Administration noted that a significant proportion of Office staff has been devoted to operational roles, to the detriment of strategic responsibilities. While this situation might have weakened the strategic remit of the Office, it also constitutes a strength upon which the Office can build. The increased focus on operations has allowed the Office to position itself as an effective client-oriented entity in the Secretariat and to demonstrate significant success in the implementation of very important projects, such as those related to the challenges posed by the capital master plan, including the provision of support for the relocation of staff and the migration of telephones in 16 different buildings, the successful transfer of all infrastructure and applications to a new primary data centre and the establishment of a secondary data centre, among others. 
+78.	The Administration notes that the challenge remains to adapt the Office’s workforce in the short to medium term so that it can deliver on a more strategic remit and to find the right balance with regard to areas of work to be covered by the Office’s permanent staff and areas to be covered by contractors and temporary staff. The Administration will address these key issues in the context of the sourcing strategy referred to in paragraph 22, defining how to release resources from the day-to-day operations to value-added services.
+	E.	Service management and technology
+
+
+79.	The Board has considered specific elements of service management and technology undertaken by the Office of Information and Communications Technology to understand the professional capability of this group. This is because the operational performance of the Office is fundamental to its credibility in the Secretariat, and therefore to its ability to execute its strategic and transformational agenda. The Board has not examined the potential for operational improvements or other efficiencies associated with the Office.
+80.	Service-level agreements for Office services are established and reflect four distinct levels of ICT support (and service-level agreements are indicators of high-functioning ICT groups). However, in spite of these agreements, senior management has expressed uncertainty as to which services were supported by the Office and which were funded by their own entity. 
+81.	Until March 2012, the Strategic Management Service of the Office of Information and Communications Technology was responsible for business relationship management. As already noted, the post of Head of the Service has been vacant for 18 months, which has meant that engagement between the Office and the business has been suboptimal, essentially because the business has not had a formal mechanism through which it could interact with the Office, which addresses strategic and high-level operational issues, funding or other effectiveness issues. This “intelligent client” function has remained underdeveloped. In addition, because the post of Head of Service also carries responsibility for information security matters within the Office, it is likely that information security has not been considered a priority (see paras. 93-101).
+82.	The Administration agreed with the Board’s recommendation that management develop an “intelligent client” function for Secretariat-wide ICT and within United Nations departments to effectively articulate business needs and provide a channel for the Office of Information and Communications Technology, local ICT committees and business areas to improve services.
+83.	The Office of Information and Communications Technology operates the service desk for Headquarters and maintains basic information on the performance of this service. Contact with this service resulted in 5,375 service requests between January and March 2012. Over the same period, 4,396 requests were fulfilled and 92 were cancelled. Although these statistics reflect rolling totals (for example, a request made on 31 December 2011 could be fulfilled on 1 January 2012), they reveal that around 20 per cent of service requests were unfulfilled. 
+84.	Nonetheless, the Board noted that business users consistently gave positive feedback on the Office of Information and Communications Technology and other ICT staff with regard to the discharge of their operational functions and their commitment to service quality. This was particularly true for the management of the ICT components of the capital master plan and the implementation of IP telephony.
+85.	Throughout the United Nations, the profile of technology is varied and has evolved in response to historical priorities and funding regimes. United Nations Headquarters has an outdated and varied technical environment (for example, some staff are using Windows XP and Microsoft Office 2003), which often does not meet the ever-growing expectations of users.
+86.	The Office of Information and Communications Technology is responsible for managing and supporting eight software applications at Headquarters. Because they have a wide reach, these applications are known as enterprise applications. In addition, the Office supports around 30 other applications based on Lotus Notes. The overwhelming majority of the 1,994 applications estimated to be in use across the Secretariat are therefore not managed by the Office.
+87.	Individual departments are responsible for buying desktops and their own software applications with funds from their own budgets (see figure V). There is no corporate oversight of expenditure for such items. In addition, due to local priorities, departments often choose to delay upgrading their systems and redirect ICT funds for other purposes. This results in a fragmented, inconsistent desktop environment and limits the roll-out of Secretariat-wide applications. For example, the Office has started to plan the introduction of Windows 7 but estimates that around one third of desktop hardware at Headquarters lacks the necessary specifications to run this system effectively.
+88.	Except for the enterprise applications, there is no central control, funding or planning for United Nations software applications. For example, the Board notes that the Administration has no overall software application strategy and that many of the applications in use in the Secretariat have been developed locally and perform duplicate functions. This is so despite the Administration’s efforts to control ICT expenditure above certain limits and the introduction of a review and approval process for new ICT products.
+
+		Figure V
+Distribution of responsibilities for information and communications technology in the Secretariat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89.	The lack of an overall strategy for applications has resulted in uncertainty regarding investments and priorities for ICT. For example, the Office of Information and Communications Technology is responsible for the delivery of a rations management system for peacekeeping operations. This system will need to be integrated into Umoja, but it is currently unclear how this will be taken forward in conjunction with the development of Umoja. Moreover, the lack of control over applications opens the Organization to security risks and increases the risk of duplicate expenditures and of exploitation by software vendors because it does not have a clear picture of who has purchased which applications from whom, under what terms and at what price. For example, a software vendor might develop software for one part of the Secretariat and then charge other Secretariat entities for its services; the vendor could then be hired to provide support and maintenance services, potentially at inflated rates.
+90.	The Administration expects 600-700 software applications to be decommissioned following the implementation of Umoja. However, as the Board already noted in its first annual progress report on the implementation of the United Nations enterprise resource planning system (A/67/164), there was a lack of planning with regard to how the Organization will migrate from legacy systems, decommission them or use them to support the transition to Umoja. Nor was there an assessment of how this would be achieved across a range of United Nations business entities with varying degrees of autonomy and significant differences in governance, processes and service delivery models. The Board considers that the lack of legacy management plans is an indicator of deficiencies in both ICT governance and governance in the United Nations more generally.
+91.	Even if 600-700 software applications are successfully decommissioned following the implementation of Umoja, more than 1,300 software applications will still be in use across the Secretariat, which makes integration and information-sharing difficult. Some applications (for example, the identity management software that is used to validate and authenticate users) could be adapted for enterprise-wide use, while many others (for example, multiple time and attendance systems and document management systems) could be consolidated.
+92.	The Administration agreed with the Board’s recommendation that it develop an application management strategy to minimize security risks and reduce costs. Such a strategy should address enterprise-wide applications primarily and include the decommissioning of legacy systems applications and services and any necessary data migration. The Board also recommends that, as part of the new strategy regarding applications, the Administration develop a process to ensure that strategic ICT and operational investments can be made, no matter where they are undertaken in the Secretariat, and that they are consistent with Umoja and other enterprise applications.
+
+		Information and communications technology security
+
+93.	An effective information security policy helps protect an organization’s information and its ICT from the risks posed by cyberthreats, unauthorized disclosures and fraud. Information security policies must keep pace with rapid changes in technology and the increasing demands of staff in mobile and ever-changing workplaces. Such policies are particularly important for high-profile organizations like the United Nations, which hold sensitive information on peacekeeping and other field-based operations, commercially valuable information and personal information about its many staff members. The reputation of an organization can be damaged when, for example, information is lost or misused or when a website is compromised and cannot be used by its staff or stakeholders to access important information.
+94.	Basic information-related risk management will eliminate many of the threats to information security. The following steps can be taken to improve cybersecurity:3
+	(a)	Educating and raising the awareness of staff about acceptable behaviour and the secure use of the Organization’s systems is key. Human resources offices have an important role to play in delivering the security requirements for the Secretariat;
+	(b)	Protecting networks against external and internal attacks by managing the network perimeter, filtering out unauthorized access and malicious content, and carrying out monitoring and testing controls;
+	(c)	Establishing a monitoring strategy and analysing logs for unusual activity that could indicate an attack;
+	(d)	Controlling access to the system by users, managing user privileges and monitoring user activity;
+	(e)	Establishing an information risk management regime and supporting policies and keeping executive management engaged with regard to information security risks.
+95.	The United Nations does not have an adequately secure information environment and existing security controls fall short of what the Board would expect in a modern global organization. There is a security manager in the Office of Information and Communications Technology, but there is no authoritative mechanism or mandate to improve security across the Secretariat. Differing levels of security breaches were brought to the Board’s attention and the United Nations has been the subject of serious cyberattacks, which are now experienced by all high-profile organizations. It is not mandatory to report security incidents, however, and the Administration does not have a consolidated list of security incidents to enable the scale of the threat to be established. 
+96.	The Secretariat expressed major concern that prominently highlighting detailed issues regarding ICT security in a public report might present increased risks to the Organization. Without offering judgement, the Board accepted the force of this argument and has therefore prepared a separate memorandum, addressed to the Chair of the Advisory Committee on Administrative and Budgetary Questions, in which it sets out its detailed findings and recommendations in relation to ICT security. It is for the Secretariat to explain the nature of its concerns to the Committee, if required. 
+97.	 The Board is aware that there are separate arrangements in place for managing highly sensitive communications. The processes and systems in place for managing the security of such communications, for example on top-level and sensitive diplomatic and peacekeeping matters, were outside the scope of the Board’s examination.
+98.	In an effort to harmonize security environments across the Secretariat, the Office of Information and Communications Technology presented an information security charter to the ICT Management Coordination Group in July 2011. The charter was not approved by the Group until February 2012 and is now awaiting consideration by the ICT Executive Committee. Since the ICT Executive Committee has not met since April 2012, however, the charter remains in draft form and has not yet been issued to staff of the Secretariat. In the absence of an overall information security policy, some departments, including the Department of Field Support, have developed their own policies and security approaches.
+99.	The Board is very concerned that the United Nations does not have an approved Secretariat-wide information security policy and that there is no harmonization of security environments across the Secretariat. Even should the security charter be issued by the Office of Information and Communications Technology, it is unclear what status the document would have or how compliance would be monitored or enforced. There is no clear mechanism for directing, advising or communicating the seriousness of security problems to the Organization, and no approved plan setting out the steps needed to address the problem. This further illustrates the weaknesses associated with the governance and accountability model that exists in the Secretariat.
+100.	The Administration agreed with the Board’s recommendation that management strengthen Secretariat-wide ICT standards to consolidate and leverage ICT buying power and that it use these standards to drive the harmonization of ICT as a necessary precursor to the consolidation of software applications and infrastructure.
+101.	The Administration agreed with the detailed recommendation on ICT security set out by the Board in its memorandum to the Chair of the Advisory Committee on Administrative and Budgetary Questions on this matter.
+
+
+	IV.	Acknowledgement
+
+
+102.	The Board wishes to express its appreciation for the cooperation and assistance extended to its staff by the Under-Secretary-General for Management and the Office of Information and Communications Technology, and members of their staff.
+
+
+(Signed) Liu Jiayi
+Auditor-General of China and
+Chair of the United Nations Board of Auditors
+(Signed) Amyas Morse
+Comptroller and Auditor-General of the
+United Kingdom of Great Britain and Northern Ireland
+(Lead Auditor)
+(Signed) Ludovick Utouh
+Controller and Auditor-General of the United Republic of Tanzania
+
+	1 	This figure covers only proposed budgets because approved budgets do not contain sufficient detail to isolate relevant ICT components. It also excludes ICT capital budgets attributable to section 33 of the budget (construction, alteration, improvement and major maintenance) and Umoja.
+	2 	Global organizations that have successfully transformed their operations and exhibit these characteristics include multinational oil, beverage and chemical companies. Many other examples exist. 
+	3 	Both the ICT industry and Governments have devised various standards to guard against information security risks. For example, the Communications Electronic Security Group, the national technical authority for information assurance of the United Kingdom of Great Britain and Northern Ireland, has issued Ten Steps to Reduce Your Cyber Risk.
+[Start1]<<ODS JOB NO>>N1265952E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/67/651<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+A/67/651
+
+A/67/651
+
+12-659528
+
+912-65952
+
+United NationsA/67/651 
+General AssemblyDistr.: General
+20 December 2012
+
+Original: English
+
+12-65952 (E)    310113
+*1265952*
+

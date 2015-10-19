@@ -1,0 +1,3420 @@
+
+ United Nations  A/64/7/Add.9
+
+  
+ 
+
+General Assembly  Distr.: General 
+16 November 2009 
+ 
+Original: English 
+
+ 
+
+09-60895 (E)    191109  
+*0960895*   
+
+Sixty-fourth session 
+Agenda items 132 and 146 
+
+ 
+
+Proposed programme budget for the biennium 2010-2011 
+ 
+
+Administrative and budgetary aspects of the financing of  
+the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology 
+ 
+ 
+
+  Tenth report of the Advisory Committee on Administrative and 
+Budgetary Questions on the proposed programme budget for the 
+biennium 2010-2011 
+ 
+ 
+
+ I. Introduction  
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the following reports relating to information and communications 
+technology:  
+
+ (a) Revised estimates relating to the proposed programme budget for the 
+biennium 2010-2011 under sections 28D, 29 and 36 related to the enterprise content 
+management and customer relationship management systems and proposals for a 
+unified disaster recovery and business continuity plan (A/64/477); 
+
+ (b) First progress report on the enterprise resource planning project and 
+revised estimates under section 28A of the proposed programme budget for 2010-
+2011 and under the support account for peacekeeping operations (A/64/380). 
+
+During its consideration of the reports, the Advisory Committee met with the Under-
+Secretary-General for Management and the Chief Information Technology Officer, 
+as well as with other representatives of the Secretary-General, who provided 
+additional information and clarification.  
+
+2. The reports are submitted pursuant to General Assembly resolution 63/262, by 
+which the Assembly took action on a series of proposals for comprehensive reform 
+of information and communications technology at the United Nations on the basis of 
+the Secretary-General’s proposals for an Organization-wide information and 
+communications technology strategy, the establishment of an Office of Information 
+and Communications Technology, the implementation of a new generation of 
+enterprise systems and elements for strengthening information and communications 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 2 
+ 
+
+technology disaster recovery and business continuity, as well as the related reports 
+of the Advisory Committee (see A/62/477, A/62/510/Rev.1, A/62/793 and Corr.1 and 
+Add.1, A/62/7/Add.31 and A/63/487 and Corr.1 and 2).  
+
+3. The overall strategy adopted by the General Assembly for meeting the 
+Secretariat’s information and communications technology needs over the next three 
+to five years is to be implemented through three strategic Organization-wide 
+programmes critical to the operation of the Organization, namely: (a) resource 
+management for the needs of administrative groups in managing financial, human, 
+physical and other resources; (b) knowledge management for addressing the needs 
+of substantive and other departments in managing their unstructured information; 
+and (c) infrastructure management for information and communications technology 
+specialists in providing data centres, communications and help desks. The 
+information and communications technology strategy is based on strong central 
+leadership for the establishment and implementation of Organization-wide 
+information and communications technology standards and activities and a 
+decentralized approach to operations. In this context, the Office of Information and 
+Communications Technology sets the overall strategic direction for the 
+Organization, coordinates Secretariat-wide activities in the area of information and 
+communications technology and manages the three strategic programmes. The 
+Advisory Committee notes that enterprise content management and customer 
+relationship management systems are implemented under the knowledge 
+management and resource management programmes, respectively. Enterprise 
+resource planning is the core system for delivering the resource management 
+programme. The Committee notes the Secretary-General’s intention to create 
+information and communications technology architecture that can provide a 
+coherent environment for the development and implementation of the Organization’s 
+information technology systems and integration of the three enterprise systems. 
+Upon enquiry, the Committee was provided with an update on the status of 
+implementation of the information and communications technology management 
+framework, which is summarized in annex I to the present report. 
+ 
+ 
+
+ II. Report on the enterprise content management and customer 
+relationship management systems and proposals for a 
+unified disaster recovery and business continuity plan 
+ 
+ 
+
+ A. Enterprise systems  
+ 
+ 
+
+4. In the paragraphs below the Advisory Committee comments on issues related 
+to both the enterprise content management and the customer relationship 
+management systems. The Committee’s observations on the specific aspects of each 
+enterprise system are contained in the relevant sections.  
+
+5. In its resolution 63/262 (sect. II, para. 26 (e)), the General Assembly requested 
+the Secretary-General to provide an update on the implementation of the enterprise 
+content management and customer relationship management systems. In that 
+resolution, the General Assembly also noted that the implementation of those 
+systems was already in progress and that the Secretary-General had not made a full 
+proposal at the time of their inception. The Advisory Committee had commented on 
+this situation in its report A/62/7/Add.31 (paras. 15-29), noting that it would have 
+
+
+
+ A/64/7/Add.9
+ 
+
+3 09-60895 
+ 
+
+been appropriate for the Secretary-General to make a full proposal before launching 
+the projects and acquiring the software for the enterprise content management and 
+customer relationship management systems. However, not wishing to impede 
+progress in the implementation of the projects, the Committee had recommended 
+approval of the resources requested by the Secretary-General, while emphasizing the 
+need for information to be provided to the General Assembly on the benefits 
+expected and the full costs of the implementation, as well as the measures necessary 
+to complete and maintain the systems (para. 29; see also A/63/487 and Corr.1 and 2, 
+paras. 76 and 77). The Committee notes that in his report (A/64/477), the Secretary-
+General provides most of the information requested, including the overall context, 
+goals, rationale and benefits expected from the implementation of the enterprise 
+content management and customer relationship management systems throughout the 
+United Nations Secretariat, as well as plans for the phased implementation of those 
+systems and funding requirements for the biennium 2010-2011.  
+
+6. The proposed programme budget for the biennium 2010-2011 did not include a 
+provision for the requirements related to the proposals contained in the Secretary-
+General’s report. In this connection, the Advisory Committee recalls General 
+Assembly resolution 62/236 (para. 9), in which the Secretary-General was requested 
+to ensure the fullest possible picture of the Organization’s requirements in future 
+proposed programme budgets. The Committee has also emphasized the need to 
+include in the proposed programme budgets estimates for requirements that are 
+foreseeable at the time of budget preparation. Given the adoption of General 
+Assembly resolution 63/262 in December 2008, the Committee is of the view 
+that the Secretary-General should have provided preliminary estimates on the 
+requirements for the implementation of the enterprise content management and 
+customer relationship management systems in the proposed programme budget 
+for 2010-2011. The Committee expects that future proposed programme 
+budgets will include requirements for all ongoing and envisaged activities, 
+thereby enabling Member States to make informed decisions. 
+
+7. In its resolution 63/262 (sect. II, para. 26 (e)), the General Assembly requested 
+the Secretary-General to provide an update on the cost-sharing arrangements for the 
+continued implementation of the enterprise content management and the customer 
+relationship management systems. The Advisory Committee requested additional 
+information on the rationale and the cost-sharing arrangements proposed for 
+enterprise content management and customer relationship management, and 
+enquired whether the cost-sharing formula approved for the enterprise resource 
+planning (ERP) project could be applied to the funding for all enterprise systems. It 
+was informed that the Secretary-General’s proposal was to fund the initial 
+implementation of the system from the regular budget and to charge projects clearly 
+attributable to specific offices/departments according to their usage of the system. 
+The Committee was also informed that the cost-sharing ratio applied to ERP is not 
+being proposed for enterprise content management and customer relationship 
+management owing to the uneven distribution of the benefits of those projects in the 
+initial stages of implementation. The implementation of the enterprise content 
+management and customer relationship management systems spans a multi-year 
+period and involves several discrete sub-projects benefiting specific organizational 
+entities, while ERP is a corporate system. However, the Secretary-General does not 
+rule out the harmonization of the cost-sharing ratios for all enterprise systems once 
+the foundational elements of enterprise content management and customer 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 4 
+ 
+
+relationship management have been implemented and if an equitable chargeback 
+model can be established for apportioning costs on the basis of the number of users. 
+The Committee recommends that the Secretary-General be requested to 
+explore such mechanisms and to report on this matter in the context of the 
+proposed programme budget for the biennium 2012-2013. 
+ 
+ 
+
+ B. Enterprise content management  
+ 
+ 
+
+8. In section III of its resolution 63/262, the General Assembly recognized the 
+benefits of the implementation of the enterprise content management system and 
+requested the Secretary-General to continue to implement those applications 
+throughout the Organization. The General Assembly also stressed that enterprise 
+systems should be developed and implemented under the authority of the Chief 
+Information Technology Officer in order to ensure a coordinated approach to the 
+development of such systems (see also A/62/7/Add.31, para. 27).  
+
+9. The Secretary-General provides information on the benefits expected from the 
+implementation of enterprise content management in terms of increased 
+effectiveness and increased efficiency (A/64/477, paras. 23-26). The Advisory 
+Committee requested further information on the quantitative and tangible gains 
+expected from the implementation of enterprise content management, which is 
+provided in annex II to the present report. The Secretary-General estimates that an 
+annual economy of some 250 person-years in productivity gains could be expected, 
+on the basis of an assumption that an average of 5 per cent of staff time at all levels 
+is spent on searching for information, and that enterprise content management is 
+deployed to 10,000 Secretariat staff. The Committee notes that these estimates 
+are based on a series of assumptions rather than on a detailed analysis. It is of 
+the view that the Secretary-General should be requested to elaborate on the 
+concrete efficiency gains expected from the implementation of enterprise 
+content management in the context of the proposed programme budget for the 
+biennium 2012-2013. The Committee has commented more extensively on the issue 
+in section III below, on enterprise resource planning. 
+
+10. In paragraphs 6 to 22 of his report, the Secretary-General describes the 
+existing situation and sets out the goals, rationale and scope of enterprise content 
+management. He indicates that the offices and departments of the United Nations 
+generate vast quantities of unstructured information in the form of documents, 
+records, website content, e-mail messages, images and audiovisual materials. A 
+multitude of disparate approaches and technologies are utilized to produce, manage 
+and distribute these materials, entailing considerable duplication and inefficiencies, 
+as well as significant levels of expenditure. Furthermore, because of this 
+fragmentation, staff and other stakeholders experience enormous difficulty in 
+finding the information they need, resulting in loss of productivity and 
+ineffectiveness. The Secretary-General states that this situation is unsustainable, in 
+terms of both the Organization’s ability to support the various systems utilized and 
+the inefficiencies resulting from the lack of appropriate policies and tools for 
+information management.  
+
+11. The Secretary-General indicates that enterprise content management will 
+improve the Organization’s ability to capture, analyse and share information, 
+enhance access and usability of information resources and provide complete, 
+
+
+
+ A/64/7/Add.9
+ 
+
+5 09-60895 
+ 
+
+accurate and timely information to support decision-making. Typical enterprise 
+content management systems comprise a series of modules, including document 
+management, records management, digital assets management, Web content 
+management and collaboration tools, as well as providing functions for capturing, 
+storing, reusing, sharing, publishing, archiving and managing information. The 
+Advisory Committee was informed that the enterprise content management system 
+supports the implementation of United Nations rules and procedures related to 
+record-keeping with respect to the creation, management and disposition of records, 
+the classification of essential and non-essential information and security levels, 
+thereby facilitating the control and tracking of records.  
+
+12. The Advisory Committee notes the key factors and prerequisites for the 
+realization of the benefits of knowledge management, as well as the unique aspects 
+and challenges related to the implementation of enterprise content management as 
+outlined in paragraphs 34 to 36 of the Secretary-General’s report. In addition to the 
+establishment of a proper framework for the programme, the development of an 
+appropriate communications and training strategy and the identification of suitable 
+offices/departments and sponsors for the start-up of the programme, it will be 
+necessary to ensure that specialized staff skills are available. These include 
+specialized skills for managing information, content and change. Furthermore, if the 
+expected benefits of enterprise content management are to be effectively realized, 
+the sustained involvement and commitment of the stakeholders it is intended to 
+service will be necessary. The Committee urges the Secretary-General to ensure 
+that the key success factors outlined in the report are met and that the related 
+activities are completed satisfactorily.  
+
+13. It is indicated in paragraph 18 of the Secretary-General’s report that the 
+Knowledge Management Service will plan and coordinate the approach for the 
+deployment of enterprise content management, in cooperation with the departments 
+and offices of the Secretariat, as well as in the field. Upon enquiry, the Advisory 
+Committee was informed that the Knowledge Management Service had a staffing 
+component of 15 established posts, of which 9 posts were required for supporting 
+enterprise content management implementation and the remaining 6 posts for 
+supporting the other activities of the knowledge management programme, such as 
+the Official Documents System (ODS), the Intranet and the various Lotus Notes 
+QuickPlace environments. The functions of the 9 posts involved in supporting 
+enterprise content management are set out below: 
+
+ (a) One D-1 Director with overall responsibility for the activities of the 
+Service. It is estimated that two thirds of the activities of the post are related to 
+enterprise content management;  
+
+ (b) Two P-5 Chiefs of Section, responsible for ensuring overall coordination 
+of the enterprise content management project, including collaboration activities; 
+
+ (c) Two P-4 Project Managers, dedicated to the management track and the 
+collaboration track; 
+
+ (d) One P-3 Business Analyst, involved in the correspondence management 
+initiative; 
+
+ (e) One P-3 Change/Information Management Officer, involved in 
+taxonomy, metadata and change management activities, including training; 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 6 
+ 
+
+ (f) One P-3 Information Technology Officer providing support for 
+infrastructure management; 
+
+ (g) One P-2 Assistant Information Technology Officer, involved in 
+collaboration and change management activities. 
+ 
+
+  Implementation activities  
+ 
+
+14. The Advisory Committee notes that the system is to be implemented in 
+incremental phases, including an initial foundational phase for establishing the core 
+technical infrastructure, governance and the overall management procedures and 
+guidance to enable a coordinated approach to enterprise content management. Many 
+of the key functionalities of enterprise content management, such as document 
+management and website management, are to be implemented in the second phase, 
+with the deployment of specific enterprise content management modules at a duty 
+station or office that has already developed a specific expertise in a given area. The 
+Committee also notes that the implementation is to be undertaken as a partnership 
+between the Office of Information and Communications Technology and the 
+concerned department/office on the basis of jointly determined priority needs, 
+organizational readiness and the availability of resources. In addition, partnerships 
+among departments and offices that share common needs are to be set up so as to 
+facilitate the extension of the deployment of tested enterprise content management 
+modules. These first two phases are expected to be completed during the biennium 
+2010-2011. Future phases will focus on expanding the deployment of enterprise 
+content management core modules for collaboration and the management of 
+documents, records and Web content, as well as the management of digital and 
+multimedia assets.  
+
+15. As indicated in paragraph 5 above, the implementation of enterprise content 
+management is already under way. In paragraph 47 of his report, the Secretary-
+General indicates that full deployment of enterprise content management across the 
+Organization will take up to five years. Upon enquiring as to the timeline of the 
+implementation and the start of the five-year period, the Advisory Committee was 
+informed that implementation activities had commenced in 2008 and would 
+continue until 2013. With regard to the update on the activities related to the 
+foundational phase (paras. 37 and 38), the Committee was informed that a 
+framework for the implementation of enterprise content management had been 
+established comprising the following elements:  
+
+ (a) An enterprise content management governance framework. The 
+implementation of enterprise content management is guided by the Working Group 
+on Knowledge Management, which develops the strategic direction for the 
+Secretariat’s knowledge management programme, reviews proposed enterprise 
+content management initiatives and monitors implementation status. The 
+membership of the Working Group includes departments and offices at Headquarters 
+and at offices away from Headquarters (the Department of Economic and Social 
+Affairs, the Department of Field Support, the Department for General Assembly and 
+Conference Management, the Department of Management, the Office of Central 
+Support Services of the Department of Management, the Department of Political 
+Affairs, the Department of Public Information, the Department of Peacekeeping 
+Operations, the Office for the Coordination of Humanitarian Affairs, the Office of 
+Information and Communications Technology; the Economic Commission for 
+
+
+
+ A/64/7/Add.9
+ 
+
+7 09-60895 
+ 
+
+Europe, the United Nations Office at Geneva, the United Nations Office at 
+Vienna/United Nations Office on Drugs and Crime and the secretariat of the Chief 
+Executives Board for Coordination) (see also annex I); 
+
+ (b) A road map for the implementation of enterprise content management. 
+The enterprise content management road map is shown in table 1 of the Secretary-
+General’s report (A/64/477). It comprises 18 enterprise content management high-
+priority initiatives which were identified on the basis of interviews conducted with 
+10 United Nations departments/offices on their priority enterprise content 
+management needs; 
+
+ (c) Global deployment architecture for the hosting and deployment of 
+enterprise content management systems worldwide, developed in coordination with 
+the infrastructure management programme; 
+
+ (d) Enterprise content management policies and standards. A compendium 
+of standards, policies, guidelines and best practices related to content description 
+and organization, including metadata and taxonomy, the classification of documents, 
+information security, content types, website guidelines, formats, life cycles and 
+workflow, has been compiled. The compendium is to be reviewed by subject matter 
+experts and by the Working Group on Knowledge Management. 
+
+16. The implementation activities and expected results for the biennium 2010-
+2011 have been organized on the basis of the following five tracks, as summarized 
+in table 1 of the Secretary-General’s report: 
+
+ (a) Two tracks related to project management and technical activities 
+(foundational phase), as set out below: 
+
+ (i) The management track ensures the overall coordination of the project. It 
+involves implementing policies, procedures and standards, developing and 
+implementing the change management programme and establishing 
+partnerships to ensure consistent approaches and to avoid duplication of 
+efforts; 
+
+ (ii) The infrastructure management track ensures that the essential technical 
+infrastructure is in place, including hardware and software, to support the 
+availability and deployment of the various enterprise content management 
+capabilities to all duty stations and peacekeeping missions; 
+
+ (b) Three tracks for the delivery of a minimal set of information 
+management capabilities needed by many operational units in the Secretariat, as set 
+out below: 
+
+ (i) The collaboration track includes various initiatives for introducing 
+additional collaboration technologies, developing communities of practice and 
+including a correspondence management tool in the Executive Office of the 
+Secretary-General and other units, as well as initiatives for the peacekeeping 
+guidance content repository and the automation of the peacekeeping report 
+process; 
+
+ (ii) The content management track includes initiatives such as the 
+replacement of ODS and a records management programme; 
+
+ (iii) The Web content management track includes initiatives for migrating the 
+websites of the five regional commissions using a common template and 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 8 
+ 
+
+approach, and initiating work on the migration of the United Nations website 
+to the enterprise content management platform. 
+
+17. The timeline for the planned project activities for the period 2010-2011 is 
+provided in figure II of the report. The Advisory Committee emphasizes the need 
+for effective monitoring of the timeline and deliverables of the enterprise 
+content management programme so as to ensure that the system is implemented 
+within the time frame envisaged. The Committee also requests that information 
+on the implementation plan, progress achieved and outstanding activities be 
+provided in the context of the proposed programme budget for the biennium 
+2012-2013. 
+ 
+
+  Funding requirements  
+ 
+
+18. According to the Secretary-General, enterprise content management will 
+support the entire Secretariat, including Headquarters, offices away from 
+Headquarters, regional commissions and political and peacekeeping missions. He 
+indicates that the full deployment of enterprise content management across the 
+Organization represents a significant undertaking and that it will require up to five 
+years of implementation, coordination, change management and training. Activities 
+related to peacekeeping operations were provided for in the 2009/10 budget for the 
+support account for peacekeeping operations (see para. 20 below).  
+
+19. As indicated in paragraph 49 of the Secretary-General’s report, the funding 
+requirements proposed are for the first two years of the enterprise content 
+management implementation plan for United Nations Headquarters, offices away 
+from Headquarters and regional commissions, representing the funding required to 
+implement the core technical infrastructure, many of the key application capabilities 
+and the overall management procedures and guidance to enable a coordinated 
+approach to enterprise content management. The Secretary-General provides little 
+information on the overall costs over the five-year span of the implementation of 
+enterprise content management, the expenditures already incurred or the estimated 
+costs for the maintenance of the system once it is fully deployed. While the 
+Advisory Committee understands that it may not be feasible to provide 
+accurate estimates of future costs, it is of the view that data on the resources 
+already engaged across all funding sources should have been provided, along 
+with some information on the composition of the costs and the number of 
+estimated users during the various phases of the implementation, distinguishing 
+between initial costs for the acquisition of the software and infrastructure, 
+estimated costs related to customization and training during the 
+implementation and deployment of the system, recurring costs for software 
+maintenance and licences and other requirements once the system is fully 
+implemented.  
+
+20. Upon enquiry, the Advisory Committee was provided with a summary of the 
+resources provided for enterprise content management activities to date, with a 
+breakdown by funding source, which is shown in annex III. The Committee notes 
+that a total amount of $8,781,600 was approved by the General Assembly, 
+comprising $2,000,000 under the regular budget, to be met from within the existing 
+appropriation for the biennium 2008-2009 (resolution 63/262), and $6,781,600 
+under the support account for peacekeeping operations for 2009/10, comprising 
+
+
+
+ A/64/7/Add.9
+ 
+
+9 09-60895 
+ 
+
+$6,645,200 under information technology and $136,400 under general temporary 
+assistance to provide for one P-3 position (resolution 63/287). 
+
+21. The Advisory Committee was further informed, upon enquiry, that a new suite 
+of enterprise content management products, including 10,000 user licences, had 
+been acquired in 2007 at a cost of $3,141,919, funded from within the regular 
+budget resources approved under the Information Technology Services Division 
+(section 28D) for the biennium 2006-2007. Annual maintenance charges for 
+upgrades and support of the enterprise content management software amount to 
+20 per cent of the acquisition cost. The initial 10,000 user licences were acquired at 
+a cost of $190 per user licence, which will be reduced as the total number of 
+licences acquired increases ($175 up to 25,000 and $160 beyond 25,000 user 
+licences). The Secretary-General has not acquired additional user licences in 2008-
+2009 and does not propose an increase in the number of licences for 2010-2011. The 
+Committee was further informed that it is expected that all users of personal 
+computers, potentially the Organization’s 43,000 staff members, would ultimately 
+use the enterprise content management system to create, search, find, preserve and 
+dispose of relevant content. 
+ 
+
+  Resource requirements for the biennium 2010-2011 
+ 
+
+22. As indicated in paragraph 5 of the Secretary-General’s report, pending the 
+conclusion of the structural review of information technology in the Secretariat and 
+the consideration of possibilities for consolidating information and communications 
+technology units and changes in the structure and staffing levels of the Office of 
+Information and Communications Technology, the Secretary-General is proposing to 
+provide the human resources required for the biennium 2010-2011 through general 
+temporary assistance and contractual services. Any conversion of general temporary 
+assistance positions and contractual resources to posts would be proposed for 
+consideration by the General Assembly following the outcome of the structural 
+review.  
+
+23. The overall estimated cost of the enterprise content management 
+implementation plan for United Nations Headquarters, offices away from 
+Headquarters and regional commissions under the proposed programme budget for 
+the biennium 2010-2011 amounts to $14,548,300, broken down as follows: 
+
+ (a) $3,218,800 under other staff costs to provide for 11 additional general 
+temporary assistance positions for 24 months in the Knowledge Management 
+Service, as follows:  
+
+ (i) One P-4 Change Management Coordinator, responsible for the overall 
+coordination of enterprise content management initiatives related to the 
+management track; 
+
+ (ii) One P-4 Knowledge and Content Management Coordinator, responsible 
+for overall coordination of enterprise content management initiatives related to 
+collaboration; 
+
+ (iii) One P-4 Information and Content Management Coordinator, responsible 
+for overall coordination of enterprise content management initiatives related to 
+information and content management; 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 10 
+ 
+
+ (iv) One P-4 Web Content Management Coordinator, responsible for overall 
+coordination of enterprise content management initiatives related to Web 
+content management; 
+
+ (v) One P-4 Information Systems Officer, responsible for overall 
+coordination of the enterprise content management infrastructure; 
+
+ (vi) One P-3 Change Management Officer, responsible for the 
+implementation of a change management programme; 
+
+ (vii) One P-3 Knowledge and Content Management Officer, responsible for 
+the implementation of a collaboration programme;  
+
+ (viii) One P-3 Content Management Officer, responsible for the 
+implementation of content management initiatives; 
+
+ (ix) One P-3 Information Management Officer, responsible for the 
+implementation of an information management programme; 
+
+ (x) One P-3 Web Content Management Officer, responsible for the 
+implementation of Web content management initiatives for the United Nations 
+Secretariat; 
+
+ (xi) One P-3 Information Systems Officer, responsible for technical support 
+for website development. 
+
+ (b) $269,500 for travel to cover requirements for trips to ensure overall 
+management and coordination of enterprise content management deployment to all 
+duty stations, including infrastructure development; 
+
+ (c) $8,066,400 for contractual services to cover requirements for data 
+processing services, software and storage services, including: 
+
+ (i) $1,012,400 for projects related to the collaboration track for facilitating 
+the work of cross-functional teams, improving process efficiencies, social 
+networking and case and correspondence management; 
+
+ (ii) $2,452,300 for projects related to content management initiatives for 
+records management, the authoring of parliamentary documents, the migration 
+of existing official documents, standardized publishing methods with 
+workflow and collaboration integration; 
+
+ (iii) $1,399,300 for projects related to Web content management, including 
+the harmonization of regional commission and departmental websites, 
+enterprise search and the replacement of iSeek; 
+
+ (iv) $933,700 for services related to the implementation of enterprise content 
+management infrastructure; 
+
+ (v) $1,105,500 for software licences for the enterprise content management 
+software; 
+
+ (vi) $1,084,000 for storage and backup services for enterprise content 
+management-related content;  
+
+ (vii) $79,200 for service-level agreement charges for telecommunications and 
+technology for the general temporary assistance positions and consultants 
+referred to above. 
+
+
+
+ A/64/7/Add.9
+ 
+
+11 09-60895 
+ 
+
+ (d) $1,338,300 under general operating expenses to cover costs for the rental 
+of premises, alterations and improvements, communications for the office and 
+general temporary assistance positions and contractors detailed above and the 
+maintenance of enterprise content management equipment; 
+
+ (e) $22,000 to cover standard costs for supplies and materials; 
+
+ (f) $1,633,300 under furniture and equipment, largely to provide for the 
+acquisition of information and communications technology equipment to support 
+enterprise content management at Headquarters, offices away from Headquarters 
+and regional commissions, as well as additional software for Web content 
+management and office and information technology equipment for the general 
+temporary assistance positions and contractors detailed above. 
+
+24. The Secretary-General’s proposals for an additional 11 positions (5 P-4 and 
+6 P-3) would more than double the current capacity of nine staff dedicated to the 
+implementation of enterprise content management (1 D-1, 2 P-5, 2 P-4, 3 P-3 and 
+1 P-2). The 11 new positions requested include one P-4 and one P-3 for each of the 
+five implementation tracks. Some of the functions of the additional positions 
+requested build on existing capacity. For example, among the nine existing staff 
+members, one P-5, one P-4, one P-3 and one P-2 are already involved or dedicated 
+to collaboration activities and one P-5 and one P-4, as well as the D-1 Director, are 
+involved in overall coordination of the enterprise content management 
+implementation and the management track. Furthermore, the Advisory Committee 
+notes that in resolution 63/287, the General Assembly provided resources under the 
+support account for peacekeeping operations for 2009/10 for a number of enterprise 
+content management initiatives, such as the enhancement of collaboration 
+capabilities throughout field missions. The Department of Field Support has already 
+acquired considerable experience and specialized skills in knowledge-sharing, 
+collaboration and information management through initiatives such as the 
+establishment of communities of practice and the deployment of best practices 
+officers in peacekeeping missions.  
+
+25. With respect to the resources requested under contractual services, the 
+Advisory Committee notes that nearly $6 million of the $8.1 million proposed is for 
+activities related to collaboration, Web content and content management, while the 
+remaining $2.1 million is for software, storage and support. 
+
+26. The Advisory Committee is of the view that, rather than doubling the size 
+of the Knowledge Management Service, maximum use should be made of 
+existing capacity. It also believes that every effort should be made to draw upon 
+the experience and skills available in house and to reassess requirements as the 
+various enterprise content management implementation activities progress. 
+Accordingly, the Committee recommends approval of 7 of the 11 positions 
+(3 P-4 and 4 P-3) proposed for the Knowledge Management Service and a 
+reduction of $1 million in the proposed $8,066,400 under contractual services. 
+The Committee recommends approval of the full amount of the remaining 
+proposals related to non-post resources. 
+ 
+ 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 12 
+ 
+
+ C. Customer relationship management  
+ 
+ 
+
+27. Customer relationship management is one of the components of the resource 
+management programme. It is targeted towards the provision of day-to-day services 
+for end-users in a variety of areas, such as information and communications 
+technology support, administrative support for operations in human resources, travel 
+services, payroll and insurance, as well as the provision of diverse services to 
+Member States and agencies. 
+
+28. As indicated by the Secretary-General, each service delivery group operates 
+independently of the other, thus increasing the risk of duplication, inefficiencies and 
+higher costs arising from the maintenance of multiple service desks, as well as 
+inconvenience for customers who have to deal with multiple service providers with 
+different working procedures. The weaknesses of the current situation and the 
+rationale for change are set out in detail in paragraphs 66 to 71 of the Secretary-
+General’s report. 
+
+29. According to the Secretary-General, the objective of customer relationship 
+management is to create an Organization-wide common service management 
+framework based on an integrated system and a common set of policies and 
+procedures. The main ongoing initiative of the customer relationship management 
+project, entitled “iNeed”, consists of standardizing the processes of service desks 
+and consolidating the service desks using an enterprise solution. In the first phase of 
+iNeed, the consolidation of information and communications technology and 
+facilities management services is envisaged for an initial deployment by the end of 
+2009 in the Office of Information and Communications Technology, the Department 
+of Field Support, the United Nations Logistics Base at Brindisi, Italy, the United 
+Nations Interim Force in Lebanon, the United Nations Mission in Liberia and the 
+United Nations Stabilization Mission in Haiti. Subsequently, over the next two to 
+three years, the baseline product will be rolled out to offices away from 
+Headquarters. In parallel, additional service types, such as travel, human resources 
+management and conference services, are to be incorporated into the integrated 
+system. In addition, a self-service portal will be implemented in 2010 for 
+information and communications technology and facility services after the initial 
+deployment at the end of 2009.  
+
+30. Further details on current project activities are provided in paragraphs 86 to 92 
+of the Secretary-General’s report. The activities envisaged in 2010-2011 include: 
+
+ (a) Operation, maintenance and stabilization of iNeed; 
+
+ (b) Implementation of the self-service portal; 
+
+ (c) Deployment of iNeed in five additional duty stations, which are to be 
+determined before the end of 2009;  
+
+ (d) Analysis of the next service type to be deployed using iNeed. 
+
+31. The Secretary-General affirms that customer relationship management will 
+improve the quality and cost-effectiveness of services provided to end-users. He has 
+identified a number of areas in which efficiency gains are expected and where there 
+is potential for cost savings (paras. 77-85). The Advisory Committee notes that 
+iNeed will automate current manual processes and replace the existing legacy 
+systems that are used to manage service requests. Upon enquiry, the Committee was 
+
+
+
+ A/64/7/Add.9
+ 
+
+13 09-60895 
+ 
+
+provided with additional information on expected efficiency gains resulting from the 
+automated processing of customer service requests, which is set out in annex IV.  
+
+32. The Secretary-General’s analysis projects total estimated annual savings at 
+between $5,776,000 and $12,180,000 once customer relationship management is 
+fully deployed for information and communications technology and facilities 
+services at Headquarters and offices away from Headquarters and for information 
+and communications technology in all peacekeeping missions. He expects that 
+savings will start accruing once self-service has been implemented. Additional 
+savings could be expected when information and communications technology 
+service desks outside the Department of Field Support and the Office of Information 
+and Communications Technology have also migrated to the common customer 
+relationship management platform. Once self-service has been implemented, savings 
+resulting from the initial deployment of customer relationship management in 
+mid-2010 are expected to range between $1,784,000 and $3,703,000 per year. The 
+expected annual savings would range between $3,973,000 and $8,398,000 if the 
+system is extended to five offices away from Headquarters in 2010-2011, and 
+between $4,102,000 and $9,226,000 in 2012-2013 when information and 
+communications technology service desks in all seven offices away from 
+Headquarters have been implemented.  
+
+33. The Advisory Committee considers that a quantitative analysis of the 
+activities automated with the implementation of customer relationship 
+management should be carried out so as to provide an objective basis for 
+measuring the efficiencies actually realized. In view of the imminent 
+implementation of the first phase of customer relationship management, by the 
+end of 2009, the Committee recommends that the Secretary-General be 
+requested to ensure that appropriate mechanisms are in place for gathering the 
+necessary data before the systems are deployed. The Committee has commented 
+more extensively on the issue of estimating and harvesting efficiency gains in 
+section III below, on enterprise resource planning. 
+ 
+
+  Funding requirements  
+ 
+
+34. As indicated in paragraph 5 of the Secretary-General’s report, pending the 
+conclusion of the structural review of information technology in the Secretariat and 
+the consideration of possibilities for consolidating information and communications 
+technology units and changes in the structure and staffing levels of the Office of 
+Information and Communications Technology, the Secretary-General is proposing to 
+provide the human resources required for the biennium 2010-2011 through general 
+temporary assistance and contractual services. Any conversion of general temporary 
+assistance positions and contractual resources to posts would be proposed for 
+consideration by the General Assembly following the outcome of the structural 
+review. 
+
+35. In paragraph 96 of his report, the Secretary-General states his intention to 
+build internal capacity for managing and supporting the deployment of customer 
+relationship management and to reduce the Organization’s reliance on external 
+vendors. The Advisory Committee is supportive of this approach and believes 
+that in-house expertise should be developed with respect to the systems that 
+support the core activities and needs of the Organization.  
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 14 
+ 
+
+36. The Secretary-General provides little information on the estimated overall 
+costs over the five-year span of the implementation of customer relationship 
+management, the expenditures already incurred or the estimated costs for the 
+maintenance of the system once it is fully deployed. Upon enquiry, the Advisory 
+Committee was informed that the yearly cost for software maintenance, hardware 
+maintenance and information and communications technology personnel supporting 
+the system was estimated to range between $35 and $40 per service recipient. 
+Furthermore, the Secretariat expects the cost per service recipient to decrease as the 
+system is deployed to additional offices and departments.  
+
+37. Upon enquiry, the Advisory Committee was provided with a summary of the 
+resources provided for customer relationship management activities to date, which 
+is contained in annex III. The Committee notes that a total amount of $4,360,900 
+was approved under the support account for peacekeeping operations for 2009/10, 
+comprising $4,029,500 under information technology and $331,400 under general 
+temporary assistance, to provide for one P-5 and one P-3 position (resolution 
+63/287). 
+ 
+
+  Resource requirements for the biennium 2010-2011 
+ 
+
+38. The overall resources requested for the ongoing implementation of customer 
+relationship management for the biennium 2010-2011, including iNeed 
+maintenance, the development of the self-service portal and the deployment of 
+iNeed to five information and communications technology and facility service desks 
+at offices away from Headquarters, amount to $4,433,000, broken down as follows: 
+
+ (a) $1,286,800 under other staff costs to provide for five additional general 
+temporary assistance positions as follows:  
+
+ (i) One P-4 Application Administrator to lead the management of the 
+application infrastructure design and implementation; 
+
+ (ii) Two P-3 Customer Relationship Management Business Analysts to work 
+with business communities to perform process gap analysis, functional flow 
+design, functional usability documentation, application testing and user 
+communication activities; 
+
+ (iii) Two P-2 Developers to assist with the technical design and specifications 
+documentation; 
+
+ (b) $70,000 under official travel to provide for trips to offices away from 
+Headquarters to conduct business workshops and user training; 
+
+ (c) $2,419,200 under contractual services, mostly for customer relationship 
+management expert services ($2,001,600) to augment the existing staff capacity in 
+project management, user training and data migration activities. The remainder 
+($417,400) would provide mainly for storage and backup services; 
+
+ (d) $440,400 under general operating expenses to provide for the rental of 
+premises ($286,000), alterations and improvements ($83,000), communications 
+($39,000) for the office and general temporary assistance positions and contractors 
+detailed above, and the maintenance of customer relationship management 
+equipment ($32,400); 
+
+ (e) $5,000 to cover standard costs under supplies and materials. 
+
+
+
+ A/64/7/Add.9
+ 
+
+15 09-60895 
+ 
+
+39. The Advisory Committee is of the view that further efforts should be made 
+to fully utilize in-house capacity in the implementation of customer relationship 
+management functions. It therefore recommends approval of (a) four of the five 
+additional general temporary assistance positions proposed (1 P-4, 1 P-3 and 
+2 P-2); and (b) a reduction of $500,000 in the $2,001,600 proposed for expert 
+services under contractual services. The Committee recommends approval of 
+the full amount of the remaining non-post resources proposed.  
+ 
+ 
+
+ D. Proposals for a unified disaster recovery and business 
+continuity plan  
+ 
+ 
+
+40. In its resolution 59/276 (sect. XI, para. 47), the General Assembly requested 
+the Secretary-General to submit a technical study on information and 
+communications technology security, business continuity and disaster recovery, with 
+detailed costing and a timetable. The Secretary-General submitted proposals for a 
+global operational framework in that regard in his report on information and 
+communications technology security, disaster recovery and business continuity for 
+the United Nations (A/62/477). However, some of those proposals have been 
+superseded as a result of subsequent events and the emergence of new requirements, 
+in particular the establishment of a central business continuity management unit to 
+address business continuity issues on a broader, Organization-wide basis, taking into 
+account pandemic planning and other non-information and communications 
+technology aspects (see A/64/472 and A/64/7/Add.8), as well as the requirement for 
+a new secondary data centre in the context of the relocations due to the capital 
+master plan (see A/64/346/Add.1).  
+
+41. In its resolutions 63/262 and 63/269, the General Assembly provided guidance 
+for the development of new proposals for a unified approach to robust disaster 
+recovery and business continuity, and requested the Secretary-General to: 
+
+ (a) Undertake a classification of critical and non-critical systems of the 
+Secretariat and provide to the General Assembly an inventory of systems classified 
+according to their degree of criticality at the time of its consideration of the proposal 
+for a permanent secondary data centre for United Nations Headquarters; 
+
+ (b) Prioritize systems to minimize the cost of disaster recovery and business 
+continuity; 
+
+ (c) Consolidate systems in central data centres to strengthen disaster 
+recovery and business continuity and minimize the size of local primary and 
+secondary data centres; 
+
+ (d) Ensure the use of enterprise data centres rather than local data centres as 
+far as possible; 
+
+ (e) Re-engineer systems to support the long-term goal of managing data 
+recovery and business continuity in system-wide enterprise data centres and where, 
+from a long-term perspective, it is more cost-effective than hosting them in local 
+data centres; 
+
+ (f) Fully explore the possibilities for consolidating and using the most 
+reliable and cost-effective solution for data storage, business continuity services and 
+hosting of enterprise systems; 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 16 
+ 
+
+ (g) Ensure that the level of protection proposed for systems has been subject 
+to a thorough cost-benefit analysis. 
+
+The Secretary-General is to submit to the General Assembly a unified disaster 
+recovery and business continuity plan, including a permanent solution for 
+Headquarters in the context of the proposed programme budget for the biennium 
+2012-2013 (see resolution 63/262, sect. IV, para. 12; see also para. 48 (f) below). 
+
+42. In his report (A/64/477), the Secretary-General focuses on the realignment of 
+the proposals contained in his earlier report (A/62/477) with the above-mentioned 
+guidelines and principles, as well as with the work being carried out by the Business 
+Continuity Management Unit on business continuity and on pandemic planning. The 
+Advisory Committee notes that the Unit addresses the planning needed to ensure 
+that the Organization can continue its critical functions under all circumstances, 
+while the information and communications technology disaster recovery programme 
+deals with planning for the resumption of information and communications 
+technology infrastructure and services after a disruption that adversely impacts 
+critical business functions (A/64/477, paras. 104-106).  
+
+43. The Secretary-General also sets out a high-level strategy and objectives for 
+disaster recovery (paras. 120-129). The Advisory Committee notes that the 
+information and communications technology disaster recovery plan will address 
+only critical systems and communications and that recovery activities will be 
+conducted in a phased approach, with an emphasis on efficiency and effectiveness, 
+using existing information and communications technology infrastructure and 
+facilities. The Secretary-General further proposes the establishment of two 
+enterprise data centres in geographically diverse locations, namely, Brindisi, Italy, 
+and a second site yet to be determined. Both facilities will host mission-critical 
+enterprise systems and services for the Secretariat and provide a range of backup 
+and fail-over capabilities in support of disaster recovery and business continuity 
+operations. The Committee also notes that the Secretariat proposes to adopt 
+international standard 24762 of the International Organization for 
+Standardization/International Electrotechnical Commission (ISO/IEC 24762) 
+(guidelines for information and communications technology disaster recovery 
+services) as the basic framework for the development of a unified disaster recovery 
+and business continuity plan (paras. 109-118).  
+
+44. The activities to be undertaken in connection with the development and 
+implementation of the unified disaster recovery and business continuity plan are 
+described in paragraphs 130 to 136 of the report. Key activities include:  
+
+ (a) A study to be conducted for the classification and prioritization of 
+information and communications technology systems, including a business impact 
+analysis to be carried out by the Business Continuity Management Unit at 12 duty 
+stations for determining the extent to which local primary and local secondary data 
+centres are required at each duty station, as well as their size and scope; 
+
+ (b) An upgrade of the data centre infrastructure at the United Nations 
+Logistics Base at Brindisi, Italy, for site recovery and data protection. 
+
+45. Upon enquiry, the Advisory Committee was informed that the information 
+gathered in the context of the above-mentioned study on classification, prioritization 
+and business impact would be utilized to determine factors such as the acceptable 
+period of downtime that could be incurred for each system and the level of 
+
+
+
+ A/64/7/Add.9
+ 
+
+17 09-60895 
+ 
+
+protection to be provided. In general, the costs of protecting systems against failures 
+are inversely proportional to the length of the acceptable downtime period. These 
+factors would also be used in cost-benefit analyses when evaluating the costs of 
+protection against the risks to be mitigated. In this context, the role of departments 
+in the prioritization of systems will be to provide objective input as to their critical 
+business processes. The Committee was further informed that the Office of 
+Information and Communications Technology and the Business Continuity 
+Management Unit would work closely with departments in identifying and 
+prioritizing the functions and the supporting processes, taking into account the 
+relative costs and effectiveness of alternate options for disaster recovery, including 
+information and communications technology systems. The Committee emphasizes 
+the need to ensure that disaster recovery requirements are based on objective 
+needs and that the most cost-effective solutions are fully explored.  
+
+46. The Advisory Committee recalls that in resolution 63/262 (sect. IV, para. 13), 
+the General Assembly requested the Secretary-General to fully explore the 
+possibilities for consolidating and using the most reliable and cost-effective solution 
+for data storage, business continuity services and hosting of enterprise systems, 
+drawing on the experience of other United Nations entities and global developments 
+in information and communications technology, and to report to the General 
+Assembly on the matter. The Committee trusts that the Secretary-General is 
+exploring all such options and will report to the General Assembly on the 
+results of his review and provide justification as to the cost-effectiveness of the 
+sites selected for hosting the enterprise data centres.  
+
+47. The overall resources requested for the biennium 2010-2011 in relation to the 
+development of a unified information and communications technology disaster 
+recovery and business continuity plan are as follows: 
+
+ (a) $384,000 under other staff costs to provide general temporary assistance 
+for a P-5 Senior Disaster Recovery Officer at Headquarters to manage the activities 
+associated with the proposed framework programme and to maintain a Secretariat-
+wide coordinated approach; 
+
+ (b) $108,600 to provide for travel for two specialists to each duty station to 
+assess and collect data during phase 1 of the project; 
+
+ (c) $2,830,900 under contractual services, including:  
+
+ (i) $1,700,000 for professional services, including $1,200,000 for the 
+conduct of a business impact study and a risk assessment study in each of the 
+12 duty stations, at $100,000 per duty station, and $500,000 for the 
+reformulation of the disaster recovery strategy and the definition of global 
+architecture for implementing a unified disaster recovery and business 
+continuity plan; 
+
+ (ii) $1,127,300 to provide for ongoing operation of the enterprise data centre 
+at the United Nations Logistics Base at Brindisi, Italy, for a service-level 
+agreement to cover the costs of maintenance of equipment and services.  
+
+The Advisory Committee recommends approval of the Secretary-General’s 
+proposals related to the unified disaster recovery and business continuity plan. 
+ 
+ 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 18 
+ 
+
+ E. Conclusions and recommendations 
+ 
+ 
+
+48. In paragraphs 149 (a) to (f) of his report (A/64/477), the Secretary-
+General sets out a series of requests of the General Assembly. The Advisory 
+Committee’s recommendations are as follows: 
+
+ (a) The Committee recommends that the General Assembly note the 
+proposals and approach described in the present report for the implementation 
+of enterprise content management, customer relationship management and 
+business continuity and disaster recovery planning; 
+
+ (b) Taking into account its recommendations in paragraph 26 above, the 
+Advisory Committee recommends approval of $11,947,900 for the continuation 
+of the enterprise content management project for the biennium 2010-2011;  
+
+ (c) Taking into account its recommendations in paragraph 39 above, the 
+Advisory Committee recommends approval of $3,563,900 for the continuation 
+of the customer relationship management project for the biennium 2010-2011;  
+
+ (d) Taking into account its recommendations in paragraph 47 above, the 
+Advisory Committee recommends approval of $3,392,300 for undertaking the 
+development of a unified disaster recovery plan and for maintaining the 
+Brindisi enterprise data centre for the biennium 2010-2011;  
+
+ (e) Taking into account its recommendations in subparagraphs (b) to (d) 
+above, the Advisory Committee recommends that the General Assembly 
+approve a total amount of $19,421,900 gross ($18,904,100 net) for the biennium 
+2010-2011 under section 28D, Office of Central Support Services ($1,190,800) 
+and section 29, Office of Information and Communications Technology 
+($17,713,300); and section 36, Staff assessment ($517,800), to be offset by a 
+corresponding amount under income section 1, Income from staff assessment, 
+of the proposed programme budget for the biennium 2010-2011; 
+
+ (f) The Advisory Committee recommends that the General Assembly 
+note that comprehensive plans on disaster recovery and business continuity for 
+Secretariat entities, including requirements for the maintenance and 
+monitoring phase of the information and communications technology disaster 
+recovery plan, will be submitted for consideration in the context of the 
+proposed programme budget for the biennium 2012-2013. 
+ 
+ 
+
+ III. First progress report on the enterprise resource  
+planning project  
+ 
+ 
+
+49. The first progress report on the enterprise resource planning project is 
+submitted pursuant to General Assembly resolution 63/262, in which the Secretary-
+General was requested to report to the Assembly at the main part of its sixty-fourth 
+session on the enterprise resource planning (ERP) project, including an assessment 
+of the organizational arrangements; a revised enterprise resource planning project 
+implementation plan and updated budget; an updated business case with details on 
+tangible and measurable efficiency and productivity gains to be achieved through 
+the implementation of ERP as well as benchmarks for measuring progress and the 
+
+
+
+ A/64/7/Add.9
+ 
+
+19 09-60895 
+ 
+
+anticipated return on investment; and options for a reduced enterprise resource 
+planning package at lower cost. 
+
+50. In its report for the biennium ended 31 December 2007, the Board of Auditors 
+noted that the enterprise resource planning project was one of the main drivers to 
+make the overall management of the Administration more modern and uniform 
+(A/63/5 (Vol. I), para. 125). The Committee has also emphasized the potential of 
+ERP to transform and modernize administrative functions and streamline working 
+methods across the Organization. In his current report (A/64/380) the Secretary-
+General further emphasizes the role of ERP in facilitating and enabling 
+administrative reforms.  
+ 
+ 
+
+ A. Benefits and efficiency gains 
+ 
+ 
+
+51. In section II of his report (A/64/380), the Secretary-General makes a detailed 
+presentation of the benefits that are expected from the implementation of the 
+enterprise resource planning project, with a view to making a business case 
+justifying the investment in ERP. The Secretary-General indicates that the benefits 
+analysis was conducted according to a structured methodology, on the basis of 
+consultative visits to multiple duty stations, the collection of data for each 
+functional area from current systems, cross-checking against industry benchmarks, 
+and extensive validation of data and assumptions by users and the Enterprise 
+Resource Planning Steering Committee. 
+
+52. The analysis of qualitative benefits builds on the elements presented in 
+section III.B of the report of the Secretary-General on enterprise systems for the 
+United Nations Secretariat worldwide (A/62/510/Rev.1) and sets out in some detail 
+the advantages to be expected in terms of improved accountability; enhanced 
+transparency; strengthened internal controls across the broad range of financial, 
+procurement and staffing processes; improved consistency in the application of rules 
+and operating procedures in all administrative disciplines; reporting; and higher 
+client satisfaction. The system will also allow for the integration of human resources 
+management, payroll and finance functions under a shared system for all United 
+Nations personnel. The close integration of supply chain functions will improve 
+operational effectiveness and timeliness. In the area of finance, the ERP system will 
+enable compliance with the International Public Sector Accounting Standards 
+(IPSAS). In addition, the Secretary-General indicates that the interconnection 
+between ERP systems facilitates the implementation of data replication procedures, 
+thereby providing inherent disaster recovery and business capabilities.  
+
+53. The Committee notes that the integrated system is intended to provide a single 
+source of complete, reliable and timely information on human, financial and 
+physical resources. It emphasizes the importance of fully exploiting this information 
+to provide improved and more accurate reports to support management decision-
+making. The Committee trusts that the system will further support decision-making 
+by linking programmes and operations to resources, and respond to the needs of 
+Member States in reviewing administrative and budgetary proposals. Furthermore, 
+the system should facilitate access to reports by United Nations staff and Member 
+States. Upon enquiry, the Committee was informed that ERP implementation covers 
+all functionalities, including programme management, results-based management 
+and risk management.  
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 20 
+ 
+
+54. The Secretary-General has also identified expected productivity and efficiency 
+gains1 in each functional area by type of activity, and has translated those gains in 
+terms of a high and a low range of savings in staff time, consolidated as full-time 
+equivalents, and converted to financial values using the average cost of the full-time 
+equivalents performing those tasks (see A/64/380, annex I). According to the 
+Secretary-General, the estimated annual aggregate efficiency and productivity gains, 
+expressed in financial terms, range between $134 million and $224 million, or 705 
+to 1,180 full-time equivalents.2 He states that the gains will occur once the system is 
+fully deployed and stabilized, and will accrue progressively, over time, subject to 
+the conditions set out in paragraphs 52 and 53 of his report. Those conditions 
+include the continued support of all stakeholders and the application of established 
+best practices in areas such as user education, the transfer of knowledge from 
+specialist external resources to United Nations staff, quality assurance and 
+communications.  
+
+55. The Committee notes the efforts made to carry out this first quantitative 
+analysis of potential productivity and efficiency gains, in response to the 
+General Assembly’s request for the identification of tangible and measurable 
+efficiency gains arising from the project (resolution 63/262, sect. II, para. 11). It 
+notes the opportunities for such savings through the automation of heavily manual 
+tasks in areas such as the processing of entitlements (415 FTE) and accounts 
+payable (114 FTE). The Secretary-General states that the productivity gains do not 
+represent or suggest a net decrease in posts or savings in staff costs, but rather, a 
+potential to redirect resources towards higher priority tasks, to compensate for gaps 
+in current processes. The Advisory Committee considers that a more systematic 
+and detailed approach to harvesting efficiency gains is required. The Secretary-
+General should strengthen his analysis and identify administrative resources 
+that can be released as a result of the implementation of the ERP project. It 
+points out that it would be up to the General Assembly to decide on the disposal 
+of those resources. The Committee emphasizes that, in an organization such as 
+the United Nations, in which administrative functions constitute a significant 
+share of the overall activity, administrative reform should lead to reduced 
+administrative burdens and costs.  
+
+56. In this connection, the Committee notes that workforce planning is being 
+introduced Secretariat-wide during the biennium 2008-2009 in order to undertake a 
+more strategic, proactive and planned approach to human resources management 
+(A/64/267). In its related report (A/64/518), the Committee has recommended that 
+the Secretary-General, inter alia, make use of strategic workforce planning 
+techniques to provide a clearer picture of ongoing functions, as well as an estimate 
+of how many staff members in the major occupational groups are required to ensure 
+the effective implementation of the Organization’s mandates. The workforce 
+planning exercise should also be used to determine the critical skills and 
+competencies that will be required to align the Organization’s staffing structure with 
+
+__________________ 
+
+ 1  In paragraph 32 of his report, the Secretary-General states that productivity measures output per 
+unit of labour: by eliminating or reducing time currently spent on administrative tasks, 
+opportunities will be created for United Nations staff to focus on more value-added activities 
+across the Organization. Efficiency is a measure of how well inputs are converted to outputs and 
+can be measured as the reduction in cost for the delivery of the same service at the same level of 
+quality. 
+
+ 2  At an average annual cost of $190,000 per full-time equivalent. 
+
+
+
+ A/64/7/Add.9
+ 
+
+21 09-60895 
+ 
+
+programmatic goals and the evolving needs of the Organization, taking into account 
+the impact of the implementation of the enterprise resource planning project on the 
+nature of administrative activities to be performed, including the low-value 
+activities that will become redundant and the high-value tasks that may require new 
+skills. Furthermore, the significant number of retirements in the next five years 
+provides an opportunity for reviewing and aligning the staffing structure to the 
+needs of the Organization, in the light of the modernization of administrative 
+functions which will result from the full deployment of the ERP system. 
+ 
+ 
+
+ B. Project governance 
+ 
+ 
+
+57. An assessment of organizational arrangements is provided in paragraphs 64 to 
+69 of the report. The Secretary-General indicates that the current arrangements 
+provide an effective structure for the management of project activities and timely 
+decision-making. The Committee reaffirms its view that there is a need for clear 
+lines of responsibility and accountability for the overall project. In its previous 
+report on information and communications technology (A/63/487, paras. 52-53) the 
+Committee had also stressed that, in view of the impact of the implementation of 
+ERP on work processes, roles and responsibilities, its implementation should be 
+viewed primarily as a business project and that it was therefore understandable that 
+the Chairperson of the ERP Steering Committee (the Under-Secretary-General for 
+Management) should have overall responsibility for the project.  
+
+58. The Committee notes that since the issuance of its previous report, 
+membership of the project Steering Committee has been expanded to include 
+unrepresented organizational and geographic entities. It was further informed that 
+user committees with an advisory role are to be established at offices away from 
+Headquarters so as to ensure appropriate involvement of user departments during 
+the planning and implementation of ERP. The Committee considers this to be a 
+positive step. It is of the view that the composition of the Steering Committee, 
+as reflected in annex VI to its report (A/63/487), is heavily tilted towards service 
+providers and that increased representation of user departments is desirable. 
+Furthermore, the Advisory Committee considers that, as one of the largest 
+entities of the Secretariat, the Department for General Assembly and 
+Conference Management should be represented in the ERP governance 
+structure, and requests that consideration be given to extending membership of 
+the ERP Steering Committee to that Department. 
+ 
+ 
+
+ C. Implementation strategy 
+ 
+ 
+
+59. The Secretary-General indicates in paragraph 57 of his report, that the 
+implementation of ERP projects is usually broken down into four major phases: 
+(i) preparation, during which the project structure and team are set up, service 
+providers and tools are selected, operational requirements are collected and 
+analysed, opportunities for improvement are evaluated and existing business 
+processes and systems are documented; (ii) design, during which a blueprint for the 
+future solution is established and a detailed implementation plan for the subsequent 
+phases is developed; (iii) build, during which the organization’s solution is 
+configured into the standard software according to the blueprint, the system is 
+thoroughly tested, the technical infrastructure is implemented and the user 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 22 
+ 
+
+community is trained; and (iv) deployment, during which the organization 
+transitions to the new working methods and systems, which itself is performed in 
+several phases.  
+
+60. In paragraph 82 of his report, the Secretary-General sets out the major cost 
+drivers of ERP implementation. Some of the key elements to be considered in 
+developing an implementation strategy are the range of functions to be covered, 
+whether they are introduced simultaneously or in phases and the number of 
+deployments for rolling out the new system to all locations. 
+
+61. The Secretary-General’s previous proposals on the ERP implementation 
+strategy (A/62/510/Rev.1, paras. 40-45) suggested that the ERP project would be 
+designed, built, tested and deployed in two waves: the first to be completed over a 
+30-month period by the end of 2010, for the core finance, human resources, 
+procurement and asset management functions required for compliance with the 
+International Public Sector Accounting Standards (IPSAS); and a second wave over 
+a 24-month period for design-build-test-deployment of the remaining functions, 
+such as results-based management, risk management, transportation and travel. The 
+Secretary-General explains that, following an analysis of the ERP software and the 
+United Nations high-level business processes, as well as the experiences of other 
+organizations having implemented ERP projects, it was determined that this 
+implementation approach entails additional costs.  
+
+62. The Committee notes that the report of the Secretary-General does not provide 
+a detailed analysis of the consideration given to the General Assembly’s request for 
+options for a reduced ERP package at lower cost (resolution 63/262, sect. II, 
+para. 26 (g)). Upon enquiry, the Committee was informed that there was no realistic 
+opportunity to reduce the scope of the ERP project. The project addresses the 
+management of resources in four functional areas, human resources, finance and 
+budget, supply chain/logistics/procurement and central support services. The 
+Secretariat conducts its work in each of these areas. If any of these four functional 
+areas were not to be covered by ERP, separate systems would be required for the 
+management of those resources. Further, given the tight interdependence between 
+data related to each functional area, for example, staff and payroll, procurement and 
+accounts receivable, it would be necessary to put into place mechanisms for 
+exchanging data between the different systems being maintained.  
+
+63. Concerning the possibility of phased implementation of the various 
+functionalities, the Committee was informed that the Secretariat’s analysis 
+determined that this would be among the most costly and least effective approaches, 
+because it would entail: (a) a high redundancy of major, resource-intensive tasks, 
+such as testing and training; (b) the need to develop a far greater number of 
+interfaces with existing systems than in any other scenario; (c) the slowest 
+decommissioning of existing systems; (d) the longest overall duration; and (e) the 
+slowest time-to-benefit realization due to the longer period required for the 
+implementation of full integration. In addition, the Secretary-General determined 
+that this option was ill-suited to addressing the particular challenges in 
+peacekeeping in the short or even medium term. The “IPSAS first” and “by 
+function” options are based on a phased introduction of functionalities and are 
+discussed in paragraphs 85 and 86 of the Secretary-General’s report (see also table 3 
+of that report).  
+
+
+
+ A/64/7/Add.9
+ 
+
+23 09-60895 
+ 
+
+64. The Committee was informed that, in view of the absence of a viable option 
+for reducing the scope of the implementation of ERP, the Secretary-General had 
+examined alternative deployment scenarios, in which the complete ERP system, 
+with all functionalities, would be developed, and then deployed in stages to the 
+entire Organization. The Secretary-General proposes, the “Pilot first” deployment 
+option, which as its name suggests, consists of a small-scale initial deployment of 
+the complete ERP system in a fully operational but contained environment, followed 
+by deployment to the rest of the Organization in two phases, after the system is 
+tested and stabilized. The arguments in favour of this option are presented in 
+paragraph 84 of the report. The Secretary-General concludes that costs will be best 
+contained and risks mitigated if the complete system is first designed and built, and 
+then deployed Secretariat-wide in an incremental approach. This recommended 
+option projects implementation of the pilot in the fourth quarter of 2011 and 
+Organization-wide deployment by the third quarter of 2013. The Committee notes 
+that the timeline of the IPSAS implementation project will have to be adjusted to 
+synchronize with the revised timetable for the deployment of ERP.  
+
+65. The Committee notes the explanations and analysis provided to it, upon 
+enquiry, concerning the cost drivers and the factors which determine the level of 
+cost-effectiveness and risk-aversion of each option. In the Committee’s view, the 
+Secretary-General could have provided more detailed information in his report on 
+his analysis of the various alternatives, as well as the costs and benefits of each 
+option. 
+ 
+ 
+
+ D. Linkages to other systems 
+ 
+ 
+
+66. In paragraph 63 of his report, the Secretary-General provides information on a 
+number of related initiatives being implemented concurrently with ERP within the 
+United Nations Secretariat and missions, including: IPSAS implementation, the 
+talent management system (recruitment and staffing), Lean Six Sigma (non-systems 
+process improvement), enterprise content management and customer relationship 
+management, as well as a fuel management system and a rations management 
+system for peacekeeping functions. The Committee notes that the ERP team will 
+continue to work closely with the various project teams throughout the design phase 
+and beyond to avoid duplication of effort and ensure harmonization of processes and 
+platforms.  
+
+67. The Committee requested additional information on the main functions within 
+each of the four major functional areas of enterprise resource planning (finance and 
+budget; human resources; supply chain; central support services), with an indication 
+of those that are to be linked to other information systems and those that are to be 
+provided through systems other than ERP. That additional information is provided in 
+annex V to the present report. The Committee notes from the additional information 
+that the definitive list of the functions to be provided by ERP could only be 
+confirmed after the design phase is completed. 
+
+68. The Committee emphasizes the need to ensure that the core functions for the 
+management of financial, human and physical resources are integrated into the ERP 
+system. The use of different systems to provide such core functions will generate 
+additional costs for the integration of those systems and the development of 
+customized interfaces to exchange and merge data between systems, which will then 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 24 
+ 
+
+need to be updated and aligned as the systems evolve (see also paras. 62-63 above). 
+The Committee points out that the lack of integrated, coherent information is a 
+major weakness of the current information and communications technology 
+environment, which impedes the Organization’s ability to manage its resources 
+effectively and Member States’ ability to make informed decisions, and which was 
+also a key factor leading to the decision to replace the Integrated Management 
+Information System (IMIS). Furthermore, systems and processes for functions such 
+as staff selection and budget preparation are heavily manual and time-consuming, 
+and present major inefficiencies in terms of the time and the number of staff 
+required to accomplish those functions (see A/63/487, para. 46; A/64/7, paras. 44 
+and 49). 
+
+69. The Committee recommends that the ERP Steering Committee identify 
+and review all systems providing core functions for the management of human, 
+financial and physical resources, and that the implementation of such systems 
+be closely coordinated with the ERP project team, with a view to ensuring that 
+the current fragmentation of systems is not perpetuated. Furthermore, future 
+ERP annual progress reports should include information on interfaces and 
+linkages with other systems. The Committee also requests that a comprehensive 
+picture be provided in the context of the annual progress report, of the business 
+process improvements and benefits expected through the implementation of 
+systems for the management of human, financial and physical resources. 
+ 
+ 
+
+ E. Project status  
+ 
+ 
+
+70. Information on the status of the project and on the activities completed thus far 
+is provided in paragraphs 56 to 62 of the report. The Committee notes that the 
+preparatory phase has been completed and that several key outputs were delivered in 
+July 2009, including finalized documentation on current processes, an inventory of 
+existing systems, the outcome of high-level design workshops involving over 220 
+subject matter experts from key offices, duty stations and missions, costing models 
+for different implementation scenarios, a comparative analysis of implementation 
+strategies and scenarios, and a comprehensive business case.  
+
+71. The design phase commenced in May 2009 and is ongoing. The Secretary-
+General states that the project is running behind schedule owing to insufficient 
+funding. It is expected that the design phase will be completed in the second quarter 
+of 2010, rather than in the early part of that year, as planned. Upon enquiry, the 
+Committee was provided with details on the status of expenditures related to the 
+sum of $20 million provided by the General Assembly for the ERP project for the 
+biennium 2008-2009 (see resolution 63/262). As of the end of September 2009, 
+expenditures totalled some $15 million, including $7 million for contractual services 
+and $4.3 million for other staff costs, as shown in table 1. 
+ 
+
+
+
+ A/64/7/Add.9
+ 
+
+25 09-60895 
+ 
+
+  Table 1 
+ERP project expenditures 
+ 
+
+Object of expenditure As of 30/09/2009 
+
+Other staff costs 4 271 394 
+
+Consultants 529 010 
+
+Travel 714 707 
+
+Contractual services 6 999 352 
+
+General operating expenses 1 738 353 
+
+Supplies and materials 4 730 
+
+Furniture and equipment 745 916 
+
+ Total 15 003 462 
+ 
+ 
+
+72. The Secretary-General’s report does not provide a timeline for the ERP 
+project. Upon enquiry, the Committee was provided with figure 1 below, showing 
+the time frame for the completion of the four phases of the project over the period 
+2007-2013. The Committee considers that an overview of the functional and 
+geographical scope of the project, as well as a more detailed timeline, should be 
+provided in future progress reports, showing, for each of the four phases of the 
+project, the key activities, milestones and project deliverables, as well as the 
+dependencies between the major activities. In order to bring some clarity to the 
+accomplishments of the preparatory phase, information on the activities 
+already completed should also be included in the timeline. The Committee 
+considers that an overview of the level of resources required for each key 
+activity should also be provided, such as the number of work months of project 
+staff, subject matter experts and consultants, and other costs, such as for travel. 
+In view of the fact that the Secretary-General will be reporting to the General 
+Assembly on an annual basis over the duration of this multi-year project, it is 
+important to establish a baseline for the project at the outset, which can then be 
+updated in future annual progress reports, so as to provide a clear picture of 
+the project plan, the progress made, outstanding activities and the utilization of 
+resources. 
+ 
+
+  Figure 1 
+ERP project time frame 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ F. Overall project budget  
+ 
+ 
+
+73. The overall resource requirements for the implementation of the ERP project 
+in the Secretariat over a five-year period are estimated at $315,792,300 at current 
+
+Approved by the General Assembly in resolution 63/262 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 26 
+ 
+
+market rates, without provision for contingency. The financing of the ERP project is 
+to be shared among the main sources of funds on the basis of the formula endorsed 
+by the General Assembly in its resolution 63/262 (sect. II, para. 23) and applied in 
+2008-2009, as follows: 15 per cent from the regular budget, 62 per cent from the 
+peacekeeping support account and 23 per cent from the special accounts for 
+programme support costs.3 An indicative summary of net resource requirements for 
+ERP by source of funds is provided in table 2. 
+ 
+
+  Table 2 
+Summary of net resource requirements by source of funds 
+(Thousands of United States dollars) 
+
+Source of funds 2008-2009 2010-2011
+To end of project 
+
+2013 Total 
+
+Regular budget  5 110.0 24 192.2 18 066.6 47 368.8 
+
+Peacekeeping support accounta 7 050.0 114 065.9 74 675.3 195 791.2 
+
+Extrabudgetary 7 840.0 37 090.1 27 702.1 72 632.2 
+
+ Total 20 000.0 175 348.2 120 444.1 315 792.3 
+ 
+
+ a For 2008-2009, the amount relates to the peacekeeping period from 1 July 2008 to 30 June 
+2009. 
+
+ 
+ 
+
+74. Table 3 provides a breakdown of the requirements by object of expenditure. A 
+further breakdown of the resource requirements by object of expenditure under each 
+source of funds is provided in annex VI. 
+ 
+
+  Table 3 
+Summary of net resource requirements by object of expenditure 
+(Thousands of United States dollars) 
+
+Object of expenditure 2008-2009 2010-2011
+2012 to end of 
+
+project Grand total 
+
+Posts — 22 729.9 28 312.1 51 042.0 
+
+Other staff costs 8 893.3 19 440.0 19 439.0 47 773.3 
+
+Consultants and experts — 3 331.2 3 331.2 6 662.4 
+
+Travel of staff 1 071.2 7 446.8 16 064.7 24 582.7 
+
+Contractual services 7 820.8 89 098.6 31 585.6 128 505.0 
+
+General operating expenses 1 285.0 11 625.7 7 681.4 20 592.1 
+
+Supplies and materials 23.5 146.0 146.0 315.5 
+
+Furniture and equipment 906.2 21 530.0 13 883.1 36 319.3 
+
+ Total  20 000.0 175 348.2 120 444.1 315 792.3 
+ 
+ 
+
+__________________ 
+
+ 3  Overhead income generated by expenditures relating to technical cooperation, general trust 
+funds and reimbursement for administrative support provided by the Organization to 
+extrabudgetary entities, such as UNDP and UNICEF, is credited to the special accounts for 
+programme support costs. 
+
+
+
+ A/64/7/Add.9
+ 
+
+27 09-60895 
+ 
+
+75. The Committee was informed that the resource distribution by object of 
+expenditure under each source of funds, as shown in table 2 above, reflected the 
+indicative distribution on the basis of proportionate share of the total. The General 
+Assembly authorized the Secretary-General to establish a multi-year special account 
+to record income and expenditures for this project (see resolution 63/262, sect. II, 
+para. 25). Under this arrangement, the resources from each funding source will be 
+sought under a single object of expenditure, “Grants and contributions”, and 
+accordingly reported as such to the General Assembly. The resources approved by 
+the General Assembly from the respective funding source will be managed as a 
+whole in a separate consolidated account where detailed expenditures by object of 
+expenditure will be maintained. Under the regular budget, the resources for ERP are 
+reflected in the form of a lump-sum provision under grants and contributions in the 
+programme support component under section 28 A, Office of the Under-Secretary-
+General for Management, of the proposed programme budget.  
+
+76. The Committee notes that the Organization has concluded contracts for 
+strategic advisory services and the design phase, and that negotiations for the ERP 
+software are ongoing (see A/64/380, para. 71). Requests for proposals for 
+integration services for the subsequent phases of the project are under preparation. 
+The overall estimate for the project has therefore not been established on the basis 
+of firm contract costs for software and all system integration services, but represents 
+an estimate of the cost of the implementation and deployment of the ERP system, 
+taking into account current market pricing, the ERP project costs of other United 
+Nations organizations and advice sought from industry sources. The Committee 
+notes that costs for software integration services and customization will be known 
+only once the business process re-engineering phase has been completed and 
+specific customization requirements have been identified and formalized. 
+
+77. An explanation of the changes in costs as compared to those in document 
+A/62/510/Rev.1 is provided in paragraphs 105 to 108 of the Secretary-General’s 
+report. He indicates that the overall estimate now includes a provision for start-up 
+operational costs that were not included in the estimate provided previously in 
+document A/62/510/Rev.1 because they are strictly operating costs and not project 
+costs. The Committee was informed that the start-up costs are related to the 
+establishment of an operational environment for installation of the ERP software, to 
+be used by the project team during the design, build and deployment phases for 
+configuration, testing and training purposes, and will also serve as the platform for 
+the deployment of the system to the pilot departments. Upon enquiry, the Committee 
+was provided with the breakdown of the start-up operational costs, as set out in 
+table 4. 
+ 
+
+  Table 4 
+ERP start-up operational costs  
+ 
+
+Description 2010-2011 2012-2013 Total 
+
+Production, hardware, software and 
+maintenance 10 679 700  6 459 300 17 139 000 
+
+Posts and other staff costs  2 438 900 10 555 400 12 994 300 
+
+Travel for support  4 620 000  4 046 700  8 666 700 
+
+ Total 17 738 600 21 061 400 38 800 000 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 28 
+ 
+
+78. The Secretary-General indicates that, taking into account lessons learned from 
+other entities having implemented ERP systems, as well as from the detailed 
+analysis carried out during the design phase, the estimated costs for the project have 
+been adjusted with respect to the resource requirements of the ERP project team, the 
+subject matter experts, training and customization of the ERP software. 
+ 
+
+  ERP project team 
+ 
+
+79. The Secretary-General proposes to develop in-house and institutional 
+knowledge and capacity to support the system once it is launched, as well as to 
+reduce the Organization’s dependence on high-cost consultants. He indicates that 
+since the previous report, a comprehensive and in-depth analysis of the project 
+scope and planning was conducted by the ERP team and the specialist systems 
+integrator, which showed that the core ERP project team of 44 positions was 
+insufficient to address the requirements of the ERP project activity, taking into 
+account the complexity of the work to be accomplished, as well as timing and 
+logistical considerations, and furthermore that the lack of adequate staffing would 
+expose the project to unnecessary risks. Without additional resources, cumulative 
+knowledge would become vested with external consultants and would be lost to the 
+United Nations once the project is concluded. Moreover, it would be neither 
+efficient nor effective to entrust responsibility for implementation in functional 
+areas to external specialists who do not have a good knowledge of the United 
+Nations. The Committee recognizes the need to develop in-house expertise and 
+knowledge of the ERP system. 
+
+80. In view of the above, the Secretary-General proposes to strengthen the ERP 
+project team with an additional 36 temporary posts. The proposed staffing of the 
+project team is summarized in table 5. A revised organigramme of the ERP project is 
+provided in annex III to the Secretary-General’s report. 
+ 
+
+  Table 5 
+Post requirements 
+ 
+
+Grade 2008-2009 2010-2011 2010-2013 
+
+Professional category and above  
+
+D-2 1 — 1 
+
+D-1 6 — 6 
+
+P-5 12 5 17 
+
+P-4/3 18 25 43 
+
+P-2/1 — 1 1 
+
+ Subtotal 37 31 68 
+
+General Service category  
+
+Principal level — 1 1 
+
+Other level 7 4 11 
+
+ Subtotal 7 — — 
+
+ Total 44 36 80 
+ 
+ 
+
+
+
+ A/64/7/Add.9
+ 
+
+29 09-60895 
+ 
+
+81. The full budget amount of $51,042,000 ($58,387,600 gross) under posts would 
+provide for the establishment and continuation up to the end of the project of a 
+dedicated core project team consisting of 80 temporary posts: 44 temporary posts 
+converted from current general temporary assistance resources (1 D-2, 6 D-1, 
+12 P-5, 13 P-4, 5 P-3 and 7 General Service (Other level)) and 36 new temporary 
+posts being proposed to be established from the biennium 2010-2011 (5 P-5, 22 P-4, 
+3 P-3, 1 P-2/1, 1 General Service (Principal level), 4 General Service (Other level) 
+(see also para. 93 below). 
+ 
+
+  Subject matter experts  
+ 
+
+82. The Committee was informed that subject matter experts are required to work 
+on a temporary basis with the core project team and the systems integrators to assist 
+in system design, data conversion, interface development, report generation and 
+testing of ERP. In addition, the subject matter experts will have a key role to play in 
+training and supporting users during deployment and the post-deployment period. 
+The Secretary-General emphasizes that the active participation of subject matter 
+experts, who have an in-depth knowledge of their functional areas and the 
+requirements of their departments/offices, is essential to ensure that ERP covers the 
+required functionalities and that it is accepted by the business owners and the 
+Organization. In view of the fact that the tasks to be performed are both complex 
+and labour intensive, additional resources are requested to allow business owners 
+from duty stations worldwide to employ limited replacements while their subject 
+matter experts work with the ERP team during the build and implementation phases 
+of the ERP project. The Committee was informed that the positions of the subject 
+matter experts would be filled on a temporary basis if their continuous absence from 
+their regular functions exceeded four weeks, and that without such a provision, there 
+was a risk that managers would refuse to release subject matter experts. 
+
+83. It is estimated that 66 subject matter experts would be required during the 
+various phases of the project for each of the following five activities: review and 
+validation of training materials and desk procedures; integration testing; user 
+acceptance testing; training of trainers; and training of users. The full budget 
+amount of $38,880,000 under other staff costs would provide for general temporary 
+assistance from 2010 to the end of the project for 66 subject matter experts for 3,390 
+months at an average cost of $11,470 per month, estimated on the basis of the 
+average of a P-4 and General Service (Other level) net base salary using the 2010 
+standard staff costs. 
+
+84. The Committee recognizes the importance of ensuring the participation of 
+the Organization’s most knowledgeable staff in the design and implementation 
+of the Organization’s new operating model and of developing in-house expertise 
+and knowledge of ERP in order to support the system after deployment. 
+ 
+
+  Training/change management  
+ 
+
+85. The Secretary-General indicates that the experience of other entities that have 
+implemented ERP systems shows that the train-the-trainer approach is not as 
+effective as instructor-led training. He states that, while the train-the-trainer 
+approach may require lower resources initially, it has been shown to be more costly 
+in the longer term, since it entails additional support costs and retraining. The full 
+budget amount of $24,582,700 under travel of staff includes a provision of 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 30 
+ 
+
+$11,163,900 for pilot deployment and $13,418,800 for instructor-led training on-site 
+at a significant number of locations. Upon enquiry, the Committee was informed that 
+the pilot deployment sites (an Economic Commission and a peacekeeping operation) 
+would require considerable “hands-on” support and attention from the project team 
+members and subject matter experts, both before and after the transition to ERP and, 
+furthermore, that additional support would be required to support and stabilize the 
+system on-site. The Committee emphasizes that every effort should be made to 
+ensure the cost-effectiveness of the training strategy and training methods 
+developed. It further requests the Secretary-General to ensure close 
+coordination between the ERP and IPSAS project teams, with a view to seeking 
+synergies and coordinating the development and delivery of training modules. 
+The Committee also stresses the need to keep the ERP training plan under 
+review and to adjust requirements in the light of experience and lessons learned, 
+so as to ensure the most efficient utilization of resources. Close attention should 
+also be paid to ensuring that the ERP training is developed in a manner that is 
+consistent with the training programme of the Secretariat.  
+ 
+
+  Customization 
+ 
+
+86. In paragraph 117 of his report, the Secretary-General indicates that no 
+customizations to the core ERP system have yet been identified. The Committee 
+recalls General Assembly resolution 63/262 (sect. II, para. 12), in which the 
+Secretary-General was requested to limit customization of the ERP software to 
+the extent feasible in order to ensure cost-effectiveness as well as flexibility in 
+upgrading to new versions of the software, and to report on any necessary 
+customization and its budgetary implications, with full justification of rationale 
+and cost. 
+ 
+
+  Future operating costs 
+ 
+
+87. The Secretary-General discusses future operating costs in paragraphs 112 to 
+114 of his report, but does not provide any estimates. He states that, pending the 
+completion of the design phase and negotiations for the acquisition of ERP software, 
+it is not possible to forecast all future operating costs with reasonable accuracy. He 
+expects to provide those forecasts at the sixty-fifth session of the General Assembly. 
+The Committee considers that an estimate of future operating costs is an essential 
+input for informed decision-making on the Secretary-General’s proposals for the 
+implementation of ERP. While the Committee recognizes that the Secretary-General 
+is not in a position to provide an accurate estimate, it considers that he should be 
+able to provide a range of future operating costs, taking into account the experience 
+of other entities that have implemented ERP systems, as well as estimates of the cost 
+of the elements enumerated in paragraph 112 of his report. Accordingly, the 
+Committee requests that an estimate of a range of future operating costs be 
+provided to the General Assembly at the time of its consideration of this item.  
+ 
+
+  Global benchmarks for ERP implementation costs  
+ 
+
+88. Upon enquiry, the Committee was informed that global benchmarks for ERP 
+costs4 ranged widely, between $5,000 and $20,000 per user, depending on factors 
+
+__________________ 
+
+ 4  On the basis of combined metrics from PricewaterhouseCoopers, Deloitte, Forrester, Aberdeen 
+Group, Panorama Consulting Group, META Group and CTS. 
+
+
+
+ A/64/7/Add.9
+ 
+
+31 09-60895 
+ 
+
+such as organizational readiness, current process quality and integration, current 
+integration of systems, geographical complexity and functional complexity. The 
+costs took into account the composition of the users of the system, assuming a blend 
+of high-intensity users such as clerical staff, medium-intensity users such as 
+managers and self-service users (the majority of staff, retrieving/updating their own 
+information) and information technology staff. The lower end of the range applied 
+to relatively simple ERP implementations in environments in which little or no 
+re-engineering of processes was required, the existing processes were already 
+running at full efficiency, the systems were already integrated, there was little 
+complexity in conversion from the old to the new system, there was high 
+organizational readiness and a single or small number of geographical areas were to 
+be considered. The higher end of the range applied to the most challenging 
+implementations, with low readiness and a high level of diversity and complexity.  
+
+89. The Secretary-General indicated that the United Nations project was 
+considered to be at an above-average level of complexity with a medium to good 
+level of readiness, to which a benchmark figure of between $10,000 and $12,000 per 
+user would be applicable, with some 43,000 users worldwide. Accordingly, the 
+expected benchmark cost of ERP would range between $430 million and 
+$516 million, which corresponds closely with the figures given on the deployment 
+options tables in the Secretary-General’s report (A/64/380, tables 3 and 4). The 
+Committee was informed that this further demonstrates the cost-effectiveness of the 
+“pilot first” option, which would represent a cost of approximately $7,400 per user. 
+ 
+
+  Maintenance of legacy systems 
+ 
+
+90. In its report on the proposed programme budget for 2010-2011, the Committee 
+had recommended that further improvements to the systems that are to be replaced 
+by ERP, such as IMIS, should be kept to the required minimum. Upon enquiry, the 
+Committee was informed that requests for changes to legacy systems were 
+monitored by the Office of Information and Communications Technology and that, 
+in principle, only enhancements relating to statutory requirements, for example the 
+recently mandated change to the human resources contractual policy, were 
+approved. The Committee was further informed that staff supporting legacy systems 
+would be required to contribute their experience and skills to the ERP project for the 
+accomplishment of activities such as data cleansing, data conversion, and interface 
+analysis and development, and that their degree of involvement in the ERP project 
+was largely dependent on the reduction or elimination of requests for enhancing 
+legacy systems. The Committee reiterates its recommendation that such 
+enhancements be kept to the required minimum. It also emphasizes the need to 
+involve staff with knowledge of existing systems in the ERP project, so as to 
+further develop in-house expertise and capacity to support the ERP system. 
+ 
+ 
+
+ G. Resource requirements for 2010-2011 
+ 
+ 
+
+91. The overall requirements for the ERP project for the biennium 2010-2011 
+amount to $175,348,200, comprising $24,192,200 funded from the regular budget, 
+$114,065,900 from the peacekeeping support account and $37,090,100 from 
+extrabudgetary funds.  
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 32 
+ 
+
+92. The Committee recalls that, in the proposed programme budget for the 
+biennium 2010-2011 for section 28 A, Office of the Under-Secretary-General for 
+Management (A/64/6 (Sect. 28A)), the Secretary-General proposed a provision of 
+$11,775,900 under grants and contributions to cover the regular budget share of the 
+2010-2011 estimated total costs of the ERP project amounting to $78,506,000, based 
+on the cost-sharing formula detailed in document A/62/510/Rev.1 and endorsed by 
+the General Assembly in its resolution 63/262. In that report, the Secretary-General 
+also indicated that preliminary estimates of the total gross budget of the project for 
+the biennium 2010-2011 might amount to approximately $186 million, with the 
+regular budget share amounting to $28 million, or some $16.2 million in addition to 
+the amount estimated in that document.  
+ 
+
+  Posts 
+ 
+
+93. A provision of $22,729,900 is proposed under posts for the ERP project team, 
+including the conversion of general temporary assistance positions to 44 temporary 
+posts and the establishment of 36 new temporary posts. The Committee was 
+informed that the 44 posts proposed for conversion from general temporary 
+assistance to temporary posts are costed at the standard continuing rate for posts (a 
+6.5 per cent vacancy factor for Professional posts and a 3.5 per cent vacancy factor 
+for General Service posts), whereas the 36 additional temporary posts proposed for 
+establishment are costed at the standard rate for new posts (a 50 per cent vacancy 
+factor for Professional posts and a 35 per cent vacancy factor for General Service 
+posts) (see also para. 81 above). 
+
+94. The 36 new temporary posts (5 P-5, 22 P-4, 3 P-3, 1 P-2/1, 1 General Service 
+(Principal level), 4 General Service (Other level)) are required for project 
+management, organizational change management, technology management and the 
+ERP functional teams, as follows:  
+
+ (a) Project management. In addition to the three general temporary 
+assistance positions proposed for conversion to temporary posts for administrative 
+management (1 P-5 Administrative Officer, 1 P-4 Contracts Officer and 1 General 
+Service (Other level) Administrative Assistant), four additional temporary posts are 
+proposed in the areas of budget, finance, human resources, general administration 
+and procurement, as follows: 
+
+ • 2 P-4 posts 
+
+ • 2 General Service (Other level) posts 
+
+ (b) Organizational change management. In addition to the three existing 
+general temporary assistance positions now proposed as temporary posts for change 
+management (1 P-5 Change Management Officer, 1 P-3 Communications manager 
+and 1 General Service (Other level) Change Management Expert), three new 
+temporary posts are requested to address expanded staff training requirements as a 
+result of the decision to adopt instructor-led training, which has increased the 
+number of training classes and workshops that are required to be organized:  
+
+ • 1 P-3 for training management 
+
+ • 1 General Service (Principal level) for training coordination 
+
+ • 1 General Service (Other level) for events planning 
+
+
+
+ A/64/7/Add.9
+ 
+
+33 09-60895 
+ 
+
+ (c) Technology management. Technology management encompasses 
+functions for the definition of the enterprise-wide information and communications 
+architecture, setting technical standards, projecting enterprise-wide ERP needs, 
+evaluating the suitability of infrastructure operations and identifying gaps between 
+existing infrastructure and ERP requirements. It is proposed to strengthen internal 
+technology management capacity and to increase the number of internal specialists 
+in ERP, who would gain cumulative knowledge that would be retained by the United 
+Nations and also reduce the reliance placed on outsourced services. In addition to 
+two general temporary assistance positions proposed for conversion to temporary 
+posts (1 D-1 to oversee the technology management function and 1 P-5 Technology 
+Infrastructure Specialist), a further 16 temporary posts (4 P-5 and 12 P-4) are 
+proposed as follows: 
+
+ • 4 P-5 Technical Architect posts for: solutions; infrastructure; business 
+intelligence/data conversion; and user interface, portal and mobile technology 
+
+ • 5 P-4 Technical Architect posts to serve as liaison for each functional area 
+
+ • 7 P-4 Architect posts for master data management, security, reporting, portal 
+solutions and workflow, mobile technology and forms, and web 2.0 solutions 
+
+ (d) Functional teams. In addition to the 32 general temporary assistance 
+positions proposed for conversion to temporary posts for the four functional teams, 
+comprising eight posts for each team, 12 new temporary posts are proposed as 
+follows:  
+
+ • Finance and Budget Team. 4 P-4 posts for the management of the strategic 
+framework life cycle, assets accounting, and accounts payable and receivable 
+
+ • Supply Chain Team. A dedicated 1 P-5 for planning and demand forecasting 
+because the supply chain is new to the Organization and 1 P-4 for receipt, 
+warehousing, transportation and distribution of supply 
+
+ • Human Resources Team. 1 P-2 for coordination with the Talent Management 
+Team concerning on-boarding, position management, performance 
+management and learning management, and the new pension system, and 
+1 General Service (Other level) for information management and document 
+support assistance to the team 
+
+ • Central Support Services. 1 P-5 for the design of the Organization’s strategic 
+framework and for project management, 1 P-4 for planning and trust and grant 
+management, 1 P-4 for information management and 1 P-3 as a technical 
+integration specialist 
+
+The Committee recommends that the Secretary-General be requested to 
+provide, in his next progress report, a plan for the downsizing of the project 
+team upon completion of the ERP project and its implementation activities.  
+ 
+
+  Other staff costs 
+ 
+
+95. An amount of $19,440,000 is proposed to provide for 1,695 work months of 
+temporary assistance at an average cost of $11,470 a month, related to the cost of 
+the temporary filling of positions of subject matter experts while they are assigned 
+to the ERP project. The subject matter experts are required in the design, build and 
+implementation phases of the project to participate and provide assistance in a 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 34 
+ 
+
+variety of activities, including reviewing and validating training materials and desk 
+procedures, performing integration testing, conducting user acceptance testing, 
+training users and providing support during deployment.  
+ 
+
+  Consultants  
+ 
+
+96. An amount of $3,331,200, comprising fees ($3,196,800) and travel costs 
+($134,400), is proposed for 288 work months of specialized expertise at a cost of 
+$11,100 a month and a one-time travel cost of $11,000 for each of 12 consultants. 
+The provision would provide for specialized expertise not available in the 
+Organization, outside the scope of the systems integration contract, in the area of 
+change management, in technical areas, including mobile technology, report design 
+and implementation, data warehousing and business intelligence, and in functional 
+areas, including travel, central services, field operations and logistics, payroll, 
+budgeting and planning, as well as management consultants to cross-check the 
+project management services provided by the main contractor/systems integrator.  
+ 
+
+  Travel of staff 
+ 
+
+97. The proposed resource requirements in 2010-2011 of $7,446,800 would enable 
+the ERP team to undertake travel assignments to support pilot project deployment 
+($4,620,000), conduct change management, technical and Project Management 
+Office missions ($490,000) and conduct a training workshop ($1,868,800). 
+ 
+
+  Contractual services 
+ 
+
+98. A provision of $89,098,600 is proposed for contractual services for systems 
+integration ($86,396,900); legal expertise ($266,700) to assist during the negotiation 
+of contractual terms and conditions of the licensing and maintenance agreement for 
+the software and systems integration services; technical research and independent 
+advice ($168,600) to evaluate recommendations provided by the systems integration 
+service provider; strategic consulting on the overall project management 
+($1,771,200); training services ($434,400) related to the initial assessment of 
+training needs, including the setting up of training standards, model course content 
+and timelines, as well as the delivery of training to end users; and training facilities 
+($60,800) in locations where these are not available. 
+ 
+
+  General operating expenses 
+ 
+
+99. The estimated requirement of $11,625,700 is proposed for operating costs 
+related to approximately 218 persons (80 core staff, 66 subject matter experts, 
+12 consultants and 60 staff of the systems integration contractor), as appropriate, 
+including (a) rental of premises ($6,234,800) and alterations to premises 
+($3,944,300); (b) communications ($921,000); and (c) maintenance of office 
+automation equipment ($525,600) in connection with the 80 core posts and subject 
+matter experts.  
+ 
+
+  Supplies and materials  
+ 
+
+100. An estimated requirement of $146,000, based on standard costs, is proposed to 
+provide for stationery and office supplies in support of the project.  
+ 
+
+
+
+ A/64/7/Add.9
+ 
+
+35 09-60895 
+ 
+
+  Furniture and equipment  
+ 
+
+101. The amount of $21,530,000 is proposed to cover the costs related to the 
+non-recurrent acquisition of office furniture ($1,670,000) and office automation 
+equipment ($147,000) for the proposed 36 new temporary posts. Further, resources 
+are required for the acquisition of computer hardware to build the development 
+platform ($4,000,000), and for software licences and core software customization 
+($15,713,000). 
+ 
+ 
+
+ H. Conclusions and recommendations 
+ 
+ 
+
+102. While recommending acceptance of the Secretary-General’s proposals, the 
+Committee notes that a significant portion is based on estimates, since contracts 
+for the systems integration services have not yet been concluded. The 
+Committee recommends that the Secretary-General be requested to make every 
+effort to reduce the overall costs of the project and to exercise prudence in the 
+utilization of resources. The Secretary-General should also be requested to 
+provide, in future annual progress reports, full details on the efforts made to 
+contain costs, as well as project expenditures incurred and justifications for the 
+utilization of resources (see para. 72 above).  
+
+103. In paragraph 130 of his report (A/64/380), the Secretary-General sets out 
+a series of requests to the General Assembly. The Committee’s 
+recommendations are as follows: 
+
+ (a) The Committee recommends that the General Assembly note the 
+proposals and approach described in the Secretary-General’s report for the 
+replacement of the IMIS system and related ancillary systems in all offices of 
+the United Nations Secretariat, including offices away from Headquarters, 
+regional commissions, peacekeeping and political missions, and other field 
+missions; 
+
+ (b) The Committee recommends that the General Assembly note the 
+overall cost of the ERP project to be completed during the period 2008-2013, at 
+a total project budget estimate of $323,137,900 gross ($315,792,300 net) (at 
+current rates); 
+ 
+
+  Regular budget 
+ 
+
+ (c) The Committee recommends that the General Assembly approve a 
+gross amount of $24,652,900 under grants and contributions (a net amount of 
+$24,192,200) inclusive of the amount of $11,775,900 already proposed in 
+document A/64/6 (Sect. 28) under section 28 A, Office of the Under-Secretary-
+General for Management, of the proposed programme budget for the biennium 
+2010-2011;  
+
+ (d) The Committee recommends that the General Assembly note that the 
+future remaining requirements in the estimated amount of $18,667,600 gross 
+($18,066,600 net) for the implementation of ERP would be considered in the 
+context of the proposed programme budget for the relevant biennium; 
+ 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 36 
+ 
+
+  Support account for peacekeeping operations 
+ 
+
+ (e) The Committee recommends that the General Assembly approve a 
+total amount of $29,059,500 gross ($28,516,500 net) to be financed from the 
+support account for peacekeeping operations for the period from 1 July 2009 to 
+30 June 2010 to meet the requirements of ERP as contained in the present 
+report; 
+
+ (f) The Committee recommends that the General Assembly note that the 
+future remaining requirements in the estimated amount of $87,178,400 gross 
+($85,549,400 net) will be included in subsequent proposed support account 
+requirements for the financial periods from 1 July 2010 until December 2011;  
+
+ (g) The Committee recommends that the General Assembly note that the 
+future remaining requirements in the estimated amount of $77,159,500 gross 
+($74,675,300 net) will be included in subsequent proposed support account 
+requirements for the financial periods until 2013; 
+ 
+
+  Extrabudgetary resources 
+ 
+
+ (h) The Committee recommends that the General Assembly note that an 
+estimated amount of $72,632,200 of the total ERP project cost would be 
+financed from extrabudgetary resources. 
+
+ 
+
+
+
+ A/64/7/Add.9
+ 
+
+37 09-60895 
+ 
+
+Annex I 
+ 
+
+  Update on the status of implementation of the information 
+and communications technology management framework 
+and changes to the Office of Information and 
+Communications Technology governance structures since 
+the submission of document A/62/793 
+ 
+ 
+
+1. The information and communications technology management framework 
+presented in document A/62/793 was simplified in response to concerns expressed 
+by the Advisory Committee on Administrative and Budgetary Questions and the 
+Fifth Committee, primarily through the elimination of the high-level programme 
+steering committees. The main elements of the modified information and 
+communications technology management framework for the Secretariat are as 
+follows: (a) the Information and Communications Technology Executive 
+Committee; (b) the Information and Communications Technology Advisory Group; 
+(c) information and communications technology programme working groups; and 
+(d) local information and communications technology committees.  
+
+2. The roles and responsibilities of these bodies, as well as their relationships 
+among each other and with the Office of Information and Communications 
+Technology are described in the paragraphs below.  
+ 
+
+  Information and communications technology management framework for the 
+United Nations Secretariat 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+  Information and Communications Technology Executive Committee 
+ 
+
+3. The Information and Communications Technology Executive Committee, the 
+highest-level decision-making body on major information and communications 
+technology matters, decides overall information and communications technology 
+strategy and priorities. The committee is chaired by the Deputy Secretary-General 
+
+Advisory 
+Group 
+
+Chief Information 
+Technology Officer Client Services Unit 
+
+Project Management 
+Office 
+
+Local 
+information 
+and 
+communi-
+cations 
+technology 
+committes 
+
+Working Group on 
+Knowledge Management 
+
+Working Group on 
+Resource Management 
+
+Working Group on 
+Information Management 
+
+Deputy Secretary-General 
+
+Executive Committee
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 38 
+ 
+
+and comprises senior managers at the Under-Secretary-General level from 
+substantive and support areas,a as well as the Chief Information Technology Officer 
+as an ex officio member. The committee meets on a quarterly basis to review 
+Information and Communications Technology strategy and programme performance 
+and to determine the Information and Communications Technology investment 
+portfolio as needed. The Chief Information Technology Officer, however, reports 
+directly to the Deputy Secretary-General on operational Information and 
+Communications Technology matters.  
+ 
+
+  Information and Communications Technology Advisory Group 
+ 
+
+4. In order to provide appropriate advice and inputs for information and 
+communications technology investments, a Secretariat-wide Information and 
+Communications Technology Advisory Group is established and made up of D-1/ 
+D-2 level staff representing each department and office. The Advisory Group 
+provides feedback to the Chief Information Technology Officer on information and 
+communications technology programmes and services via the Client Services Unit 
+of the Office of Information and Communications Technology. Members of the 
+Advisory Group will also receive periodic briefings from the Office of Information 
+and Communications Technology on major information and communications 
+technology matters. The Information and Communications Technology Advisory 
+Group may provide its views to the Information and Communications Technology 
+Executive Committee and the information and communications technology working 
+groups as needed. 
+ 
+
+  Information and Communications Technology Programme working groups 
+ 
+
+5. Information and Communications Technology Programme working groups 
+guide the three strategic programmes in knowledge management, resource 
+management and infrastructure management. The head of each corresponding 
+functional area within the Office of Information and Communications Technology 
+chairs each working group. Members represent senior technical experts within each 
+functional area from across the Secretariat. All major strategic programme 
+investments and projects, including major changes in scope and proposed spending 
+for ongoing initiatives, are subject to review by the working groups. The groups 
+provide portfolio and project recommendations to the Chief Information Technology 
+Officer via the Project Management Office of the Office of Information and 
+Communications Technology. 
+ 
+
+  Information and Communications Technology Programme Working Group on 
+Knowledge Management  
+ 
+
+6. The Information and Communications Technology Programme Working Group 
+on Knowledge Management provides strategic direction, reviews proposed 
+information and communications technology investments and monitors programme 
+and project status to ensure retention of institutional knowledge and to support 
+
+ 
+ 
+
+ a Department of Public Information, United Nations Office at Vienna/United Nations Office on 
+Drugs and Crime, Office for the Coordination of Humanitarian Affairs, Department of 
+Management, Department of Field Support, Office of Legal Affairs, United Nations Office at 
+Geneva, Department of Economic and Social Affairs, Department for General Assembly and 
+Conference Management, Department of Safety and Security, United Nations Office at Nairobi, 
+Economic and Social Commission for Asia and the Pacific. 
+
+
+
+ A/64/7/Add.9
+ 
+
+39 09-60895 
+ 
+
+organizational innovation. Its decision-making scope includes the entirety of 
+knowledge management activities in the Secretariat.  
+ 
+
+  Information and Communications Technology Programme Working Group on 
+Resource Management  
+ 
+
+7. The Information and Communications Technology Programme Working Group 
+on Resource Management provides strategic direction, reviews proposed 
+information and communications technology investments and monitors programme 
+and project status to ensure improvement in the Secretariat’s capabilities in 
+managing human, financial and other resources. Its decision-making scope includes 
+the entirety of resource management activities in the Secretariat.  
+ 
+
+  Information and Communications Technology Programme Working Group on 
+Infrastructure Management  
+ 
+
+8. The Information and Communications Technology Programme Working Group 
+on Infrastructure Management provides strategic direction, reviews proposed 
+information and communications technology investments and monitors programme 
+and project status to ensure improvement in the Secretariat’s information and 
+communications technology infrastructure. Its decision-making scope includes the 
+entirety of infrastructure management activities in the Secretariat. 
+ 
+
+  Local information and communications technology committees 
+ 
+
+9. Local information and communications technology committees should be 
+established in each department and office to ensure that local information and 
+communications technology priorities are aligned with the Secretariat-wide 
+information and communications technology strategy. They should ensure 
+appropriate usage of information and communications technology resources at the 
+department and office level by reviewing and approving project ideas, proposals and 
+major service requests prior to submission to the Office of Information and 
+Communications Technology. The head of each local information and 
+communications technology committee will participate in the Information and 
+Communications Technology Advisory Group. The client services officer assigned 
+to each department will also be able to provide input and will act as a liaison with 
+the Office of Information and Communications Technology. 
+
+ 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 40 
+ 
+
+Annex II 
+ 
+
+  Benefits expected from the implementation of enterprise 
+content management 
+ 
+ 
+
+Qualitative benefits from the implementation of enterprise content management are 
+expected in terms of increased organizational effectiveness in the Secretariat: 
+
+ • Enhanced accountability and transparency 
+
+ • Improved monitoring, control, auditing, tracking of information management 
+activities in delivering substantive programmes 
+
+ • More accurate and informed analysis, leading to better decision-making by 
+substantive and administrative groups, enabling the United Nations to better 
+achieve its primary goals 
+
+ • A greener Secretariat with the implementation of paperless processes 
+
+ • Improved knowledge-sharing among departments 
+
+ • Better sharing of information and collaboration with non-governmental 
+organizations and Member States 
+
+ • Increased training capabilities 
+
+ • Improved compliance with United Nations policies and standards (in the areas 
+of information security, electronic signatures, document classification and 
+metadata, and document retention and disposal policy) 
+
+Quantitative benefits from the implementation of enterprise content management 
+can be measured in terms of the following types of productivity gains and cost 
+savings:  
+
+ • 50 per cent reduction in searching, retrieving and filing 
+
+ • 25 per cent reduction in time spent photocopying 
+
+ • 75 per cent reduction in off-site storage and storage labour 
+
+ • 20 per cent reduction in workflow inefficiencies 
+
+ • 10 per cent reduction in on-site storage space 
+
+ • 25 per cent reduction in shipping costs and supplies 
+
+ • 25 per cent reduction in office machines and photocopying 
+
+On the basis of an assumption that an average of 5 per cent of staff time at all levels 
+is spent on searching for information, and that there is a user population of 10,000 
+Secretariat staff, the implementation of enterprise content management will result in 
+overall productivity gains equivalent to approximately 250 person-years.a  
+
+__________________ 
+
+ a  If only half of these were to result in the elimination of the equivalent number of posts, on the 
+basis of a $120,000 per year salary (at the P-3 level), the dollar amount saved would be 
+$15,000,000. 
+
+
+
+ A/64/7/Add.9
+ 
+
+41 09-60895 
+ 
+
+The industry benchmark on the implementation of enterprise content management 
+shows the following:b  
+
+ • Companies spend $20 in labour to file a document, $120 in labour to find a 
+misfiled document, $220 in labour to reproduce a lost documentc 
+
+ • 7.5 per cent of all documents get lost and 3 per cent of the remainder get 
+misfiled 
+
+ • Professionals spend 5 to 15 per cent of their time reading information, but 
+from 20d to 50 per cente looking for it 
+
+ • The average document is photocopied 19 times 
+
+ • Users send and receive an average of 133 e-mail messages per dayf  
+
+ • The cost of office space has increased by 19 per centg  
+
+ • The replacement of 200 filing cabinets with digital storage generated a 
+$300,000 savings in storage costsh 
+
+__________________ 
+
+ b  “10 Fast Facts About Document Management Value” 27 October 2008: http://aiim.typepad.com/ 
+aiim_blog/2008/10/10-fast-facts-a.html. 
+
+ c  John Mancini, AIIM, 2009, http://aiim.typepad.com/aiim_blog/2009/05/management-ecm-
+excuse-3-weve-got-to-pick-our-battles-.html. 
+
+ d  According to a January 2007 Accenture online survey conducted in large companies in the 
+United States and the United Kingdom, “managers spend up to three hours a day searching for 
+information, and more than 50 per cent of the information they obtain has no value to them”. 
+
+ e  http://andrewonedegree.wordpress.com/?s=ECM+Savings. 
+ f  Radicati Group. 
+ g  Office Space Across the World 2008. 
+ h  “Measuring ECM Success”, July 2009, at www.dpsmagazine.com/Content/ 
+
+ContentCT.asp?P=573. 
+
+
+
+ 
+ 
+
+A
+/64/7/A
+
+dd.9 
+ 
+
+42 
+09-60895
+
+Annex III 
+ 
+
+  Summary of resources approved 
+ 
+ 
+
+  ECM/CRM/DRBC 
+ 
+
+GA resolution Date Related reports 
+Total resources 
+
+approved by GA
+Regular budget 
+
+2008-2009
+Support account 
+
+2009/10 Extrabudgetary CMP Remarks 
+
+ECM      
+
+A/63/262 24/12/2008 A/62/510 Rev.1
+A/63/487 
+
+2 000 000 2 000 000 0 0 0 $2,000,000 approved from the regular 
+budget to be met from within the existing 
+appropriation for 2008-2009 
+
+A/63/287 30/06/2009 A/63/767 6 645 200 0 6 645 200 0 0 $6,645,200 under information technology 
+
+   136 400 136 400   $136,400 under general temporary 
+assistance for 1 P-3 
+
+ Total ECM   8 781 600 2 000 000 6 781 600 0 0  
+
+CRM      
+
+A/63/287 30/06/2009 A/63/767 4 029 500 0 4 029 500 0 0 $4,029,500 under information technology 
+
+   331 400 331 400   $331,400 under general temporary 
+assistance for 1 P-5 and 1 P-3 position 
+
+ Total CRM   4 360 900 0 4 360 900 0 0  
+
+DRBC      
+
+A/63/262 24/12/2008 A/62/510 Rev.1 11 074 600 7 145 500 1 429 100 0 0 
+
+  A/63/487 2 500 00   
+
+$7,145,500 and $1,429,100 approved for 
+the North Lawn primary data centre. 
+$2,500,000 approved for provision of 
+DRBC at Headquarters and offices away 
+from Headquarters 
+
+A/63/269 07/04/2009 A/63/743 7 128 740 0 2 031 860 0 5 096 880 A total of $7,128,740 approved for the 
+secondary data centre 
+
+  A/63/774   The regular budget share of $5,096,880 is 
+to be funded from within the CMP budget 
+
+ Total DRBC   18 203 340 9 645 500 3 460 960 0 5 096 880  
+ 
+
+(Footnotes on following page.) 
+ 
+
+ 
+
+
+
+ A/64/7/Add.9
+ 
+
+43 09-60895 
+ 
+
+(Footnotes to table) 
+
+______________ 
+
+Notes: 
+  ECM-CRM 
+  The General Assembly approved $2,000,000 for ECM, under the regular budget to be met 
+
+from within the existing appropriation for 2008-2009. 
+  The support account figure for CRM and ECM projects represents resources for information 
+
+technology approved by the General Assembly in the context of the 2009/10 support budget 
+(63/767), namely $10,674,700, including, $4,029,500 for CRM and $6,645,200 for ECM. 
+
+  Resources for general temporary assistance associated with CRM and ECM projects, funded 
+from the support account, were approved in addition to information technology by the 
+General Assembly in the context of the 2009/10 support budget (63/767): CRM 1 P-5 
+$195,000 and 1 P-3 $136,400; ECM 1 P-3 $136,400. 
+
+  A 5 per cent reduction in the resources proposed for information technology was approved 
+by the General Assembly, to be utilized by the Office of Information and Communications 
+Technology at its own discretion, taking into account the relative priorities of the different 
+projects (63/841, para. 199). 
+
+ 
+
+  DRBC 
+  The Secretary-General was requested to meet the regular budget share for the North Lawn 
+
+data centre ($7,145,500) and $2,500,000 for DRBC at Headquarters and offices away from 
+Headquarters from within the existing appropriation for 2008-2009. The regular budget 
+share for the secondary data centre ($5,096,880) is to be funded from within the CMP 
+budget. The breakdown of the funding of the secondary data centre is shown in table 2 of 
+document A/64/346/Add.1. 
+
+ 
+
+Abbreviations: ECM, enterprise content management; CRM, customer relationship management; 
+DRBC, disaster recovery and business continuity; CMP, capital master plan. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 44 
+ 
+
+Annex IV  
+ 
+
+  Benefits expected from the implementation of customer 
+relationship management  
+ 
+ 
+
+1. The beneficiaries of a customer relationship management system include: 
+
+ (a) Service recipients, who will be able to:  
+
+ • Request any type of service, through a variety of channels including 
+telephone, e-mail, fax or web 
+
+ • Monitor the status of all their requests 
+
+ (b) Service providers, who will be able to: 
+
+ • Manage service requests through the entire life cycle 
+
+ • Manage resources (workforce) efficiently in servicing requests 
+
+ • Manage the relationship with customers much better by proactively 
+monitoring their own performance against previously established 
+service-level agreements for service delivery 
+
+ (c) Management, who will be able to: 
+
+ • Improve oversight, through the use of data that is automatically captured 
+as service requests are processed 
+
+ • Improve efficiency and effectiveness, by adjusting the deployment of 
+resources to actual requirements 
+
+2. Customer relationship management benefits calculations are typically based on 
+the number and processing of service requests, or tickets, distinguishing between the 
+time saved by service recipients and service providers.  
+
+3. The tables below outline the benefits calculation based on the number of 
+service tickets for the initial implementers of customer relationship management 
+(information and communications technology and facilities service desks) at United 
+Nations Headquarters and offices away from Headquarters and in all peacekeeping 
+missions. Savings in time are monetized on the basis of an annual average salary of 
+$90,000 for service requesters and $75,000 for service providers. 
+ 
+
+  Savings for service recipients 
+ 
+
+  Yearly savings (rounded) 
+
+ 
+Low range 
+estimate 
+
+High range 
+estimate 
+
+Calculation base 
+Low range High range
+
+Time saved by entering ticket 
+online  
+
+3 min 6 min  Ticket volume  $1 109 000 $2 219 000
+
+Time saved by obtaining status 
+updates online, 24/7 
+
+1 min 5 min  Ticket volume $370 000 $1 849 000
+
+Time saved due to elimination of 
+tickets by enabling global alerts 
+and notifications about service 
+interruptions/outages  
+
+10 min/year 15 min/year Service recipients 
+volume  
+
+$644 000 $965 000
+
+
+
+ A/64/7/Add.9
+ 
+
+45 09-60895 
+ 
+
+  Yearly savings (rounded) 
+
+ 
+Low range 
+estimate 
+
+High range 
+estimate 
+
+Calculation base 
+Low range High range
+
+Time saved by replacing manual 
+forms with electronic forms and 
+workflows in requests for service 
+
+6 min 15 min Ticket volume  $1 109 000 $2 773 000
+
+Time saved by eliminating tickets 
+through self-resolution, due to the 
+availability of frequently asked 
+questions and knowledge base  
+
+20% of 
+issues 
+eliminated 
+
+30% of issues 
+eliminated 
+
+Average time for 
+ticket creation,  
+and ticket volume  
+
+$370 000 $555 000
+
+ Total savings for service recipients  $3 602 000 $8 360 000
+ 
+ 
+
+  Savings for service providers  
+ 
+
+  Yearly savings (rounded) 
+
+ 
+Low range 
+estimate 
+
+High range 
+estimate Calculation base Low range High range
+
+Reduced number of tickets by 
+introducing self-service and 
+knowledge base (self-resolution) 
+
+20% 
+reduction 
+
+30% reduction Average time for 
+ticket creation,  
+and ticket volume  
+
+$559 000 $839 000
+
+Time saved by eliminating calls/ 
+e-mails on status update or follow-
+up from service recipients  
+
+4 min  7 min Ticket volume  $994 000 $1 739 000
+
+Time saved due to automation of 
+forms and online approvals by 
+automatic ticket creation 
+
+2 min  4 min Ticket volume  $621 000 $1 242 000
+
+ Total savings for service providers  $2 174 000 $3 820 000
+ 
+ 
+
+4. Annual savings of between $5,776,000 and $12,180,000 are expected three 
+months after customer relationship management is fully deployed for information 
+and communications technology and facilities services at Headquarters and offices 
+away from Headquarters and for information and communications technology in all 
+peacekeeping missions. Further savings would accrue if other service desks were to 
+be migrated to the common customer relationship management platform. 
+
+5. On the basis of the calculations in the tables above, the savings from the initial 
+deployment of customer relationship management to information and 
+communications technology service desks in the Office of Information and 
+Communications Technology and the Department of Field Support at United 
+Nations Headquarters, the United Nations Logistics Base at Brindisi, the United 
+Nations Mission in Liberia, the United Nations Interim Force in Lebanon, the 
+United Nations Stabilization Mission in Haiti and the facilities service desk at 
+Headquarters are expected to range between $1,784,000 and $3,703,000 per year. If 
+customer relationship management is deployed to information and communications 
+technology service desks in five offices away from Headquarters, the yearly savings 
+would increase to between $3,973,000 and $8,398,000 per year. The estimated 
+savings would be between $4,102,000 and $9,226,000 if customer relationship 
+management is implemented in information and communications technology service 
+desks in all seven offices away from Headquarters in 2012-2013. 
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 46 
+ 
+
+Annex V  
+ 
+
+  Major functional areas of the ERP system and 
+associated functions  
+ 
+ 
+
+In the table below, where ERP is listed, it is the intention at this stage for ERP to 
+provide all the elements mentioned. However this can only be confirmed after the 
+design phase and the scope would also be contingent on the necessary resources 
+being provided. 
+ 
+ 
+
+Functional 
+area Function To be provided through: 
+
+CSS Travel management: planning, requesting, amendments, visas, 
+travel entitlement and claims 
+
+ERP 
+
+CSS  Services to the public and staff: this function is an income-
+generating process. A portion of the income generated is returned 
+to the Member States. Commercial activities include: 
+
+• Postal services: create and market stamps and other philatelic 
+collectables 
+
+• Publications: sales and distribution of United Nations reports 
+and other published materials 
+
+• Gift centre and newsstand: revenue generated by the sale of 
+gifts, souvenirs, newspapers, magazines and sundries at the 
+United Nations premises 
+
+• Catering services: revenue generated by the provision of food 
+services to United Nations staff, delegates and visitors 
+
+• Guided tours: organized for visitors to visit the United Nations 
+building and learn about the United Nations mission and 
+activities 
+
+• Others that apply to specific duty stations:  
+
+  commissary, recreation centre and fuel station (UNON), 
+training courses for the general public (ECLAC) 
+
+• Garage management: revenue generated by the use of United 
+Nations parking places by staff members, missions and 
+delegates 
+
+ERP 
+
+
+
+ A/64/7/Add.9
+ 
+
+47 09-60895 
+ 
+
+Functional 
+area Function To be provided through: 
+
+CSS  Real estate management  
+
+• Building maintenance: preventive and corrective maintenance 
+
+• Construction management: architectural and engineering projects 
+
+• Office space management: requests for office space, movement of 
+office furniture and relocation of people 
+
+• Lease agreements 
+
+• Billing of tenants 
+
+ERP and CRM 
+
+CSS  Facilities management: work order management including 
+information and communications technology services 
+
+ERP and CRM 
+
+CSS  Conference and events management:  
+
+Conference/event management services are a strategic customer-
+centric business process that provides meeting and 
+documentation services to all the meetings/events held at 
+Headquarters, offices away from Headquarters and field 
+missions. It focuses on three main planning and delivery 
+services: conference/event planning and coordination services, 
+interpretation and meeting services, and documentation planning 
+and processing services 
+
+ERP and eMeets 
+
+CSS  Programme and project management: 
+
+This function will cover programmes and projects managed and 
+administered by the United Nations Secretariat regardless of 
+budget (regular budget, extrabudgetary, trust funds, general trust 
+funds, income) 
+
+ERP 
+
+CSS  Archives and records management: 
+
+Archives and records management provides a number of records-
+centric services for the United Nations Secretariat, the General 
+Assembly and the general public. These services include: 
+
+• Consultation and guidance on records management for United 
+Nations offices 
+
+• Records storage and retrieval for the General Assembly, 
+Member States, Secretariat offices, and other United Nations 
+organs, as well as Research services for the general public 
+
+ERP and ECM 
+
+HR Recruitment/staffing Inspira  
+(talent management)
+
+
+
+A/64/7/Add.9  
+ 
+
+09-60895 48 
+ 
+
+Functional 
+area Function To be provided through: 
+
+HR Performance management Inspira  
+(talent management)
+
+HR Learning management Inspira  
+(talent management)
+
+HR Personnel administration (on-boarding, contract management, 
+movement of staff, separation, entitlements and insurance) 
+
+ERP and Inspira 
+
+HR Time management ERP 
+
+HR Position management (the detailed design is in progress and 
+discussions are continuing with the Inspira team) 
+
+The initial ERP design for position management provides for the 
+following: 
+
+• Creation/maintenance of positions and integration for budget 
+preparation (ERP) 
+
+• Selection of an applicant/staff (Inspira)  
+
+• On-boarding against the position, maintenance of the relation 
+between staff and position and integration with budget 
+execution (ERP) 
+
+• Staffing table maintenance and reporting (ERP) 
+
+ERP and Inspira 
+
+HR Payroll ERP 
+
+SCPL Plan and manage: includes processes related to demand 
+planning and forecasting, supply network planning and force 
+planning 
+
+ERP 
+
+SCPL Source to acquire: includes processes related to strategic 
+sourcing, supplier collaboration, requisition to purchase order, 
+low-value acquisitions and contract management 
+
+ERP 
+
+SCPL Receive to distribute: includes processes related to inbound and 
+outbound processing of goods, planning and dispatching goods 
+and services, warehouse and inventory management, force 
+deployment and interfaces with specialist logistics (e.g. fuel 
+management, medical services, rations management and air 
+transport management) 
+
+• Peacekeeping troop contingent-owned equipment verification 
+(ERP and CRM) 
+
+• Fuel management (ERP) 
+
+• Rations management (ERP) 
+
+• Air transport management (ERP) 
+
+ERP and CRM 
+
+
+
+ A/64/7/Add.9
+ 
+
+49 09-60895 
+ 
+
+Functional 
+area Function To be provided through: 
+
+SCPL Employ to dispose: includes processes related to kit assembly 
+and execution, equipment assignment, maintenance through to 
+decommission and disposal, ensuring all environment health and 
+safety requirements are adhered to 
+
+ERP 
+
+FIN Strategic enterprise planning: strategy management, 
+programme planning, results-based budgeting/results-based 
+management 
+
+ERP 
+
+FIN Budgeting: project and programme budgeting for all stages of 
+the programme execution cycle 
+
+ERP 
+
+FIN Budget execution: deployment, redeployment and monitoring of 
+funds and performance reporting 
+
+ERP 
+
+FIN Trust fund and project management: resource mobilization, 
+project pipeline funding, contributions management, project 
+financial management, donor reporting 
+
+ERP and CRM 
+
+FIN Accounts payable: end-to-end payment cycle, including 
+verification, scheduling and integration with treasury; this area 
+also covers inter-agency transactions 
+
+ERP 
+
+FIN Accounts receivable: end-to-end receivables cycle, including 
+assessments, billing, credit management and recoveries; this area 
+also covers inter-agency transactions 
+
+ERP 
+
+FIN Treasury: cash management, cash-flow management, bank 
+management and investment management  
+
+ERP 
+
+FIN Asset management: end-to-end asset financial cycle, including 
+valuation, depreciation, disposal and special assets, such as 
+leases and donations and contingent-owned equipment 
+
+ERP 
+
+FIN General ledger accounting and consolidations: accounting 
+entries, cost recoveries and allocations, segment reporting and 
+consolidations 
+
+ERP 
+
+ 
+
+Abbreviations: CSS, central supply services; HR, human resources; SPCL, supply chain/procurement/logistics; 
+FIN, finance and budget; ERP, enterprise resource planning; UNON, United Nations Office at Nairobi; 
+ECLAC, Economic Commission for Latin America and the Caribbean; CRM, customer relationship 
+management. 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+A
+/64/7/A
+
+dd.9 
+ 
+
+50 
+09-60895
+
+Annex VI 
+ 
+
+  Indicative summary of net resource requirements for enterprise resource 
+planning by object of expenditure under each source of funds  
+
+ 
+ 
+
+(Thousands of United States dollars) 
+ 
+
+ Regular budget Peacekeeping support account Extrabudgetary 
+
+ 
+2008- 
+
+2009 
+2010-
+
+2011
+
+To end of 
+project 
+
+2013 Subtotal
+
+1 July 2008 
+to 30 June 
+
+2009
+
+1 July 2009 to 
+31 December 
+
+2011
+2012 to end 
+
+of project Subtotal
+2008-
+
+2009
+2010-
+
+2011
+
+To end of 
+project 
+
+2013 Subtotal Total
+
+Posts — 3 136.0 4 246.8 7 382.8 — 14 786.0 17 553.5 32 339.5 — 4 807.9 6 511.8 11 319.7 51 042.0
+
+Other staff costs 2 272.2 2 682.1 2 916.0 7 870.3 3 134.9 12 645.9 12 052.7 27 833.6 3 486.2 4 112.0 4 471.2 12 069.3 47 773.2
+
+Travel of staff 273.7 459.6 2 409.7 3 710.8 377.6 4 844.2 9 960.1 15 181.9 419.9 1 575.2 3 694.9 5 690.0 24 582.7
+
+Consultants and 
+experts — 1 027.4 499.7 959.3 — 2 167.0 2 065.4 4 232.4 — 704.6 766.2 1 470.8 6 662.4
+
+Contractual 
+services 1 998.2 12 292.6 4 737.8 19 028.7 2 756.8 57 959.6 19 583.1 80 299.4 3 065.8 18 846.4 7 264.7 29 176.8 128 505.0
+
+General operating 
+expenses 328.3 1 604.0 1 152.2 3 084.5 453.0 7 562.6 4 762.5 12 778.1 503.7 2 459.1 1 766.7 4 729.5 20 592.1
+
+Supplies and 
+materials 6.0 20.1 21.9 48.0 8.3 95.0 90.5 193.8 9.2 30.9 33.6 73.7 315.5
+
+Furniture and 
+equipment 231.5 2 970.4 2 082.5 5 284.4 319.4 14 005.5 8 607.5 22 932.5 355.2 4 554.1 3 193.1 8 102.4 36 319.3
+
+ Total 5 110.0 24 192.2 18 066.6 47 368.8 7 050.0 114 065.9a 74 675.3 195 791.2 7 840.0 37 090.1 27 702.1 72 632.2 315 792.3
+ 
+
+ a The amount of $28,516,500 to be funded for the period from 1 July 2009 to 30 June 2010 and $85,549,400 to be funded for the period from 1 July 2010 to 
+December 2011. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+	Conference and events management:  
+	Programme and project management: 
+	Archives and records management: 
+

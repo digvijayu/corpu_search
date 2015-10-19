@@ -1,0 +1,191 @@
+TDUnited Nations
+Conference
+on Trade and
+DevelopmentDistr.
+GENERAL
+
+TD/B/COM.3/68
+10 December 2004
+
+Original: ENGLISH
+
+TRADE AND DEVELOPMENT BOARD
+Commission on Enterprise, Business Facilitation and Development
+Ninth session
+Geneva, 22–25 February 2005
+Item 5 of the provisional agenda
+
+
+
+E-Commerce Strategies for Development: Selected Trade and Development Aspects of Information and Communication Technologies
+
+Note by the UNCTAD secretariat
+
+
+Executive summary
+
+This document outlines some salient features of the analytical work carried out by the secretariat in the area of e-commerce, e-business, and ICT for development since the eighth session of the Commission. It provides information on some general trends in the adoption of ICT, particularly in developing countries, briefly discusses the use of ICT by enterprises with a focus on the SME and the treatment of these issues in the WSIS process, and outlines some development implications of free and open-source software (FOSS). The paper ends with some suggestions about possible policy areas for consideration in the context of the Commission’s work to support the emergence of an enabling environment for the increased adoption of ICT by the developing countries and their enterprises.
+
+
+
+CONTENTS
+
+       			    		        Page
+
+INTRODUCTION	3
+I. INTERNET ACCESS AND USE AND THE GROWTH OF GLOBAL E-COMMERCE	4
+A.  The growth in Internet access	4
+B.  Quantifying e-commerce	5
+II.  SOME ASPECTS OF THE USE OF ICT BY SMALL AND MEDIUM-SIZED ENTERPRISES	7
+III.  DEVELOPMENT IMPLICATIONS OF FREE AND OPEN-SOURCE SOFTWARE	9
+IV.  CONCLUSIONS	11
+
+
+INTRODUCTION
+
+1. At its eighth session, held from 12 to 15 January 2004, the Commission on Enterprise, Business Facilitation and Development recommended to the UNCTAD secretariat that, among other things, it continue to conduct research and policy-oriented analytical work concerning the economic implications for developing countries of trends in the field of ICT and its business applications, particularly in sectors of interest or potential for developing countries. The secretariat should also be actively involved in the implementation of the Action Plan and follow up the Declaration of Principles adopted at the first phase of the World Summit on the Information Society (WSIS). The secretariat’s ongoing work in the area of the statistical measurement of ICT adoption and use by enterprises and households should be continued and developed, contributing to efforts to establish a set of internationally comparable information and communication technologies (ICT) statistical indicators. It was also recommended that UNCTAD continue to provide a forum for the international discussion of ICT-related policy issues relevant to economic development, facilitate the exchange of experiences in the field of the economic applications of ICT, and ensure the inclusion of the development dimension in international discussions on such matters.
+
+2. To implement these recommendations, the secretariat organized a number of international events focusing on various aspects of ICT, e-business and their relationship with trade and development, particularly two parallel events and one thematic session during UNCTAD XI. It also organized an expert meeting on the policy and development implications of free and open-source software (FOSS). Other events are planned for early 2005, particularly in connection with the preparatory process of the second phase of the WSIS, to be held in Tunis from 16 to 18 November 2005. The secretariat was also actively involved in the activities of the UN ICT Task Force and the Global ePolicy Resource Network. It participated in several training activities organized as part of the implementation of paragraph 166 of the Bangkok Plan of Action. Work in the field of e-measurement progressed significantly, with a partnership initiative in this area launched at UNCTAD XI and work being carried out for securing extra-budgetary funding for technical cooperation activities in this area. Finally, the E-Commerce and Development Report 2004 was published. Detailed information about the work carried out to implement the recommendations of the eighth session of the Commission is contained in document TDB/B/COM.3/66.
+
+3. This note provides background information to assist the Commission in its consideration of the issue of e-commerce strategies for development, focusing on selected aspects of the trade and development implications of ICT that have been the object of the secretariat’s analytical and other work in recent months and that, for the most part, have been treated more extensively in the E-Commerce and Development Report 2004. The contents of this paper should therefore be viewed in the context of wider ongoing coverage of ICT, e-business and development being carried out by the secretariat, and interested readers are referred to the relevant chapters of the 2004 issue of the E-Commerce and Development Report 2004 or those of previous years for more detailed coverage of the specific topics discussed here, as well as for information and analysis concerning other aspects of ICT and economic development.
+
+4. Part I of this note includes information about some basic data about the recent evolution of the context (particularly in terms of Internet access and use) and current status of e-commerce. Part II presents some conclusions stemming from recent work by the secretariat concerning certain aspects of the use of ICT and the Internet by enterprises, with a focus on developing-country enterprises. It also presents suggestions concerning the treatment of the economic aspects of the information society at the second phase of the WSIS. Part III outlines some aspects of the development implications of FOSS, which was the subject of an expert meeting held in Geneva from 22 to 24 September 2004. Finally, Part IV presents conclusions and possible areas for consideration by the Commission.
+
+I.  INTERNET ACCESS AND USE AND THE GROWTH OF
+GLOBAL E-COMMERCE
+
+A.  The growth in Internet access
+
+5. The International Telecommunication Union (ITU) estimates that at the end of 2003 about 687 million people around the world (slightly above 11 per cent of humankind) had access to the Internet. This represents an increase of 61 million people, or 9.74 per cent, compared with figures for the end of 2002. The growth of the world’s “Internet population” is slowing. (The total number of Internet users in the world grew by 26.4 per cent in 2002 and 28 per cent in 2001.) However, the large potential demand in developing countries will ensure the addition of large numbers of new users to the global Internet in the short and medium terms. 
+
+6. Developing countries account for a growing part of the world’s Internet users. At the end of 2003, over one third of all Internet users in the world lived in developing countries, whose share of the global Internet population grew by nearly 50 per cent between 2000 and 2003. Nearly three quarters of new Internet users in the world live in developing countries, almost two thirds of them in Asia. Five countries (China, the Republic of Korea, India, Brazil and Mexico) account for over 60 per cent of all Internet users in the developing world.
+
+7. Although the large size of the absolute number of users gives developing countries significant influence in the development of global ICT-based social and economic exchanges, the low figures for Internet penetration (number of users as a share of the total population) indicate that the impact of ICT in most of these societies and economies remains far more limited than in developed countries. In spite of rapid rates of improvement in the penetration ratios of developing countries, these are 10 times lower than the average of the developed world. 
+
+8. The number of host computers connected to the Internet provides another image of the presence of developing countries in the global Internet. The number of Internet hosts worldwide grew by 35.8 per cent between January 2003 and January 2004, reaching a total of over 233 million. This rate of growth is more than twice as rapid as that observed in 2002 and similar to that of 2001. Because the majority of existing hosts belong to generic top-level domains (TLDs) such as .net or .com, which cannot be linked to a specific geographical location, it is difficult to draw conclusions about the ranking and performance of countries in terms of their absolute and relative number of hosts. However, it is possible to detect some trends in terms of the growth in the use of particular country code TLDs, which could be indicative of the attractiveness of a particular TLD. Such attractiveness may, at least in part, be indicative of the prevailing conditions for the spread of the Internet in the territory in question.
+
+9. In January 2003, the only TLDs corresponding to developing countries that ranked among the first 40 by number of hosts were those of Brazil (.br), Taiwan Province of China (.tw), Mexico (.mx), Argentina (.ar), the Republic of Korea (.kr), Hong Kong (China) (.hk) and Singapore (.sg). By January 2004 the country code TLDs of Turkey (.tr) and South Africa (.za) had joined the top 40 of the Internet Domain Name Survey of the Internet Software Consortium (ISC). In terms of rates of growth, of the 26 TLDs that experienced above-average growth, 12 correspond to developing countries and another four to countries of Central and Eastern Europe
+
+10. Websites represent the main gateway to the Internet for both business-to-consumer and business-to-business transactions. The evolution of the number of www servers in the world therefore has some usefulness as an indicator of the growth of e-business. A regular survey conducted by the company Netcraft.com found that as of June 2004 there were over 51,635,000 websites worldwide. This represents an increase of 26.13 per cent compared with the same month in 2003. The nearly 10.7 million new sites added to the Web in just one year represent a significant acceleration when it is remembered that the Web took 21 months to grow from 30 to 40 million sites. The number of active sites grew slightly faster – by 26.39 per cent – in the 12 months to June 2004.
+
+11. One indicator of the use of the World Wide Web for business purposes is the number of websites using the secure socket layer protocol (SSL), which supports secure transactions (although most businesses use the Web for other purposes). According to another Netcraft survey, the number of such sites grew by 56.7 per cent – to 300,000 – in the 12 months between April 2003 and April 2004. 
+
+B.  Quantifying e-commerce
+ 
+12. Statistically significant measurements of the value of e-commerce transactions are not currently available for most countries, particularly in the developing world. This note will therefore limit itself to giving a brief summary of the evolution of the value of e-commerce transactions in the world’s earliest and largest adopter of e-commerce, the United States, which represents by far the largest share of all e-commerce in the world and continues to set the trends that e-commerce and e-business follow. This information is complemented with a reference to a few notable elements of the statistical evidence recently published by Eurostat concerning the adoption of e-business in the European Union. 
+
+13. According to the United States Census Bureau, business-to-consumer (B2C) e-commerce sales in the second quarter of 2004 amounted to 1.7 per cent of total retail sales. The annual rate of growth of retail e-commerce in the United States in the year to the end of the second quarter of 2004 was 23.1 per cent, nearly three times faster than the growth of total retail in the same period (7.8 per cent). If current trends continue, retail e-commerce in the United States could amount to $100 billion by mid-2006, at which point it could represent between 2.5 and 3 per cent of total retail sales in that country. 
+
+14. As for business-to-business (B2B) e-commerce, the United States Census Bureau reports that in 2002 e-commerce represented 16.28 per cent of all commercial transactions between enterprises, and that B2B amounted to 92.7 per cent of all e-commerce in the United States. In a sluggish economic environment that resulted in a decrease of 1.3 per cent in total B2B transactions (traditional and electronic) compared with 2001, B2B e-commerce grew at an annual rate of 6.1 per cent. This superior performance of B2B e-commerce compared with “traditional” transactions occurred in all the major economic sectors. 
+
+15. E-commerce sales made through the Internet by enterprises located in the European Union reached €95.6 billion (or $86.04 billion at 2001 average exchange rates) in 2001. These sales represent only 20 per cent of total e-commerce sales: according to Eurostat, Internet sales amounted to 1 per cent of total sales, while electronic data interchange (EDI) and other non-Internet sales represented 4 per cent of total sales in 2001. This would bring total e-commerce sales in the European Union to about $430 billion, less than 40 per cent of the total e-commerce sales estimates for the United States for the same year. 
+
+16. Even allowing for methodological differences and gaps in the data available for the European Union, the difference in the significance of e-commerce for the two largest developed single markets remains considerable. This is in spite of the fact that ICT have reached very high penetration levels across the European Union, with 94 per cent of all enterprises using computers, 81 per cent having an Internet connection and 67 per cent having a website. Of all enterprises, many more used the Internet to make purchases (24 per cent) than sales (10 per cent). Of the latter, 83 per cent made less than 10 per cent of their total sales through the Internet, and 46 per cent made less than 2 per cent of their total sales using the Internet.  
+
+17. The available data from the United States and the European Union show that, while the value of online transactions is increasing, it is not increasing at the speed at which businesses connect to the Internet. This leads to a number of suggestions. 
+
+18. First, the focus on measuring e-commerce transactions may divert attention from measuring other uses of ICT in businesses and therefore provide only limited information on the adoption of ICT by enterprises. Therefore, more and more attention is being paid by statistical offices to measuring the use of ICT in enterprises for a variety of business activities that go beyond e-commerce. This is important since many of the efficiency gains related to the adoption of ICT result from changes in business processes using ICT.
+ 
+19. Second, experience has shown that, in most cases, businesses are willing to provide information on whether they conduct business online but are unable to specify the value of online purchases and sales. Therefore, the quality of data on the value of e-commerce transactions is unlikely to improve considerably in the near future.
+
+20. Third, in developing countries, many companies are starting to use the Internet for various business functions, although they are not yet engaged in online transactions. This information needs to be captured in an analysis of the adoption of ICT by businesses and its impact on development.
+
+21. The WSIS Plan of Action points to the need to develop statistical indicators for benchmarking and performance evaluation, to follow up the implementation of the objectives, goals and targets of the Plan of Action, and to track global progress in the use of ICT. International cooperation is necessary for the setting up of coherent and internationally comparable indicator systems, taking into account different levels of development. Better data on ICT readiness, use and impact are needed in order to design, implement and evaluate ICT development policies.
+
+22. Some developing countries have started to collect ICT indicators through their official statistical systems. However, the data are not always comparable across countries, or with those of developed countries. This calls for action at the international level to coordinate the methodological work and to work towards a global database on ICT indicators. The UNCTAD secretariat has thus launched a new data collection exercise to compile e-business statistics from developing countries and make them available in its annual E-Commerce and Development Report. This is part of a global initiative among international and regional organizations to enhance the availability of ICT statistics in developing countries. At the time of completion of the draft of this note, e-business statistics had been received from Argentina, Chile, Colombia, Morocco, Peru, the Philippines, Romania, the Russian Federation, Singapore and Thailand. Some of the results are presented in table 1 below, which features the results of only a limited number of countries and few indicators, and thus provides neither a comprehensive overview nor comparable data on the use of ICT in enterprises. However, it shows that developing countries are increasingly becoming aware of the importance of collecting ICT indicators and statistics for policy making, and for monitoring and benchmarking their information society developments.
+
+
+Table 1
+ICT Use in Enterprises
+(percentages, 2002 or latest available year)
+
+IndicatorArgentina1,3ChileColombia1,3MoroccoPeru3Philippines3RomaniaRussian FederationSingaporeThailandProportion of businesses with PCs..62.776.6..80.087.816.181.183.367.7Proportion of employees using PCs....19.7......11.627.5....Proportion of businesses with an intranet35.6..14.47.025.422.0..41.632.1..Proportion of businesses with an extranet11.0..9.7..19.87.5..7.215.6..Proportion of businesses with Internet access86.946.953.742.064.262.47.537.778.338.3Proportion of employees using the Internet..10.39.0..25.4..5.96.4....Proportion of businesses with a website256.512.625.711.022.6..2.011.6..14.3Proportion of businesses receiving orders over the Internet (i.e. Internet sales)14.6..6.5....1.90.59.0..9.9Proportion of businesses placing orders over the Internet (i.e. Internet purchases)......8.0..2.50.410.1....
+Note: Microenterprises excluded.
+1 Manufacturing sector only.
+2 Colombia: of enterprises with Internet access.
+3 Data for 2001.
+Source: National Statistical Offices.
+
+
+II.  SOME ASPECTS OF THE USE OF ICT BY SMALL AND
+ MEDIUM-SIZED ENTERPRISES
+
+23. As the Internet and related technologies continue to spread, e-business practices are more and more integrated into existing business processes, particularly in the enterprises of developed countries. The Internet is being applied to a fast-growing number of business activities such as automation of office and production processes as well as management of customer relations and distribution and logistics networks. Internet use may range from a simple Web presence to the complete integration of business functions.
+
+24. Statistical evidence from developed countries shows that ICT usage usually increases with the size of companies, although SMEs have been found to have the greatest potential for productivity gains through e-business. But in order to achieve these benefits, the adoption of ICT must be supported by good managerial and technical skills, complementary investments and organizational changes that may be harder for SMEs in developing countries to undertake.
+
+25. Surveys of ICT usage in developing countries tend to indicate that a large number of SMEs in urban areas have Internet connections that they use to communicate with suppliers and customers. This is generally not the case with SMEs outside major cities. In addition, Internet use is often limited to the owner or managers of the enterprise, and little has been done to take full advantage of the opportunities the medium offers. Although the positive impact of ICT adoption on productivity seems to be clearly established, one of the major reasons for not using ICT (from the viewpoint of the company owner) is the perceived limited impact on business profitability, often coupled with the argument that few suppliers and customers are online. On the other hand, if companies experience a positive impact on their business – for example, an increase in the number of customers – then they are willing to invest in hardware and connectivity. In other words, cost is not necessarily a factor in SMEs’ readiness to invest in ICT. 
+
+26. A joint survey carried out by UNCTAD and FUNDES in five Latin American countries (Chile, Colombia, Costa Rica, Mexico and Venezuela) shows that the availability of personal computers (PCs), the Internet and ICT is high among companies located in urban areas, and that there are no significant differences between small and medium-sized companies as regards basic access to and use of the Internet (e.g. e-mail use). However, more complex tasks, in particular automating and integrating business processes, are carried out much less frequent by SMEs. E-commerce is still rare, and small companies use more e-marketplaces, whereas medium-sized companies use company websites (of third parties or their own) for selling online. Service companies are the most active users of ICT and the Internet, followed by trade and manufacturing (the least active). This corresponds to findings in other developing regions and is partly explained by the fact that functions such as marketing and selling services online require basic Internet access and website presence, and less system integration related to, for example, supply and value chain management, as is the case in manufacturing. 
+
+27. The main perceived barrier to Internet uptake is very similar across companies from both developed and developing countries. Firms already using the Internet consider the lack of network security to be the key problem, followed by slow and unstable connections. Another important finding is that for many companies the main reason not to go online is not a lack of technical skills but the fact that doing so often depends on management capacities and the overall ICT awareness of the company owner.
+
+28. Getting Internet access does not seem to be a major problem for most firms, even if connections are mostly slow. Much more difficult is fully integrating the companies’ business functions using ICT; this is even more difficult for SMEs in developing countries. The surveys also confirm that all companies adopting ICT go through a certain evolution over time. For SMEs, it is relatively easy to start using PCs, then connect to the Internet using e-mail, and thereafter set up a Web page. However, introducing the Internet into their business activities (internal or external, including e-commerce) does not follow straight away, and larger companies are more likely to automate their business processes (and to do so earlier) than smaller companies.
+
+29. One explanation is that most SMEs have no defined e-business strategy. Installing more complex e-business systems, intranets or extranets and linking up with suppliers’ and customers’ computer systems both require not only technical know-how but also a solid analysis of the costs and benefits implied by the necessary investments, and convincing arguments in favour of them. On the other hand, SMEs have the advantage of implementing strategic and organizational changes much more quickly (and at lower cost) than large companies. This flexibility should give them a competitive edge when it comes to the adoption of e-business.
+
+30. The findings outlined above point to some actions at the policy level that may be of interest for developing countries. First, SMEs need access to reliable, low-cost connections. Therefore, and to bridge the urban–rural divide, universal, high-quality basic access should be a priority. Naturally, this should be followed by high-speed connections to allow companies to move towards full integration of e-business. Second, trust in a legal and regulatory environment supportive of the Internet economy is essential if companies are to engage in e-business. Third, if SMEs are to make the leap from simple (and low-cost) Internet use, such as e-mail and Web searching, to building e-business systems fully integrated with those of their customers and suppliers, additional investments are required, as well as the necessary technical and managerial skills to plan and successfully implement an e-business strategy. 
+
+31. A policy mix to promote higher levels of investment in ICT, more affordable access, an environment that enables companies to move to ICT-based modes of operation, and enhancement of the relevant skills of the workforce should be a central element of the national e-strategies for development called for in the Plan of Action adopted at the first phase of the WSIS. 
+
+32. Encouragement of the use of ICT by SMEs to foster innovation, realize gains in productivity, reduce transaction costs and fight poverty is already included in the WSIS Plan of Action. The plan also identifies areas such as the development of a policy and legal framework to enhance participation by SMEs and the use of e-business and international trade in developing countries. However, UNCTAD, together with a number of other agencies (ILO, ITC and OECD), has been drawing the attention of the international community to the need to pay increased attention to the economic growth and enterprise development aspects of the WSIS agenda. This may involve the examination of a number of policies, practices, technical cooperation programmes, advocacy and knowledge dissemination efforts such as the following:
+
+* Policies to facilitate a positive impact by ICT on economic growth in both developed and developing countries
+* Policies and practices that enhance the trade competitiveness of countries through the use of ICT, including in the area of ICT-enabled services
+* Policies and practices that increase the productivity and competitiveness of SMEs through ICT
+* ICT applications and the selection and implementation of market entry strategies of SMEs
+* Policies to ease the application of ICT at the workplace that result in poverty eradication, taking into consideration the advantages and drawbacks associated with the introduction of ICT.
+
+33. The outcome of a thematic meeting on the economic and social implications of ICT organized jointly by ILO, ITC, OECD and UNCTAD in Antigua, Guatemala, on 17–19 January 2005 with participation by representatives of governments, the private sector, workers and civil society is intended to contribute to the multi-stakeholder process that may enable the second phase of WSIS to develop a consensus on the issues mentioned above. 
+
+
+III.  DEVELOPMENT IMPLICATIONS OF FREE AND
+OPEN-SOURCE SOFTWARE
+
+34. Free and open-source software (FOSS) has become an important issue in the current debate on information technology and development. The notion that FOSS can create positive externalities makes it an important consideration in particular for countries with strong development agendas. The Internet and many distinguished technology firms use FOSS for mission-critical tasks. An increasing number of governments have considered FOSS within the scope of their e-strategies. Still, FOSS is often insufficiently understood from an economic, human capacity and intellectual property perspective. 
+
+35. To understand FOSS, it is useful to look at its two complimentary definitions – as free software and as open-source software. 
+
+36. To qualify as free software, a programme must give its users the freedom to run it for any purpose, the freedom to study how it works and modify it, the freedom to redistribute copies, and the freedom to publicly release any modifications and improvements for the common benefit of all. 
+
+37. The open-source definition requires that the source code of the programme be made available for no more than the cost of its distribution. It permits anyone to redistribute it without owing royalties or licensing fees to the author and allows users to modify it and then distribute the modified software under the same or similar terms. 
+
+38. FOSS legally enforces these notions through a diversity of free and open-user licences. FOSS implements these notions in practice by publicly distributing its source code: the instructions that make a programme work, written in any one of many programming languages.
+
+39. FOSS draws attention to the fact that each and every programme we use comes with implied or explicit contracts of rights, restrictions and compensation. These rights and restrictions are exercised through a particular use licence, through technological locks and keys (often referred to as digital rights management technologies) or through the public availability (or lack thereof) of the source code. Through these mechanisms, software manages our digital access at the financial, social and political levels. Thus, the legal and economic characteristics of a programme can be just as important as its practical and technical merits. “Does it do the job – and how well?” is an important but no longer sufficient criterion. One also needs to ask, “and with what legal and economic restrictions and permissions, and with what kind of impact for building the information society of today and tomorrow?”. 
+
+40. In order to address the issue, at its eighth session the Commission on Enterprise, Business Facilitation and Development requested the UNCTAD secretariat to organize an expert meeting to advise the policy debate. The discussions of this meeting are reported in the Chairperson’s Summary (TD/B/COM.3/EM.21/3). The Expert Meeting was attended by approximately 120 experts from 47 countries. 32 of these experts were from observer organizations and the private sector, while 14 delegates came from UN secretariat organizations and UN agencies. The strong interest and active participation of delegations from developing and developed countries confirmed the relevance and timeliness of the debate. The FOSS debate should not prejudge the usefulness and role of other software and technology types and models. 
+ 
+41. Experts discussed how FOSS could play a key role in ICT and digital development. Its system of production and distribution was significantly different from that of proprietary software and could have diverse implications for ICT access, opportunities and costs for users. A greater awareness and better understanding of FOSS could enable governments to adjust their policies, primarily through their e-strategy. Some governments have instructed or encouraged their administrations and public institutions to consider using FOSS as a means of increasing the adoption of ICT. FOSS, and in particular the free software rationale, pointed to the ethical dimension of the development debate. Enabling FOSS use could be done through related activities and could include education and training to ensure the existence of ready technical expertise and capacity.
+
+42. Experts engaged the debate from an economic policy and development perspective and discussed how FOSS could reduce the national-level economic loss resulting from duplication of software development by supporting, at the very least, public, educational and academic institutions willing to share software, code and programming experience. It was noted that the use of FOSS could have an anti-monopolistic effect in a national IT market. Its anti-restrictive nature allowed anyone to provide IT services and thus reduced barriers to entry. FOSS could help create a better-qualified IT industry and more skilled employees, which would lead to job creation. Knowledge and skills acquired in a FOSS environment could be used in the entire software industry. FOSS allowed open collaborative development in software production and was facilitated, in particular, by an absence of non-disclosure contracts among developers and clients. This helped to achieve good integration with other software, which could be produced by independent local programmers, and it aided the customization of software to meet the commercial, regulatory, cultural and linguistic requirements of users. In this way, FOSS not only enabled but, more importantly, empowered peoples and nations to manage their ICT development. 
+
+43. The increasing adoption of FOSS by global corporations and institutions was indicative of the maturity, stability and security of mainstream applications. It was also creating opportunities for customized FOSS and FOSS-based software from nascent IT industries in developing countries. FOSS had also triggered thinking on issues relating to content provision and use in other areas of human activity such as education, science and creative endeavours, where a number of FOSS-inspired solutions were being developed for creative work, research and development, and knowledge distribution. Experts frequently touched on intellectual property issues and the relationship between FOSS and the instruments of copyright and patent. Possible implications for technology innovation and the effects on the development of an ICT sector largely composed of SMEs were discussed.
+
+44. The meeting resulted in a number of suggestions on how to advance activities and discussions relating to FOSS in the ICT for development context. Awareness building was needed, in particular through an open, informed and factual policy debate at all levels, as governments played a crucial role in determining FOSS use modalities. The active role of international organizations was underscored. The UN system could review its own use of open-access licences for content and FOSS in technical cooperation activities. FOSS-centric Web and online resources across the UN system would benefit from increased cooperation. Public-private partnerships could be a useful vehicle for providing support for capacity and awareness building that could enable informed decisions and human competencies for FOSS use. 
+
+IV.  CONCLUSIONS
+
+45. This note has presented a few aspects of the economic development implications of ICT on which the secretariat has worked since the previous session of the Commission. It should be noted, however, that activities have also been conducted in a number of other equally relevant areas that the Commission may wish to take up in its discussions and work for the period ahead. These include, for example, the question of Internet governance, the impact of Internet technologies on the creative industries, online higher education, e-procurement, and privacy protection in an online environment. Technical cooperation activities were undertaken in the domains of statistical measurement of the use of ICT and of e-tourism.
+
+46. With regard to the matters addressed in the paper, the Commission may wish to consider in its deliberations the following elements:
+
+a) The economic development implications of the adoption of ICT as an integral part of national e-strategies for development. In particular, policy dialogue in the Commission might address, among other questions, experiences and best practices in the promotion of ICT adoption and use by SMEs; policies and practices that foster trade competitiveness through ICT applications; the impact of ICT on key sectors of interest for developing countries, including traditional sectors and ICT-enabled services; and the role of government use of ICT as a tool to raise awareness of ICT and to facilitate its adoption.
+
+b) The capacity-building needs of the developing countries in the field of ICT for development. This refers to (i) addressing the specific technical and managerial skills needed to maximize the positive impact of ICT at the enterprise and sectoral levels, in connection with the issues raised in the previous paragraph, and (ii) enhancement of the policy-making capacity of developing countries in the domain of ICT, including the generation of statistical capacity in developing countries to monitor progress and benchmark performance.
+
+c) Free and open-source software as an instrument to improve access to ICT, generate ICT-based business and employment opportunities and promote inclusion and empowerment of all peoples and communities. As part of the international policy debate, FOSS could be particularly relevant with regard to the achievement of the UN Millennium Development Goals and also in the context of the second phase of the WSIS process.
+
+d) Also in the context of the WSIS process, the Commission may wish to consider the specific contribution that UNCTAD, within its mandate in the trade, investment and technology areas, can make to facilitate and enrich the consideration by the second phase of WSIS of the more general aspects of the economic development implications of ICT.
+
+e) The Commission may also wish to consider ways to encourage and facilitate a better understanding of the effects of ICT on the prospects of industries and sectors of particular importance for many developing countries (for example, tourism), and for the emergence of new industries or services in which ICT may help some developing countries to become competitive global players (for example, education-related services). 
+
+	
+TD/B/COM.3/68
+Page 12
+
+TD/B/COM.3/68
+Page 11
+
+GE.04-53405
+

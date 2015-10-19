@@ -1,0 +1,3495 @@
+
+ United Nations  A/63/487
+
+  
+ 
+
+General Assembly  Distr.: General 
+16 October 2008 
+ 
+Original: English 
+
+ 
+
+08-55427 (E)    211008 
+*0855427* 
+
+Sixty-third session 
+Agenda items 118 and 132 
+ 
+
+Programme budget for the biennium 2008-2009 
+ 
+
+Administrative and budgetary aspects of the financing 
+of the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology 
+ 
+ 
+
+  Report of the Advisory Committee on Administrative and 
+Budgetary Questions 
+ 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the following reports: 
+
+ (a) Investing in information and communications technology: information 
+and communications technology strategy for the United Nations Secretariat 
+(A/62/793 and Corr.1 and Add.1, in advance form); 
+
+ (b) Information and communications technology: enterprise systems for the 
+United Nations Secretariat worldwide (A/62/510/Rev.1); 
+
+ (c) Information and communications technology security, disaster recovery 
+and business continuity for the United Nations (A/62/477). 
+
+2. During its consideration of the reports, the Advisory Committee met with the 
+Under-Secretary-General for Management, the Under-Secretary-General for Field 
+Support and the Chief Information Technology Officer, as well as other 
+representatives of the Secretary-General, who provided additional information and 
+clarification. 
+
+3. The reports of the Secretary-General contained in documents A/62/793 and 
+Corr.1 and Add.1 and A/62/510/Rev.1 were submitted pursuant to section II of 
+General Assembly resolution 60/283, in which the Assembly decided to establish the 
+post of Chief Information Technology Officer at the level of Assistant Secretary-
+General in the Executive Office of the Secretary-General and to replace the 
+Integrated Management Information System (IMIS) with a next-generation 
+enterprise resource planning system (ERP). The report on the information and 
+
+
+
+A/63/487  
+ 
+
+08-55427 2 
+ 
+
+communications technology (ICT) strategy (A/62/793 and Corr.1) sets out an overall 
+approach and management framework for the Secretariat’s ICT programmes and 
+infrastructure over the next three to five years. The addendum to that report 
+(A/62/793/Add.1) was submitted in response to a request made by the Advisory 
+Committee during its hearings on the main report in June 2008 for more specific 
+information on the lines of authority, accountability, the division of labour and 
+resource implications resulting from the envisaged change in structure. The report of 
+the Secretary-General on enterprise systems (A/62/510/Rev.1) provides an update of 
+information contained in document A/62/510, including estimated resource 
+requirements for the ERP system until the projected end of the project in 2012. The 
+report on security, disaster recovery and business continuity (A/62/477) responds to 
+requests made by the General Assembly in its resolutions 60/266 (sect. XV) and 
+59/276 (sect. XI).  
+
+4. During the main part of the sixty-second session of the General Assembly, the 
+Advisory Committee considered a series of reports submitted by the Secretary-
+General on information and communications technology concerning enterprise 
+systems (A/62/510), security, disaster recovery and business continuity (A/62/477) 
+and the status of the development of an information and communications technology 
+governance framework (A/62/502). The related report of the Committee 
+(A/62/7/Add.31) has not yet been taken up by the Assembly. However, some of the 
+recommendations and observations contained in the Committee’s report, in 
+particular those related to the resources requested for the biennium 2008-2009, have 
+been overtaken by events, since the Secretary-General has issued more specific 
+proposals on the ICT strategy and the organizational structure of the Office of 
+Information and Communications Technology and revised proposals for enterprise 
+systems, including ERP. As mentioned in its previous report (A/62/7/Add.31, 
+para. 33), the Committee returned to aspects of the disaster recovery and business 
+continuity proposals during its consideration of document A/62/477. The Committee 
+notes that the wide range of ICT issues covered in those reports are interrelated and 
+complement each other. 
+ 
+ 
+
+ II. Information and communications technology strategy for 
+the United Nations Secretariat 
+ 
+ 
+
+ A. Information and communications technology strategy 
+ 
+ 
+
+  Background and context 
+ 
+
+5. The Advisory Committee has frequently stressed that the Organization would 
+benefit greatly from more effective leadership in the area of ICT at the United 
+Nations, which could be exercised through a more centralized approach to managing 
+ICT initiatives and operations Organization-wide. Existing arrangements regarding 
+ICT activities do not provide a coherent strategy and make it difficult to identify all 
+ICT assets, develop and enforce standard methodologies and implement 
+Organization-wide systems. This has led to the proliferation of incompatible and 
+duplicative ICT systems. 
+
+6. In response to General Assembly resolution 56/239, the Secretary-General 
+proposed during the biennium 2002-2003 an ICT strategy with a strategic 
+framework and plan of action to guide the development of information and 
+
+
+
+ A/63/487
+ 
+
+3 08-55427 
+ 
+
+communications technology at the United Nations (A/57/620). The Assembly took 
+note of the proposals in its resolution 57/304. However, the plan of action proposed 
+in that report did not produce the desired results. Recognizing that the lack of 
+effective governance and leadership was the cause of the piecemeal development of 
+systems and databases across the Secretariat, the Advisory Committee, in its first 
+report on the proposed programme budget for the biennium 2004-2005 (A/58/7, 
+para. 126), recommended the creation of a new senior position of Chief Information 
+Officer of the United Nations to exercise effective control over the Organization’s 
+ICT structure, strategic growth plans and operational policies and procedures, as 
+well as lead and coordinate the development of the next generation of major 
+systems. 
+
+7. In his report entitled “Investing in the United Nations: for a stronger 
+Organization worldwide”, the Secretary-General acknowledged that a largely 
+dysfunctional situation had evolved at the United Nations, with multiple ICT units 
+having been created in various departments and at various duty stations but with no 
+functioning integrating mechanism in place, resulting in, inter alia, out-of-date, 
+fragmented systems and failure to fully exploit the potential of ICT to facilitate and 
+support management reform (A/60/692 and Corr.1, paras. 47-52). His proposals to 
+establish the post of Chief Information Technology Officer in the Executive Office 
+of the Secretary-General and to replace IMIS with a next-generation enterprise 
+resource planning system were approved by the General Assembly in its resolution 
+60/283. The Advisory Committee notes that the Chief Information Technology 
+Officer was appointed in August 2007. Upon enquiry, the Committee was informed 
+that the Officer reports directly to the Deputy Secretary-General, who also chairs the 
+Executive Committee on ICT. 
+
+8. In the view of the Advisory Committee, there is an obvious need for strong and 
+central leadership and management of ICT activities at the United Nations, more 
+efficient utilization of ICT resources, modernization of information systems and 
+improvements in the ICT services available to United Nations personnel. The central 
+information management system of the United Nations (IMIS) has not kept up with 
+the changing environment of the Organization and has become obsolete: many 
+processes remain paper-based;1 functional requirements of peacekeeping and 
+humanitarian activities are not covered; and data from different databases cannot be 
+consolidated to provide the meaningful information required to manage the 
+Organization effectively. In addition, comprehensive information on the actual costs 
+of ICT is not available at present. The gaps in functionality result in duplication of 
+effort, as well as loss of productivity and efficiency. In the above-mentioned report, 
+the Secretary-General further stressed that most of the management reform 
+proposals submitted in the context of the “investing” round of reforms could not be 
+implemented without appropriate ICT systems and support (A/60/692, para. 52). 
+The Committee also notes that an Organization-wide survey conducted in January 
+2008 (A/62/793, paras. 8 and 9) to gauge the level of satisfaction of United Nations 
+personnel with respect to 12 core ICT services showed mixed results, particularly in 
+key areas such as ICT training, remote access to United Nations applications and 
+ability to find information on United Nations websites and in document repositories. 
+The Committee notes from annex IV to the report on the ICT strategy (A/62/793) 
+
+__________________ 
+
+ 1  See, for example, the observations of the Board of Auditors on the management of contributions 
+(A/63/5 (Vol. I), chap. II, paras. 33-51). 
+
+
+
+A/63/487  
+ 
+
+08-55427 4 
+ 
+
+that personnel dedicated to ICT functions Secretariat-wide number almost 3,800. 
+Given the resources devoted to ICT, it is essential to ensure that they are managed 
+and utilized effectively and efficiently. 
+
+9. Upon enquiry, the Advisory Committee was provided with additional 
+information in support of the central leadership and management of ICT activities at 
+the United Nations. It was informed that unlike other cross-cutting functions such as 
+finance and human resources, ICT involves the development and operation of many 
+large and complex assets, such as application systems (e.g., ERP), data centres and 
+communication facilities. Such assets must be well integrated in order to take 
+advantage of the potential for economies of scale and scope and reduce development 
+and operating costs. The Committee was further informed that a central leadership 
+structure would facilitate effective planning and coordination of ICT activities and 
+increased reliance on shared application systems and infrastructure, thereby leading 
+to significant efficiency gains and cost savings. 
+
+10. In this connection, the Advisory Committee points to the observation of the 
+Board of Auditors regarding gaps in information system documentation as well as 
+the lack of an Organization-wide data dictionary resulting from the decentralization 
+of the development of applications. The Board has recommended that those gaps be 
+addressed in the context of the current reform exercise and that the entire 
+architecture of systems be fully documented (A/63/5 (Vol. I), chap. II, paras. 311-
+316). In the view of the Committee, the Secretary-General should be requested to 
+implement the recommendation of the Board of Auditors as expeditiously as 
+possible. 
+ 
+
+  General comments 
+ 
+
+11. The Advisory Committee welcomes the efforts that have been made to present 
+a comprehensive report on this complex subject. The Secretary-General has 
+proposed an overall direction for information management in the Secretariat as well 
+as an integrated set of strategies for ICT governance and the management of the 
+Organization’s internal operations, knowledge-sharing and ICT infrastructure. The 
+approach builds on the existing ICT framework and maintains a balance between the 
+centralization and decentralization of ICT functions. The Committee believes that 
+this is necessary to avoid a piecemeal approach, false starts and unwise investments 
+in ICT and to meet the growing demands of the Organization as it becomes 
+increasingly reliant on its technology and communications infrastructure. 
+ 
+
+  Key features of the Secretary-General’s proposal 
+ 
+
+12. The Advisory Committee notes that the intention of the Secretary-General in 
+his reports (A/62/793 and Corr.1 and Add.1) was to set out a road map for the 
+direction of ICT at the United Nations for the next three- to five-year-period. It was 
+informed that the Chief Information Technology Officer had consulted widely 
+within the Secretariat to develop his proposals at Headquarters, offices away from 
+Headquarters and peacekeeping missions, as well as with other United Nations 
+entities and permanent missions. The Secretary-General indicated that the ICT 
+strategy encompasses five cross-cutting priority areas, namely: (a) the ICT 
+management structure; (b) strategic programme delivery; (c) service and 
+performance management; (d) global architecture and standards; and (e) financial 
+control and reporting (see A/62/793, paras. 15-19). 
+
+
+
+ A/63/487
+ 
+
+5 08-55427 
+ 
+
+13. The ICT strategy would be carried out through: 
+
+ (a) Three strategic Organization-wide programmes that build on one another 
+and are critical to the operation of the Organization, namely: 
+
+ • Resource management, for financial, human and other resources 
+
+ • Knowledge management, mainly for the substantive departments 
+
+ • Infrastructure management, for data centres, communications and help desks 
+
+The goals, objectives and key activities of those programmes are set out in tables 1 
+to 3 of the report (A/62/793). The Committee was informed that a number of 
+strategic projects would be planned and implemented over the next five years under 
+the three programmes. For example, ERP is a project under the resource 
+management programme. The resources allocated to it will be included in the 
+organizational structure of the resource management services (see A/62/793, fig. IV). 
+The activities enumerated in tables 1 to 3 of the report are part of the ICT strategy 
+and constitute an inventory of ideas requiring attention that may be developed into 
+projects, depending on the priorities set by the programme steering committees (see 
+A/62/510/Rev.1 and A/62/793, para. 27 (b)); 
+
+ (b) A management framework for a centralized ICT structure for decision-
+making and oversight of related investments and projects, comprising: 
+
+ • A high-level Executive Committee on ICT to make decisions on ICT 
+investments and priorities, chaired by the Deputy Secretary-General with a 
+small number of Under-Secretaries-General from substantive and support areas 
+(A/62/793, para. 27 (a)) 
+
+ • Steering committees for decision-making and oversight of each of the three 
+ICT programmes (ibid., para. 27 (b)) 
+
+ • Advisory groups representing the client departments of ICT services to provide 
+input on their requirements and priorities (ibid., para. 28) 
+
+ • A Chief Information Technology Officer who is responsible for the overall 
+direction and performance of ICT activities in the Organization (ibid., 
+paras. 29-32) 
+
+ • A central independent Office of Information and Communications Technology 
+to implement Organization-wide ICT activities, headed by the Chief 
+Information Technology Officer and reporting to the Executive Office of the 
+Secretary-General through the Deputy Secretary-General. The Office would 
+include the current Information Technology Services Division of the 
+Department of Management and would consolidate the “strategic” or central 
+functions currently performed by ICT units across the Secretariat (ibid., paras. 
+33-35) 
+
+ • Decentralized information and communications technology units in Secretariat 
+departments and at offices away from Headquarters to provide departmental 
+systems and services based on organizational standards established by the 
+Office of Information and Communications Technology and to deal with local 
+and operational issues (ibid., paras 43-46) 
+
+ (c) The elaboration of the organizational structure and responsibilities of the 
+Office of Information and Communications Technology (see A/62/793/Add.1) and a 
+
+
+
+A/63/487  
+ 
+
+08-55427 6 
+ 
+
+plan for the implementation of the ICT strategy in two phases over the next three to 
+five years (ibid., para. 81). 
+
+14. During the first phase of the implementation of the ICT strategy, the Office of 
+Information and Communications Technology will, among other activities, conduct 
+structural reviews of Secretariat-wide ICT units with a view to rationalizing and 
+harmonizing ICT operations and structures and defining coordination and reporting 
+relationships between the Office and other ICT units. The Advisory Committee is 
+of the view that a comprehensive inventory of ICT capacities across the 
+Secretariat is very much needed. Such an inventory should include not only 
+personnel dedicated to ICT functions, but also staff carrying out such functions 
+on a part-time basis. The Committee expects that this exercise will lead to 
+enhanced efficiency that should be reported to the General Assembly in the 
+context of the proposed programme budget for the biennium 2010-2011. 
+
+15. In response to its request, the Advisory Committee was provided with a 
+breakdown of ICT personnel by category/grade and by department/office (see annex I). 
+ 
+
+  Observations and comments 
+ 
+
+16. The Secretary-General’s plan for the management of ICT activities in the 
+Secretariat is based on strong central leadership for the establishment and 
+implementation of Organization-wide ICT standards and activities along with a 
+decentralized approach to meet the specific programmatic and operational 
+requirements of all departments. The Committee agrees with the Secretary-General 
+that only “strategic” or Organization-wide functions should be centralized. It notes 
+that three thematic clusters are to be established: (a) resources management, which 
+targets administrative groups; (b) knowledge management, for substantive groups; 
+and (c) infrastructure management, for ICT specialists. The Advisory Committee 
+broadly agrees with the approach proposed by the Secretary-General. 
+
+17. As discussed above, the proposed ICT organizational structure is built around 
+the following six core elements: (a) the Executive Committee on ICT; (b) steering 
+committees on the ICT programmes; (c) advisory bodies; (d) the Chief Information 
+Technology Officer; (e) the Office of Information and Communications Technology; 
+and (f) other ICT units. The Committee recognizes that ICT has become an 
+integral part of the work of United Nations staff; it can no longer be viewed 
+simply as a technology, but must be considered as an essential tool to support 
+work processes. ICT governance mechanisms should therefore involve staff and 
+managers across all departments and duty stations who are affected by the ICT 
+systems and services provided by the Organization. Under the Secretary-
+General’s proposal, decisions on ICT investments and priorities would be made by 
+the Executive Committee on ICT, comprising senior managers and the Chief 
+Information Technology Officer, not by technical specialists alone. Similarly, users 
+of ICT systems and services would have clear mechanisms for making their needs 
+known and having them taken into account through the programme steering 
+committees and advisory groups. Specialists in the Office of Information and 
+Communications Technology and departmental ICT units would be responsible and 
+accountable for implementing systems and providing services. 
+
+18. The Advisory Committee recognizes that the ICT governance mechanisms 
+envisaged within the Secretariat are intended to provide for strong central 
+leadership and the engagement of different groups of stakeholders. It is the 
+
+
+
+ A/63/487
+ 
+
+7 08-55427 
+ 
+
+Committee’s view that an excessively cumbersome or bureaucratic structure 
+can hinder decision-making and dilute accountability. It stresses that the 
+Secretary-General should keep the ICT governance structure under review and 
+that he should propose any necessary adjustments to make it simpler and 
+operationally effective as a policy-setting and management instrument. 
+
+19. Concerning the proposals on the ICT management framework, the Advisory 
+Committee notes that they fall within the purview of the Secretary-General in his 
+role as Chief Administrative Officer of the Organization and recognizes the 
+Secretary-General’s prerogative in constituting the teams as he deems appropriate. 
+The General Assembly should be kept informed of changes to this framework 
+in the context of its consideration of the proposed programme budget. 
+
+20. The Advisory Committee believes that the successful integration of central 
+ICT functions across the Secretariat is essential to achieving the key goals of 
+coherence and coordination, which have so far eluded the United Nations. 
+Repeated failures to meet these objectives will result in increased costs and 
+delays in the implementation of key objectives of management reform, such as 
+the implementation of the International Public Sector Accounting Standards 
+(IPSAS) (see para. 54 below). 
+
+21. In this connection, the Advisory Committee points out that the 
+implementation of a governance structure and the establishment of the Office 
+of Information and Communications Technology alone will not be sufficient for 
+the achievement of those goals, which would require the Office effectively to 
+become the entity that oversees the overall strategic ICT direction for the 
+Organization, plans and coordinates Secretariat-wide ICT activities and 
+provides enterprise systems and infrastructure. To achieve those ends, it would 
+be necessary to put into effect the measures enumerated in paragraph 35 of the 
+report (A/62/793), which support coherence and coordination. This would 
+require that new procedures and working methods be put into place, in 
+cooperation with the Department of Field Support, the Office of Human 
+Resources Management, the Office of Programme Planning, Budget and 
+Accounts and the Office of Central Support Services. In the view of the 
+Committee, the establishment of these procedures also falls within the purview 
+of the Secretary-General. Concerning the function described under paragraph 
+35 (o) of the report, the Committee considers that a clarification of the role of 
+the Office of Information and Communications Technology and its Chief in the 
+area of procurement is required. 
+
+22. In section V of his report, the Secretary-General provided some general 
+information on the effectiveness and efficiencies expected from the implementation 
+of the ICT strategy. In response to its request, the Advisory Committee was provided 
+with additional information, including examples of areas in which efficiency gains 
+could be realized as a result of the implementation of the ICT strategy. For example, 
+the consolidation of numerous existing help desks into a centralized round-the-clock 
+global service desk for the entire Organization would reduce overall operating costs, 
+and the integration of disaster recovery and business continuity services for the 
+Secretariat would lead to considerable cost savings compared with the decentralized 
+local approaches taken by each of the departments, offices away from Headquarters 
+and field missions. The Committee believes that there is a need to identify and 
+quantify more precisely the efficiency gains and/or benefits expected from the 
+
+
+
+A/63/487  
+ 
+
+08-55427 8 
+ 
+
+implementation of the ICT strategy. It recommends that the Secretary-General 
+be requested to define specific objectives in this regard. In addition, the 
+Secretary-General should explain the methodology and benchmarks used to 
+identify and measure those benefits and report thereon in the context of the 
+proposed programme budget for the biennium 2010-2011. 
+ 
+ 
+
+ B. Proposed structure of the Office of Information and 
+Communications Technology 
+ 
+ 
+
+23. In the addendum to his report (A/62/793/Add.1), the Secretary-General 
+presented concrete proposals for the organizational structure of the Office of 
+Information and Communications Technology and for the reallocation of existing 
+resources to establish it. The Advisory Committee notes that this represents a step 
+towards the implementation of the ICT management framework set out in document 
+A/62/793. At this stage, the proposal concerns the integration of existing resources 
+from the Information Technology Services Division of the Department of 
+Management and the Information and Communications Technology Division of the 
+Department of Field Support. The salient features of the proposal are as follows: 
+
+ (a) The Office of Information and Communications Technology would be an 
+independent organizational unit that reports directly to the Executive Office of the 
+Secretary-General but would not be an office within the Executive Office; 
+
+ (b) The Chief Information Technology Officer would continue to report to 
+the Deputy Secretary-General; 
+
+ (c) The Office of Information and Communications Technology would have 
+a total staffing complement of 165 posts, including 136 regular budget, 13 support 
+account and 13 extrabudgetary posts; 
+
+ (d) The entire resources of the Information Technology Services Division 
+would be transferred to the Office of Information and Communications Technology, 
+including 135 regular budget, 13 extrabudgetary and 2 support account posts. The 
+post of the Chief would be redeployed to the Office from section 1, Overall 
+policymaking, direction and coordination, of the programme budget. In addition, 11 
+support account posts would be transferred from the Department of Field Support, 
+along with 2 contractors and $4,263,500 in non-post resources; 
+
+ (e)  Only the “strategic” ICT activities of the Information and 
+Communications Technology Division, would be incorporated into the Office. These 
+would include, for example, the establishment of ICT standards and architecture and 
+the development and implementation of major information systems to be shared 
+across the Organization; 
+
+ (f) The Office would have a coordination role in planning and implementing 
+the ICT infrastructure, including, for example, reviewing the ICT budget proposals 
+put forward by the Department of Field Support and reviewing performance and 
+approving the appointments and promotions of ICT section chiefs; 
+
+ (g) The Information and Communications Technology Division would 
+continue to exercise operational control over its ICT resources at Headquarters and 
+in the field. It would also operate the facilities at the United Nations Logistics Base 
+
+
+
+ A/63/487
+ 
+
+9 08-55427 
+ 
+
+at Brindisi, Italy (UNLB) and site B with the Office of Information and 
+Communications Technology providing “strategic oversight”; 
+
+ (h) The Chief Information Technology Officer would exercise existing 
+authority granted to the Information Technology Services Division of the Office of 
+Central Support Services under Secretary-General’s bulletin ST/SGB/1998/11 to 
+oversee and coordinate ICT activities of other departments and offices away from 
+Headquarters; 
+
+ (i) The Office would be treated as a separate section of the budget (sect. 36) 
+under part VIII, Common support services, in the programme budget for 2008-2009; 
+
+ (j) There would be no change in the level of resources for the biennium 
+2008-2009. 
+ 
+
+  Observations and comments 
+ 
+
+24. The proposed organizational structure of the Office of Information and 
+Communications Technology is provided in the annex to the report 
+(A/62/793/Add.1). The Office would comprise the Office of the Chief Information 
+Technology Officer, a Strategic Management Service, an Infrastructure Management 
+Service and an Application Management Division. The Committee notes that the 
+proposed new organizational structure does not entail a change in the overall level 
+of resources requested for the biennium 2008-2009. Upon enquiry, the Committee 
+was informed that the Secretariat considered that the strategic framework approved 
+for the Information Technology Services Division would continue to apply to the 
+Office of Information and Communications Technology and that it was not 
+necessary for the Committee for Programme and Coordination to review the 
+proposal at this stage. Any programmatic changes that may be proposed for the 
+Office for the biennium 2010-2011 would be subject to review by the Committee for 
+Programme and Coordination prior to their consideration and approval by the 
+General Assembly. 
+
+25. Concerning the proposal to create a new budget section, the Advisory 
+Committee was informed that it would facilitate the segregation of resources and 
+functions under the Office of Information and Communications Technology from 
+other parts of the Secretariat, given the unique nature of the reporting line, with the 
+Chief reporting directly to the Deputy Secretary-General. 
+
+26. With respect to the organizational structure, the Advisory Committee notes that 
+the proposals under consideration would consolidate Organization-wide functions 
+while maintaining a decentralized approach to operations. The Office of Information 
+and Communications Technology would essentially comprise the current 
+Information Technology Services Division of the Department of Management and 
+incorporate Organization-wide activities now conducted by the Information and 
+Communications Technology Division of the Department of Field Support. The 
+Committee notes that some 80 per cent of ICT resources would continue to be 
+controlled at the departmental level. However, the Chief Information Technology 
+Officer and the Office of Information and Communications Technology would 
+exercise greater coordination and oversight over the ICT infrastructure, investments 
+and activities. 
+
+27. The Advisory Committee considers that there is no single governance 
+model that can be assumed to be solely appropriate for a global Organization 
+
+
+
+A/63/487  
+ 
+
+08-55427 10 
+ 
+
+such as the United Nations, which has many offices worldwide, including in 
+remote and unstable areas, that deal with a wide range of activities and 
+function under a variety of administrative and management arrangements. 
+There will always be some tension regarding the degree of centralization that is 
+appropriate. However, in order for decentralization to be effective, there must 
+be a strong central structure to ensure a coherent, Organization-wide 
+approach. 
+
+28. The Advisory Committee was informed that the 11 support account posts 
+proposed to be transferred from the Information and Communications Technology 
+Division to the Office of Information and Communications Technology included 
+1 P-5, 3 P-4, 4 P-3, 2 P-2 and 1 General Service posts. In addition, two contractors 
+at the P-3 level would be transferred to the Office. Responsibility for the 
+development and support of systems for talent management, the enterprise portal, 
+enterprise identity management and rations and fuel management systems, as well as 
+Galaxy, would be transferred from the Information and Communications 
+Technology Division to the Office. The Information and Communications 
+Technology Division would continue to be responsible for supporting the remaining 
+38 systems (see annexes II and III below). 
+
+29. The Advisory Committee considers that the transfer of the P-5 post would 
+weaken the management structure of the Information and Communications 
+Technology Division, which has only two P-5 posts. Given the existing capacity of 
+the Information Technology Services Division, which already has 13 P-5 posts, the 
+Committee is of the view that the consideration of the transfer of the post should be 
+deferred until the review referred to in paragraph 14 above has been completed. 
+
+30. The Advisory Committee emphasizes that the Chief Information 
+Technology Officer and the head of the Department of Field Support should 
+ensure that any changes in the structure of the Information and 
+Communications Technology Division will not have a negative impact in any 
+way on the support provided to field operations. Upon enquiry, the Committee 
+was informed that the proposed transfer of posts from the Information and 
+Communications Technology Division to the Office of Information and 
+Communications Technology was intended to ensure that enterprise applications and 
+infrastructure are closely aligned with the Secretariat-wide strategy. The Information 
+and Communications Technology Division will continue to be responsible for field-
+specific systems and activities that are integral to the operational requirements of 
+field missions and will retain mission-specific ICT capabilities to provide support to 
+the field.  
+
+31. The division of labour and responsibilities between the Office of Information 
+and Communications Technology and the Information and Communications 
+Technology Division are set out in paragraphs 7 and 8 of the addendum 
+(A/62/793/Add.1). This constitutes a step towards the implementation of the new 
+functions of the Office enumerated in paragraph 35 of the main report (A/62/793) 
+(see para. 21 above). In the view of the Advisory Committee, some of the 
+elements listed under paragraphs 7 and 8 are vague and ambiguous and merit 
+further clarification. The Committee recognizes, however, that the integration 
+of some of the functions of the Information and Communications Technology 
+Division into the Office of Information and Communications Technology is a 
+
+
+
+ A/63/487
+ 
+
+11 08-55427 
+ 
+
+complicated process and that working methods and procedures will need to be 
+worked out and formalized in the light of experience. 
+
+32. The Advisory Committee recalls that in its resolution 60/283 the General 
+Assembly decided to establish the post of Chief Information Technology Officer at 
+the level of Assistant Secretary-General in the Executive Office of the Secretary-
+General. In this connection, the Committee also recalls paragraph 59 of its first 
+report on the proposed programme budget for the biennium 2008-2009 (A/62/7).  
+
+33. The Advisory Committee notes the placement of the Office of Information and 
+Communications Technology as an organizational unit reporting directly to the 
+Executive Office of the Secretary-General but that is not an office within the 
+Executive Office, headed by the Chief Information Technology Officer, who reports 
+directly to the Deputy Secretary-General. The Chief has further responsibilities as a 
+key member of several high-level committees, including the Management 
+Committee, the Executive Committee on ICT and the ERP Steering Committee. The 
+Advisory Committee recommends that the Secretary-General provide an 
+update on such management and reporting arrangements in the context of 
+performance reports and the programme budget for the biennium 2010-2011. 
+In addition, the Secretary-General should be requested to provide an 
+assessment of the organizational arrangements in the context of the proposed 
+programme budget for 2012-2013. Furthermore, in the light of the considerable 
+investments to be made for ICT infrastructure, systems and services, as well as 
+the strategic importance and high risks associated with ongoing projects such 
+as the implementation of ERP, the Committee is of the view that the General 
+Assembly should be provided with updates on ICT activities on a regular basis.  
+
+34. The Advisory Committee is of the view that the transfer of the Information and 
+Technology Services Division from the Department of Management to the Office of 
+Information and Communications Technology will have a major impact on the 
+structure of the Office of Central Support Services. The structure of the Department 
+of Field Support will also be affected, but to a lesser degree. Upon request, the 
+Committee was provided with organization charts of the structure of the Office of 
+Central Support Services and the Information and Communications Technology 
+Division of the Department of Field Support (see annexes IV and V). 
+
+35. The Advisory Committee recommends that information regarding system-
+wide coordination on ICT policy and strategy with other entities of the United 
+Nations be provided in the context of future budgets. It emphasizes the need for 
+close cooperation and coordination among United Nations organizations in this 
+matter, in particular in the area of enterprise systems. As a later adopter of 
+ERP systems, the United Nations stands to benefit from the lessons learned by 
+other entities of the United Nations system. The Committee further 
+recommends that the Chief Information Technology Officer seek synergies and 
+opportunities for collaboration in the area of ICT among the Secretariat and 
+the funds, programmes and specialized agencies, since it believes that there is 
+potential for the realization of significant savings from the harmonization of the 
+delivery of ICT throughout the United Nations family. The Committee 
+encourages the Secretary-General, as Chairman of the United Nations System 
+Chief Executives Board for Coordination (CEB), to foster deeper coordination 
+and collaboration among United Nations organizations in all matters related to 
+information and communications technology.  
+
+
+
+A/63/487  
+ 
+
+08-55427 12 
+ 
+
+36. On a related matter, the Advisory Committee was informed that a growing 
+number of United Nations entities are using the services of the International 
+Computing Centre (ICC) and that recent comparative studies had demonstrated the 
+cost-effectiveness of the Centre. In this connection, the Committee recalls General 
+Assembly resolution 2741 (XXV) of 17 December 1970 on electronic data 
+processing in the organizations of the United Nations system. The Committee notes 
+that there is a considerable level of technical expertise in ICC. It requests the 
+Secretary-General to continue to utilize the services of the Centre in supporting 
+the ICT activities of the United Nations.  
+
+37. The Advisory Committee was provided with additional information concerning 
+an initiative entitled the “ICT Fast-Forward Programme”, launched by the Chief 
+Information Technology Officer in September 2008, which aims to encourage 
+innovation and team collaboration among ICT personnel. The fast-forward 
+initiatives are proposed by ICT units from across the Organization and are 
+implemented in 90 days or less. Among the first initiatives selected for 
+implementation are “ICT greening”, which aims to establish ICT policies and 
+practices to reduce the waste of energy and paper supplies; “document subscription 
+service”, to send automatic notification e-mails to registered users with links to the 
+types of documents subscribed to as they become available in the Official Document 
+System; and “iSeek global access”, to provide access to the iSeek Intranet site to 
+remote United Nations offices.  
+ 
+
+  Recommendations of the Advisory Committee 
+ 
+
+38. In paragraph 38 of the report (A/62/793/Add.1), the Secretary-General 
+requested the General Assembly to approve the proposals therein, which would 
+entail the redeployment of post and non-post resources proposed for the 
+establishment of the Office of Information and Communications Technology. The 
+Committee recommends approval of that request subject to its observations in 
+paragraph 29 above.  
+
+39. The Advisory Committee recommends that the General Assembly endorse 
+the overall approach relating to the comprehensive ICT strategy for the 
+Secretariat, as contained in document A/62/793, subject to the Committee’s 
+comments on the proposals.  
+
+40. The Advisory Committee further recommends that the General Assembly 
+note the Secretary-General’s intention to proceed with structural reviews and 
+the rationalization and harmonization of all ICT units, including the 
+Information Technology Services Division of the Department of Management, 
+the Information and Communications Technology Division of the Department 
+of Field Support and UNLB. The Secretary-General should be requested to 
+report to the Assembly on the results of such reviews in the context of the 
+proposed programme budget for 2010-2011 and other relevant budget 
+proposals, including the impact on and changes proposed to the approved 
+programme of work, changes in organizational structures and the realignment 
+of resources that will be required (A/62/793, paras. 83 (c ) and (d)). 
+ 
+ 
+
+
+
+ A/63/487
+ 
+
+13 08-55427 
+ 
+
+ III. Enterprise systems for the United Nations  
+Secretariat worldwide 
+ 
+ 
+
+41. The report of the Secretary-General (A/62/510/Rev.1) covers enterprise 
+systems that are to be managed centrally for the entire Organization under the 
+authority of the Chief Information Technology Officer, namely enterprise resource 
+planning; enterprise content management; and customer relationship management. 
+
+42. As mentioned in paragraph 4 above, the Advisory Committee considered a 
+previous report (A/62/510) on enterprise systems during the main part of the sixty-
+second session, in November 2007, and issued its report thereon (A/62/7/Add.31), 
+which is before the General Assembly.  
+
+43. The revised document includes the additional information requested by the 
+Advisory Committee in its report and provides, inter alia, a more precise description 
+of the functionalities of the project, a two-phase implementation strategy, a 
+proposed timetable and budget estimates to the end of 2012. The resource 
+requirements and timelines for the implementation of the enterprise systems were 
+based on the assumption that the Secretary-General’s proposals would have been 
+approved by the General Assembly at its sixty-second session, with a funding period 
+starting from 1 July 2008. Since the report is to be considered by the Assembly 
+during the main part of its sixty-third session, project schedules and resource 
+requirements will have to be adjusted accordingly.  
+ 
+ 
+
+ A. Enterprise resource planning  
+ 
+ 
+
+  Background  
+ 
+
+44. As discussed in paragraph 8 above, there are numerous gaps in the 
+functionalities covered by IMIS. Those weaknesses have been apparent for some 
+time, as noted by the Advisory Committee (see e.g., A/56/7, para. 93). The 
+Committee recalls that the IMIS gap study conducted in March 2005 had confirmed 
+that existing United Nations management information systems had become obsolete 
+and could not adequately support the changing requirements of the Organization in 
+the context of the management reform initiatives launched in response to the 2005 
+World Summit Outcome (see General Assembly resolutions 60/1 and 60/283), 
+including the proposed adoption of the International Public Sector Accounting 
+Standards; an improved internal control regime; strengthened oversight and 
+accountability; and the availability of accurate and timely information to support 
+decision-making. The study had concluded that it would be more cost-effective to 
+replace existing systems with a standard off-the-shelf enterprise resource planning 
+product than to engage in a major upgrade of IMIS (A/60/846/Add.1). In view of 
+these considerations, the Assembly decided to replace IMIS with an ERP system 
+(resolution 60/283).  
+
+45. In its report for the biennium ended 31 December 2007, the Board of Auditors 
+noted that the ERP project was not only one of the Secretariat’s largest information 
+technology projects, it was also one of the main drivers to make the overall 
+management of the Administration more modern and uniform (see A/63/5 (Vol. I), 
+chap. II, para. 125, and A/63/474, paras. 24 and 25; see also para. 57 below). The 
+Board also stated its view that the report of the Secretary-General (A/62/510/Rev.1) 
+
+
+
+A/63/487  
+ 
+
+08-55427 14 
+ 
+
+constituted a sound basis for a decision on the ERP project. The Advisory 
+Committee emphasizes that the implementation of an enterprise resource planning 
+system is a major undertaking, in terms of the scope and magnitude of the project 
+itself as well as its potential to transform and modernize the administrative function 
+and streamline working methods across the Organization. The Committee notes that 
+the project will involve all parts of the Secretariat and will affect the management of 
+its operations for many years. All administrative support functions will be 
+consolidated under a single integrated information system for the entire 
+Organization, including peacekeeping and field missions. Among these are 
+administrative functions such as programme planning, budgeting, contributions, 
+performance, human resources management, payroll, procurement, asset and facility 
+management, travel and reporting, as well as support functions specific to 
+peacekeeping operations in the areas of logistics, transportation and fuel and rations 
+systems. The Committee was informed that, at present, some 250 information 
+systems Organization-wide are used to accomplish these functions, most of which 
+are either to be integrated in or linked to ERP. Many of them are stand-alone 
+systems that do not allow the exchange and transfer of data. 
+
+46. In this connection, the Advisory Committee recalls that during the biennium 
+2006-2007, the Office of Programme Planning, Budget and Accounts undertook an 
+external review to assess the extent to which the organizational structure, staffing, 
+management framework and operations fulfilled the Office’s objectives in an 
+economical, efficient and effective manner. The review revealed that as a 
+consequence of the Office’s deficient information systems, its business processes 
+were heavily manual and time-consuming.  
+ 
+
+  Project status 
+ 
+
+47. In his earlier report (A/62/510), the Secretary-General had proposed to 
+establish a start-up capacity for the enterprise resource planning project and to 
+provide a more realistic projection of the overall costs of the project once a detailed 
+inventory of functional and technical requirements, which was then under way, had 
+been completed and priorities established.  
+
+48. The Advisory Committee notes that the compilation of detailed functional 
+requirements for ERP software was completed in December 2007. It was informed 
+that the project director had been appointed, a temporary team had been assembled, 
+comprising representatives from Headquarters, offices away from Headquarters and 
+field staff, that the software selection process was at an advanced stage and that 
+work on the preparation of a request for proposals for integration services was 
+ongoing. The Committee notes that an interim team of 16 staff has been put in place 
+through an ad hoc arrangement. 
+
+49. As indicated in paragraphs 40 to 45 and figure II of the revised report 
+(A/62/510/Rev.1), ERP is envisaged to be implemented in two waves, following a 
+preparatory phase during which the system architecture and high-level business 
+process re-engineering, as well as the acquisition of the ERP software and 
+integration services, will be completed. The first is expected to take 30 months and 
+will focus on key management priorities, including the core finance, human 
+resources, procurement and asset management functions, which are also required for 
+compliance with IPSAS. The second will target the remaining functionalities, 
+
+
+
+ A/63/487
+ 
+
+15 08-55427 
+ 
+
+including results-based management, risk management, transportation and travel, 
+over a 24-month period.  
+ 
+
+  Project governance 
+ 
+
+50. The Advisory Committee notes that the ERP governance structure is distinct 
+from the ICT management structure discussed above. During the course of its 
+hearings with the representatives of the Secretary-General, the Committee received 
+additional information on the project governance structure and reporting lines (see 
+A/62/510/Rev.1, paras. 28-30) as follows:  
+
+ (a) The ERP project director will report to the USG for Management in her 
+capacity as the Chairperson of the ERP Steering Committee and to the Chief 
+Information Technology Officer on day-to-day project management and technology 
+issues. The ERP project team and budget will be placed within the Office of 
+Information and Communications Technology; 
+
+ (b) This structure will facilitate the smooth implementation of the project by 
+ensuring that both the technology and infrastructure requirements of ERP are 
+managed and that the project fully meets requirements in such areas as human 
+resources, accounts, budget and so on;  
+
+ (c) In order to promote coherence and to ensure that all stakeholders are 
+involved in the development of the project, user committees will be established both 
+regionally and at Headquarters. Those groups will play an advisory role and ensure 
+that user departments are involved in the project during the course of planning and 
+implementation. 
+
+51. An updated organization chart of the proposed governance framework of the 
+ERP project shown in figure 1 of the report was provided to the Advisory 
+Committee (see annex VI). 
+
+52. The Advisory Committee believes that there is a need for clear lines of 
+responsibility and accountability for the overall project and trusts that 
+Secretary-General will keep such arrangements under review and make 
+adjustments as appropriate, in the light of experience. 
+
+53. In this connection, the Committee stresses that the introduction of ERP 
+will have a direct impact on vast numbers of staff and information systems and 
+on the Organization as a whole. It is likely that work processes, roles and 
+responsibilities will undergo consequential changes. The project will require the 
+full support and commitment of managers and it should be viewed as a business 
+project, with priority being given to satisfying functional needs. It is therefore 
+understandable that the Chairperson of the ERP Steering Committee (the 
+Under-Secretary-General for Management) should have overall responsibility 
+for the project. The Committee notes that the providers of support services in 
+the finance, supply chain, human resources and central support areas are 
+represented on the Steering Committee. It trusts that the Steering Committee 
+will also provide for input from the substantive departments, which, as the end-
+users of the support services, will be equally affected by the transition to ERP. 
+The Committee also emphasizes that the role of ICT should not be minimized. 
+ICT analysts and other staff are key players who must remain deeply involved 
+in all phases of the project, including the business mapping, business process 
+review and specification of customization requirements to ensure that a viable, 
+
+
+
+A/63/487  
+ 
+
+08-55427 16 
+ 
+
+technically sound solution is put into place. In the Committee’s view, the ERP 
+project should be treated as a joint venture, driven by business process 
+demands and delivered through complex information technology systems 
+requiring a high level of technical expertise.  
+ 
+
+  International Public Sector Accounting Standards 
+ 
+
+54. As a consequence of the delay in the ERP project, the Advisory Committee 
+notes that IPSAS compliance must be postponed until 2011 at the earliest. In this 
+connection, the Committee notes the comments of the Board of Auditors (A/63/5 
+(Vol. I), chap. II, paras. 123 and 124) regarding the need to integrate, through a joint 
+master plan, the workplans of the IPSAS accounting team and the team responsible 
+for the financial module of the ERP in order to better coordinate deliverables for the 
+two projects. The Committee has commented on IPSAS (A/63/474, paras. 20-23) 
+and has endorsed the recommendations of the Board of Auditors. The Committee 
+urges the Secretary-General to take appropriate action to implement the 
+Board’s recommendations expeditiously.  
+ 
+
+  Other observations and recommendations 
+ 
+
+55. In section II of its resolution 60/283, the General Assembly requested the 
+Secretary-General to provide a detailed explanation and concrete examples of how it 
+is envisaged that the proposals will enhance the effectiveness of the work of the 
+Organization and address current deficiencies. In section III of his report 
+(paras. 23-27), the Secretary-General provided some information on the benefits 
+expected from the implementation of the ERP system in such areas as increased 
+operational effectiveness and timeliness, enhanced treasury operations, higher client 
+satisfaction, productivity gains and cost avoidance, as well as improved 
+accountability and transparency. The Committee is of the view that investments in 
+information technology should result in tangible and measurable efficiency and 
+productivity gains. It therefore recommends that the Secretary-General be 
+requested to identify specific objectives in this regard and to define the methods 
+for measuring the impact of ERP implementation on the performance of the 
+administrative functions of the Organization (see para. 69 (b) below).  
+
+56. In his report (A/62/510/Rev.1, para. 22), the Secretary-General sets out the 
+principles that will guide the ERP project, including the need to increase the 
+uniformity and compatibility of business practices across the Secretariat, limit the 
+extent of customization of the software, satisfy the requirements of the offices away 
+from Headquarters, peace operations and other missions, and maintain open 
+communication with Member States, managers and staff throughout the project. The 
+Advisory Committee points out that, among the lessons learned from other 
+organizations that have implemented and maintained ERP systems is that it is 
+necessary to limit customization to a minimum in order to ensure cost-effectiveness 
+as well as flexibility in adapting to new versions of the software as they become 
+available. An overly customized ERP package is costly to design and implement, 
+becomes burdensome to maintain and cannot be aligned with new technologies after 
+initial implementation. While software solutions should be fully compatible with the 
+business needs of the Organization, the Committee believes that administrative 
+processes should be examined and adapted in line with the chosen software 
+wherever possible. The Committee emphasizes that customization of the ERP 
+software should be kept to a minimum, and believes that any customization 
+
+
+
+ A/63/487
+ 
+
+17 08-55427 
+ 
+
+would need to be fully justified. It further expects that all the principles 
+outlined in paragraph 22 of the report of the Secretary-General should be fully 
+observed and reported upon. 
+
+57. The time and budget risks inherent to the project, along with the procedures 
+proposed for mitigating such risks, are specified in paragraphs 75 and 76 of the 
+report. The Advisory Committee notes that the risks in this area are related to 
+procedures for cross-organizational consultations and decision-making. The 
+Committee emphasizes the critical importance of complying with timelines so 
+as not to delay the project. As indicated in its observations on the report of the 
+Board of Auditors (A/63/474, para. 25), the Committee is of the view that 
+implementation of ERP requires careful monitoring, given the importance and 
+significant cost of the project. Accordingly, the General Assembly should be 
+kept apprised of developments in this regard. The Committee looks forward to 
+future reviews by the Board as regards the preparatory process for ERP, as 
+well as for IPSAS. In this connection, the Committee notes that the Secretary-
+General intends to conduct a short evaluation after each project wave, and to submit 
+annual progress reports for the consideration of the Assembly, including details of 
+overall progress against the baseline (see A/62/510/Rev.1, para. 40). 
+
+58. Upon request, the Advisory Committee was provided a list of United Nations 
+entities having implemented ERP systems (see annex VII). The list shows that most 
+of the organizations have experience of at least five years with ERP systems. The 
+Committee was informed that the harmonization of ERP operational and 
+administrative practices and processes are discussed in the context of the ICT 
+network of the CEB High-level Committee on Management. In addition, the ERP 
+project team consults on a regular basis with the United Nations Children’s Fund 
+(UNICEF), United Nations Development Programme (UNDP), the Office of the 
+United Nations High Commissioner for Refugees and the World Food Programme. 
+During the preparatory phase of the project, those entities provided considerable 
+assistance in formulating the initial plan and shared their experiences in the 
+acquisition of ERP software, integration and other support services, as well as in 
+business process re-engineering and project management. The Committee stresses 
+that the project team should maintain liaison with their counterparts in other 
+United Nations entities so as to exchange experience and best practices. 
+
+59. The Advisory Committee notes that the ERP software will be hosted at the data 
+centre at UNLB and a secondary site in Valencia, Spain, as proposed in the disaster 
+recovery and business continuity project (A/62/477) (see para. 86 below). 
+ 
+
+  Recommendations on resources and financing arrangements 
+ 
+
+  Posts 
+ 
+
+60. Regarding staffing requirements, the Secretary-General is seeking the same 
+resources requested in his previous report (A/62/510). He indicates that the ERP 
+project cannot be properly initiated until the project team is in place. A core project 
+team would consist of 44 temporary posts (1 D-2, 6 D-1, 12 P-5, 13 P-4, 5 P-3, 
+7 General Service (Other level)) (A/62/510/Rev.1, paras. 60-64). The Advisory 
+Committee was informed that as the implementation of ERP progresses, it is 
+expected that the functions of 18 posts would be gradually phased out during the 
+second wave of implementation (see para. 49 above), as shown in table 1 below.  
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 18 
+ 
+
+  Table 1 
+  Post requirements (jointly financed) 
+
+ 
+
+Category 2008-2009 2010-2011 2012a 
+
+Professional and above 
+D-2 1 — — 
+D-1 6 — (1) 
+P-5 12 — (5) 
+P-4/3 18 — (8) 
+
+ Subtotal 37 — (14) 
+
+General Service and related 
+Other level 7 — (4) 
+
+ Subtotal 7 — (4) 
+
+ Total 44 — (18) 
+ 
+
+ a Provisional, depending on the starting date of the implementation of the ERP project. 
+ 
+ 
+
+61. The Advisory Committee recognizes the need for a dedicated capacity to 
+support the implementation of the enterprise resource planning project and 
+recommends approval of the Secretary-General’s staffing proposals. It requests 
+that the posts be filled as required, in accordance with the needs of the project. 
+ 
+
+  Estimated requirements 
+ 
+
+62. The overall resource requirements for the implementation of the ERP system in 
+the Secretariat over a five-year period are estimated at $285,560,600 (at current 
+rates). This amount includes a contingency provision of 15 per cent of project cost, or 
+$37,247,000. As noted by the Secretary-General (A/62/510/Rev.1, para. 54), pending 
+the conclusion of procurement activities, this amount has not been established on the 
+basis of firm contract costs for software and system integration services. It represents 
+an estimate of the cost of the implementation and deployment of the ERP system, 
+taking into account current market pricing, the ERP project costs of other United 
+Nations organizations and advice sought from industry sources. The Advisory 
+Committee notes that costs for software customization and integration services will 
+be known only once the business process re-engineering phase has been completed 
+and specific customization requirements have been identified and formalized.  
+
+63. A breakdown of the overall estimate of $248,313,600, excluding the 
+contingency provision, is provided in table 1 and paragraph 54 of the Secretary-
+General’s report. This includes $30.0 million for software licences and 
+customization, $128.7 million for integration costs, $47.9 million for project and 
+change management, $37.0 million for training and $4.7 million for operational 
+costs. Table 2 of the report contains a summary of overall resource requirements by 
+funding period and source of funds until the end of the project. The Secretary-
+General’s estimates for the current biennium were based on the assumption that the 
+project would be approved by the General Assembly during its sixty-second session, 
+with funding commencing from 1 July 2008. 
+
+64. Upon enquiry, the Advisory Committee was provided with updated 
+information on the resources requested for the biennium 2008-2009, given the delay 
+
+
+
+ A/63/487
+ 
+
+19 08-55427 
+ 
+
+of the project. Updated text for revised elements of paragraph 109 of the Secretary-
+General’s report, containing the actions to be taken by the General Assembly, was 
+also provided to the Committee and is included in annex VIII. The Committee notes 
+that the revised requirements for the biennium 2008-2009 are estimated at 
+$42,847,500 (at current rates), representing a significant decrease from the initial 
+requirement of $119,571,300 proposed in document A/62/510/Rev.1.  
+
+65. Tables 2 and 3 below show the revised requirement of $42,847,500 for the 
+biennium 2008-2009 by component and object of expenditure respectively, as 
+compared to the initial requirements set out in document A/62/510/Rev.1.  
+ 
+
+  Table 2 
+  Resource requirements for the enterprise resource planning project by 
+
+component, 2008-2009 
+(Thousands of United States dollars) 
+ 
+ 
+
+Component Initiala Revised Increase/(decrease) 
+
+Software licences and customization 14 000.0 2 525.0 (11 475.0) 
+Integration costs 42 106.2 20 258.6 (21 847.4) 
+Project and change management 16 306.3 10 927.5 (5 387.7) 
+
+Training 7 048.1 1 432.7 (5 615.4) 
+Operational cost 2 863.9 2 114.9 (749.0) 
+
+ Subtotal 82 324.3 37 258.7 (45 065.6) 
+
+Contingency provision 37 247.0 5 588.8 (31 658.19) 
+
+ Total 119 571.3 42 847.5 (76 723.77) 
+ 
+
+ a See A/62/510/Rev.1, table 2. 
+ 
+ 
+
+  Table 3 
+  Resource requirements for the enterprise resource planning project by object of 
+
+expenditure, 2008-2009 
+(Thousands of United States dollars) 
+ 
+ 
+
+Object of expenditure Initiala Revised Increase/(decrease) 
+
+Posts 9 323.5 7 602.5 (1 721.0) 
+Other staff costs 3 776.4 3 596.0 (180.4) 
+
+Travel of staff 3 257.0 2 031.1 (1 225.9) 
+Contractual services 49 103.6 19 389.2 (29 714.4) 
+General operating expenses 2 232.5 1 545.6 (686.9) 
+
+Supplies and materials 33.0 24.0 (9.0) 
+Furniture and equipment 14 598.4 3 070.3 (11 528.10) 
+
+ Subtotal 82 324.3 37 258.7 (45 065.7) 
+
+Contingency provision 37 247.0 5 588.81 (31 658.19) 
+
+ Total 119 571.3 42 847.5 (76 723.77) 
+ 
+
+ a See A/62/510/Rev.1, table 2. 
+
+
+
+A/63/487  
+ 
+
+08-55427 20 
+ 
+
+66. The prorated distribution of the revised amount of $42,847,500 among the 
+various sources of funding, on the basis of financing arrangements presented in 
+paragraph 79 of the report, is shown in tables 4 and 5 below respectively. 
+ 
+
+  Table 4 
+  Revised requirements for the enterprise resource planning project by activity and 
+
+funding source, 2008-2009 
+(Thousands of United States dollars) 
+ 
+ 
+
+Component 
+Revised 
+
+regular budget
+
+Revised peacekeeping 
+support account 
+
+budgeta
+Revised 
+
+extrabudgetary Total 
+
+Software licences and customization 378.8 1 565.5 580.8 2 525.0 
+
+Integration costs 3 038.8 12 560.3 4 659.5 20 258.6 
+
+Project and change management 1 639.1 6 775.1 2 513.3 10 927.5 
+
+Training 214.9 888.3 329.5 1 432.7 
+
+Operational cost 317.2 1 311.2 486.4 2 114.9 
+
+ Subtotal 5 588.8 23 100.4 8 569.5 37 258.7 
+
+Contingency provision 838.3 3 465.1 1 285.4 5 588.8 
+
+ Total 6 427.1 26 565.5 9 854.9 42 847.5 
+ 
+
+ a July 2008-30 June 2009. 
+ 
+ 
+
+  Table 5 
+  Revised requirements for the enterprise resource planning project by object of 
+
+expenditure and funding source, 2008-2009 
+(Thousands of United States dollars) 
+ 
+ 
+
+Object of expenditure 
+Revised 
+
+regular budget
+Revised peacekeeping 
+
+support accounta
+Revised 
+
+extrabudgetary Total 
+
+Posts 1 140.4 4 713.6 1 748.6 7 602.5 
+
+Other staff costs 539.4 2 229.5 827.1 3 596.0 
+
+Travel of staff 304.7 1 259.3 467.2 2 031.1 
+
+Contractual services 2 908.4 12 021.3 4 459.5 19 389.2 
+
+General operating expenses 231.8 958.3 355.5 1 545.6 
+
+Supplies and materials 3.6 14.9 5.5 24.0 
+
+Furniture and equipment 460.5 1 903.6 706.2 3 070.3 
+
+ Subtotal 5 588.8 23 100.4 8 569.5 37 258.7 
+
+Contingency provision 838.3 3 465.1 1 285.4 5 588.8 
+
+ Total 6 427.1 26 565.5 9 854.9 42 847.5 
+ 
+
+ a 1 July 2008-30 June 2009. 
+ 
+ 
+
+
+
+ A/63/487
+ 
+
+21 08-55427 
+ 
+
+67. The Advisory Committee was informed of the revised requirements just as it 
+was finalizing the present report. The reductions reflect changes in the sequence of 
+activity and acquisition strategies, as well as delays in the approval of the project. 
+The Secretary-General now considers that it would be in the best interest of the 
+Organization to complete the selection of the ERP software before proceeding with 
+activities related to the acquisition of integration services rather than conducting 
+those activities in a partially overlapping manner as initially envisaged. In addition, 
+he proposes to break down the acquisition of integration services for the design, 
+build and/or roll-out phases of the project instead of developing system integration 
+proposals to cover a comprehensive range of services for the entire project at the 
+outset (A/62/510/Rev.1, para. 35). According to the Secretary-General, this 
+approach would allow the United Nations to develop requirements for each phase of 
+the project based on the deliverables from the prior phase, thereby reducing the risk 
+of cost and scope escalation. In addition, this approach would permit the selection of 
+vendors with expertise in specific integration phases, for example, training of staff 
+during the roll-out, thereby increasing competition. The Committee was also 
+provided with an updated timeline for the project (see annex IX), which shows an 
+overall six-month delay in completion of the implementation.  
+
+68. The Advisory Committee was further informed that, as a consequence of this 
+approach, the following activities and expenditures envisaged previously during 
+2008-2009 would not be completed during the biennium:  
+
+ • Software licences and customization ($11,475,000): as a result of the 
+Organization’s stronger negotiation strategy with the software vendors, there 
+would be limited payment for software licensing during the design phase of 
+the project, and any required customizations would be initiated later in 2009. 
+
+ • Software integration ($21,847,400): based on the above-stated approach to the 
+acquisition of software integration services, there would be a significant 
+reduction in the overall work-months required during the biennium 2008-2009, 
+as those resources would be required during the subsequent build and roll-out 
+phases. 
+
+ • Project and change management ($5,387,700): the ERP project team would 
+postpone the recruitment of its full staffing complement until July 2009 until 
+the initiation of the design phase after the completion of high-level business 
+re-engineering activities in the first quarter of 2009. The change management 
+strategy continues to focus on an awareness campaign for the stakeholders of 
+the ERP project, pending approval by the General Assembly. 
+
+ • Training ($5,615,400): the commencement of training is dependent upon the 
+acquisition of the ERP software solution, which is in the final phase of 
+evaluation. 
+
+ • Operational costs ($749,000): the above delays have a corresponding impact 
+on the requirements related to general operating expenses. 
+
+69. The Advisory Committee considers that these revisions represent a 
+significant change in the strategy for the implementation of ERP as set out in 
+paragraph 35 of the report. The Committee therefore recommends that the 
+Secretary-General be requested to submit a revised ERP project 
+implementation plan and updated budget for the consideration of the General 
+Assembly in the context of its consideration of the proposed programme budget 
+
+
+
+A/63/487  
+ 
+
+08-55427 22 
+ 
+
+for the biennium 2010-2011. The Secretary-General should be in a position to 
+update and confirm the project plan, given the appointment of the project 
+director in September 2008. The revised implementation plan should also 
+include the following:  
+
+ (a) Information on the implementation of the modified ERP governance 
+structure described in paragraph 50 above;  
+
+ (b) Details on tangible benefits and productivity gains to be achieved 
+through the implementation of ERP along with benchmarks for measuring progress 
+towards achieving planned results; 
+
+ (c) Details on the estimated costs for the maintenance of the existing 
+application and new systems in the post-implementation phase, including the 
+duration of the overlap time during which both the new and existing systems will be 
+operational. 
+
+70. The Advisory Committee recommends that, in the meantime, the 
+Secretary-General be provided with sufficient resources to staff the core project 
+team and to proceed with the tasks and project activities of the detailed design 
+phase, as well as any other tasks that need to be performed so as not to incur 
+further delays in the project schedule. Accordingly, the Committee recommends 
+that the General Assembly approve the revised resources requested for the 
+current biennium in the amount of $37,258,700, comprising $5,588,800 to be 
+funded under the regular budget; an amount of $23,100,400 from the support 
+account for peacekeeping operations for the period from 1 July 2008 to 30 June 
+2009 and an amount of $8,569,800 to be provided from extrabudgetary 
+resources. It should be noted that remaining requirements will be included in 
+subsequent peacekeeping support account budgets. 
+
+71. From the revised text for paragraph 109 provided to the Advisory Committee 
+(see para. 64 above and annex VIII below) the Committee notes that the Secretary-
+General is proposing to finance the regular budget requirements of the ERP project 
+for the current biennium in the amount of $6,427,100 under budget section 28A, 
+Office of the Under-Secretary-General for Management, as follows: (a) $2,346,000 
+of interest accrued under the IMIS fund available as at 31 December 2007; and 
+(b) $4,164,300 from the available balances in the surplus account of the United 
+Nations General Fund. As noted by the Secretary-General (A/62/510/Rev.1, 
+para. 82(b)), this would require the suspension of the provisions relating to the 
+application of credits under regulations 3.2 (d), 5.3 and 5.4 of the Financial 
+Regulations and Rules of the United Nations, which require the surrender of such 
+funds. The Committee recommends approval of the Secretary-General’s 
+proposals, except for the contingency provision (see para. 72 below). As such, 
+the amount of $5,588,800 would be financed as follows: $2,346,000 from the 
+interest accrued under the IMIS fund available as at 31 December 2007 and 
+$3,242,800 from the available balances in the surplus account of the United Nations 
+General Fund. The Committee recommends approval of the utilization of the 
+interest accrued under the IMIS fund. It considers that the use of available 
+balances in the surplus account of the United Nations General Fund and the 
+unencumbered balance of the active peacekeeping operations for the financial 
+period ended 30 June 2008 is a matter for a policy decision by the General 
+Assembly. 
+
+
+
+ A/63/487
+ 
+
+23 08-55427 
+ 
+
+72. The Advisory Committee is not recommending approval of the 
+contingency provision of $5,588,810 requested by the Secretary-General. The 
+Committee notes that in his original proposal (A/62/510/Rev.1), the 
+Secretary-General proposed a contingency provision of $37,247,000, 
+representing 15 per cent of the overall estimated project cost of $286 million to 
+be financed immediately in 2008-2009, during the first biennium of the 
+project’s five-year life cycle. The Committee is of the view that such a provision 
+is not warranted, given the reduced scope of activities envisaged during the 
+remainder of the current biennium, as well as the Secretary-General’s phased 
+approach for the acquisition of integration services, which limits the risk of cost 
+escalation and uncertainty (see paras. 67 and 68 above). 
+ 
+
+  Multi-year special account 
+ 
+
+73. The Secretary-General is requesting authorization to establish a multi-year 
+special account to record income and expenditure for the ERP project. The Advisory 
+Committee recalls that in its previous report (A/62/7/Add.31, para. 11) it had 
+expressed reservations about such an arrangement. The Committee enquired as to 
+the reasons for the Secretary-General’s resubmission of this proposal, and was 
+informed that the multi-year special account would ensure that total approved 
+funding would be available when required, thereby avoiding procurement delays 
+due solely to the unavailability of funds. It would also provide some flexibility in 
+the requisitioning of items requiring long lead times that are not always aligned to 
+budget cycles. The Committee was further informed that once the project was 
+completed, which is currently projected for the biennium 2012-2013, the residual 
+balance in the multi-year fund would be reported to the General Assembly for its 
+disposition in accordance with established practice. The special account also 
+facilitates the management of different sources of funding with different funding 
+periods. In the light of the explanations provided, and recognizing the need for a 
+degree of flexibility in the management of the procurement process of the ERP 
+software and services, the Committee recommends acceptance of the 
+Secretary-General’s proposal contained in paragraph 109 (l) of document 
+A/62/510/Rev.1, and subsequently confirmed (see sect. V and annex VIII below), 
+to establish a multi-year special account to record income and expenditure for 
+this project. The Committee reiterates its previous recommendation that 
+efficient utilization and transparent reporting on the project implementation 
+costs must be ensured and emphasizes the need for effective monitoring of the 
+project and the submission of meaningful performance reports to the Assembly 
+on a regular basis. The Committee also stresses that any substantive changes or 
+modifications of the scope of the project, as well as any extension of the multi-
+year special account beyond the biennium 2012-2013, should the need arise, 
+would have to be authorized by the Assembly.  
+ 
+
+  Cost sharing  
+ 
+
+74. As indicated in paragraph 79 of the report, it is proposed to finance the ERP 
+project from the main sources of funds, namely, 15 per cent from the regular budget, 
+62 per cent from the peacekeeping support account and 23 per cent from the special 
+accounts for programme support costs. Overhead income generated by expenditures 
+relating to technical cooperation, general trust funds and reimbursement for 
+administrative support provided by the Organization to extrabudgetary entities, such 
+
+
+
+A/63/487  
+ 
+
+08-55427 24 
+ 
+
+as UNDP and UNICEF, is credited to the special accounts for programme support 
+costs. As indicated by the Secretary-General, the percentages are calculated on the 
+basis of the distribution of 2008-2009 estimated resources, rather than actual 
+expenditures. The Committee notes the inclusion of contributions from 
+extrabudgetary sources, which it considers appropriate. It recommends 
+approval of the Secretary-General’s proposal at this time. 
+
+75. In the view of the Advisory Committee, an alternative approach would be 
+to establish the cost-sharing ratio on the basis of actual expenditures rather 
+than estimates, as currently proposed by the Secretary-General. In such an 
+eventuality, the Committee is of the view that the Board of Auditors should be 
+requested to provide a statement on the composition of the overall expenditures 
+of the United Nations by funding source, on the basis of the audited financial 
+statements. The Committee recommends that the Secretary-General be 
+requested to explore such an alternative in future proposals. 
+ 
+ 
+
+ B. Customer relationship management and enterprise  
+content management  
+ 
+ 
+
+76. In his report (A/62/510/Rev.1), the Secretary-General resubmitted proposals 
+that had been submitted in the previous version of his report (A/62/510). The 
+financial requirements were updated to reflect current rates as well as a modified 
+funding period, which would commence from 1 July 2008 instead of 1 January 
+2008. The observations and recommendations contained in the Committee’s related 
+report (A/62/7/Add.31) remain valid. The Committee had recommended approval of 
+the Secretary-General’s proposals for implementation of the customer relationship 
+management and enterprise content management systems.  
+
+77. The Advisory Committee points out, however, that, given the timing of the 
+consideration of these proposals by the General Assembly (see para. 43 above), 
+the funding period and resources requested for the current biennium will have 
+to be adjusted accordingly. The Committee requests that updated information 
+be provided to the Assembly at the time of its consideration of the proposals. 
+ 
+ 
+
+ IV. Information and communications technology security, 
+disaster recovery and business continuity for the  
+United Nations Secretariat  
+ 
+ 
+
+78. The report of the Secretary-General (A/62/477) was issued on 9 October 2007 
+in response to: (a) General Assembly resolution 59/276 (section XI), in which the 
+Assembly requested the Secretary-General to provide a detailed proposal for a 
+global operational framework for ICT security, business continuity and disaster 
+recovery, as outlined in his report on a strengthened and unified security 
+management system for the United Nations; (A/59/365 and Corr.1 and Add.1 and 
+Corr.1); and (b) Assembly resolution 60/266, in which the Assembly requested the 
+Secretary-General to submit a comprehensive report on the proposed establishment 
+of and justification for mission on site, mission in theatre and off site and off-site 
+and out-of-theatre redundant data centres for disaster recovery and business 
+continuity in peacekeeping missions, as well as on a secondary active 
+
+
+
+ A/63/487
+ 
+
+25 08-55427 
+ 
+
+communications facility and a disaster recovery and business continuity centre for 
+information technology.  
+
+79. The report of the Secretary-General contained two sets of proposals relating 
+to:  
+
+ (a) A global operational framework for ICT infrastructure to support disaster 
+recovery and business continuity for information and telecommunications systems 
+for the entire Organization, including peacekeeping operations, through the 
+establishment of a major centralized data centre at UNLB and one at a proposed 
+secondary site in Valencia;  
+
+ (b) The transfer of the current data centres in the Secretariat and DC-2 
+Buildings in New York to a North Lawn facility and a facility in Long Island City 
+during the transition phase of the capital master plan.  
+
+80. As indicated in paragraph 4 above, the Advisory Committee initially 
+considered the report of the Secretary-General during the main part of the sixty-
+second session of the General Assembly in November 2007 and issued its report on 
+21 December 2007 (A/62/7/Add.31). In that report the Committee recommended 
+that the Secretary-General be authorized to proceed with the implementation of the 
+North Lawn facility (A/62/7/Add.31, para. 34 (a)) and that he pursue his discussions 
+with UNICEF, UNDP, the United Nations Population Fund (UNFPA) and the United 
+Nations Joint Staff Pension Fund with a view to concluding an agreement on 
+cooperative arrangements for a multi-agency joint operation at the Long Island City 
+site and report thereon at the resumed sixty-second session of the Assembly 
+(A/62/7/Add.31, para. 34 (b)). The Committee also reverted to the remaining 
+proposals regarding the global operational framework and the requirements for the 
+data centres at UNLB and the proposed secondary site in Valencia (site B) in the 
+context of the detailed report on the implementation of the ERP system 
+(A/62/7/Add.31, para. 33). 
+
+81. The Advisory Committee was provided updated information on section III of 
+the report of the Secretary-General (A/62/477) containing the summary of resource 
+requirements and the action to be taken by the General Assembly. That information 
+(see annexes X and XI) included:  
+
+ (a) An updated table 5 from the report of the Secretary-General, with the 
+summary of resource requirements by site, reflecting adjustments of funding periods 
+and resource requirements as a result of the delay in implementation (see annex X);  
+
+ (b) Revised paragraphs 119 to 123 of the report of the Secretary-General, 
+containing the action to be taken by the General Assembly (see annex XI).  
+
+In light of the latest information received (see para. 83 below), the Advisory 
+Committee points out that the updates concerning the Long Island City site are no 
+longer valid. 
+
+82. Upon finalizing its report, the Advisory Committee noted the issuance of the 
+report of the Secretary-General on revised estimates relating to the programme 
+budget for the biennium 2008-2009 under sections 3, 17, 18, 20, 21, 27, 28C, 28D, 
+28E, 28F, 28G, 33 and 35 related to business continuity management (A/63/359). 
+ 
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 26 
+ 
+
+ A. Long Island City site 
+ 
+ 
+
+83. At a very late stage in its consideration of the proposals of the Secretary-
+General, the Advisory Committee learned, upon enquiry, that the proposed 
+Long Island City site was no longer being pursued. The Committee is 
+concerned that it was not informed about this development earlier, despite the 
+fact that the Secretariat was well aware that the Committee was in the process 
+of reviewing reports related to ICT. In view of this change of plans, the General 
+Assembly is no longer required to take any action on the resources requested 
+for the Long Island data centre, in the amount of $33,942,000, including 
+$20,917,600 for construction and lease costs and $13,024,400 for equipment (see 
+annex X). The Committee recommends that the Assembly request the 
+Secretary-General to submit a new proposal for a secondary data centre for 
+United Nations Headquarters in New York, including a detailed justification of 
+the reasons for the change and information on the costs already incurred in 
+connection with the Long Island City site. 
+ 
+ 
+
+ B. Site B 
+ 
+ 
+
+84. With respect to the first set of proposals concerning the global operational 
+framework for ICT infrastructure, the Advisory Committee notes from the 
+Secretary-General’s report that there has been no Organization-wide approach to 
+disaster recovery and business continuity (A/62/477, para. 7). With each duty station 
+developing its own standards and infrastructure, few duty stations have made 
+provisions for disaster recovery and business continuity, thereby exposing the 
+Organization to considerable risks. In the view of the Committee this situation 
+clearly demonstrates the need for a central authority under the Chief 
+Information Technology Officer to set common standards, provide an 
+Organization-wide perspective, optimize use of resources and improve ICT 
+services.  
+
+85. The need for a secondary active communications facility as a backup to UNLB 
+is set out in the report of the Secretary-General (A/62/477, paras. 51-54). The 
+Secretary-General noted that a secondary active site with full capabilities must be 
+established to ensure the continuity and integrity of the core functions of the 
+Department of Peacekeeping Operations and the Department of Field Support in the 
+event of a catastrophic incident and to provide continuous voice, data and video 
+services in cases of short-term disruptions. The Advisory Committee notes also that, 
+as highlighted by the Office of Internal Oversight Services in its comprehensive 
+management audit of the Department of Peacekeeping Operations (see A/60/717), at 
+present the telecommunications hub and the centralized applications (including 
+Galileo and Mercury) hosted at UNLB do not have a remote backup facility. The 
+primary role of the site B facility will therefore be to provide backup for 
+telecommunications in case of a major outage at UNLB and to avoid a catastrophic 
+impact on the global operations of all field missions. The Committee notes that both 
+sites would remain fully operational at all times in order to provide a seamless 
+transition in case of system failure, while simultaneously facilitating the distribution 
+of ICT traffic and workload during normal operations to improve performance. Each 
+site would have sufficient capacity to absorb 100 per cent of the traffic in the 
+eventuality of disaster at one site.  
+
+
+
+ A/63/487
+ 
+
+27 08-55427 
+ 
+
+86. The Secretary-General indicated that the Organization’s enterprise applications 
+such as ERP, customer relationship management and enterprise content management 
+would also be hosted at UNLB and site B (A/62/477, para. 5). While the primary 
+role of UNLB and site B will be to support peace operations, the ICT facilities will 
+serve as a United Nations hub, providing disaster recovery and business continuity 
+services to Headquarters, offices away from Headquarters and field missions.  
+
+87. Upon enquiry, the Advisory Committee was informed that the Government of 
+Spain had offered to construct a number of customized buildings on a 40,500 square 
+metre site, for the exclusive use of the United Nations, including a data centre, an 
+office building and satellite bases, free of charge. Upon enquiry, the Committee was 
+also informed that a host country agreement and an administrative agreement would 
+be signed by the host country and the United Nations, and that the host country 
+would continue to provide support under the terms of the agreement for as long as 
+the agreement stayed in place. In addition, the host country would provide 
+maintenance support and extend the security arrangements granted to diplomatic 
+missions. All buildings would meet the security recommendations of the Department 
+of Safety and Security. In this regard, the Committee encourages the Secretary-
+General to seek a long-term arrangement and trusts that host country support 
+would be extended on a sustained basis. 
+
+88. The Advisory Committee was further informed the total cost of the three-year 
+project to establish the secondary active communications facility is not expected to 
+increase and that, since the buildings and facilities to be provided by the 
+Government of Spain would be new and guaranteed against structural failure, 
+maintenance costs would be minimal. The Committee understands that the 
+Secretary-General selected the Valencia location among three leading proposals on 
+the basis of technical advantages relating to its location and climate, which remain 
+relevant (see annex XII) The Committee welcomes the generous offer of the 
+Government of Spain (see also A/62/7/Add.31, para. 33). 
+
+89. The Advisory Committee recognizes the risks of relying solely on the 
+communications facilities at UNLB, as well as the need for further data storage 
+facilities. It considers that ICT infrastructure and facilities for effective disaster 
+recovery and business continuity should be put in place in order to ensure that 
+the Secretariat will be able to respond effectively to emergency situations and 
+to protect its communications capability. It recommends approval of the 
+Secretary-General’s proposal to host the secondary active communications 
+facility at Valencia, as requested in the updated paragraph 122 (a) of the report 
+of the Secretary-General (A/62/477) (see annex XI). 
+ 
+
+  Overall estimate  
+ 
+
+90. The Secretary-General indicates that site B will be fully established over a 
+three-year period (A/62/477, para. 80). The Advisory Committee was informed that 
+the project is expected to be completed by 31 December 2011, subject to its 
+approval by the General Assembly at its sixty-third session. The updated, overall 
+requirements proposed for the implementation of disaster recovery and business 
+continuity at UNLB and site B over the three-year period under the regular budget 
+and the peacekeeping support account is shown in table 6 below. 
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 28 
+ 
+
+  Table 6 
+Overall estimate for UNLB and site B 
+ 
+ 
+
+Regular budget     
+
+  2008-2009a 5 030 400 
+
+  2010-2011  6 219 000 
+
+ Subtotal 2008-2011 11 249 400 
+
+Peacekeeping support account      
+
+  1 July 2008 to 30 June 2009a 149 400 
+
+  1 July 2009 to 30 June 2010 2 108 000 
+
+  1 July 2010 to 30 June 2011 4 759 400 
+
+  1 July 2011 to 30 June 2012 2 800 700 
+
+ Subtotal 1 July 2008 to 30 June 2012 9 817 500 
+
+ Grand total  21 066 900 
+ 
+
+ a Subject to its approval by the General Assembly at its sixty-third session, the three-year 
+project is expected to finish by 31 December 2011. 
+
+ 
+ 
+
+91. As indicated in the Secretary-General’s report (A/62/477, para. 74), the overall 
+amount of $11,249,400 requested under the regular budget encompasses the 
+equipment, software and services required to implement replication and disaster 
+recovery capabilities at both UNLB and site B for the Secretariat and offices away 
+from Headquarters. It also includes a yearly recurrent amount of $2,338,500 
+requested for communications infrastructure and links between the offices away 
+from Headquarters and site B, as well as for the costs for maintenance of the 
+equipment. The amount of $9,817,500, including post and non-post resources, 
+requested under the peacekeeping support account over a three-year period ending 
+31 December 2011 is required to establish site B. The Advisory Committee was also 
+informed that that amount includes an estimated $155,000 for maintenance of the 
+buildings and grounds over the three-year period. A summary of costs by object of 
+expenditure is provided in the report of the Secretary-General (A/62/477, table 1).  
+
+92. Details on staffing requirements over the three-year period during which site B 
+is to be established are provided in the report of the Secretary-General (A/62/477, 
+para. 80 and table 2). The Secretary-General indicated that two posts (1 P-5, 
+1 General Service-Other level) were required under the support account for 
+peacekeeping operations during the first year of the project (see para. 94 below) and 
+that additional posts would be required subsequently during the second and third 
+years of the project to provide management and operational support as the facility 
+was being established as a global ICT hub. As shown in the report of the Secretary-
+General (see A/62/477, table 2), the total staffing requirements proposed under the 
+support account would grow from two posts during the first year, to a total of 11 
+posts in the second year and 22 posts in the third year. The Secretary-General 
+indicated that those requirements would be proposed under future support account 
+budgets.  
+ 
+
+
+
+ A/63/487
+ 
+
+29 08-55427 
+ 
+
+  Resource requirements 
+ 
+
+93. The following posts are requested to for the management and operations of the 
+global operational framework:  
+
+ (a) Two P-5 posts under section 28D of the regular budget for Senior 
+Disaster Recovery/Business Continuity Officers, one at UNLB and one at site B, 
+with specialized skills to deal with the implementation and management of the 
+disaster recovery and business continuity strategy and provide services to the United 
+Nations Secretariat as a whole (A/62/477, para. 79);  
+
+ (b) One P-5 post under the peacekeeping support account, responsible for the 
+establishment and commissioning of site B, including the planning, implementation, 
+monitoring and evaluation of all site B project activities. 
+
+94. The Advisory Committee was informed that the General Service post initially 
+requested under the peacekeeping support account to provide administrative support 
+to the project at site B (A/62/477, para. 80; see para. 92 above) would no longer be 
+required. The Committee recommends approval of the Secretary-General’s 
+proposals as described in paragraph 93 above. 
+
+95. The Advisory Committee notes that the P-5 post for site B will be supported 
+from within resources approved for the same period for UNLB for the period ending 
+30 June 2009. It will be proposed for inclusion as an additional post in the proposed 
+budget for the support account for the period 1 July 2009 to 30 June 2010. 
+
+96. With respect to the Secretary-General’s proposals related to the 
+establishment of the secondary site, the Advisory Committee recommends that 
+the Secretary-General be authorized to proceed with the implementation of the 
+site B facility. Accordingly, it recommends that the General Assembly:  
+
+ (a) Approve the additional resource requirements under the regular 
+budget for the biennium 2008-2009 of $5,030,400, comprising $5,009,200 under 
+section 28D, Office of Central Support Services, and $21,200 under section 35, 
+Staff assessment, to be offset by an equivalent amount under income section 1, 
+Income from staff assessment;  
+
+ (b) Take note of the intention to meet the estimated requirements of 
+$149,400 for the establishment of the secondary active telecommunications 
+facility at Valencia (site B) for the period from 1 July 2008 to 30 June 2009 
+from within resources approved for the same period for UNLB. 
+ 
+ 
+
+ V. Updates to the report of the Secretary-General on 
+information and communications technology: enterprise 
+systems for the United Nations worldwide 
+ 
+ 
+
+97. Upon request, the Advisory Committee was provided with updated text (see 
+annex VIII) for elements in paragraph 109 of the report of the Secretary-General 
+(A/62/510/Rev.1) setting out the actions to be taken by the General Assembly to 
+reflect revised requirements for the ERP project for the biennium 2008-2009 (see 
+para. 64 above). 
+ 
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 30 
+ 
+
+ A. Updates to paragraph 109 relating to the actions to be taken by the 
+General Assembly 
+ 
+ 
+
+98. In the updated text, paragraphs 109 (a) through (d) of the report of the 
+Secretary-General would remain unchanged. The subsequent paragraphs would be 
+adapted (see annex VIII). 
+ 
+ 
+
+ VI. Updates to the report of the Secretary-General on 
+information and communications technology security, 
+disaster recovery and business continuity for the  
+United Nations 
+ 
+ 
+
+ A. Update to table 5  
+ 
+ 
+
+99. Upon request, the Advisory Committee was provided with updated information 
+on section III of the report of the Secretary-General on ICT security, disaster 
+recovery and business continuity (A/62/477) containing the summary of resource 
+requirements and action to be taken by the General Assembly (see para. 81 above). 
+The information included an updated table 5 of the report, with the summary of 
+resource requirements by site, reflecting adjustments of funding periods and 
+resource requirements as a result of the delay in the implementation (see annex X). 
+
+100. The breakdown of resource requirements of $11,249,400 under the regular 
+budget for proposed site B, by budget section was also provided, as follows: 
+ 
+
+  Table 7 
+Resource requirements for proposed site B 
+ 
+ 
+
+Regular budget 
+
+Budget section 
+2008-2009
+
+requirements
+2010-2011 
+
+requirements 
+
+Section 28D, Office of Central Support Services 5 009 200 6 176 400 
+
+Section 35, Staff assessment 21 200 42 600 
+
+ Total 5 030 400 6 219 000 
+ 
+ 
+
+ B. Updates to paragraphs 119 to 123 relating to the actions to be 
+taken by the General Assembly 
+ 
+ 
+
+101. The Advisory Committee also received updates to paragraphs 119 to 123 of the 
+report of the Secretary-General on action to be taken by the General Assembly (see 
+annex XI). 
+
+ 
+
+
+
+ A/63/487
+ 
+
+31 08-55427 
+ 
+
+Annex I 
+ 
+
+  Information and communications technology personnel at the United Nations Secretariata  
+(As of September 2008) 
+ 
+ 
+
+Department/office D P FS/L GS
+Total 
+
+international Local UNV ICC 
+Contractual 
+
+staff Total
+
+Department of Management         191
+
+Information Technology 
+Support Division 5 74  71 150       150
+
+Procurement Division  2  2        4
+
+Office of Human Resources 
+Management  8  4 12       12
+
+Office of Programme 
+Planning, Budget and 
+Accounts 1 14  10 25       25
+
+Department of Field Support and field missions         2 753
+
+Information and 
+Communications Technology 
+Division: Headquarters 2 28  16 46      79 125
+
+Department of Field Support: 
+field missionsb 2 63 556 20 641 887 107 79 899 2 613
+
+Department of Field Support: 
+others 0 9 0 6 15       15
+
+Other departments/offices        110
+
+Department of Economic and 
+Social Affairsc  5  1 6       6
+
+Department for General 
+Assembly and Conference 
+Management  8  22 30       30
+
+Department of Political 
+Affairs  4  3 7      3 10
+
+Department of Public 
+Information  2  5 7       7
+
+Office for the Coordination of 
+Humanitarian Affairs  6  13 19 11      30
+
+Office of the United Nations 
+High Commissioner for 
+Human Rights  8  16 24      1 25
+
+Office of Disarmament 
+Affairs     1 2       2
+
+Regional commissions           184
+
+Economic Commission for 
+Europe  5  3 8      1 9
+
+Economic Commission for 
+Africa  15 2 28 45 3     49 97
+
+Economic Commission for 
+Latin America and the 
+Caribbean  5  17 22      8 30
+
+
+
+A/63/487  
+ 
+
+08-55427 32 
+ 
+
+Department/office D P FS/L GS
+Total 
+
+international Local UNV ICC 
+Contractual 
+
+staff Total
+
+Economic and Social 
+Commission for Asia and the 
+Pacific  5  14 19      6 25
+
+Economic and Social 
+Commission for Western Asia  2  6 8 6     9 23
+
+International Criminal Tribunal 
+for Rwanda  7 24 27 58      10 68
+
+United Nations Office at Geneva  33  55 88      14 102
+
+United Nations Office at Nairobi  12  38 50 1      51
+
+ Total 10 316 582 378 1 286 908 107 79 1 079 3 459
+ 
+
+Abbreviations: D, Director; FS, Field Service; GS, General Service and related category; ICC, International 
+Computing Centre; L, project personnel; P, Professional category; UNV, United Nations Volunteers. 
+
+ a The following did not submit ICT staffing information: the Department of Peacekeeping Operations, the 
+Department of Safety and Security, the Office of Internal Oversight Services, the Office of Legal Affairs, the 
+International Tribunal for the Former Yugoslavia, the United Nations Office at Vienna and the United Nations 
+Office on Drugs and Crime. Data collected from United Nations departments, offices and field missions as 
+part of the ICT activities survey conducted in August and September 2008. 
+
+ b Department of Field Support: field missions did not include the following: United Nations Mission in Liberia 
+(UNMIL), United Nations Mission for the Referendum in Western Sahara (MINURSO), United Nations 
+Observer Mission in Georgia (UNOMIG), United Nations Interim Force in Lebanon (UNIFIL), United 
+Nations Regional Centre for Preventive Diplomacy for Central Asia, African Union-United Nations Hybrid 
+Operation in Darfur (UNAMID), United Nations Peace-building Support Office in the Central African 
+Republic (BONUCA) and United Nations Integrated Office in Sierra Leone (UNIOSIL). 
+
+ c Partial amount provided. 
+
+
+
+ A/63/487
+ 
+
+33 08-55427 
+ 
+
+Annex II 
+ 
+
+  Activities to be transferred from the Information and 
+Communications Technology Division of the Department of Field 
+Support to the Office of Information and Communications 
+Technology 
+ 
+ 
+
+Name Description 
+
+Talent management  New enterprise system to better manage the full lifecycle of 
+recruitment and workforce planning for departments and 
+field missions (in planning/design phase) 
+
+Enterprise portal New, definitive, centralized source for secure self-service 
+access to integrated information, data, knowledge and 
+applications (procurement initiated) 
+
+Enterprise identity management 
+system 
+
+New central repository for secure and effective identity 
+management to simplify user administration for information 
+and communications technology (ICT) resources using 
+authentication rules and authorization privileges that can be 
+managed efficiently and confidently. Once implemented the 
+enterprise identity management system will allow users to 
+gain access to multiple information and communications 
+technology resources with a single sign-on (login). The 
+system will support the implementation of several other 
+enterprise management systems (commercial off-the-shelf 
+software: implementation planning begun) 
+
+Rations management system New automated system for the management and monitoring 
+of rations and related operations in field missions (in 
+procurement) 
+
+Fuel management  New system to automate the management and monitoring of 
+fuel use in field missions. The system will mitigate waste 
+and loss and enable the review of vendor performance, 
+contract compliance and improved negotiations on new 
+contracts (in procurement) 
+
+Galaxy Galaxy (e-Staffing) is the existing enterprise system for the 
+recruitment of staff. Support for the Galaxy system includes 
+maintenance and functional improvements (operational) 
+
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 34 
+ 
+
+Annex III 
+ 
+
+  Tools, applications and systems supported by the 
+Information and Communications Technology Division of 
+the Department of Field Support 
+ 
+ 
+
+Name Description  
+
+Audit recommendations tracking 
+system 
+
+Facilitates the tracking of Department of Peacekeeping 
+Operations (DPKO)/Department of Field Support (DFS) 
+audit recommendations and resulting actions 
+
+Aviation safety database Supports the creation of standardized reports used by 
+Aviation Safety Officers at mission 
+
+DPKO/DFS telephone directory Web-based stand-alone centralized telephone directory of 
+peacekeeping personnel worldwide that enables users to 
+search for contact information and presentation of 
+information based on the user’s location — i.e., correct 
+relevant country and tie line codes as well as reverse 
+search, Google such as easy search and search by 
+organization structure 
+
+Board of Inquiry repository Searchable repository of Board of Inquiry documentation 
+and actions. Also provides statistical information on 
+Board of Inquiries activities worldwide and their status 
+
+Fourth Committee website Serves as a comprehensive repository of the Special 
+Political and Decolonization (Fourth) Committee’s 
+documents and drafts, providing global access to the 
+members of the Fourth Committee, for whom it is a 
+reference source 
+
+Special Committee on Peacekeeping 
+Operations website 
+
+Provides authorized representatives with information to 
+assist in the planning and support of the Committee’s 
+activities and the production of official reports. Includes a 
+repository of briefing materials and relevant guidance. 
+Accessible to members of the Special Committee on 
+Peacekeeping Operations over the Internet using secure 
+login 
+
+Contingent-owned equipment data 
+repository and reporting 
+
+Provides the Contingent-owned Equipment Unit with 
+repository and reporting data to support analysis of 
+current and past performance of contributing countries in 
+meeting obligations set out in memorandums of 
+understanding 
+
+Communities of practice: best 
+practices; conduct and discipline; rule 
+of law; civil affairs; gender; property 
+management; risk management; 
+planning; fuel management  
+
+A collaboration system for subject matter experts at 
+Department of Peacekeeping Operations missions as well 
+as peacekeeping partners. Provides mediated electronic 
+forums where members can ask each other questions, 
+exchange information, build up a shared library of useful 
+documents and find counterparts and subject matter 
+experts at other field missions 
+
+
+
+ A/63/487
+ 
+
+35 08-55427 
+ 
+
+Name Description  
+
+Contingent-owned equipment 
+database 
+
+Facilitates the management and verification of contingent-
+owned equipment for self-sustainment of troop-
+contributing countries 
+
+Cyberark Supports storage and transmission of classified 
+information using highly secure technologies 
+
+DFS: contract database Contract reference database for the administration of 
+contracts in field missions 
+
+DPKO: Intranet and guidance 
+repository 
+
+Provides a central repository of information on 
+peacekeeping as well as for doctrine (policy, procedures 
+and guidelines). The site also provides dynamic 
+interchange of information between the United Nations 
+Secretariat and field missions 
+
+DPKO: reference library Reference library on standard operating procedures, 
+manuals, etc. 
+
+Enterprise feedback management 
+system  
+
+Web-based systems to create, deploy and manage surveys 
+as well as analyse their results. Users include 34 
+administrators and more than 10,000 survey recipients  
+
+ESTARS SMART and situation report 
+repository 
+
+Supports the secure transmission of situation reports and 
+other sensitive communications between Headquarters and 
+the field missions 
+
+ESTARS suite  Supports team planning and agenda management for the 
+Office of the Under-Secretary-General 
+
+External contacts database Centralized, web-enabled repository of the Office of the 
+Under-Secretary-General of DPKO; used to manage 
+external media and information contacts and to track 
+requests for information from the Office of the Under-
+Secretary-General 
+
+Fleet management Provides functionality for effective fleet management 
+Funds monitoring tool  Web-based financial monitoring tool used by 
+
+Headquarters and field mission finance staff that 
+consolidates near real-time financial data from 
+Headquarters and four external financial systems to assist 
+and support financial planning and decision-making 
+
+Galileo Web-based, centrally managed, automated inventory 
+management system that facilitates supply-chain 
+management and strategic stock deployment by providing 
+accurate inventory records for DPKO field operations 
+
+Groove Commercial collaboration software providing a suite of 
+tools to share information and manage activities within 
+and between groups. Secure/encrypted storage and 
+transmission of information. User groups include field 
+satellite engineers and ICT network administrators as well 
+as advance field mission assessment teams 
+
+
+
+A/63/487  
+ 
+
+08-55427 36 
+ 
+
+Name Description  
+
+Service desk and service pages Service desk tool for DFS/DPKO and the Helpdesk of the 
+United Nations Logistics Base at Brindisi, Italy (UNLB) 
+to record and manage all service requests related to 
+information technology 
+
+Local committees on contracts/ 
+Headquarters Committee on 
+Contracts tracking database 
+
+Tracks the activities of the local committees on contracts 
+and the Headquarters Committee on Contracts 
+
+Logistics Support Division: public 
+outreach website 
+
+Public website that highlights the work of the Logistics 
+Support Division and promotes job opportunities with a 
+focus on achieving gender balance 
+
+MARS correspondence management 
+system 
+
+Manages the document lifecycle and distribution for 
+DPKO/DFS correspondence and ancillary documentation 
+
+MATRIX time and attendance system Manages time and attendance of DPKO/DFS staff. Also 
+used in several field missions 
+
+Mercury 2 Web-based system that automates procurement workflow 
+for goods and services for DPKO/DFS field operations 
+
+Misconduct tracking system  Web-based system to track and report allegations and 
+cases of misconduct in the DPKO/DFS field missions. 
+Information is shared with the Office of Internal Oversight 
+Services to support field investigations 
+
+Mission electronic fuel accounting 
+system  
+
+Web-based system providing functionalities to support 
+planning, consumption and inventory control of fuel in 
+field missions. In addition, analysis and reporting, 
+contract administration, invoice matching and budgeting 
+activities are supported 
+
+Mission lifecycle management (road 
+map) 
+
+Provides a central data collection facility from missions to 
+assist DFS management, logistics operations, and 
+Headquarters specialists in coordinating and monitoring 
+mission activities 
+
+Public websites of missions 
+(United Nations Mission in the 
+Central African Republic 
+(MINURCAT), African Union-United 
+Nations Hybrid Operation in Darfur 
+(UNAMID), United Nations Mission 
+in Ethiopia and Eritrea (UNMEE), 
+United Nations Mission in the Sudan 
+(UNMIS), United Nations Integrated 
+Mission in Timor-Leste (UNMIT), 
+United Nations Peacebuilding 
+Support Office in Guinea-Bissau 
+(UNOGBIS) and United Nations 
+Office for West Africa (UNOWA)) 
+
+Mission websites used to communicate the purpose and 
+activities and key information about a mission to the 
+general public 
+
+
+
+ A/63/487
+ 
+
+37 08-55427 
+ 
+
+Name Description  
+
+Nucleus Web-based recruitment and post management application 
+used by the Field Personnel Division of DFS to 
+compliment Galaxy functionality in support of the 
+recruitment of field staff 
+
+Operational reporting system  Provides a series of integrated technologies to structure, 
+aggregate and display information in a secure and 
+effective manner 
+
+Peacekeeping Best Practices Section: 
+public website 
+
+Research tool for members of the public interested in 
+peacekeeping knowledge. It is a central location for the 
+peacekeeping community to access and share current 
+information 
+
+Software assets management system  System to manage, monitor and track software assets for 
+DPKO/DFS field missions, including the management and 
+tracking of licences 
+
+Travel authorization database Automates and tracks the requests for authorization of 
+travel of DPKO/DFS staff 
+
+Videoconference management system Web-based system used to reserve and manage requests 
+for videoconferencing services as well as to coordinate 
+with required videoconference resources at missions 
+
+Written exercise system  Publicly accessible, centralized, web-based tool that 
+provides features and functionalities to manage written 
+exercises used in a recruitment process of new 
+DPKO/DFS staff members at Headquarters and for 
+deployment to field missions 
+
+ 
+
+
+
+ 
+ 
+
+A
+/63/487 
+
+ 
+
+38 
+08-55427
+
+Annex IV 
+ 
+
+  Revised organization chart of the Department of Management/Office of Central 
+Support Services 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Abbreviations: ASG, Assistant Secretary-General; D, Director; GS (OL), General Service (Other level); GS (PL), General Service 
+(Principal level); TC, Trades and Crafts. 
+
+ a The Director of the Facilities and Commercial Services Division and the Chief of the Facilities Management Service report to 
+ the Executive Director/Assistant Secretary-General for the capital master plan on issues relating to facilities  management 
+
+ services and to the ASG of the Central Support Services on issues relating to commercial activities/services. 
+
+Special Services Section 
+
+  RB   XB 
+1 P-4 1 GS (PL) 
+1 P-3 14 GS (OL) 
+1 P-2 
+2 GS (PL) 
+63 GS (OL) 
+
+Assistant Secretary-General 
+
+RB 
+1 ASG 
+
+Archives and Records 
+Management Section 
+
+  RB      XB 
+1 P-5 1 P-4 
+2 P-4  3 P-3 
+2 P-3  1 P-2 
+1 GS (PL) 2 GS (OL) 
+12 GS (OL) 
+
+United Nations Postal 
+Administration 
+
+RB 
+1P-5 
+
+1 P-4 
+6 GS (OL) 
+
+32 GS (OL) 
+
+Commercial Activities 
+Service 
+
+RB 
+1 D-1 
+
+Facilities Management 
+Servicea 
+
+  RB XB 
+1 D-1  1 P-2 
+3 P-5 
+6 P-4 
+2 P-3 
+3 P-2 
+3 GS (PL) 
+48 GS (OL) 
+81 TC 
+
+Facilities and Commercial 
+Services Divisiona 
+
+RB 
+1 D-2 
+
+Garage 
+administration 
+
+RB 
+2 GS (OL) 
+
+Travel and Transportation 
+Section 
+
+  RB XB 
+1 P-5 7 GS (OL) 
+2 P-4 3 TC 
+2 GS (PL) 
+22 GS (OL) 
+18 TC 
+
+Office of the 
+Assistant  
+
+Secretary-General 
+
+RB 
+1 P-5 
+1 P-4 
+
+2 GS (OL) 
+
+Procurement Division 
+
+RB XB 
+1 D-2 1 D-1 
+1 D-1 4 P-5 
+1 P-5 17 P-4 
+1 P-4 19 P-3 
+5 P-3 4 P-2 
+3 P-2 1 GS (PL) 
+26 GS (OL) 22 GS (OL)
+
+
+
+ 
+ 
+
+ 
+
+A
+/63/487
+
+08-55427 
+39
+
+Annex V 
+ 
+
+  Revised organization chart of the Information and Communications 
+Technology Division of the Department of Field Support 
+
+ 
+ 
+
+  (as of 1 January 2009) 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Abbreviations: D, Director; P, Professional; GS (OL), General Service (Other level); GS (PL), General Service (Principal level); 
+RB, regular budget; SA, peacekeeping support account. 
+
+ 
+
+Office of the Director 
+SA 
+
+1 D-2 
+1 P-4 
+
+1 GS (OL) 
+
+Field Communications Section 
+
+RB  SA 
+1 P-3  1 P-5 
+  2 P-4 
+  3 P-3 
+
+     1 GS (PL) 
+     4 GS (OL) 
+
+Field Communications and 
+Information Technology 
+
+Operations Service 
+
+ RB    SA 
+   1 D-1 
+   1 GS (OL) 
+
+WAN/LAN 
+Operations Section 
+
+SA 
+  3 P-4 
+  3 P-3 
+  3 GS (PL) 
+  1 GS (OL) 
+
+Field Information  
+Systems Unit 
+
+RB  SA 
+1 P-2  1 P-4 
+
+ 1 GS (OL) 
+
+Systems Architecture and 
+ICT Security Unit 
+
+RB  SA 
+  1 P-4 
+
+ 1 P-3 
+ 1 GS (PL) 
+ 1 GS (OL) 
+
+
+
+A/63/487  
+ 
+
+08-55427 40 
+ 
+
+Annex VI 
+  Updated organization chart of the proposed governance 
+
+framework of the enterprise resource planning projecta 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Abbreviations: ASG, Assistant Secretary-General; BPR, business process re-engineering; CITO, Chief Information Technology 
+Officer; DFS, Department of Field Support; DM, Department of Management; HR, Human resources; OAH, offices away 
+from Headquarters; OCSS, Office of Central Support Services; OHRM, Office of Human Resources Management; OPPBA, 
+Office of Programme Planning, Budget and Accounts; SME, subject matter expert; USG, Under-Secretary-General. 
+
+ a See A/62/510/Rev.1, Figure I. 
+
+Management 
+Committee 
+
+Chair: USG/DM 
+
+Business Owner  
+HR 
+
+ASG/OHRM 
+
+Business Owner  
+FINANCE 
+
+ASG/OPPBA 
+ 
+
+CITO 
+ 
+
+OAHs 
+Business Owner  
+
+Supply Chain 
+USG, ASG/DFS 
+
+Business Owner  
+Central Support 
+
+Services 
+ASG/OCSS 
+
+ 
+
+A
+dvisory G
+
+roups
+
+ 
+Change 
+
+management 
+
+ 
+Process 
+
+management 
+
+ 
+Project 
+
+manager 
+
+HR Team 
+Team Leader 
+
+ 
+ 
+
+BPR 
+ 
+ 
+
+SMEs 
+ 
+ 
+
+ICT Support 
+ 
+ 
+
+Implementation 
+Support 
+
+Supply Chain 
+Team 
+
+Team Leader 
+
+Central Support 
+Services Team 
+Team Leader 
+
+ 
+Technology 
+management 
+
+ 
+Administrative 
+management 
+
+Finance Team 
+Team Leader 
+
+ 
+ 
+
+BPR 
+ 
+ 
+
+SMEs 
+ 
+ 
+
+ICT Support 
+ 
+ 
+
+Implementation 
+Support 
+
+ 
+BPR 
+
+ 
+ 
+
+SMEs 
+ 
+ 
+
+ICT Support 
+ 
+ 
+
+Implementation 
+Support 
+
+ 
+BPR 
+
+ 
+ 
+
+SMEs 
+ 
+ 
+
+ICT Support 
+ 
+ 
+
+Implementation 
+Support 
+
+Business 
+processes 
+
+Day-to-day
+management and 
+
+technology 
+
+ERP Steering Committee 
+
+ERP Project Team
+
+Functional areas 
+
+
+
+ A/63/487
+ 
+
+41 08-55427 
+ 
+
+Annex VII 
+ 
+
+  Entities of the United Nations system that have implemented 
+enterprise resource planning systems 
+ 
+ 
+
+Organization ERP system software 
+Start of 
+implementation 
+
+Food and Agriculture Organization of 
+the United Nations 
+
+Oracle/PeopleSoft 1999 
+
+International Labour Organization Oracle/PeopleSoft 2001 
+
+International Maritime Organization SAP 2003 
+
+International Telecommunication 
+Union 
+
+SAP 1985 
+
+United Nations Development 
+Programme 
+
+Oracle/PeopleSoft 2002 
+
+United Nations Population Fund Oracle/PeopleSoft 2003 
+
+United Nations High Commissioner 
+for Refugees 
+
+Oracle/PeopleSoft 2002 
+
+United Nations Children’s Fund SAP 1997 
+
+World Food Programme SAP 1997 
+
+World Health Organization Oracle 2004 
+
+World Intellectual Property 
+Organization 
+
+Oracle/PeopleSoft 2002 
+
+World Meteorological Organization Oracle 2005 
+
+World Trade Organization Oracle 1998 
+
+United Nations Educational, Scientific 
+and Cultural Organization 
+
+SAP 2000 
+
+International Monetary Fund PeopleSoft 1994 
+ 
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 42 
+ 
+
+Annex VIII 
+ 
+
+  Updated paragraph 109 of document A/62/510/Rev.1 
+ 
+ 
+
+109. The General Assembly is requested: 
+ 
+
+  Regular budget 
+ 
+
+ (e) To approve an amount of $6,427,100 under section 28A, Office of the 
+Under-Secretary-General for Management, and $83,200 under section 35, Staff 
+assessment, to be offset by an equivalent amount under income section 1, Income 
+from staff assessment, of the programme budget for the biennium 2008-2009; 
+
+ (f) To approve the utilization of an amount of $2,346,000 of interest accrued 
+under the Integrated Management Information System Fund available at 
+31 December 2007 for the requirements of the ERP project; 
+
+ (g) To decide that for the biennium 2008-2009 to meet the three projects, the 
+provisions for the application of credits under regulations 3.2 (d), 5.3 and 5.4 of the 
+Financial Regulations and Rules of the United Nations shall be suspended in respect 
+of the amount of $4,164,300 gross ($4,081,100 net), which otherwise would have to 
+be surrendered pursuant to those provisions; 
+
+ (h) To note that the future remaining requirements in the estimated amount 
+of $43,110,300 gross ($42,121,400 net) for the implementation of ERP, customer 
+relationship management and enterprise content management would be considered 
+in the context of the proposed programme budget for the relevant biennium; 
+ 
+
+  Peacekeeping operations support account 
+ 
+
+ (i) To approve the additional peacekeeping operations support account 
+requirements in the amount of $26,843,600 gross ($26,565,500 net) for the period 
+from 1 July 2008 to 30 June 2009 to meet the requirements of the ERP, enterprise 
+content management and customer relationship management projects as contained in 
+the present report; 
+
+ (j) To decide that the provisions for the application of credits under 
+regulation 5.3 of the Financial Regulations and Rules of the United Nations shall be 
+suspended in respect of the amount of $26,843,600 gross ($26,565,500 net), 
+representing part of the unencumbered balance of the active peacekeeping 
+operations for the financial period ended 30 June 2008, which otherwise would have 
+to be surrendered pursuant to those provisions; 
+
+ (k) To decide to apply the amount of $26,843,600 gross ($26,565,500 net), to 
+be prorated among the unencumbered balances of the active peacekeeping 
+operations for the financial period ended 30 June 2008, to meet the additional 
+peacekeeping operations support account requirements in respect of the ERP, 
+enterprise content management and customer relationship management projects; 
+
+ (l) To note that the future remaining requirements in the estimated amount 
+of $172,134,000 gross ($167,980,700 net) will be included in subsequent 
+peacekeeping support account requirements for the financial periods until 2012; 
+ 
+
+
+
+ A/63/487
+ 
+
+43 08-55427 
+ 
+
+  Extrabudgetary resources 
+ 
+
+ (m) To note that an estimated amount of $65,679,000 of the total ERP project 
+cost would be financed from extrabudgetary resources, of which an amount of 
+$9,854,900 relates to the biennium 2008-2009; 
+
+ (n) To authorize the Secretary-General to establish a multi-year special 
+account to record income and expenditures for this project. 
+
+
+
+A/63/487  
+ 
+
+08-55427 44 
+ 
+
+Annex IX 
+ 
+
+  Updated timeline for the enterprise resource 
+planning projecta 
+ 
+ 
+
+ 
+
+ a See A/62/510/Rev.1, figure II. 
+ b Talent management commences prior to wave 1. 
+
+ 
+ 
+
+ 
+
+• Contracts for enterprise 
+resource planning (ERP) 
+software and system 
+integration services 
+• Project management 
+office 
+• System architecture 
+• High-level business 
+process re-engineering 
+
+• Fast-tracked priorities: talent 
+management;b procurement; 
+limited self-service 
+• Support Institute for 
+International Public Sector 
+Accounting Standards (IPSAS) 
+compliance, including:  
+
+• Core financials; budget 
+allocation and execution; 
+programme planning; cost 
+accounting; trust funds; grants
+• Attendance and leave; 
+staffing tables and posts; 
+appointment and 
+administration of staff not on 
+Integrated Management 
+Information System (IMIS) 
+payroll 
+• Assets; facilities; 
+inventories; related staff costs; 
+contract management 
+
+• Remaining functionalities, 
+including: 
+
+• Strategic 
+management; budgeting; 
+results-based 
+management; risk 
+management; resource 
+mobilization; project 
+management 
+• Remaining human 
+resources, finance, 
+supply chain and central 
+support functionalities 
+• Global transportation 
+management 
+
+Preparatory phase Project: Wave 1  
+30 months 
+
+2008 2009 2010 2011 2012 
+
+Project: Wave 2 
+  24 months 
+
+Adoption of the proposal 
+by the General Assembly 
+
+2013 
+
+Project timeline 
+
+
+
+ A/63/487
+ 
+
+45 08-55427 
+ 
+
+Annex X 
+ 
+
+  Updated table 5 of document A/62/477 
+ 
+ 
+
+Table 5 
+Summary of resource requirements by site 
+
+ 
+ 
+
+ Regular budget Peacekeeping budget 
+
+ 
+
+2008-2009 
+estimate 
+
+(before 
+recosting) 
+
+2010-2011 
+estimate 
+
+(before 
+recosting) 
+
+2008-2011 
+estimate
+
+(before 
+recosting)
+
+1 July 2008 
+to 
+
+30 June 2009
+
+1 July 2009 
+to 
+
+30 June 2010
+
+1 July 2010 
+to 
+
+30 June 2011
+
+1 July 2011  
+to  
+
+30 June 2012 
+
+1 July 2008 
+to 
+
+30 June 2012
+Total 
+
+per site
+
+Site (1) (2) (3)=(1)+(2) (4) (5) (6) (7) 
+(8)=(4)+(5)+
+
+(6)+(7) (9)=(3)+(8)
+
+Proposed site B: 
+Valencia 5 030.4 6 219.0 11 249.4 149.4 2 108.0 4 759.4 2 800.7 9 817.5 21 066.9
+
+Long Island City: 
+equipment 8 666.4 1 593.8 10 260.2 2 166.6 398.4 199.2 — 2 764.2 13 024.4
+
+North Lawn: 
+equipment 5 716.4 1 094.9 6 811.3 1 429.1 273.7 136.9 — 1 839.7 8 651.0
+
+Long Island City: 
+construction and 
+lease costs 13 584.1 3 150.1 16 734.2 3 395.9 787.5 — — 4 183.4 20 917.6
+
+ Total 32 997.3 12 057.8 45 055.1 7 141.0 3 567.6 5 095.5 2 800.7 18 604.8 63 659.9
+ 
+ 
+
+ 
+
+ 
+
+
+
+A/63/487  
+ 
+
+08-55427 46 
+ 
+
+Annex XI 
+ 
+
+  Updated paragraphs 119 to 123 of document A/62/477 
+ 
+ 
+
+  Action to be taken by the General Assembly: regular budget 
+ 
+ 
+
+119. The General Assembly is requested to approve the additional resource 
+requirements for the biennium 2008-2009 of $22,456,500 under section 28D, Office 
+of Central Support Services, $10,434,000 under section 32, Construction, alteration, 
+improvement and major maintenance, and $106,800 under section 35, Staff 
+assessment, to be offset by an equivalent amount under income section 1, Income 
+from staff assessment. 
+
+120. The General Assembly is requested to note that an additional provision of 
+$12,057,800 would be required in the context of the proposed programme budget for 
+the biennium 2010-2011. 
+
+121. The General Assembly is also requested to approve the establishment of two 
+posts at the P-5 level under section 28D, Office of Central Support Services. 
+ 
+ 
+
+ III. Action to be taken by the General Assembly: peacekeeping 
+ 
+ 
+
+122. The actions to be taken by the General Assembly in connection with the 
+financing of the secondary active communications facility are: 
+
+ (a) To approve the proposal by the Government of Spain to host the 
+secondary active communications facility at Valencia; 
+
+ (b) To take note of the intention to meet the estimated requirements of 
+$149,400 for the establishment of the secondary active telecommunications facility 
+at Valencia (site B) for the period from 1 July 2008 to 30 June 2009 from within 
+resources approved for the same period for UNLB. 
+
+123. The actions to be taken by the General Assembly in connection with the 
+peacekeeping operations share of the Long Island City and North Lawn data centres 
+are: 
+
+ (a) To take note of the cost-sharing arrangements between the regular budget 
+and the budget of the support account for peacekeeping operations; 
+
+ (b) To also take note of the additional requirement of $6,991,600 towards the 
+share of the design and rental costs of the North Lawn and Long Island City data 
+centres and to appropriate the prorated share of these requirements in accordance 
+with the funding mechanism for the support account for peacekeeping operations 
+approved in paragraph 3 of General Assembly resolution 50/221 B. 
+
+ 
+
+
+
+ A/63/487
+ 
+
+47 08-55427 
+ 
+
+Annex XII 
+ 
+
+  Technical advantages of the Valencia, Spain, location for site B 
+ 
+ 
+
+ The Valencia, Spain, location offers a number of technical advantages based 
+mainly on its location and climate. A listing of these advantages is provided below. 
+These advantages are still relevant. 
+
+ Atmospheric gaseous absorption: locations at low elevation angle have 
+higher absorption due to a longer effective path through the atmosphere. All 
+elevation angles at Valencia are above the 10 degrees threshold recommended by the 
+International Telecommunications Satellite Organization (INTELSAT) and not 
+affected by this phenomenon. In Finland, C Band INTELSAT IS 907 will be affected 
+due to the low elevation angle at the proposed location, resulting in higher 
+investment and operating costs. 
+
+ Terminal G/T degradation: when it rains, the antenna picks up additional 
+noise, increasing the system noise affecting emission quality in the KU band 
+antennas. Precipitation at the Valencia location is at the same level and zone as the 
+United Nations Logistics Base at Brindisi, Italy (UNLB) and hence no problems are 
+foreseen. In Finland, precipitation is higher at the proposed location, resulting in the 
+possibility of signal fade due to heavy rain. 
+
+ Snow and ice: snow and ice build-up in the antenna reflector can be a 
+problem. Snow and ice generally attenuate the signal less than rain, but heavy snow 
+can obliterate the signal. Snow and ice is not an issue in Valencia. In Finland, there 
+is high snow and ice activity at the proposed location. De-icing systems and 
+radomes (weatherproof enclosures used to protect antennas) would be needed, which 
+would raise operating and maintenance costs. 
+
+ Path refraction: path refraction is significant at low antenna elevation angles, 
+requiring larger and costlier antennas to overcome this phenomenon. All different 
+operational transponders are above the minimum threshold recommended by 
+INTELSAT in Valencia. In Finland, the transponders 22, 38, and 86 on IS 907 will 
+be more susceptible to this phenomenon in the proposed location. Higher gain 
+antennas are required, resulting in higher operating costs. 
+
+ Beam spreading loss: at low elevation angles, the refractive index of the 
+earth’s atmosphere causes the beam to spread out, causing losses in the effective 
+gain. No serious problems are foreseen at the Valencia location since all elevation 
+angles are above the threshold. In Finland, with the implementation of bigger 
+antennas and their associated devices required at the proposed location, this problem 
+can be partially, but not totally, corrected.  
+ 
+
+  Other advantages 
+ 
+
+ The majority of strategic telecommunications of the Department of 
+Peacekeeping Operations and the Department of Field Support are transmitted via 
+three geostationary satellites. The location sought for a secondary active 
+telecommunications site must have visibility (“a clear view”) to all satellites 
+currently leased by both Departments. The geographical area where these conditions 
+are met is based on coverage data and elevation angle recommendations provided by 
+INTELSAT. The Valencia site is located within this area. Valencia does not share 
+common power and communications grids with UNLB, greatly reducing the risk of 
+a simultaneous outage in both sites. 
+
+

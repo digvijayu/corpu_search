@@ -1,0 +1,63 @@
+[Start1]
+Sixty-seventh session
+Agenda item 128 
+Financial reports and audited financial statements, 
+and reports of the Board of Auditors
+
+
+
+		Implementation of the recommendations of the Board of Auditors contained in its report on the handling of information and communications technology affairs in the Secretariat
+
+
+		Report of the Secretary-General
+
+
+
+	Summary	The present report provides information in response to one of the recommendations made by the Board of Auditors in its report on the handling of information and communications technology affairs in the Secretariat (A/67/651). It is submitted in accordance with paragraph 7 of General Assembly resolution 48/216 B, in which the Secretary-General was requested to report to the Assembly at the same time as the Board of Auditors submitted its recommendations to the Assembly on measures taken or to be taken to implement those recommendations. 
+	The Administration agrees with all the recommendations of the Board of Auditors. Most of the comments of the Administration have been duly reflected in the reports of the Board. The present report provides an additional update on the actions that are being taken by the Administration to strengthen, as a matter of urgency, information and system security across the Secretariat. Information on the status of implementation of all the recommendations contained in the report of the Board, the office responsible, the estimated completion date and the priority for each recommendation will be provided in the report of the Secretary-General on information and communications technology to be submitted to the General Assembly at its sixty-eighth session, in 2013.	
+
+	I.	Introduction
+
+
+1.	In paragraph 7 of its resolution 48/216 B, the General Assembly requested the Secretary-General to report to it on the measures that would be taken to implement the recommendations of the Board of Auditors at the same time as the recommendations of the Board were submitted to the Assembly. Accordingly, the present report is submitted in response to one of the recommendations made by the Board in its report on the handling of information and communications technology (ICT) affairs in the Secretariat (A/67/651), which the Board requested the Administration to address as a matter of urgency.
+2.	In preparing the present report, the provisions of the following General Assembly resolutions were taken into account:
+	(a)	Resolution 48/216 B, in particular paragraph 8, in which the Secretary-General was requested to draw attention in his reports to the recommendations that would require action by the Assembly;
+	(b)	Resolution 52/212 B, in particular paragraphs 3 to 5, and the note by the Secretary-General transmitting the proposals of the Board for improving the implementation of its recommendations approved by the Assembly (A/52/753, annex).
+3.	The Administration has accepted all the recommendations in the report of the Board and in the memorandum on ICT security addressed to the Chair of the Advisory Committee on Administrative and Budgetary Questions. The Administration has informed the Board that it will conduct a comprehensive review of its ICT strategy and governance, ICT operations and structure and ICT resource allocation, and that it will submit a report of the Secretary-General thereon to the General Assembly at its sixty-eighth session, in the latter part of 2013. The Administration has also informed the Board that the aforementioned report of the Secretary-General will address all the recommendations made by the Board in its report, as well as the decisions taken by the Assembly in response to the report of the Board during the resumed sixty-seventh session of the Assembly, to be held early in 2013. 
+4.	The report of the Secretary-General scheduled for submission to the General Assembly at its sixty-eighth session will also include information on the status of implementation of all the recommendations, the office responsible, the estimated completion date and the priority for each recommendation contained in the report of the Board.
+
+
+	II.	Update on the implementation of the recommendation related to strengthening information and systems security across the Secretariat
+
+
+5.	The recommendation on which the Administration would like to include additional comments reads as follows (see A/67/651, para. 101): The Administration agreed with the detailed recommendation on ICT security set out by the Board in its memorandum to the Chair of the Advisory Committee on Administrative and Budgetary Questions on this matter. 
+6.	The Administration hereby informs the Board that the recommendation is being addressed as a matter of urgency and that immediate steps are being taken.
+7.	In preparation for the development and implementation of an action plan to address the security concerns, early in January 2013 the Department of Management of the Secretariat held a briefing for senior managers by representatives of the Office of Information Security of the World Bank Group. 
+8.	The objectives of this meeting were to raise awareness of this important matter and to initiate actions aimed at obtaining the commitment of senior managers, as well as staff at all levels, in support of the implementation of various measures to be taken to strengthen ICT security across the Secretariat.
+9.	The action plan being developed by the Administration foresees the implementation of short-term measures to address the most urgent shortcomings and the definition of a sustainable medium- and long-term strategy for information security. 
+10.	The action plan covers areas such as:
+	(a)	Preventive controls. The Secretariat will strengthen technical controls of the ICT infrastructure, including by limiting administrative privileges for the configuration of desktop and laptop computers, filtering the Internet and e-mail traffic for malicious content and segmenting the network of ICT resources to limit the possibilities of damages by an intruder. In addition, mandatory information security awareness training will be provided for all staff and other authorized users of the Organization’s ICT resources;
+	(b)	Improved incident detection and response capabilities. In order to adjust to an environment where the risk of threats has increased significantly, the Secretariat will introduce additional intrusion detection systems and monitor its networks systematically; 
+	(c)	Governance, risk and compliance. An information security charter and associated policy documents will be presented to the Management Committee for adoption and promulgation, and the policies established therein will be enforced throughout the Secretariat.
+11.	Implementation of the action plan is starting immediately. The first stage will be completed in 2013 and full implementation will continue in 2014. An update on the status of implementation will be provided in the report of the Secretary-General on ICT to be submitted to the General Assembly at its sixty-eighth session. 
+
+[Start1]<<ODS JOB NO>>N1320823E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/67/651/Add.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/67/651/Add.1
+
+A/67/651/Add.1
+
+13-208232
+
+313-20823
+
+United NationsA/67/651/Add.1 
+General AssemblyDistr.: General
+16 January 2013
+
+Original: English
+
+13-20823 (E)    290113
+*1320823*
+

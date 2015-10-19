@@ -1,0 +1,171 @@
+[Start1]
+Fifty-fifth session
+
+
+	*	A/55/150.
+	**	This report required input and extensive review by the United Nations Offices at Geneva, Nairobi and Vienna, the International Tribunal for the Former Yugoslavia, the regional commissions, and local funds and programmes. This review process took an extra six weeks, which delayed the submission of the report.
+Item 118 of the provisional agenda*
+Review of the efficiency of the administrative and 
+financial functioning of the United Nations
+
+
+
+		Overseas Properties Management and Information Exchange Network (OPMIEN): a globally coordinated collaborative approach to facilities management
+
+
+		Report of the Secretary-General**
+
+
+
+	Summary	The Advisory Committee on Administrative and Budgetary Questions, in its reports to the General Assembly on the proposed programme budgets for 1996-1997 (A/50/7), 1998-1999 (A/52/7) and 2000-2001 (A/54/7) recommended that Headquarters maintain a coordinating role for an overview of all United Nations facilities with regard to their physical condition, property valuations, facilities-related contracts, efficiency measures, maintenance and alterations/improvement projects and environmental concerns.
+	To facilitate such coordination of common concerns related to facilities management, the Office of Central Support Services at United Nations Headquarters is proposing an Organization-wide collaborative team of professionals from each duty station, called the “Overseas Properties Management Information Exchange Network (OPMIEN)”. The purpose of such a collaborative team would be to regularly network and exchange information on best practices, common approaches and policy directives that would enhance the safety, reliability, efficiency and operations of the facilities while integrating into the buildings infrastructure the evolving technological innovations.	The present report provides the framework for the proposed network and outlines the approach towards ensuring that the buildings management and related support services are provided in a safe, reliable, high-quality, cost-effective and timely manner, resulting in a more productive working environment with greater client satisfaction.
+
+
+Contents
+ParagraphsPageI. 	Introduction	1–63II. 	Proposed approach	7–153III. 	Pilot programme of information exchange	16–174IV. 	Inaugural seminar for the Overseas Properties Management Information Exchange Network	18–195V. 	Common items of concern	205VI. 	Terms of reference	215VII. 	The functions of OPMIEN	226VIII. 	Membership	236IX. 	Budgetary, manpower and other resources	246X. 	Conclusions: programme strategy for a globally coordinated collaborative approach to administrative and financial efficiency for United Nations properties and building services	25–297
+
+
+
+
+
+	I.	Introduction
+
+
+1.	Since 1945, the activities of the United Nations have increased in scope, complexity and geographic diversity, leading to an essential and parallel growth in the physical facilities occupied by the Organization. As a result, the real estate currently administered by the United Nations is quite extensive in physical and economic terms.
+2.	The survey of the properties conducted in 1999 (A/54/628) reveals that the United Nations sites currently total 175.65 hectares (ha) (434 acres) of land, of which 134.77 ha are owned by the Organization and 40.87 ha are leased at nominal or no cost. Total gross building floor area at these sites is 1,098,098 square metres. An additional 154,523 m2 of building space is rented at commercial rates, bringing the total gross floor area in use at the locations surveyed to 1,252,621 m2.
+3.	The estimated total current value of all land and buildings (owned and leased at nominal or no cost) is approximately $5,186,950,291. The current value of land and buildings owned by the United Nations is estimated at $1,289,101,248 (land) and $1,796,300,547 (buildings), making a total of $3,085,401,795.
+4.	These properties represent important investments that have been made either collectively by Member States through their contributions to the regular budget, or individually by Governments or others through voluntary gifts or by the lease of land and buildings to the Organization at nominal or no cost. The values of these properties are more than monetary, as they serve important functional purposes and have significant cultural and symbolic value.
+5.	Therefore, it is the responsibility of the Organization not only to maintain and enhance these valuable investments of Member States, but also to ensure a safe and efficient environment for staff, delegates and visitors in a proactive and cost-effective manner by progressive management, budgetary and contractual policies.
+6.	In this context, the Advisory Committee on Administrative and Budgetary Questions recommended, in its reports to the General Assembly on the proposed programme budgets for 1996-1997,1 1998-19992 and 2000-2001,3 that Headquarters should maintain a coordinating role for an overview of all United Nations facilities with regard to their physical condition, property valuations, facilities-related contracts, efficiency measures, maintenance and alterations/improvements projects and environmental concerns.
+
+
+	II.	Proposed approach
+
+
+7.	In 1984 the General Assembly approved the recommendation of the Advisory Committee on Administrative and Budgetary Questions that responsibility for control and overall administration for overseas construction should rest with Headquarters. A Coordinator for Overseas Construction was appointed to direct and control all overseas projects, including retaining necessary architectural and engineering firms, overseeing contracting procedures and ensuring the coordination of the work of staff, consultants and contractors.
+8.	The Overseas Property Management and Construction Unit was established within the Office of General Services in 1988 as a separate organizational unit. In addition to responsibility for control and overall administration for overseas construction, the Unit was assigned responsibility for overseeing the planning, management and operation of all existing physical facilities of the Organization; developing databases for all major properties of the Organization and guidelines on space standards; reviewing long-range space requirements at all locations and formulating and implementing long-range maintenance programmes at all locations.
+9.	The Overseas Property Management and Construction Unit focused heavily on providing management, guidance and technical support for the construction of conference facilities at the Economic Commission for Africa (ECA) and the Economic and Social Commission for Asia and the Pacific (ESCAP) and office facilities at Nairobi. The staffing requirements of this Unit were in direct relationship with the responsibilities for the level of funding during the construction period, which was completed in 1996. The Unit’s responsibilities were redirected from overseeing major construction to providing overall advice and guidance related to all aspects of facilities management. It was therefore more feasible and practical to restructure the Unit as part of the Facilities Management Division by providing policy support and working closely with the overseas property managers towards specific items of concern.
+10.	In order to implement the responsibilities and provide effective operation of the Overseas Property Management and Construction Unit, in line with the recommendations of the Advisory Committee on Administrative and Budgetary Questions, the centralization of all overseas properties programme data at United Nations Headquarters would be required. Such an undertaking is a major responsibility, requiring full knowledge of each facility, its unique characteristics and modalities, maintenance history, operational needs, improvements and expansion programmes and associated budgets. Such a centralized level of coordination and management would entail significant additional staffing, travel costs and budgetary resources.
+11.	However, owing to modern technology in communications and high-speed information exchange, effective and timely coordination can be facilitated by networking through electronic mail, Internet and online sharing of data. Rather than trying to centralize all resources and records at Headquarters, it is more efficient and effective to coordinate all facilities-related matters through a digital-information-technology based exchange-network of one or more professionals designated as focal points at Headquarters and at each of the overseas duty stations. The purpose of such an Organization-wide collaborative team would be to exchange information regularly on best practices, common approaches and policy directives that would enhance the safety, reliability, efficiency and operations of the facilities while integrating evolving technologies into the buildings infrastructure.
+12.	Therefore, a decentralized technical, administrative and budgetary approach to a globally coordinated collaborative facilities management system based on information exchange is proposed. In this regard, the Office of Central Support Services, in collaboration with an Organization-wide team of designated professionals from each duty station, will provide a coordinating role for monitoring information exchange and policy dissemination with respect to locations outside Headquarters.
+13.	Previous programme budget preparations were based on the immediate maintenance requirements of each location, without an assessment of global needs within a coordinated programme designed to set priorities and limit the potential for “surges” in the need for budgetary appropriations. It is increasingly clear that, without an integrated programmatic structure, a continuation of mere listing of the requirements for each location in the budget leaves open the likelihood that such “scattered appropriations” will be used less effectively. As a result, some properties may not receive timely maintenance, repair and technical modernization or a short-term focus on “quick fixes” may not address the medium- and long-term organizational and programmatic goals.
+14.	An integrated, collaborative and coordinated approach through a regular “information exchange” regarding building conditions, environmental and safety issues, contracts, services, and renovation programmes by a network of professionals designated at each property location, such as that proposed herein, could become the medium for promoting effective and timely communication. This would facilitate an effective and efficient planning, management, alterations/improvements, maintenance and operation of all physical facilities of the Organization at Headquarters and overseas.
+15.	It is expected that such an approach could become the vehicle for a coordinated global facilities management programme with proper performance-based resource allocations and coordinated long-range planning consistent with operational needs and organizational objectives.
+
+
+	III.	Pilot programme of information exchange
+
+
+16.	In 1999, a pilot programme for an “Overseas Properties Management Information Exchange Network” was proposed and initiated as a possible vehicle for improving support services. Each duty station was requested to designate a professional from its buildings management service or office of general services who was involved in their emergency preparedness programme for the year 2000 transition. Through this information exchange programme, the individuals involved were able to share the “contingency plans” for each of the sites, suggest improvements and communicate on-line on added observations prior to, during and after the year-2000 change. The process was successful in terms of proving the value of a global information exchange network.
+17.	Subsequently, the same successful networking process was used to gather data regarding overseas properties valuations and maintenance budgets, to exchange data regarding the management of asbestos containing materials at various locations, and review options for computerized automation and maintenance management systems.
+
+
+	IV.	Inaugural seminar for the
+Overseas Properties Management Information Exchange Network
+
+
+18.	To further develop the opportunities for the creation and operation of a global information exchange network, a pilot seminar was held at United Nations Headquarters from 31 January to 8 February 2000. Representatives of United Nations offices at Geneva, Vienna and Nairobi, the International Tribunal for the Former Yugoslavia, United Nations premises in Bonn, the United Nations Truce Supervision Organization (UNTSO), and the regional commissions were invited and participated. Key senior representatives from the United Nations Development Programme (UNDP), the United Nations Children’s Fund (UNICEF), the United Nations Population Fund (UNFPA), the United Nations Office for Project Services (UNOPS), the Common Services Project Coordinator, the United Nations Development Group (UNDG) and the World Bank were requested to attend and participate in the discussions. The Information Technology Services Division, the Procurement Division, and the Security and Safety Service gave individual presentations on their mandates and functional roles. A joint presentation by the United Nations Common Services Project Coordinator for New York together with the Sub-Group on Common Premises and Services of the United Nations Development Group (UNDG) presented strategies and experiences acquired from the Common Services approach that are in line with the Secretary-General’s reform initiatives.
+19.	The participants agreed that global networking and information exchange is valuable to their efforts to provide quality services. A major recommendation of this workshop was the proposal to establish OPMIEN in order to continue the process of exchanging ideas, problems, policy issues, services and other operational issues related to facilities management. Group recommendations ranged from proposals on technical discussions through on-line exchanges to proposed annual meetings to be hosted by various duty stations.
+	V.	Common items of concern
+
+
+20.	On the basis of the discussions and the feedback from the inaugural seminar, participants agreed to focus on the following key activities:
+	(a)	Standard measurements and action plans for environmental, health and safety issues;
+	(b)	Guidelines and standards for space management, furniture and interior renovations;
+	(c)	Development and maintenance of common databases for substantive facilities, budgets and contractual items;
+	(d)	Guidelines and standards for infrastructure and building technology issues in the Information Technology Services Division;
+	(e)	Sharing of service contracts and their administration;
+	(f)	Design of individual web sites that could be linked to share procedural, service and policy matters;
+	(g)	Development and implementation of a comprehensive programme and policies for the Overseas Properties Management Information Exchange Network and an annual information exchange seminar at one of the duty stations;
+	(h)	Standards and guidelines for energy and water efficiency and management measures;
+	(i)	Promotion of the “common services” concept for efficiency and improved services;
+	(j)	Design and measurement of performance indicators that could be linked to budgetary programmes;
+	(k)	Guidelines and policies with regard to outsourcing and in-house staffing;
+	(l)	Guidelines and policies for medium- and long-range capital improvement planning.
+
+
+	VI.	Terms of reference
+
+
+21.	The participants reviewed and agreed on the terms of reference for OPMIEN consistent with the approach suggested in chapter II above.
+
+
+	VII.	The functions of OPMIEN
+
+
+22.	The functions of OPMIEN are the following:
+	(a)	To facilitate such an effort of common concerns related to facilities management, the Office of Central Support Services at United Nations Headquarters will develop, in close collaboration with the administrations at other duty stations, an integrated and systematic Organization-wide policy, administrative, procurement and budget information exchange programme, with the following objectives:
+	(i)	To develop a common framework for the properties’ critical parameters, conditions and values;
+	(ii)	To assess relative operational and maintenance costs;
+	(iii)	To develop strategies for the short-, medium- and long-range planning of facilities alterations, improvements and major maintenance items;
+	(iv)	To develop design and construction standards, policies and procedures;
+	(v)	To address energy and environmental, health and safety issues.
+	(b)	Detailed, comprehensive databases will be prepared to facilitate programme development and implementation of standards and guidelines for long-range maintenance and operations. For the efficient management of facilities to suit organizational objectives, the integrated major maintenance programme should be projected over a long-range planning period of 10 to 15 years. However, medium-term plans and biennial programme budget proposals will continue to be presented in the mandated four-year and two-year cycles, but with greater emphasis on the coordination and integration of programme elements and on budgetary consistency over time;
+	(c)	The following types of typical data would be collected:
+	(i)	Inventory of the properties and buildings owned or occupied by the United Nations;
+	(ii)	Physical condition of the properties and buildings;
+	(iii)	Increase/decrease in the number of buildings or spaces since original occupancy;
+	(iv)	Current replacement value of the properties and buildings;
+	(v)	Maintenance and repair budgets requested for each biennium in comparison with industry standards at each duty station, vis-à-vis the value of the buildings;
+	(vi)	List of services outsourced, nature and form of such outsourced services and specific experiences with in-house and outsourced services;
+	(vii)	Efficiency measures with regard to space planning, alterations and improvements, contracting and energy/water saving;
+	(viii)	Occupational safety and health-related staff concerns and how these issues are being addressed;
+	(ix)	Review information exchange group work proposals and recommendations;
+	(x)	Recommend policy initiatives and action plans to improve operations and services;
+	(xi)	Secure support and mobilize resources as necessary, to implement recommendations at each duty station.
+
+
+	VIII.	Membership
+
+
+23.	The core members of the network are the following:
+	(a)	Director/Chief, Facilities Management Division, Headquarters;
+	(b)	One or more senior officers from Headquarters;
+	(c)	One or more senior officers from each duty station;
+	(d)	One or more senior officers from other United Nations agencies and programmes, such as UNICEF, UNDP, UNOPS and UNFPA.
+
+
+	IX.	Budgetary, manpower and 
+other resources
+
+
+24.	All resources required to support OPMIEN at United Nations Headquarters and at each of the duty stations and funds and programmes will be included in their respective regular budgets and no separate centralized funding is envisioned. This matter may be reviewed for any special large construction projects that may fall under the review and management of OPMIEN.
+
+
+	X.	Conclusions: programme strategy for a globally coordinated collaborative approach to administrative and financial efficiency for United Nations properties and building services
+
+
+25.	The buildings, land and support facilities owned or leased by the United Nations are a major asset of the Organization. They are not only very prestigious and of landmark quality, but they also symbolize the Organization by its architectural character and global image.
+26.	Their physical condition has an important impact on the efficiency of the Secretariat and the conference, administrative, humanitarian, socio-economic developments and peacekeeping operations.
+27.	Under the Secretary-General’s reform programme of expanding and strengthening common services and by following good industry practices, there is a need for a coordinated and collaborative approach to planning and budgeting of alterations, improvements, operations and maintenance of all United Nations properties worldwide by sharing and learning from knowledge, experiences and contractual arrangements.
+28.	To facilitate such an effort, a decentralized approach is proposed. In this regard, the Office of Central Support Services will provide a coordinating role for monitoring, information exchange and policy dissemination with respect to locations outside Headquarters in collaboration with an Organization-wide team of professionals designated as focal points from each duty station. The collaborative team would develop and maintain a database of all land, buildings and property values, office and conference spaces, relative operational and maintenance costs and other parameters to facilitate programme development and implementation of standards and guidelines for consistent operations, environmental controls, facilities planning and budgeting. OPMIEN would regularly exchange information by networking via the Internet and e-mail and would meet once a year at one of the duty stations to focus on items of immediate interest. The funding and other resources required would be included in the regular budgets of the offices at each of the duty stations. For efficient planning, budgeting and management of facilities to suit organizational objectives, an effort will be made to project, over a long-range planning period of 10 to 15 years, the integrated alterations, improvements, major maintenance and construction programmes. Medium-term plans and biennial programme budget proposals will continue to be presented in the mandated four-year and two-year cycles, but with a greater emphasis on the coordination and integration of programme elements and on budgetary consistency over longer periods.
+29.	The Secretary-General would report to the General Assembly periodically on the specific activities and accomplishments of OPMIEN as appropriate.
+
+
+Notes
+	1	Official Records of the General Assembly, Fiftieth Session, Supplement No. 7 (A/50/7), chap. II, part XI, sect. 31, para. XI.21.
+	2	Ibid., Fifty-second Session, Supplement No. 7 (A/52/7/Rev.1), chap. II, part XI, sect. 31, para. XI.6.
+	3	Ibid., Fifty-fourth Session, Supplement No. 7 (A/54/7), chap. I, para. 92; chap. II, part VIII, para. VIII.39; part XI, para. XI.6.
+
+
+[Start1]<<ODS JOB NO>>N0058690E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/55/210<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+7
+
+United NationsA/55/210 
+General AssemblyDistr.: General
+2 August 2000
+
+Original: English
+
+
+00-58690 (E)    050900
+*0058690*
+

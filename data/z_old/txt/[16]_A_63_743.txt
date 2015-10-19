@@ -1,0 +1,657 @@
+
+ United Nations  A/63/743
+
+  
+ 
+
+General Assembly  Distr.: General 
+27 February 2009 
+ 
+Original: English 
+
+ 
+
+09-25191 (E)    090309 
+*0925191* 
+
+Sixty-third session 
+Agenda items 118 and 132 
+
+ 
+
+Programme budget for the biennium 2008-2009 
+ 
+
+Administrative and budgetary aspects of the financing  
+of the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology, disaster 
+recovery and business continuity for the United Nations: 
+arrangements for the secondary data centre  
+at Headquarters 
+ 
+ 
+
+  Revised estimates relating to the programme budget for the 
+biennium 2008-2009 under Section 28D and Section 36 
+ 
+ 
+
+  Report of the Secretary-General 
+ 
+ 
+ 
+
+ Summary 
+ In its resolution 63/262 (sect. IV, para. 11), the General Assembly decided not 
+to approve the proposal of the Secretary-General for a new secondary data centre as a 
+result of the unsuitability of the proposed Long Island City site (see A/62/477) and 
+requested the Secretary-General to report at the first part of its resumed sixty-third 
+session on the risk mitigation measures to be taken during the relocation of the 
+primary data centre to the North Lawn. In the same resolution, the Assembly 
+requested the Secretary-General to present a new proposal for a secondary data 
+centre, including a proposal on cost-sharing arrangements (sect. IV, para. 19). 
+
+ The present report responds to the above decisions of the General Assembly 
+and addresses the request of the Assembly to the Secretary-General to consolidate 
+systems in central data centres in order to strengthen disaster recovery and business 
+continuity (resolution 63/262, sect. IV, para. 2). 
+
+ In the context of the present report, the Secretary-General proposes that the 
+Secretariat lease a commercial data centre facility, starting 1 July 2009, and obtain 
+the services of the International Computing Centre, which would install new 
+information and communications technology (ICT) equipment in this ready-to-use 
+
+
+
+A/63/743  
+ 
+
+09-25191 2 
+ 
+
+facility, and migrate all systems from the current secondary data centre in the DC2 
+Building to the leased facility by 1 November 2009, in time to provide a reliable 
+backup during the relocation of the primary data centre. The Secretariat is to retain 
+the data centre in the DC2 Building in working condition throughout the move in 
+order to mitigate the risk of disruption to ICT services and the impact on the 
+construction schedule of the capital master plan. The duration of the lease of the new 
+facility is intended to run from 1 July 2009 to December 2011. This option of leasing 
+a commercial data centre facility also allows for flexibility in adjusting to changes in 
+scope and offers, under the present conditions, a viable solution for the secondary 
+data centre for United Nations Headquarters in the short term. 
+
+ The resources required for the new secondary data centre comprise: (a) a 
+non-recurrent requirement related to the setting up of the new systems, (b) recurrent 
+expenditures for managing the data centre operations, including equipment and 
+related maintenance, and (c) recurrent expenditures for the lease of the facility, 
+including power and cooling. The total costs, estimated in the amount of 
+$25,737,500, are to be cost-shared between the programme budget and the 
+peacekeeping support account. 
+
+ The proposals for a permanent solution for the secondary data centre for United 
+Nations Headquarters will be presented prior to the biennium 2012-2013, duly 
+addressing requests by the General Assembly in its resolution 63/262 with regard to 
+reducing the size of secondary data centres and re-engineering departmental 
+applications with a view to the predominant use of enterprise data centres. 
+
+ 
+
+ 
+
+
+
+ A/63/743
+ 
+
+3 09-25191 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. In his report on information and communications technology security, disaster 
+recovery and business continuity for the United Nations, the Secretary-General 
+outlined the urgent requirement to increase the size of the United Nations 
+Headquarters secondary data centre and mitigate the potential risks under the capital 
+master plan transition (A/62/477, para. 97). The United Nations Federal Credit 
+Union (UNFCU) Building in Long Island City was initially identified as an 
+attractive option for a secondary data centre as it would allow for: the consolidation 
+of data centres; access to a lower-rent area along with the freeing up of existing 
+office spaces for United Nations business needs; cooperative arrangements with 
+New York-based funds and programmes; and improvements to tier 1 disaster 
+recovery and business continuity capability and scalability. 
+
+2. The General Assembly did not consider the above report during its sixty-
+second session. Given the pressing need to proceed with setting up the secondary 
+data centre in the new location, the Secretary-General, in a note dated 5 June 2008 
+(A/C.5/62/29, annex), requested the Assembly to take note of the need for the 
+Secretariat to enter into commitments not exceeding $13.2 million to meet the 
+associated costs relating to establishment of the alternate Long Island City data 
+centre, in order to continue to make progress on the capital master plan.  
+
+3. With the provisioning of temporary funding mentioned above, a detailed 
+analysis of the UNFCU Building for the Long Island City data centre was 
+undertaken with the assistance of the contractors for the capital master plan. The 
+analysis revealed, however, that the cost would be much higher than originally 
+estimated, due to the need for structural reinforcements, fire protection and major 
+upgrades to the electrical infrastructure. On 25 September 2008, the Secretariat 
+decided that it was not in the best interest of the Organization to pursue the option 
+of locating a secondary data centre in the UNFCU Building in Long Island City.  
+
+4. The Advisory Committee on Administrative and Budgetary Questions, in its 
+report of 16 October 2008 (A/63/487 and Corr.1 and 2), noted that the Long Island 
+City site was no longer being pursued and stated that the General Assembly was no 
+longer required to take any action on the resources requested. The Committee 
+recommended that the Assembly request the Secretary-General to submit a new 
+proposal for a secondary data centre for the United Nations Headquarters in New 
+York, including detailed justification on the costs already incurred in connection 
+with the Long Island City site (ibid., para. 83). 
+
+5. The General Assembly, in its resolution 63/262 of 24 December 2008, decided 
+not to approve the proposal of the Secretary-General for a new secondary data 
+centre at that stage and requested him to report at the first part of its resumed sixty-
+third session on the risk mitigation measures to be taken during the relocation of the 
+primary data centre to the North Lawn. The Assembly also requested the Secretary-
+General to consolidate systems in central data centres in order to strengthen disaster 
+recovery and business continuity, to minimize the size of local primary and 
+secondary data centres and to ensure that the Secretariat would use enterprise data 
+centres rather than local data centres as far as possible. 
+ 
+ 
+
+
+
+A/63/743  
+ 
+
+09-25191 4 
+ 
+
+ II. The problem 
+ 
+ 
+
+6. The current secondary data centre at United Nations Headquarters is located in 
+the DC2 Building, which has limited capacity for both cooling and electrical power. 
+Furthermore, there is no emergency power generator support at that location in the 
+event of a power failure on the public utility grid. When the cooling problem was 
+first identified during the biennium 2000-2001, additional cooling was installed. 
+However, with the continuing increase in demand for information and 
+communications technology (ICT) services, additional electrical and heat loads 
+generated in the data centre presented a high risk of failure, particularly during the 
+summer months. The electrical infrastructure of the DC2 Building is near its 
+maximum capacity, limiting the available alternatives for dealing with the problem. 
+In the summer of 2008, the Information Technology Services Division was forced to 
+shut down several backup systems in the DC2 data centre in order to mitigate 
+problems associated with overheating. The stand-by servers for many systems such 
+as the Integrated Management Information System (IMIS), the official document 
+system (ODS) and the Operations Processing Integrated Control System (OPICS) 
+(Treasury system) are inactive for that reason. The data for these systems is, 
+however, being backed up to the data centre in the DC2 Building for disaster 
+recovery purposes.  
+
+7. According to the current schedule for the capital master plan, the new North 
+Lawn data centre site will be ready for occupation in November 2009. Due to the 
+complexity and volume of applications currently being hosted in the primary data 
+centre, it has been determined that relocating the data centre from the Secretariat 
+Building to the North Lawn in one phase would be a high-risk option, given the risk 
+it presents for disruption in the day-to-day operations of the Secretariat. 
+Furthermore, this approach would also require a large financial outlay to cover the 
+necessary ICT equipment and services. 
+
+8. To mitigate the risk and expenditure involved, the relocation plan envisages a 
+phased approach, spanning four months, from November 2009 to February 2010. In 
+the first phase, expected to be about six weeks, the North Lawn data centre will be 
+equipped with core infrastructure equipment (network and ICT security) and with 
+approximately 25 per cent of the server and storage capacity, to be funded from the 
+$7,145,500 approved by the General Assembly in its resolution 63/262 (see sect. IV, 
+paras. 21 and 22). These resources comprise of $5,716,400 to be funded from the 
+regular budget to be met from resources appropriated under the programme budget 
+for the biennium 2008-2009 and $1,429,100 from the support account. Within this 
+capacity, approximately 25 per cent of the systems hosted in the current primary 
+data centre will be relocated to the North Lawn data centre. When this relocation is 
+successfully completed, the primary data centre equipment released through this 
+initial relocation will be dismantled, moved and installed in the North Lawn data 
+centre to facilitate the next phase of relocation of systems. This process will 
+continue iteratively until all the systems have been relocated from the existing 
+primary data centre to the North Lawn data centre. 
+
+9. During the relocation of systems from the primary data centre to the North 
+Lawn data centre, as described in paragraph 8 above, in order to ensure 
+uninterrupted service the secondary data centre will acquire the role of a primary 
+data centre for the systems that are being relocated. However, because of its 
+inadequate infrastructure facilities, especially the lack of emergency backup power, 
+
+
+
+ A/63/743
+ 
+
+5 09-25191 
+ 
+
+the data centre in the DC2 Building poses a high risk to the continued provision of 
+critical ICT services during the relocation of the primary data centre. If major 
+systems, such as IMIS, e-mail, ODS or official United Nations websites, are 
+disrupted, the Secretariat’s operations could be seriously affected. 
+
+10. The current schedule for the capital master plan envisages that demolition 
+work will be undertaken in the Secretariat Building from November 2009 onwards. 
+While the contractors for the plan will take great care to avoid any damage or 
+disruption to the infrastructure supporting the primary data centre in the Secretariat 
+Building, the risks of major disruption to ICT services cannot be ruled out. Thus, a 
+reliable secondary data centre is critical in order to mitigate the effects of any 
+possible disruptions. 
+
+11. It should also be noted that if the existing primary data centre in the Secretariat 
+Building is not vacated, as planned, by the end of March 2010, the implementation 
+of the capital master plan project will be delayed resulting in a cost increase 
+currently estimated at about $14,000,000 per month due to several costs associated 
+with swing space leases and the resumption of construction activity after an 
+interruption. 
+
+12. For the reasons outlined in the paragraphs above, it is necessary to ensure that 
+a reliable and adequately equipped secondary data centre is fully operational by the 
+end of October 2009. As explained in paragraph 6 above, the current secondary data 
+centre in the DC2 Building cannot meet this requirement, nor can it be upgraded to 
+meet this requirement. 
+ 
+ 
+
+ III. Proposed solutions 
+ 
+ 
+
+13. If the secondary data centre is to provide a reliable backup to the primary data 
+centre it must be located away from the primary data centre, preferably in an area 
+that uses power and communications links from a different utility grid. It cannot, 
+however, be too far away since the costs of data transmission tend to increase with 
+distance. In addition, the secondary data centre has to be within a 60-mile radius of 
+the primary data centre at Headquarters. This physical distance limitation is imposed 
+by the technology that is used for the replication of data from the primary data 
+centre to the secondary data centre. The distance provides a safe margin within 
+which it is possible to ensure that the data replicated to the secondary location can 
+be recovered in full if the primary location is affected. Such technology is currently 
+used for IMIS, security video and other mission-critical data.  
+
+14. In September 2008, when it was determined that the UNFCU Building in Long 
+Island City was not suitable for the secondary data centre, the Secretariat undertook 
+a search for alternate sites in which to build a data centre. Three sites, located in 
+Wappingers Falls, New York, Brooklyn, New York, and Jersey City, New Jersey, 
+were initially identified as potential sites. The Brooklyn and Jersey City sites were 
+eventually discounted owing to concerns surrounding security, the costs involved 
+and the amount of construction that would be required. The Wappingers Falls site 
+appeared to be the most promising from the point of view of cost and availability. A 
+preliminary feasibility study, undertaken in December 2008, confirmed that this site 
+could represent a good long-term solution in terms of distance from the Secretariat, 
+the space available and the quality of the utilities (power, cooling and 
+telecommunications).  
+
+
+
+A/63/743  
+ 
+
+09-25191 6 
+ 
+
+15. A more detailed follow-up study, also initiated in December 2008, could not be 
+completed until in January 2009. On the basis of that study, it was estimated that the 
+costs associated with the “fit-out” of the Wappingers Falls data centre facility, not 
+including the cost of the necessary ICT equipment, would be approximately 
+$24.4 million. More importantly, it became clear that the Wappingers Falls site 
+would not be ready in time for the Secretariat’s purpose, due to the lead-time for 
+modifications to the facilities and the timing of consideration and approval of the 
+current proposal by the General Assembly. 
+
+16. Independent of this development regarding the inability to build a data centre 
+facility in time for the relocation of the primary data centre, the Secretariat also had 
+to re-evaluate its strategy relating to the secondary data centre for Headquarters, in 
+the light of the adoption of resolution 63/262 by the General Assembly. In section 
+IV of that resolution, the Assembly established several important principles for 
+managing disaster recovery and business continuity, notably the Assembly: 
+
+ (a) Requested the consolidation of systems in central data centres and the 
+minimization of the size of local primary and secondary data centres; 
+
+ (b) Encouraged a unified approach to disaster recovery and business 
+continuity, utilizing all available infrastructure to achieve economies of scale and 
+cost efficiencies; 
+
+ (c) Requested that the Secretary-General ensure the use of enterprise data 
+centres rather than local data centres as far as possible; 
+
+ (d) Encouraged application and data re-engineering where it supported the 
+long-term goal of managing data recovery and business continuity in system-wide 
+enterprise data centres and where, from a long-term perspective, it is more cost-
+effective than hosting them at a local data centre. 
+
+17. Cumulatively, the above principles established by the General Assembly in 
+December 2008 pointed to a case for a smaller secondary data centre in 
+Headquarters than originally planned, with the flexibility to reduce its size, over 
+time, by re-engineering and migrating applications to enterprise data centres. 
+
+18. Since constructing a data centre was ruled out owing to the time constraint, 
+and the case for a smaller data centre, with flexibility to shrink further, was 
+strengthened by General Assembly resolution 63/262, the Secretariat undertook a 
+market survey for commercial, “infrastructure-ready” data centre facilities, where it 
+could immediately install and operate its own ICT equipment. These facilities 
+already have raised floor, power and cooling. They can be made operational for the 
+Secretariat’s purposes by installing ICT equipment and telecommunication links 
+between the facility and the Headquarters campus.  
+
+19. These data centre facilities are also available for a short period of time and 
+afford the flexibility to scale their capacity up or down depending on the 
+Secretariat’s requirements. In this regard, the availability and the scalability of these 
+commercial data centre facilities make them potentially feasible solutions for both 
+the short-term and the long-term requirements. 
+ 
+
+  Timeline for implementation 
+ 
+
+20. As mentioned earlier, the primary data centre has to be relocated from the 
+Secretariat Building to the new North Lawn data centre in phases commencing from 
+
+
+
+ A/63/743
+ 
+
+7 09-25191 
+ 
+
+1 November 2009. This includes about six weeks for setting up the initial ICT 
+infrastructure in the North Lawn data centre. The relocation of systems will, 
+therefore, effectively take place from mid-December 2009 to the end of February 
+2010. 
+
+21. The new secondary data centre needs, therefore, to be fully operational, 
+including all systems that have to be relocated from the data centre in the DC2 
+Building, by the end of October 2009. Setting up the initial ICT infrastructure for 
+this data centre is also estimated to take about six weeks. The relocation of systems 
+from the DC2 data centre to the new secondary data centre is estimated to take 
+about 10 weeks. The new secondary data centre facility must, therefore, be available 
+for occupation by 1 July 2009. 
+
+22. For the above reasons, a commercial data centre facility must be identified and 
+leased by 1 July 2009. This presents a very challenging timetable for all the 
+associated procurement and negotiation processes to be completed, significantly 
+increasing the risk that the deadline for the commissioning of the new secondary 
+data centre cannot be met.  
+
+23. The timely procurement of ICT equipment is not anticipated to present 
+difficulties due to the availability of systems contracts and reasonable lead times for 
+delivery of equipment. However, the establishment of the necessary commercial 
+telecommunication links to the new secondary data centre will also require some 
+lead time and may pose a challenge if the site is not identified quickly. 
+
+24. Noting the tight time schedule and the associated costs attached to any delays, 
+the Secretariat plans to enter into a service delivery agreement with the International 
+Computing Centre, under financial rule 105.16(a)(iii) on cooperation with other 
+organizations of the United Nations system. 
+
+25. A number of risk mitigation strategies will be developed to ensure the 
+organization achieves a best-value-for-money outcome from the International 
+Computing Centre. First, the service delivery agreement process will be managed by 
+the Procurement Division. Secondly, the Office of Information and Communications 
+Technology will develop a robust statement of work, with clear deliverables, which 
+the Procurement Division will use to benchmark estimates provided by the 
+International Computing Centre. 
+
+26. Due to the significant costs of any delay in the relocation of the primary data 
+centre, to the overall cost by the capital master plan, the Secretariat proposes to 
+maintain the current secondary data centre in the DC2 Building in working 
+condition throughout the entire relocation. This plan supersedes the earlier plan to 
+vacate the data centre in the DC2 Building as early as possible and it will provide an 
+additional level of risk mitigation in the event there are any delays in the schedule 
+of the capital master plan or in setting up the new secondary data centre. It will also 
+provide some flexibility in dealing with certain systems that prove difficult to 
+relocate to the new secondary data centre. The Secretariat, therefore, plans to 
+decommission the data centre in the DC2 Building only by the end of June 2010, 
+allowing some time for relocating non-critical systems that could not be relocated 
+within the time frame outlined in paragraph 20 above. 
+
+27. The above schedules for the various phases associated with the acquisition and 
+commissioning of a new secondary data centre are graphically presented in figure I. 
+
+
+
+A/63/743  
+ 
+
+09-25191 8 
+ 
+
+  Figure I 
+ 
+ 
+
+ 
+ 
+ 
+
+ IV. Recommended solution and related resource requirements 
+ 
+ 
+
+28. The Secretariat proposes to lease a commercial “infrastructure-ready” data 
+centre facility, with less capacity than originally envisaged, for the period from 
+1 July 2009 to 31 December 2011, with an option to extend the lease, if necessary. 
+Such a lease, including space, power, cooling and racks, is estimated to cost 
+$4,288,000 per year, in addition to an initial set-up charge of $350,000. For the 
+period from 1 July 2009 to 31 December 2011, the lease would cost $11,070,000. As 
+indicated earlier, such a lease is expected to provide the flexibility to increase or 
+decrease capacity, with reasonable notice. 
+
+29. On the basis of the quantity and type of equipment to be installed and 
+commissioned, it is estimated that a one-time cost for planning and installing all the 
+equipment, including the operating systems software, would be $994,700. Once the 
+operating systems software has been installed, all the applications in the data centre 
+in the DC2 Building, both enterprise and departmental, have to be installed, 
+configured, tested and tuned for performance in the new data centre. The effort 
+involved in this is far more difficult to estimate than the commissioning of the new 
+equipment, as it is dependent on the complexity of the applications. On the basis of 
+an inventory of these applications and the classification of complexity into low, 
+medium and high, the one-time cost for migrating the applications is estimated to be 
+$1,000,000. 
+
+30. Currently, the Secretariat utilizes the International Computing Centre for many 
+of the data centre operations in the primary and secondary data centres at United 
+Nations Headquarters in New York and in the United Nations Logistics Base at 
+Brindisi, Italy. Consistent with General Assembly resolution 63/262 (sect. I, 
+para. 6), in which the Assembly requested the Secretary-General to continue to 
+utilize the services of the Centre in supporting the ICT activities of the United 
+Nations, the Secretariat proposes to enter into a service delivery agreement with the 
+Centre to manage the new secondary data centre from 1 July 2009.  
+
+31. Under the above-mentioned service delivering agreement, the International 
+Computing Centre will provide the necessary equipment and services for running 
+the new secondary data centre for an estimated annual amount of $5,445,800. This 
+amount will be offset by a reduction of $627,800 annually in the current service 
+delivery agreement for the data centre in the DC2 Building from July 2010 when the 
+data centre is decommissioned. The estimated cost of the new agreement would be 
+$12,672,800 for the period from 1 July 2009 to 31 December 2011. 
+
+1 July 2009 
+31 Oct. 2009 28 Feb. 2010
+
+1 July 2010 
+
+
+
+ A/63/743
+ 
+
+9 09-25191 
+ 
+
+32. The total estimated cost of the new secondary data centre for the period 
+from July 2009 to December 2011 would be $25,737,500, broken down as shown in 
+table 1. 
+ 
+
+  Table 1 
+(Thousands of United States dollars) 
+ 
+ 
+
+Object of expenditure 2009 2010 2011 Total 
+
+Non-recurrent expenditures 
+ Contractual services   
+
+ Commissioning equipment 994.7  994.7 
+
+ Migrating applications 1 000.0  1 000.0 
+
+Recurrent expenditures 
+ General operating expenses   
+
+ Lease of data centre facility 2 494.0 4 288.0 4 288.0 11 070.0 
+
+Contractual services   
+
+ Data centre equipment and services 2 722.9 5 131.9 4 818.0 12 672.8 
+
+ Total 7 211.6 9 419.9 9 106.0 25 737.5 
+ 
+ 
+
+33. A proposal for a permanent solution for the secondary data centre for United 
+Nations Headquarters will be submitted during the biennium 2012-2013, duly 
+addressing a number of requests in General Assembly resolution 63/262 related to 
+reducing the size of secondary data centres, re-engineering departmental 
+applications with a view to using enterprise data centres and improving business 
+continuity. The cost-benefit of retaining the leased commercial data centre as a 
+permanent solution for United Nations Headquarters will also be addressed in that 
+context.  
+ 
+ 
+
+ V. Summary of resource requirements 
+ 
+ 
+
+34. About 20 per cent of the capacity in the existing primary data centre in the 
+Secretariat building is utilized by peacekeeping operations. Accordingly, 20 per cent 
+of the costs are met from the peacekeeping support account, while the remaining 
+80 per cent are financed from the regular budget. 
+
+35. The same cost-sharing arrangement is proposed for the new secondary data 
+centre on the basis of the proportion of capacity used for peacekeeping and 
+non-peacekeeping operations. The cost-sharing ratio will be reviewed again for the 
+2012-2013 biennium if the proportion of capacity used by peacekeeping operations 
+changes due to the migration of systems to enterprise data centres.  
+
+36. Table 2 summarizes the resource requirements for the secondary data centre 
+for the period from July 2009 to December 2011, based on the recommendation in 
+paragraphs 34 and 35 above. 
+ 
+
+
+
+A/63/743  
+ 
+
+09-25191 10 
+ 
+
+Table 2 
+(Thousands of United States dollars) 
+
+ 
+ 
+
+ Regular budget Peacekeeping budget 
+
+Object of expenditure 2008-2009 2010-2011
+1 July 2009-
+
+30 June 2010
+1 July 2010- 
+
+30 June 2011 
+1 July 2011-
+
+31 Dec. 2011 Total
+
+General operating expenses  
+
+ Rental of facilities 1 995.2 6 860.8 927.6 857.6 428.8 11 070.0
+
+Contractual services  
+
+ Commissioning equipment 795.8 0 198.9 0 0 994.7
+
+ Migrating applications 800.0 0 200.0 0 0 1 000.0
+
+ Data centre equipment and services 2 178.3 7 959.9 1 057.8 995.0 481.8 12 672.8
+
+ Total 5 769.3 14 820.7 2 384.3 1 852.6 910.6 25 737.5
+ 
+ 
+
+37. The recurring costs for the lease of the facilities, including space, power and 
+cooling, is estimated to be $11,070,000 for the period from July 2009 to December 
+2011. A sum of $1,995,000 will be required under contractual services to cover the 
+non-recurring costs for setting up ICT equipment and systems in the new secondary 
+data centre. The recurring cost for the provision of ICT equipment and services, 
+including maintenance, is estimated at $12,673,000 for the period from July 2009 to 
+December 2011.  
+ 
+ 
+
+ VI. Actions to be taken by the General Assembly 
+ 
+ 
+
+38. The General Assembly is requested: 
+
+ (a) To approve the total estimated cost of the project, estimated at 
+$25,737,500; 
+
+ (b) To approve the proposed cost-sharing arrangement for the new 
+secondary data centre; 
+
+ (c) To approve the additional resource requirements for the biennium 
+2008-2009 of $3,774,100 under Section 36, Office of Information and 
+Communications Technology, and $1,995,200 under Section 28D, Office of 
+Central Support Services; 
+
+ (d) To note that the future remaining requirements in the estimated 
+amount of $14,820,700 would be considered in the context of the proposed 
+programme budget for the 2010-2011 biennium; 
+
+ (e) To note the Secretariat strategy of entering into a service delivery 
+agreement with the International Computing Centre, under financial rule 
+105.16(a)(iii) and securing a leasing agreement to accommodate an 
+“infrastructure-ready” data centre facility; 
+
+ (f) To approve the additional resource requirements of $2,384,300 from 
+the peacekeeping support account for the period from 1 July 2009 to 30 June 
+2010; 
+
+
+
+ A/63/743
+ 
+
+11 09-25191 
+ 
+
+ (g) To note that the future remaining requirements in an estimated 
+amount of $1,852,600 will be included in the peacekeeping support account 
+requirements for the period from 1 July 2010 to 30 June 2011 and that an 
+estimated amount of $910,600 will be included in the requirements for the 
+period from 1 July 2011 to 30 June 2012. 
+
+ 
+
+

@@ -1,0 +1,130 @@
+[Start1]
+Substantive session of 2003
+Geneva, 30 June-25 July 2003
+Item 7 (d) of the provisional agenda*
+Coordination, programme and other questions: international
+cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General**
+
+
+
+	Summary	The present report is submitted in compliance with the request made by the Economic and Social Council in its resolution 2002/35 of 26 July 2002 that the Secretary-General report on the initiatives taken by the Ad Hoc Open-ended Working Group on Informatics. 
+	The report reflects the various activities in the field of informatics reported by the departments of the Secretariat and includes the findings of the Working Group and an assessment of its work and mandate.
+
+
+
+	*	E/2003/1.
+	**	The document was submitted late to the conference services to obtain clearances outside the author department.
+
+	I.	Activities of the Technical Subgroup of the Ad Hoc
+Open-ended Working Group on Informatics
+
+
+1.	In its resolution 2002/35, the Economic and Social Council requested the Ad Hoc Open-ended Working Group on Informatics to continue to carry out for another year, from within existing resources and with its mandate as stated in Council resolution 1995/61 of 28 July 1995, its work of facilitating the successful implementation of the initiatives being taken by the Secretary-General with regard to the use of information technology and of continuing the implementation of measures required to achieve its objectives.
+2.	The Working Group has the following global mission: (a) to sensitize nations to the gravity of the digital divide; (b) to help to determine the impact of information and communication technologies on the economic and social development of developing countries and on nations in transition from command to market-based economies; and (c) to analyse and emphasize solutions to meet global challenges created by the rapid growth of information and communication technologies.
+3.	Training in information technology for delegations. The first training programme for diplomats, focusing on computer and Internet know-how, including hardware, software, e-mail, web surfing and web design and maintenance, ended on 31 May 2002 and 20 students were given certificates. The second cycle started on 14 June 2002. Launched by the United Nations Institute for Training and Research (UNITAR) under the auspices of the Information and Communication Technologies Task Force and the Ad Hoc Open-ended Working Group on Informatics, the training programme, officially entitled the Policy and Training Programme for Ambassadors and Diplomats at the United Nations, consisted of a set of four progressive modules and one seminar, presented as a cycle that was repeated four times each year. The first four modules focused on technical know-how and were geared towards all diplomats. The fifth module, conducted in an interactive seminar covering policy awareness and security issues on information technology, was intended primarily for ambassadors and senior diplomats.
+4.	The fact that an application for training was oversubscribed confirmed the need for additional computer training for mission staff. The 100 participants who attended training were enthusiastic about the valuable knowledge gained. 
+5.	Working breakfast, held on 18 June 2002, for heads of delegations attending the General Assembly meeting devoted to information and communication technologies (in coordination with the Association for Information Technology). The Working Group coordinated with the Association for Information Technology to sponsor a breakfast meeting in June 2002 augmenting the first ever General Assembly meeting on Information and Communication Technologies for Development. The meeting was devoted to bridging the digital divide and to promoting digital opportunities in the emerging information society during the fifty-seventh session of the General Assembly. Participants addressed the digital divide in the context of globalization and the development process and collaborated to promote coherence and synergies between various regional and information and communication technologies initiatives. The meeting included participation of delegations from the States Members of the United Nations, the Secretariat, non-governmental organizations (NGOs), academia and the business sector.
+6.	Another working breakfast was held on 30 October 2002, which drew an estimated 250-person gathering of ambassadors, key mission personnel and United Nations staff members and select public and private sector executives, who discussed “best practices for implementing e-government strategies”. Discussion topics included the current state of e-government globally, preparing for new or expanded e-government services, cutting-edge developments in e-government policy and practices and the social and policy implications of e-government solution.
+7.	Although no conclusions were drawn, speakers emphasized the need for intensification of and support for regional information and communication technologies initiatives in developing countries.
+8.	Conference on Global Infosec 2002: Controlling and Assuring Security in Government and Enterprise Environments. This conference took place on 5 and 6 September 2002 with intensive diplomatic and executive-level presentations and expert panels. Speakers detailed the latest developments in information and cyber security, network security and assurance and security applications for e-commerce and e-government.
+9.	The Working Group coordinated closely with AIT Global Inc. to support its efforts and make the conference a success. The over 800 attendees at this e-security conference represented a broad cross section of senior-level diplomatic staff, Secretariat officials, NGOs and public and private sector individuals. Ambassadors or heads of delegations and other diplomatic staff members represented over 120 missions and United Nations and Washington, D.C., embassies (in addition to individuals from 22 other nations). Private sector attendees came from 26 states of the United States, including California. There were 17 chief executive officers, 38 presidents, 7 chairpersons, 78 executive vice-presidents, senior vice-presidents and vice-presidents, 34 other chief officers, 85 directors, 53 managers and many other senior executives.
+10.	The conference emphasized that in the wake of the 11 September terrorist attacks, it is clear that we must protect and sustain e-commerce and e-government initiatives from disruptions owing to terrorist or security breaches. 
+11.	Global e-Commerce Summit: Secure E-commerce and E-government Operations in a Troubled World. The Global e-Commerce Summit was held at Headquarters on 14 and 15 May 2003 and included a day and a half of intensive multinational corporate and national presentations, as well as expert panels. The meeting drew an estimated 750 ambassadors and key staff from United Nations missions and the Secretariat, Washington, D.C., embassies, private sector multinational corporations and the public sector. Key presentations and expert panels covered the latest software developments, hardware platforms, network applications, hackers, viruses, worms and terrorist disruptions that have a significant impact on e-commerce and e-government applications and initiatives. Presenters also spoke of the latest advances in e-commerce and e-government, information security and Internetworking for developing and developed nations.
+12.	Presentation on distance learning. Presentations were made on distance learning, commonly known as e-education or e-learning, at the meetings of the Working Group on Informatics. The technology that is driving distance learning today is based on the Internet and with Internet expansion and the use of the Internet growing around the world, it is easier to deliver electronic-based courses using the World Wide Web and electronic mail and to use other mechanisms like databases to enhance the courses.
+13.	Delegates’ use of Personal Digital Assistant devices. The Minister for Foreign Affairs of Andorra proposed making a service available that would allow members of delegations, using palm-sized personal computers or Personal Digital Assistants, to download pertinent information from the un.org web site. Once that project was implemented, the Mission of Andorra would provide training for all permanent missions in New York.
+14.	Permanent missions responded very positively to the offer, especially those that had practical experience with similar software. A pilot implementation will take place in 2003, supported by Andorra.
+15.	Mandate of the Working Group on Informatics.	The Working Group addressed the issue of its mandate and concluded that, it should continue and intensify its efforts among the private and public sectors and academia to promote the sharing of knowledge, particularly in support of the Millennium Development Goal of making available the benefits of new information and communication technologies to developing countries via conferences, meetings and other means.
+16.	Additionally, the Working Group concluded that, in its role as the representative group for Member States, regarding the use of information and communication technologies services provided by the Secretariat, it should continue to address:
+	(a)	Connectivity between Member States and the Secretariat at Headquarters with the intent of enhancing those connections so as to enable the progressively broader participation of Member States in the network-accessible resources of the United Nations and, via the Headquarters connections to the Internet, in the network-accessible resources of the public and private sectors; 
+	(b)	E-mail services provided by the Secretariat to Member States to enable timely collaboration and document exchange among the permanent and observer missions, the Secretariat and the private and public sectors;
+	(c)	Web-site hosting services provided by the Secretariat to Member States, enabling them to establish and maintain web sites that are accessible via the Internet;
+	(d)	Broadening the availability of official documents via the Internet to include an ever-widening circle of access points from Member States and the public and private sectors;
+	(e)	Providing access for Member States to specialized databases of interest to them and which are network-accessible United Nations resources or licensed commercial resources;
+	(f)	Training provided by the Secretariat and others for Member States in the use of the above-mentioned services as well as the general use of information and communication technologies in furtherance of their work;
+	(g)	Help Desk support provided by the Secretariat for Member States to resolve problems with the above-mentioned services;
+	(h)	Identifying other information and communication technologies resources within the Secretariat of interest to Member States, such as videoconferencing, and arranging the terms of their use by Member States;
+	(i)	Communicating the services and activities identified above to the staff of the permanent and observer missions and surveying the Member States to gain insight into the use of those resources and the support provided for them;
+	(j)	Identifying new or changed information and communication technologies services that are appropriate for the use of Member States and that arise from the rapid evolution of information and communication technologies, such as facilitating the use of Personal Digital Assistant devices, laptops and wireless devices of all kinds in the conference areas.
+
+
+	II.	Actions taken and activities engaged in by the Secretariat
+
+
+17.	Activities of the Information Technology Services Division. The Information Technology Services Division has continued to provide Help Desk services for all permanent and observer missions to handle the technical problems that are encountered in using the information technology services provided by the United Nations. In its effort to fulfil the mandate of providing connectivity to all permanent missions, the Division has cooperated with the Technical Subgroup of the Ad Hoc Open-ended Working Group on Informatics to stabilize and improve the Internet service offered. The following activities continue to be performed:
+18.	Services to permanent missions
+	(a)	Currently, the UN.INT system hosts approximately 985 individual e-mail accounts. All permanent missions are now accessible through a uniform e-mail address system;
+	(b)	The Information Technology Services Division installed a “spam filtering appliance” as an additional security measure to reduce the volume of “spamming” (unsolicited e-mail) and unauthorized access to e-mail accounts;
+	(c)	There are now 155 web sites on the UN.INT server, which receives approximately 1.3 million visits each month. Each mission has the option of updating its web site using the access code provided;
+	(d)	The Division continues to provide technical advice and secretariat support to the Ad Hoc Open-ended Working Group on Informatics by attending its meetings and providing members with updates on new technology; 
+	(e)	A donation of 1,308 personal computers and printers, accrued from the Organization’s personal computer replacement programme, was made to permanent missions;
+	(f)	The Division continues to provide access to the United Nations Official Documents System (ODS). There are now 192 permanent missions with 1,283 users, from the missions themselves and from their capitals, using the ODS facility;
+	(g)	Help Desk support continues to be provided to permanent missions from 9.30 a.m. to 5.30 p.m. on United Nations workdays. There are four coordinators constantly on call who receive telephone calls, e-mail and voice mail, all of which are logged in an automated tracking system. From June 2002 to May 2003, the mission Help Desk received 1,069 calls for technical support;
+	(h)	The Division continues to maintain 24 computers installed in the Delegates’ Lounge and first basement of the Secretariat Building, which were upgraded in September 2002 and have Windows 2000 and Internet Explorer installed. These computers have direct access to the Internet and are provided for the use of delegations only. The Division continues to ensure full availability by carrying out routine inspections of all devices. 
+19.	Treaty circulars. In the interest of efficiency and manageability, the Information Technology Services Division has proposed enhancing the method of disseminating circular notifications by sending Member States’ Internet links directly to the circular notifications in the online United Nations Treaty database. With the concurrence of the Working Group, a pilot has been undertaken to add these links to the current e-mail which will allow Member States to assess the impact of this proposed enhancement.
+
+
+	III.	Activities of the Division for Public Administration and Development Management, Department of Economic and Social Affairs
+
+
+20.	The Division for Public Administration and Development Management developed the United Nations Online Network in Public Administration and Finance (UNPAN), which was assigned to promote the sharing of knowledge, experience and best practices throughout the world in sound public policies, effective public administration and efficient civil services, through capacity-building and cooperation among the States Members of the United Nations, with emphasis on South-South cooperation and the commitment of UNPAN to integrity and excellence. The highlights of the Division’s activities included the following.
+21.	E-Government. The Division recently organized the International Conference on E-government for Development in Palermo, Italy, to discuss the challenges and opportunities of e-government. It prepared an open plan of action on e-government, which provides guidelines on the development and implementation of e-government strategies at the national level and captures best practices and lessons learned from experience to date.
+22.	It also conducted a global survey on the e-government activities of Member States, which is being expanded and will be conducted on a regular basis. Through its global UNPAN network, capacity-building activities on the application of information and communication technology in public administration has been achieved through sharing of best practices and through extensive training seminars conducted by the regional UNPAN nodes.
+23.	At the regional level, the Division worked with counterparts to develop regional e-government strategies and action plans for the Caribbean and Central America. A conference on e-government capacity-building in Africa took place in October 2002 and a related e-Africa initiative was launched shortly afterwards. Another programme focused on the application of information and communication technologies for the development of African parliaments. Activities within Asia have focused on e-government at the local level through support to the City Informatization in the Asia-Pacific Region initiative.
+24.	At the national level, e-government pilot projects focusing on e-government strategies as well as practical applications were undertaken in five countries.
+25.	Public policies on information and communication technologies and the knowledge society. As background to the Economic and Social Council Committee of Experts on Public Administration, the Division for Public Administration and Development Management prepared a study on the capacity of the public sector to support the creation and application of knowledge, innovation and technology for development.
+26.	An Ad Hoc Group of Experts on Information and Communication Technologies and Public Policy convened in early 2003 to examine the role of the public sector in ensuring that the transition to the knowledge society is inclusive and promotes the development goals outlined in the United Nations Millennium Declaration.
+27.	The Division also provided advisory services and technical cooperation on the Service and Policy Programme Development projects funded by the United Nations Development Programme, including those focused on national information and communication technologies strategies and knowledge/information policy.
+28.	The Division organized a number of training seminars relating to the utilization of UNPAN, designed to help countries concerned, especially developing countries and countries in economic transition, to seize the opportunity, respond to the challenge and forge ahead for their development.
+
+
+	IV.	Activities of the Department of Public Information
+
+
+29.	Webcasting. The UN Website Section of the Department of Public Information provides Internet broadcasting coverage (United Nations webcast: <www.un.org/webcast>) of United Nations meetings, conferences, press briefings and events, as well as 24-hour-a-day webcasting of the UNTV channel. Internet users can watch webcasts of United Nations meetings and major events live or as archived videos from their homes or offices.
+30.	Training. The UN Website Section organized a six-day seminar for the development of web sites for the permanent missions of French-speaking African States, the fourth in the series entitled “The Internet as a tool for development”. The seminar resulted in the creation of seven new web sites under <http://www.un.int/>. Furthermore, the Section will conduct, from 7 to 11 July 2003, a workshop on web-site creation for permanent missions of interested English-speaking States, as part of the training series on Policy and Training in Information Technology (PATIT) for ambassadors and diplomats at the United Nations, provided by UNITAR. The Section also organized a four-day condensed workshop on the basics of web-page design and development techniques, with special emphasis on the specification for creating web pages in Arabic, for Palestinian media practitioners.
+31.	Cyberschoolbus. Once a month, the United Nations Cyberschoolbus web site features a different ambassador to the United Nations in its new and very popular “Ask an Ambassador” programme. Through the students’ questions and the ambassador’s answers, this feature provides opportunities for the permanent missions to present their countries and articulate their policies on a wide range of issues.
+32.	Dag Hammarskjöld Library. The Dag Hammarskjöld Library offers Secretariat and mission staff, members of delegations and accredited representatives of NGOs a broad range of training programmes involving various computer applications, which enable them to:
+	(a)	Develop and enhance Internet skills (Cyberseek);
+	(b)	More easily identify the wealth of information retrievable through United Nations web sites (United Nations Web Search);
+	(c)	Overcome the complexities of working with documents through the use of both print and Internet resources (Basics of United Nations Documentation);
+	(d)	Fully utilize the search and retrieval options available through ODS;
+	(e)	Simplify identification of document symbols and sales numbers through exploration of UN-I-QUE, a database maintained by the Library;
+	(f)	Effectively access information available in the Library’s public catalogue, UNBISnet;
+	(g)	Familiarize themselves with the electronic resources the Library makes available on the Intranet (Introduction to Dag Hammarskjöld Library Databases on the Intranet).
+33.	A total of 189 mission staff members were trained by the Users’ Services Section of the Library last year.
+
+
+	IV.	Conclusions and recommendations
+
+
+34.	The Ad Hoc Open-ended Working Group on Informatics has been effective in coordinating high-level information exchange via conferences and working meetings among Member States, the Secretariat and the private and public sectors. It has also served as a bridge between Member States and the Secretariat in the areas of information and communication technology.
+35.	It is recommended that the Ad Hoc Open-ended Working Group on Informatics continue with its mandate as stated in paragraphs 15 and 16.
+
+[Start1]<<ODS JOB NO>>N0337527E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2003/75<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+8
+
+7
+
+United NationsE/2003/75 
+Economic and Social CouncilDistr.: General
+28 May 2003
+
+Original: English
+
+
+03-37527 (E)    130603    
+*0337527*
+

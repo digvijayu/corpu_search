@@ -1,0 +1,527 @@
+[Start1]
+Fifty-fifth session
+Agenda item 117
+Programme budget for the biennium 2000-2001
+
+
+
+		Information technology in the Secretariat: a plan of action
+
+
+		Report of the Secretary-General
+
+
+
+	Summary	In line with action 27 (d) of the Secretary-General’s programme for reform (A/51/950), an information technology strategy for the Secretariat as a whole has been finalized after extensive consultation among all departments and offices worldwide.
+	The report comprises two parts. Part one contains an introduction, a brief review of the status of technology in the Secretariat, a description of the objectives that have been established and an outline of the strategy to achieve them, highlighting the achievements of the Secretariat over the past decade and summarizing the main concepts leading to the definition of the strategy.
+	Part two includes a detailed description of planned actions, based on a brief presentation of present conditions in the Secretariat in each area, and of actions already undertaken. The expected results of these actions are also described under each heading
+
+Contents
+ParagraphsPage		Part One: Strategic planI. 	Introduction	1–33II. 	Status of technology in the Secretariat	4–143III. 	Objectives	155IV. 	Strategy	16–226		Part Two: Implementation of the strategyV. 	Substantive activities	23–1467A. Sharing the knowledge of the Secretariat internally and externally	23–547B. Management of activities in the information and communication technologies field in the Secretariat 	55–6410C. Methodologies for the development and integration of systems	65–7712D. Human resources policies in the field of information and communication technologies	78–9013E. Administrative and technical aspects of information and communication technologies	91–146151. Budget	96–102152. Procurement	103–110163. Infrastructure	111–132164. Security	133–139185. Policies	140–14619VI. 	Conclusions and recommendations	147–16319
+
+
+		Part One: Strategic plan
+
+
+	I.	Introduction
+
+
+1.	The creation of an “electronic United Nations”1 is essential for the realization of better communications externally, with Member States, non-governmental organizations (NGOs), and the public-at-large, as well as internally, both within the Secretariat and with the funds and programmes of the United Nations system. It is also the basis for increased “efficiency and effectiveness of the delivery of both substantive programmes and management of the United Nations”.2 The new tools of the information revolution both vastly expand the potential of how and what can be achieved and present the Organization with a significant challenge in how to marshal, manage and fund this large and continuously evolving resource to the benefit of all Member States.
+2.	As part of his programme for reform of the United Nations, the Secretary-General stressed the importance of enhancing the support capacity of the Secretariat, including through the use of information and communication technologies (ICT). In line with the vision of the Secretary-General to achieve greater unity of purpose, coherence of efforts and agility in the efforts of the United Nations in responding to the pressing needs of the international community, an information technology strategy has been developed through a wide consultation process and with the broad participation of all United Nations departments and offices worldwide.
+3.	The present report defines the objectives of the strategy and the actions that will be undertaken to attain them. The upcoming phases will consist of defining a detailed multi-year plan of action, at both the Secretariat and departmental levels, and carrying out a subsequent review of the possible budgetary implications of the strategy, in particular at the departmental level.
+
+
+	II.	Status of technology in the Secretariat
+
+
+4.	Due to local constraints and lack of coordination, during the first half of the decade, progress in the usage of ICT in the Secretariat has been achieved through the use of technically diverse local solutions, which has led to a lack of coherence among duty stations and resulted in a lack of overall knowledge about the status of ICT within the Secretariat.
+5.	The past decade however also witnessed the development of two major system-wide projects: the Integrated Management Information System (IMIS) and the Optical Disk System (ODS). The development of IMIS has recently been completed with the successful implementation of the payroll function within the computerized system.3 ODS is being re-engineered as a state-of-the-art system and is to be made available more widely, with search facilities in all six official languages. The new version is scheduled for implementation in June 2001. These two projects have placed the Secretariat at the forefront of technology and process re-engineering, well ahead of most public sector entities around the world in these areas.
+6.	In 2000, a survey was undertaken by the Information Technology Services Division. Based on the first review of the results, it can be stated that all duty stations have established, or are in the process of setting up, a reliable ICT infrastructure that has been kept up-to-date or will be in line with current technological requirements. Tables 1 and 2 below provide comparative figures for Headquarters and offices away from Headquarters for the period from 1992 to 2000 regarding the use of personal computers (PCs) and other major enterprise-wide systems usage.
+7.	While at most duty stations the current infrastructure is adequate to meet current needs, it is expected that major upgrades will be needed in the immediate future to meet the increased demand of users and technology. Concerning systems, the survey brought to light the fact that most developments have been made in-house. Overall, there seems to be considerable duplication of systems throughout the various offices and departments in certain areas, for example in documents processing and in documents management. No standard methodology has been followed throughout the Secretariat in the development of systems.
+8.	In the field of telecommunications, United Nations satellite capacity is insufficient for communication between Headquarters and three duty stations in particular: Bangkok, Beirut and Nairobi. The demand has considerably increased over the past few years, mainly due to Internet usage, the increased exchange of files, Headquarters Intranet access and videoconferences. The overall telecommunications network between Headquarters and major duty stations needs to be strengthened both technically and in terms of human resources.
+
+
+Table 1
+Some indicators of ICT development at Headquarters for the period 1992-2000
+
+19922000PCs connected to a LAN8285 500PCs3 4005 900LAN servers4645Email system users-5 900Internet users-5 500Users of word processors8285 900Users of other office automation tools200-3005 500IMIS users-1 500Online reporting for administrative matters
+Limited to some staff of the Department of Management500+
+
+Intranet (including offices away from Headquartersn.a.
+12 000
+
+
+9.	While ICT applications have mainly been developed in-house, some off-the-shelf software has also been used, although very few third-party (vendor) software packages have been used at the United Nations. This is because of the very high cost of implementation and the recurring costs associated with the need to continually upgrade to remain within supported versions of applications, a reality which is not within the customer’s control. More and more organizations are turning to in-house development for the level of control that this affords. This aspect has been one a key driving force behind the development of IMIS at the United Nations.
+10.	The user base of ICT applications varies greatly. In some cases, a significant proportion of the developed applications are used widely across a whole department or office (as, for example at the Economic Commission for Africa (ECA) and the Economic and Social Commission for Western Asia (ESCWA)). In other cases, almost all applications have a very narrow user base (as at the United Nations Office at Vienna and the International Tribunal for the Former Yugoslavia).
+11.	The development and implementation of the official United Nations web site, and other related sites at other duty stations was also extremely successful both from a technical point of view and in providing better communication with the public at large. In parallel, ICT infrastructure to support the intergovernmental legislative process in conference and meeting rooms is being incrementally updated within the limitations imposed by the availability of funds. 
+12.	Globally, the Secretariat has managed to keep abreast of the very rapid technological developments over the past decade. The survey shows, however, that requirements and capacity for ICT vary from department to department or duty station to duty station in terms of infrastructure, human resources capacity and other financial resources (consultant funds) both requested and allocated. This situation is sometimes aggravated, at certain duty stations, by a lack of local facilities and/or human resources and by local telecommunications costs. In addition, capacity has been limited by the successive budgets that have imposed zero growth throughout the Secretariat. Individual ICT strategies in some departments have benefited from the presence of experienced professionals and, in the case of the Department of Peacekeeping Operations, by an annual budget cycle, while in other departments such has not been the case. All departments and duty stations face difficulties in recruiting and retaining ICT staff.
+13.	While major progress in meeting the challenge of the new millennium has been accomplished over the past 10 years, the Secretariat must establish an aggressive plan to build its ability to take advantage of new technologies and to keep up-to-date with the rapid developments in the field. The medium-term plan for 2002-2005 includes more than 170 activities across departments and duty stations that will rely, inter alia, on ICT for their successful completion:
+“A common theme across most programmes is the intent to make best use of technological developments to enhance the effectiveness of the Organization’s activities. While the common support services programme highlights the development of a long-term strategy for information technology, the intention to apply modern technology is common to all programmes.”4
+The strategy aims at ensuring that these activities are undertaken within the framework of an overall ICT policy so that the Secretariat at large reaches and maintains a more coherent and consistently up-to-date technological level. If no global effort is made to focus effectively on the needs and role of ICT, the Secretariat will rapidly fall behind and overall performance and programme delivery will be affected.
+14.	The budget for the years 2002-2003 was prepared before the definition of the strategy and the review of the organizational and individual departmental information and communication technologies strategies that will derive from it. It therefore reflects only the known requirements already identified within each department. Subsequent resource requirements that may not be accommodated through redeployment of existing resources will be brought to the attention of Member States separately. Any delay in the investment required will necessarily lead to higher costs in the medium and long term.
+
+
+	Table 2
+Number of personal computers at offices away from Headquarters: 1992-2000
+
+Offices away from HeadquartersPCs
+as at 31/12/1992 (estimated)PCs
+as at 24/11/2000 
+(based on replies
+ to the ICT survey)ECA465792ECLAC611747ECE129280ESCAP380645ESCWA34357United Nations Office at Geneva2501 004United Nations Office at Geneva/conference services275998UNCTAD250*United Nations Office at Nairobi (including UNEP and Habitat)5741 054United Nations Office at Vienna (including UNDCP)244937International Tribunal for the Former Yugoslavian.a.1 619International Court of Justicen.a.115UNCCn.a.293United Nations Information Centres81275	Total3 0637 843
+
+
+	III.	Objectives
+
+
+
+Access to and sharing of information
+ICT field support
+Technical infrastructure
+Capacity-building
+Achievement of an e-administration
+
+15.	On the basis of the direction given by the Secretary-General, and further to the review of the status of ICT in the Secretariat undertaken in 2000, the following specific objectives have been established to ensure the integration of the ICT dimension into the strategic component of programme delivery, bearing in mind the constantly evolving nature of the technical components needed to achieve these objectives:
+
+	(a)	Access to and sharing of information
+
+	Capitalizing on recent achievements and on the potential of the Internet and other electronic delivery systems, the Secretariat will incrementally expand and improve access to its documents, and its public information materials across all mediums and databases for staff, Member States, United Nations system organizations and other target audiences. Systems and tools to facilitate the search and retrieval of materials in all official languages and enable the Organization to exploit the interactive capabilities of ICT will be put in place. A new policy, supported by advanced tools, for the sharing of knowledge within the Secretariat will also be established;
+
+	(b)	Information and communications technology field support
+
+	With the increased importance of field activities, as well as the importance of links with the field for public information activities, adequate and up-to-date information and communications support will be made more broadly available to staff, irrespective of their place of work;
+
+	(c)	Technical infrastructure
+
+	The provision of a central ICT infrastructure that can support the needs of departmental programmes is crucial to the success of the strategy and to the operations of the Secretariat. Computing and telecommunications infrastructure will be standardized and continuously kept up-to-date to enable the Secretariat to take advantage of the latest technological developments, both internally and for production and distribution of information to make the communications and exchange of information seamless throughout duty stations and field missions and to facilitate mobile communications and computing;
+
+	(d)	Capacity-building
+
+	Within the framework of human resources reform, major efforts will be made to enhance the ICT human resources capital of the Secretariat, the key to the success of the strategy. This will concern conditions of service, recruitment and training. Training for managers, staff and users will be further expanded to build the capacity of the Secretariat to take advantage of the latest technological developments in order to achieve the overall programmatic objectives of the Secretariat and to ensure accountability in the implementation of ICT projects;
+
+	(e)	Achievement of e-administration
+
+	The current efforts to create an e-administration will continue through the increased introduction of e-government practices and procedures to improve efficiency and administrative transparency. Online access to information on: administrative details; manuals and other legislative documents; filing of claims and requests for certificates; and e-commerce tools for the sale of publications will be implemented.
+
+
+
+	IV.	Strategy
+
+
+
+Sharing the knowledge of the Secretariat internally and externally
+Management of ICT activities in the Secretariat
+Methodologies for development and integration of systems
+Human resources policies
+Technical and administrative aspects
+
+16.	In order to achieve these objectives, the Secretariat adopted a strategy comprising a series of parallel and coordinated activities in five separate areas: 
+
+	(a)	Sharing internally and externally the knowledge of the Secretariat
+
+	The Organization will develop a strategic approach to ensuring the sharing of information and data relevant to the work of the Organization internally, within the Secretariat, and externally with Member States, other partner international organizations, NGOs and the public. The future development of software applications, web design and content and databases will all be conducted to ensure maximum accessibility by the Organization’s clients and partners;
+
+	(b)	Management of ICT activities in the Secretariat
+
+	While maintaining a decentralized approach to meet the specific programmatic requirements of all departments, central support and common objectives will be established and departmental plans and efforts will be coordinated. A central policy direction and a flexible mechanism for consultation, research, standardization and implementation of policy objectives will be put in place;
+
+	(c)	Methodologies for development and integration of systems
+
+	The development of systems, the core of ICT activities, will be based on the main policy directions and established standards, with a priority for sharing, disseminating and providing open access to information;
+
+	(d)	Human resources policies
+
+	To be successful, the ICT strategy will have to rely on qualified, motivated and knowledgeable staff and managers throughout the Organization, staff whose skills will constantly be updated and upgraded through an aggressive training policy. Specific policies will have to be established for a rapid recruitment and retention of staff with specialized skills;
+
+	(e)	Technical and administrative aspects
+
+	Telecommunications infrastructure, strong computing support and institutional measures to align administrative policies and procedures, including in the key areas of procurement and budgeting, to the specific ICT requirements will be incrementally implemented.
+17.	These five components of the strategy are closely interrelated. They complement each other and are equally essential. The strategy will be successful only if they are all dealt with concurrently.
+18.	The strategy does not aim to impose an overly strict framework on all ICT projects and activities of the Secretariat. Due to the broad range of activities and the geographical breadth of the activities, it is vital that each Department develop its own plans and projects within the framework of the above objectives so as to meet its own specific substantive requirements. Nevertheless, a collective effort to harness ICT at all levels of the Secretariat and to apply the best industry practices will sustain the strategy by providing a common flexible framework.
+19.	Through these activities, ICT will develop from an automation and support tool for the conduct of Secretariat activities, to a tool closely integrated with its work programmes. The increased use of ICT will also involve the re-engineering of processes both in the substantive and administrative areas. The “change-resistant culture” of the Secretariat, to which the Secretary-General referred to in his report to the Millennium Assembly,5 must be transformed into an agent of change. ICT will contribute to the reform process through its role in reinventing the Secretariat’s work practices.
+20.	Exchange of information and coordination with the specialized agencies, funds and programmes of the United Nations, both through established coordination channels such as the Information Systems Coordination Committee, the Joint United Nations Information Committee, the Working Group on Emergency Telecommunications and through ad hoc initiatives will also be emphasized, in particular with regard to the standardization of tools and systems in the field.
+21.	The ICT plan will proceed in parallel with the strategy launched by the Secretary-General to ensure that the Secretariat is actively involved, in cooperation with civil society, in bridging the digital divide. The Secretariat will have to fully master the uses of ICT internally in order to be able to effectively contribute to this ambitious programme. The Secretariat, in its ICT operations, activities and plans, will need to take into full account the initiatives of the ICT Task Force appointed by the Secretary-General.
+22.	While it is vital that the Secretariat transform itself using ICT, due attention will continue to be given in programme delivery to the digital divide factor with the objective of ensuring that information and outputs continue to be available as long as Member States continue to request it, on the traditional paper and analog support. This is a necessary course of action, enabling all interested parties, not just those who can access the new information tools, to take full advantage of the outputs of the Secretariat.
+
+
+		Part Two
+		Implementation of the strategy
+
+
+	V.	Substantive activities
+
+
+	A.	Sharing the knowledge of the Secretariat internally and externally
+
+
+		Status in the Secretariat
+
+23.	The issues related to the sharing and distribution of information within the Secretariat and externally are closely interrelated, although they target different audiences. Better sharing of information inside the Secretariat improves the quality of its outputs, and a well-planned and managed information policy towards the world benefits the staff itself.
+24.	While a considerable amount of information has been made available through the Intranet, in particular at Headquarters, this has not been achieved according to an established plan. In fact the staff has most likely been the major beneficiary of the Internet, which, for the first time, has provided global access to information from the Secretariat never before so easily available.
+25.	Externally, through the Internet, the Secretariat has been able to provide an increasingly expanded distribution of information and access to official documentation, often in more than one language. In spite of relatively marginal investments, and thanks to the reallocation of resources within a zero growth budget, these achievements can in many respects be compared favourably with those of the public sector worldwide.
+
+		Internal sharing of information
+
+
+		The issue 
+
+26.	The United Nations, through its staff, is a community with a collective knowledge unique in the world. As pointed out by the Secretary-General in his report to the Millennium Assembly, the Secretariat has an influence and impact that is far greater than its small size and resources. The values that the Secretariat represents, and the ideas and knowledge of its staff, have enabled it to achieve this level of influence. More effort needs to be made to capitalize, effectively exploit and enhance the intangible asset of staff knowledge.
+27.	A policy to enhance information-sharing within the Organization will not only favour the development of the potential of the staff-at-large, but will also lead to improved quality in United Nations outputs. ICT, through numerous applications, including web pages, databases, structured access to selected outside sources of information and email, is a key component of this policy. This will be an iterative process, by which tools will be selected to support the objectives and the ways to attain the objectives will be adjusted to make full use of the technology and vice versa. 
+28.	Access to analytical gathering of publicly available information and internal distribution of such information are also necessary to ensure that the activities of the Secretariat are constantly aligned with the development of the knowledge around the world.
+
+		Actions taken
+
+29.	Major successes have been achieved over the past decade in providing broader access to the knowledge in-house, including: ODS; the multilingual terminology database; electronic resources subscribed to by the Dag Hammarskjöld Library (Department of Public Information); the Headquarters Intranet, which can be accessed by the large majority of staff at all duty stations and peacekeeping missions; and departmental Intranet sites containing a plethora of substantive and administrative information. The Dag Hammarskjöld Library has continued in its efforts to reach its goal of establishing a virtual library, receiving, re-disseminating and creating data in electronic format, to be shared on a system-wide basis, customized to the needs of the users. The Department of Peacekeeping Operations has also been at the forefront in the publication of reference documentation to field missions.
+30.	The Dag Hammarskjöld Library has undertaken a number of measures to broaden access to information sources in-house, as well as for depository libraries. These include setting up and managing an inter-agency consortium to purchase joint access to commercial online services, at concessional prices, and the development of electronic databases, such as the United Nations Bibliographic Information System (UNBIS) and research guides available on the Web.
+
+		Next steps
+
+31.	As a matter of priority, the direction and high-level mechanism for the operation of an information-sharing policy for the Secretariat, including the usage and content of its Intranet sites, will be established. 
+32.	Departments will treat information as an asset and will create information systems to systematically store and analyse it. They will encourage the participation of their staff in sharing their information, using these and other Secretariat-wide tools, thus preserving the knowledge and making possible its immediate sharing with others, within or outside departments.
+33.	Within the framework of the activities of the Information Systems Coordination Committee, the Information Technology Services Division is developing and will manage an Extranet (web site with access limited to selected users) to be used by all staff of the United Nations system. This will also facilitate access to information by Secretariat staff who, because of their duty station, do not have access to the Headquarters Intranet. The Secretariat’s policy regarding the posting of information to the Extranet will be established in consultation with the Publications Board, all departments concerned and the Information Systems Coordination Committee.
+34.	Communities of staff will be created in all departments and duty stations, by type of competencies using web-based community-building and collaboration tools. Using these tools, the Secretariat can overcome the boundary of distance, and save time and money in the process of bringing together people to work on various projects. Online discussion forums and multi-point teleconferencing will enable staff engaged in similar activities to share information, building databases of real world knowledge, helping each other regardless of their physical location.
+35.	A re-engineered Intranet access, using personalization (portal) technologies that will also offer integration with databases and enterprise applications, will be implemented to facilitate the identification of and access to necessary information in order to increase efficiency and productivity for each individual user or group of users based on job function, role or other related criteria. An integrated search engine will provide enterprise information with a single point of access to the knowledge and processes of the Organization by order of relevance, so that the underlying applications, documents, locations of data and technicalities will be transparent to the users.
+36.	Access to the Intranet pages of all duty stations will be provided to the staff-at-large, within the limits of existing technology and with respect for security concerns. Engines will also be installed to search and navigate through all of the local Intranet pages.
+37. Efforts will also be made to make information related to new features and contents of the United Nations web sites more broadly available to the staff at large by possibly linking the Intranet and Extranet pages to the United Nations web page. 
+
+		Expected results
+
+38.	The flow of information among departments and offices, and possibly with other entities of the United Nations common system will increase. This will transform the Secretariat from an aggregate of departments and offices that are intellectually and often geographically separated, into a community, sharing the same objectives and benefiting from the collective knowledge of the staff-at-large, irrespective of their physical location or of the department to which they belong. The Intranet, the Extranet and other community-building tools will play a major role in providing expanded and better-structured access to selected external sources of information, contributing to the creation of a corporate culture across the Organization in all areas of activity.
+
+		Sharing of information worldwide
+
+
+		The issue
+
+39.	Access to United Nations information by Member States and civil society, mainly in terms of access to contents of databases and documents, has been an ongoing objective of the Organization. Apart from the Department of Public Information, whose mandate is explicitly the provision of public information, several departments have provided such access since the late 1980s. The implementation of the ODS in 1992 and its placement on the Internet in 1996 greatly increased the capability by Member States to access information. The expanded participation by civil society in intergovernmental processes has also been facilitated by the availability of an increasing number of departmental databases on the Internet.
+40.	Since its introduction in 1995, the official United Nations web site (www.un.org) maintained by the Department of Public Information, has evolved into a major source of information on the work of the Organization, including the Secretariat and intergovernmental and expert bodies.
+41.	As the manager of the United Nations web site, the Department of Public Information has the responsibility for the overall site, with some departments and offices in the Secretariat and two peacekeeping missions maintaining their own sites or components. While this is mandated by the complexity and multitude of subjects dealt with by the Secretariat and expands the pool of information, this sometimes leads to duplication in the posting of official documents.
+42.	In view of the wealth of information posted on the sites and the lack of a standard for the preparation and posting of documents, it is sometimes difficult to provide an easy-to-use site, in addition to which the maintenance of the site and the accessibility to and portability of documents is difficult.
+
+		Actions taken
+
+43.	The Publications Board recently approved new Internet publishing guidelines, setting up a Working Group on Internet Matters. It is expected that, with the wide dissemination and utilization of these guidelines, coordination, reduction of duplicate postings and consistency within United Nations Internet publishing will be increased.
+44.	Several departments, notably the Department of Economic and Social Affairs, have been active in using ICT to: introduce change in the culture of communication with Member States and civil society; foster greater accessibility and transparency; and provide timeliness in the availability of documents.
+45.	The development of a new state-of-the-art ODS is close to completion. The system will facilitate access to official documents, in all official languages, thus eliminating the need for departments and offices to post such documents on their own web pages. The Department of Public Information has undertaken the digitization of pre-1993 General Assembly and Security Council documents for loading onto ODS. 
+46.	The Steering Committee on Reform and Management Policy dealt extensively with the issue of coherence of information within the Secretariat and towards the public. It identified the need for a United Nations policy aiming at satisfying requirements concerning availability of documents (inter alia, coherent and stringent implementation of standards for formats and metadata), integrity of data (data to be captured only once, classification schemes strictly applied, authenticity of documents) and confidentiality (access rules and mechanisms, security of access, security for data modifications).
+
+		Next steps
+
+47.	Internet-based technologies will play an ever-increasing role in the strategy of the Secretariat to reach all of its multiple target audiences and to help build global support for its mandate and objectives.
+48.	The Publications Board, in close consultation with offices away from Headquarters, will develop additional guidelines to include policies concerning the development, management and hosting of web sites from a contents point of view, addressing, at the same time, the concerns expressed by the Steering Committee on Reform and Management Policy concerning coherence of information.
+49.	A plan for the digital preservation and/or disposal of organizational records in accordance with an explicit retention policy will also be established. Mandatory descriptive information about documents to facilitate retrieval will be defined.
+50.	To facilitate access to information made available by departments and offices away from Headquarters, the Department of Public Information, in consultation with the Information Technology Services Division, and with input from content-providing offices, will create a unique United Nations web site as a portal to all official documentation, directing users to the centralized repository — the new ODS — instead of to documents posted in disparate departmental web sites.
+51.	The tools used for preparing and posting documents and web site creation, as well as the format of such documents, will be standardized from both the technical and presentation aspects, which in turn will facilitate the implementation of more powerful search engines covering all the Secretariat web pages.
+
+		Expected results
+
+52.	As a result of the more focused Internet strategy throughout the Secretariat and the implementation of the new ODS system, the Secretariat will strengthen its capacity for the electronic delivery of information and material to a broader audience.
+53.	The establishment and implementation of a well-defined policy concerning the consistency, compatibility, ease of navigation and avoidance of duplication on the United Nations web sites will facilitate access to information by Member States and other target audiences.
+54.	The consolidation of the web pages into a unique site will facilitate the search across all types of materials, including multimedia documents. 
+
+
+	B.	Management of activities in the information and communication technologies field in the Secretariat
+
+
+		Status in the Secretariat
+
+55.	Over the past decade, there has been an overall lack of effective coordination of ICT activities at the level of the Secretariat, both within the same duty station and between duty stations. To a certain extent, this situation is a consequence of the geographical spread of the Secretariat, with eight major offices around the world, local constraints, the technology that emerged at the end of the 1980s and the lack of a clear mandate from a central coordination unit. As a result, the level of usage of ICT in the Secretariat is uneven overall. The situation faced by the Secretariat is quite common in the public and non-profit sectors around the world.
+
+		The issue
+
+56.	The increasing usage of ICT in the Secretariat and the need to ensure that the Secretary-General’s vision of better technological usage is implemented require: central policy direction with the participation of all departments and offices; a mechanism to coordinate the activities between and within departments and offices; and a strong central technical support unit. In this way, the ICT needs of departments will be identified and met; the Secretariat will achieve a greater standardization of systems; duplication of efforts will be reduced; departments throughout the Secretariat will progressively reach a consistent level in the usage of technology; and ICT departmental projects and initiatives will be aligned with the overall goals and priorities of the Secretariat.
+
+		Actions taken
+
+57.	The Steering Committee on Reform and Management Policy reviewed the most common organizational models in the industry concerning ICT governance. Taking into account the varied ICT activities and the geographical spread of the Secretariat, the Steering Committee concluded that a partially centralized model (centralized responsibility for infrastructure, standards, methodologies, enterprise-wide systems and decentralized responsibility to departments and offices for their equipment, software and human resources) would be most suitable for the Secretariat.
+58.	Some Departments, such as the Office for the Coordination of Humanitarian Affairs, the Office of Legal Affairs, the Office of Internal Oversight Services and the Department of General Assembly Affairs and Conference Services, and some offices away from Headquarters, such as the United Nations Office at Geneva and the Economic and Social Commission for Asia and the Pacific, have already created ICT committees to define departmental policies or to coordinate ICT activities at duty stations.
+
+		Next steps
+
+59.	As decided by the Steering Committee, an ICT Board is being created at Headquarters. The Board will comprise departmental ICT focal points at the management level and will ensure the coordinated implementation of the Steering Committee’s strategic decisions at the departmental level and will advise the Information Technology Services Division on future plans and requirements. The Information Technology Services Division will consult with the Board on standards to be implemented and the Board will review, as required, the conclusions and recommendations of ad hoc task forces and the implementation of decisions taken by them. The Board will also liaise with ICT local committees at offices away from Headquarters, funds and programmes and inter-agency coordination machinery. 
+60.	Ad hoc task forces, comprising a small number of technical staff from various departments and offices, will be created by the ICT Board for the resolution of ad hoc issues, with a very precise mandate and specific time frames for the completion of their tasks. The Steering Committee has already identified some priority areas: sharing of knowledge within the Secretariat; field connectivity; security; coherence of information; and administrative support to be dealt with by task forces. As applicable, funds and programmes will be associated with the work of these task forces.
+61.	All departments and offices away from Headquarters will create internal ICT groups/ committees. They will establish departmental strategies aligned with the overall objectives of the Secretariat; maintain and update information on departmental systems, resources and assets; review existing systems to confirm their cost effectiveness; and ensure that standard methodologies of ICT projects are consistently used.
+62.	The departmental representative on the ICT Board or on local committees will be the liaison between departments and the ICT Board to ensure the consistency of departmental plans and strategies with the overall Secretariat strategy and will contribute to its constant updating.
+63.	The Information Technology Services Division, in addition to its operational responsibilities for infrastructure, enterprise-wide systems and telecommunications, will, in consultation with the ICT Board and ICT committees at offices away from Headquarters, formulate policies and standards and provide support and advice to the ICT Board, the local ICT committees and the task forces. The Information Technology Services Division will also be responsible for coordinating the implementation of the actions defined in the present report. Similar activities, at the level of each duty station, will be performed by the local central ICT units.
+
+		Expected results
+
+64.	An ICT governance mechanism will be established to ensure coherent, coordinated, global usage of ICT, in line with the objectives of the Secretariat. Departments will be provided with overall guidelines and policy direction while maintaining the necessary level of decentralization for ICT substantive activities and departmental strategies. This will also ensure that the central infrastructure support and services will be aligned with the needs and plans of the departments. 
+
+
+	C.	Methodologies for the development and integration of systems
+
+
+		Status in the Secretariat
+
+65.	The lack of effective coordination associated with the decentralization in ICT activities referred to above has made it difficult to enforce and develop standard methodologies and implement enterprise-wide systems. The situation faced by the Secretariat is not unique when compared with that in the public and often in the private sectors worldwide. 
+
+		The issue
+
+66.	Systems are a key component of the functioning of the Secretariat. They support operations, management activities, research, analysis, collection, distribution of and access to information. The survey has documented the existence of more than 500 different systems in the Secretariat, in addition to the United Nations web pages, sometimes duplicating each other and using different platforms. The development and operational costs of systems need to be documented and standards must be established for systems development, including data standards and operations. 
+
+		Actions taken
+
+67.	An inventory of systems, the most commonly used tools and their technical platforms has been conducted and the results are being analysed. Hardware standards applicable to Headquarters are published on the Intranet. 
+
+		Next steps
+
+68.	A database comprising the information collected through the inventory will be made available online to all departments and offices by the end of the first quarter of 2001 to:
+	(a)	Enable authorized users to identify other departments and offices that may be able to assist them with advice and expertise;
+	(b)	Enable authorized users to identify systems already developed in other parts of the Secretariat that could be reused, thus avoiding duplication of efforts;
+	(c)	Allow a detailed review of the trends and technical infrastructure and tools used by the majority of the departments and offices to gradually define Secretariat-wide standards;
+	(d)	Provide Member States, as and when required, with up-to-date information on the status and usage of ICT in the Secretariat.
+69.	Standards and methodologies for systems development will be established. They will be flexible enough not to hamper the appropriate and creative usage of technology and will provide the ICT user community with unified guidelines that will foster the integration of systems and improve the reliability of United Nations data.
+70.	Standardized data dictionaries to facilitate the exchange of data and the merging of data between systems will be created using the expertise available in departments and offices responsible for specific areas of activity (for example, IMIS for administrative data, the Department of Economic and Social Affairs for social statistical data).
+71.	Methodologies will also be made available whereby managers can assess the actual operating costs of the application versus its benefits, thus enabling them to determine priorities for future developments and support. In the case of mission critical applications, reviews will be conducted to ensure that these are properly documented, that data is adequately protected and that operations can rapidly resume after a disaster occurs.
+72.	Incrementally, e-government practices and procedures will be implemented in the Secretariat in order to increase efficiency and administrative transparency. Capitalizing on the investment made in IMIS, online access to personal data (for example pay slips, personnel actions, fact sheets, travel claims, etc.) will be provided to all staff members. Inter-active forms for the electronic filing of claims and/or updating of data will be introduced, existing data will be used for the creation of management reports and for requesting and obtaining certificates and other forms. E-commerce/banking using industry tools will also be expanded both for the sale of United Nations products and for the receipt of payments to the United Nations, going one step further than the electronic payment systems implemented in conjunction with IMIS.
+73.	The standards for documentation, including manuals, procedures and training, will also be defined. 
+
+		Expected results
+
+74.	In line with what is planned for Internet-related technologies, Secretariat-wide methodologies for the development of systems to progressively standardize tools used for their development, their platforms and data formats will lead to a better integration of systems and more consistency in data.
+75.	Development and operating costs will be better assessed and monitored, thus facilitating cost benefit analysis of the systems.
+76.	The number of systems that are used Secretariat-wide will be reduced to the extent possible, thus eliminating duplication and expanding the number of enterprise-wide systems.
+77.	Administrative procedures and access to administrative details of staff will be streamlined and expedited.
+
+
+	D.	Human resources policies in the field of information and communication technologies
+
+
+		Status in the Secretariat
+
+78.	Of all areas of activity, the ICT field is the one in which the Secretariat competes most with the private sector worldwide for the recruitment and retention of qualified human resources. The difficulties it faces, at all duty stations, are similar to those experienced in the public sector worldwide. While an increasing number of countries have created special conditions of service for ICT staff, the United Nations system organizations have not yet been provided by the International Civil Service Commission (ICSC) with adequate tools to address this issue.
+
+		The issue
+
+79.	Industry studies indicate that up to 60 per cent of ICT expenditures relate to staff or personnel services. It is also recognized that a core of competent staff is required to manage ICT. ICT personnel are extremely mobile with up to a 30 per cent rotation annually in the private sector in the United States of America, and there is need to rapidly replace staff leaving the Secretariat. This is made difficult by the rigidity of the system of classification and compensation. In addition, it is difficult for departments and offices to obtain individuals with specialized skills on a temporary basis or for short, recurrent assignments.
+80.	The rapid changes in technology also mandate that the staff and managers-at-large, that is not only ICT professionals, upgrade and keep their skills 
+up-to-date. ICT training includes traditional formal training, participation in specialized conferences and seminars, attendance at specialized fairs and access to advisory services. Needs assessment undertaken by the Office of Human Resources Management consistently indicate that requirements for ICT training exceed available funding.
+
+		Actions taken
+
+81.	Within the framework of the review of the eleventh progress report on IMIS, the Advisory Committee on Administrative and Budgetary Questions6 considered the issue of special occupational rates for United Nations staff in the area of information technology and brought the matter to the attention of the Fifth Committee.
+82.	For the period from 1998 to 1999, training funds in the amount of $3 million were allocated for ICT training Secretariat-wide. There were some 17,000 participants in ICT programmes, including approximately 1,500 participants in specialized training.
+83.	The Office of Human Resources Management has launched a project of ICT training for managers, and pilot courses took place in November 2000 and January 2001. IMIS organizes once-a-year training for technical staff from offices away from Headquarters in order to upgrade their skills and to maintain a consistent level of knowledge throughout duty stations.
+84.	The Office of Human Resources Management is also making more frequent use of distance learning initiatives, especially in the area of standard software training. The same effort was made for IMIS training.
+
+		Next steps
+
+85.	Some of the initiatives being undertaken within the framework of the human resources management reform, in particular, planning, recruitment, competencies and conditions of service, will have a direct impact on the ICT issue. Particular attention will have to be paid to the ICT occupational groups. Consideration will have to be given to the specific policies that apply in industry, including in the public sector: the possibility of implementing special salary scales; revised classification standards; standardized job descriptions throughout the Organization; flexible pay ranges within a number of job categories; and “individual contributor” career paths, which recognize that many highly skilled ICT technical staff do not wish to be managers encumbered with administrative responsibilities. Innovative recruitment procedures for this category of staff, in order to reduce the recruitment process to less than the planned 120 days, should also be envisaged, while maintaining full adherence to the principles of competence, integrity and geographical and gender distribution of the staff.
+86.	The creation of a pool of ICT staff within the Secretariat, which could be assigned on a shared basis to all departments, including offices away from Headquarters, according to their projected needs, through special level agreements, will also be explored in order to address the need of departments and offices for specialized skills for limited, sometimes recurring, periods. The pool of resources could be formed either using staff recruited for that purpose or, in the case of highly specialized skills, by outsourcing to a selected number of companies that would operate on the basis of standards established by and under the technical supervision of the Information Technology Services Division or local ICT centralized units.
+87.	In the medium to long term, a comprehensive ICT training plan for staff and managers of the Secretariat as a whole will be established. Incrementally, job descriptions will be standardized across the Secretariat. 
+88.	Specialized training programmes will be proposed concerning security awareness for managers and ICT staff, risk assessment methodologies for the preparation of ICT projects, ICT projects management and ICT procurement. The extent to which training opportunities can be expanded will depend upon the amount of resources available for this purpose. 
+
+		Expected Results
+
+89.	The capacity of the Secretariat to attract and retain qualified technical ICT staff will be improved. The recruitment process of such staff will be accelerated.
+90.	Extensive and continuous training will be provided to:
+	(a)	Ensure that the staff-at-large take advantage of the ICT tools made available by and of the information sources existing in the Secretariat;
+	(b)	Ensure that the ICT staff continue to be productive and innovative and that they possess the required know-how to implement new technologies;
+	(c)	Provide the incentive of continuing professional development for ICT staff, who, in the United Nations system, do not benefit from private sector compensation levels; 
+	(d)	Ensure that managers possess the knowledge required to take advantage, in their programmes, of the benefits of ICT;
+	(e)	Limit the risks associated with insufficiently planned ICT projects.
+
+
+	E.	Administrative and technical aspects of information and communication technologies
+
+
+		Status in the Secretariat
+
+91.	ICT impose new methodologies and break the traditional vertical organizational barriers. Traditional administrative processes are often inadequate to meet the specific demands of the new technologies and their rapid evolution. Systems, sharing of information, access to information, new technologies, in particular for the distribution of information, impose a constant rapid upgrade of the computing and telecommunications infrastructure that may not be supported by the current budgetary cycle of the Secretariat.
+92.	The United Nations budgeting and procurement processes and procedures are not aligned with the industry’s best practices. The budgeting cycle of three years imposes too much rigidity on the available resources to meet the requirements imposed by technology.
+93.	The telecommunications network between Headquarters and the major duty stations is inadequate and its operations are not satisfactorily coordinated.
+94.	A growing number of systems are expected to take advantage of new technologies such as imaging and sound, which require better infrastructure capacity. An ever-increasing number of operations, from conference services support to Department of Public Information radio and video production to facilities management rely on commercial applications, using standard hardware and software tools. This additional convergence of computing and specific operational applications will increase the need for additional ICT specialists and investments, both for central support, overall infrastructure and in substantive operational areas. 
+95.	The situation and challenges faced by the Secretariat are common to those of most public sector entities.
+
+	1.	Budget
+
+
+		The issue 
+
+96.	Industry projections estimate the annual increase in expenditure in ICT in the public sector in the world for the period 1998-2004 at 7.7 per cent per annum. Apart from new applications and systems, the increasing need to support and operate infrastructure and applications, such as the local area networks (LAN), the wide area network (WAN) and email on a 24 hour basis contribute to increased ICT-related costs. The current budgetary process assumes that ICT managers can, to a great extent, predict developments over three-year periods and clearly identify directions and assess cost and detailed resource requirements by type of expenditure. In the area of information technology, it is practically impossible, within a three-year period, to predict requirements and costs, all the more so as much depends on the rapid pace of technological development in the field. 
+
+		Actions undertaken
+
+97.	Instructions concerning the proposed budget for 2002-2003 require all managers to clearly identify and classify the ICT proposed expenditures into two categories:
+	(a)	Maintenance operations, support and infrastructure upgrading; 
+	(b)	New technology investments, including research and development.
+98.	Managers have also been requested to identify their specific ICT training requirements.
+99.	These measures will facilitate the identification, budgeting and monitoring of ICT projects and expenditures.
+
+		Next steps
+
+100.	Better utilization of the existing flexibility in the use of resources will be pursued in order to facilitate changes in programme implementation, in particular those dictated by changes in technology. If necessary, within the framework of the programme performance reviews, additional resources may be sought to meet new demands.
+101.	Progressively, benchmarks will be introduced and will be used consistently in the budgetary process by all departments and offices.
+
+		Expected results
+
+102.	The Secretariat will be in a better position to ensure that ongoing and planned ICT activities are adequately funded. Greater flexibility, with all the required controls, will be available for ICT-related projects.
+
+	2.	Procurement
+
+
+		The issue 
+
+103.	ICT procurement is a key component of ICT operations. Traditionally ICT procurement is linked to the purchase of hardware, PCs, servers, printers and telecommunications equipment, but this in fact represents only a small fraction of all ICT costs. On average, in the industry, hardware costs amount to only 13 per cent of overall ICT budgets. On the other hand, the percentage of expenditure on outsourced services constantly increases. ICT procurement and related contract management is key to the success of ICT activities. The procurement process for ICT products and services must be expeditious and responsive to the need for amendment whenever technological specifications of products and services have superseded the parameters already approved.
+
+		Actions taken
+
+104.	As recommended by the Board of Auditors, procedures are being improved to ensure that all ICT procurement at Headquarters conforms to ground rules established by the Information Technology Services Division to ensure standardization to the maximum possible extent.
+105.	Standards are established for the most common hardware, duty station by duty station, taking into account local requirements and markets. Headquarters standards are published on the Intranet.
+106.	A standard contract format for the procurement of ICT services, hardware and software has been prepared by the Office of Legal Affairs.
+
+		Next steps
+
+107.	A sectoral review of the ICT procurement procedures will be undertaken with a view to streamlining them, while adhering to the existing rules and regulations.
+108.	On the basis of standard methodologies and industry practice, the Procurement Division, and the Information Technology Services Division will cooperate to prepare standard models for ICT requests for proposals (RFPs) and requests for information (RFIs) to be used by substantive departments. Subsequently guidelines for the evaluation of ICT proposals will also be prepared.
+109.	In order to meet the urgent demand by departments for ICT services and expertise, the Information Technology Services Division and the Procurement Division will assess the possibility of establishing, on a competitive basis, system contracts with companies that can provide such expertise at short notice and for limited but often recurrent periods.
+
+		Expected results
+
+110.	The quality and timeliness in procurement of ICT goods and services will be improved and equipment will be standardized to the extent possible.
+
+	3.	Infrastructure
+
+
+		The issue
+
+111.	The local area networks (LAN), the wide area network (WAN) connecting all major duty stations and peacekeeping missions and the physical security infrastructure have become the backbone of the Secretariat’s operations, 24 hours a day, 365 days a year. The convergence of telecommunications and computing, and to some extent broadcasting, and the increased number of applications and tools that rely upon such infrastructure require constant monitoring of operations, capacity and usage, at all duty stations and between duty stations. Frequent, costly and aggressive programmes of upgrade and adherence to standards are mandated by the technology. Slow response or outages are expensive and slow down the work and performance of the Secretariat-at-large, and indeed, in critical areas such as live broadcast feeds, cannot be tolerated.
+112.	The industry trend is to create virtual offices that allow staff to seamlessly communicate, access data and remotely perform transactions in central enterprise systems. Effective and economical communications are indispensable for the sharing of information within the Secretariat. Communications between remote offices are to be treated as local internal communications. 
+113.	Field connectivity, including for very remote locations, to support humanitarian and political missions and to enhance the security of staff is critical to the efficient operations of such activities. It is also of vital importance to the work carried out by the United Nations information centres.
+
+		Actions taken
+
+114.	Plans for the mandatory upgrade of the Headquarters LAN during the biennium 2002-2003 have been made and proposals for financing will be submitted to the General Assembly as part of the proposed budget for 2002-2003. 
+115.	Close coordination has been established between the Information Technology Services Division, the Department of Public Information and the Department of General Assembly Affairs and Conference Services to ensure that the technological innovations being planned can be supported by the Headquarters LAN.
+116.	The global telecommunications network is being upgraded from a technological point of view to virtually integrate all traffic (voice, video and data) onto a single platform, simplifying network management and enhancing operation and service performance
+117.	The Steering Committee on Reform and Management Policy requested the Field Administration and Logistics Division to prepare a set of proposals so that it can act as an ICT service provider, if possible, to other Secretariat and United Nations entities in the field. The Field Administration and Logistics Division is best positioned to provide support for peace operations and their field counterparts in the United Nations agencies, funds and programmes. It has in place an information communication technology infrastructure straddling all peace operations that seamlessly incorporates both information and communications systems. Technical infrastructure in field missions could be extended to other United Nations agencies operating within the same areas. 
+118.	Remote access to databases, also for transactional purposes, as is the case for IMIS, is being implemented.
+
+		Next steps
+
+119.	Policies concerning internal usage of the ICT infrastructure will have to be clearly articulated and enforced. The implementation of systems requiring large capacity (video, sound, photography, downloading of large files from service providers) will need to be coordinated with the central LAN management and their implementation planned and carefully phased in to avoid a negative impact on the overall LAN performance affecting all users. Discretionary use of the facilities by United Nations staff, especially the Internet, will be reviewed in the light of its impact on the installed and projected capacity.
+120.	A global standard for physical local area networks (LAN) and for the wide area network (WAN) will be adopted to ensure incremental standardization, to facilitate operations and, at a later stage, to allow remote technical support from a central or dedicated location to all offices. 
+121.	The evolution of the global telecommunications market will be monitored on an ongoing basis to re-evaluate the purpose, usefulness and cost effectiveness of the United Nations network.
+122.	The operational support requirements of the wide area network will be reviewed. The re-establishment of the model that was in force until the beginning of the 1990s (staff reporting to a central organizational unit and assigned to the various duty stations on a rotation basis, similarly to the current peacekeeping missions set-up) will be reassessed.
+123.	Plans will be made for the Department of Peacekeeping Operations, Field Administration and Logistics Division, to incrementally provide the required technical and logistical ICT support to the humanitarian, human rights and political field activities. Whenever applicable and desirable, such support could also be provided to United Nations agencies, funds and programmes, particularly given the strategy of establishing a combined “United Nations House” in many field locations.
+124.	Further development of the existing infrastructure in the Field Administration and Logistics Division will ensure faster attainment of the objectives laid out for integrating and sharing information and will also assist in deployment of information management systems. The establishment of a system-wide inventory of information systems and information and communication technology resources related to field operations, including geographical information, will be achieved within the existing infrastructure.
+125.	Action will be taken to progressively expand existing inter-agency coordination mechanisms to include an ICT component, in particular, to resolve communication and information management issues at the field level.
+126.	Research to facilitate remote connectivity, including by staff at small duty stations, will be expanded so as to allow staff to consult or update databases located at other duty stations.
+127.	The possibility of relying on hosting services that can provide an essential interim means to increase the available capacity while full infrastructure is being developed will be considered.
+128.	Similar steps will be undertaken to ensure that staff at smaller duty stations are provided with the same level of access.
+129.	A task force comprising experts from various duty stations to address the issue of the increasing need for mobile computing to be integrated, incrementally, to the global United Nations private network will be established. 
+
+		Expected results
+
+130.	The computing infrastructure at all duty stations and the telecommunications network will be kept in-line with the demand to efficiently support the increased usage of computing and related communication tools such as voice and video streaming and videoconferencing.
+131.	A virtual global office, where communications and exchange of data among staff at all locations is not hindered by distance, will be created.
+132.	Field connectivity and field computing infrastructure will be extended to humanitarian and human rights activities and to public information field activities.
+
+	4.	Security
+
+
+		The issue 
+
+133.	The increased usage of ICT over the past decade has made the United Nations more vulnerable. ICT security aims at ensuring continuity of operations. It concerns physical security, data protection and integrity and privacy issues. In view of the growing electronic network connecting all major duty stations and the peacekeeping missions, all offices which are part of the United Nations network must adhere to and strictly implement the same security standards and procedures and a comprehensive policy must be defined. No resources have been assigned to address these mission critical issues on a global basis. The Board of Auditors observed that established security procedures are not always consistently observed and that there is no ICT security policy at the Secretariat level. 
+
+		Actions taken
+
+134.	Mechanisms are in place at all duty stations to varying degrees. Detailed documented security procedures and disaster security plans are in place for enterprise applications, such as IMIS and ODS and, at Headquarters, for the email and LAN servers. The Information Technology Services Division is in the process of completing the development of templates to formulate appropriate ICT security measures in each of the four areas above. A network of security focal points, mainly concerned with access to the LAN and to data, is also in place at Headquarters.
+
+		Next steps
+
+135.	An organization-wide network of staff responsible for ICT security will be established to ensure coordination and synchronization in the application of the required measures.
+136.	The status of security at all duty stations starting from the mission critical systems and infrastructure will be assessed. Based on the identification of existing shortcomings, recommendations will be made to the responsible entities to take the corrective actions that may be required.
+137.	An overall security plan will be established, implemented and carefully monitored.
+138.	Resources will be requested within the framework of the proposed programme budget for 2001-2003.
+
+		Expected results
+
+139.	A Secretariat-wide security policy will be established. The required security mechanisms will consistently be implemented at all duty stations. ICT security will become the collective concern of ICT staff and managers and of users-at-large.
+
+
+	5.	Policies
+
+
+		The issue
+
+140.	The emergence of new technologies makes it necessary for the Secretariat to issue a series of new administrative issuances regulating their usage. 
+
+		Actions taken
+
+141.	A joint Office of Internal Oversight Services/ Office of Human Resources Management/Office of Legal Affairs/Information Technology Services Division group has been working on the establishment of Internet policies
+142.	Obsolete ICT-related administrative issuances have been identified and work to update them has begun.
+143.	Hardware standards applicable to Headquarters are published on the Intranet.
+
+		Next steps
+
+144.	Using industry standards and best practices, and in consultation with all departments and offices:
+	(a)	Obsolete administrative issuances will be updated, as needed;
+	(b)	Policies applicable Secretariat-wide concerning privacy protection, protection of data will be issued; 
+	(c)	Guidelines regarding use of email, the Internet, the LAN, ownership of data, appropriate usage of ICT equipment owned by the United Nations and related accountability will be promulgated; 
+	(d)	The standards for documentation (manuals, procedures, training, etc.) will be defined. 
+
+		Expected results
+
+145.	ICT-related policies will be reviewed and promulgated. 
+146.	Mechanisms will be established to keep the policies up-to-date following the evolution of technology and of related policies.
+
+
+	VI.	Conclusions and recommendations
+
+
+147.	The present report provides the framework for strategic activities planned for the near future to ensure that the Secretariat continues to benefit from the rapid evolution of ICT. 
+148.	A number of preparatory activities for the implementation of such a strategy have already been undertaken.
+149.	A detailed inventory of ICT infrastructure, systems and organizational structures within the Secretariat is close to completion.
+150.	A high-level ICT governance structure has been defined by the Steering Committee on Reform and Management.
+151.	The establishment of an ICT coordination body at Headquarters and the creation of similar ancillary bodies at offices away from Headquarters is under way.
+152.	A series of key issues to be addressed as a matter of priority has been identified by the Steering Committee on Reform and Management.
+153.	The restructuring of the Information Technology Services Division within the Department of Management has been completed and the Division has started playing a central coordinating role with departments and offices away from Headquarters.
+154.	A Secretariat-wide training programme for ICT has been implemented by the Office of Human Resources Management in consultation with the Information Technology Services Division.
+155.	The infrastructure at Headquarters, in particular, has been upgraded and consolidated.
+156.	In-line with the vision expressed by the Secretary-General in his programme for reform, a detailed plan of action determining priorities and dependencies is under preparation and will be reviewed and approved by the Steering Committee on Reform and Management.
+157.	The expected results of the strategy will enable the Secretariat to:
+	(a)	Make ICT a strategic component of programme delivery, at all duty stations and in all departments and offices;
+	(b)	Increase the efficiency of the Secretariat;
+	(c)	Improve the quality of services provided to Member States and to other target audiences, including the public-at-large;
+	(d)	Ensure that structural changes accompany the new business models that have to be implemented in conjunction with an increased ICT content in programme delivery;
+	(e)	Create a worldwide virtual Organization, where access to and exchange of information is seamless across duty stations.
+158.	The policies that have been outlined and will be pursued aim at ensuring that the existing and future resources are optimally utilized and that the Secretariat, at all duty stations, maintains a reliable and strong infrastructure capable of supporting the projects of the departments and offices while leaving the necessary flexibility to them to implement systems and applications that meet their own specific requirements.
+159.	The analysis and collection of information on ICT utilization in the Secretariat will continue to ensure that both the management and Member States can assess the progress made and directions taken.
+160.	Most of the activities outlined in the present report will be performed by taking advantage of new technology and the knowledge existing in the Secretariat throughout all departments and offices. While the initial activities will be undertaken within existing resources, it is expected that once the various actions are identified, the need for additional resources will need to be assessed. If necessary, requests for additional appropriations will be submitted following established procedures. Three activities, having global implications to the Secretariat as a whole, will have direct budgetary implications for the next biennium: upgrading of the infrastructure; security; and ICT training. Provisions have been made for their inclusion in the proposed programme budget for 2002-2003.
+161.	Departments and offices may also submit specific plans within their own proposed budget related to new initiatives and projects as part of their substantive programmes of activity.
+162.	A detailed progress report highlighting the work undertaken and possible difficulties encountered will be submitted at the next session of the General Assembly.
+163.	The General Assembly is requested to take note of the present report.
+
+
+Notes
+	1	A/51/950, paras. 244 to 247.
+	2	Ibid. para. 246.
+	3	A/55/632.
+	4	A/55/6, para. 8.
+	5	A/54/2000, para. 350.
+	6	A/54/7/Add.4, annex II.
+
+
+[Start1]<<ODS JOB NO>>N0124883E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/55/780<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+20
+
+19
+
+United NationsA/55/780 
+General AssemblyDistr.: General
+13 February 2001
+
+Original: English
+
+
+01-24883 (E)    010301    
+*0124883*
+

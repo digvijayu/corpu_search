@@ -1,0 +1,144 @@
+TDUnited Nations
+Conference
+on Trade and
+DevelopmentDistr.
+
+
+TD/394
+8 April 2004
+
+Original: ENGLISH
+
+Eleventh session
+São Paulo, 13–18 June 2004
+Item 8(d) of the provisional agenda
+
+
+
+Partnership for Development:
+Information and Knowledge for Development
+
+Issues note
+
+Executive summary
+While the benefits of new information and communication technologies (ICT) have accrued largely to developed countries, there is a broad consensus concerning these technologies’ significant potential for the social and economic progress of developing countries. ICT can be usefully applied to most of the major problems of development. In the economic sphere, ICT can significantly enhance the productivity and hence the competitiveness of the enterprise sector of developing countries. This potential manifests itself in, for example, changes in market structures, business location, participation in international production processes, brand-building activities, reduced distribution costs, more effective trade logistics and better business risk management. 
+Responding to the challenges of an increasingly ICT-intensive global economy will take awareness, time and the commitment of both financial resources and political will to implement changes in key areas of the economy. Building an enabling environment for ICT-led competitiveness, as part of a national e-strategy, is essential. To do so requires attention to creating awareness, strengthening human capacities, establishing an adequate legal framework, promoting trust and online security, and securing a competitive infrastructure. For these e-strategies to be fully implementable, favourable conditions must be created for the mobilization of domestic and international financial resources for investment in ICT.
+ICT-based strategies to enhance competitiveness should involve all relevant national players, including government, business community and civil society at large. They should also take fully into account the international context in which national actions take place. To this end, UNCTAD is launching a series of multi-stakeholder activities around the theme of “ICT applications for improving the economic competitiveness of developing countries”, especially as regards trade and development.
+
+
+Contents
+
+Introduction	3
+I.	Selected issues affecting the impact of e-commerce and e-business on the competitiveness of enterprises	3
+Changes in the structures and operations of markets	3
+Location	4
+Participation in international production processes	4
+Brand building	4
+E-business and distribution costs	4
+ICT and trade logistics	5
+Improvements in business risk management	5
+II.	Building an enabling environment for ICT-led competitiveness: The choice of national e-strategies	5
+III.	Financing ICT: resource mobilization for a developing economy	7
+The international dimension	8
+The importance of multi-stakeholder partnerships	8
+
+
+I. 
+Introduction
+1. The strong influence of ICT in shaping the process of globalization, particularly in the productive, commercial and financial spheres, is widely recognized. That the benefits of the applications of ICT to economic activity have so far accrued largely to developed countries and to a group of a few relatively advanced developing countries is also generally admitted.
+2. At the same time, there is broad consensus that ICT have the potential to contribute significantly to the social and economic progress of the majority of developing countries. ICT can be used to enhance the effectiveness of policies and measures addressing most of the major problems of development, including those concerning the productivity and hence the competitiveness of the enterprise sector of developing countries. 
+3. Despite all the international activity around the concept of “ICT for development”, the treatment of the economic implications for developing countries of the diffusion of ICT remains less advanced than that of other development issues. Yet it is the application of ICT to the activity of developing-country enterprises – in their purchases of inputs and management of resources, in their productive, marketing and financing activities – that will enable ICT to make a larger impact on these countries’ capacity to compete in international markets (or to face up to competition in their domestic ones) and to generate growth and employment. 
+4. ICT, particularly Internet-based business methods, are transforming virtually every aspect of business and market organization. In those economies, mainly in the developed world, where ICT adoption has progressed most, it seems to have enabled economies to use their resources more efficiently, thus achieving faster productivity growth and therefore higher income levels.
+5. For developing countries, the growth of e-business opens the possibility of increased exports in traditional sectors and new opportunities in emerging sectors such as digitized goods and services, as well as increased competition in their domestic markets. It also poses the danger that the sheer speed of change and the size of the investment required (in spite of a long-term trend of declining ICT costs) may leave some countries outside a major area of the global economy. Maximizing the benefits and avoiding the risks generated by ICT for the competitive position of their firms and economies is therefore a fundamental challenge to which entrepreneurs and policy makers in developing countries must develop responses adapted to their business and policy environments.
+6. In the elaboration of such responses, a number of general considerations referring to the major changes that e-commerce and e-business have introduced in the trade arena and their effects on the competitiveness of developing countries’ enterprises may be relevant.
+
+
+I. Selected issues affecting the impact of e-commerce and e-business on the competitiveness of enterprises
+Changes in the structures and operations of markets
+7. Faster, larger and deeper market information flows enhance the transparency of markets and increase the number of participants, both buyers and sellers. In this process, there will be losers as well as winners.
+8. Companies that do not participate in the Internet market will lose opportunities for obtaining their inputs more cheaply and selling their products to a wider foreign market. Moreover, they risk losing existing sales to companies that market their products and services more effectively. As things currently stand, the companies that appear to be most under threat are small and medium-sized enterprises (SMEs) in developing countries.
+Location
+9. Now that there is an increasing range of goods and services whose production and delivery can occur partly or entirely online (e.g. sales of software, entertainment products and various financial and even medical services over the Internet), the comparative advantages of countries can change and the economics of location be altered. This in turn will affect the direction of trade. For example, India has already established an outstanding reputation as a supplier of software services via the Internet. Digitized data processing (e.g. for back-office services) is another sector that offers significant prospects for developing countries. In other sectors, suppliers from developed countries may be able to attract business from developing countries. For instance, liberalization of trade in financial services could weaken the market strength of firms from developing countries by reducing the protection that comes from their physical proximity to their customers. 
+Participation in international production processes
+10. Internet access allows just-in-time systems to expand. In the clothing industry, for example, there are retail chains that require their store staff to keep records of colours and designs that are in great demand. Using electronic ordering chains, these groups can obtain fresh supplies from foreign sources in just a few days. Companies that are out of the loop will have fewer chances of obtaining orders. In the same way, electronic monitoring of production standards can be useful for large firms wishing to obtain offshore supplies of inputs. Again, companies that cannot link to the information systems of large buyers risk losing out on international trade opportunities. 
+Brand building
+11. The sustained success of companies and countries in international trade is partly attributable to knowing how to create a good image. While countries must, of course, have the capacity to supply the requisite goods and services and thus justify the image, the Internet does enormously facilitate the spread of brand attributes, and thus the reinforcement of market share. Most developed-country firms exporting or hoping to export into developed markets still lack a strong brand position.
+12. In brand-conscious, high-income societies, an incapacity to operate through the Internet is a substantial disadvantage. Investment in Internet brand building, which is likely to be the most cost-effective option for export-oriented firms, requires, among other things, good technical and graphic design, marketing of websites, and the use of smart tie-ins with portals that generate appropriate interest and traffic. Care must also be taken to secure proper protection of trademarks to be used off- and online. 
+E-business and distribution costs 
+13. In many developing countries, the transaction costs associated with international trade represent an insurmountable barrier. Increased competition in global markets means that producers everywhere will be obliged to work on ever tighter profit margins: reductions of a percentage point or two in distribution transaction costs will have a significant impact on competitiveness. Cost savings can be achieved through, among other things, the effective use of e-business and related ICT applications.
+ICT and trade logistics1
+14. Currently available transport and trade facilitation ICT solutions offer considerable productivity gains for business sectors and public institutions. They have dramatically improved the management and supervision of international trade transactions and associated transport operations. Two examples of such systems are UNCTAD’s Automated System for Customs Data (ASYCUDA) and Advance Cargo Information System (ACIS) for transport equipment management and cargo tracking. These have allowed customs administrations, as well as transport operators and traders in developing countries, to reduce transaction costs and improve the use of existing facilities in developing countries.
+Improvements in business risk management
+15. The ability to transmit information instantaneously and to participate in networks at a low cost has introduced significant changes in the functioning of markets by reducing the effects of information asymmetries. 
+16. For example, many developing countries continue to rely heavily on primary commodities for their export earnings. They often suffer severe losses of export revenue through changes in international market circumstances, which can be rather unpredictable. However, ICT-based techniques have dramatically improved commodity producers’ ability to protect themselves against price and currency fluctuations. Producers should be able, particularly through associations, to access the necessary data at an affordable cost, and should be able to employ the skilled staff required to make use of the information. For financial services providers, too, ICT tools have become critical for managing risks related to their clients.
+
+
+II. Building an enabling environment for ICT-led competitiveness: The choice of national e-strategies
+17. For developing countries, responding to the challenges of an increasingly ICT-intensive global economy will require awareness, time and the commitment of financial resources and political will to implement changes in key areas of the economy. There is also a high level of heterogeneity across and inside the developing regions of the world regarding the adoption of ICT. However, as more and more developing countries create and fine-tune national e-strategies for development, some common threads are emerging in policies to promote e-business and e-commerce.2
+18. Generally speaking, an environment favourable to conducting international business will also foster the adoption of ICT by companies. Businesses using ICT worry about issues such as competition, trust and security, interoperability, intellectual property and an open market environment. 
+19. Establishing a reliable and competitive network infrastructure is a key precondition for increasing the use of ICT by companies. For many Governments, particularly in the developing world, the scope and modalities of telecommunication sector privatization, liberalization and regulation are difficult issues that require balancing private-sector-led approaches with national public operators.
+20. Countries that have carried out telecommunication sector reforms have experienced significant improvements in access to telecommunication facilities. In most countries, opening up the sector to several providers has resulted in a higher number of users, lower prices and better-quality services.
+21. A policy framework that promotes open markets, competition and private-sector investment will attract companies not only in telecommunications but in other sectors that support and benefit from the information economy. Trade-related policy objectives should enable innovation, a key element in economies and societies that are increasingly knowledge-based.
+22. Active participation by Governments and commitments made in multilateral trade negotiations at the World Trade Organization (WTO) could result in an environment that stimulates trade and investment. Relevant policies would relate to reduction of import tariffs and taxes on software and hardware, the temporary movement of skilled labour, and participation in the Information Technology Agreement or the customs moratorium on electronic transmissions. Further liberalization of services, especially those that can be provided digitally (e.g. computer-related services, business services and financial and insurance services) and communication services, could stimulate export growth in these sectors.
+23. The need for a legal infrastructure supportive of and conducive to e-business activities constitutes one of the main issues that policy makers should address when defining an ICT strategy. Lack of trust, security and harmonized national legislation, coupled with an increasing number of reported cybercrimes, viruses, spams and cases of fraud, has become a key impediment to the development of the information economy. In particular, the presence or absence of an enabling legal framework affects the ability to conduct transactions online. Policy makers need to remember, however, that adjusting the legislative framework to e-commerce will not solve other, more fundamental problems that may exist in a country’s national legal system.
+24. The issue of online security and the low level of credit card ownership in many developing countries are major factors limiting the development of e-business. Governments are therefore encouraged to adopt flexible regulations and create a supportive institutional environment to encourage the introduction of e-payments, Internet banking, online trade finance and credit information, and other e-finance facilities relevant to SMEs, and to ensure public/private cooperation in that respect.
+25. Most importantly, however, companies need to be convinced of the tangible benefits resulting from the use of ICT before they will invest in the new technologies. In some countries, this process still requires time, and people will start by using e-mail in their business practices before moving on to more complex online activities using intra- and extranets. In companies with a management culture open to change, the use of new tools and the digitization of business processes will advance more quickly.
+26. Governments have an important role to play, in both developed and developing countries, in promoting and facilitating the adoption of ICT by businesses. Especially at the early stages of ICT deployment, Governments must act as leaders, providing a vision, raising awareness and giving high priority to ICT development by making it a national priority.
+27. Governments should play an active role without interfering with local competitive market forces. They should be active players (for example, by adopting e-government practices) but not substitute for private sector action; they should enact policies that generate an environment conducive to international business; and they should focus on facilitating the entrance of smaller, underprivileged players in the marketplace. 
+28. In the final analysis, much of the required investment will come from the private sector. Experience shows that the private sector has been the most innovative player and the major driving force behind e-business and ICT development. In general, the modalities of application of technology to business activities are decided more efficiently by the market than by government. An e-strategy that combines public intervention with private-sector initiative in a mutually supportive manner will therefore be the most effective.
+
+
+III. Financing ICT: resource mobilization for a developing economy
+29. While evidence concerning the impact of ICT on the acceleration of the development process and economic growth in developing countries remains insufficient, data from the OECD countries points to a strong link between investment in ICT and faster growth. The adoption of ICT by businesses, government agencies and consumers is commonly understood to have been the single largest factor underpinning the recent resurgence of productivity and GDP growth in the United States and some other information-intensive developed economies. If similar improvements could be achieved in developing countries through the adoption of ICT, this would represent a major breakthrough in the development process.
+30. A primary requirement for that to happen is the existence of an adequate ICT infrastructure, which in turn calls for increased capital investment in telecommunications, IT hardware and software, as well as building up human capital stocks by enhancing the skills of the adults in the work force and upgrading the ICT-related capacities of educational institutions. Hence the need for more efficient mobilization of resources allowing for higher rates of investment in ICT, in both relative and absolute terms.
+31. On average, developed countries invest around 7 per cent of their GDP in ICT, twice as much as developing countries. In absolute terms the gap is even more impressive. The question is how to close this gap without diverting resources from other vital development needs or creating unsustainable external accounts.
+32. Better macroeconomic and structural policies and institution building, improved domestic savings mobilization and targeted public expenditures might increase the availability of domestic investment for ICT. Foreign direct investment and other private financial flows also play an important role in putting infrastructure in place and building up Internet access, as well as in developing the production of ICT goods and services. 
+33. The required combination of national resource mobilization, FDI and other private and public sources of capital will vary among developing countries. National policies will have to be put in place in order to finance ICT investment effectively. Targeted official financial flows and resources raised by the NGO community and civil society will also be essential. In any case, developing countries and the international community more generally still have to address the problem of financing the remaining gaps.
+34. This task will be facilitated if ICT activities are mainstreamed into development assistance programmes, taking advantage of the cross-cutting nature of ICT and their potential to contribute to the achievement of the development goals of the international community embodied in the Millennium Declaration. Special debt relief efforts targeted at sustaining the development of ICT infrastructure could be envisaged for the heavily indebted poor countries (HIPCs). In that respect, the recent initiative in the context of WSIS to establish a Digital Solidarity Fund, which is seen as an inclusive entity channelling funds from all the sources of development assistance mentioned above, has its merits. Such financing arrangements would, however, require an adequate institutional framework to channel resources originating in Governments and different groups of civil society, including the private sector. 
+The international dimension
+35. At the international level, much of the recent debate on the application of information and communication technologies has taken place within the framework of the World Summit on the Information Society. The first phase of the Summit, which took place in Geneva on 10-12 December 2003, set out the broad framework for building an information society. The Summit concluded with the adoption of a Declaration of Principles and a Plan of Action. The Geneva phase was only the first step, and preparations are now under way for the second phase of the WSIS, to take place in Tunis in November 2005.
+36. Following the Geneva phase, more attention should now be paid to the substantive content of the work to be undertaken between now and Tunis. The Tunis phase should therefore focus on the implementation of the Plan of Action in order to ensure that the outcome of the Geneva summit does not become just a remarkable declaration of intentions.
+37. Further, the development dimension of ICT should receive priority attention in the preparations for Tunis. This requires the identification of the most urgent development needs, policy solutions to address these development needs, and commitments at the national and international level to implement such development-oriented policies. The contribution of ICT to the development process, and the need to help developing countries in their efforts to benefit fully from the opportunities offered by ICT, should receive priority attention. Pragmatic solutions to the two key outstanding issues of the Geneva phase – the issue of Internet governance and financing of ICT – to be developed by the time of the Tunis Summit should also be placed in this broader development-oriented approach. 
+38. Thematic meetings on specific issues could help in focusing on the substantive preparations for WSIS II and should have a central place in the Tunis phase. These meetings should concentrate on the development dimension of the information society and should result in concrete outcomes and real commitments by different stakeholders, in implementation of the Geneva Plan of Action.
+The importance of multi-stakeholder partnerships
+39. The issues involved in maximizing the developmental impact of the information economy are, by definition, cross-sectoral, interdisciplinary and global. These three features point to an approach to strategies to promote competitiveness through ICT that involves the whole spectrum of national economic activity and all relevant segments of society (including academia and civil society). It should also take fully into account the international context in which national actions take place. 
+40. From a wider perspective, policies to foster competitiveness through e-business and e-commerce should be a central part of Internet-related social and economic development strategies at the national and international levels. The objectives of developing countries in areas such as Internet content (through the use of local languages and the promotion of local cultures), infrastructure, or the application of the Internet to education or health can greatly benefit from the mobilization of resources and ideas that ICT, and e-business in particular, are likely to continue to generate in the medium term. This is all the more important because increased adoption of ICT by enterprises and the public sector can help make developing countries more productive and contribute, together with other areas of economic policy and other manifestations of entrepreneurship, to eliminating many obstacles to economic development.
+41. If partnerships between Governments, the business community and civil society players are inherent in the national approaches outlined above, they are equally essential when considering the international dimension of the challenge. The partnerships that will be introduced during the interactive thematic session to which this note relates respond to the identification of a number of issues in which significant benefits could be derived from the combined experience, resources and reach of partners from international agencies, national Governments, businesses and civil society organizations. They are intended to accompany developing countries along the whole path of the design and implementation of national e-strategies, supporting their efforts in the formulation of e-strategies, contributing to addressing key sectoral challenges (such as e-finance for SMEs) and finally enabling developing countries to measure the effects of their policies on the use of ICT in the economy and benchmarking their performance so that policies can be adjusted as necessary.
+42. UNCTAD XI multi-stakeholder partnership activities will be built around the objective of “ICT applications for improving the economic competitiveness of developing countries”, especially as regards trade and development. The partnership is also designed to contribute, within UNCTAD’s mandate, to the preparation of the second phase of the WSIS, scheduled to be held in Tunis from 16 to18 November 2005.
+43. There are a wide range of ICT applications for improving competitiveness for trade and development. The UNCTAD secretariat has experience3 in this regard. In giving support to the following activities, the UNCTAD secretariat will associate itself fully with relevant existing initiatives, so as to take full benefit of the potential synergies and maximize the use of the resources available. In the light of such considerations, the partnership on information and communication technologies for development (ICTfD) to be launched at UNCTAD XI will comprise the following five components:
+* Activities that enable developing countries to take full advantage of free and open source software (FOSS), in particular activities encouraging widespread IT training programmes;
+* An e-tourism initiative designed to give developing countries the technical means to promote, market and sell their tourism services online; 
+* Activities supporting the development of national e-strategies and e-policies; UNCTAD is joining and contributing to ePol-NET, the Global ePolicy Resource Network that provides ICT policymakers in developing countries with the information and assistance needed to develop effective national e-strategies;
+* Activities to improve SME access to finance and e-finance, particularly for short-term working capital and trade requirements;
+* Activities supporting e-measurement and ICT indicators, with the particular objectives of identifying a set of core indicators that could be used by all countries and assisting developing countries in building capacity to monitor ICT developments at the national level.
+
+44. The UNCTAD XI multi-stakeholder ICTfD partnership will be carried out in close collaboration with the United Nations Information and Communications Technology Task Force, itself an excellent example of a partnership approach to facilitating the spread of ICT in developing countries. 
+___________
+1 This issue and related trade logistics issues are covered in the issues note prepared for the interactive thematic session on trade and transport facilitation (document TD/393).
+2 See chapter 3 of UNCTAD's E-Commerce and Development Report 2003 (available at www.unctad.org/ecommerce) for a detailed discussion of the issue of ICT strategies for development.
+3 For example, the successful launching of the Trade Efficiency Initiative, including in particular the Trade Point Programme; the specific applications in the areas of customs automation (ASYCUDA) and the management of transport operations (ACIS); and the management of debt (DMFAS).
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+TD/394
+Page 10
+
+
+TD/394
+Page 9
+
+
+
+
+
+
+
+
+GE.04-50810
+
+

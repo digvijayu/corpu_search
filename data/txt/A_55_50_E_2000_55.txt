@@ -1,0 +1,363 @@
+
+
+	*	A/55/50.
+	**	E/2000/100.
+General Assembly
+Fifty-fifth session
+Item 102 of the preliminary list*
+Globalization and interdependenceEconomic and Social Council
+Substantive session of 2000
+Item 2 of the provisional agenda**
+Development and international cooperation in the twenty-first century: the role of information technology in the context of a knowledge-based global economy[Start1]
+
+		Report of the high-level panel of experts on information and communication technology
+
+
+		Note by the Secretary-General
+
+
+	In accordance with General Assembly resolution 54/231, the Secretary-General has the honour to transmit herewith to the Assembly, for its consideration, the report of the high-level panel of experts on information and communication technology.
+	In response to the General Assembly’s request that this report be made available in early June 2000, this report is also available to the Economic and Social Council, given that the Council will address, at the high-level segment of its substantive session of 2000, the theme of “Development and international cooperation in the twenty-first century: the role of information technology in the context of a knowledge-based global economy”.
+
+		Report of the meeting of the high-level panel of experts on information and communication technology (New York, 1720 April 2000)
+
+
+Contents
+PageI. 	The challenge	4II. 	The opportunity	4III. 	The mission	4IV. 	Summary of findings	5A. Why ICT programmes are beneficial for development	5B. Why now?	6C. Conditions for effectiveness	6D. Actions that worked	7E. Problems and obstacles	7V. 	Ensuring fair and equal participation in the information society	7VI. 	An international ICT action plan	8VII. 	The role of the United Nations in promoting ICT for development	9VIII. 	Conclusions and recommendations	10	AnnexPresentations	12
+
+
+
+
+
+
+		Members of the panel
+
+
+		From Africa
+
+Pascal Baba Couloubaly (Mali), Minister of Culture
+Nii Quaynor (Ghana), Executive Chairman of National Computer Systems
+Sushil Baguant (Mauritius), Chairman of the National Computer Board
+Najat Rochdi (Morocco), President of the Internet Society of Morocco
+
+		From Asia
+
+Wang Quiming (China), Ministry of Science and Technology
+Srinivasan Ramani (India), Director, Silverline Technologies, Inc.
+Taholo Kami (Tonga), Manager of the Small Island Developing States Network
+
+		From Eastern Europe
+
+Toomas-Hendrik Ilves (Estonia), Minister of Foreign Affairs
+Andrei Kolesnikov (Russian Federation), Founder of Russia-on-Line
+Orlin Kouzov (Bulgaria), CEO, National Education and Research Network
+
+		From Latin America and the Caribbean
+
+Pedro Urra (Cuba), Director of the Medical Network, Ministry of Health
+Jose María Figueres Olsen (Costa Rica), former President of Costa Rica
+Tadao Takahashi (Brazil), Chair, Federal Task Force for National Information
+    Society
+Gillian Marcelle (Trinidad), telecommunications policy and gender specialist
+
+		Western Europe and Other Groups
+
+Paolo Morawski (Italy), UN World TV Forum and RAI Radiotelevisione Italiana
+William Sheppard (United States), Vice-President of INTEL
+Anders Wijkman (Sweden), Member of the European Parliament
+
+
+Panellists benefited from presentations by several guests, including Vinton Cerf, Director of the Internet Corporation for Assigned Names and Numbers (ICANN); John Daly, Acting Work Programme Administrator of InfoDev at the World Bank; Gabriel Accascina, Regional Coordinator of the UNDP Asia and Pacific Information Development Programme; Edward Gelbstein, Director of the United Nations International Computing Centre in Geneva; Amir Dossal, Executive Director of the United Nations Fund for International Partnerships; and Denis Gilhooly, Director, Digital Partners.
+
+
+	I.	The challenge
+
+
+1.	The world is undergoing a revolution in information and communication technologies (ICT) that has momentous implications for the current and future economic and social situation of all the countries of the world.
+2.	In March 2000, an estimated 276 million persons worldwide were users of the Internet, with a growth rate of roughly 150,000 persons per day, 220 million devices were accessing the World Wide Web and almost 200,000 devices were added each day. Web pages totalled 1.5 billion with almost 2 million pages being added each day. Ecommerce, or business conducted over the Internet, totalled $45 billion as recently as 1998 and an estimate in January 2000 projected it could explode to over $7 trillion as early as 2004.
+3.	These are astonishing figures, unprecedented by any measure, but they reflect activity by less than 5 per cent of the world’s population. The gross disparity in the spread of the Internet and thus the economic and social benefits derived from it is a matter of profound concern. There are more hosts in New York than in continental Africa; more hosts in Finland than in Latin America and the Caribbean; and notwithstanding the remarkable progress in the application of ICT in India, many of its villages still lack a working telephone.
+4.	The formidable and urgent challenge before national Governments and the development community is to bridge this divide and connect the remainder of the world’s population whose livelihoods can be enhanced through ICT. As each day passes, the task becomes much more difficult. To give just one example, exploding ecommerce ties individuals, firms and countries closer and closer together, while those who do not try to catch the “Internet Express” run the risk of being further and further marginalized. Developing countries have great potential to compete successfully in the new global market, but unless they embrace the ICT revolution promptly and actively, they will face new barriers and the risk of not just being marginalized but completely bypassed.
+
+
+	II.	The opportunity
+
+
+5.	Members of the panel, coming from all regions of the world and from countries at all stages of development, are unanimous in their belief that the issue is not whether to respond to the challenges brought about by the revolution in ICT, but how to respond and how to ensure that the process becomes truly global and everyone shares the benefits. The experience of a number of countries, including developing and transition economies, some of them working under conditions of a severe shortage of resources, complex political environments and acute socio-economic problems, demonstrated that bold actions in bringing their countries into the digital age paid off and brought tangible positive results in economic, social and political terms. Moreover, this experience has proved that the argument that ICT should only be introduced once progress has been made in tackling poverty is spurious: ICT brings early, tangible and important benefits to the poor. These countries, by extensively and innovatively using ICT for their development, were able to extract value from globalization, rather than watching globalization extract value from them.
+6.	This report seeks to summarize this experience so that other countries could benefit from lessons learned and find their own approach to bringing ICT to the service of their development. The report also identifies areas and actions that the international community, in particular the United Nations, should undertake to support national ICT programmes.
+7.	In the present report, we share our convictions, formed and tempered by our practical experience, as to why all countries need to embrace the ICT revolution, and why now. We outline a set of actions that worked for our countries, discuss important conditions for these actions to be effective and identify problems and obstacles that need to be addressed to assure the effectiveness and sustainability of the contribution of ICT to development for all.
+
+
+	III.	The mission
+
+
+8.	We firmly believe that, at the national level, Governments, the private sector and all segments of civil society must unite to address this challenge. We also assert that the international community, especially the United Nations, has a special obligation to assist countries in maximizing the benefits they can secure from ICT.
+9.	In this regard, we present our proposals and recommendations on how to bring greater coherence and synergy to the many uncoordinated activities currently undertaken, with limited effect, by individual organizations of the United Nations system, including the World Bank, by the European Union, the Organization for Economic Cooperation and Development and numerous other multilateral and bilateral organizations.
+10.	The panel believes that the international community, working in concert with national Governments, private business and civil society, is fully capable of reversing the current alarming trend of the growing “digital divide” and must do it. The panel calls on all actors to unite in a global initiative to meet the following challenge: provide access to the Internet, especially through community access points, for the world’s population presently without such access by the end of 2004.
+11.	The panel proposed the following action points for reaching this goal:
+	(a)	The United Nations, at the Millennium Assembly in September 2000, should proclaim the right of universal access to information and communication services, such as the Internet, as an important new component of the United Nations principles and conventions on human rights and development;
+	(b)	The United Nations should create, under the leadership of the Secretary-General but outside United Nations organizational structures, an ICT task force. This task force should bring together multilateral development institutions, private industry, foundations and trusts and would facilitate, including by investment, the expansion of the market for ICT in developing countries, thereby helping to bridge the digital divide;
+	(c)	This task force would provide overall leadership and strategy for ICT development. A fund should be created that the task force would administer and for which up to $500 million would be solicited from sources such as the United Nations Fund for International Partnerships. This amount would be matched by funds raised from the private sector and foundations. The fund will leverage additional resources by assisting developing countries in implementing their own ICT programmes, provided they match the contributions from the fund;
+	(d)	Organizations of the United Nations system should work with Governments and financial institutions for the writing off of 1 per cent of the debt of each developing country with the commitment that the country would allocate the equivalent financing for ICT development. In a similar manner, the United Nations should work towards countries receiving international financing for ICT development on the basis of their progress in carbon-fixation activities.
+
+
+	IV.	Summary of findings
+
+
+12.	A number of general conclusions emerged from the presentations and discussions. A basic premise is that knowledge differs from other factors of production in that it expands when applied. The challenge of a knowledge-based economy is not a scarcity of knowledge but inadequacies in diffusing and using it. Unlike capital resources, knowledge cannot easily be redistributed as a result of political decisions, it needs to be nurtured — by individuals, communities and countries. The State has an interest and an obligation to promote this nurturing and to ensure that its citizens have access to ICT tools and services.
+
+
+	A.	Why ICT programmes are beneficial for development
+
+
+13.	ICT has been extremely beneficial to those nations that have used it with determination and enthusiasm as part of their national development strategies to accelerate development, as demonstrated by the country examples (see annex). While benefits from ICT investments may not be immediately perceptible in all cases (several years passed before such evidence became available in the United States following investments in ICT in the 1980s), panellists urged nations that had not yet launched national ICT initiatives to catch the “Internet Express” without further delay.
+14.	Among examples of positive impact of the introduction of ICT were the following:
+	(a)	Direct contribution of the ICT sector’s output to the economy, in particular to exports. In this regard, the examples of India and Costa Rica are particularly striking (see annex);
+	(b)	Providing rural communities with convenient on-line access to a full range of government services was seen as a significant instrument for improving their well-being and enhancing the sense of belonging, both of which could discourage excessive migration to urban centres;
+	(c)	Voting by computer had alleviated scepticism about the possibility of fraud in elections;
+	(d)	Improvement in public sector administration, in particular that transparency in the procurement process for public service contracts had reduced corruptive practices;
+	(e)	Tremendous potential for improving education, including distance learning and training, and for facilitating better gender balance in this regard;
+	(f)	Important improvements in the delivery of services such as health care, including through the application of telemedicine;
+	(g)	Employment generation that has been attributed to the ICT sector, especially among recent graduates from high schools as well as technical colleges and universities;
+	(h)	For small developing and transition economies with limited natural and human resources, in particular for small island developing States, using ICT is perhaps the only way to carve niche markets for their unique endowments;
+	(i)	Diffusion of best practices and lessons learned, in particular the exchange of information on locally/regionally appropriate solutions;
+	(j)	Empowering of communities with the resultant easing of the burden on the Government to provide services;
+	(k)	Enabling countries to monitor ecological situations and maintain environmental stability.
+
+
+	B.	Why now?
+
+
+15.	There are no excuses for lack of action:
+	(a)	Technology is no longer a major barrier to placing ICT in the service of development, since technological solutions exist for almost any need or situation. The costs of equipment and materials, currently at one fifth of the levels five years ago, are projected to decrease to only one fifth of today’s prices within five years. At the same time, panellists were emphatic that no State should use this anticipated decrease in installation costs as an excuse to delay action since the aggregate costs of delay will far outweigh savings on the cost of equipment;
+	(b)	Inadequacy of infrastructure (for example, for assuring connectivity or access for remote areas) can be overcome by determined government policies aimed at building demand for ICT, which in turn leads to expansion of the infrastructure;
+	(c)	Emerging e-commerce is rapidly becoming a new and very significant trade barrier for those who are not connected;
+	(d)	While costs of ICT projects are, of course, a matter of concern for Governments, the panellists’ experience proved that relatively modest investments in key sectors, such as health services, relying perhaps not on the most modern technology, brought quick and substantial results.
+
+
+	C.	Conditions for effectiveness
+
+
+16.	The importance of strong political leadership, of a national leader or champion to lead the ICT campaign cannot be overemphasized. When leaders such as Heads of State committed their prestige and authority, rapid progress resulted. But a leader need not necessarily be an individual — it can be a successful network in health or education, for example. The ICT campaign must be part of a clear national strategy and plan for the use and application of ICT within the country.
+17.	To be effective, ICT initiatives require a competitive telecommunications environment or the certainty that such an environment will shortly be created.
+18.	Decision makers in the public sector need to recognize the valuable contribution the private sector and civil society can make in the area of ICT. The role and support of the media has also been important. Some panellists commented that high-level political support needs to be complemented by support from the civil service. ICT operations both generate and eliminate jobs and senior civil servants need to make sure that the benefits from computerized operations are well understood and that training and retraining programmes are offered.
+19.	Prominence of local content is necessary to ensure wide diffusion of use of ICT. In this regard, development of local language character sets for computer interface is critical.
+
+
+	D.	Actions that worked
+
+
+20.	From an analysis of the experiences of the panellists, it is clear that there is no one single formula for a successful ICT programme. Every ICT strategy and plan should be tailor-made to fit a particular national context. This having been said, a number of actions were seen as important for the success of ICT initiatives:
+	(a)	Clear focus and narrowly defined, realistic objectives for ICT projects;
+	(b)	Establishing a legal and regulatory framework, including intellectual property rights, information technology and telecommunications acts;
+	(c)	Tax and customs incentives and loans at concessional rates to speed up the growth of the ICT-based services sector;
+	(d)	Early support for ICT initiatives can be gained through the use of entry points, such as education, health, public administration and ecommerce. Outreach campaigns, including travelling demonstrations and competitions, have proved to be effective means of raising awareness and winning support;
+	(e)	Development of local content as a result of national technological initiatives to develop local language character sets for use in computer interface for the countries where a significant part of the population neither speaks nor reads English;
+	(f)	A determined effort to use ICT to help to integrate isolated rural populations into the national economy;
+	(g)	Depoliticization of the computerization issue by, for instance, establishing a non-governmental organization foundation that received government monies for hardware and software, and was tasked with determining the order in which communities would benefit;
+	(h)	The provision of public access points, such as cybercafés, community centres and telecentres, has proven very successful and should be a key component of the action plan to extend connectivity;
+	(i)	The issue of affordable access costs should be addressed by the public sector authorities, taking into full account the benefit that ICT brings in improving the performance of public administration;
+	(j)	A strategic psychological approach whereby, first of all, each recipient of ICT hardware, software and services was required to contribute up to half of the costs involved, thus creating a sense of ownership, and, subsequently, building on the spreading sense of “envy” in the neighbouring communities without comparable equipment;
+	(k)	Use of defence budgets for the purposes of creating an ICT infrastructure that could in the interim, security situation permitting, be used as resource for education and provision of other services.
+
+
+	E.	Problems and obstacles
+
+
+21.	Panellists voiced their concern about several issues connected with ICT development. The cost of Internet usage is the key issue, with typical charges still far exceeding levels that would permit popular use. Other issues raised included the security of on-line transactions, computer crimes, the protection of intellectual property rights, the feasibility of restrictions on Internet traffic containing material that could be considered offensive or that might threaten social stability, and lack of participation by developing countries in the management of the Internet, in particular the assignment of top-domain names.
+
+
+	V.	Ensuring fair and equal participation in the information society
+
+
+22.	The potential for ICT to contribute to human development, including elimination of gender disparities, is currently compromised by unevenness in the pace and spread of these technologies and the differential effect that their rapid diffusion produces across social structures. Urgent reform and actions are required at both the national and international levels to ensure that ICT produce their optimal benefits on the basis of fairness:
+	(a)	Identification and eradication of factors that restrict equal participation of men and women in the ICT sector, in particular discriminatory and unequal access to education and training, social pressures that limit women’s and girls’ access to science and technology activities in general and limit their access to training and necessary ICT equipment in particular, and labour market segmentation;
+	(b)	Encouragement of corporate practices within firms in the ICT sector that ensure overall fairness in employment conditions, in particular with respect to the recruitment and retention of women;
+	(c)	Ensuring that the diffusion of ICT produces a positive impact on job creation and conditions of employment, and in particular for women’s employment, employment of marginalized groups, such as the disabled, by providing fair access to retraining and reskilling programmes;
+	(d)	Active encouragement and programmes for young people, male and female, to access the new economy and use ICT in schools and in other educational endeavours;
+	(e)	Democratization of ICT policy processes that facilitate the active participation and full integration of advocates of human development concerns. In particular, ICT sector reform and governance processes should involve the full participation of a wide range of civil society organizations;
+	(f)	Strengthening the capacity of civil society organizations, including women’s organizations, so they may participate more effectively in the transformations made possible by the ICT sector;
+	(g)	Active encouragement of partnership efforts to allocate and direct research and development budgets to design and development of ICT services and applications that serve social and development objectives, including applications for non-literate communities, content development, human-computer interfaces that are non-text based and natural language processing systems.
+
+	VI.	An international ICT action plan
+
+
+23.	There is an urgent need to develop and launch an international ICT action plan. The Millennium Assembly would provide an appropriate forum for an initiative of such magnitude. The overall target should be to bring connectivity to all communities by the end of 2004, drawing on the full range of available technologies ranging from television to cellular telephones to computers. In view of the magnitude of the task and of its immense potential benefit to the poorer people of the world, and in order to gain momentum and move the process forward, the Panel believes that action should be started immediately, where possible, while for those actions that require preparation, specific and early target dates should be set as soon as possible. The Panel expected that creative and flexible approaches could be developed and preparatory work begun even prior to consideration of the Panel’s report by the General Assembly at its fifty-fifth session.
+24.	At the policy level, suggestions included:
+	(a)	Adoption, in bodies such as the Economic and Social Council and the General Assembly, during 2000, of resolutions that, first, recognize the importance of ICT in national development plans; second, call for a much higher profile for ICT in official development assistance portfolios; and third, request all parties, specifically public and private sector initiatives at the national level as well as bilateral and multilateral programmes, to re-examine their ICT policies to ensure that equal opportunities are being provided to all sectors of society;
+	(b)	Adoption of a national ICT strategy by mid-2001 including, as a first step, setting of minimal connectivity targets to be reached within a year;
+	(c)	Development, on an urgent basis, of the United Nations system’s clear, comprehensive and coherent policy and strategy for the use of ICT as a tool to improve the delivery of services to Member States, with a view to adopting such strategy no later than mid-2001;
+	(d)	Implementing of this ICT strategy, on a priority basis, by the Administrative Committee on Coordination, the United Nations Development Group and individual organizations of the United Nations system;
+	(e)	Development, on an urgent basis, of a comprehensive programme for transforming the United Nations into a knowledge organization. Such a programme should contain a coherent set of training and organizational measures aimed at bringing the Organization’s collective mindset into the digital age.
+25.	Some suggestions for development initiatives included:
+	(a)	Building on the ongoing initiatives of the Secretary-General, form, as soon as possible, a strategic alliance between the United Nations, the private sector and financing institutions. The alliance, which would be responsible for promoting the international ICT action plan, would be spearheaded by the ICT task force (see para. 11 above). The alliance should introduce a simplified and very rapid approval process for the allocation of funds for ICT projects in developing and transition countries. The alliance should aim to mobilize a fivefold increase in funding for ICT projects by mid-2001 and a further doubling by mid-2002;
+	(b)	Prepare, under the auspices of the United Nations programme for technical cooperation among developing countries, a special programme to intensify South-South cooperation in ICT for development projects, including ideas and projects for enhancing direct connectivity among developing countries;
+	(c)	Start immediately an active exploration of new, creative financing initiatives for ICT, including a debt-for-connectivity fund and the linkage of the provision of financing for ICT to actions in developing countries that have a direct positive impact on global warming;
+	(d)	Start immediately an exploration of measures that would reduce the average cost of access to the Internet within developing countries by a factor of five by the end of 2001 compared with the beginning of 2000;
+	(e)	Facilitate an increase in the number of computers supplied to developing countries by a factor of 10 by the end of 2001 compared with the beginning of 2000;
+	(f)	By the end of 2001, mobilize 30,000 new ICT trainers, primarily from developing countries, for training programmes in developing countries. This should be undertaken in conjunction with the initiative for a United Nations Information Technology Service (UNITeS) announced by the Secretary-General in his Millennium report (see A/54/2000, paras. 166-167);
+	(g)	Facilitate a tenfold increase in national training and education budgets for ICT by the end of 2001 relative to allocations at the beginning of 2000.
+
+
+VII.	The role of the United Nations in promoting ICT for development
+
+
+26.	Global initiatives, such as achieving sustainable development, alleviating poverty, improving governance, combating HIV/AIDS, gaining gender equality or tackling climate change, require a broad, integrated response by national, multilateral and bilateral actors. The potential benefits of the ICT revolution to economic and social development, including the achievement of the goals mentioned above, are of such magnitude that they warrant global action.
+27.	Similarly, the current inequities in participation in the ICT revolution dictate the necessity of coherent action on the part of the international community. The global challenge of bridging the digital divide requires a global response.
+28.	The United Nations could potentially become a major force in promoting and fostering the application of ICT for development and in serving as a possible arbitrator with respect to certain key legal and policy issues, such as security and intellectual property rights.
+29.	The United Nations can be instrumental in helping its Member States to overcome existing cultural and mental barriers that are currently among the major impediment in the pursuit of the benefits of ICT for development. The United Nations should help developing countries understand challenges and options in this area.
+30.	The United Nations could compile an inventory of ICT-related activities for development worldwide to provide developing countries with more informed choices in selecting technologies, approaches and communication partners and providers.
+31.	The panellists were informed about the recent initiatives of the Secretary-General contained in his Millennium report, in particular the establishment of a United Nations Information Technology Service (UNITeS). They welcomed this initiative and suggested that the implementation strategy be configured, taking into account that: 
+	(a)	Opportunities for mobilizing national human resources should be given priority; 
+	(b)	Training trainers in-country should have priority; 
+	(c)	Every effort should be made to identify national volunteer candidates, including professors and teachers (both men and women); 
+	(d)	States could be encouraged to consider the idea of substituting ICT service for military service;
+	(e)	Care should be given to ensuring that this initiative empowers indigenous private ICT entrepreneurs rather than crowding them out.
+32.	The United Nations should lead by example in providing fair and equal access to ICT among all sectors of society and specifically by addressing current disparities that restrict equal participation by women and other marginalized groups. No segment of the population can be left behind, handicapped by the absence of information, knowledge and expertise. But rather than focusing on the potential divisiveness of a digital gap, the international community, and especially the United Nations, should look at the situation as a source of opportunities for economic and social growth, providing “digital dividends”. To obtain these dividends, though, one must accept the view that ICT is a potent tool for bridging the gap between rural and urban areas, between those who govern and those governed, and between developed and developing countries.
+33.	Regional cooperation in the implementation of ICT pilot programmes and purchase arrangements for ICT equipment should be encouraged, strengthened and supported. The international community, and in particular the United Nations system, can provide information on technological choices and options and in so doing reduce the cost of searches. The United Nations could also contribute to a more systematic, ongoing identification, review and dissemination of ICT information, case studies, best practices, and successful models and become an important “knowledge bank” in this regard.
+34.	The panellists believed, however, that for the United Nations to play an active role in a major global ICT initiative for Member States, the Organization must itself get its own ICT house in order by, first of all, adopting a coherent ICT strategy that would ensure coordination and synergy between programmes and activities of individual organizations of the system. The United Nations should also review how its outreach activities using television and radio could be more closely integrated with information technology activities.
+35.	Organizations which regularly publish indicators that assess development, including the World Bank and the United Nations Development Programme, should reconsider their treatment of the “connectivity factor”. It is rapidly becoming a more significant factor in economic and social development, and its measurement should factor in connected schools and universities, libraries, hospitals and even public administration. Treatment of ecommerce activities may be more controversial, but may likewise become an indicator for measuring economic activity.
+
+
+	VIII.	Conclusions and recommendations
+
+
+36.	ICT is already making an important contribution to economic and social development, but this contribution can be much more powerful. ICT is fostering a better mutual understanding among tens of millions of people in countries with different economic and social policies. It is enhancing appreciation of the challenges that Governments and the United Nations are confronting as they promote global economic growth, social equity and sustainable development. In this context it is important that developing countries give priority to developing indigenous content and that this content be shared with developed countries.
+37.	In general, the international donor community has not yet implemented a well-coordinated, forward-looking and strategic programme for the use of ICT in development. There has been much talk but little action. Some panellists noted that modest, strategic investments in ICT had yielded large dividends. Unfortunately, the opportunities for rapid growth of some initiatives continued to be severely hampered by the lack of serious financial support.
+38.	The private sector is and, for the foreseeable future, will remain the principal driving force for the development and use of ICT. Marketing forces and strategies should be outlined whereby both industry and the Member States are placed in a win-win situation.
+39.	It is a matter of urgency that the United Nations system adopt a coherent institutional strategy that incorporates the use and application of ICT in its own work. Failure to do so quickly will result in considerably increased cost in the future and a far greater challenge to catch up.
+40.	Member States should require the United Nations to move much more rapidly to use ICT to improve the efficiency of its own services, including for development planning and project implementation, and the requisite human and financial resources should be allocated to achieve this goal. The United Nations should provide a structure for continued discussion of the theme of ICT for development.
+41.	Member States, particularly developing countries, should evolve a vision of ICT for development and a suitable plan of action. High priority must be accorded to the following: a forward-looking regulatory framework; proactive efforts for improved exploitation of ICT, including efforts to improve the delivery of public services over the Internet; education and training in ICT and the use of ICT in education and training; commitment to the promotion of gender equality, particularly in education and training in the ICT area; job creation; telecommunications regulatory policies that encourage the development and usage of wide area networks; promotion of the exchange of experiences and sharing of training facilities on a South-South basis; partnerships with the private sector and civil society; and efforts to provide universal access to ICT and its applications.
+42.	The international community should assist developing countries in expanding national and regional ICT infrastructures by facilitating and expanding access to financial resources for the importation of equipment and services, arranging and encouraging financial intermediaries to design creative mechanisms, including supplier credits, insurance schemes and concessionary financing. 
+43.	A new strategic alliance should be formed that includes the United Nations, private industry and financing trusts and foundations. The United Nations should promptly and seriously re-examine the role it can effectively play in any such alliance and the resultant new ICT initiative for Member States. Unless a progressive ICT policy and strategy is adopted in the next two to three months, the role of the United Nations would be limited to promoting ICT, brokering transactions on behalf of Member States and possibly serving as an arbitrator with respect to certain policy issues and activities related to the protection of intellectual property rights, security and preventing crime on the Internet.
+44.	The United Nations should find ways to promote and facilitate investment by private ICT companies in the research and development of technologies, products and services that would contribute to raising the literacy levels in developing countries. This would create a win-win situation for all involved since it would not only have immediate social benefits but would also eventually increase the market for ICT products.
+45.	The United Nations should quickly establish an effective mechanism for close interaction with the Internet Corporation for Assigned Names and Numbers (ICANN) to ensure that the claims of Member States concerning issues such as top-level domain name policies and procedures and representation in Internet administrative mechanisms are speedily addressed and resolved. The purpose of United Nations engagement should be to complement ICANN and other governance bodies in areas currently not covered by them.
+
+Notes
+	1	See the annex for summaries of country and regional presentations.
+
+Annex
+
+
+		Presentations
+
+
+		National and regional presentations
+
+
+1.	As the first step to providing down-to-earth advice and recommendations, panellists outlined their own ICT experiences in anticipation that it would be possible to identify elements that were common to success as well as to failure. Fourteen presentations (twelve national and two regional) confirmed that ICT initiatives have not been confined to countries with high per capita incomes, well-developed infrastructures, high levels of venture capital and a highly trained labour force. Remarkable progress is evident where some of these elements have been lacking, as is illustrated by the experiences described below. 
+2.	In Brazil, initiatives regarding the diffusion of Internet in the country date back to 1988, when three research institutions deployed direct links to NSFnet/ESnet in the United States. In 1989, a national effort, the Brazilian Research Network, was launched in order to plan and oversee the diffusion of networking in academic institutions. As of 1995, almost all universities and research centres in Brazil were interconnected, serving an audience of some 150,000 users. A major move was then made by the Government through the definition of directives for open Internet services in Brazil and the creation of a steering committee (composed of representatives of Government, academia and business) to direct the future of the Internet in the country. In the ensuing five-year period, the Brazilian Internet market has skyrocketed to over 7 million individual users connected through 200 thousand hosts. Internet-based applications have been widely disseminated within the Government as well, to the extent that, for example, in 2000, 8 out of 10 people have forwarded income tax Forms through the net.
+3.	A new cycle of Internet infrastructure and services in Brazil is now being planned by a newly launched initiative, the Information Society Programme, coordinated by the Ministry of Science and Technology, with a budget for the 2000-2003 period of US$ 1.7 billion. Main lines of action in the programme include market and jobs, on the one side, and universalization of services, on the other side. Current plans include, for instance, the interconnection of all public libraries and the creation of thousands of community access centres throughout the country.
+4.	The ongoing experience of Bulgaria illustrates the challenges that still need to be met in some countries with economies in transition before ICT can more effectively contribute to economic and social development. When Bulgaria was a trade partner within the former communist bloc, it was assigned the responsibility for the development of several high-technology sectors, including microelectronics. Thus, a substantial body of highly educated and skilled ICT specialists, including electrical engineers and programmers, was built up. Following the break-up of the bloc, Bulgaria abruptly lost almost all of the market for its products, and industries were downsized over the following years, which eventually encouraged emigration by a large number of the nation’s top specialists.
+5.	Today, there are approximately 200,000 Internet users in Bulgaria, but the potential for very rapid growth is underlined by the fact that there is a high literacy rate and more than 4,000 schools, 40 universities and almost 100 scientific divisions and institutes of the Bulgarian Academy of Sciences. The Government of Bulgaria is now exploring new market opportunities and preparing legislation that will encourage the reinvigoration of industries, such as those in the ICT field. Agriculture and tourism are two sectors that could significantly benefit from an ICT programme. However, progress is hampered by the lack of institutional reforms, especially privatization of the telecommunications authority, which remains a State monopoly. The situation calls for an ICT champion to lead the reform process (this need not be restricted to an individual; it could be a successful network in the health or education sector, for example). However, despite several recent networking initiatives, such a champion has not emerged primarily because of a lack of political understanding of the modest investments that are necessary for the Internet to be demonstrably successful.
+6.	The Internet has been an important instrument of choice for the Government of China as the country moves from a rigid centrally planned economy to a socialist market economy. Between April 1994, when the first 64 Kpbs leased line was opened, and the end of 1997, only 300,000 computers were connected to the Internet and web sites numbered 1,500. By the end of 1999, the number of connected computers had surged to 3.5 million and over 9 million users were connected to the Internet: 1 million through leased lines, 7 million through dial-up connections and 1 million using both. Another 200,000 users are connected using mobile phones and personal digital assistants and this sector is growing very rapidly. There are now 35.6 million email accounts and nearly 50,000 top-level domain names registered (.cn), of which 39,000 are registered as dot.com. Total bandwidth of the leased international connections has been increased to 351 Mbps. Distribution of Internet access, however, remains unsatisfactory with the 10 coastal provinces, in which 42 per cent of the nation’s population lives, accounting for 71 per cent of users, whereas the 7 most western provinces account for 20 per cent of the population but only 5 per cent of Internet use. Great efforts are under way to increase connectivity with the rural population. There are five large Internet service providers, all State-owned, three of which are in commercial operation, including one, Chinanet, with 83 per cent of the total number of accounts. In March 2000, these five Internet service providers were connected within China for the first time and bandwidth was increased 15-fold to 1G. Private Internet service providers are permitted, although connectivity through the five State-owned Internet service providers is required. Currently, there are roughly 520 Internet service provider and 1,000 Internet content provider accounts, many of which are financed with private or joint-venture capital. The 1,000 web sites providing e-commerce support services generated an estimated $55 million in 1999. China’s rapidly expanding telephone system has reached 110 million connections. Cellular telephone growth is the fastest in the world: it has exploded to over 50 million units since 1994. The Government is aware that ICT is indispensable to economic and social development, but it is also sensitive to the issue of restricting access to certain types of information to help to ensure social stability.
+7.	Reasons for progress in ICT include:
+	(a)	Appreciation of the fact that ICT is indispensable for economic and social development;
+	(b)	Development of local content as a result of a national technological initiative to develop Chinese character sets for use in ICT since over 95 per cent of the population neither speaks nor reads English. Very rapid expansion of ICT activities followed the achievement of this goal in 1996;
+	(c)	A proactive campaign to complete joint-venture agreements with hardware and software manufacturers whereby production facilities are established in China;
+	(d)	Government programmes to accelerate training and education in ICT; initiatives to encourage credit card security to further stimulate ecommerce, which is poised to explode; and an appreciation of the need to enforce legislation protecting intellectual property rights.
+8.	Challenges remain, including:
+	(a)	Sensitivity about access to certain types of web sites which may threaten social stability along with recognition that denying access is becoming less and less realistic;
+	(b)	The need to address the problem of security from hackers and virus attacks, which is used by some to argue for Internet control;
+	(c)	The difficulty during a period of transition to a socialist market economy to understand how and at what pace market forces will determine the value of information without disrupting growth of ICT and the steps necessary to encourage investment in Internet service providers and Internet content providers. Many of the latter may fail without advertising and venture capital. Opening the stock exchange to these entities in June 2000 is under consideration.
+9.	In Costa Rica, political capital has been invested in the national sustainable development programme and the ICT sector was used to turbocharge the country to help it move its national development strategy forward. Costa Rica attributes much of its recent economic growth to the widespread adoption of ICT, and in this regard its experience conforms to that of some other small countries with limited natural resources. Some of the reasons for success include:
+	(a)	Strong political leadership and the determination to allocate part of the national budget to the growth of ICT;
+	(b)	Initial focus on the education sector nationwide as well as a determined effort to use ICT to help to integrate isolated rural populations into the national economy.
+10.	ICT applications for possible replication in other countries include:
+	(a)	The installation of computer laboratories in 100 per cent of the nation’s public high schools, impacting on 50 per cent of the children enrolled in public schools;
+	(b)	The introduction of “smart cards” nationwide and their widespread application with respect to public administration, transportation, public telephones and health services;
+	(c)	The development of self-contained multi-purpose/multimedia mobile units that can be taken to any rural community and provide a variety of functions, including Internet access, training in ICT, a small theatre and e-mail facilities. These units, called “LINCOS” (little intelligent communities), use abandoned cargo containers to house computers and peripherals and have their own generators. They have been designed in collaboration with the Media Laboratories of MIT. Although they cost about $70,000 in the present pilot stage, this cost is expected to decrease significantly once production increases;
+	(d)	An innovative ICT-based inventory of the entire biodiversity of the nation using bar-coding technology.
+11.	Cuba was in the midst of a blockade and an epidemic when it launched Infomed, a national network of the public health system. Created when there was no information infrastructure in the country, it began as a simple network approach to sharing knowledge and facilitating access to information via e-mail. It used the best available technologies. Since its inception, the network has been expanded to enjoy nationwide coverage with regional and provincial nodes; it has a virtual library component covering medical journals; and it has contributed to the building of national capacity to manage new information technologies and empower people. Infomed succeeded because:
+	(a)	The proposal received the highest level of political support based on the understanding that ICT can lead to improvements in socio-economic conditions;
+	(b)	Resistance to the idea of making certain types of information, such as medical records available to the public, was overcome;
+	(c)	The project was clearly focused with narrowly defined, realistic objectives;
+	(d)	The initiative was driven by a vision of a knowledge network that could lead to broader applications, especially in the area of education as it relates to health.
+12.	Estonia had a very low level of ICT technology and activity when independence was restored in 1991. Government offices and some private companies were sparsely equipped with old mainframe mini-computers; there were two mobile phones in the Ministry of Foreign Affairs, virtually no computers in private hands and a per capita income of $600. Today, the country has one of the highest degrees of connectivity in Europe and ranks among the top 20 nations worldwide. All schools have been connected to the Internet; 80 per cent of bank transfers are made over the Internet; 28 per cent of the population is connected to the Internet either at home or at work compared with just 7 per cent in 1997; annual per capita income is $5,000; and dial-up service is the least expensive in Europe. “Smart cards” have been introduced and legislative and administrative preparations completed for their application on a nationwide basis in 2001 for services requiring interaction with the public administration, hospitals, public transportation and public telephones. Progress required:
+	(a)	An understanding that improved connectivity could contribute to the survival of a small, newly independent country. In this context, a clear picture of both the national as well as the regional situation was essential for planning;
+	(b)	Belief that ICT could help to bridge the gap between poverty and wealth and in particular encourage the rural population to remain in situ because it felt connected and a part of the urban world;
+	(c)	Creation of the requisite infrastructure through a concession agreement with Swedish and Finnish telecommunications operators by which they modernized the telephone network in exchange for profits from the telecommunications business;
+	(d)	Depoliticization of the computerization issue, whereby a non-governmental organization foundation with a catchy name (Tiger Leap) received Government monies for hardware and software and determined which communities would benefit;
+	(e)	A strategic psychological approach whereby any recipient of a computer was required to pay 50 per cent of its cost, thereby increasing the sense of ownership and leveraging the envy created on the part of those without equipment to increase connectivity;
+	(f)	A professional and aggressive marketing and advertising campaign.
+13.	Ghana is a leading ICT country in the West African subregion and is providing technical support services to neighbouring countries. Ghana was the first West African country to attain full connectivity to the Internet in 1994 through a private-sector initiative. The sector is managed by the Ministry of Communication, an independent regulatory agency and private-sector operators. There are two national telecommunications operators, four cellular operators, five Internet service providers, three television operators, and dozens of FM and community radio stations. An offshore knowledge industry is developing and targeting data entry, call-centre applications, software development for export and design centre applications.
+14.	As a gateway to the subregion, Ghana has developed a strong Internet protocol economy with sufficiently large international bandwidth capacities to support its emerging information economy. There are now special programmes for networking schools, for distance learning, and for telemedicine applications under development in the national information plan (URL:www.nici.org.gh). Although ecommerce is in its infancy compared with traditional commerce, there is a growing industry with storefronts serving both the local and international markets.
+15.	Internet access is now widely available throughout India and the mobile phone network is rapidly expanding. Software development and expansion of the service industry have been impressive. Progress with the development of telecommunications has likewise been satisfactory. Over 200,000 professional jobs have been created in ICT-related activities. Exports from the software development and services sector earn approximately US$ 40 million a week. The service economy already contributes more than 60 per cent to the economies of cities such as Mumbai. Hundreds of domestic companies have sprung up to meet the demand. ICT-enabled services provide support to hundreds of other businesses elsewhere in the world, for example, in legal, accounting and the insurance industries. Using ICT for development is an essential motor for the growth of the Indian economy. Reasons for progress include:
+	(a)	The setting up of a high-level information technology task force by the Government and quick implementation of its comprehensive recommendations;
+	(b)	The focus of research, education and training facilities on the creation of a highly skilled, creative workforce;
+	(c)	Provision of tax incentives to speed up the growth of the ICT-based services sector (which industries are now progressively repaying);
+	(d)	Availability of a large English-speaking and literate population.
+16.	Mali has benefited since 1997 from the United States bilateral Leyland initiative, which aimed to bring connectivity to some 20 countries in Africa. Today a VSAT antenna with 128 Kbps permits access to 16 lines through the Association of Telecommunications of Mali, SOTELMA, and 10 lines at 64 Kbps for ISPs. Five Internet service providers have commercial agreements with SOTELMA following competitive bidding and a sixth is under consideration. User growth has increased from 800 in 1997 to 4,500 today, although 98 per cent are in Bamako. Although telephone lines are already saturated, the demand for services is increasing and major investments to improve capacity are needed. To compensate for ongoing shortcomings, major emphasis has been given to encouraging the growth of public access points, such as cybercafés. Today, Mali benefits from ICT in applications such as telemedicine, long-distance learning and ecommerce. Non-governmental organizations have become more active, including special initiatives for youth, and hotels offer Internet connectivity to their clients. The impact of ICT on economic and social development has been so positive that current plans call for connecting the University as well as all 701 communes throughout Mali. The country has also taken steps to share its positive ICT experience through “Bamako 2000” in March 2000, which brought together 2,000 participants from 48 countries. Progress was made in ICT owing to: 
+	(a)	The full support and personal engagement of the President of the Republic;
+	(b)	The collaboration of a donor who listened to national aspirations;
+	(c)	Repatriation of the domain name by France in November 1997;
+	(d)	The creation of a competitive environment for the telecommunications sector.
+17.	Constraints to further expansion include:
+	(a)	The need for venture capital;
+	(b)	The costs for connectivity, which vary between Internet service providers but which can be as high as $30/month, beyond the purchasing power of most citizens.
+18.	Mauritius adopted five objectives for its National Information Technology Strategy Plan, developed in 1997:
+	(a)	Enable the services sector to grow into a business hub;
+	(b)	Improve the efficiency and effectiveness of the public sector;
+	(c)	Bring Government closer to the people through eGovernment;
+	(d)	Use ICT to enhance the education system and the service sector;
+	(e)	Enhance the competitiveness of business in the global market.
+19.	The intent was to achieve an eGovernment; to close the digital divide within the country and also between Mauritius and other countries; to ensure access to information to everyone and from anywhere and at any time; and to bridge the technology gap by focusing on skills development and leverage on knowledge capital and the highly educated population. Many actions have been taken to achieve these goals, including:
+	(a)	Creating a fully digitized network within the country using the latest Broadband ATM technology; establishing 10M bit links with international networks, which are to be upgraded through the South Africa/Far East optical cable to 80 gigabits by the third quarter of 2001;
+	(b)	Establishing a legal and regulatory framework, including copyright, information technology and telecommunications acts; a policy statement on the telecommunications sector in October 1999; and an Electronic Transactions Bill this year. In January 2000, the Mauritius Telecommunications Authority was established as the new regulator which will ensure enforcement of the telecommunications act and level playing field for all stakeholders. New Internet service provider licenses will be issued in June and complete privatization of the sector is set for 2003;
+	(c)	A dedicated Ministry was created to set the tone of highest commitment for this sector;
+	(d)	The customs duty on computer equipment has been eliminated and special bank loans at only 3 per cent are available for equipment purchases to make computers more affordable to the population.
+20.	ICT penetration in the country is excellent owing to several actions taken over the decade. Today, over 5 per cent of the population uses the Internet (compared with continental averages of 2 per cent for Asia and South America and less than 1 per cent for Africa). There is a plan to increase the number of ICT professionals by 500 per cent by 2005; a University of Technology is planned; training loans are available and student competitions have begun to raise ICT sensitivity. All local government authorities and many government programmes (such as immigration, tax, courts, customs and health) have been fully computerized; computers have been installed in all private and State secondary schools; Internet access has been provided to centres dealing with social welfare, community affairs, women’s programmes and citizens’ advice offices. Finally, a series of aggressive steps have been taken to stimulate ecommerce.
+21.	In Morocco, ICT was initially viewed in 1995 as an enabling mechanism to liberalize the economy and thereby enable Morocco to participate more effectively in the global economy, to slow the emigration of skilled workers, especially to Europe, as well as to create employment opportunities. By 1996, there were already 20 Internet service providers, some 50 cybercafés, an estimated 10,000 Internet subscribers, some 50 web sites, 1.4 million fixed telephone lines and an estimated 100,000 mobile phones. The average cost of an Internet subscription was $50 per month. But there was no vision for the development of information technology, no action plan, no liberalization process and no regulatory process. In March 1998, the responsibility for implementation of ICT in the country was placed in the Office of the Prime Minister. With the highest political support as well as the collaboration of selected business leaders and representatives of civil society, a national action plan was formulated in December 1998 and finalized in May 1999. Features of the plan included improving the productivity of Moroccan industry; to modernize the public sector administration, making it more efficient and responsive and gaining greater trust by rendering it more transparent; and to reinforce the government programmes aimed at eradicating poverty. In the latter regard, information technology was to be directed at raising levels of literacy; improving the delivery of government services, especially health, education and training; and to give isolated rural communities a sense of solidarity and identification with national development goals. An implementation strategy for the action plan was devised with emphasis on preparing the necessary legal environment; building consensus for change among the private and public sectors as well as civil society based on partnerships and common benefits that would result from the introduction of ICT; and a well-planned and steady promotion campaign aimed at many levels, from parliamentarians to town meetings and for special interest groups, such as the media.
+22.	An analysis of the impact of the ICT campaign on the national economy is awaited, but there is broad agreement that it has contributed to stability and a growing sense of confidence that Morocco can compete in the global economy. Some tangible results are a positive impact on the important tourism industry [a new proposal is to develop one portal for all tourist information]; the development of Internet service providers and cybercafés have provided employment opportunities, especially for young people, and provided an entrepreneurial spirit; and the curricula in engineering schools have been revised to give emphasis to the information technology sector. An academic and research network has been set up and already connects over half of the universities and engineering schools. The impact of this network has profoundly impacted on the interaction among the teaching staff as well as students both within the country and overseas.
+23.	Today, with a population of 28 million, of which over 50 per cent are under the age of 20, Morocco has 300 Internet service providers, 500 cybercafés and a reasonable communications infrastructure of 1.6 million fixed and 700,000 mobile telephones. The bandwidth is now 60 MB compared with 2 MB in 1995. The number of web sites surpassed 1,000 during 1999 and, most significantly, the cost of a monthly Internet subscription dropped to about $6 per month. Priority development targets are to accelerate the development of national content; to extend access to rural areas; and to complete the liberalization of the telecommunications sector by 2002.
+24.	Internet activities began in the Russian Federation in the early 1990s as a loose network of small private enterprises and a number of institutes active in education and research. The Internet has since grown in a deregulated environment and is now being served by almost 300 providers. A robust fiber-optic network 9,400 km. in length between Moscow and Khabarovsk was completed in 1999 and will be capable of handling the rapid increase in activity that is now forecast for 2001. Cities not connected to the fiber-optic backbone are using VSAT technology. Sixty per cent of the current Internet traffic occurs within the country. This can be attributed to the completion in 1997 of Cyrillic character sets and the rapid resultant development of local content. The President-elect of the Russian Federation has expressed his appreciation of the substantive benefit that an aggressive ICT programme could make towards improving the economic and social situation in the country. He has already invited representatives of the Government, non-governmental organizations and the private sector to outline a forward-looking strategy and has assured them of his support. Thus, political will has been mobilized and the first draft of a national Internet law is now being prepared by leaders of the Russian Internet community as well as members of the State Duma. The combination of good access, a highly educated population, and the ability to work with local content is forecast to result in very rapid growth and penetration of the Internet in the next few years.
+25.	The Small Island Development States Network (SIDSNET) is a global network of 42 island nations in the Caribbean, the Indian Ocean, the Atlantic Ocean off Africa, and the Pacific Ocean. Small island nations have unique problems due to geographic isolation and small internal markets that have hindered investment in necessary infrastructure. However, ICT provides new opportunities for these nations to participate in the global economy, enabling access to niche markets for tourism and local goods. Internet web pages have provided up to 80 per cent of the market for some small tourism ventures and have transformed traditional access to the tourism market. Niche service industries have been enhanced with live financial and insurance services provided to the United States market from the Caribbean. Market information is now readily available to island exporters. In the Pacific, monitoring of fishing zones is done using web technology and communications demand for basic services, such as email, has led to open challenging of the existence of the current monopoly of telecommunication companies. Telemedicine and distance education projects have been successful on a small scale, but with more investment in infrastructure, they promise to transform underfunded education systems and understaffed health facilities. Coordination of a common global agenda among island countries has been improved with Internet-based networking facilities, such as SIDSNET (www.sidsnet.org). However, access costs remain high at US$ 8-10/hour in island countries and users still represent less than 2 per cent of the population. These countries are in danger of being further marginalized if they are not able to develop the necessary infrastructure that provides the foundation for a ICT-literate society and create the necessary industries that can meet the demands of a global customer.
+
+		E-Europe
+
+26.	The e-Europe initiative is a collaborative effort between the European Commission, member States and industry. Its key objectives are: (a) to bring every citizen, home, school, business and administration into the digital age and online; (b) to create a digitally literate Europe, supported by an entrepreneurial culture ready to finance and develop new ideas; and (c) to ensure that the whole process is socially inclusive, builds consumer trust and strengthens social cohesion. It focuses on 10 key areas where action can make a difference: availability of the Internet and multimedia access in all classrooms; less costly Internet access; acceleration of ecommerce; the development of high-speed access for researchers and students; the use of smart cards for secure electronic access; the provision of risk capital for high-tech small and medium enterprises; eparticipation for the disabled; on-line health care; improved road, rail and air transportation to increase efficiency and safety and to reduce air pollution; and to provide government services on-line. Target dates have been set for each activity, many by the end of 2000 but with some extending to the end of 2004. In May the European Ministers of Communication proposed to provide quality access to the Internet for all European citizens before 2004.
+
+		Other presentations
+
+
+		Technology constraints
+
+27.	As a result of progress by the ICT industry, the technology to enable developing countries to use ICT for economic and social development is now available. Both traditional infrastructures based on copper wiring and telephony using cellular telephones, satellites and fiber-optic connections can be installed. Wireless solutions are the most cost-effective, costing roughly 20 per cent of traditional wired installations. Since many developing nations are not overly encumbered with substantial legacy systems, they have a clear opportunity to leapfrog directly to systems based on telephony. Moreover, such systems offer other potential advantages, such as minimal outlays to establish and protect rights of way as well as the possible use of a pool of low-cost labour (for example, the use of military conscripts) for developing the infrastructure.
+
+		Internet management
+
+28.	The representative of ICANN and a UNDP official speaking for developing countries addressed a number of concerns with respect to the assignment of Internet protocol, addresses and domain name management. ICANN and its predecessors had been using codes from the International Organization for Standardization (ISO) for assigning country code top-level domain (ccTLD) names. It was also noted that, in a few instances, top-level domain names had been assigned to applicants whose status was now challenged by the respective Governments in those countries who considered TLDs as sovereign assets.
+29.	It was recommended that the United Nations participate in ICANN meetings and that Member States should also participate in the Government Advisory Committee (GAC) of ICANN whenever there was a request to assign a TLD and there was any possible doubt whether the requesting party represented the country in question. Thus, a national institutional grouping of public, private and non-governmental organization interests should be given priority over a request from an individual or group of individuals who did not represent all interest groups. The representative of ICANN noted the demand of some Member States that this matter be urgently addressed. The issue was complex, touching on Internet stability, and an ICANN Board meeting scheduled in July would take up this matter.
+30.	The panel also called attention to the disadvantaged situation of developing countries in their representation on ICANN bodies compared with that of much wealthier nations and organizations, owing to a lack of information and/or resources. The representative of ICANN acknowledged these concerns and noted that they were under ongoing review.
+31.	ICANN and the United Nations share a common interest in learning more about the impact of the Internet on society and should collaborate in this regard.
+
+		InfoDev
+
+32.	The Information for Development Programme (InfoDev) of the World Bank is an important player in the ICT arena. There are currently 23 donors, including some developing countries as well as private corporations. The programme has received over 500 requests for assistance from its core programme and has provided grant funding for 110. The programme also funded 139 planning and implementation projects under a special initiative to address the year 2000 challenge. The programme currently disburses roughly $20 million/year and a typical grant averages $250,000. Current priorities include looking for more and better proposals as well as speeding up the approval process, which has been slow since startup.
+33.	The panel took note of the contribution of InfoDev, but underlined that its resources remained very far below the levels of funding required for ICT advancement in developing countries. The panel also noted the cumbersome preparation, review and approval process given the speed required to respond to requests in the ICT sector.
+
+		A multimedia approach
+
+34.	The positive impact of new information and communication technologies such as the Internet should not overshadow the importance of more traditional media, especially radio and television. Thus, some 15 million people already use the Internet to access radio. Brazil already enjoys a high level of television penetration and is concerned about providing access to the Internet through television. Several other developing countries have already moved to strengthen their radio and television programming to support economic and social initiatives and a broader approach combining the Internet is now possible. The potential significance of a broader multimedia approach was illustrated by noting that, while 50 million cellular telephones now operate in China, it was reported that an audience of 700 million in that country had recently viewed a television event. The synergies between the various communication technologies should be taken into account in developing any communication strategy, including support for initiatives for the redissemination, on a timely basis, of information which is obtained as a result of ICT.
+
+[Start1]<<ODS JOB NO>>N0044825E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/55/75<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>>E/2000/55<<ODS DOC SYMBOL2>>
+
+
+
+
+2
+
+3
+
+United NationsA/55/75–E/2000/55 
+General Assembly
+Economic and Social CouncilDistr.: General
+22 May 2000
+
+Original: English
+
+
+00-44825 (E)    070600
+*0044825*
+

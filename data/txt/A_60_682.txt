@@ -1,0 +1,416 @@
+[Start1]
+Sixtieth session
+Agenda items 132 and 136
+
+Report of the Secretary-General on the activities of the 
+Office of Internal Oversight Services
+
+Administrative and budgetary aspects of the financing 
+of the United Nations peacekeeping operations 
+
+
+
+		Report of the Office of Internal Oversight Services 
+on the audit of the standard costs applied to Headquarters overhead
+
+
+	Summary	Pursuant to General Assembly resolution 59/301, the Office of Internal Oversight Services (OIOS) conducted an audit of the standard costs applied to Headquarters overhead for items such as furniture and rental of premises and identified comparative current market costs for these items. The audit was conducted from August to November 2005. 
+	As part of its review, OIOS assessed whether the estimating guide for standard common service costs in New York (standard cost guidelines), prepared by the Department of Management to estimate Headquarters overhead, was applied consistently during budget preparation. The audit covered estimates for facilities and infrastructure, communications and information technology, totalling about $18 million, which were included in the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006. The support account budget provides resources for eight departments and offices, including the Department of Peacekeeping Operations, involved in planning, deploying and supporting peacekeeping missions. Certain cost categories of Headquarters overhead were excluded from the review, as they pertained to categories for which standard costs were not applicable, such as training and subscription fees, or categories for which unit costs were derived from salary and travel standards promulgated in relevant administrative instructions. These categories include consultants, general temporary assistance and official travel. 
+	OIOS found that the Department of Management had not established a policy for maintaining and updating the guidelines, which in past years have been adjusted only to reflect cost escalations based on an annual inflation rate of 2.2 per cent. In addition, some of the documentation substantiating the cost structure of the guidelines was not available from the Department. 
+	The guidelines were not applicable to all objects of expenditure. For example, there was no guideline category relating to the classification “other supplies”, comprising items such as printer cartridges and digital cameras, with an estimated value of $5.3 million. For those items, the Peacekeeping Financing Division used ad hoc unit costs to estimate the corresponding budgets. 
+	On the other hand, there were instances in which the guidelines could have been applied but were not. In some of those cases, OIOS noted that the unit costs used by the Peacekeeping Financing Division were more appropriate, as they reflected current actual costs of goods and services. 
+	With respect to costs for facilities and infrastructure, OIOS found that standard costs included in the guidelines needed to be aligned with the corresponding actual costs. Furthermore, United Nations space standards were not applied consistently in estimating the costs of renting premises or making alterations and improvements.
+	Regarding communication costs, OIOS found that the Peacekeeping Financing Division did not apply the guidelines, but instead established the budget on the basis of each department’s actual expenditures. In the view of OIOS, this is an effective practice and should be included in the guidelines. 
+	OIOS found that with respect to the budget for information technology, the actual cost structure for service-level agreements needed to be aligned with the current costs of services. Furthermore, OIOS noted that the Department of Management had not implemented a policy for establishing the most efficient ratio of printers to desktop computers and estimating the budget for spare parts and supplies.
+	OIOS is recommending that overhead in the Headquarters peacekeeping support account be adjusted to reflect the cost estimates made by OIOS for each category of expenditure reviewed by the audit. These adjustments should result in a net reduction of $970,000 in the proposed support account budget for the period from 1 July 2005 to 30 June 2006.  OIOS is also issuing a number of recommendations to improve the estimation of Headquarters overhead.
+	The Department of Management generally accepted the recommendations issued by OIOS and will implement them by reviewing and updating the standard costs in the context of preparing the support account budget for 2006/07.
+	
+
+Contents
+ParagraphsPageI. 	Introduction	1–34II. 	Application of standard costs to Headquarters overhead	4–65III. 	Facilities and infrastructure	7–256A.	Rental of premises	8–167B.	Alterations and improvements	17–209C.	Furniture	21–2210D.	Rental of office equipment and purchase of office supplies	23–2511IV. 	Communications	26–2812V. 	Information technology	29–5113A. Equipment maintenance	31–4314B. Acquisition of office automation equipment	44–5118VI .	Recommendations	52–7819
+
+	I.	Introduction
+
+
+1.	In its resolution 59/301, the General Assembly requested that the Office of Internal Oversight Services (OIOS) “conduct an audit of standard costs applied to headquarters overheads such as furniture and rental of premises, providing comparative costs on current market prices for these items”. 
+2.	The budget for the peacekeeping operations support account for the period from 1 July 2005 to 30 June 2006 (A/59/730) totalled $150,743,200 (see table 1). The budget provides resources for planning, deploying and supporting peacekeeping missions to eight departments and offices: the Department of Peacekeeping Operations, the Office of Internal Oversight Services, the Department of Management, the Executive Office of the Secretary-General, the Office of the United Nations Ombudsman, the Office of Legal Affairs, the Department of Public Information and the Department of Safety and Security. 
+3.	OIOS reviewed the estimates for facilities and infrastructure, communications and information technology, totalling $18,328,100 (see table 1). OIOS did not review the provisions for “other supplies, services and equipment”, which are not based on standard costs and are specific to each office. (Provisions under this category cover mainly fees for subscriptions, training courses and production of training and outreach materials.) OIOS also excluded from the audit scope estimates for post resources, general temporary assistance, consultants and official travel, the unit costs of which are standardized in relevant administrative instructions.
+
+		Table 1
+Budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006 (A/59/730) and items included in the Office of Internal Oversight Services review
+(Thousands of United States dollars) 
+
+CategoryBudget for the period from
+1 July 2005 to 31 June 2006Items included in OIOS reviewPost resources121 266.7—Non-post resourcesGeneral temporary assistance 1 788.5—Consultants 2 956.0—Official travel5 050.0—Facilities and infrastructure10 164.910 164.9Communications1 215.21 215.2Information technology6 948.06 948.0Medical100.0—Other supplies, services and equipment1 253.9—Total non-post resources29 476.5Total post and non-post resources150 743.2Scope of audit18 328.1
+	II.	Application of standard costs to Headquarters overhead
+
+
+4.	The Executive Office of the Department of Management prepares and issues annually the estimating guide for standard common service costs in New York (standard cost guidelines), which are used to estimate costs pertaining to facilities and infrastructure, communications, information technology and other supplies, services and equipment. However, OIOS noted that there was no formal policy for updating the guidelines. Since 2002, the Department of Management has increased the standard costs each year at an inflation rate of 2.2 per cent per year, but has not reviewed the original justifications of these costs. The latest revision was made on 23 March 2004 to reflect inflation in standard costs for 2004 and 2005. The Executive Office maintains most of the documentation pertaining to the estimation of Headquarters overhead. 
+5.	The standard cost guidelines were not applicable to all objects of expenditure. For example, items with an estimated value of $5.8 million did not correspond to any category covered in the guidelines, as shown in table 2. For those items, the Peacekeeping Financing Division used ad hoc unit costs to estimate the corresponding budgets. On the other hand, there were some instances in which the guidelines could have been applied but were not. In some of those cases, OIOS noted that the unit costs used were more applicable, as they reflected actual current costs of goods and services. 
+
+Table 2
+Scope of application of the standard cost guidelines to the support 
+account for peacekeeping operations for the period from 
+1 July 2005 to 30 June 2006 
+	(Thousands of United States dollars)
+
+
+Budget ProvisionStandard cost exists (yes/no)Standard cost applied (yes/no)Estimated costs of categories covered by standard cost guidelinesEstimated costs of categories not covered by standard cost guidelines OIOS-adjusted estimates for categories covered by standard cost guidelines (column D)Amount of adjustments suggested by OIOSCost categoryABCDEFG=F-DI.	Facilities and infrastructure	Rental of 	premises8 491YesNo8 491—6 349(2 142)	Alteration and 	improvements958YesYes958—1 342384	Furniture419YesYes419—46748	Rental of office 	equipment141Only for some itemsPartially8754697523	Office supplies144Only for some itemsPartially8757	Other suppliesa12NoNo1200	Subtotal10 16510 0421238 855(1 187)II. 	Communication	Communication 	costs1 215Only for some itemsNo9222939220	Subtotal1 2159222939220III.	Information technology	Equipment 	maintenance costs952YesYes952—1 284332	Acquisition of 	office automation 	equipment5 996Only for some itemsPartially6495 347535(114)	Subtotal6 9481 6015 3471 819218	Total18 32812 5655 76311 596(969)
+	a	Includes cartridges, digital cameras, security upgrades, card scanners and video projectors.
+
+
+6.	In the opinion of OIOS, the use of the standard cost guidelines for budget preparation is a good practice that could facilitate standardization and improve the overall efficiency of the budget process. However, OIOS believes that the Department of Management needs to (a) establish formal procedures for reviewing the standard cost structure every biennium and when there are major changes in the way departments operate and (b) ensure that these procedures are adhered to. Such procedures should include, among other things, a documentation retention policy to establish an audit trail. The Department of Management also needs to improve its monitoring of the application of the standard cost guidelines to the support account for peacekeeping operations to facilitate budgetary control.
+
+
+	III.	Facilities and infrastructure
+
+
+7.	The Office of Central Support Services is responsible for establishing standard costs for expenditures on facilities and infrastructure, which includes the costs of renting premises, alterations and improvements, furniture, rental of office equipment and the acquisition of office supplies. In the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006, the cost of these items is estimated at $10,165,000 for the eight departments that receive resources under the support account. 
+
+
+	A.	Rental of premises
+
+
+8.	The “Established space standards in the Secretariat building”, issued in November 1974 (A/9854, table 3), outline entitlements to office space in the Secretariat building according to major staff categories. Furthermore, the memorandum “Guidelines for implementing rentals of space to Member States and other users”, circulated in 1989, prescribes that rent charged will be based on the highest rates paid by the Organization for office space. This has been interpreted as the current rate the United Nations pays for rental of the 2nd, 3rd and 6th floors of the building at 866 United Nations Plaza. The same rate has been adopted for budgeting purposes, although there are no guidelines recommending its use in the budget. The rates shown in the standard cost guidelines were $45 per square foot for 2002. In addition, $14 per square foot was provided for utilities, management and maintenance costs, resulting in an estimated cost for the rental of premises of $59 per square foot for 2002. No inflation adjustment has been made to this rate since 2002.
+9.	The Peacekeeping Financing Division informed OIOS that the rental cost for the support account for peacekeeping operations covering the period from 1 July 2005 to 30 June 2006 was estimated by using an average of $10,600 per staff member. This unit cost was calculated on the basis of an average space of 180 square feet per staff member at the standard cost of $59 per square foot. The proposed cost of rental of premises in the budget for the peacekeeping support account was therefore estimated at $8.5 million for 801 entitled staff members, as determined by the Peacekeeping Financing Division.
+10.	The Office of Central Support Services explained that the average space of 180 square feet was determined as the actual gross office space occupied by Headquarters staff divided by the number of staff and other occupants. However, OIOS noted that the budget estimate for alterations and improvements (see para. 17) was calculated on the basis of the “Established space standards in the Secretariat building” (see para. 8 above) and not on the basis of the average space of 180 square feet.
+11.	OIOS recalculated the cost of renting premises for the 801 entitled staff members using the standard cost guidelines. Table 3 shows the difference between the calculations of the costs for rental of premises using the two different methods. 
+
+		Table 3
+Estimated rental costs using standard cost guidelines and the flat rate 
+per staff member
+
+
+Method of calculationAmount
+(Thousands of 
+United States dollars)Standard cost guidelines ($59 per square foot multiplied by the square footage assigned to each staff category as per “Established space standards in the Secretariat building” (document A/9854, table 3)6 349Flat cost ($10,600 per staff member multiplied by 801)8 491Excess of budget over standard costs2 142
+12.	As compared with the estimate derived from the strict application of the standard cost guidelines, the budgeted amount for the rental of premises in the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006 appeared to be overstated by $2.1 million. The Department of Management insisted that the rate of 180 square feet per staff member, which includes actual office space, meeting rooms and other common space, should be applied instead of the average of 134 square feet that OIOS derived from the “Established space standards in the Secretariat building”. OIOS, in its calculation, has applied the “Established space standards in the Secretariat building”, which prescribe different square footages for different staff categories. OIOS is of the opinion that this method better reflects the United Nations policy for office allocation.
+13.	However, OIOS also researched current market prices for the commercial rental of premises in the Grand Central and East Side areas, where United Nations Headquarters is located, and concluded that the base rent rate of $45 applied for budgeting tends to be in line with current market prices, as shown in table 4.
+
+		Table 4
+Comparison of base rent rate of $45 per square foot with current 
+market rental prices in the Grand Central and East Side areas 
+(United States dollars)
+
+Published average price per square footReal estate companyGrand Central areaEast Side areaCBRE 
+Studeley
+Newmark51.48
+53.55
+45.4244.92
+not available
+44.01Minimum published average45.4244.01Rate indicated in the standard cost guidelines applicable for 200545.00
+
+14.	OIOS also compared the estimate of $14 per square foot for utilities, maintenance, management and other rent-related costs (see para. 8 above) with the corresponding average actual costs incurred by the Organization, as well as with industry standard averages for the New York downtown area provided by the Building Owners and Managers Association (BOMA) International Foundation. As shown in table 5, OIOS concluded that the budgeted amount was slightly overestimated, by about $1 per square foot, when compared with the actual costs provided by the Office of Central Support Services ($14.00-$13.08), but below the BOMA industry standard. 
+		Table 5
+Comparison of rent-related standard costs with average actual costs and 
+industry standards 
+(United States dollars) 
+
+
+Cost per square foot2002 standard 
+(also applicable for 2005)2005 average actual 
+as provided by OCSS2005 BOMA industry standardsEscalation 2.003.36(Included in other cost components)Utilities3.002.036.03Maintenance6.004.697.11Administrative3.003.005.08	Total for 200514.0013.0818.22
+
+15.	In the opinion of OIOS, the Office of Central Support Services should identify the most efficient space criterion for estimating rental costs (i.e., a single measurement for rental costs, which could be either the number of square feet per grade or a flat average number of square feet per staff member regardless of grade). This measurement should be adopted to estimate rental costs and, as discussed in paragraph 17 below, alteration and improvement costs as well.
+16.	Furthermore, when calculating the standard unit cost for the rental of premises to be included in the standard cost guidelines, the Department of Management needs to consider using the current average market cost instead of the “Guidelines for implementing rentals of space to Member States and other users” because the current market price is more forward-looking and therefore more suitable in developing budget projections. Standard costs per square foot for utilities, maintenance and management and other rent-related costs must be aligned with actual costs.
+
+
+	B.	Alterations and improvements
+
+
+17.	Alteration and improvement costs are considered non-recurrent in the standard cost guidelines and under the peacekeeping support account relate to new posts only. The Peacekeeping Financing Division projected a total cost of $958,000 for 72 new posts in this category. This amount was based on the established space standards mentioned in paragraph 8 above multiplied by the average cost per square foot of $86 prescribed by the standard cost guidelines for 2002 and adjusted for inflation by 2.2 per cent per annum. The cost estimate for the biennium 2004-2005 is $90.80, the average of the 2004 rate of $89.80 and the 2005 rate of $91.80 per square foot. 
+18.	OIOS researched the average industry standards for commercial space alterations and improvements in high-rise office buildings in the host country market1 and noted that the standard cost of such work was between $86 and $134 per square foot. Considering that the lower end of the industry standard does not include costs of site work or equipment, OIOS and the Office of Central Support Services agreed that $86 would constitute a relevant benchmark for alteration and improvement costs.
+19.	The Office of Central Support Services provided OIOS with the individual costs relating to a sample of 14 major projects selected by OIOS involving alterations and improvements implemented on United Nations premises in 2005. The actual average cost of these projects was $128 per square foot, with a range of $35 to $409 per square foot. Based on an average cost per square foot of $128, the cost of alterations and improvements for the 72 new posts would be $1,342,000 and not $958,000 (based on a cost of per square foot of $90.80), as derived from the standard cost guidelines and included in the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006. 
+20.	Considering the significant difference between the standard cost per square foot as set out in the standard cost guidelines and the observed actual average cost of alteration and improvement projects reviewed above, the Office of Central Support Services needs to review the estimates of cost per square foot used for alterations and improvements and base the cost on reasonable projections.
+
+
+	C.	Furniture
+
+
+21.	The support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006 includes $419,000 for the cost of furniture to be provided for 72 new posts. The standard cost guidelines prescribe that entitlements to furniture be based on staff level. However, OIOS noted that the estimated furniture entitlement for a staff member at the D-1 level was the same as that for staff in the Professional category. Furthermore, the Office of Central Support Services established standard furniture entitlements for each grade, which have not been fully reflected in the most recent standard cost guidelines used for the preparation of the support account budget.
+22.	OIOS found that the budget for the support account erroneously showed $7,300 instead of $3,700 as the cost of furniture for General Service staff. Furthermore, OIOS obtained from the Office of Central Support Services the furniture cost rates based on current systems contracts prices; applying the updated costs for the 72 staff members, OIOS estimated the total for furniture to be $355,000 rather than $419,000, as provided in the support account budget for the period from 1 July 2005 to 30 June 2006. However, the Office of Central Support Services advised that for ergonomic and practical reasons modular workstation furniture is used by both Professional and General Service staff. The cost of the workstations is $7,000 for Professionals and $5,100 for General Service staff. Therefore, the total cost for the 72 staff members would actually have been $467,300. OIOS believes that the standard cost guidelines for furniture should reflect these current practices and costs. 
+		Table 6
+Comparison of unit furniture costs used in the support account budget with standard cost guidelines and Office of Central Support Services estimates 
+(Thousands of United States dollars)
+
+Level of staffUnit costUsed in the budgetJune 2005 Office of Central Support Services estimatesNon-modular furnitureModular workstationD-2Not applicable7.07.0D-15.35a5.95.9P-55.355.57.0P-1 to P-45.355.57.0General Service7.33.05.1	Total419355467
+	a	The Peacekeeping Financing Division averaged the costs included in the standard cost guidelines for 2004 ($5,300) and 2005 ($5,400).
+
+
+	D.	Rental of office equipment and purchase of office supplies
+
+
+23.	The budget lines for rental of office equipment and purchase of office supplies include the costs of renting photocopying machines and purchasing sundry office supplies such as paper, stationery and printer cartridges. The standard cost for these two budget lines according to the current standard cost guidelines is $200 per staff member. These figures have not been updated since 2001. OIOS observed that the Peacekeeping Financing Division applied these standard costs to all posts regardless of category.
+24.	Integrated Management Information System (IMIS) records showed that for fiscal year 2005 the costs pertaining to the rental of office equipment and the purchase of office supplies at Headquarters in New York2 was about $800 per staff member per year for all departments and offices in the Secretariat except the Department of Peacekeeping Operations, whose the average cost per staff member was about $12,000. This difference is due to the fact that expenditures incurred in the Department of Peacekeeping Operations based in New York and those incurred in the missions are consolidated under the same fund type in IMIS. Considering the significant difference between the standard cost of $200 and the actual cost of $800 for most departments and the large difference in the average cost per staff member between the Department of Peacekeeping Operations and the other departments, OIOS believes that there is a need for the Department of Management to reassess the calculation of the standard costs for the rental of office equipment and the purchase of office supplies.
+25.	When using $800 as the actual average cost per staff member and applying this amount to Headquarters overhead, OIOS estimated that the total cost for the 871 staff members in the eight departments and offices covered by the peacekeeping support account would be about $697,000 rather than the $174,000 provided for in the budget.
+
+
+	IV.	Communications
+
+
+26.	Communications costs are estimated at $1,215,000 in the budget for the peacekeeping support account for the period from 1 July 2005 to 30 June 2006. The standard cost established by the standard cost guidelines, which has not been updated since 2002, includes two components: non-recurrent costs of $200 and recurrent costs of $1,100 per staff member. The non-recurrent cost component is applied to new staff and covers costs for the installation of new telephone lines. The recurrent cost component covers fixed costs, maintenance, upgrades and operating costs, plus the cost of using telephone lines. OIOS noted that the Peacekeeping Financing Division applied the standard cost guidelines for non-recurrent costs but not for recurrent costs, which were based on average department expenditures derived from a 2002 sample.
+
+Table 7
+Communications cost estimates in the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006
+	(Thousands of United States dollars) 
+
+
+Line itemDepartment of Peacekeeping OperationsDepartment of Safety and SecurityDepartment of ManagementDepartment of Public InformationOffice of Legal AffairsOffice of Internal Oversight ServicesExecutive Office of the Secretary-General and Office of the OmbudsmanTotalNon-recurrent posts for new postsUnit cost0.2—0.2——0.20.2Installation costs(49 new posts) 9.8—(13 new posts) 2.6——(7 new posts) 1.4(3 new posts) 0.6(72 new posts) 14.4Recurrent costs for all postsEstimated cost per post11.931.51.450.71.32.4Cost for commercial communications(588 posts) 588(12 posts) 23.2(151 posts) 226.5(2 posts) 2.9(5 posts) 3.5(36 posts) 46.8(7 posts) 16.8(801 posts) 907.7Other costsaOther costs293.1——————293.1	Total890.923.2229.12.93.548.217.41 215.2
+	a	Other costs for the Department of Peacekeeping Operations include $30,000 for the use of conference facilities and various communications services; $52,200 for the establishment of videoconferencing facilities in the Specialist Support Service; $97,500 for the replacement of 14 per cent of the communications equipment inventory; and $113,400 for the replacement of 15 per cent of communications spare parts and supplies inventory.
+27.	OIOS identified the total 2004 communications costs for the divisions and offices covered by the peacekeeping support account budget and noted that the Peacekeeping Financing Division applied an average standard cost in line with consumption ($1,400 per staff member, based on actual communications expenditures of the departments).
+28.	OIOS agrees with this approach adopted by the Peacekeeping Financing Division, whereby it estimates communications costs on the basis of historical expenditures instead of using the flat rate proposed in the standard cost guidelines, provided the actual costs are justified and kept within reasonable limits.
+
+
+	V.	Information technology
+
+
+29.	The Department of Management is responsible for providing standard costs for information technology (IT) expenditures. The budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006 provides a total of $6,948,000 for information technology.
+
+Table 8
+Breakdown of cost estimates for information technology shown in the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006
+	(Thousands of United States dollars)
+
+
+Line itemDepartment of Peacekeeping OperationsDepartment of Safety and SecurityDepartment of ManagementDepartment of Public InformationOffice 
+of Legal AffairsOffice of Internal Oversight ServicesExecutive Office of the Secretary-GeneralOffice of the OmbudsmanTotalI.	Based on standard costs	Equipment 	maintenance705.614.4181.22.44.035.66.02.4951.6	Subtotal, 	equipment 	maintenance705.614.4181.22.44.035.66.02.4951.6	Desktops, 	printers and 	laptops for 	new 	post112.2045.00031.64.44.0197.2	Desktop 	printers and 	laptops for 	replacement425.4022.204.4000452.0	Subtotal, 	hardware537.6067.204.431.64.44.0649.2	Total 	standard costs1 243.214.4248.42.48.467.210.46.41 600.6II.	Other hardware, based on non-standard costs	Disk storage95.0000000095.0	Other equipment474.5010.300000484.8	Spare parts and supplies176.002.500000178.5	Total, non-	standard 	costs, hardware745.5012.800000758.3III.	Software and maintenance, based on non-standard costs	Software 	licences490.00329.00022.400841.4	Ongoing IT maintenance and support2 762.50985.0000003 747.5	Total, non-	standard costs, 	software and 	maintenance3 252.501 314.00022.4004 588.9	Grand total5 241.314.41 575.22.48.489.610.46.46 948.0
+
+30.	The standard cost guidelines refer only to equipment maintenance costs and to the acquisition of office automation equipment (one desktop and one printer per staff member). Further guidance on estimating standard costs for IT equipment is provided in the instructions for the preparation of the proposed programme budget for the biennium 2004-2005 issued by the Office of Programme Planning, Budget and Accounts. In the case of the Department of Peacekeeping Operations, the unit cost of acquiring IT equipment, other than standard desktops, printers and laptops, was provided to OIOS as a Lotus Notes spreadsheet maintained by the Department’s Logistics Support Division. Cost estimates for other types of IT equipment, software and services are provided individually by each department. The results of the OIOS review of the unit costs applied to equipment maintenance and acquisition of office equipment are discussed in sections V.A and B below. 
+
+
+	A.	Equipment maintenance 
+
+
+31.	In accordance with the 2004-2005 budget instructions mentioned above, each office signs a service-level agreement (SLA) with the Information Technology Services Division (ITSD) for the provision of maintenance services for office automation equipment. Departments, depending on their available internal IT resources, choose one of the SLAs described in table 9.
+
+Table 9
+Service-level agreements: annual cost per staff member in the Secretariat
+(United States dollars)
+
+
+Service provided by ITSDSLA “A”SLA “B”SLA “C”Local area network (LAN) (group administration)400Not applicableNot applicableHelp desk services (hardware support)250250Not applicableHelp desk services (software support)150150150Software licences175175175Usage of LAN server150150150Central Management Software (CMS) support fee757575	Total1 200800550
+
+32.	According to ITSD, as of June 2005 the total number of SLA subscribers in the Secretariat in New York was 6,965 (1,265 SLA “A” subscribers, 3,002 SLA “B” subscribers and 2,698 SLA “C” subscribers). OIOS reviewed each component of the SLAs, comparing them with actual costs as well as current industry standards.
+
+		Help desk services and local area network (group administration)
+
+33.	Help desk services are provided to all SLA subscribers in accordance with their selected agreement level. Three contractors provide these services. ITSD estimated that under the contracts the total cost of this service is $3.2 million per year.
+34.	On the basis of the SLAs signed by all departments and offices in the Secretariat in New York, OIOS estimated that ITSD received a total of $2.6 million for the help desk and LAN (group administration) cost components for 2005. Thus, ITSD is underestimating standard costs of the help desk and LAN (group administration) services by $0.6 million ($3.2 million in contractors’ fees less $2.6 million in SLA reimbursements).
+35.	ITSD indicated that SLA “A” subscribers absorbed 50 per cent of total resources for help desks and LAN (group administration); SLA “B” subscribers absorb 37 per cent of the resources and SLA “C” subscribers, 13 per cent. On this basis, OIOS estimates the total cost per SLA “A” subscriber for help desk services and LAN (group administration) to be $1,265 (50 per cent of $3.2 million divided by 1,265 SLA “A” subscribers). The unit costs for the 3,002 SLA “B” and 2,698 SLA “C” subscribers are $400 and $148, respectively.
+36.	OIOS also compared the costs of specific services included in SLA “A” with current industry benchmarks provided by Gartner3 for the North American market. OIOS found that for some services, such as help desk and LAN support, the current market prices in North America were higher than those quoted in SLA “A” and those estimated by OIOS. It should be noted, however, that the benchmark study developed by Gartner was not tailored to the Organization’s needs, and therefore some of the related cost components may not be fully comparable.
+
+		Software licences
+
+37.	Standard software used in CMS consists of that with yearly costs as well as that purchased once and maintained for a number of years, as shown in table 10.
+
+Table 10
+2005 costs for software in the Secretariat in New York
+(United States dollars)
+
+
+One-time purchase costYearly costMicrosoft Office517 000Lotus Notes213 000Symantec antivirus80 000RealPlayer39 2077 500Exceed100 0002 000Adobe50 100—WinZip8 250—	Total197 557819 500
+
+38.	Hence, software licence cost per user is estimated to be $118 ($819,500 divided by 6,965 users in the Secretariat in New York), and not $175 as indicated in the SLAs (see table 9).
+
+		Usage of local area network server
+
+39.	ITSD estimated the standard costs for the storage and back-up of LAN drives to be $75 and $50 per gigabyte, respectively. Accordingly, on the basis of a number of technical assumptions, OIOS calculated the cost of using the LAN server as $199, which is $49 more than the current standard cost suggested by the SLAs.
+
+		Central Management Software support fee
+
+40.	ITSD estimated the cost of the CMS support fee on the basis of the costs for two external consultants and one individual contractor under a special service agreement at the G-5 level who are currently providing CMS support. The actual cost of labour, tools and software for development was estimated at $327,000 per year, or $46.95 per account.
+41.	OIOS found that the actual cost of equipment maintenance for SLA “A” subscribers is substantially higher than the standard costs included in the SLA (see table 11). On the other hand, rates applied to SLA “B” and “C” subscribers are in line with OIOS estimates of actual costs.
+
+Table 11
+2005 service-level agreements and estimated actual cost per account 
+in the Secretariat in New York
+(United States dollars)
+
+Service provided by ITSDSLA “A”OIOS cost
+ estimate of
+ SLA “A” equivalentSLA”B”OIOS cost
+estimate of
+SLA “B”
+equivalentSLA “C”OIOS cost
+estimate of
+ SLA “C” equivalentLAN (group administration)400
+
+1 265Not includedNot includedHelp desk services
+(hardware support)250250
+400Not includedHelp desk services
+(software support)150150150148Software licences175118175118175118Usage of LAN server150199150199150199CMS support fee754775477547	Total1 2001 629800764550512
+42.	On the basis of actual costs, OIOS estimated that $1,284,069 would be required to maintain 801 pieces of IT equipment and not $951,600 as provided in the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006.
+
+Table 12
+Cost comparison of standard cost and actual costs for IT equipment maintenance under the support account budget for the period from 
+1 July 2005 to 30 June 2006
+(In United States dollars)
+
+
+SLA “A”
+(777 subscribers)SLA “B”
+(24 subscribers)Total
+(801 subscribers)Unit cost per SLA1 200800Total cost in the budget document932 40019 200951 600Unit cost estimated by OIOS1 629763Total cost estimated by OIOS1 265 73318 3361 284 069Difference332 469
+
+43.	In the view of OIOS, ITSD needs to review the cost structure of the SLAs in order to reflect actual costs. The Department of Management should apply the revised SLA costs to the standard cost guidelines.
+
+
+	B.	Acquisition of office automation equipment
+
+
+44.	The total amount provided for the acquisition of hardware under the budget for the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006 is $1,407,500. Of this total, $649,200 is provided for the acquisition of new office equipment as follows: 273 desktops at a cost of $354,900, 211 printers at a cost of $189,900 and 58 laptop computers at a cost of $104,400. The remaining $758,300 is provided for the acquisition of disk storage ($95,000), spare parts and supplies ($178,500) and other equipment ($484,800) for which no standard cost guidelines exist (see table 8).
+
+		Desktops, printers and laptops
+
+45.	The standard cost guidelines prescribe that for new staff members the office automation equipment entitlement is $2,000. However, the Peacekeeping Financing Division applied an individual entitlement of $2,800 per workstation. The entitlement includes one desktop computer and one monitor, valued at $1,100, and one medium-duty printer valued at $900, plus $200 in shipping costs per desktop.
+46.	OIOS reviewed current systems contracts with IBM (PD/C0260/04) for the procurement of desktops and laptops, as well as current market prices for similar items, and found that the estimated cost included in the budget provision for desktop units was in line with the new systems contract entered into by the Organization and with market prices. However, OIOS found that the IBM systems contract does not require a surcharge for shipping costs to New York. Therefore, OIOS concluded that shipping costs should not be included and the total cost for 273 desktops should be $300,300 (273 multiplied by $1,100) rather than $354,900 (273 multiplied by $1,300), resulting in savings of $54,600.
+47.	As standard practice, the Organization budgets one medium-duty printer for each new desktop computer. OIOS finds the current practice to be generous and believes that the Department of Management needs to develop a policy clarifying the determination of an efficient printer/desktop ratio.
+48.	Furthermore, OIOS obtained information on current market prices and recent bidding results concerning printers. Both exercises showed a unit cost for medium-duty printers of between $620 and $650 instead of the $900 shown in the budget for the support account. OIOS therefore estimates that the current market price for automation equipment would have been $59,000, lower calculated as follows: $900 minus $620 equals $280, multiplied by 211 printers. OIOS therefore identifies a total potential savings of $113,600 with respect to the acquisition of office automation equipment ($54,600 for desktops and $59,000 for printers).
+49.	In the opinion of OIOS, the Department of Management should update the costs relating to the acquisition of desktop computers, printers and laptop computers when new contractual agreements or market conditions so require, thereby ensuring that the cost set out in the standard cost guidelines is in line with prices and conditions offered by selected providers.
+
+		Other hardware
+
+50.	The budget for the support account for peacekeeping operations for the period 1 July 2005 to 30 June 2006 includes $579,800 for other IT equipment for which no standard costs approved by the Department of Management exist. Of this total, $95,000 has been budgeted for acquiring additional disk storage and $474,500 to acquire various other items, such as portable and LAN printers, scanners, cameras and projectors.
+51.	The Logistics Support Division of the Department of Peacekeeping Operations advised that estimates of the costs of spare parts are based on a policy of 5 per cent replenishment of the total value of IT assets at Headquarters, although there is no formal requirement in this respect. OIOS determined that the total value of assets in use and in stock in the Department of Peacekeeping Operations as of October 2005 was $5 million. Therefore, the provision for spare parts and supplies should be $250,000. However, the budget provision for spare parts and supplies is only $176,000. Furthermore, no provision has been made by other departments for replenishment, although the Department of Management has provided for $2,500 in ancillary equipment. The Logistics Support Division further informed OIOS that most of these resources are used to purchase supplies, mainly printer cartridges. OIOS believes that the Department of Management needs to establish guidelines for the budgetary provision for spare parts. Provisions for office supplies, such as printer cartridges, should be apportioned to the supply budget line and not improperly to the IT budget line.
+
+
+	VI.	Recommendations
+
+
+52.	As a result of its audit, OIOS issued 13 recommendations to improve the use of standard costs in the preparation of the support account for peacekeeping operations budget and to adjust the current budget. The Department of Management generally agreed with these recommendations.
+
+
+		Application of standard costs
+
+
+		Recommendation 1
+
+53.	The Department of Management should (a) reassess the relevance of the standard cost guidelines every biennium or when major changes occur in the way departments operate and (b) formalize its procedures for reviewing the standard cost guidelines, including by developing a policy to maintain documentation on its reviews for audit purposes (paras. 4-6) (AH2005/510/01/01).
+54.	The Department of Management agreed with OIOS that the standard cost guidelines should be reviewed regularly. It should be noted that a procedure for reviewing the guidelines is already in place and is being followed by the Executive Office of the Department. Every year, prior to the budgeting process, the Executive Office requests all entities concerned within the Office of Central Support Services to update the existing standard costs applied to the previous budget. For the past few years, aside from those for inflation, there have been no modifications to the standards, as the cost variances were considered to be in line with actual costs.
+
+		Recommendation 2
+
+55.	In order to facilitate budgetary control, the Department of Management should improve its monitoring of the application of standard cost guidelines to the support account for peacekeeping operations (paras. 4-6) (AH2005/510/01/02).
+56.	The Department of Management agreed with this recommendation and will consolidate and re-emphasize the importance of the procedure described above for the preparation of the 2006/07 support account budget.
+
+
+		Rental of premises
+
+
+		Recommendation 3
+
+57.	The Department of Management should ensure that the Office of Central Support Services identifies the most efficient space criterion for estimating rental costs, using a single measurement for rental cost, which could be either the number of square feet per grade or a flat average number of square feet per staff member regardless of grade (paras. 8-16) (AH2005/510/01/03).
+58.	The Department of Management welcomed the recommendation of OIOS on using a single criterion for estimating rental costs under the support account for peacekeeping operations. It is the position of the Department that, in order to ensure consistency and transparency, the same criterion should be used for regular budget, support account and extrabudgetary resources. The Department will therefore, for budgetary purposes, calculate the expected rental costs on the basis of the flat rate per staff member regardless of grade or source of funding.
+
+		Recommendation 4
+
+59.	The Department of Management should also consider using the average market price for estimating rental costs (paras. 8-16) (AH2005/510/01/04).
+60.	The Department of Management agreed that the budgeting of rental costs should reflect actual market prices. However, rather than basing the budget on a rate per square foot, which is an average of surveyed prices, the Department suggests that the actual price of rental according to the signed rental agreements for the buildings housing Secretariat staff be used as the basis for determining the total budget for rental of premises. The rate will then be determined by dividing this total cost by the total number of staff. In the view of the Department, this approach, based on the current rental contracts, provides a more realistic link to the actual costs than the one used by OIOS, derived from the “Established space standards in the Secretariat building”, which is based on assumptions about price per square foot and space per staff member.
+
+		Recommendation 5
+
+61.	The Department of Management should align the standard costs for utilities, management and other rent-related costs with actual costs (paras. 8-16) (AH2005/510/01/05).
+62.	The Department of Management agreed with this recommendation, stating that the costs of utilities and management are included in the United Nations rental contracts with building owners and will therefore be included in the revised model for budgeting rental costs described in the comments on recommendation 4 above.
+
+
+		Alterations and improvements
+
+
+		Recommendation 6
+
+63.	In view of the significant variance between the standard cost per square foot and actual costs of alteration and improvement projects, the Department of Management should revise the standard cost guidelines to include standard cost estimates based on justifiable historical expenditures (paras. 17-20) (AH2005/510/01/06).
+64.	The Department of Management agreed with OIOS on the need for revising the standard cost for alterations and improvements on the basis of historical expenditures. Furthermore, experience has shown that improvements and alterations are often not undertaken when new staff members arrive, but rather when entire divisions or sections relocate. It is therefore suggested that the revised standard rate be calculated on the basis of the total number of staff and applied to all staff, not only new posts. The space criterion (square feet per staff member) will be applied for the estimation of costs of alteration and improvement projects.
+
+
+		Furniture, rental of office equipment and office supplies
+
+
+		Recommendation 7
+
+65.	The Department of Management should update the standard cost guidelines to reflect the most current costs paid to the Organization for the acquisition of furniture and the rental of office equipment and office supplies (paras. 21-25) (AH2005/510/01/07).
+66.	The Department of Management agreed with OIOS that the standards for acquisition of furniture should be reviewed and updated if needed. On the basis of the findings of OIOS, the Department will review and update the standard rates as and when necessary. Standard rates for rental of office equipment and purchase of office supplies will also be updated for all staff (including Department of Peacekeeping Operations staff). Pursuant to OIOS recommendations 7 and 12, this updated standard will also include provision for printer cartridges.
+
+
+		Communications
+
+
+		Recommendation 8
+
+67.	When updating the standard cost guidelines, the Department of Management should estimate the communication costs for each department on the basis of historical expenditures and any other pertinent assumptions instead of adopting a flat rate for all departments (paras. 26-28) (AH2005/510/01/08).
+68.	The Department of Management agreed with the recommendation and will continue to apply the standard rate of $200 for non-recurrent costs to all new posts. The Department will also continue budgeting for recurrent communications costs on the basis of individual standard rates for each department, determined by a review of previous years’ expenditure.
+
+
+		Equipment maintenance
+
+
+		Recommendation 9
+
+69.	The Department of Management should ensure that the Information Technology Services Division reviews the cost structure of the service-level agreements in order to reflect actual costs. The revised service-level agreements should be included in the standard cost guidelines (paras. 31-43) (AH2005/510/01/09).
+70.	The Department of Management agreed with OIOS that the service-level agreements should be reviewed and rates should be updated. On the basis of the findings of OIOS, the Information Technology Services Division will review and update the standard costs factored into the support account budget.
+
+
+		Acquisition of office automation equipment
+
+
+		Recommendation 10
+
+71.	The Department of Management should develop a policy clarifying the determination of an efficient printer/desktop ratio (para. 47) (AH2005/510/01/10).
+72.	The Department of Management agreed with this recommendation. A policy allowing for one LAN printer for every four desktop computers was set out in General Assembly resolution 59/296, and the Department will seek to implement this policy in the preparation of the 2006/07 support account budget. In addition, the Department will look further into rationalizing the use of printers throughout the Secretariat.
+
+		Recommendation 11
+
+73.	The Department of Management should update the costs of acquiring desktop computers, printers and laptop computers set out in the standard cost guidelines whenever new contractual agreements or market conditions require such a change, thereby ensuring that costs reflect prices and conditions offered by selected providers (paras. 45-49) (AH2005/510/01/11).
+74.	The Department of Management accepted recommendation 11. Pursuant to the draft report of OIOS, the Department will update its standard rates for acquisition of IT equipment and apply these updated standards to the regular and the support account budget.
+
+		Recommendation 12
+
+75.	The Department of Management should estimate and include in the standard cost guidelines a provision for spare parts and supplies (paras. 50-51) (AH2005/510/01/12).
+76.	The Department of Management accepted recommendation 12 and advised that the Information Technology Services Division has contractual arrangements for the maintenance of desktop computers, printers and notebooks and thus does not need to carry spare parts at Headquarters. The Department further stated that, in cooperation with the Information Technology Services Division, the Executive Office of the Department will review the past year’s usage of spare parts and supplies. On the basis of the findings of this review, the Department will update current standards and, if need be, include provisions for additional spare parts and other supplies. As indicated under recommendation 7, budgetary provision for printer cartridges will remain under “office equipment and office supplies”.
+
+
+		Revision of current estimates
+
+
+		Recommendation 13
+
+77.	The Department of Management should revise the current estimates for the support account, taking into consideration the adjustments identified by OIOS in the areas of facilities, infrastructure, communications and information technology (AH2005/510/01/13).
+78.	The Department of Management did not accept this recommendation but stated that it would review current standards and apply them prospectively in the context of the 2006/07 support account budget. Any unspent balances for 2005/06 will be reported in the performance report and set off against the 2007/08 support account budget. OIOS has taken note of the reply of the Department of Management and will follow up on the actions taken by the Department.
+
+
+(Signed) Inga-Britt Ahlenius
+Under-Secretary-General for Internal Oversight Services
+
+
+	1 	2004 Building Construction Cost Data (R. S. Means. Kingston, Massachusetts).
+	2 	For this exercise, OIOS, in cooperation with the Office of Programme Planning, Budget and Accounts and the Executive Office of the Department of Management identified the following object codes: acquisition of office equipment (5012); stationery and office supplies (5510); writing paper (5511); Stationery and office supplies (5512); data-processing supplies (5515) ; and rental of office equipment (4301).
+	3	“Use of benchmarks to get value from desktop outsourcing”, June 2003.
+[Start1]<<ODS JOB NO>>N0624698E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/60/682<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+21
+
+23
+
+United NationsA/60/682 
+General AssemblyDistr.: General
+17 February 2006
+
+Original: English
+
+
+06-24698 (E)    020306  
+*0624698*
+
+22
+

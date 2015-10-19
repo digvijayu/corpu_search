@@ -1,0 +1,274 @@
+Distr.
+GENERAL
+
+CES/SEM.52/8
+2 October 2003
+
+Original: ENGLISH
+
+STATISTICAL COMMISSION and UNITED NATIONS ECONOMIC COMMISSION FOR EUROPE (UNECE)
+CONFERENCE OF EUROPEAN STATISTICIANS 
+
+Joint UNECE/UNCTAD/UNESCO/ITU/
+OECD/Eurostat Statistical Workshop
+on Monitoring the Information Society: Data, Measurement and Methods
+(Geneva, 8-9 December 2003) UNITED NATIONS CONFERENCE ON TRADE AND DEVELOPMENT (UNCTAD)
+UNESCO INSTITUTE FOR STATISTICS (UIS)
+INTERNATIONAL TELECOMMUNICATION UNION (ITU)
+ORGANISATION FOR ECONOMIC COOPERATION AND DEVELOPMENT (OECD)
+STATISTICAL OFFICE OF THE EUROPEAN COMMUNITIES (Eurostat)
+UNDERSTANDING CHANGES IN THE INFORMATION SOCIETY:
+WORKING TOWARDS THE INTERNATIONALLY HARMONIZED VIEWS
+
+
+Keynote paper
+
+Mr. Thaweesak Koanantakool, Ministry of Science and Technology, Thailand
+
+
+I.	INTRODUCTION
+
+1.	The use of information and communication technologies (ICTs) in a country may be different from another country.   Least developed countries are typically looking for the basic access to information, and basic telephone services; while developed countries are addressing the information security, privacy and broadband applications.  Some developing countries, “the dynamic adopters”,  are looking for ways of using electronic commerce, and developing related ICT laws to enhance the economy of the country.  It is obvious that there are classes of information societies.  This article is in search for an acceptable means of monitoring the “different” information societies, data, measurements and methods.
+
+
+
+
+GE.03-32297
+II.	DIVERSIFIED FOCUSES
+
+2.	There is a spectrum of policy issues related to the development of information society.  The list of these issues have been presented by the author in the UNCTAD 2002 meeting in Bangkok as shown in the figure below:
+
+A Spectrum of policy issues related to ICT for development 
+and electronic commerce.
+
+3.	When we consider these issues with the latest WSIS Draft Plan of Actions (dated September 24, 2003), there are many indicators which can be developed and used as measurements of the society.
+
+4.	Take the issue of “connectivity and access”, WSIS Draft Plan of Action provided the elaboration of this into the followings:
+
+a) To connect villages and establish community access points;
+b) To connect universities, secondary schools and primary schools with ICTs;
+c) To connect scientific and research centres with ICTs;
+d) To connect public libraries, cultural centres, museums, post offices and archives with ICTs;
+e) To connect health centres and hospitals with ICTs;
+f) To connect all local and central government departments and establish websites and email addresses;
+g) To revise all primary and secondary school curricula to meet the challenges of the Information Society;
+h) To ensure that all of the world's population have access to television and radio services;
+i) To put in place technical conditions in order to facilitate the presence and use of all world languages on the Internet;
+j) To ensure that more than half the world’s inhabitants are ICT connected.
+
+5.	We may also take a close look in the second issue of “National ICT Policy and Plan” and match this with the WSIS Draft Plan of Action item 14.  Under this heading, there are the following list of actions.
+
+Actionsa) National e-strategies, including the necessary human capacity building, should be developed by all countries by 2005, taking into account different national circumstances. b) Initiate at the national level a structured dialogue involving all relevant stakeholders, in devising e-strategies for the Information Society and for the exchange of best practices. c) In developing and implementing national e-strategies, stakeholders should take into consideration local, regional and national needs and concerns. In this context, the private sector should be invited to engage in concrete projects to develop the Information Society at local, regional and national levels.d) Each country should establish at least one functioning Public Private Partnership (PPP) or Multi-Sector Partnership (MSP), by 2005 as a showcase for future action. e) Identify mechanisms, at the national, regional and international levels, for the initiation and promotion of partnerships among stakeholders of the Information Society. f) Explore the viability of establishing multi-stakeholder portals for indigenous people[s] at the national level. g) By 2005, relevant international organizations and financial institutions should develop their own strategies for the use of ICTs for sustainable development, and as an effective instrument to help achieve the goals expressed in the UN Millennium Declaration. h) Encourage a series of related measures, including among other things: incubator schemes, venture capital investments (national and international), government investment funds (including micro finance for Small Medium-sized and Micro Enterprises (SMMEs), investment promotion strategies, software export support activities (trade counseling), support of research and development networks and software parks. 
+6.	The “Information Society Indicators” would probably grow with the length of the Draft Plan of Actions.   By referencing to the spectrum diagram, we can also notice that there are advanced technological and investment issues such as “broadband access” which also receive a good deal of attention in WSIS.  This issue is for the countries which already surpassed the universality of basic low-bandwidth service, and they are ready for high-speed applications such as e-Learning, telemedicine and electronic entertainment.
+ 
+III.	A FRAMEWORK OF UNIFIED MEASUREMENT SPECTRUM
+
+7.	The authour would like to propose a method of measuring the Information Society through an agreed set of policy issues, classification of the policy issues into groups, and then the individual indicators.  In each indicator, an agreed convention on terminology and classifications of the measurement is needed in order to standardize the work.  Thus, it is possible to measure the real values of each indicator in every society.   
+
+8.	In practical terms, a country may ignore some policy issues which may be the main focus of other countries, as they may not be relevant to it.  For example, for some LDCs, there is no need to perform any measurement in broadband access, or PKI because they are not in the urgent list.  On the other hand, there may be no need to talk about basic telephone line penetration for highly advanced countries which are already using broadband access and advanced mobile services.
+
+9.	We will look at the ASEAN e-measurement framework and the case study of Thailand.
+
+
+IV.	ASEAN E-MEASUREMENT FRAMEWORK
+
+10.	The framework was initially proposed in the First ASEAN Workshop on Measuring of Digital Economy in September 2002 and then endorsed by e-ASEAN Working group & eASEAN Task Force in October 2002. The framework focuses on measuring “ readiness”, “usage” and “impacts” of ICT.  This framework is for measuring and monitoring e-Commerce as well as the ICT development of a country.  It has been used as a base for the member country in developing their national e-measurement framework.  The exercise aims for establishing the guidelines on definitions, data collection and measurement methodologies of ICT in each stage of development; readiness, usage, and impact.
+
+
+Source: NECTEC E-Commerce Resource Centre
+
+
+Overall Mean Scores  (infrastructure, e-Society, e-Government, e-Commerce)
+Varying Stages of e-Readiness.  Source: ASEAN e-Measurement Framework.
+
+
+V.	A CASE STUDY FOR THAILAND
+
+11.	Thailand is a middle-income nation, with 62.5 million population.  Her fixed-line telephone penetration is about 12% and mobile phone penetration of about 30%.  The Internet user penetration is about 10%.  The country enacted the Electronic Transactions Act since December 2001.   More than 60% of secondary schools in the country are online with the Internet.  Thai Government issued its first National ICT Master Plan (2002-2006) in September 2002.  This plan calls for actions in seven strategies.  These are:
+
+1. To promote domestic ICT industry especially the software industry; 
+2. The use of ICT for better quality of life; 
+3. To reform and to build capacity in ICT research and development;
+4. To raise potential social infrastructure for future competitiveness; 
+5. To develop potential entrepreneurships towards export expansion; 
+6. To facilitate small and medium enterprises (SME’s) in  utilizing ICT; and 
+7. To deploy ICT for e-government’s administrative and services, and develop e-government procurement.  
+
+12.	There are about 44 action items to be executed in the plan, with several benchmarks and targets to be achieved by the year 2006.  In each strategy, some indicators are already available at the National Statistical Office.  Many other indicators are to be developed.  (Please see the Appendix for the list of measurement points).  
+
+13.	The need for monitoring and evaluating the master plan calls for the systematic ICT data collection.  Not all indicators are readily available, and some are not easy to obtain.  Some of them need more interpretation as well as new data collection methodology. Thus, ICT data collection is an important task.
+14.	At present, collection of ICT statistics in Thailand is performed by various agencies, both in government and private sectors.  The National Statistical Office (NSO) collects the supply side and the demand side statistics as well as the impact of ICT.  On the demand side, data of ICT usage by business, household and government sector have been collected while the impact of ICT is measured via the public opinion survey.  
+
+15.	ICT market outlook data is annually compiled and reported by the consortium of ICT industry: The Association of Thai Computer Industry (ATCI), The Association of Thai software Industry (ATSI), and the Information Networking Association (INA). ICT import and export statistics have been collected by Thai Customs Department.
+
+16.	ICT statistics are also collected by NECTEC on the subject of Internet, e-commerce, and e-government development. NECTEC launched its first online Internet user survey in 1999. The survey is conducted and published annually under title of “Internet User Profile Survey”.   This suevey is a good source of observing “the digital divide” in Thailand.
+
+
+VI.	MEASURING E-COMMERCE
+
+17.	The e-commerce statistics are collected by the Electronic Resource Center (ECRC), at NECTEC. ECRC/NECTEC conducts many surveys for monitoring the development of e-commerce in Thailand. There is website survey for Thai web sites under the “ .com”, “. co.th”, “.net” and “.org” in 1999 and 2001.  The survey looks for number of active website and the level of website’s sophistication. The results are reported and classified by industry. 
+
+18.	The B2B and B2C e-commerce survey has been conducted by ECRC to quantify the number of enterprise involving in the business as well as the value of total sales in the e-commerce sector. In 2003, e-transaction survey has been conducted. The surveys were performed on Thai commercial banks and all those foreign bank branches regulated under the Bank of Thailand. The survey focuses on payment method, size and type of business participated in B2B and B2C, as well as the value and volume of transaction via the payment gateway systems. Website activities in the government sector are also monitored and keep tracking. 
+
+
+VII.	MEASURING E-GOVERNMENT
+
+19.	The e-government project unit developed tools called SEE which stands for Service e-Readiness Explorer for exploring functions and services provided on all web pages of Thai government agencies.  Other indicators related to e-Government, as required by the ICT Master Plan,  are also listed in the Appendix.
+
+20.	Some set of ICT statistics are also surveyed by the industrial sector.  The Association of Thai Computer Industry, the Computer Association of Thailand, etc. do run an annual survey of the computer business:  name of companies, address, market sizes, top products sold in these companies. The revenue of the ICT industry is currently estimated by the associations officially cooperating among three organizations.
+VIII.	USING THE OECD GUIDELINES
+
+21.	An agreed set of ICT indicators and their definitions are still in the process. In preparing for Thailand’s ICT indicator, we match our statistics with some interesting basic indicators from OECD as follows: 
+
+Readiness:
+      ICT investment 
+      ICT spending
+      ICT occupations
+      Telecommunication access path
+      Broadband penetration rate
+      Internet Hosts
+      Number of Websites
+      Internet Access Prices
+
+Use:
+      Internet subscribers
+      PC in households
+      Internet use by households and individuals
+      Internet use by enterprise size and industry
+      Internet transactions
+
+Impacts:
+      Valued Added
+      Employment
+      R & D and Patents in  ICT industries
+      Trade in ICT goods
+      Cross-border mergers
+      Acquisition and alliances
+      
+      
+IX.	A UNIFIED ICT INDICATOR PROJECT
+
+22.	Having identified several data collectors and processors within the country, NECTEC can conduct its data collection in cooperation with other relevant agencies.  The ICT indicator project aims at compiling the several sources of information into a book annually and a website, with the premiere issue to be released in October, 2003.   It is expected that the present work can lead to a grouping of indicators which can be adopted easily for countries with different focuses.  The author will present the work progress in a final form in December, 2003.
+
+
+
+ANNEX
+
+
+ICT indicators as required by the ICT Master Plan for Thailand (2002-2006):
+
+To measure the progress and the success of the plan, set of indicators for each strategic goals have been stated. These indicator set with a totaled of 59 indicators, is considered to first tier indicator needed to be collected. These indicators categorized by strategy are as follows:
+
+The first strategy aims for promoting the domestic ICT industry especially the software industry.
+
+Indicators:
+1.1	Number of qualified researchers, software developers, and certified professional developers
+1.2	Total value of government IT projects in which Thai entrepreneurs are involved
+1.3	Government's IT budget (for both hardware and software)
+1.4	Expansion of software market in the country
+1.5	Total value of exported software
+1.6	Total value of exported ICT products
+1.7	Ratio of domestic software development and open-source software systems to total value of software market in each year
+1.8	Increase in number of software developers and market capitalization
+1.9	Decrease in imported software
+1.10	Increasing demand for IT recruitment in newspaper advertisements
+1.11	Increase in salaries of IT professionals
+1.12	Number of open-source training and service centers
+      
+The second strategy aims for promoting using ICT to improve the quality of life and society.
+
+Indicators:
+2.1	Teledensity, urban and rural  
+2.2	Mobile phone penetration
+2.3	Number of public phones and public Internet access points
+2.4	Number of fixed-line telephones, which can transmit data at the rate of 32Kbps, in a community
+2.5	Speed of backbone access
+2.6	Decline in Internet access cost 
+2.7	Number of districts with telecenter 
+2.8	Ratio of Tambon Administrative Organisations with websites 
+2.9	Number of community radio and television stations
+2.10	Number of schools connected to Internet and the average number of connected computers in each school
+2.11	Number of IT training courses for teachers
+2.12	Number of teachers with IT access and utilizing IT as educational tools
+
+The third strategy aims for reforming and enhancing the ICT research and development capability.
+Indicators:
+
+3.1	Expenditure on ICT research and development in both the government and private sectors
+3.2	Ratio of locally assembled PCs usage
+3.3	Ratio of locally developed software usage
+3.4	Number of locally assembled lower-cost PCs
+3.5	Number of network computing courses taught in universities
+3.6	Number of graduate students in network computing 
+3.7	Number of software developers with skills in network computing
+
+The fourth strategy aims for lift up social capacity for future competition. 
+
+Indicators:
+4.1	Number of workforce that can access ICT
+4.2	Number of workforce that can access ICT and research information from Internet
+4.3	Number of graduates in any levels that can utilize ICT
+4.4	Ratio of computers to the number of students at all levels
+4.5	Computer course that is taught at every educational level
+4.6	Number of people attended professional training courses and being certified
+4.7	Number of people receiving ICT training courses from the Ministry of Labor
+4.8	Number of communities that can apply ICT to their local economy
+4.9	Number of Thai Web pages
+
+The fifth strategy aim for development of entrepreneur capacity competing in the international markets expansion.
+
+Indicators:
+5.1	Market value of e-commerce
+5.2	ICT employment in every industry
+5.3	Increase in the ratio of IT occupation employment to the increase in overall employment
+5.4	IT investment in every industry
+5.5	Ratio of ICT expenditures to the total increase in economic value
+5.6	Number of people with IT skills training from the Ministry of Labor
+
+The sixth strategy aims for promoting ICT utilization among SMEs 
+
+Indicators:
+6.1	Number of SMEs utilizing ICT in their back-office systems
+6.2	Number of SMEs utilizing ICT in mainstream operation
+6.3	Number of SMEs joining supply chain management
+6.4	Value of ICT investment by SMEs
+6.5	Number of SMEs on the government's Web portal sites 
+6.6	Number of SME websites
+
+The seventh strategy aims for promoting ICT utilization in government for administration and services.
+
+Indicators:
+7.1 	Number of government agencies fully utilizing ICT in their administration
+7.2 	Internal administration system of government agencies which utilize ICT in 	organization
+7.3 	Use of secured transaction systems (encryption, PKI)
+7.4 	Number of basic e-government services
+7.5 	Number of e-government services
+7.6 	Number of Government services that are linked to other agencies
+7.7 	Intensity of Government e-procurement
+7.8 	Use of Government payment gateway
+
+
+-----
+CES/SEM.52/8
+Page 6
+
+
+CES/SEM.52/8
+Page 7
+
+
+CES/SEM.52/8
+Annex
+Page 10
+
+
+CES/SEM.52/8
+Annex
+Page 9
+
+
+CES/SEM.52/8
+Annex
+Page 9
+
+

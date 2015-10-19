@@ -1,0 +1,192 @@
+TDUnited Nations
+Conference
+on Trade and
+DevelopmentDistr.
+
+
+TD/B/COM.3/61
+TD/B/COM.3/EM.19/3
+27 October 2003
+
+Original: ENGLISH
+
+TRADE AND DEVELOPMENT BOARD
+Commission on Enterprise, Business Facilitation
+ and Development
+Expert Meeting on Measuring Electronic Commerce
+Geneva, 8–11 December 2003
+?????
+
+
+ REPORT OF THE EXPERT MEETING ON MEASURING ELECTRONIC COMMERCE AS AN INSTRUMENT FOR THE DEVELOPMENT OF THE DIGITAL ECONOMY
+
+Held at the Palais des Nations, Geneva,
+from 8 to 10 September
+
+
+
+CONTENTS
+
+
+Chapter	Page
+
+I.	Chairperson’s summary		2
+
+II.	Organizational matters		11
+
+Annexes
+
+I.	Attendance 		12
+
+Chapter I
+ CHAIRPERSON’S SUMMARY
+ INTRODUCTION
+1. The Expert Meeting on Measuring Electronic Commerce as an Instrument for the Development of the Digital Economy was convened from 8 to 10 September 2003, pursuant to the decision taken by the Commission on Enterprise, Business Facilitation and Development at its seventh session. The Meeting was to address the subject of the statistical measurement of access to and use of ICT by enterprises, including e-commerce. The substantive discussions were structured according to the following thematic sessions:
+(a) Measuring the information society;
+(b) Measuring e-business: definitions, indicators, methods, model surveys;
+(c) Measuring the digital economy in developing countries;
+(d) Regional initiatives and an international forum;
+(e) International database and core indicators;
+(f) Conclusions and the way forward.
+2. Experts were primarily from national statistical offices (NSOs), although a number of participants came from ministries involved in ICT policy making and from international organizations. 
+3. The representative from the UN Statistical Division welcomed the initiative to hold the meeting and the work carried out by the experts, in particular the inclusion of the developing countries in the discussion on ICT and e-business indicators. He encouraged the experts to continue this work and to develop further conceptual and methodological questions that will advance the work on e-statistics.
+4. The experts suggested that the results of the meeting should be reported to the World Summit on the Information Society (WSIS), which will take place in Geneva in December 2003.
+A. E-measurement and ICT policy-making
+5. The discussion started by affirming that measuring the information society touches on all aspects of economic and social life. In view of the large and important impact of ICT on society, there is a need to support descriptive analysis of current developments with quantitative data. To start measuring the information society, a taxonomy is needed, devising indicators that will track the progress of ICT in a staggered process: first by measuring e-readiness, then the intensity of ICT usage and, finally, the impact and outcome of ICT on business organizations, individuals and the economy as a whole. This was illustrated by the so-called “S curve” on e-measurement established by the OECD.
+6. In the mid-1990s, the focus of intensity measurement was on measuring e-commerce, which today is understood to be only one element of e-business, i.e. the broad application of ICT to business processes and commerce. In the years that followed, data were developed in several developed countries, progressively increasing in scope and detail. Analytical interpretation was a necessary follow-up, and an important issue was to compare the perceived benefits with the inhibitors and barriers to ICT uptake as an input for policy deliberations. 
+7. The discussion indicated that the value of national data increases when they become comparable across borders. Policymakers need to be able to benchmark their performance against that of their main trade partners and competitors. Improving international comparability also has a positive effect on the return on investment of local resources used to develop e-measurement capacities, systems and infrastructures. International efforts to coordinate and harmonize data collection and analysis related to the information economy were first initiated in the framework of the OECD. In this regard, an example of the importance of the comparability of data was the analysis of the contribution of ICT to GDP growth in the United States compared to its impact on the economies of other OECD countries, and how statistical methodologies could partially account for apparent differences in the impact on productivity of the adoption of ICT by enterprises. 
+8. While in several countries the initial purpose of measuring e-commerce was to understand the scale of the phenomenon, the longer-term analytical value lay in the information gained about the effects of ICT on productivity, business organization, growth, prices and welfare. A first conclusion of work carried out so far in a number of developed countries indicates that e-business is a fast-growing phenomenon, although smaller than expected when e-measurement was first undertaken. In some countries, surveys point to the predominance of large enterprises using legacy systems rather than open Internet-based systems. At the same time, the number of “marginal” Internet traders is still large, albeit declining. High entry and exit levels also characterize e-markets. Several surveys have shown that productivity rises are higher in enterprises buying or procuring goods online than in those selling online. Surveys also seemed to indicate that the economic effects of ICT are highly sector-specific.
+9. An important motivation for developing and increasing the complexity and scope of e-measurement in a number of countries is the demand for data from Governments, policy and research organizations and international forums. Such demand is the manifestation of mounting awareness of the social and economic relevance of ICT and of the existence of clear and well-devised ICT development strategies. However, in many developing countries policy makers are not yet fully aware of the developments and benefits related to ICT. It was therefore suggested that UNCTAD include the need for developing ICT indicators in its work on national e-strategies.
+10. The participants noted that policy and measurement frameworks should be mutually interdependent and should address the needs of both the business community and the Government and citizens, in particular when relevant to the issues of security, public data and promoting local content and culture. Achieving this consensus is a first step, to be followed by agreeing on an international set of indicators. While the complexity of these tasks is particularly important for many developing countries, several fundamental e-readiness indicators could be assessed in many developing countries and statistical offices, and policymakers do not need to wait for a final agreement or prescription of national and international e-indicators.
+11. It was questioned whether the involvement of government statistical offices would prevent the reoccurrence of the misinformation and hype that were seen in the run-up to the dotcom bubble and if their involvement would improve forecasting. The discussion that followed affirmed that, while the involvement of national statistical offices could improve the quality of ICT data, forecasting is clearly not a mandate for many of them: their role is to provide quality data to research institutes and policymakers, who can then devise forecasts as needed.
+Experiences and lessons learned
+12. The OECD has developed a working definition of e-commerce, which is now widely used among OECD countries and some developing countries. With the progress made on conceptual and methodological issues, coupled with the experiences collected from the surveys, a rethinking of the definition may be required (e.g. on issues such as whether to include e-mail or e-deliveries). Already, some non-OECD countries are using their own definitions of e-commerce. Further work on definition at the international level will therefore be necessary to accommodate countries’ and/or users’ different environments and practices. 
+13. While in the past much effort was invested in measuring e-commerce, e-business is not yet being measured. Experts stressed that work on measuring e-commerce needs to be put in the e-business context. Measuring online transactions is not sufficient to capture the full dimension of ICT usage by companies. There was broad agreement on the need to develop indicators and questions on e-business processes, work that has already started in the OECD. Data concerning e-business processes could be very informative about the types of usage of ICT in business, especially in developing countries, where little online commerce takes place. This will have implications for the model questionnaires on e-business developed by the OECD. Several experts referred to the need for more detailed data in order to better understand the role of various e-business activities within enterprises.
+14. An important lesson learned by those NSOs that have accumulated longer experience in collecting ICT statistics is that NSOs should start with a simple set of questions or indicators and then, step-by-step, add questions and more complex indicators to their surveys. The OECD model questionnaire may also be too long and too expensive for implementation in developing countries. Rather than implementing it in full, they should start with a few ICT questions that could be added to existing business surveys. A modular approach, adopting those elements of model surveys that are relevant to each stage of the implementation of e-measurement, continuous improvement and learning by doing, were seen by experts as the most advisable strategies for NSOs in the earlier stages of e-measurement.
+15. A number of questions were raised about the overall success and quality of ICT surveys. One problem that was noted was a classification and definition issue between the many overlapping categories of B2B, B2C, domestic, cross-border and wholesale and retail commerce. Finding a solution requires looking at the actual trading economy in a particular country and assessing its particularities. An important problem in some developed countries was the early focus on e-commerce data. This is an important example for developing countries, indicating that, while there may not be much e-commerce to measure, the measurement of the information society does not need to hinge on this narrow application of ICT in trade. Surveys need to focus on development issues or industries and sectors of particular policy or strategic interest, and a broad approach may not be always necessary. Other areas of surveying involve indicators related to assessing the multiple dimensions of the digital divide and the ICT capacities of public service providers and administrations.
+16. The discussion referred to ISIC and asked how classification systems would affect the development of e-measurement activities. It was noted that e-commerce is not a particular product or service, while there is some possibility for differentiation at the third or fourth digit level. As classifications are only statistical tools, and because they tend to change infrequently, they should not be impediments to developing e-measurement. At present, it is necessary to measure and compile; the data could be reclassified if and when the development of ISIC made this possible.
+17. Another issue is the complexity of surveying and the difficulty of properly assessing the level of familiarity of respondents with ICT and consequently their capacity to understand and provide the information sought from them. It was suggested that one way to maximize response rates and reduce errors by respondents is to establish partnerships with business associations; such partnerships also represent an opportunity to reduce the cost of surveys. 
+18. It was noted that even existing statistics could provide significant amounts of information via reclassification, regrouping and recalculation. However, there is a need to continuously develop new methods for measuring the use of the Internet, especially e-commerce among enterprises and consumers. Unlike other economic statistics, e-indicators need to change in type and frequency of surveying and assessment in order to monitor the rapid development and deployment and impact of ICT on society. E-indicators also need to address a diversity of items of policy interest, and each country and Government has to decide which would be locally relevant, depending on their economic profile. Indicators on ICT use by SMEs, the digital divide across gender, income or geography, e-commerce or R&D investment could all be more relevant in one country than in another.
+19. Certain indicators may not be relevant in the future any more (e.g. the question on “do you have Internet access”). Others may come back again (e.g. on fixed telephone lines in households, the number of which could decline in the future as more and more people use mobile phones).
+20. The role that traditional measurement instruments can play in the measurement of the information society should not be underestimated. In many cases, indicators for the measurement of ICT infrastructure/usage could be included in existing surveys. It would also be wrong to underestimate the diverse array of information sources locally available, such as registers, ISP providers, cable TV networks, business associations, and other national surveys.
+21. It is important to keep in mind the difference between the response patterns of SMEs and that of larger enterprises. Other factors that influence the capacity of enterprises to integrate ICT into their operations successfully and therefore to respond adequately to surveys are their relationship with large business groups and the age of the enterprise. 
+22. It was generally thought that monetary indicators not based on existing bookkeeping values are difficult to get and verify. However, it was deemed possible to formulate survey questions to provide quantitative indicators from qualitative data. 
+23. The experiences presented by experts from developing countries demonstrated the importance of collecting the basic e-readiness indicators on infrastructure before ICT usage and the impact of ICT investments can be measured. Examples were provided of some such infrastructural indicators, including the number of PCs, Internet users and websites, with a focus on their use by businesses. 
+24. Data can be collected from Governments, the private sector and society at large. Carrying out ISP surveys can be useful in both developed and developing countries, as they provide data on types of Internet subscriptions, connections and users, as well as the amount of Internet traffic transmitted and international bandwidth. On the other hand, new technologies, such as WiFi, will make it more difficult to identify ISPs. Furthermore, ISP surveys do not capture dial-up on demand users (i.e. non-subscribers) or those using prepaid cards.
+Regional initiatives
+25. At the regional level, a number of initiatives have emerged to advance the work on information society statistics. The most advanced of those, Eurostat, the European Union’s statistical office, develops relevant information society statistics for European policy makers. In charge of strategy development and methodological work, it coordinates with member States’ NSOs, and works with other international organizations, in particular the OECD, to promote the creation of harmonized statistics. It is expected that the work with OECD will be reinforced in the near future.
+26. The eEurope 2002 and 2005 Action Plans, which contain benchmarking indicators agreed by all member States to track progress in the field of the information society, serve as the basis for the work of Eurostat. Since 2001 (2002 for enterprises), Eurostat has been producing two annual ICT surveys, one for enterprises and one for households/individuals, and in 2003 it adapted them to the eEurope 2005 Action Plan. It tackled early problems such as weak validation tools, inability to provide complete coverage of the financial sector or the small samples provided by some member States by formulating a tabulation scheme and developing common validation tools to ensure quality. For the future, Eurostat will face the challenges of establishing a legal basis to reinforce the execution of surveys; the introduction of more complex indicators, such as a single e-readiness index for businesses; addressing differences in the size and area of enterprises, in particular in the financial sector; and addressing regional differences. 
+27. Individual national statistics offices have also proved good mobilizers for regional harmonization efforts. In the case of Latin America, Peru held two regional workshops in 2003, with representatives from national statistical offices and with the participation of regional bodies such as the Ibero-American Science and Technology Indicators Network (RICYT) and the UN Economic Commission for Latin America and the Caribbean. After identifying indicators, defining methodologies and setting priorities, proposals were set out at the Latin American Commission for Statistics (CEA - Comisión de Estadísticas de las Américas) to promote the application of a minimum set of indicators to be considered in the statistical plans of CEA members. It has been recommended that the CEA member countries have a permanent workgroup and cooperate with countries that are less developed in the matter.
+28. Asian efforts in the field of ICT commenced with the eASEAN Framework Agreement signed in November 2000, which endorsed six main thrusts: establishing an ASEAN Information Infrastructure; promoting electronic commerce; the liberalization of trade in ICT products and ICT services, and of investments; facilitating trade in ICT products and services; building capacity and e-society; and e-government.
+29. The first ASEAN e-Readiness Assessment was put in place in 2001. ASEAN members realized the importance of recognizing the needs in terms of monitoring and measuring e-commerce and ICT development, and discovered a lack of many primary data, a lack of appropriate measurement methodologies to collect several reliable statistical indicators, and ambiguity over definitions and scope of coverage. 
+30. The first ASEAN e-Measurement meeting was held in September 2002, followed by the establishment of an ASEAN e-Measurement Working Group in October 2002. A second ASEAN e-measurement workshop (to be held on 28 October 2003 in Myanmar) will discuss common definitions for a preliminary list of key ICT indicators and some model surveys and data collection methodologies. 
+31. The experiences of ASEAN and of Thailand have emphasized the need to integrate ICT strategy with measurement activities – measurement and statistics should be implemented to help social and economic development, not for their own sake; the need to gain political support for e-measurement activities; the importance of establishing an institution and securing funding; and the benefits of starting small and scaling up later while continuously improving.
+B. Developing countries’ needs
+32. In spite of these efforts, most developing countries are at an early stage of e-measurement, and although a few of them have recently made full-fledged efforts to collect basic statistics, most face difficulties in defining the data that should be collected. Experts also expressed concerns about the digital divide and the need to create awareness among policy makers about the benefits of ICT. The definitions and model surveys to be used, the financial implications and the enhancement of skills were all mentioned as issues requiring attention in order to ensure the success and sustainability of e-measurement efforts. 
+1. Experts considered it important that internationally recognized concepts and definitions, methods and classifications should be used. It was strongly suggested that the model surveys developed by the OECD and Eurostat should be made available on the Internet and widely disseminated. At the same time, such models should be adapted in order to make them relevant to the reality and needs of individual developing countries. For example, the experts observed that micro enterprises are often excluded from the existing model surveys from developed countries. The considerable differences existing between the concept of SMEs in developed countries and the reality of developing countries was also mentioned. These differences go deeper than just size and involve aspects such as the adoption of technology and levels of productivity.
+33. The determination of the size and periodicity of surveys was said to be mainly dependent on financial resources and on the fatigue of surveyed entities. Yet it was stressed that Governments and end-users should be convinced of the usefulness of carrying out ICT measurement. Technical committees composed of representatives of the public and private sectors at the national level could play a role in this regard. 	
+34. The need to review the relevance of indicators as technology evolves was underscored. For example, the increasing use of mobile phones, in particular in developing countries where fixed lines are not intensively developed, has to be acknowledged and reflected in surveys. In general, questions have to be kept simple and adapted to the reality of each country. 
+35. There was a general consensus on the need to assess and strengthen the capacity of NSOs of developing countries in the field of ICT statistics, including the application of new methodologies. Although general statistical skills are mainly in place in many NSOs, it was felt that they would greatly benefit from training on ICT-related issues to improve their understanding of the particularities of measuring the information society. International and regional forums provide an important medium to exchange experience and best practices and improve understanding of problems and challenges. It was also felt that there is an opportunity for developing countries to look at their own statistics, together with the existing methodologies developed by the OECD and the EU, to determine to what extent their existing data could be linked to these systems. Attention was also drawn to needs in respect of the technical equipment required to process data in an efficient manner. 
+36. Experts identified several areas where UNCTAD as well as other international and regional organizations could assist developing countries to develop their capacities to be able to measure the digital economy. The need for support and assistance from UNCTAD and other international and regional bodies was emphasized, in particular at the national and regional level with regard to training on methodologies to collect and analyse data. It was also recommended that the experiences of countries more advanced in the measurement of ICTs could be shared further through seminars.
+37. Universities could be key partners in building an organizational and technology infrastructure to measure the impact of ICT and e-business for development, as well as in providing training to NSOs in developing countries. The following possible areas of collaboration with universities were suggested: (1) the provision of new standard processes that are readily deployable and draw upon best practices; (2) the provision of new metrics and tools; (3) the provision of new forums, such as an international virtual online support network to be of assistance in extending current work, meetings, discussions and regional initiatives; (4) the provision of new graduate degrees as an incentive for policy and statistical analysts to innovate.
+Discussion forum on e-measurement; core indicators; international database. The way forward
+38. Experts greatly appreciated the fact that the meeting brought together practitioners from many countries, developed as well as developing. The meeting thus provided a forum for participants to learn about initiatives and approaches on e-measurements in other regions and countries, and provided new stimulus to existing work. This was an important way to diffuse the work that had been accomplished by the OECD to non-OECD countries. The desire to continue discussions and exchange of experiences at the global level was expressed. To this end, suggestions were made for UNCTAD to continue providing such a forum for experts to further develop conceptual and methodological work on information economy statistics and share best practices. For example, the model surveys of OECD or Eurostat should be harmonized at the international level. UNCTAD could play the role of a catalyst for developing a roadmap to develop e-business statistics further globally. Other institutions, such as Eurostat, would be happy to support this initiative and to offer its questionnaires as a base for international comparable statistics in the field of ICT usage.
+39. A proposal was made on a set of core indicators for ICT measurement that could be collected by all countries. These would focus on e-readiness and usage indicators for businesses and households, as it would be premature to attempt to measure impact. The collection of such a set of indicators in developing countries should be possible without major resource implications. Experts stressed that the international comparability of data is vital for policy makers. Such a common set of indicators would be the first dataset on e-business that would be comparable at the international level. It would provide an important basis for ICT policy-making, research and business decisions. 
+40. Suggested ICT business indicators include the following: businesses with PCs; employees using PCs; business mode of access to the Internet; businesses with websites; receiving/placing orders over the Internet; and value of orders received over the Internet. The indicators should include a breakdown by size and sector of activity.
+41. In addition to these core indicators, a supplementary list of indicators was presented which could be collected by those countries that had more advanced statistical systems or resources. These could include the following: barriers to ICT use; barriers to Internet access; activities on the Internet; and value of orders placed over the Internet. Future work could focus on reaching an agreement on such a set of indicators, including others related to e-business processes or the legal and regulatory framework.
+42. Agreeing to a basic common set of core indicators that could be compared internationally would constitute the starting point for the creation of an international database on ICT and e-business statistics. Experts considered working towards such a database would be a desirable objective for future work. The development of such a database could be a collective effort among various international organizations, including ITU, OECD and UNCTAD, as well as interested national agencies.
+43. The experts considered that UNCTAD could help create the political will for the development of national e-strategies, and for the development and harmonization of e-measurement. Moreover, UNCTAD should collaborate and assist developing countries to develop their national e-measurement strategy. To this end, it was proposed to create a virtual forum for online information and tools exchange between statistical offices from developed countries and developing countries. UNCTAD could also share models of some specific national/regional surveys on ICT and e-commerce. Finally the experience of this and future meetings could be further discussed in UNCTAD’s 2004 Electronic Commerce and Development Report.
+
+Chapter II
+ ORGANIZATIONAL MATTERS
+A. Convening of the Expert Meeting
+44. The Expert Meeting on Measuring Electronic Commerce as an Instrument for the Development of the Digital Economy was held at the Palais des Nations, Geneva, from 8 to 10 September 2003.
+B. Election of officers
+(Agenda item 1)
+45. At its opening meeting, the Expert Meeting elected the following officers to serve on its bureau:
+      Chairperson:	Mr. Patrice Roussel (France)
+      Vice-Chairperson-cum- Rapporteur:	Mr. Somnuk Keretho (Thailand)
+
+C. Adoption of the agenda
+(Agenda item 2)
+46. At the same meeting, the Expert Meeting adopted the provisional agenda circulated in document TD/B/COM.3/EM.19/1. The agenda for the Meeting was thus as follows:
+   1.	Election of officers
+   2.	Adoption of the agenda
+3.	Measuring electronic commerce as an instrument for the development of the digital economy
+   4.	Adoption of the report of the Meeting
+D. Documentation
+47. For its consideration of the substantive agenda item, the Expert Meeting had before it a note by the UNCTAD secretariat entitled “Information society measurements – The case of e-business: Background paper by the UNCTAD secretariat” (TD/B/COM.3/EM.19/2).
+E. Adoption of the report of the Meeting
+(Agenda item 5)
+48. At its closing meeting, the Expert Meeting authorized the Rapporteur to prepare the final report of the Meeting under the authority of the Chairperson.
+
+Annex
+ ATTENDANCE ?
+1. Experts from the following States members of UNCTAD attended the Meeting:
+
+
+AngolaArgentinaBelgiumBrazilCameroonCanadaChileChinaDominican RepublicEgyptEritreaEthiopiaFinlandFranceGermanyIndiaIndonesiaItalyKenyaLatviaLuxembourgMadagascarMexicoOmanPhilippinesPolandRomaniaRussian FederationSenegalSingaporeSwitzerlandThailandThe former Yugoslav Republic of
+  MacedoniaTrinidad and TobagoTurkeyUnited Kingdom of Great Britain
+   and Northern IrelandViet NamYemen
+
+
+2. The following intergovernmental organizations were represented at the Meeting:
+African, Caribbean and Pacific Group of States
+Commonwealth Secretariat
+European Community
+Organisation for Economic Cooperation and Development
+Organisation Internationale de la Francophonie
+
+3. 
+The following United Nations agencies were represented at the Meeting:
+	Representatives of the Office of the Director-General of UNOG
+	Economic Commission for Europe
+	International Trade Centre
+Secretariat of the United Nations ICT Task Force
+	Statistics Division
+
+4. The following specialized agencies and related organizations were represented at the Meeting:
+International Labour Organization
+International Telecommunication Union
+United Nations Educational, Scientific and Cultural Organization
+
+5. The following non-governmental organization was represented at the Meeting:
+	General Category
+
+	International Confederation of Free Trade Unions
+
+6. The following special invitees attended the Meeting:
+Mr. Samir Baradhi, Association de companies d’assurances au Liban,
+  Beirut, Lebanon
+Mr. Nune Magoyan, E-Armenia Foundation, Yerevan, Armenia
+Mr. Satyadeep Rajan, Director, NODS, Geneva
+Mr. Roderick Sanatan, Acting Director, Centre for International Services, University of the West Indies, Barbados 
+Mr. Ernesto Sosa, Chief Innovation Officer, __, Caracas, Venezuela
+Mr. Charles Watt, Senior Director, Scottish Enterprise, Edinburgh, Scotland
+
+7. The following resource persons attended the Meeting:
+Mr. Stéphane Gagnon, Assistant Professor and Director, New Jersey Institute of Technology (NJIT), E-Lab, New Jersey, USA
+Mr. Farid Matuk, Instituto Nacional de Estadística e Informática, Lima, Peru
+
+ 
+? For the list of participants, see TD/B/COM.3/EM.19/INF.1.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+TD/B/COM.3/61
+TD/B/COM.3/EM.19/3
+page 12
+
+
+TD/B/COM.3/61
+TD/B/COM.3/EM.19/3
+page 13
+
+
+GE.03-53231
+

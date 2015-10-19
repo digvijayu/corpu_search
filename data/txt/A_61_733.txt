@@ -1,0 +1,658 @@
+[Start1]
+Sixty-first session
+Agenda item 132
+Administrative and budgetary aspects of the financing 
+of the United Nations peacekeeping operations
+
+
+
+		Performance report on the budget of the support 
+account for peacekeeping operations for the period 
+from 1 July 2005 to 30 June 2006 
+
+
+		Report of the Secretary-General
+
+
+
+Contents
+ParagraphsPageI. 	Introduction	1–54II. 	Resource performance	6–625A. Department of Peacekeeping Operations	17–257B. Executive Office of the Secretary-General	26–2817C. Office of the United Nations Ombudsman	29–3219D. Office of Internal Oversight Services	33–4021E. Office of Legal Affairs	41–4324F. Department of Public Information	44–4626G. Department of Management	47–5627H. Department of Safety and Security	57–6235III. 	Activities of the Training and Evaluation Service	6338IV. 	Adjustment to the assessment for the approved appropriation for the period from 1 July 2006 to 30 June 2007	64–6639V. 	Actions to be taken by the General Assembly	6740
+
+
+	Summary	The present report contains the performance report on the budget of the support account for peacekeeping operations for the period from 1 July 2005 to 30 June 2006.Performance of financial resources
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+VarianceCategoryApportionmentaExpenditureAmountPercentagePost requirements113 383.7107 745.75 638.05.0Non-post requirements33 551.528 242.55 309.015.8	Gross requirements146 935.2135 988.210 947.07.5Staff assessment income18 871.316 718.02 153.311.4	Net requirements128 063.9119 270.28 793.76.9
+	a	As approved in resolution 59/301.
+
+
+Human resources incumbency performance
+
+
+CategoryAuthorized staffActual incumbency (average)Vacancy rate
+(percentage)bProfessional and above5224925.9General Service and related categories3092896.6
+	b	Based on monthly incumbency and planned strength. 
+
+	The actions to be taken by the General Assembly are set out in section V of the present report.
+
+		Abbreviations
+
+
+BINUBUnited Nations Integrated Office in BurundiMINURSOUnited Nations Mission for the Referendum in Western SaharaMINUSTAHUnited Nations Stabilization Mission in HaitiMONUCUnited Nations Organization Mission in the Democratic Republic of the CongoONUBUnited Nations Operation in BurundiUNAMAUnited Nations Assistance Mission in AfghanistanUNAMIUnited Nations Assistance Mission for IraqUNAMSILUnited Nations Mission in Sierra LeoneUNDOFUnited Nations Disengagement Observer ForceUNDPUnited Nations Development ProgrammeUNFICYPUnited Nations Peacekeeping Force in CyprusUNIFILUnited Nations Interim Force in LebanonUNIOSILUnited Nations Integrated Office in Sierra LeoneUNLBUnited Nations Logistics Base at Brindisi, ItalyUNMEEUnited Nations Mission in Ethiopia and EritreaUNMIKUnited Nations Interim Administration Mission in KosovoUNMILUnited Nations Mission in LiberiaUNMISUnited Nations Mission in the SudanUNMITUnited Nations Integrated Mission in Timor-LesteUNMOGIPUnited Nations Military Observer Group in India and PakistanUNOCIUnited Nations Operation in Côte d’IvoireUNOMIGUnited Nations Observer Mission in GeorgiaUNOPSUnited Nations Office for Project ServicesUNOTILUnited Nations Office in Timor-LesteUNTSOUnited Nations Truce Supervision Organization
+
+	I.	Introduction
+
+
+1.	The number of active peacekeeping missions during the reporting period from 1 July 2005 to 30 June 2006 was 17, including two missions (UNTSO and UNMOGIP) funded from the regular budget. During the reporting period the Secretariat completed the full operational deployment for UNMIS, which was authorized in March 2005. During the period the Security Council adopted significant adjustments to existing mandates by increasing military and police personnel in MONUC, MINUSTAH and UNOCI and reducing the force level in UNMEE and ONUB. In the same period the final withdrawal of UNAMSIL was completed and the follow-up mission, UNIOSIL, was established.
+2.	In addition to peacekeeping operations, the Department of Peacekeeping Operations continues to provide a full range of administrative and logistical support services to 16 special political missions, 11 of which were managed by the Department of Political Affairs. The Department of Peacekeeping Operations also has the substantive lead in three missions (UNAMA, UNOTIL and UNIOSIL). With UNMIS at its full operational capacity, the overall peacekeeping budget increased considerably, from $2.7 billion in 2003/04 to $4.4 billion in 2004/05 and $5.0 billion in 2005/06. The overall level of peacekeeping activity has had an impact on the level of support and backstopping provided by all departments at United Nations Headquarters. 
+3.	The number of troops and other personnel deployed in the missions during the period also increased. The peak number of troops deployed in 2004/05 was approximately 58,843, which increased to 63,099 in 2005/06. At the same time, the peak number of United Nations police officers reached 7,552, compared with 6,766 in the previous reporting period. The peak number of military observers increased moderately, from 2,177 in 2004/05 to 2,731 in the 2005/06 reporting period. At the aggregate level, these trends resulted in a maximum of 73,382 police and military personnel being deployed during 2005/06, an 8 per cent increase from the 2004/05 level of 67,786. The level of civilian staff in the peacekeeping missions also increased by 8 per cent, from 12,236 in 2004/05 to a peak level of 13,255 in the 2005/06 reporting period. In addition, the Department of Peacekeeping Operations provided administrative support to 2,393 civilian staff in political and peacebuilding missions during 2005/06, an increase of 52 per cent from the previous period, in which administrative support was provided to 1,574 staff.
+4.	During the period under review, the Secretariat has continued to improve its performance in the management of peacekeeping operations. The achievements of such work in the Department of Peacekeeping Operations and other departments are described in the context of the results-based frameworks in the present report. The actual performance of the offices and departments concerned is presented against the baselines that were established in the 2005/06 budget (A/59/730). The extent to which progress has been made against the expected accomplishments is presented in the results-based frameworks, which compare actual indicators of achievement with planned indicators of achievement. Information on planned and actual outputs is provided in the addendum to the present report. 
+5.	In the present report, the Secretariat has continued recent years’ efforts to make the frameworks more concrete, streamlined and reader-friendly. Wherever appropriate because of the need to reprioritize resources in response to unplanned priorities, particular efforts have been made to explain the impact on the actual outputs being compared with the planned outputs of the approved budget (A/59/730).
+
+
+	II.	Resource performance
+
+
+6.	The resources approved for the period from 1 July 2005 to 30 June 2006 totalled $146,935,200, against which expenditures amounted to $135,988,200, resulting in an unencumbered balance of $10,947,000. That represented a budget implementation rate of 92.5 per cent, which was lower than the rate of 97.1 per cent in the previous reporting period.
+7.	The unencumbered balance was attributable primarily to underexpenditure in respect of post resources. Unexpended resources were incurred under general temporary assistance, consultants, information technology, medical and other supplies, services and equipment. Overexpenditures in respect of communications and official travel have been recorded.
+8.	The unspent balance in respect of post resources was attributable primarily to higher-than-budgeted vacancy rates as follows: 
+	(a)	In the Office of Internal Oversight Services, 31 new posts were established, the majority of them for the resident auditor capacity in the peacekeeping missions. The number of new posts placed an extremely heavy workload on the recruitment section of the Executive Office of the Office of Internal Oversight Services. The situation was exacerbated by the higher-than-normal turnover of staff in the peacekeeping missions due to the difficult and inadequate living conditions in non-family duty stations and security concerns;
+	(b)	In the Procurement Service and the Peacekeeping Financing Division of the Department of Management, there were delays in recruitment resulting from the reprioritization of the workload in support of management review and investigations of procurement cases in the Procurement Service, the heavy workload related to the preparation of budgets and revised budgets for MONUC and MINUSTAH and the preparation of budget estimates related to the United Nations reform.
+9.	The savings were also due to the lower-than-budgeted common staff costs and a number of posts being encumbered by staff members at a lower grade level than that budgeted in the Division for Organizational Development of the Office of Human Resources Management.
+10.	The underexpenditure under general temporary assistance resulted from a combination of delayed recruitment, the fact that some of the relevant functions were performed through temporary recruitment of staff against vacant posts in the Department of Peacekeeping Operations and the Office of Internal Oversight Services and the postponement of planned projects. The field finance training course module was postponed, as General Assembly resolution 60/283, adopting the International Public Sector Accounting Standards for the United Nations, necessitated major changes in the field finance module to align it with those Standards and the implementation of the Enterprise Budget Application project was postponed due to difficulties encountered in the procurement process, resulting in the rebidding of the project to solicit new vendors.
+11.	The savings in respect of consultants were attributable primarily to the postponement of various safety training courses in the Department of Safety and Security because of a reprioritization of resources to expand the scope and number of participants in the annual Chief Security Officer/Chief Security Adviser workshop at UNLB, the utilization of in-house staff instead of external consultants in the delivery of a joint European Union/United Nations course on disarmament, demobilization and reintegration and a contingent-owned equipment workshop in the Department of Peacekeeping Operations.
+12.	The net overexpenditure recorded under official travel was due primarily to the following:
+	(a)	Additional requirements in the Department of Peacekeeping Operations related to an increased level of training activities implemented during the period by the Training and Evaluation Service of the Military Division; 
+	(b)	Additional requirements in the Office of Internal Oversight Services related to the comprehensive audit of the Department of Peacekeeping Operations.
+Those additional requirements were offset by savings in the Department of Management, due primarily to the cancellation by the Procurement Service of a planned training course in rapid intervention for start-up missions. The Procurement Service reprioritized its resources to focus on the comprehensive management review of the Service and the internal investigations undertaken on procurement cases. The non-utilization of travel funds by the Peacekeeping Financing Division was due to its heavy workload in connection with the preparation of revised budget estimates for UNOCI and MINUSTAH and the peacekeeping financing proposals contained in the United Nations reform documents. 
+13.	The underexpenditure under facilities and infrastructure was due primarily to the use of existing furniture for new staff instead of the purchase of new furniture for all departments and the postponement of required security enhancements for the Investigations Unit at the United Nations Office at Vienna because of the renovation of the premises.
+14.	The overexpenditure under communications was due primarily to actual commercial communications rates being higher than the budgeted rate. The budgeted amount of $1,000 per user per year did not take into account requirements for right-to-use charges of approximately $400 per user per year. 
+15.	The net savings recorded under information technology were attributable primarily to the postponement of the implementation of the Enterprise Budget Application in the Peacekeeping Financing Division because of procurement difficulties necessitating a rebidding of the procurement process.
+16.	The net savings under other services, supplies and equipment was due primarily to (a) a lower-than-planned level of publication of training materials by the Training and Evaluation Service of the Military Division of the Department of Peacekeeping Operations, (b) the non-utilization of the fees for long-distance learning in the Office of Internal Oversight Services because of the reprioritization to focus on the comprehensive management audit of the Department of Peacekeeping Operations and (c) the cancellation of planned training activities and the postponement of the production of preventive outreach materials in the Office of the United Nations Ombudsman pending the recommendations of the Redesign Panel.
+
+		Table 1
+Summary of resource performance by category
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+Approved apportionmentExpenditureVarianceCategoryAmountPercentageI.Post resources113 383.7107 745.75 638.05.0II.Non-post resourcesGeneral temporary assistance8 522.64 134.94 387.751.5Consultants1 767.81 638.2129.67.3Official travel5 227.65 482.1(254.5)(4.9)Facilities and infrastructure9 329.29 202.0127.21.4Communications1 191.51 350.9(159.4)(13.4)Information technology6 168.95 198.6970.315.7Medical100.097.03.03.0Other services, supplies and equipment1 243.91 138.9105.08.4Subtotal, category II33 551.528 242.55 309.015.8Gross requirements, categories I-II146 935.2135 988.210 947.07.5III.Staff assessment income18 871.316 718.02 153.311.4Net requirements, categories I-III128 063.9119 270.28 793.76.9
+
+		Table 2
+Other income and adjustments
+(Thousands of United States dollars)
+
+CategoryAmountInterest income1 931Other/miscellaneous income101Savings on or cancellation of prior-period obligations1 398	Total3 430
+
+
+	A.	Department of Peacekeeping Operations 
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency$88.5$86.9568551
+
+1.	Results-based framework
+
+(a)	Office of the Under-Secretary-General
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementSecurity Council resolutions incorporate recommendations for establishing potential or adjusting existing peacekeeping operations9 resolutions: MONUC (2), ONUB (2), UNMEE, UNMIL, MINUSTAH UNOCI, and UNMISParticipation of troop- and police-contributing countries in the development of strategic direction for new or new phases of peacekeeping operationsAchieved, through:
+•	25 consultations with troop-contributing countries
+•	10 consultations with troop- and police-contributing countries
+•	4 consultations with police-contributing countriesApproval of amendments to policies and procedures regarding United Nations standards of conduct by Member StatesRevision of model memorandum of understanding for troop-contributing countries (January-June 2006) on standards of conduct, responsibility for disciplinary action, investigations by the United Nations and by Member States, jurisdiction and accountability of Member States
+Ongoing discussions by the Conduct and Discipline Team with Member States on standards of conduct to be included in the memorandum of understanding for troop-contributing countries
+
+
+
+Expected accomplishment 2: rapid deployment and establishment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementCompliance with the 30/90-day rapid-deployment times for traditional/complex operations or the timelines set by the Security CouncilNo new missions were established during the periodAgreement by United Nations partners on roles and responsibilities for peacekeeping and peacebuilding activitiesThe revised integrated mission planning process approved by the Secretary-General in June 2006 sets out the definition of responsibilities in the planning process and the development of common United Nations objectives for integrated missions
+Discussions are under way with the UNDP Bureau for Crisis Prevention and Recovery on coordination and joint programming in public administration support functions in missions and in a pilot project in Liberia
+Joint Department of Peacekeeping Operations/World Bank review of cooperation in economic governance produced in February 2006
+Initiation of European Union/United Nations after-action review on the European Union Force in the Democratic Republic of the Congo, planning and agreement on transition modalities, including establishment of a steering committee
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementIncrease from 85 to 88 per cent in the percentage of mission responses indicating constant or usual satisfaction with the guidance and support provided by the Department of Peacekeeping Operations at HeadquartersA formal mission survey for 2005/06 was not undertaken due to resources being redirected to the preparation of “Peace operations 2010”All peacekeeping operations employ a data recording and tracking system for allegations, investigations and follow-up of personnel misconductAll missions were provided with misconduct reporting templates for the recording, tracking and follow-up of allegations and transmittal of cases to the Conduct and Discipline Team at Headquarters
+A web-based file-storing mechanism was established for authorized mission users to securely store, receive and transmit allegations
+Missions submit monthly statistical and narrative reports of the status of all allegations to the Conduct and Discipline Team at Headquarters using standardized templates
+This is an interim system that will remain in place until the comprehensive misconduct tracking system is fully implemented in the first quarter of 2007Electronic access to all current peacekeeping-related policy, operational and reference materials by all peacekeeping operationsAchieved. Electronic access is currently provided via the Department of Peacekeeping Operations Intranet to all Department of Peacekeeping Operations staff globally. The online database was launched on 15 May 2006 and peacekeepers have downloaded more than 20,000 pieces of guidance material from the websiteTwo pilot missions apply newly developed tools to identify and share best practices and lessons learnedAchieved. Tools to identify and share best practices and lessons learned were sent to all field missions in September 2005. From September 2005 to June 2006, UNMIS and ONUM produced a total of 25 reports (after-action reviews and end-of-assignment reports). Those reports are available on the Department of Peacekeeping Operations Intranet
+
+
+(b)	Office of Operations
+
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementSecurity Council resolutions incorporate recommendations for establishing potential or adjusting existing peacekeeping operationsThe Security Council adopted 9 recommendations for significant adjustments to existing peacekeeping operations: MONUC (2), ONUB (2), UNOCI, UNMEE, UNMIL, MINUSTAH and UNMIS; and 2 recommendations regarding special political missions (UNIOSIL and UNOTIL)
+
+
+Expected accomplishment 2: rapid deployment and establishment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementSecurity Council substantive and time requirements are fulfilled to establish new or adjust existing peacekeeping operations9 mission-planning processes were completed in line with Security Council substantive and time requirements — ONUB (2): transfer of troops to MONUC and force reduction; MONUC (2): increase of military and police personnel and support for elections; UNMEE: force reduction; UNMIL: apprehend and detain former President Taylor, in the event of his return to Liberia, and facilitate his transfer to the Special Court for Sierra Leone; MINUSTAH and UNOCI: increase of military and police personnel; UNAMSIL: downsizing and withdrawal, and setting up of UNIOSIL
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementDevelopment of mission plans in accordance with strategic guidance10 mission plans, including mandate-specific implementation plans for MINUSTAH and UNMIL; and plans in accordance with strategic guidance for UNOCI, MONUC, UNMEE, MINURSO, ONUB, UNAMA, UNFICYP and UNMIKPlanning/implementation of 20 bilateral or multilateral field programmes in collaboration with peacekeeping partners20 multilateral field programmes were implemented with international peacekeeping partners
+
+
+(c)	Office of Mission Support
+
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementEstablishment of a repertoire of replicable support models for a variety of strategic conditions:•	Common operational and logistical support arrangements with four regional organizations and agenciesA memorandum of understanding between the Department of Peacekeeping Operations and UNOPS providing engineering project personnel support to UNMIS is currently under review by senior management•	Maintenance of six-month average processing time (from receipt of mission-certified claim to its approval by the Department of Peacekeeping Operations) for contingent-owned equipment claimsAchieved
+
+
+Expected accomplishment 2: rapid establishment and deployment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementDeployment of a fully functional mission of up to 5,000 persons within 90 days of a Security Council mandate:No new missions were established during the reporting period•	Participation of troop- and police-contributing countries and other peacekeeping partners during mission planning and deployment•	New mission communication links established within 24 hours of arrival of the communication and information technology component of the strategic deployment stocks
+
+
+
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementStrengthened field operations through actions and initiatives that put mission needs first:•	Average international civilian personnel vacancy rates for field missions reduced from 27 per cent in 2003/04 to 10 per cent in 2005/06, while meeting gender and geographic goalsAt the end of the reporting period, June 2006, the Department of Peacekeeping Operations had achieved an average vacancy rate of 22 per cent for all field missions. During the course of the financial year, vacancy rates fluctuated between 22 and 31 per cent, with an average of 26.9 per cent, which was higher than planned, due to an increase of 1,686 authorized international civilian posts and a 30 per cent turnover rate for international civilian personnel in field missions during the reporting period•	Electronic Vehicle Management System installed in 80 per cent of United Nations vehicles in the fieldInstallation of the Electronic Vehicle Management System has been completed in 80 per cent of peacekeeping missions
+
+(d)	Military Division
+
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementSecurity Council resolutions incorporate recommendations on military issues in establishing potential or adjusting existing peacekeeping operationsExpert military advice provided for 37 reports of the Secretary-General and 47 Security Council deliberations related to establishing potential or reviewing existing peacekeeping operations
+
+
+Expected accomplishment 2: rapid deployment and establishment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementIncrease in the number of units at the rapid-deployment level of the United Nations Standby Arrangements System from 6 estimated for 2004/05 to 10 in 2005/06; target of 15 in 2006/078 units were pledged (by Jordan, Moldova, Romania and Uruguay), the same number reported in 2004/05. There was no increase because of Member States being reluctant to pledge units at the rapid-deployment level of the United Nations Standby Arrangements SystemParticipation of all troop-contributing countries in predeployment training conducted by the Department of Peacekeeping Operations for new peacekeeping missionsPredeployment training was provided to all emerging troop-contributing countries upon requestIncrease in the number of trained on-call personnel from 50 in 2004/05 to 75; target of 100 in 2006/07The on-call personnel list was discontinued. Troop-contributing countries meet requests for nomination of officers with requisite qualifications. There is no need to have an on-call list with names of specific officers
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementAll military observers, staff officers and contingent officers receive predeployment/induction training using standard training modules 1 and 290 per cent of military observers, staff officers and contingent officers received predeployment/induction training using standard training modules 1 and 2. Training packages were provided to all troop-contributing countries
+
+(e)	Civilian Police Division
+
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementSecurity Council resolutions incorporate recommendations on police-related issues in establishing potential or adjusting existing peacekeeping operationsAchieved. Police-related issues incorporated in mandates for revised mandates for 4 peacekeeping operations (MINUSTAH, MONUC, UNMIL and ONUB) and 3 special political missions (UNIOSIL, UNOTIL and UNAMA)
+Standing police capacity establishment endorsed by the General Assembly in its resolution 60/1 (see also A/60/807)
+Increase in the number of police-contributing countries from 81 to 85
+
+
+Expected accomplishment 2: rapid deployment and establishment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementReduction in the time required for the initial deployment of civilian police from 90 days in 2003/04 to 45 days in 2004/05; target 30 days in 2006/07Achieved. United Nations Police personnel and formed police units were deployed within 30 days after the adoption by the Security Council of the mandate for UNOCI
+
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementMissions adopt annualized civilian police benchmarksBenchmarks were adopted as part of the results-based budgeting frameworks for the police components of peacekeeping operationsPositive feedback from missions regarding the selection and deployment of police officers with specialized skillsPositive feedback was received from United Nations police commissioners during the police commissioner’s conference regarding the level of support and advice provided by the Civilian Police Division
+
+(f)	Mine Action Service
+
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementSecurity Council resolutions incorporate necessary recommendations on mine action and explosive remnants of war in establishing potential or adjusting existing peacekeeping operationsSecurity Council resolution 1622 (2005) on UNMEE approved the assistance to the parties in the mine action sector as recommended by the Secretary-General in his report S/2005/553
+
+
+Expected accomplishment 2: rapid deployment and establishment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementDeployment of mine action assets to support mission within 14 days of adoption of Security Council resolutionNot relevant during 2005/06, as no new missions were deployed
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementMemorandums of agreement and amendments for mine action projects to be signed within 40 days of identification of project need: target 35 days for 2006/07Memorandums of agreement have taken on average 56 days to be approved from the time they are sent by the United Nations Mine Action Service for approvalIncrease in the number of integrated civil/military mine action programmes from 1 in 2004/05 to 3 in 2005/06Achieved. Integrated civil/military programmes have been established in UNMEE, UNMIS and UNIFIL
+
+	2.	Human resources incumbency performance
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above3603493.1General Service and related2082023.0
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources 
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+VarianceCategoryApproved
+apportionmentExpenditureAmountPercentageI.	Post resources76 942.376 775.2167.10.2II.	Non-post resources	General temporary assistance1 664.3764.8899.554.0	Consultants448.7322.3126.428.2	Official travel2 558.12 889.7(331.6)(13.0)	Facilities and infrastructure369.5369.5——	Communications875.31 029.7(154.4)(17.6)
+	Information technology4 792.54 127.0665.513.9	Other services, supplies and equipment863.5572.4291.133.7	Subtotal, category II11 571.910 075.31 496.612.9	Gross requirements, categories I-II88 514.286 850.51 663.71.9
+
+	4.	Analysis of variances1
+
+VariancePosts$167.10.2%
+17.	The net underexpenditure of $167,000 under post resources in the Department of Peacekeeping Operations was due to actual common staff costs being lower than budgeted. Such savings are partly offset by overexpenditures in the Military and Civilian Police Divisions because of the additional recruitment and repatriation costs related to the regular rotation of seconded officers.
+
+VarianceGeneral temporary assistance$899.554.0%
+18.	The recorded savings of $899,500 resulted from a combination of delayed recruitment for the positions in question and the fact that some of the functions were performed through temporary recruitment of staff against vacant posts. 
+19.	In addition, the underexpenditure was due to the following: 
+	(a)	The General Assembly, in its resolution 60/283, approved the adoption by the United Nations of the International Public Sector Accounting Standards. As the decision of the General Assembly on the implementation of those Standards will have a direct impact on the Financial Rules and Regulations of the United Nations, the development of the field finance training course module was postponed. 
+	(b)	The planned development of new budget templates for the peacekeeping missions was postponed in order to be incorporated into the Enterprise Budget Application project. 
+
+VarianceConsultants$126.428.2%
+20.	The underexpenditure of $126,400 was due primarily to the following: 
+	(a)	Actual requirements for consultants in relation to the Office of Mission Support’s training activities were lower than budgeted, as training courses and/or workshops were conducted using in-house staff resources instead of external consultants — for example, the joint European Union/United Nations course on disarmament, demobilization and reintegration and a contingent-owned equipment workshop; 
+	(b)	Net savings of $24,600 under the non-training part of the budget can be ascribed to a number of different reasons: (i) part of the costs related to the development of a rule-of-law network was financed by voluntary contributions; (ii) some projects, including the enhancement of the skills inventory project in the Office of Mission Support and an evaluation of the readiness of the military and civilian police components in MONUC and UNOMIG, were completed within a shorter time than planned; and (iii) postponement of the drafting of a chemical, biological, radiological and nuclear policy in the Military Division due to the need for further consultations with Member States and of the development of a rule-of-law index in the Civilian Police Division due to the inability to find a suitable contractor for the funds available following the procurement process. 
+21.	These savings were partly offset by the unforeseen requirement of $81,000 for consultants to assist in the preparation of the comprehensive report on the Field Service category requested by the General Assembly in its resolution 58/257.
+
+VarianceOfficial travel($331.6)(13.0%)
+22.	The additional requirements of $331,600 were attributable primarily to (a) unforeseen travel activities related to the preparation of a report on reform of the Field Service category; (b) unplanned training activities, including a budget workshop in the Office of Mission Support; and (c) additional expenditures relating to an increased level of training activities led by the Training and Evaluation Service in the Military Division.
+
+VarianceCommunications($154.4)(17.6%)
+23.	The overexpenditure of $154,400 was due mainly to actual commercial communications rates being higher than anticipated. The budgeted amount of $1,000 per user per year did not take into account requirements for right-to-use charges of approximately $400 per user per year. For 2007/08 the budgeted provision for commercial communications charges has been revised to $1,400 per user. 
+
+VarianceInformation technology$665.513.9%
+24.	The savings of $665,500 were attributable primarily to funds being redeployed to the Department of Management to finance a transfer of functions but not reflected as disbursed in the Department of Peacekeeping Operations. The funds were redeployed to cover the Information Technology Services Division Tier 2 and 3 support for the Department of Peacekeeping Operations, for consultants to conduct a review of United Nations procurement services, for the Information Technology Services Division’s support for the Galaxy e-staffing system and for a joint Information Technology Services Division/Department of Peacekeeping Operations data centre operation.
+
+VarianceOther services, supplies and equipment$291.133.7%
+25.	The savings of $291,100 were attributable primarily to the delay in the publication of training materials in the Military Division because of (a) the postponement of certain publications for review and rationalization at the advice of the Special Committee on Peacekeeping Operations; (b) the postponement of the planned revision of certain existing training materials; (c) the delay in the translation of standard training modules 2 and 3 into five languages; and (d) the exhaustion of storage and distribution capacity.
+
+
+	B.	Executive Office of the Secretary-General
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $0.8$0.8 5 5
+
+1.	Results-based framework
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop-contributing countries to make fully informed decisions on issues relating to peacekeepingPlanned indicators of achievementActual indicators of achievement100 per cent of the Secretary-General’s mission reports are submitted to intergovernmental bodies by the due date55 per cent of the Secretary-General’s mission reports were submitted to the Security Council and the General Assembly by the 
+due date
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementProvision of comments and guidance to the Department of Peacekeeping Operations and missions within five days of submission of mission reports of the Secretary-General to the Executive Office of the Secretary-GeneralAchieved
+
+	2.	Human resources incumbency performance 
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above332.8General Service and related220.0
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources 
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+VarianceCategoryApproved
+apportionmentExpenditureAmountPercentageI.	Post resources729.3786.2(56.9)(7.8)II.	Non-post resources	General temporary assistance41.630.810.825.9	Facilities and infrastructure13.76.57.252.7	Communications12.412.4——
+	Information technology6.05.70.35.3	Subtotal, category II73.755.418.324.9	Gross requirements, categories I-II803.0841.6(38.6)(4.8)
+	4.	Analysis of variances1
+
+VariancePosts($56.9)(7.8%)
+26.	The overexpenditure was attributable to the actual vacancy rate for the newly established post being lower than the budgeted rate of 50 per cent. 
+
+VarianceGeneral temporary assistance$10.825.9%
+27.	The savings under general temporary assistance were attributable to lower actual requirements for peak-load assistance than those budgeted.
+
+Variance	Facilities and infrastructure$7.252.7%
+28.	The unspent balance was attributable to the redeployment of existing office furniture and office equipment for the newly established post.
+
+
+	C.	Office of the United Nations Ombudsman
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $0.3$0.322
+
+1.	Results-based framework
+
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievement100 per cent of cases submitted to the Ombudsman’s office are addressed and action is taken within 30 days220 cases received during the reporting period were addressed within 30 days of initial contact from the client
+
+	2.	Human resources incumbency performance 
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above118.3General Service and related1116.7
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources 
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+VarianceCategoryApproved
+apportionmentExpenditureAmountPercentageI.	Post resources236.0222.413.65.8II.	Non-post resources	Official travel23.721.02.711.6	Facilities and infrastructure7.73.24.558.1	Communications5.05.0——
+	Information technology2.42.30.14.6	Other services, supplies and equipment12.02.49.680.3	Subtotal, category II50.833.817.033.4	Gross requirements, categories I-II286.8256.230.610.7
+
+	4.	Analysis of resource variances1
+
+VariancePosts$13.65.8%
+29.	The unspent balance of $13,600 was attributable to the actual vacancy rate in the reporting period being higher than expected due to a two-month vacancy resulting from the reassignment of one staff member to another Department. 
+
+VarianceOfficial travel$2.711.6%
+30.	The unencumbered balance of $2,700 was attributable primarily to travel expenses relating to training activities erroneously charged to the regular budget.
+
+VarianceFacilities and infrastructure$4.558.1%
+31.	The savings of $4,500 were due to the redeployment of existing office furniture and office equipment instead of the purchase of new items.
+
+VarianceOther services, supplies and equipment$9.680.3%
+32.	The unencumbered balance of $9,600 was attributable primarily to the cancellation of planned training activities and the postponement of the production of preventive outreach materials pending the recommendations of the Redesign Panel.
+
+
+	D.	Office of Internal Oversight Services
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $21.0$14.19270
+
+1.	Results-based framework
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementImplementation of 25 per cent of all recommendations contained in reports 
+of the Monitoring, Evaluation and Consulting Division during the first 
+12 months after their issuanceAchieved. 27 per cent of recommendations were implemented within the first six months after their issuanceImplementation by the Department of Peacekeeping Operations and peacekeeping missions of 48 per cent of accepted recommendations resulting from peacekeeping investigations (70 per cent of recommendations issued are accepted), maintaining the 2003/04 and 2004/05 implementation rate48 per cent of recommendations were implemented by the Department of Peacekeeping Operations, other departments 
+and missions (66 per cent of recommendations accepted)Implementation by peacekeeping missions, the Department of Peacekeeping Operations and other departments of 60 per cent of accepted recommendations relating to peacekeeping issued by the Internal Audit Division (85 per cent of recommendations issued are accepted), maintaining the 2003/04 and 2004/05 implementation rateAchieved. 60 per cent were implemented by the Department of Peacekeeping Operations, other departments and missions (98 per cent of recommendations accepted)
+	
+	2.	Human resources incumbency performance 
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above665417.7General Service and related261541.7
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources 
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+VarianceCategoryApproved
+apportionmentExpenditureAmountPercentageI.	Post resources13 976.510 218.33 758.226.9II.	Non-post resources	General temporary assistance4 998.01 684.03 314.066.3	Consultants415.0392.622.45.4	Official travel1 455.41 660.7(205.3)(14.1)	Facilities and infrastructure47.119.927.257.7	Communications45.239.26.013.3
+	Information technology56.068.5(12.5)(22.4)	Other services, supplies and equipment45.928.317.638.3	Subtotal, category II7 062.63 893.33 169.344.9	Gross requirements, categories I-II21 039.114 111.66 927.532.9
+
+	4.	Analysis of resource variances1
+
+VariancePosts$3 758.226.9%
+33.	The underexpenditure of $3,758,200 was due to the actual vacancy rate being higher than the budgeted rate. The main reason for the higher vacancy rate was the delays experienced by the recruitment section of the Executive Office in recruiting for 31 newly established posts. A significant number of the 31 new posts were approved to augment the resident oversight capacity in the peacekeeping missions. Those new posts have generated a high workload for the recruitment section of the Executive Office. The workload was further exacerbated by a higher-than-anticipated staff turnover rate in missions due to the difficult living conditions in non-family duty stations. 
+
+VarianceGeneral temporary assistance$3 314.066.3%
+34.	The savings of $3,314,000 were due primarily to the lower rate of implementation than planned. It is recalled that the General Assembly provided capacity, under general temporary assistance, by increasing the number of resident investigators to investigate cases of sexual exploitation and abuse in the peacekeeping missions. The filling of those positions took longer than anticipated due to the difficulty in recruiting candidates willing to live and work in very difficult conditions in non-family duty stations. 
+
+VarianceConsultants$22.45.4%
+35.	The net savings of $22,400 were due primarily to the non-utilization of funds approved for forensic experts because such expertise was not required for the cases reviewed during the financial period, and to the utilization of in-house capacity, instead of consultancy, in the training on the use of the electronic working papers software system. The unplanned requirements related to the cost of specific management consulting services in support of the restructuring efforts of the Office of Internal Oversight Services and to higher-than-anticipated costs in relation to a review of military components of peacekeeping and requirements to support the restructuring process in the Department of Peacekeeping Operations during the financial period. 
+
+VarianceOfficial travel($205.3)(14.1%)
+36.	The additional requirement of $205,300 was due primarily to the additional travel costs related to the comprehensive management audit of the Department of Peacekeeping Operations.
+
+VarianceFacilities and infrastructure$27.257.7%
+37.	The unspent balance of $27,200 was attributable primarily to the postponement of required security enhancements, such as the installation of a secure area counter and the installation of a door monitor in Vienna. The postponement was due to a temporary relocation of staff members to other premises while renovations were undertaken to replace asbestos. In addition, the planned acquisition of furniture for new staff members in New York was not undertaken due to the lack of additional office space.
+
+VarianceCommunications$6.013.3%
+38.	Savings of $6,000 were recorded under communications due to the postponement of the purchase of eight Blackberries and a satellite phone pending a decision on the organization of functions and distribution of workload and the policy on the usage of Blackberries. 
+
+VarianceInformation technology($12.5)(22.4%)
+39.	The overrun of $12,500 was due to the additional cost of scanners for the digital working papers project.
+
+VarianceOther services, supplies and equipment$17.638.3%
+40.	The savings of $17,600 were due primarily to the non-utilization of the budgeted fees relating to distance-learning courses for resident auditors on report writing, as the Office of Internal Oversight Services reprioritized their activities in order to complete the comprehensive management audit of the Department of Peacekeeping Operations mandated by the General Assembly in its resolution 59/296.
+
+
+	E.	Office of Legal Affairs
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $1.0$0.855
+
+1.	Results-based framework
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementReduction in liabilities against the Organization arising out of peacekeeping operations from 45 per cent of total claims in 2002/03 to 40 per centAchieved. During the period, the Office of Legal Affairs resolved for approximately $220,000 claims totalling over $1.3 million arising out of peacekeeping operations Absence of instances arising out of peacekeeping operations in which, unless waived, the status and the privileges and immunities of the Organization are not maintained; in 2003/04 and 2004/05 there were no instancesAchieved. During the period, the Organization’s privileges and immunities were maintained in all agreements reviewed by the Office of Legal Affairs and, unless waived, in all legal proceedings involving the Organization and its officials
+
+	2.	Human resources incumbency performance 
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above556.7
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources 
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+VarianceCategoryApproved
+apportionmentExpenditureAmountPercentageI.	Post resources909.7769.5140.215.4II.	Non-post resources	Official travel26.211.115.157.4	Facilities and infrastructure1.0— 1.0100.0	Communications3.53.5——
+	Information technology7.57.10.45.9	Other services, supplies and equipment3.03.0——	Subtotal, category II41.224.716.540.0	Gross requirements, categories I-II950.9794.2156.716.5
+
+	4.	Analysis of resource variances1
+
+VariancePosts$140.215.4%
+41.	The variance was due partly to the vacancy rate being higher than budgeted and to a Professional post being encumbered by a staff member at a lower grade level than budgeted.
+
+VarianceOfficial travel$15.157.4%
+42.	The underexpenditure of $15,100 was attributable to the fact that only one staff member, instead of the two planned, travelled to MONUC and ONUB to provide legal support. This was due to the reprioritization of the workload of the General Legal Division to respond to the increased requirements related to procurement contracts.
+
+VarianceFacilities and infrastructure$1.0100.0%
+43.	The provision of $1,000 remained unspent, as the costs were inadvertently charged to the regular budget.
+
+
+	F.	Department of Public Information
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $0.4$0.422
+
+1.	Results-based framework
+
+
+Expected accomplishment 2: rapid deployment and establishment of peacekeeping operations in response to Security Council mandatesPlanned indicators of achievementActual indicators of achievementDeployment of peacekeeping operation headquarters within 30-90 days of the Security Council resolutionNo new mission was deployed in the reporting period
+
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievement75 per cent of surveyed peacekeeping operations indicate good quality of supportAchieved. All 12 peacekeeping missions surveyed were satisfied with the overall quality of support
+
+	2.	Human resources incumbency performance
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above2216.7
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources 
+(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+Approved
+apportionmentVarianceCategoryExpenditureAmountPercentageI.	Post resources364.3360.53.81.0II.	Non-post resources	Consultants9.52.66.972.3	Official travel44.242.81.43.2	Facilities and infrastructure0.40.4——	Communications2.92.9——
+	Information technology2.4—2.4100.0	Other services, supplies and equipment6.00.75.387.9	Subtotal, category II65.449.416.024.4	Gross requirements, categories I-II429.7409.919.84.6
+
+	4.	Analysis of resource variances1
+
+VarianceConsultants$6.972.3%
+44.	The savings were due primarily to the hiring of one consultant, instead of the planned three, in the delivery of the training activities. By relocating the venue of the training course from UNLB to United Nations Headquarters in New York, the Department was able to involve senior-level United Nations staff as resource persons rather than hiring external consultants. In addition, because of the less technical nature of the 2006 exercise, the Department of Public Information was able to identify a number of trainers/facilitators within the United Nations system, whose services were provided free of charge. 
+
+VarianceInformation technology$2.4100.0%
+45.	The unspent balance of $2,400 was due to the cost being inadvertently charged to the regular budget.
+
+VarianceOther supplies, services and equipment$5.387.9%
+46.	The savings amounting to $5,300 were due to the relocation of the planned training course from UNLB to United Nations Headquarters in New York, which eliminated the need to rent equipment and purchase additional supplies as originally planned.
+
+
+	G.	Department of Management
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $32.8$31.0145137
+
+1.	Results-based framework 
+
+(a)	Office of the Under-Secretary-General
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementPositive feedback received in survey of Member States on services provided by the secretariat of the Fifth Committee and the Committee for Programme and CoordinationPositive feedback received from all respondents in the survey distributed to all delegates of the Fifth Committee 
+
+Expected accomplishment 3: increased efficiency and effectiveness in conducting, managing, directing and supporting peacekeeping operations Planned indicators of achievementActual indicators of achievementAll requests by staff members for legal advice and representation from the Panel of Counsel Office are met within the time limit for the respective cases, between 30 and 90 daysAll time limits were met for 156 cases before formal bodies. Time limits are of different lengths for each body and each stage of the proceedings. 96 cases were informal in nature, and thus did not have time limitsReports by Joint Appeals Boards and Joint Disciplinary Committees are submitted within 30 days after panels complete deliberations95 per cent of all Joint Appeals Board reports (61 out of 64) were submitted within 30 days, while 47 per cent of Joint Disciplinary Committee cases (8 out of 17) were submitted within 30 days All decisions on appeals and disciplinary matters are disposed of within 30 days of the receipt of reports from Joint Appeals Boards and Joint Disciplinary Committees(a)	The 12 decisions on reports from Joint Appeals Boards were taken, on average, within 23 days of receipt of the report
+(b)	The 5 decisions on reports from Joint Disciplinary Committees were taken, on average, within 21 days of receipt of the report
+
+(b)	Office of Programme Planning, Budget and Accounts
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementContributions Service
+Submission of the monthly report on the status of contributions by the end of the following month
+The monthly report on the status of contributions was submitted Peacekeeping Financing Division
+Positive feedback from the Advisory Committee on Administrative and Budgetary Questions and the General Assembly on the format and presentation of peacekeeping budgets, performance reports and other reports submitted
+Positive comments were made on the quality and presentation of reports, as indicated in the report of the Advisory Committee on Administrative and Budgetary Questions (A/59/736, para. 35), and formal statements were made by 5 delegations and 3 regional groups in the Fifth Committee at the main part of the fifty-ninth session and the resumed fifty-ninth session 100 per cent of deadlines for the submission of reports to the Department for General Assembly and Conference Management are met: 31 December 2005 for active missions; 28 February 2006 for closed missions, the support account and UNLB13 reports for active missions on the normal budget planning cycle were submitted by 31 December 2005; reports for missions with mandate changes (MINUSTAH, MONUC, UNMIS and UNOCI) were submitted within 3 months of the relevant Security Council resolutions; three reports on closed missions, the support account and UNLB were submitted by 28 February 2006 Accounts Division
+Positive opinion of the United Nations Board of Auditors on the peacekeeping financial statements
+Achieved. Unqualified opinion was received with a “matter of emphasis” paragraph added, referring to the review of procurement activities and internal controls being undertakenFinancial statements are available to the Board of Auditors within 3 months of the end of the financial periodAchieved. Financial statements were submitted to the Board of Auditors on 30 September 2005
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementTreasury 
+Rate of return on secure investments earned is equal to or greater than the 90-day United States Treasury Bill interest rate (United Nations benchmark)
+The rate of return on investment was 3.77 per cent, compared with the benchmark of 4.08 per cent. The rate of return was lower than the benchmark due to the rapid increase in the interest-rate environment and investments being locked in long-term maturities. The actual interest income to peacekeeping for the period was $77.76 millionProcessing of 100 per cent of payments within 2 business daysAchieved. All payments were processed within 2 business days Contributions Service
+Issuance of communications to Member States on assessments for peacekeeping operations within 30 days of the adoption of related resolutions by the General Assembly and the Security Council
+95 per cent were issued within the 30-day deadline Peacekeeping Financing Division
+Liabilities for troops and formed police units do not exceed 3 months
+Achieved (payments made in July, September and December 2005 and February, March, April and June 2006)Accounts Division
+Processing of all payments to troop- contributing countries within the required time frames and in accordance with payment instructions provided by Member States
+Achieved. Reimbursements for troops and contingent-owned equipment were processed on time pursuant to the scheduled time frames and in accordance with payment instructions received from Member States throughout the yearProcessing of 90 per cent of Headquarters payments to international mission staff within 30 working days of the receipt of supporting documentationPayroll: 100 per cent of payroll payments were processed on time
+Staff separations: 70 per cent were processed within 30 working days
+Education grants: 88 per cent were processed within 30 working days. The volume increased by 18 per cent because of the increased number of peacekeeping staffProcessing of 90 per cent of payments of invoices to vendors and travel claims to staff within 30 working days of the receipt of supporting documentationVendor payments: 85 per cent of vendor payments were processed within 30 working days. The shortfall was due to delays in the automation of travel claims and other system enhancements
+Travel claims: 99.5 per cent of travel claims were processed within 30 working days
+
+(c)	Office of Human Resources Management
+
+Expected accomplishment 3: increased efficiency and effectiveness of supporting peacekeeping operationsPlanned indicators of achievementActual indicators of achievementMedical Services Division
+Responding to all mission medical evacuation requests and urgent deployment requests for medical clearance on the same day
+Achieved. Responded to 1,034 medical evacuation requests: MONUC (315), UNMIL (192), MINUSTAH (180), ONUB (139), UNMIS (53), UNMIK (48), UNMEE (38), UNOCI (19), UNMIT (17), UNIFIL (13), MINURSO (10), UNTSO (5), UNMOGIP (4) and UNDOF (1)In addition, the Medical Services Division responded to medical evacuation requests from UNAMI (800), UNAMSIL/UNIOSIL (46) and UNAMA (22)Increase in the number of staff undergoing pre-mission and post-mission health assessment, including mental health, from 2,400 in 2004/05 to 3,000Achieved. 3,027 staff members assessedOperational Services Division
+Positive feedback from missions on the quality of services provided by the Office of Human Resources Management
+Positive feedback was received through various channels on services provided by the Office of Human Resources Management monitoring missionsPositive feedback from missions on the efficacy of the human resources delegated authority monitoring systemMissions welcome the opportunity for close interaction with the Office of Human Resources Management in preparing and implementing on-site monitoring. A pilot survey of on-site monitoring, which was generally positive, was conducted in one mission (UNMIS)Division for Organizational Development
+Conduct of mission subsistence allowance review on a cycle of 12 to 18 months
+The planned review cycle of 12 to 18 months was revised to 18 to 24 months or when necessary (requested by missions or for new missions)Generic job profiles cover 80 per cent of the Field Service category posts, compared with 40 per cent in 2004/0561 per cent of the generic job profiles submitted by the Department of Peacekeeping Operations were finalized, and the remaining 39 per cent are pending final review by the Department of Peacekeeping Operations 
+
+(d)	Office of Central Support Services
+
+Expected accomplishment 1: ability of the Security Council, the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeepingPlanned indicators of achievementActual indicators of achievementArchives and Records Management Section
+Increase in the number of missions for which archival material is available at Headquarters to the Organization, Member States and the general public from 70 per cent of peacekeeping missions liquidated in 2004/05 to 100 per cent of liquidating missions
+Archived materials are available for 80 per cent of closed missions and 15 per cent of active missions
+The volume of peacekeeping mission records available at Headquarters increased by 6 per cent from the previous financial period
+
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operationsPlanned indicators of achievementActual indicators of achievementProcurement Service
+10 per cent reduction in the number of requisitions outstanding at the end of the fiscal year, from 761 outstanding requisitions in 2003/04 to 823 in 2004/05 to 740 in 2005/06. (The increase in 2004/05 is due to a 20 per cent increase in requisition lines to be processed compared to 2003/04)
+Achieved. The number of outstanding requisitions at the end of 30 June 2006 was 497, a 40 per cent reduction from 823 at the end of fiscal year 2004/05Archives and Records Management Section
+40 per cent of peacekeeping missions employ standard policies, tools and technical standards for records management, compared with 5 per cent in 2003/04 and 20 per cent in 2004/05
+
+Achieved. 40 per cent of current missions are using Archives and Records Management Section tools and standards for records managementInformation Technology Services Division
+99 per cent availability of information and communication technology infrastructure provided by the Division to all peacekeeping missions
+Achieved Travel and Transportation Section 
+Positive feedback in surveys of users of travel and transportation services: 70 per cent of surveyed users rate services as good compared to 65 per cent in 2004/05
+75 per cent of surveyed users rated the services as good Facilities Management Service
+Positive feedback in surveys of missions regarding Office of Central Support Services
+80 per cent of the respondents to a survey sent to Department of Peacekeeping Operations field missions on the quality and effectiveness of the United Nations Headquarters pouch service rated it as very good
+
+	(e)	Overall resource requirements of the Department of Management
+
+
+	(i)	Human resources incumbency performance
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above78727.3General Service and related67653.0
+	a	Based on monthly incumbency and planned strength.
+
+
+	(ii)	Performance of financial resources
+		(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+CategoryApproved apportionmentVarianceExpenditureAmountPercentageI.	Post resources18 601.017 334.91 266.16.8II.	Non-post resources	General temporary assistance1 818.71 655.3163.49.0	Consultants794.6920.7(126.1)(15.9)	Official travel793.6466.7326.941.2	Facilities and infrastructurea8 887.48 800.387.11.0	Communications224.0239.5(15.5)(6.9)	Information technology1 287.7979.0308.724.0
+	Medical100.097.03.03.0	Other services, supplies and equipment313.5532.0(218.5)(69.7)	Subtotal, category II14 219.513 690.5  529.0 3.7	Gross requirements, categories I-II32 820.531 025.4 1 795.15.5
+	a	Reflects accommodation costs for all offices.
+
+
+VariancePosts$1 266.16.8%
+47.	The underexpenditure of $1,266,100 was attributable to a combination of factors: (a) actual vacancy rates being higher than the budgeted rates in the Procurement Division, Peacekeeping Financing Division and the Office of the Under-Secretary-General for Management; (b) lower-than-budgeted common staff costs in the Division for Organizational Development and the Peacekeeping Financing Division; (c) a number of posts being encumbered by staff members at a lower grade level in the Division for Organizational Development.
+
+VarianceGeneral temporary assistance$163.49.0%
+48.	The net savings of $163,400 were attributable primarily to delays in the recruitment for newly established general temporary assistance positions as well as to lower-than-budgeted requirements for replacements for staff on sick and maternity leave. 
+49.	Overexpenditures were recorded in the Information Technology Services Division due to requirements for providing Tier 2 and Tier 3 support to the Department of Peacekeeping Operations. Those expenditures were covered by the redeployment of funds from the Department of Peacekeeping Operations to the Department of Management (see para. 24 above). In addition, overexpenditures were recorded in the Peacekeeping Financing Division due to the need for a project manager for the Enterprise Budget Application project to assist in the prolonged negotiations with the external vendor initially selected. 
+
+VarianceConsultants($126.1)(15.9%)
+50.	The total additional requirements for consultants in the reporting period amounted to $126,100. The total appropriation of $794,600 for consultants for the reporting period consisted of $283,400 for non-training activities and $511,200 for training activities. The additional requirements emerged in the context of the non-training-related activities, where a total expenditure of $600,700 was recorded. This was due primarily to the non-budgeted requirements for consultancy to undertake a comprehensive management review of the Office of Programme, Planning, Budget and Accounts and a review of Treasury’s operations. 
+51.	The additional requirements under the non-training part of the budget were partially offset by savings of $191,200 under training-related consultancies. The lower actual requirements for consultants were attributable to the postponement of planned training activities in the Procurement Service, as the Service had to reprioritize its activities to focus on the internal investigations being carried out on procurement cases.
+
+VarianceOfficial travel$326.941.2%
+52.	The savings of $326,900 under travel were due primarily to lower requirements in the Procurement Service, where a training course in rapid intervention for start-up missions was cancelled due to the internal investigations of procurement cases, and in the Division for Organizational Development, where a lower amount than anticipated was required for travel to participate in ethics training. In addition, due to the heavy workload related to the preparation of revised budget estimates for UNOCI and MINUSTAH for the period 2005/06 and the United Nations reform, the planned visits to peacekeeping missions and training in the Funds Monitoring Tool were not undertaken by June 2006.
+
+VarianceCommunications($15.5)(6.9%)
+53.	The overexpenditure of $15,500 under communications was due to actual communications charges being slightly higher than budgeted for.
+
+VarianceInformation technology$308.724.0%
+54.	The underexpenditure of $308,700 was due primarily to the fact that the development of the Enterprise Budgeting Application was postponed. Funds budgeted for that project were unspent and have been reprogrammed to the current financial period. 
+55.	Those savings were partially offset by additional requirements for information technology resources in the Information Technology Services Division for (a) maintenance of the Department of Peacekeeping Operations data centre; (b) network services and (c) provision of support for Galaxy. Those requirements were initially budgeted in the Department of Peacekeeping Operations, but were, as mentioned in paragraph 24 above, redeployed to the Information Technology Services Division during the reporting period. In addition, non-budgeted requirements relating primarily to Bloomberg and other software licences were incurred in Treasury.
+
+VarianceOther services, supplies and equipment($218.5)(69.7%)
+56.	The overexpenditure of $218,500 was related primarily to the unforeseen requirement for contractual services for the comprehensive management review of the Procurement Service.
+
+
+	H.	Department of Safety and Security
+(Millions of United States dollars)
+
+ApprovedExpenditureApproved postsAverage incumbency $2.1$1.71210
+
+1.	Results-based framework
+
+Expected accomplishment 1: ability of the General Assembly, other intergovernmental bodies and troop- and police-contributing countries to make fully informed decisions on issues regarding peacekeeping Planned indicators of achievementActual indicators of achievementPositive formal feedback from legislative bodies on advice and reportsNo formal feedback was recorded 
+Expected accomplishment 3: increased efficiency and effectiveness of peacekeeping operations Planned indicators of achievementActual indicators of achievementNo peacekeeping mission civilian personnel are killed or wounded by malicious acts9 international civilian peacekeeping staff were killed; 4 cases were investigated, of which none resulted from malicious acts; 5 cases are still under investigation
+19 local civilian peacekeeping staff were killed; 10 cases were investigated, of which 2 resulted from malicious acts; 9 are still under investigationAdoption of 100 per cent of security-related recommendations by peacekeeping missions90 of 91 security-related recommendations were adopted by peacekeeping missions Deployment of emergency response teams from Headquarters within 8 hoursFour emergency response teams were deployed within 72 hours to UNOCI, UNMEE, MINUSTAH and MONUC. Actual experience indicates that the 8-hour deployment time is unrealistic. The results-based budgeting for 2006/07 adjusted the deployment time to 72 hoursPositive feedback from missions requesting security trainingPositive feedback from missions was received through responses of participants and informal comments of heads of mission on security training
+
+	2.	Human resources incumbency performance
+
+
+CategoryAuthorized
+staffActual incumbency (average)Vacancy rate (percentage)aProfessional and above7620.2General Service and related5420.0
+	a	Based on monthly incumbency and planned strength.
+
+
+	3.	Performance of financial resources
+		(Thousands of United States dollars. Budget year is from 1 July 2005 to 30 June 2006.)
+
+
+Category
+Approved apportionmentVarianceExpenditureAmountPercentageI.	Post resources1 624.61 278.8345.821.3II.	Non-post resources	Consultants100.0—100.0100.0	Official travel 326.4390.1(63.7)(19.5)	Facilities and infrastructure2.42.20.210.2	Communications23.218.84.419.1
+	Information technology14.49.15.337.1	Subtotal, category II466.4420.146.39.9	Gross requirements, categories I-II2 091.01 698.8392.218.8
+
+
+	4.	Analysis of resource variances1
+
+VariancePosts$345.821.3%
+57.	The unspent balance of $345,800 was attributable to the actual vacancy rate being significantly higher than the budgeted rate. The primary reason for this was the delay in the recruitment process for a P-4 level Security Officer, as the candidate selected had to be released from his mission assignment.
+
+VarianceConsultants$100.0100.0%
+58.	The savings of $100,000 were due to the fact that a number of planned safety courses were not undertaken during the reporting period, thus eliminating the need to hire external instructors as foreseen. This was due primarily to a reprioritization of resources to expand the scope and number of participants in the annual Chief Security Officer/Chief Security Adviser workshop at UNLB. The expansion of the workshop was required since the new Department of Safety and Security needed to introduce specific subjects, such as firearms policy and procedure, security information techniques, security policy, investigations responsibilities and approach, crisis management procedures, security training, security personnel management, logistics and finance systems, close protection coordination and serious-incident reporting, to the chiefs of security in the peacekeeping missions. This coordinated approach was to ensure the integration of security management in the United Nations system, as mandated by the General Assembly in its resolution 59/276. In addition, contributing to the underexpenditure was an unexpected delay in the procurement of a contract for a planned sub-machine gun training course, which resulted in the non-delivery of the course during the reporting period.
+
+VarianceOfficial travel ($63.7)(19.5%)
+59.	The additional requirements under official travel were attributable primarily to the need for security staff to travel to peacekeeping missions to assist in emergency situations. During the reporting period such travel was required to MONUC in October 2005 to provide hostage-incident management support, to UNMEE in December 2005 to reinforce the Mission’s security section during a crisis, to MINUSTAH in January 2006 to provide critical incident stress management and to Timor-Leste in June 2006 for an assistance mission to enhance security following the period of unrest from April to June and plan for UNMIT. Additional requirements for travel also arose from the planning of the drawdown of ONUB and the establishment of BINUB. An increase in the scope and number of participants in a planned hostage-incident management course also contributed to the overexpenditure. 
+60.	Savings, partly offset by the additional requirements above, were achieved because fewer scheduled mission-security compliance visits were carried out due to the reprioritization of resources to the response to emergencies, as well as to the security workshop at UNLB, described above.
+
+VarianceCommunications$4.419.1%
+61.	The underexpenditure of $4,400 was attributable primarily to actual costs for commercial communications ($1,500) being significantly lower than budgeted ($2,200). As a consequence, standard rates will be aligned with the rest of the Secretariat in the 2007/08 budget.
+
+VarianceInformation technology$5.337.1%
+62.	The variance is due partly to the costs of maintenance for the support account staff inadvertently charged to the regular budget.
+
+
+	III.	Activities of the Training and Evaluation Service
+
+
+			Core training activities provided
+
+
+ActivityParticipantsPlacePeriodUnited Nations military and police observers course40UkraineJuly 2005United Nations logistics course39PeruJuly 2005Corrections workshop18SwedenAugust 2005Senior Mission Leaders Course51South AfricaSeptember 2005United Nations logistics course45EgyptSeptember 2005United Nations staff officers course37EthiopiaOctober 2005Integrated mission training cell conference20MINURSOOctober 2005Rule-of-law seminar18GhanaNovember 2005Standardized training module implementation seminar36ChileNovember 2005Training of trainers on sexual exploitation and abuse course32KenyaNovember 2005Senior Leadership Induction Programme20United StatesJanuary 2006United Nations staff officers course36GhanaJanuary 2006United Nations Police workshop22IndiaFebruary 2006Standardized training module implementation seminar40UNLBFebruary 2006Senior Mission Leaders Course27CanadaMarch 2006Formed police units seminar32ItalyMarch 2006Standardized training module implementation seminar36BangladeshApril 2006Civilian predeployment training42UNLBApril 2006Integrated mission training cell course for trainers20UNLBApril 2006National reconciliation workshop19CroatiaApril 2006Standardized generic training module course31MongoliaJune 2006Gender equality workshop17NamibiaJune 2006United Nations Police course30ChileJuly 2006Police commissioners’ conference20UNLBJuly 2006Member State training outreach90MultipleYear 2007Training recognition processes17MultipleYear 2006Presentations at international peacekeeping training events22MultipleYear 2008Participations at international peacekeeping exercises5MultipleYear 2009
+
+63.	All peacekeeping training events requested by Member States were conducted.
+
+
+	IV.	Adjustment to the assessment for the approved appropriation for the period from 1 July 2006 to
+30 June 2007
+
+
+64.	The General Assembly, in its resolution 60/268, decided that the requirements of $183,187,000 for the support account for peacekeeping for the period from 1 July 2006 to 30 June 2007 would be financed as follows:
+	(a)	The unencumbered balance of $3,584,800 and other income of $2,121,900 in respect of the financial period ended 30 June 2005, to be applied to the resources required for the financial period from 1 July 2006 to 30 June 2007;
+	(b)	The amount of $15,804,000 in excess of the authorized level of the Peacekeeping Reserve Fund in respect of the financial period ended 30 June 2005, to be applied to the resources required for the financial period from 1 July 2006 to 30 June 2007;
+	(c)	The balance of $161,676,300 to be prorated among the budgets of the active peacekeeping operations for the financial period from 1 July 2006 to 30 June 2007; 
+65.	The amount in excess of the authorized level of the Peacekeeping Reserve Fund in respect of the financial period ended 30 June 2005 should have read $2,014,000 instead of $15,804,000, as the General Assembly, in its resolution 59/301, had already authorized the application of the amount of $13,790,000, representing the excess of the authorized level of the Peacekeeping Reserve Fund in respect of the financial period ended 30 June 2004. The amount of $2,014,000 is the additional amount contributing to the fund balance in excess of its authorized limit for the financial year ended 30 June 2005.
+66.	Due to the application of the amount of $13,790,000 to the resources approved for the financial year 2006/07, the appropriation for the period has been underassessed by that amount. It is therefore proposed that that amount be met from the total savings of $14,377,300 from the financial period ended 30 June 2006, comprising the unencumbered balance of $10,947,000, interest income of $1,931,300, prior-period adjustments of $100,500 and savings on cancellation of obligations of $1,398,500. The remaining portion of the unencumbered balance of $587,300 will be applied to the resources required for the financial period from 1 July 2007 to 30 June 2008, in accordance with established procedures.
+
+	V.	Actions to be taken by the General Assembly
+
+
+67.	The actions to be taken by the General Assembly are as follows:
+	(a)	To decide that Member States shall waive their respective shares in other income for the period ended 30 June 2006 amounting to $3,430,300 and their respective shares in the amount of $10,947,000 from the unencumbered balance for the period ended 30 June 2006, to be retained to meet the additional assessment required of $13,790,000 for the appropriation of the support account for the period from 1 July 2006 to 30 June 2007;
+	(b)	To apply the remaining portion of the unencumbered balance of $587,300 in respect of the period from 1 July 2005 to 30 June 2006 to the resources required for the period from 1 July 2007 to 30 June 2008.
+
+
+
+	1	Resource variance amounts are expressed in thousands of United States dollars. Analysis is provided for variances of at least plus or minus 5 per cent or $100,000.
+[Start1]<<ODS JOB NO>>N0723221E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/61/733<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+A/61/733
+
+A/61/733
+
+07-2322116
+
+1707-23221
+
+United NationsA/61/733 
+General AssemblyDistr.: General
+8 February 2007
+
+Original: English
+
+
+07-23221 (E)    270207    
+*0723221*
+

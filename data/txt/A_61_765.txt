@@ -1,0 +1,140 @@
+[Start1]
+Sixty-first session
+Agenda items 116, 117, 123 and 132
+
+Review of the efficiency of the administrative and financial 
+functioning of the United Nations
+
+Programme budget for the biennium 2006-2007
+
+Human resources management
+
+Administrative and budgetary aspects of the financing of the 
+United Nations peacekeeping operations
+
+
+
+		Investing in the United Nations: for a stronger 
+Organization worldwide: interim report
+
+
+		Report of the Secretary-General
+
+
+		Investing in information and communications technology
+
+
+
+	Summary	In the present report the Secretary-General outlines a governance framework for information and communications technology (ICT) in the United Nations Secretariat that will ensure the proper balance between centralized functions and those requiring delegated authority to be performed effectively. The new framework entails the creation of an Office of Information and Communications Technology to be headed by the Chief Information Technology Officer. The report addresses the request by the General Assembly, in its resolution 60/283 of 7 July 2006, section II, paragraph 3.	The General Assembly had previously approved the position of Chief Information Technology Officer in the Office of the Secretary-General. However, recognizing the importance of information technology to the overall efficient management of the Organization, and the need for the Chief Information Technology Officer to have adequate resources, the Secretary-General recommends that the Office of Information and Communications Technology be located in the Department of Management. Acknowledging the key role of ICT to the strategic direction of the Organization, the Chief Information Technology Officer will also have a role at the highest level of policymaking by being a permanent member of the Management Committee.
+	I.	Introduction
+
+
+1.	The General Assembly, in section II, paragraph 3, of its resolution 60/283 of 7 July 2006, requested the Secretary-General to provide a detailed report on the structure and staffing requirements of the envisaged information and communications technology (ICT) structure, as well as the lines of responsibility, the functions of the proposed structure and its relationship with other ICT units in the Secretariat, offices away from headquarters, regional commissions, peacekeeping operations, special political missions and other field offices. Following a comprehensive review of the approach, as well as continuing analysis of organizational requirements, the Secretary-General proposes in this report a course of action for establishing an Office of Information and Communications Technology. 
+2.	In section II, paragraph 5, of the same resolution, the General Assembly requested the Secretary-General to submit the comprehensive report on the upgrading of Secretariat-wide ICT systems referred to in paragraphs 17 and 18 of his report on investing in information and communications technology (A/60/846 Add.1). The Secretariat has initiated an in-depth review and planning study and has made progress in the development of a comprehensive implementation plan for the replacement of the Integrated Management Information System (IMIS) and several complementary and ancillary systems and expects to present this report to the General Assembly during its second sixty-first resumed session. 
+
+
+	II.	Background
+
+
+3.	Significant progress has been achieved towards the establishment of effective and efficient ICT operations in all offices of the United Nations since the implementation of the ICT strategy launched in 2002 (see A/57/620). Today all offices of the Secretariat apply uniform standards and have reached similar levels of technological innovation. However, the Organization has not been able to fully leverage ICT in a manner in which all programmes and activities could equally benefit from its potential. The absence of central and strategic management of ICT investments and initiatives has largely contributed to the current situation of gaps and deficiencies reported in document A/60/846/Add.1.
+4.	The disparate development of information technology systems and investments throughout the Organization focused largely on departmental needs, without following an organization-wide strategy has been troublesome. In particular, the operation of two large and independent ICT offices (Information Technology Services Division/Department of Management and Communications and Information Technology Service/Department of Peacekeeping Operations) has led to missed opportunities for synergies and economies of scale.
+5.	The proposals under the reform, which include the creation of the Office of Information and Communications Technology, headed by an Assistant Secretary-General, recognize the strategic importance of the issue to Member States and to internal stakeholders. The position should carry sufficient authority to lead ICT globally in the United Nations Secretariat across all departments and duty stations.
+
+
+	III.	One United Nations, one information and 
+communications technology
+
+
+6.	The present report outlines the Secretary-General’s plan to act on the proposals adopted by the General Assembly by articulating the governance and operational framework of the new ICT organizational structure, proposed as an Office of Information and Communications Technology, to be located in the Department of Management. The terms of reference and structure of the new office proposed in this document are guided by the following principles:
+	(a)	Strategic planning of all ICT systems, investments and initiatives supporting management processes throughout all offices;
+	(b)	Centralized formulation of effective policies and standards governing all aspects of ICT;
+	(c)	Seeking organization-wide solutions without compromising customers’ specific needs;
+	(d)	Recognizing the exigencies under which field offices operate in delivering their programmes;
+	(e)	Promoting information management as a discipline throughout the Organization and as an instrument to extract maximum value from ICT investments;
+	(f)	Leveraging of existing competence in offices away from Headquarters and field offices for the benefit of the whole Organization;
+	(g)	Leveraging the United Nations global presence to execute and host ICT solutions where most cost-effective.
+
+
+		Office of Information and Communications Technology
+
+
+7.	The functions and responsibilities of the head of the new office, the Chief Information Technology Officer, are contained in document A/60/846/Add.1. For ease of reference, these functions are listed below:
+	(a)	To develop, maintain and monitor the implementation of information technology plans for the United Nations worldwide, as approved by the Management Committee;
+	(b)	To provide information management strategic vision for the Secretariat, including offices away from headquarters and all field-based missions;
+	(c)	To promulgate policies and standards on information technology matters;
+	(d)	To lead the Information and Technology Steering Committee; 
+	(e)	To coordinate and oversee, through appropriate delegation, ICT operations at all offices of the Secretariat;	
+	(f)	To provide advice to the Management Committee on information and communications technology matters, in his/her capacity as a member of the Committee.
+8.	After considering the above mentioned report, the General Assembly, recognizing the strategic importance of ICT, approved the establishment of the post of Chief Information Technology Officer in the Office of the Secretary-General. The Secretary-General has considered several possible organizational structures for the new office taking into account, inter alia, the following key considerations: 
+	(a)	The scope of functions of the Chief Information Technology Officer: managerial, strategic, technical and operational;
+	(b)	The cross-cutting nature of the terms of reference of the Chief Information Technology Officer;
+	(c)	The current and future operations reporting directly to the Office of the Secretary-General.
+9.	The Secretary-General considered the possibility of establishing the new office with two components: one strategic (reporting to the Office of the Secretary-General) and the other operational (reporting to the Department of Management). The Secretary-General concluded that separating these functions would not allow for clear lines of accountability and could potentially undermine their overall effectiveness.
+10.	 In the present report, the Secretary-General proposes that, to fully achieve the aims the General Assembly intended of this position, the appropriate resources should be at the disposal of and under the authority of the Chief Information Technology Officer. Accordingly, the Chief Information Technology Officer should head a separate office (Office of Information and Communications Technology), located in the Department of Management. Recognizing the strategic importance of ICT and to have direction and policies set at the highest level, the Chief Information Technology Officer would be a member of the Management Committee, chaired by the Deputy Secretary-General.
+11.	The recommendation to establish a new Office of Information and Communications Technology in the Department of Management is based on the following rationale:
+	(a)	The Department of Management is tasked with formulating policies, norms and standards applicable to all offices of the United Nations Secretariat;
+	(b)	ICT is a powerful tool that provides cross-cutting services essential for the overall efficiency and performance of the Organization and is crucial in the realization of management reform;
+	(c)	The accountability framework established to carry out the introduction of all new enterprise systems places ultimate responsibility on the Under-Secretary General for Management.
+12.	 It is proposed that the resources currently under the information and communications technology services component of section 28D, Office of Central Support Service, of the programme budget for the biennium 2006-2007 (A/60/6 (Sect. 28D)) be transferred to the new Office of Information and Communications Technology, headed by the Chief Information Technology Officer at the Assistant Secretary-General level as part of the Department of Management, at the same reporting level as the Office of Programme Planning, Budget and Accounts, the Office of Human Resources Management and the Office of Central Support Services.
+
+
+	IV.	Distribution of functions
+
+
+13.	As is the case in most large, complex, geographically dispersed and multidisciplinary organizations, the effectiveness of the envisaged ICT structure will largely depend on establishing the proper balance between centralized functions and those requiring sufficient delegated authority to be performed effectively. Excessive centralization can hinder the ability of field operations to deliver effective and responsive services while excessive decentralization tends to create duplication, waste, loss of strategic coherence and accountability as well as uneven levels of technological innovation. 
+14.	The Secretary-General proposes a distribution of functions and responsibilities which aims at ensuring cohesion, integrity and accountability on strategic, policy and norm-setting matters while providing sufficient levels of delegated authority to the field in order to enable effective and timely action. The proposed governance framework also addresses the relationship of other ICT units in the Secretariat at Headquarters and offices away from Headquarters with the new Office of Information and Communications Technology.
+15.	The Office of Information and Communications Technology would be responsible for and carry out the following functions:
+	(a)	Define an Organization-wide strategic ICT vision in line with its programmatic mandates;
+	(b)	Determine technological direction;
+	(c)	Set standards and ensuring overall compliance;
+	(d)	Provide strategic leadership in the selection and planning for enterprise systems;
+	(e)	Oversee all major ICT initiatives, inter alia, the replacement of IMIS, Galaxy and other ancillary management systems;
+	(f)	Provide the policy-setting framework required to effectively oversee and coordinate global ICT investments for the Organization ensuring economies of scale and preventing redundancy of expenditures;
+	(g)	Assess and manage risks;
+	(h)	Monitor and evaluate performance;
+	(i)	Monitor on an ongoing basis the effectiveness of the overall ICT governance framework.
+16.	ICT units at offices away from Headquarters and peacekeeping field offices administered through the Department of Peacekeeping Operations would be provided with delegated authority to:
+	(a)	Assess business needs and required supporting technology solutions;
+	(b)	Identify local ICT infrastructure requirements;
+	(c)	Manage local technology infrastructure and day-to-day ICT operations;
+	(d)	Define and manage local service levels and contractual agreements;
+	(e)	Develop and manage local ICT budgets;
+	(f)	Coordinate and provide training for local users;
+	(g)	Develop and implement local disaster recovery and business continuity plans;
+	(h)	Manage the storage, security and availability of local data.
+17.	The Department of Peacekeeping Operations would be provided with delegated authority to:
+	(a)	Ensure that the organizational ICT vision, as defined by the Chief Information Technology Officer, is extended to field ICT operations;
+	(b)	Establish and promulgate field-specific ICT policies, standards, procedures and guidelines in alignment with United Nations ICT policies and according to industry best practices and international standards;
+	(c)	Monitor and ensure that field mission ICT expenditures are aligned with the global ICT investment strategy, as developed by the Office of Information and Communications Technology, to ensure economies of scale and reduce redundancies;
+	(d)	Plan, coordinate and direct various ICT operations in field missions as necessary;
+	(e)	Assess business needs and required supporting technology solutions for the field;
+	(f)	Manage wide area network (WAN) connectivity for the field.
+18.	Under the proposed governance framework, all initiatives related to the development of application software, whether customized systems or the result of acquisitions of software packages, regardless of their source of funding would be subject to a review and approval by the Office of Information and Communications Technology. This review process is intended to ensure proper strategic alignment and cohesion as well as the assessment of their projected added value and return on investment. 
+
+
+	V.	Conclusion
+
+
+19.	The Secretary-General strongly believes that the management and governance framework for ICT proposed in the present report would enable the Organization to leverage the potential of ICT as a critical reform instrument and requests the General Assembly to endorse it.
+
+[Start1]<<ODS JOB NO>>N0725077E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/61/765<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/61/765
+
+A/61/765
+
+07-250776
+
+507-25077
+
+United NationsA/61/765 
+General AssemblyDistr.: General
+27 February 2007
+
+Original: English
+
+
+07-25077 (E)    140307
+*0725077*
+

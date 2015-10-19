@@ -1,0 +1,56 @@
+Distr.
+GENERAL
+ECE/CES/SEM.54/18 (Summary)
+3 April 2006
+
+Original: ENGLISH
+               ENGLISH AND RUSSIAN ONLY
+UNITED NATIONS STATISTICAL COMMISSION and ECONOMIC COMMISSION FOR EUROPE
+CONFERENCE OF EUROPEAN STATISTICIANS
+EUROPEAN COMMISSION
+STATISTICAL OFFICE OF THE
+EUROPEAN COMMUNITIES (EUROSTAT)
+ORGANIZATION FOR ECONOMIC COOPERATION AND DEVELOPMENT (OECD)
+STATISTICS DIRECTORATE
+Joint UNECE/Eurostat/OECD Seminar on the Management of Statistical Information Systems (MSIS)
+Sofia, Bulgaria, 21-23 June 2006
+
+Topic (iii): Dissemination and client relations
+
+NEW ICT ARCHITECTURE IN THE CZECH STATISTICAL OFFICE – RESULTS OF COOPERATION WITH ICT EXPERTS AND COMPANIES
+Invited Paper Prepared by Stanislav Drapal, Czech Statistical Office
+Summary
+
+1.	The beginning of the 1990s was a crucial moment for the subsequent development of the National Statistical Office and for the whole state statistical service in the former Czechoslovakia and since 1993 in the Czech Republic for the Czech Statistical Office (CZSO). This moment was not only the biggest basic change in our society, but also the most important moment for the subsequent development of statistics in the Czech Republic. In 1990 information and communication technologies (ICT) were very expensive tools accessible only to a very limited circle of experts. However, during the next 15 years the ICT changed into an indispensable instrument of every statistician. Fear and distrust of the ICT have been replaced by the necessity of ICT utilization. 
+
+2.	We can label the last fifteen-year period as the quantity stage. In 1990 the CZSO only had a few PCs and experts working with this new technology. Fifteen years later we have more PCs than staff members. Not only the quantity, but also the quality of ICT is greater. This modern and progressive technology is often used in an obsolete environment and it supports out-of-date methods whose efficiency evaluations are not satisfying. The previous concept was based on the following principles:
+
+
+- Every statistician has their own PC and other technologies;
+- Almost all software is produced by the CZSO;
+- The CZSO with its 14 regional offices has no single centralized system of the ICT service and this service is performed by many different local suppliers;
+- Data collection is based on the sending of paper forms;
+- For the internal circulation of documents within the CZSO mostly paper forms are also used.
+
+3.	Two to three years ago the CZSO initiated a number of changes in its activities, including in ICT. This new stage can be labelled as the quality and efficiency stage. The first decision made was to invite private companies from the field of ICT to consult and participate in the building of a new ICT system in the CZSO. The main tasks and goals of this long-term process are:
+(a) A new definition of ICT as a service provided to all the other departments of the CZSO and definition of relationship between the ICT department and the other departments of the CZSO.
+(b) Decision concerning the most suitable areas for outsourcing (services, technologies, capacity).
+(c) External analyses of all ICT areas and activities plus recommendations for further development.
+(d) The use of ICT for progress in statistical activities – first of all in data collection and data dissemination.
+(e) The use of ICT for internal circulation of all documents, records of tasks and goals incl. their assessments, control of the total budget and project budgeting.
+
+4.	External partners can enrich this cooperation with new views and ideas. They can recommend their own experiences. Recommendations of external partners enjoy higher authority among the staff of the CZSO. The main limitations of this cooperation are legislative rules for the government sector in the Czech Republic, limited budget and negative attitude of a part of the staff towards changes and innovations. 
+
+-----
+
+ECE/CES/SEM.54/18 (Summary)
+page 2
+
+
+
+	ECE/CES/SEM.54/18 (Summary)
+	page 3
+
+
+GE.06-22101
+

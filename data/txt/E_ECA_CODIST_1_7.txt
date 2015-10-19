@@ -1,0 +1,396 @@
+         
+      Distr.: General 
+                                               			             
+                                                                                                                   E/ECA/CODIST/1/7
+
+UNITED NATIONS                                                       
+ECONOMIC AND SOCIAL COUNCIL                            Original: English
+
+ECONOMIC COMMISSION FOR AFRICA 			
+
+
+First Session of the Committee on Development Information, 
+Science and Technology (CODIST-I)
+
+Addis Ababa, Ethiopia
+28 April – 01 May 2009
+
+
+
+
+Second Meeting of the Fifth African Technical Advisory Committee (ATAC)
+on the
+African Information Society Initiative (AISI)
+
+30 – 31 May 2007, Maputo, Mozambique
+
+
+Meeting Report
+INTRODUCTION
+
+1.	In May 1996, the Conference of African Ministers of Finance, Planning and Economic Development of the United Nations Economic Commission for Africa (ECA) adopted the African Information Society Initiative (AISI). In resolution 812 (XXXI) adopting the Initiative, the Conference of Ministers mandated ECA to institute an African Technical Advisory Committee (ATAC) comprised of African experts in all aspects of information and communication technologies (ICTs) and the Information Society to provide advice on the implementation of AISI. ATAC members were also expected to play an advocacy role, identifying and sharing best ICT practices and assisting ECA to mobilize resources for its work programme.
+
+2.	Since 1997, five committees have been established (ATAC-I, II, III, IV and V). ATAC-V held its first meeting in Addis Ababa, Ethiopia, 12-14 December 2006. The meeting recommended that a retreat be organized to discuss the programme of work of the repositioned Development Information and Services Division (DISD) into the new ICT and Science and Technology Division (ISTD) of ECA, to provide appropriate advice on implementation. Accordingly, a retreat was organized in Maputo, Mozambique, 30-31 May 2007, back to back with the e-Government and Gender Workshop organized by ECA and Industry Canada.
+
+Session I.	Opening Session
+
+I.1.	Welcoming and introductory remarks
+
+3.	In her opening remarks, Ms. Aida Opoku-Mensah, Director ISTD, introduced and welcomed the Hon. Minister of Science and Technology, Mr. Venancio Massingue and thanked him for according his time to grace the opening. She advised participants that the presence of the Hon. Minister at this meeting was significant given that he had been the Chairman of the first ATAC and that this retreat, being held on the 10th anniversary of AISI, provided an ideal opportunity to reflect on the future of the initiative. The Director briefed participants on the ECA repositioning exercise that had resulted in the transformation of the former DISD to ISTD. Although, “Harnessing information for development” remained the overarching mandate for ISTD, the focus now encompassed the new orientation towards Science, Technology and Innovation (STI). She highlighted the important role that ATAC members would play in assisting ECA realize its new work programme and business plan and advised that one of the major objectives of the meeting was that of soliciting advice on programme focus areas in light of the reorganization. In this regard, the discussions of the meeting should focus on what the priorities of the ISTD work programme should be and what activities these implied for the division. 
+
+4.	The Director introduced the ATAC members attending the retreat to the Hon. Minister:
+
+* Prof. Clement Dzidonou - Chairperson;               
+* Ms. Olive Chikankheni - Vice-chairperson;       
+* Dr. Ahmed Hussien - Rapporteur;                
+* Ms. Opportune Santos
+* Mr. Ebrima Jobe
+* Mr. Mzwandile  R. Mabuza, and
+* Mr. Moses Bayingana.
+
+5.	Apologies were noted from Mr. Abdoulaye Ndiaye (Senegal), Dr. Nagwa El Shenawy (Egypt) and Ms. Natalie Sunker (South Africa). The list of participants is attached as annex 2.
+
+6.	In his opening remarks, the Hon. Minister welcomed participants to the meeting and congratulated ISTD for the sterling work done in policy development. He also commended ATAC for its continued important role as an independent vehicle for programme validation. He stressed that the destiny of Africa lay in the hands of Africans themselves and that self-belief was key to ensuring the successful delivery of set goals. The Hon. Minister advised that STI heralded development for the future, with ICT as an enabling catalyst adding new dynamics to the development of all other sectors.  In Mozambique, he affirmed, STI was regarded as cross-cutting and relevant in all sectors. The challenges in the process were identified as human resource development, and financing. This called for prioritization of projects with a high impact. The Hon. Minister pledged his support and urged the meeting to continue its good work in delivering tangible results for Africa’s development. 
+
+I.2.	Adoption of Agenda
+
+7.	The provisional agenda was adopted with modifications and is presented in annex 1.
+
+Session II.	Setting the Scene
+
+II.1   	From DISD to ISTD: Mapping-out the implications of the ECA reorganization on the division’s mandate and programmes including AISI in post-reform ECA
+Prof. C. Dzidonu, Ghana, Chairperson of ATAC
+
+8.	In his presentation, Prof. Dzidonou explained the background and how the activities of the former DISD could be transformed to the new ISTD composing the functional areas of ICTs, S&T and Geoinformation.  To chart a way forward, it was therefore important to establish whether these functional areas were (a) independent but grouped under the same Division for administrative reasons or (b) were functionally fused areas. The ATAC Chairperson made reference to the aim of ECA in setting up the new division, and that was to bring science-related activities together in one cluster and promote synergies among the various sections. Further, the Chairman asked whether the division’s mandate had changed fundamentally or marginally as a result of introducing the new functional areas. 
+
+9.	The presentation highlighted five scenarios (illustrated in annex 3) representing the possible relationship between ICTs on one hand and S&T on the other. This served as a basis for   discussing viable links in terms of the ISTD sub-programme mandate, ‘Harnessing Information for Development’. Five possible scenarios that reflected the links between ICT and S&T were presented: 
+
+A:‘ICT’ and ‘S&T’ are not linked; they are separate entities
+
+
+B: ‘ICT’ and ‘S&T’ can co-exist side-by-side,
+C: ‘S&T’ is part of ‘ICT’
+D: ‘ICT’ is part of ‘S&T” 
+E:  The ‘T’ in ’S&T’ is part of ‘ICT’ - meaning all Technology is ICT, and
+F: ‘ICT’ is part of the ‘T’ in ‘S&T’ - meaning ICTs are technologies alongside non-ICT technologies - in other words, the ‘T’ in ‘S&T’ refers to both ICTs and non-ICTs.
+
+10.	The presentation highlighted the division’s activities, which would be the basis for mapping the activities in the constituent sections. In analysing the new functions, it was prudent to determine whether the core activities of ISTD were expected to change, whether the division would continue to discharge its roles and carry out its core activities in the ICT and the Geo area, and to what extent it would extend support to S&T-related activities in terms of its mandate for policy formulation and implementation, convening of stakeholder meetings and consultations, and conducting studies, among other activities.
+
+11.	In the ensuing discussions, members were informed that the core mandate of the Division had not changed in terms of Sub-programme 4 but the work on policy formulation now encompassed ICT, Geoinformation and Science & Technology, that is, an extension of mandate to include responsibility for development of STI policies. It was proposed that an advisory body on STI be established on the same lines as ATAC. On the issue of whether the Division’s mandate had changed fundamentally or marginally, the meeting was advised that the mandate of coverage had been extended but changes were marginal as they did not impact on the prescribed core programme of work. It was generally agreed that STI was, in fact, cross cutting in all areas of ECA work and that within ECA, some STI components were housed in other Divisions. Fulfilling this marginally changed mandate therefore called for prioritization and for focus on those elements that added high value and had significant impact on harnessing information for development
+
+12.	The meeting concurred that whilst it was important to clearly define the mandate of the Division, it was prudent to be mindful of what was happening in African countries on the demand side, and the reality on the ground. Generally, on the demand side, S&T policy and the national information and communication infrastructure (NICI) policy existed as separate entities. Would countries require a separate or integrated ICT/S&T policy?
+
+13.	The discussions concluded with a proposal to adopt option F of the five scenarios presented on potential links between ICT and S&T. The proposal assumed fused functional areas (ICT/S&T) and the unbundling of S&T into ‘science’ & ‘technology’ clusters. By so doing, ICTs could be considered as part of the ‘technology’ cluster under scenario F focusing on the technology component of S&T.  It was agreed that Science could exist without Technology but there was no technology which was not science based. 
+
+
+Session III.	The ISTD Work Process, Procedures and Work Programme
+
+III. 1   Presentation on the Elements and Action Points of the ISTD Strategic Plan 
+Ms. Aida Opoku-Mensah, Director, ISTD
+
+14.	In her presentation, before assessing the state of R&D and expenditure and activities on the continent citing examples of some African countries, the Director of ISTD highlighted the S&T challenges for Africa, focusing on:
+
+* Unattractive working conditions that prompted brain drain;
+
+* Lack of physical infrastructure and limited access to ICTs; 
+
+* Limited capacities to develop, adapt and exploit S&T solutions; 
+
+* Limited knowledge and expertise on the role that Intellectual Property Rights (IPR) systems could play in fostering innovation, knowledge diffusion and competition; and 
+
+* Limited resources to create viable and competitive physical/virtual networks of excellence between African and international institutions of higher education and STI institutions.  
+
+15.	In discussing the S&T mandate of the United Nations System, she cited General Assembly resolution A/RES/60/204 on the important role of STI in enhancing economic well-being.  She further informed the meeting that S&T formed the basis for the Knowledge Economy and as such, STI had been singled out through the World Summit on the Information Society (WSIS), the World Summit on Sustainable Development (WSSD), and the Outcome Document of the Millennium Summit.
+
+16.	She further dwelt on the role of the new sub-programme in the repositioning of ECA, the initiatives to support programme implementation and the means for delivering Work Programme 2008-2009 on ICT and Science and Technology through three separate programme elements (ICT, Geoinformation and S&T) with cross-cutting activities. In this context, the Director underlined the delivery mechanisms and expected results. 
+
+17.	She confirmed that ISTD was part of the internal change management process of the entire Commission and that it was essential to create niches and comparative advantages for the new division through strengthening information and knowledge-sharing, facilitating establishment of an enabling environment for the Knowledge Economy (KE), supporting economic development in member States and harnessing STI in the development process.  As the ICT programme element was already viewed as one of the strengths of the division, it was essential to find a niche for S&T without having to slow down the pace of ICT activities.  In this regard, the Director put forward immediate major initiatives for S&T such as the establishment of an online discussion list with African scientists on the current state of S&T on the continent, building of an African S&T Repository, launch of the Access to Scientific Knowledge (ASKIA) Initiative, convening of an African Conference on S&T and establishment of an S&T Advisory Group (STAG). 
+
+She further advised that since S&T was extremely broad with various specializations such as energy, medical sciences, agriculture, and so on, work undertaken in S&T by the division had to complement and support the existing core programme and capacity. She emphasized the need to define the scope of S&T activities to fit within the core work plan, taking capacity into account.  She emphasized the need to review the knowledge base in Africa in terms of:
+
+* Production of knowledge resources to promote development;
+* S&T in promoting economic entrepreneurship; and 
+* S&T in the use of ICT.
+
+
+III.2    Presentation on the Outcome of CODI-V on the Work Programme of ISTD
+Makane Faye, Regional Adviser, ISTD 
+
+18.	In his presentation, Mr. Faye aligned the old ECA machinery to the new one adopted by the 2007 Conference of Ministers. In this context, a Committee on Development Information, Science and Technology (CODIST) had been created and its Terms of Reference finalized by the fifth session of the Committee on Development Information (CODI-V), which it replaced in 2008. Referring to the CODIST membership and objectives, he explained how CODIST would guide the overall programme implementation by, among other measures, strengthening the role of ECA in assisting its member States to develop their NICI and geographic information technologies, integrate S&T in development programmes and strategies and promote use of knowledge and information services.
+
+19.	CODI-V resolutions with a bearing on the newly created S&T component of the work programme, and implementation of which ATAC members should be fully involved, included:
+
+* Establishment of National CODIST Committees, 
+* Follow-up of CODIST activities with the Regional Economic Communities (RECs),
+* Adoption of innovation systems that strengthen public-private partnerships; and
+* Development of linkages between research institutions, universities and enterprises.
+ 
+20.	 In the discussions following the two presentations, concern was expressed that the proposed scope of S&T activities of the new division was too narrow. It was noted that ISTD had to limit the scope of its S&T engagement since S&T was very broad, and since  the work of the division had to be practical and within its capacity, it had to focus selectively on specific areas that added the highest value to its work.  It was further noted that ISTD was a small division with a small budget and needed to add the highest value and impact to whatever new activities it was intending to embark on. It was suggested that the division concentrate initially on a narrow scope of S&T activities, projects and initiatives, to ensure that it could deliver on its commitments to the additional programme components. Therefore, focus should also be on adding the highest value and on making the greatest impact within the programme mandate and taking the budgetary constraints into account. 
+
+21.	The meeting also suggested that in view of the division’s comparative advantage and excellent work in ICT, the S&T activities selected should not only add value and impact but should not impede the existing momentum in ICT and Geoinformation. They further proposed that 80 per cent of the ECA ICT policy development activity should be dedicated to NICI implementation, while 20 per cent should be dedicated to the development process of new and ongoing NICIs as recommended by the first meeting of ATAC-V. A request was also tabled for ISTD to develop a scorecard on NICI implementation in member States in order to better monitor development and impact, guide and enhance the ATAC advisory role in the areas of focus, and direct partners to deserving countries that were NICI ready.
+
+22.	Participants agreed that although the mandate of the division had been extended to include S&T, the ‘bread and butter’ roles, responsibilities and core activities were not expected to change much. The division was expected to continue to discharge its roles and undertake its core activities in the ICT and the Geoinformation area and extend these to support S&T-related activities in policy formulation, implementation, stakeholder meetings, and studies, etc).  In this context, the meeting urged that S&T activities undertaken should be geared to actions with high impact in the African scene.
+
+23.	The meeting noted that Science was the basis for Technology, including ICTs. Hence, in order to understand the relations between ICT and S&T, it was important to unbundle the S&T components by dissociating the Science aspects from the Technology ones and clearly underscoring the intersections between ICT and S&T. 
+
+
+
+Session IV.  ISTD in the Post-Reform Era: Concrete Programmes and Actions
+
+IV.1	Mapping out Concrete Actions and Programmes for ISTD and ATAC in the Post- Reform Era
+
+24. 	As a way forward, the meeting developed the matrix below to map out ECA activities in ICT, Geoinformation and S&T in the coming years: 
+
+
+Mapping out Concrete Actions and Programmes for ISTD in the Post-Reform EraICTGEOS&TPolicy Formulation and Implementation SupportGuidelines, templates & Score cards on implementation should be developed
+X
+X
+Resource Mobilization Support
+(Weight should be put to indicate intensity)
+X
+X
+XCapacity Development Support ServicesEmphasis to be on implementation of NICITraining of technical staff on land managementEmphasis to be on Science project managementAdvocacy and Awareness Raising
+X
+X
+XStakeholder Engagement  & Outreach Services and ActivitiesStakeholders engagement on ICT should be geared to support of implementationTo be done within the context of NICI processOutreach on S&T to the scientific community and policymakers managing science, online and in face-to-face meetingsEngagement with Development Partners 
+List of partners should be providedEngagement should be in implementation
+XConference on Science in Africa & support to implement  identified activitiesEngagement with Private SectorEngagement of private sector to mobilize resources to facilitate implementation. Need for models, templates and guidelines on engaging local and international private sectors in implementing NICI. Need to provide portfolio of implementation tools, e.g. score card, documentation of case studies and best practices on implementation to sensitize government and guide engagement of the private sector. Implementation of the NSDI component of Geo
+XIncubation process needs a series of studies on models and best practices to sensitize government.  Capacity building on linking science to entrepreneurshipsOrganization of a forum and major initiativesAISI, ATAC, ARAPKE, GAID, GK3, ADF, Measuring ICT for Development, UNGISCODIST-Geo, EIS Africa, AFREF, ATAC, UN-SDI, UNCSTDANSTI, Science in Africa, Science and Technology Advisory Group (STAG), ASKIARepresentation at global and continental level
+(NEPAD, RECs, AU)XXXConsensus building and facilitationInternet Governance ForumXXConducting studies, exploring best practices and case studies, and identifying centres of excellenceXXStatus of scientific research in Africa. Status of level of R&D in African universities, research institutions and industry. Study on industrial and agricultural prototype developed in African universities and African universities and research institutions.Production and distribution of Knowledge and Information ProductsXXXPolicy Documents (produced by countries), StudiesOn thematic and emerging issues. Guidelines and templates as described earlier to facilitate implementationFacilitating international collaborative initiativesXXSupport research within African universities through collaborative arrangementsGuidelines, Methodologies and TemplatesXXOn policy coherence and also from some of the studies which would generate models. Compendium of S&T Best practicesConference Proceedings, Others
+(NICI implementation technical briefing papers, guidelines and indicators, outcomes of meetings and conferences)
+XXX
+25.	While mapping the above activities for ISTD, ATAC members discussed activities that were exclusively ICT, Geoinformation or S&T. It was noted that most of the Geoinformation activities could be undertaken within the ICT framework in terms of policy and action plans, and that Geoinformation was typically an application of ICT. The Rwanda, Malawi and Ghana ICT policies were cited as examples of policies that already fully integrated Geoinformation. Accordingly, and in order to maximize value and impact in the delivery of ISTD advisory services, ATAC recommended that ECA should not dispatch separate Geo and ICT missions to member States for policy advice but instead, send a single mission. In addition, a multidisciplinary team should assist countries that requested assistance from ECA for development of S&T policies.
+
+Session V.  Wrap up and closing
+
+V.1  	Recommendations on how best ISTD can function to effectively deliver on its mandate and programmes in post-reform ECA
+
+26.	ATAC members discussed the vision, goals and objectives of AISI within the restructuring context and concurred that these were still relevant and up to date as a framework for spearheading development of KE in Africa. They recommended the continued use of the AISI guiding framework and requested the Chairperson of ATAC-V to prepare a statement to that effect.
+
+
+V.2 	Date and venue of the next meeting and Any Other Business
+
+27.	Under agenda item “Any Other Business”, the meeting agreed on the following delivery schedule of ATAC-V outputs:
+
+31 May:	Meeting ends
+8 June:	The first draft of the report to be discussed by the Chair, the Rapporteur, and ISTD staff
+12 June:	Draft report to be sent to the list for comments by ATAC members
+15 June:	Draft report to be finalized by ATAC members
+19 June:	Final report to be finalized by the Chairperson
+22 June: 	Summary and Recommendations to be finalized by the Chairperson and transmitted to the ECA Executive Secretary
+
+V.3	 V
+
+Closing remarks
+
+28.	ATAC participants individually expressed their satisfaction with the achievements of the two-day meeting.  
+
+29.	The Director of ISTD thanked participants for their very useful contributions and commended the current selection of ATAC membership. By virtue of their being NICI focal points, they were knowledgeable and had up-to-date information on the Commission’s activities and the attendant opportunities and challenges were thus best placed to provide advice on the Elements and Action Points of  Strategic Plan.
+
+30.	The Chairperson of ATAC, Prof. Dzidonou, thanked all the participants for their active participation in advising ISTD on the focus of its work programme and implementation in the coming years. He pledged ATAC commitment to supporting ECA in implementing the activities of the newly created division and informed the group that he would prepare a summary of the ATAC-V outcomes for the ECA Executive Secretary.
+
+31.	The meeting was adjourned at 1:30pm on 31 May 2007.
+
+Annex 1 
+
+ 
+AGENDA
+
+Wednesday, 30th May 2007
+
+Session I: 			Opening Session
+
+14:30 – 14:50	Welcoming and introductory remarks
+Ms. Aida Opoku-Mensah, Director, ISTD 
+
+14:50 – 15:10 	Discussion and Adoption of Agenda and Programme of Work
+
+15:10 – 15:30 	Brief Statement on the Purpose of the ATAC/ISTD Retreat
+				Ms. Aida Opoku-Mensah, Director, ISTD
+
+15:30 – 16:00 	Plenary Discussion
+			
+16:00 – 16:30	Coffee Break
+
+Session II: 	Setting the Scene
+ 
+16:30 – 17:00 	From DISD to ISTD: Mapping out the Implications of the Reorganization of the Division on its mandate and programmes including the AISI in post-reform ECA
+Prof. C. Dzidonou, NICI Consultant, International Institute for Information Technology (INIIT), Ghana
+
+16:30 – 17:00	Discussion
+
+
+Thursday 31st May 2007
+
+Session III: 	The ISTD Work Process, Procedure and Work Programme
+
+9:00 – 10:00	Presentation on the Elements and the Action Points of the ISTD Strategic Plan
+Ms. Aida Opoku-Mensah, Director, ISTD 
+
+10:00 – 10:30	Presentation on the Outcome of CODI V on the Work Programme of ISTD
+Makane Faye, Regional Adviser ISTD
+
+10: 30 - 10:45 	Coffee Break
+10:45 – 13:15                	Plenary Discussion on the ISTD Strategy Plan and the CODI Action Lines and Work Programme	
+
+13:15 – 14:15			Lunch Break
+
+Session IV: 	ISTD in the Post Reform Era: Concrete Programmes and Actions  
+
+14:15 – 15:45	Mapping out Concrete Actions and Programmes for the ISTD in the Post Reform Era
+Rapporteur (based on the Session I to III discussions)
+
+15:45- 16:15	Plenary Discussion
+
+16:00 – 16:15			Coffee Break
+
+Session V: 			Closing
+
+16:15– 16:45			Recommendations on how best ISTD can
+                                                function to effectively deliver on its mandate and
+                                                programmes in the post-reform ECA.
+
+16:45 -	 17:30			Date & venue of next meeting and AOB
+
+17:30 – 18:00		            Closing remarks
+Annex 2
+LIST OF PARTICIPANTS
+
+
+Mr. Ebrima D. Jobe
+ICT Director
+Department of state for communication and information technology (DOSCIT)
+Banjul,  Gambia 
+Tel: +220 229928
+Fax: +220 227954
+E-mail: ebouj2001@yahoo.com
+
+Professor Clement Dzidonou
+Senior Research Fellow
+International Institute for
+Information Technology (INIIT)
+P.O Box AN-19782
+Accra-North, Ghana
+Tel. 233-21-251894
+     233-21-240353
+Fax. 1-253-323-1363
+Email: dzidonu@iniit.com
+
+Me Opportune Santos
+Consultante NICI,
+Lomé, Togo
+Tél :(228) 227 82 68  / 911 97 97
+Fax : (228) 222  41 20	
+E-mail aksantos@togo-imet.com   et osantostg@yahoo.fr 
+
+Mrs. Olive Chikankheni
+Director
+Information Systems and Technology Management
+Department of Information Systems & Technology Management Services
+P.B. 338, Lilongwe 3
+Lilongwe, Malawi
+Phone Number:     +265 8834053 
+FAX Number:        +265 1759624
+Email Address:   chikankheniot@malawi.gov.mw 
+
+Dr. Ahmed Hussien
+Assistant Professor/ Academic Director
+HiLCoE School of Computer Science and Technology
+P.O. Box 33465 Addis Ababa, Ethiopia
+Tel.: +251 91 122 52 41
+Fax: 251 11 663 65  94
+E-mail: hilcoe@ethionet.et 
+Mr. Mzwandile R. Mabuza
+Consultant
+Policy and Regulatory Affairs
+Solisane Investments (Pty) Ltd
+P.O. Box 1688, Mbabane, Swaziland
+Tel: +268 4052351 / 268 404 6420
+Fax: +268 4052062
+Email Address: mrmabuza@sptc.co.sz; mrmabuza@swazi.net
+
+Secretariat
+
+Ms. Aida Opoku-Mensah
+Director
+ICT and Science and Technology Division (ISTD)
+P.O. Box 3001
+Addis Ababa, Ethiopia
+Tel.: +251 11 5443562
+Fax: +251 11 5510512
+E-mail: aopoku-mensah@uneca.org  
+
+Mr. Makane Faye
+Regional Advisor
+ICT and Science and Technology Division (ISTD)
+P.O. Box 3001
+Addis Ababa, Ethiopia
+Tel.: +251 11 5514534
+Fax: +251 11 5510512/+251 11 5515829
+E-mail: mfaye@uneca.org 
+
+Mr. Sizo D. Mhlanga
+Regional Advisor 
+ICT and Science and Technology Division (ISTD)
+P.O. Box 3001
+Addis Ababa, Ethiopia
+Tel.: +251 11 5443636
+Fax: +251 11 5510512
+E-mail: smhlanga@uneca.org 
+
+Mr. Assefa Bahta
+Project Officer
+ICT and Science and Technology Division (ISTD)
+P.O. Box 3001Addis Ababa, Ethiopia
+Tel.: +251 11 5443455
+Fax: +251 11 5510512
+E-mail:  assefab@uneca.org 
+
+Annex 3: Relationship between ‘ICT’ and ‘S&T’
+
+
+
+
+
+E/ECA/CODIST/1/7
+
+
+
+E/ECA/CODIST/1/7
+		
+
+E/ECA/CODIST/1/7
+Page 8
+
+
+E/ECA/CODIST/1/7
+Page 9
+
+
+
+
+
+
+E/ECA/CODIST/1/7
+
+
+E/ECA/CODIST/1/7
+Annex I
+Page 2
+
+
+E/ECA/CODIST/1/7
+Annex I
+		
+
+
+
+E/ECA/CODIST/1/7
+Annex II
+Page 2
+
+
+E/ECA/CODIST/1/7
+Annex II
+		
+

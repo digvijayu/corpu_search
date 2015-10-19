@@ -1,0 +1,313 @@
+[Start1]
+Sixty-sixth session
+Items 133 and 142 of the provisional agenda*
+
+Programme budget for the biennium 2010-2011
+
+Report on the activities of the Office of Internal 
+Oversight Services
+
+
+
+		Audit of capital master plan procurement and contract management, including change orders
+
+
+		Report of the Office of Internal Oversight Services
+
+
+
+
+	*	A/66/150.
+		“Internal controls over the signing of guaranteed maximum price contracts were effective, but there is a need to improve controls related to the procurement of trade contracts”
+
+
+
+	Summary	In resolution 63/270, the General Assembly requested the Office of Internal Oversight Services (OIOS) to report to the Assembly on all aspects of the procurement process related to the capital master plan. As part of its workplan and in compliance with resolution 63/270, OIOS conducted an audit of capital master plan procurement and contract management, including change orders. The overall objective of the audit was to assess the adequacy and effectiveness of the key controls over the capital master plan activities relating to procurement and contract management.	The Office of the Capital Master Plan has established an appropriate internal control structure, with segregation of duties, to review and evaluate guaranteed maximum price proposals, in order to promote the attainment of best value. However, the controls over the procurement of trade contracts by the construction manager, Skanska, need improvement to ensure the transparency and fairness of the procurement process.	The Post-Award Review Committee was established by the Assistant Secretary-General, Office of Central Support Services to conduct the technical review of change orders and compliance review of contract amendments. However, the delay in setting up the Committee and the slow review process have contributed to a large backlog of cases for the Committee to review and a need to reconsider the current working arrangements to ensure the Committee’s relevance to ex post facto control.	It took the Office of the Capital Master Plan between 29 and 174 days to approve the change orders under review. Change orders cannot be paid before they are approved and long approval times may negatively affect trade contractors’ cash flows and, consequently, may give rise to claims and disputes between the trade contractors and the construction manager.	The reasons for initiating change orders were not adequately explained. Although the change orders were correctly approved, the fundamental question of why change occurs and who is accountable could not be answered. There are high numbers of change orders on some contracts.	The Office of the Capital Master Plan has established rigorous arrangements for achieving the required level of quality.	OIOS issued two critical recommendations to the Office of the Capital Master Plan and the Office of Central Support Services for further strengthening internal controls. All the recommendations made by OIOS have been accepted by the offices concerned.
+
+Contents
+PageI. 	Introduction	4II. 	Audit results	4A. Contractual framework	4B. Guaranteed maximum price review process	6C. Procurement of trade contracts by Skanska	9D. Efforts to promote procurement from countries with developing economies and economies in transition	12E. Change orders and contract amendments	14F. Allowances and contingencies	18G. Contract risk management, monitoring and control	19III. 	Recommendations	21 	Annex	Recommendations made to mitigate risks identified in the audit of capital master plan procurement and contract management, including change orders	22
+
+	I.	Introduction
+
+
+1.	The capital master plan was established pursuant to General Assembly resolution 55/238. A budget of $1,876.7 million was approved by the Assembly in resolution 61/251 and work on the capital master plan has been proceeding in accordance with the accelerated strategy referred to in Assembly resolution 62/87. 
+2.	The Office of Internal Oversight Services (OIOS) conducted an audit of capital master plan procurement and contract management, including change orders. The main objective of the audit was to assess the adequacy and effectiveness of key controls over capital master plan activities in those areas.
+3.	The contracts selected for sample testing were two guaranteed maximum price contracts started in 2009 (for the Secretariat Building and for the curtain wall, with a combined value of $335 million) and trade contracts related to those guaranteed maximum price contracts. The audit also examined change orders exceeding $500,000 (increase in guaranteed maximum price) and negative change orders (decrease in guaranteed maximum price) exceeding $400,000.
+4.	Interviews were conducted with personnel of the Office of the Capital Master Plan, the consultant programme manager, Skanska and the Chair of the Post-Award Review Committee. The comments of the capital master plan management were taken into account in the preparation of the present report.
+
+
+	II.	Audit results
+
+
+	A.	Contractual framework
+
+
+5.	On 18 May 2009, the United Nations entered into a coordination agreement with Skanska for $28,500,000. That agreement addresses the overall coordination of and responsibility for the services to be performed by Skanska with respect to the capital master plan. The Coordination Agreement covers the roles and responsibilities of Skanska as construction manager, the process to be followed for the management of construction and the fees to be paid. The United Nations has since signed amendments to the Coordination Agreement in the amount of $27,533,260 for early contract works related to packages for which guaranteed maximum price contracts had not yet been signed.
+6.	The United Nations has entered into 16 out of an approximate total of 21 guaranteed maximum price contracts with Skanska for the various projects that comprise the entire capital master plan (see table 1).
+
+
+		Table 1
+List of guaranteed maximum price contracts signed as of 31 December 2010
+
+DescriptionContract dateContract amount 
+(US dollars)Basement bid package 2 — Prepurchase27 March 200925 106 883Basement bid package 2 — Installation15 June 2009141 786 436Fire alarm system8 March 20109 551 280	Subtotal Basement Package 2176 444 599North Lawn Conference Building (Package 1)18 July 200829 009 179North Lawn Conference Building (Package 2)8 August 20086 495 536North Lawn Conference Building (Package 3)21 November 200819 203 968North Lawn Conference Building (Package 4 & 5)12 December 200841 313 763North Lawn Conference Building (Package 6)2 April 200937 527 990	Subtotal North Lawn Conference Building133 550 436305 E 46th Street21 November 200822 220 151Contract B — 3B Swing space Package 19 October 200812 645 161United Nations Federal Credit Union9 December 20088 588 900Curtain wall19 March 2009128 337 747380 Madison Avenue9 April 200934 033 002Furniture for swing spaces15 April 200913 744 754Hoist22 September 200920 934 300Secretariat Building1 February 2010206 966 117	Total757 465 167
+
+7.	Under the terms of guaranteed maximum price contracts, Skanska implements and oversees the approved construction and contracting plan, controls project costs, maintains site safety, ensures quality assurance and procures construction work. The guaranteed maximum price consists of trade costs, general conditions, fees, contingencies, allowances and insurance. As the work proceeds, Skanska is paid for the percentage of trade costs and general conditions costs of work completed, along with pre-agreed fees and insurance. The guaranteed maximum price is the ceiling price for each parcel of work, beyond which the United Nations is not obligated to compensate Skanska for the pre-determined scope of works. Any loss due to increase in market price must be absorbed by Skanska and any savings generated belong to the United Nations. However, changes made by the United Nations to the scope of works or to the schedule during a contract result in either an increase or a decrease in the guaranteed maximum price. Skanska follows a competitive bidding process to award contracts to trade contractors. Those contracts can be signed only after approval by the Office of the Capital Master Plan.
+8.	The United Nations employs firms of design consultants and other firms to act as integrity monitor, commissioning agent and consultant programme manager for the effective execution of the projects. The consultant programme manager, Gardiner and Theobald (G&T), advises the Office of the Capital Master Plan on the technical aspects of Skanska’s guaranteed maximum price proposals and the reasonableness of costs. The figure below shows the contractual framework for the capital master plan. 
+
+		Figure I
+Capital master plan contractual framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.	In the opinion of OIOS, the contractual framework is adequately designed and has been operating satisfactorily. 
+
+
+	B.	Guaranteed maximum price review process
+
+
+	1.	Guaranteed maximum price submittal and review procedures
+
+10.	The United Nations and Skanska have agreed to standard terms and conditions for guaranteed maximum price contracts, including the construction fee, insurance and contract security costs. Other components of a guaranteed maximum price contract, including trade contractor costs and general conditions costs (Skanska’s management costs), are negotiated for each guaranteed maximum price contract. According to the “Special procedures for the procurement of goods and services required to complete the capital master plan” issued by the Procurement Division on 31 October 2008, Skanska may seek competitive bidding for trade contracts before a guaranteed maximum price proposal is submitted or may include estimates for trade packages as part of its guaranteed maximum price proposal.
+11.	Prior to the submission of a guaranteed maximum price proposal by Skanska, both Skanska and G&T independently prepare cost estimates for the guaranteed maximum price package on the basis of design documents. Both estimates are submitted to the Director of Construction, Office of the Capital Master Plan, who reviews them and requests Skanska and G&T to reconcile any differences. The Director of Construction also prepares his own estimates and oversees the reconciliation process. This adds to the level of oversight over both Skanska and G&T.
+12.	Once the design and construction documents are completed, Skanska prepares a guaranteed maximum price proposal. As part of this process, Skanska may start the procurement of trade contracts to test market conditions and confirm that actual bids come within estimates. Skanska stated that before a guaranteed maximum price proposal is submitted at least 75 per cent of trade contracts are at various stages of the bidding process.
+13.	Skanska submits the guaranteed maximum price proposal to the Office of the Capital Master Plan with breakdowns of: estimated trade costs, proposed staffing, the project schedule, exclusions and allowances. G&T reviews the guaranteed maximum price proposal in detail and, together with the Office of the Capital Master Plan, negotiates with Skanska the terms and cost of the proposal. Skanska submits a revised proposal after the negotiations. 
+14.	The Office of the Capital Master Plan has established a technical evaluation committee to review Skanska’s guaranteed maximum price proposals. This committee comprises the Director of Construction, the Chief of Design and the Chief of Administration and Communication. A G&T representative acts as a nonvoting adviser. G&T carries out a financial review of the proposal and issues recommendations to the Office of the Capital Master Plan and the Procurement Division. The committee issues a recommendation that the guaranteed maximum price proposal be submitted to the Headquarters Committee on Contracts for review.
+15.	On the basis of the G&T financial review, the Procurement Division conducts further evaluation of a guaranteed maximum price proposal, checking it against the capital master plan budget and seeing if any benchmarks relating to the cost of comparative construction projects in New York City identified by G&T have been exceeded. The Procurement Division stated that its review focused on compliance with established procedures and otherwise relied on the work conducted by G&T. 
+16.	The Procurement Division and the Office of the Capital Master Plan prepare a presentation on a guaranteed maximum price proposal for the Headquarters Committee on Contracts. The role of the Headquarters Committee on Contracts is to review whether the technical and financial evaluations of the guaranteed maximum price proposal transparently show that Skanska’s proposal is technically acceptable and that the guaranteed maximum price is fair. The Procurement Division, in conjunction with the Office of Legal Affairs, reviews and signs the guaranteed maximum price contract with Skanska.
+17.	In the opinion of OIOS, the Office of the Capital Master Plan has established an appropriate internal control structure, with segregation of duties, to review and evaluate the guaranteed maximum price in order to promote the attainment of best value. It was evident that the Office of the Capital Master Plan places reliance on G&T for local market expertise and cost estimates. OIOS concluded that it was a common practice in the construction industry in the United States and worldwide for the owner to rely on consultants for industry knowledge. However, the Office of the Capital Master Plan also maintains its own industry knowledge, through project managers, the Director of Construction and the Executive Director, to assess the reasonableness of cost estimates from Skanska and G&T. The results of the OIOS review of controls are described in the following section.
+
+	2.	OIOS review of the guaranteed maximum price proposal and approval process
+
+18.	OIOS examined two guaranteed maximum price proposals, one for the curtain wall and the other for the Secretariat Building, with contract values of $128 million and $207 million, respectively. It reviewed Skanska’s proposals, the independent cost estimates of G&T, the cost estimate reconciliation, cost estimates conducted by the Director of Construction, reviews of cost estimates by the architects and engineers, bidding for trade contracts conducted at the time of the guaranteed maximum price proposal, technical evaluations by G&T and the Procurement Division and the deliberations of the Headquarters Committee on Contracts.
+
+	(a)	Curtain wall
+
+19.	The reconciliation process for estimates prepared by Skanska, G&T and the Director of Construction was in compliance with the established procedures, as described in paragraph 11 above.
+20.	The initial proposal from Skanska was submitted after 85 per cent of the bids from the trade contractors had been received and had been the subject of negotiation by Skanska. This provided assurance that the trade costs of the guaranteed maximum price proposal were aligned with market conditions and Skanska could guarantee the price of the guaranteed maximum price contract. 
+21.	After the review by G&T and the Office of the Capital Master Plan, Skanska reduced its proposal by $8.5 million as the result of an adjustment for market conditions. This reflected well on the effectiveness of the cost control roles of G&T and the Office of the Capital Master Plan.
+22.	Based on the technical evaluation committee reports and financial reviews by both G&T and the Procurement Division, the guaranteed maximum price was within the benchmark of comparable renovation projects in New York City. 
+23.	The review by the Headquarters Committee on Contracts of the guaranteed maximum price proposal was satisfactory. The Committee recommended the proposed contract award for approval by the Assistant Secretary-General, Office of Central Support Services, in line with established procedures. The Procurement Division’s presentation adequately described the scope of the project and the procedures for the evaluation of Skanska’s proposal.
+24.	OIOS concluded that the consideration of the proposal had been conducted with due diligence by the responsible members of the project team and the Headquarters Committee on Contracts.
+
+	(b)	Secretariat Building
+
+25.	The reconciliation process for estimates prepared by Skanska, G&T and the Director of Construction was in compliance with established procedures, as described in paragraph 11 above.
+26.	Architects reviewed the estimates and provided necessary clarifications.
+27.	Three separate proposals were received from Skanska before the contract was signed. This was because the initial two proposals exceeded the budget. The final proposal was $30 million lower than the original proposal, as a result of negotiations on the basis of market conditions. 
+28.	Seventy-two per cent of the trade contracts were in various phases of the bidding process at the time the last proposal was received from Skanska.
+29.	The Headquarters Committee on Contracts sought necessary clarifications before recommending the proposed contract award for approval by the Assistant Secretary-General, Office of Central Support Services, in line with established procedures. OIOS concluded that the review by the Headquarters Committee on Contracts of the guaranteed maximum price proposal was satisfactory. 
+30.	 Based on the review of internal controls of the guaranteed maximum price proposal and approval process for the curtain wall and the Secretariat Building guaranteed maximum prices, OIOS concluded that the controls were adequate, effective and in accordance with the established procedures.
+
+
+	C.	Procurement of trade contracts by Skanska
+
+
+31.	The process for the bidding and award of trade contracts is carried out by Skanska in consultation with the Procurement Division and the Office of the Capital Master Plan. Skanska is responsible for: 
+	(a)	Advertising procurement opportunities and obtaining expressions of interest from potential trade contractors through Skanska’s project website;
+	(b)	Prequalifying trade contractors;
+	(c)	Establishing bid lists of between 5 and 10 trade contractors;
+	(d)	Receiving bids in sealed envelopes to be opened in the presence of representatives of G&T and the Procurement Division;
+	(e)	Conducting bid analysis and levelling, including scope verification, on the basis of individual meetings with trade contractors attended by representatives of G&T and the Procurement Division;
+	(f)	Negotiating with low bidders and recommending the award of the contract to the most suitable bidder. The Office of the Capital Master Plan approves the award by Skanska of a contract to the successful bidder after reviews by G&T, the integrity monitor and the Procurement Division. 
+
+	1.	Integrity monitoring
+
+32.	In April 2009, the United Nations entered into a contract, not to exceed $1,192,000, with a consultant for the provision of integrity monitoring services. The purpose of integrity monitoring is:
+	(a)	To prevent fraud, waste, abuse and corruption;
+	(b)	To alert the management of the capital master plan to potentially risky or weak areas by means of periodic reports and interim updates;
+	(c)	To report transgressions, if found;
+	(d)	To design and implement corruption prevention programmes;
+	(e)	To provide investigative services, as necessary.
+33.	OIOS reviewed 111 of the 170 reports on trade contractors issued by the integrity monitor. The integrity monitor identified information on three companies that might warrant their being excluded from consideration for the award of contracts. Two of those companies were not on the list of trade contractors for the capital master plan project. The third company had been contracted by Skanska; however, the contract had been signed and completed satisfactorily prior to the review by the integrity monitor. 
+34.	OIOS considers the integrity monitor an important control for the project. It is a good practice to mitigate risk to the reputation of the United Nations by ensuring that trade contractors hired for the capital master plan have a good track record.
+
+	2.	Examination by OIOS of the procurement of trade contracts
+
+	(a)	Curtain wall
+
+35.	The invitation for expressions of interest relating to the curtain wall entrances and louvres was posted on Skanska’s website for only three weeks, instead of the recommended four weeks. Skanska explained that that had been essential to maintain the schedule. The contract for entrances and louvres, with a value of $75.5 million, comprises 85 per cent of the trade costs for the curtain wall. Skanska stated that the curtain wall had been the first big procurement exercise, which had started at the end of 2007. It had taken time for the Office of the Capital Master Plan and the Procurement Division to review the screening criteria for trade contractors and the text of the invitation to submit an expression of interest. OIOS confirmed that Skanska had posted an invitation to submit an expression of interest immediately after it had received authorization from the Office of the Capital Master Plan. Furthermore, Skanska had contacted big manufacturers of curtain wall panels directly to ascertain their interest in bidding. 
+36.	OIOS concluded that the shortened period for inviting expressions of interest had not limited the number of potential bidders.
+37.	OIOS examined the list of bidders for curtain wall entrances and louvres, abatement and demolition, and temporary protection which had been compiled by Skanska and reviewed by G&T, the architects and engineers, the Procurement Division and the Director of Construction before being approved by the Executive Director. The Office of the Capital Master Plan and G&T only rarely added or removed a trade contractor from the list of bidders, if the capacity or integrity of the trade contractor was questionable. The Office of the Capital Master Plan considered that Skanska was hired to manage trade contracts and that by dictating which trade contractors to include on the list of bidders, the Organization would be exposed to risk in the event of non-performance. OIOS concurred with that position. 
+38.	OIOS reviewed bid opening sheets, bid levelling summaries, and best and final offers for four trade packages with a value of $85.7 million that comprised 97 per cent of the trade contracts that had been signed at the time of the audit. Bids for one package were opened before the list of bidders had been approved by the Office of the Capital Master Plan. The request for approval was sent to the Office of the Capital Master Plan on 9 June 2010, but the approval was not given until 15 July 2010. The bid opening took place on 25 June 2010 in order to maintain the schedule. The second bid opening and bid levelling (scope verification) with trade contractors also took place prior to the approval of bidders by the Office of the Capital Master Plan. Timely approval of lists of bidders by the Office of the Capital Master Plan is important because this is one of the controls designed to exclude unsuitable trade contractors and to prevent bias towards any particular contractor. 
+39.	Skanska had not prepared formal minutes of the levelling meetings for entrance and louvres packages, which was contrary to the procurement procedures set out in the project manual. OIOS had made a previous recommendation in that regard in its audit report on Skanska’s procurement process (AC2009/514/02 of 27 August 2009).
+40.	Skanska had not been required to keep copies of the transmission of invitations to bid. Although Skanska maintained that all bidders on the approved list had been invited to bid, OIOS could not assess when the trade contractors had been contacted or whether they all had had the same amount of time to prepare their bids. 
+
+	(b)	Secretariat Building
+
+41.	OIOS examined six trade packages with at total value of $80 million, which represented 78 per cent of the contracts that had been awarded at the time of the audit. 
+42.	The invitation to bid for the abatement package was issued by Skanska before the list of bidders was approved by the Office of the Capital Master Plan. It took 27 days to review and approve the list. Skanska did not wait for approval, in order to maintain the schedule, and would have had to adjust its strategy if some of the trade contractors had not been approved. OIOS observed that the invitation to bid had been sent to 13 trade contractors, four of which were not on the list of bidders. Skanska explained that it had added three contractors to the list from the demolition package that contained 10 contractors already approved by the Office of the Capital Master Plan under a separate request. However, it did not document why those contractors were selected. Skanska stated that the fourth contractor had been added subsequently, on the basis of new information.
+43.	The bid-opening sheet for one package erroneously listed a contractor that did not submit a bid and was not on the approved list of bidders. Six out of 11 contractors who were invited to bid did not submit a bid and did not acknowledge receiving an invitation to bid. Skanska also could not provide any evidence that the invitation to bid was sent to all the contractors on the list of bidders. Keeping track of the transmission of invitations to bid with a summary indicating the name of the vendor and the date and means of transmission would assist Skanska to follow up on non-responsive contractors, as well as adding transparency to the bidding process. 
+44.	The OIOS review of one package indicated that a best and final offer was not solicited from a lower bidder. Skanska stated that the lower bidder was disqualified by Skanska’s corporate office. However, supporting evidence was not available. In another case, Skanska could not provide evidence of the Procurement Division’s approval to solicit the best and final offer.
+45.	Records of another procurement action indicated that the lowest bidder was excluded from the next round of bidding because it was a part of the group that was disqualified by Skanska’s corporate office. However, that decision was not documented in the memorandum requesting approval. Moreover, because of that disqualification, another trade contractor was invited to the third round of the best and final offer negotiations. However, Skanska could not explain why that particular bidder was invited when other lower bidders in the initial bidding were not invited. Although there is no evidence of favouritism, since the bidder that was invited to the third round of bidding was not awarded the contract, OIOS was concerned that best and final offer negotiations were not extended to bidders that had offered competitive prices in the initial bidding.
+46.	One bidder with a competitive quote was excluded from the next round of bidding because the initial strategy was to award contracts for both demolition and abatement to one contractor. Later, however, the biddings for demolition and abatement were continued separately and the contracts were also awarded separately. The exclusion of a lower bidder may have resulted in failure to obtain the best value.
+47.	In conclusion, the OIOS review and testing of the procurement of trade contracts for the curtain wall and the Secretariat Building determined that bids had been subject to competition among contractors that had been pre-qualified by Skanska. Controls were exercised over Skanska by G&T, the architects and engineers, the Procurement Division and the Director of Construction, but areas were identified where the application of controls could be improved. The capital master plan is very much driven by the schedule, as delays present a threat to the budget, and some of the observations made in the present section of the report reflect a desire on the part of both Skanska and the Office of the Capital Master Plan to work expeditiously. OIOS holds the view that it is practical to apply established controls to improve transparency without adversely affecting timeliness. There was a need to improve record keeping in areas associated with Skanska’s procurement activities. The Office of Central Support Services stated that in response to the previous OIOS audit of the procurement process of the capital master plan construction manager (AC2009/514/02), the Procurement Division had addressed a letter to Skanska dated 24 November 2009 regarding levelling procedures for the appointment of trade contractors. The Procurement Division will remind Skanska to follow those procedures.
+
+
+	D.	Efforts to promote procurement from countries with developing economies and economies in transition
+
+
+48.	In its resolution 63/270, the General Assembly requested the Secretary-General to entrust OIOS to report on factors that might restrict the diversification of the geographical origin of vendors, including the current subcontracting process, local regulations, labour laws and sustainability options, as well as on vendors’ compliance with existing rules and regulations of the United Nations and general conditions of contract.
+
+	1.	Host country regulations
+
+49.	Article III, section 7, of the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations states, inter alia: “Except as otherwise provided in this agreement or in the General Convention, the federal, state and local law of the United States shall apply within the headquarters district”. Thus, the Office of the Capital Master Plan applies all host country regulations regarding asbestos abatement and voluntarily applies the New York City Building Code. This requires the use of licensed contractors for asbestos removal and for electrical, mechanical and plumbing work, to ensure the safety of staff, delegates and visitors, as well as emergency response officers such as police and firefighters. Although the legal framework does not expressly forbid the United Nations from bringing overseas contractors to work on the project, there are practical difficulties that make that unlikely. They are amplified below.
+
+	2.	Initiatives by Skanska and United Nations departments
+
+50.	Skanska, like all major construction management companies in New York, is a union-affiliated company and has to employ unionized labour on its projects. Skanska has negotiated a project labour agreement with the unions that prohibits their members from striking or organizing picket lines in front of the United Nations in the event that the United Nations directly employs non-unionized labour. According to Skanska, it would vacate the area if the United Nations elects to use directly contracted non-unionized workers, including workers from overseas.
+51.	OIOS noted the following efforts to communicate procurement opportunities regarding the capital master plan:
+	(a)	The Office of the Capital Master Plan, in cooperation with the Procurement Division, has informed Member States through notes verbale of the forthcoming procurement exercises for large purchases;
+	(b)	The Office of the Capital Master Plan, the Procurement Division and Skanska have given presentations to permanent missions and consulates of countries that requested information on capital master plan procurement opportunities;
+	(c)	Skanska has made the procurement of trade contracts transparent by posting all expressions of interest on its project website, which is linked to the websites of the Procurement Division and the Office of the Capital Master Plan;
+	(d)	The Procurement Division undertakes outreach efforts in the form of business seminars to facilitate the registration of vendors from developing countries and countries with economies in transition. Since 2008, the Procurement Division has conducted around 36 such seminars, at which business opportunities and requirements specific to the capital master plan were highlighted;
+	(e)	Skanska’s website, in soliciting expressions of interest for the supply of bulk purchases, contains the statement that “International vendors, especially from developing countries and countries with economies in transition, are strongly encouraged to participate”.
+52.	Under the Coordination Agreement with the United Nations, Skanska is required to create opportunities for procurement from countries with developing economies and countries with economies in transition. Skanska also requires the trade contractors to report bimonthly the country of origin of each product installed as part of the works. Skanska has reported that, as of December 2010, the total dollar value of purchases from Brazil, China, India, Mexico, Malaysia, the Philippines, Thailand and Viet Nam as countries of origin was $10.8 million, representing 4.5 per cent of total purchases.
+53.	OIOS concluded that the Office of the Capital Master Plan, the Procurement Division and Skanska were making concerted efforts to bring in international vendors for bulk purchases.
+
+	3.	Environmentally friendly and sustainable procurement
+
+54.	In its resolution 63/270, the General Assembly stressed that until a decision was taken by the Assembly on the issue of environmentally friendly and sustainable procurement, the Secretary-General should not use any criteria that unduly restricted the ability of vendors to participate in procurement processes owing to environmental friendliness or sustainability requirements.
+55.	From its review of invitations to submit expressions of interest the Office of Internal Oversight Services concluded that there had been no restrictions in that regard.
+
+
+	E.	Change orders and contract amendments
+
+
+	1.	Delegation of authority to the Executive Director, Office of the Capital 
+Master Plan
+
+56.	As of January 2009, the Assistant Secretary-General, Office of Central Support Services granted a delegation of authority to the Executive Director to approve change orders, subject to limits. A key control specified by the Assistant Secretary-General was that all change orders over $200,000 approved by the Executive Director should also be reviewed by an ex post facto committee, the Post-Award Review Committee, established for that purpose.
+
+	2.	Post-Award Review Committee
+
+57.	On 30 October 2009, the Assistant Secretary-General, Office of Central Support Services established the Post-Award Review Committee. The Committee was expected to commence operations in November 2009 and convene meetings each month to review change orders and contract amendments executed in the preceding month. However, the Committee did not convene with its current composition until April 2010, as the previously appointed chairperson had resigned.
+58.	The terms of reference for the Post-Award Review Committee were prepared and submitted to the Assistant Secretary-General, Office of Central Support Services for approval in May 2010. According to those terms of reference, the Committee conducts a technical review of change orders and a compliance review of contract amendments to establish whether procurement actions were in accordance with procurement policies.
+59.	The terms of reference for the Post-Award Review Committee established that all change orders and contract amendments greater than $500,000 would be reviewed. However, the delegation of authority for change orders from the Assistant Secretary-General, Office of Central Support Services to the Executive Director, Office of the Capital Master Plan required the review of all change orders and contract amendments exceeding $200,000. This inconsistency needs to be addressed. The Office of Central Support Services stated that the delegation of authority to the Executive Director would be revised to request that all change orders authorized by the Executive Director exceeding $500,000 should be reviewed by the Post-Award Review Committee.
+60.	Since April 2010, the Post-Award Review Committee held meetings with the Office of the Capital Master Plan and the Procurement Division to gain an understanding of operations and procedures. The Committee held two meetings in 2010 and a further two up to May 2011.
+61.	As of December 2010, there were 199 contract amendments, with a value of over $115 million, issued to Skanska that fell within the purview of the Post-Award Review Committee. Only 12 contract amendments, valued at $25.4 million, had been reviewed by the Committee. There were also 29 contract amendments over $500,000, with a total value of $48 million, issued to designers and engineers and other consultants. OIOS considers the ex post facto review of change orders and contract amendments to be an important control that has yet not been effective. The backlog of cases and their high value, as well as the limited staff resources of the Committee, may prevent it from clearing the backlog and keeping up with new cases. The Office of Central Support Services stated that the Post-Award Review Committee planned to increase the frequency of meetings to review change orders and contract amendments. The Office of Central Support Services would request the Office of the Capital Master Plan to provide funding to improve the Procurement Division’s ability to support the Committee.
+
+	3.	The need for effective change management and the procedures for reviewing change orders and contract amendments
+
+62.	Change orders are an integral part of any construction project and represent changes to scope and contract price. Skanska has entered into over 300 separate contracts with trade contractors who undertake the construction work. Most of those contracts will be subject to change orders as a result of: (a) scope changes; 
+(b) architects’ and engineers’ requirements; (c) field and unforeseen conditions; and (d) requests by Skanska. Change orders present risks for the United Nations if the associated controls are not adequate. Each change order requires the written approval of the United Nations and is funded from the controlled contingency reviewed by the Headquarters Committee on Contracts and approved by the Assistant Secretary-General, Office of Central Support Services.
+63.	Change orders are confined to scope changes of the contract. Any changes in the general terms of the contract, such as a change in payment terms, insurance requirements, responsibilities or liabilities, require review and action by the Procurement Division through a contract amendment, using the established procedures. Contract amendments with a value of up to $5 million must be reviewed and authorized by the Director of the Procurement Division. If a contract amendment has a value exceeding $5 million, it is referred to the Headquarters Committee on Contracts.
+64.	Once the need for change is identified, Skanska issues a written “change order request” when the cost of the change order can be determined, or a “change order value — value to be determined” when the work is urgent in nature and the cost cannot be determined at the early stage. After review of the change order value, the Executive Director signs it, authorizing Skanska to proceed with the work. However, at this point the review continues in order to confirm that the work identified in the change order value represents a real change and has not already been included in the original scope of the capital master plan contract.
+65.	After Skanska has documentary support for the cost estimate, it submits the change order request to the Office of the Capital Master Plan. The change order request is subject to detailed checks and cost calculations by G&T, the project manager (the Office of the Capital Master Plan or G&T) and the architects and engineers. The Director of Construction also reviews the change order request before it is approved. Table 2 shows the percentage of change orders to the value of guaranteed maximum price contracts.
+
+		Table 2
+Percentage value of change orders compared to the value of guaranteed maximum price contracts
+
+DescriptionContract amount 
+(US dollars)Change orders and contract amendments (US dollars)Percentage value 
+of change orders compared to the 
+value of guaranteed maximum priceBasement Package 2176 444 59939 445 08122North Lawn Conference Building133 550 43646 225 44035305 E 46 Street22 220 1513 253 36115Contract B-3B Swing space Package 112 645 161578 8465United Nations Federal Credit Union8 588 900816 040 10Curtain wall128 337 7471 864 4581380 Madison Avenue34 033 00215 691 76346Furniture for swing spaces13 744 7545 316 13939Hoist20 934 300769 3444Secretariat Building206 966 1171 871 0020.9	Total757 465 167115 831 47615
+
+66.	The Office of the Capital Master Plan explained that the high percentage value of change orders for Basement Package 2 was due to scope reallocation from Basement Package 3 for scheduling reasons. Thus, change orders totalling $17,072,683 from Basement Package 3 were reallocated to Basement Package 2. Change orders pertaining to Basement Package 3 in the amount of $23,821,830 were reviewed and recommended for approval by the Headquarters Committee on Contracts.
+67.	Additional furniture for swing spaces was needed because departments were moving more people than initially planned and users required more storage and seating. Past change orders related to furniture support the need to finalize a restacking plan at the earliest possible stage before the Secretariat Building is reoccupied. Further consideration of this is included in the 2011 internal audit workplan.
+68.	OIOS analysed the reasons for the high percentage of change orders for the North Lawn Conference Building, 380 Madison Avenue and 305 East 46th Street in its audit report on capital master plan change orders and associated processes (AC2009/514/03 of 8 April 2010).
+
+	4.	OIOS examination of change orders
+
+69.	OIOS reviewed all change orders over $500,000 that had not been previously covered by the OIOS audit report (AC2009/514/03). In addition, OIOS tested a sample of change orders over $200,000. The results of the OIOS review are as follows.
+70.	It took the Office of the Capital Master Plan between 29 and 174 days to approve change orders. The average time taken was 70 days. This was because the change order was checked by multiple parties, including architects and engineers, estimators, cost managers and project managers. Long approval times may negatively affect trade contractors’ cash flow, as the change order cannot be paid before it is approved. OIOS, in its report on capital master plan change orders and associated processes (AC2009/514/03 of 8 April 2010) recommended that the Office of the Capital Master Plan set realistic targets for the review and approval of change orders and make every effort to reduce approval times. OIOS reiterates that recommendation.
+71.	Over 70 per cent of change orders were due to owner-requested scope changes. The reasons for owner-requested change orders were not sufficiently explained. The change order request often cites design changes and detailed technical explanations but the originator of the change and the circumstances that led to it are not always made clear. OIOS requested the Office of the Capital Master Plan to provide the list of change orders initiated by user departments, with the costs of changes in design and construction, but it was not forthcoming. Although the change order review process has internal controls for the approval of individual change orders, the fundamental question of why change occurs and who is accountable could not be answered.
+72.	Sample change orders examined by OIOS had been reviewed by architects and engineers, G&T and project managers before they were recommended for approval by the Director of Construction and subsequently approved by the Executive Director, in accordance with established procedures.
+73.	OIOS observed that change orders were often contracted to the same trade contractors who were already employed on the guaranteed maximum price contract in question, for logistical reasons or because the unit price was stipulated in Exhibit C of the trade contract. The competitiveness of Exhibit C of the trade contract was not formally evaluated at the time of initial bidding as the trade contract was evaluated on a lump-sum basis. Therefore, there was limited assurance that unit prices stipulated under the trade contract were competitive. Skanska explained that it negotiated the rates to ensure competitiveness and that G&T reviewed them as well. However, that was not formally documented in the levelling summaries or in Skanska’s recommendation for the award of the trade contract. The Office of the Capital Master Plan commented that it had instigated a discipline of reviewing all unit rates and hourly rates at the time of award to ensure they were competitive. The rates were checked against competitive bids in the particular trade package and other similar trade packages on other projects of the capital master plan. OIOS is of the opinion that Exhibit C rates should be formally evaluated and documented to provide assurance that they were competitive at the time of bidding.
+74.	In cases where no unit, or time and material prices were stipulated in the trade contract, G&T used comparable market rates from other projects to ensure that the prices quoted by a trade contractor were reasonable. Although OIOS obtained evidence that G&T conducted a review of the change order costs, the Office could not always establish the source of the information used in the review. However, the review of sampled change orders showed that the value of change orders submitted by Skanska and examined by OIOS was reduced by $1,066,875 after the review by G&T and the Office of the Capital Master Plan. Also, in cases when the quote for change orders from the trade contractor was deemed too high, they were opened to competitive bidding. The Office of the Capital Master Plan stated that when there were no applicable rates in the existing contract, G&T reviewed other similar contracts within the capital master plan project or relied on G&T estimators for applicable unit rates from other projects in New York City.
+75.	During the review of change orders conducted on a time and materials basis, OIOS obtained breakdowns for labour rates which showed that, apart from wages, the United Nations pays benefits and insurance on the labour portion of change orders. OIOS was informed that federal and state unemployment insurance of 7.65 and 9.50 per cent is applied on the first $7,000 and $8,000 earned by trade contractors. This means that this cap can be fully utilized in a couple of months and insurance should be excluded from the calculation for the remaining part of the year. G&T estimated the potential financial savings at $3.8 million for the entire project. Skanska proposed to invite bids for labour rates competitively from trade contractors to ensure that the cap on federal unemployment insurance and state unemployment insurance is not exceeded. OIOS concurs with this proposal as long as Skanska can demonstrate that the competitive bid takes into account the reduction in federal and in state unemployment insurance.
+76.	The change orders pertaining to swing space in Basement Package 2 were competitively bid. However, the “Special procedures for the procurement of goods and services required to complete the capital master plan” issued by the Procurement Division on 31 October 2008 were not fully observed during this process. The Procurement Division attended bid openings and bid levelling meetings, but did not have an opportunity to comment on the recommendation for the award of the change orders.
+77.	In the opinion of OIOS, the Procurement Division should review recommendations for the award of any new trade contract, whether processed through a change order or an allowance usage request, and the “Special procedures for the procurement of goods and services required to complete the capital master plan” should be followed in all cases when the contract is awarded to a new trade contractor. The Office of Central Support Services and the Office of the Capital Master Plan will ensure that the process is modified to ensure that all trade contract awards are submitted to the Procurement Division for review.
+
+
+	F.	Allowances and contingencies
+
+
+78.	OIOS reviewed $42.6 million of allowances out of $104 million of allowances approved. All allowances examined were correctly processed through the competitive bidding of trade contracts.
+79.	OIOS examined contingency usage of $1,099,712 out of $1,983,442 approved and determined that established procedures were complied with in all the cases reviewed.
+
+
+	G.	Contract risk management, monitoring and control
+
+
+	1.	Weekly meetings
+
+80.	Various meetings are conducted each week to enable the Office of the Capital Master Plan, Skanska and G&T to coordinate their work. These meetings are also attended by representatives of various stakeholders that are important to the success of the capital master plan, such as the Department of Safety and Security, the Office of Information and Communication Technology, the Office of Legal Affairs, the Procurement Division and the Facilities Management Service.
+81.	OIOS reviewed the weekly schedule of meetings and concluded that all the decision makers and stakeholders meet regularly to discuss and coordinate issues. OIOS reviewed the minutes of construction coordination meetings for the curtain wall and the Secretariat Building and noted that issues had been assigned for action and had been followed up at the next meeting.
+
+	2.	Risk management
+
+82.	G&T drafted an annual capital master plan risk assessment in October 2010, together with a risk register giving probabilities, values and impact assessments. The Chief, Administration and Communications of the Office of the Capital Master Plan facilitates regular reviews of the risks, and has assigned individual risks to risk owners. Risks are kept under review as the capital master plan progresses. Furthermore, a summary of risks and mitigation actions is provided by G&T as part of the monthly status reports.
+83.	OIOS conducted a fraud risk assessment of the procurement process and concluded that the existing controls were adequate to prevent fraud, except in the event of collusion among the parties. No such cases were detected.
+
+	3.	Outside agencies
+
+84.	According to the Office of the Capital Master Plan, it complies with the City of New York Building Code on a voluntary basis. All drawings are submitted to the New York City Department of Buildings for review. Officials from the Department of Buildings visit the site regularly. The Office of the Capital Master Plan also coordinates with the United States Environmental Protection Agency and with the New York City Fire Department, Police Department and Department of Transportation.
+
+	4.	Quality control by Skanska
+
+85.	Skanska employs quality control/assurance staff on site who perform reviews in accordance with Skanska’s Quality Manual. Skanska maintains a log as a way of monitoring issues raised by project managers and architects. OIOS reviewed this log for the Secretariat Building and the curtain wall. Tasks listed in the log were dated and reference made to the source that raised the quality issue and the responsibility assigned. Implementation updates were provided and the status (open or closed) noted. Tasks are taken off the list after the architects and engineers confirm that they have been addressed.
+
+	5.	Quality control by the consultant architects/engineers and the Office of the Capital Master Plan
+
+86.	Architects and engineers are contractually required to conduct weekly field observations to ensure that work on site is progressing in accordance with the construction documentation and specifications. OIOS examined reports of field observations conducted by two design firms for the curtain wall and the Secretariat Building. Instances of non-conformance with the design and specifications had been raised and photographed for action by Skanska. Issues identified by the architects and engineers were followed up through the quality assurance and control log maintained by Skanska. OIOS reviewed the log for the curtain wall and the Secretariat Building and confirmed that issues were logged in, actions described and assigned to responsible parties, and the status of implementation provided.
+87.	The United Nations signed an additional contract for a value of $275,195 with architects and engineers for special inspections of the curtain wall. Those inspections included factory visits and additional site visits to inspect curtain wall installation and for field testing.
+88.	In November 2008, the Office of the Capital Master Plan contracted with a commissioning agent to perform independent testing of heating, ventilation and air conditioning, building automation, plumbing and fire protection, electrical systems and vertical transportation on the United Nations campus. The contract was approved for an amount not to exceed $2,371,675 over the duration of the capital master plan. The project managers from the Office of the Capital Master Plan and G&T also visit the construction sites regularly to observe progress and assess the quality of work.
+89.	On the basis of the review of documents and discussions with members of the project team, OIOS assessed that the processes for achieving the required level of quality were effective.
+
+	6.	External and internal audit
+
+90.	In its resolution 57/292, the General Assembly stressed the importance of oversight with respect to the development and implementation of the capital master plan and requested the Board of Auditors and all other relevant oversight bodies to initiate immediate oversight activities and to report annually thereon to the General Assembly.
+91.	OIOS has employed two professionally qualified auditors full time on the capital master plan since January 2008. The Office has issued 14 reports, including reports on the capital master plan construction manager’s procurement process (AC2009/514/02), capital master plan management of trade contracts (AC2008/514/07) and capital master plan change orders and associated processes (AC2009/514/03). The implementation rate of recommendations has been high and OIOS follows up on the status of outstanding recommendations on a semi-annual basis.
+92.	The Board of Auditors issues annual reports on the capital master plan. The Board’s next audit report on the capital master plan and on the status of implementation of the Board’s recommendations is due in the summer of 2011.
+
+
+	III.	Recommendations
+
+
+93.	OIOS issued eight recommendations to the Office of the Capital Master Plan and the Office of Central Support Services in order to further strengthen procedures pertaining to the procurement and contract management of trade contracts. All the recommendations were accepted by the offices concerned. The recommendations and the status of their implementation at the time of preparation of the present report is shown in the annex.
+
+(Signed) Carman Lapointe
+Under-Secretary-General for Internal Oversight Services
+
+Annex
+
+		Recommendations made to mitigate risks identified in the audit 
+of capital master plan procurement and contract management, including change orders
+
+
+RecommendationRisk ratingImplementation statusThe Office of the Capital Master Plan should review and approve lists of bidders without delay to prevent situations where bidding has reached advanced stages before the lists are approved.ModerateImplementedThe Procurement Division should instruct Skanska: (i) to maintain proof of transmission of invitations to bid; (ii) to document and maintain levelling summaries; (iii) to document the reasons for dropping or adding a trade contractor in the next round of bidding; and (iv) to file written approvals by the Procurement Division for soliciting best and final offers from a list of trade contractors, in order to promote transparency in the bidding process.ModerateIn progressThe Procurement Division should improve oversight of the procurement process for trade contracts and ensure that: 
+(i) trade contractors confirm receipt of invitations to bid; 
+(ii) all qualified bidders are invited to the next rounds of bidding; and (iii) no qualified bidder is eliminated from the competition without a valid documented reason.HighIn progressThe Assistant Secretary-General, Office of Central Support Services should ensure consistency between the terms of reference of the Post-Award Review Committee, which establish that all change orders and contract amendments greater than $500,000 will be reviewed, and the delegation of authority to the Executive Director of the Office of the Capital Master Plan, which sets the financial threshold for review at $200,000.ModerateIn progressThe Assistant Secretary-General, Office of Central Support Services should review current arrangements pertaining to the Post-Award Review Committee and its workplan in the light of the large backlog of cases and the lack of adequate resources to support the Committee.ModerateIn progressThe Office of the Capital Master Plan should ensure that change orders are justified and their origins identified clearly before they are approved. The Office of the Capital Master Plan should also keep a summary of all change orders and the reasons for them, in order to provide management information and to enable appropriate action in cases where changes are caused by user departments, delays in designs, mistakes by architects and engineers, or field conditions.HighIn progressThe Office of the Capital Master Plan should instruct Skanska to provide an analysis of unit, and time and material rates (Exhibit C of the trade contract) at the time the recommendation for the award of trade contracts is made, in order to ensure the agreed rates for change orders are competitive.ModerateIn progressThe Procurement Division should review recommendations for the award of all new trade contracts in order to ensure best value for money in accordance with the “Special procedures for the procurement of goods and services required to complete the capital master plan”, irrespective of whether they are processed as an allowance or as a change order.ModerateIn progress
+
+[Start1]<<ODS JOB NO>>N1142946E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/66/179<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/66/179
+
+A/66/179
+
+11-4294618
+
+1911-42946
+
+United NationsA/66/179 
+General AssemblyDistr.: General
+25 July 2011
+
+Original: English
+
+11-42946 (E)    090811 
+*1142946*
+

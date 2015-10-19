@@ -1,0 +1,39 @@
+[Start1]
+Information circular*
+
+	To:	Members of the staff
+
+	From:	The Assistant Secretary-General for Central Support Services
+
+	Subject:	Termination of support for the Windows 98 operating system
+
+1.	The standard computer desktop operating system at Headquarters is currently Windows 2000, which is compatible with the current network infrastructure and with supported programmes and software. 
+2.	Until recently, the Information Technology Services Division was able to provide support for a mixed environment, including both Windows 2000 and Windows 98. However, recent significant changes in the industry have made that support very difficult to maintain. Many vendors no longer account for Windows 98 when developing new applications and/or upgrades to existing programmes. In addition, some software vendors have terminated support for Windows 98 altogether and their products are not compatible with computers running Windows 98. That incompatibility often causes such computers to crash when new software is installed and creates stability problems on the network that affect all users.
+3.	Therefore, effective 1 January 2005, the Division will terminate support for all computers running Windows 98. In addition, effective immediately, no new applications or features, with the exception of security patches, will be delivered to computers running Windows 98. In the meantime, in order to ensure a timely and efficient migration, the Division continues to work closely and actively with those few user offices where Windows 98 is still in use.
+4.	Users should address questions about departmental replacement schedules to their respective information technology coordinators. The list of coordinators may be viewed on the UNHQ Intranet by following the links “Information Technology Services”, “Policies, Standards and Security”, “IT Focal Points” and “IT Technical Focal Point/IT Coordinator List”. All other questions and comments may be directed to the Division’s help desk as follows:
+By Lotus Notes e-mail: Help Desk ITSD/NY/UNO
+By Internet e-mail: helpdeskitsd@un.org
+
+
+	*	Expiration date of the present information circular: 31 December 2005.
+By telephone: 1-212-963-3157
+[Start1]<<ODS JOB NO>>N0446802E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>ST/IC/2004/32<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+6
+
+6
+
+United NationsST/IC/2004/32 
+Secretariat
+23 August 2004
+ 
+
+
+04-46802 (E)    270804    
+*0446802*
+

@@ -1,0 +1,187 @@
+[Start1]
+		Committee for Programme and Coordination 
+Forty-ninth session
+Organizational session
+30 April 2009
+Substantive session
+8 June-2 July 2009 
+
+
+	*	E/AC.51/2009/1.
+Item 3 (b) of the provisional agenda*
+Programme questions: evaluation
+
+
+
+		Triennial review of the implementation of recommendations made by the Committee for Programme and Coordination at its forty-sixth session on the thematic evaluation of knowledge management networks in the pursuit of the goals of the Millennium Declaration
+
+
+		Report of the Office of Internal Oversight Services
+
+
+
+	Summary	The present report of the Office of Internal Oversight Services (OIOS) is submitted in accordance with the decision taken by the Committee for Programme and Coordination at its twenty-second session to review the implementation of its recommendations three years after taking decisions on evaluations submitted to the Committee. This triennial review determines whether or not recommendations from the thematic evaluation of knowledge management networks in the pursuit of the goals of the Millennium Declaration have been implemented. While the Committee directly endorsed three of the six evaluation recommendations, it referred to the other three in its endorsement. It additionally made two recommendations of its own.
+	OIOS concludes that one of the six original OIOS recommendations and both of the recommendations made by the Committee have been implemented. Neither a United Nations system-wide nor a Secretariat-wide knowledge management strategy has yet been developed. In December 2008, however, the General Assembly
+approved the information and communications technology strategy for the United Nations Secretariat and the establishment of the Office of Information and Communications Technology. The information and communications technology strategy comprehensively addresses knowledge management issues and the Office of Information and Communications Technology has within it a Knowledge Management Service that, in the opinion of OIOS, is sufficiently structured to act as the dedicated unit for knowledge management in the Secretariat. Furthermore, a new Working Group on Knowledge Management was established in June 2008 and that Group plans to develop a Secretariat knowledge management strategy by end of the second quarter of 2009. OIOS notes that this new Working Group has expanded its membership to include 13 Secretariat entities. A WikiSeek Task Force was also established, which has already undertaken a feasibility study of a pilot project called wikiSeek to assess ways in which wikis can be used to enhance availability of knowledge on operations and work processes. A wiki is a web page that allows anyone who accesses it to contribute to or edit its content.	OIOS did not note any initiatives to integrate knowledge management into the performance appraisal system of the Secretariat. It also did not note any deliberate and planned approach to training on knowledge management, although it does acknowledge various staff development initiatives in knowledge management concepts, mechanisms and tools. These include personal knowledge management training in the use of information products and tools given by the Dag Hammarskjöld Library in 2006 and 2007.	Stressing that knowledge management is more than just technology, OIOS further encourages the United Nations System Chief Executives Board for Coordination and the Office of Information and Communications Technology to continue their important work in creating a culture and work environment that genuinely promotes and facilitates knowledge management in the United Nations.
+
+	I.	Introduction
+
+
+1.	At its forty-sixth session, in 2006, the Committee for Programme and Coordination considered the report of the Office of Internal Oversight Services (OIOS) on the thematic evaluation of knowledge management networks in pursuit of the goals of the Millennium Declaration (E/AC.51/2006/2).1 That report contained six recommendations. While the Committee directly endorsed three of those six recommendations, it referred to the other three recommendations in its endorsement (see A/61/16 and Corr.1, para. 377). The Committee additionally made two recommendations of its own. 
+2.	The present report is a triennial review of those recommendations and examines if and how the recommendations have been implemented. OIOS will report on each recommendation individually within the framework of the endorsement made by the Committee for Programme and Coordination.
+3.	The present triennial review is based on the following four methods: (a) a review and analysis of biennial progress reports on the status of recommendations that are monitored through the OIOS issue track database; (b) an analysis of relevant information, documents and reports obtained from the United Nations entities that implemented the recommendations; (c) interviews with programme managers and staff involved in implementing the recommendations; and (d) interviews with other key sources to verify and validate the status of implementation. A draft of the report was made available to the respective offices and departments for review and the present report incorporates their comments.
+
+
+	II.	Findings
+
+
+4.	Overall, OIOS finds that one of the original six OIOS recommendations and both of the two recommendations of the Committee for Programme and Coordination have been implemented. Five of the OIOS recommendations are in progress.
+	Committee for Programme and Coordination recommendation 1
+
+Recommends that the General Assembly request the Secretary-General, as Chairman of the United Nations System Chief Executives Board for Coordination (CEB), to encourage the Board’s newly established Task Force on Knowledge Sharing to fully consider the recommendation contained in paragraph 72 of the report.
+
+		OIOS recommendation 1 (para. 72 of the OIOS report) 
+
+The CEB, when developing a United Nations system-wide knowledge management strategy, should specifically address the following issues (in addition to those already spelled out in the terms of reference for its Task Force on Knowledge Sharing):
+	(a)	A common understanding of what knowledge sharing entails and why it is important;
+	(b)	A clear taxonomy for different types of knowledge networks and the role played by each type of network, encouraging movement where possible to more strategic, focused and cross-cutting organizational networks;
+	(c)	A shift in focus from knowledge sharing as primarily broadcasting information to a combination of information, collaboration and peer interactions;
+	(d)	A strategy for integrating knowledge sharing more fully into work processes. To the extent possible, the strategy should use the results of the pilot knowledge-sharing project discussed in recommendation 4 below.
+5.	While an overarching system-wide strategy for knowledge sharing has not yet been developed, OIOS was informed by the CEB secretariat that the “central thrust” of the recommendation had been implemented in several ways.2 The secretariat primarily referred to the Board’s work in facilitating various communities of knowledge and practice, as well as its work in promoting common system-wide work tools for climate change and employment. One example given was to a website entitled “Gateway to the UN system’s work on climate change”, maintained by the Department of Public Information on behalf of the United Nations Communications Group Task Force on Climate Change.3 A further example was the Toolkit for Mainstreaming Employment and Decent Work, which was developed in 2006 to help organizations and other development partners to work more effectively together to promote more and better jobs. OIOS reviewed both of these initiatives and notes that they are good forums for sharing documented information and promoting common approaches, especially when utilized in tandem with the exchange of experience that takes place within the coordinating bodies and other bilateral discussions. By themselves, however, they do not facilitate sharing of undocumented ideas and expertise, which are important components of knowledge management.
+6.	In a 2007 report on knowledge management (JIU/REP/2007/6; see A/63/140), the Joint Inspection Unit similarly recommended that CEB should develop a common system-wide definition of knowledge management, and a minimum set of guidelines to be used in the development of knowledge management strategies by each United Nations entity. In their consolidated response to that report, organizations noted that CEB lacked the capacity and resources to effectively produce these outputs and should focus instead on its role in the coordination of the knowledge management activities carried out by individual entities (A/63/140/Add.1, para. 4).
+7.	The CEB Task Force on Knowledge Sharing held several preliminary meetings on this topic in 2005 and 2006 and also developed terms of reference. However, OIOS did not note any recent activity of the Task Force and therefore concludes that it is currently inactive. 
+8.	OIOS considers this recommendation to be in progress. OIOS notes the capacity constraints referred to in paragraph 6 above. However, OIOS believes that CEB plays an important system-wide coordination role for knowledge management. In order for OIOS to consider this recommendation to have been implemented, CEB must demonstrate that it is integrating the various knowledge management initiatives being undertaken in the United Nations and bringing greater coherence and complementarity to knowledge management in the Organization.
+
+		Committee for Programme and Coordination recommendation 2
+
+Recommends that the General Assembly request the Secretariat Task Force, under the leadership of the Dag Hammarskjöld Library, which has the appropriate expertise, to continue to develop a Secretariat knowledge-sharing agenda, taking into account the recommendations contained in paragraphs 73, 74, 76 and 77 of the report and the knowledge-sharing initiatives being pursued by other United Nations entities, including the CEB Task Force on Knowledge Sharing, the Working Group on Knowledge Management of the United Nations Development Group, the World Bank, the United Nations Development Programme and the United Nations Population Fund.
+
+		OIOS recommendation 2 (para. 73 of the OIOS report)
+
+The Secretariat Task Force on Knowledge Sharing should develop a Secretariat-wide knowledge strategy, in conjunction with the system-wide strategy being developed by the CEB and concurrently with the reform process and organizational change initiatives. The strategy should in particular promote the role of knowledge networks in strengthening knowledge sharing within the Secretariat and with external partners, developing a model and methodology for how those networks can best work. In doing that, the Task Force may want to look at the knowledge-sharing model being piloted by the United Nations Development Group Knowledge Management Working Group. OIOS notes that the reporting lines for the Task Force will be decided in the course of the ongoing reform resulting from the report of the Secretary-General on United Nations reform (A/60/692 and Corr.1). OIOS trusts that a decision on reporting lines will not be delayed.
+9.	Following the restructuring of the Dag Hammarskjöld Library and the establishment of the Office of Information and Communications Technology in 2008, there is no longer a Secretariat Task Force on Knowledge Sharing being led by the Library. In its place, a new body, the Working Group on Knowledge Management, has been established to champion the development and implementation of a knowledge management strategy for the Secretariat, in cooperation with the United Nations funds, programmes and specialized agencies. OIOS reviewed the terms of reference and notes that the Working Group is chaired by a representative of the Office of Information and Communications Technology, with membership from 13 different Secretariat entities.4 The Working Group, which first met in June 2008, is mandated to work in cooperation with the CEB Task Force on Knowledge Management, as well as other knowledge management entities, as endorsed by the General Assembly in its resolution 61/235, and is tasked with developing a knowledge management plan for the United Nations, and identifying the concrete steps and activities required to implement the plan. 
+10.	OIOS notes that, according to its workplan, the Working Group on Knowledge Management has established a monthly meeting schedule and aims to have developed a draft Secretariat knowledge management strategy by the second quarter of 2009. In its meeting in January 2009, as part of its preparations for developing the strategy, the Working Group was given a presentation on “Knowledge management strategy, Intranet and collaborative tools” by the Open Society Institute, a private foundation based in New York. The workplan also highlights the importance of designating information management specialists in Secretariat departments as focal points on knowledge management in order to address the key issue of managing the Organization’s knowledge. OIOS concurs with this approach.
+11.	Furthermore, a Secretariat Information and Communications Technology strategy was approved by the General Assembly in its resolution 63/262 in December 2008, simultaneously with approval of the establishment of the Office of Information and Communications Technology.5 OIOS reviewed the strategy and notes that it identifies knowledge management and collaboration as one of its key institutional drivers and defines knowledge management as encompassing three essential processes that are intricately linked: organizational learning, information management and information technology. The strategy will be carried out through a set of strategic programme areas, including the knowledge management programme, whose goal is to provide an effective and collaborative environment for United Nations personnel and stakeholders “to capture, share and own substantive knowledge relevant to their expertise” (A/62/793 and Corr.1, para. 54). The programme plans to provide the enabling policies, work processes, standards and technological tools for knowledge management activities so that processes, best practices and lessons learned can be more uniformly maintained and accessed. OIOS commends these initiatives as important steps to creating a knowledge culture in the Organization.
+12.	In addition to these more recent developments, over the past three years, under the leadership of the Department of Public Information, the Secretariat has embarked on a drive for improved knowledge sharing through the use of a common Intranet portal, iSeek. All Secretariat duty stations now use iSeek as their default Intranet, and it is globally accessible to travelling Secretariat staff members and to more than 100 new sites around the world. Presently, there are ongoing initiatives to extend access to relevant and appropriate iSeek content to United Nations funds and programmes and to Member States. A Member States portal, deleGATE, was established and has been available since September 2008.6 Dubbed “iSeek for Member States”, deleGATE is updated daily and includes links to essential information resources and delegate-specific tools. 
+13.	 OIOS considers implementation of this recommendation to be in progress. OIOS notes that the responsibility for full implementation of this recommendation now rests with the new Working Group Knowledge Management under the leadership of the Office of Information and Communications Technology. 
+
+		OIOS recommendation 3 (para. 74 of the OIOS report) 
+
+The Department of Economic and Social Affairs, as a major author of Secretariat reports in the economic and social areas and convenor of the Executive Committee on Economic and Social Affairs, should conduct a pilot project on further integrating knowledge sharing in the report production process, with a view to determining the utility, costs, limitations and results of more effective knowledge sharing. The Department should review the current production process for one or more specific reports and identify key points where broader knowledge sharing could occur. The pilot project should result in developing a methodology for further integrating knowledge sharing into daily work processes in order to improve the quality and production speed of reports. The Department should consult with the CEB and Secretariat Task Forces on Knowledge Sharing in implementing the project.
+14.	The Committee for Programme and Coordination did not directly endorse this recommendation, but instead requested that the Secretariat Task Force on Knowledge Sharing should consider such a pilot project in the development of a Secretariat knowledge-sharing agenda. OIOS therefore did not follow up with the Department of Economic and Social Affairs on this specific recommendation.
+15.	The Working Group on Knowledge Management has embarked on several initiatives to address the integration of knowledge management into daily work processes. A WikiSeek Task Force was established to assess and develop ways by which wikis could be used to enhance availability of information on operations and processes by allowing staff members to contribute in their areas of expertise.7 A wiki is a web page or collection of pages designed to enable anyone who accesses it to contribute to or modify its content. In this regard, a feasibility study has already been undertaken through a pilot project, called wikiSeek, to develop a central and live repository of institutional knowledge in the Protocol Office of the Secretariat and to record knowledge of how protocol activities and processes are carried out. OIOS notes that the Department of Economic and Social Affairs is a member of the Working Group on Knowledge Management and acknowledges its report on the World Economic Situation and Prospects as an important contribution to knowledge management in report production.8 
+16. 	OIOS considers implementation of this recommendation to be in progress. In order for OIOS to consider this recommendation to have been implemented, the new Working Group on Knowledge Management in its strategy and workplan, must consider appropriate pilot projects for integrating knowledge management in report production processes or some other key Secretariat activity.
+
+		OIOS recommendation 5 (para. 76 of the OIOS report)
+
+The Office of Human Resources Management should make knowledge sharing a more explicit and stronger component of the performance appraisal system. It should identify the most relevant knowledge management competencies discussed in the “United Nations profile of an effective manager” and incorporate them into performance appraisal systems for all staff. Knowledge sharing could be addressed more directly in human resource action plans, as well as in individual staff workplans and performance assessments. 
+17.	The Committee for Programme and Coordination did not directly endorse this recommendation, but instead requested that the Secretariat Task Force on Knowledge Sharing consider the incorporation of knowledge management into the performance appraisal system in the development of a Secretariat knowledgesharing agenda. OIOS therefore did not follow up with the Office of Human Resources Management on this specific recommendation.
+18.	OIOS did not identify any activities pursuant to making knowledge management a component of the performance appraisal system in the United Nations Secretariat, or any such reference in the terms of reference or the workplan of the Working Group on Knowledge Management. In addition, the Staff Management Coordinating Committee Working Group on Performance Management also does not have this item on its agenda, and while the Talent Management Working Group has a role for knowledge management in its framework, it does not currently have a specific focus on performance management. OIOS agrees with the observation of the Executive Office of the Secretary-General, that a full definition of knowledge management is still to be accepted, and that knowledge management competency requirements for managers should be incorporated into an inventory of skills to be developed for all positions under the talent management project.
+19.	OIOS further notes that the Joint Inspection Unit, in its 2007 report on knowledge management, similarly recommended that the CEB should establish knowledge management competencies as one of the criteria to be assessed in the staff performance appraisal system. In its management response, CEB welcomed the recommendation as a critical component for the success of any knowledge management strategy and stressed that this might require incentives and opportunities for capacity-building of the required competencies along with an environment that is conducive to knowledge management (A/63/140/Add.1, para. 9). CEB called for a more broad-based approach that would more fully address the obstacles that were identified in the OIOS report, such as cultural limitations, and the lack of leadership support and incentives that encourage knowledge management (Ibid.). 
+20.	OIOS considers that no action has been taken on this recommendation. OIOS recommends that the Working Group on Knowledge Management should include this issue in its workplan. In order for OIOS to consider this recommendation to have been implemented, the Working Group should define the methodology for incorporating knowledge management into the performance appraisal system as part of the Secretariat knowledge-management strategy.
+		OIOS recommendation 6 (para. 77 of the OIOS report) 
+
+The Office of Human Resources Management should address knowledge management more directly and explicitly as a topic in its staff development programme. That should include training in knowledge management concepts, mechanisms, tools and practices. A knowledge-sharing component should be specifically introduced into existing courses for leadership, management and organizational development, as well as into teamwork training programmes.
+21.	The Committee for Programme and Coordination did not directly endorse this recommendation, but instead requested that the Secretariat Task Force on Knowledge Sharing should consider incorporating knowledge management into the staff development programme when establishing a Secretariat knowledge management agenda. OIOS therefore did not follow up with the Office of Human Resources Management on this specific recommendation.
+22.	OIOS notes that there have been various staff development and training activities undertaken in the framework of the United Nations training and learning policy. The former Knowledge Sharing Section of the Dag Hammarskjöld Library and the Library’s Knowledge Sharing Centre developed and continue to conduct a training programme for Secretariat staff on information handling techniques, called personal knowledge management. Personal knowledge management is defined as “managing and supporting personal knowledge and information so that it is accessible, meaningful and valuable to the individual”.9 Over 160 Secretariat staff took the training in 2006 and 200 took it in 2007.
+23.	One of the products offered under personal knowledge management training was the “knowledge pointer” series. Knowledge pointers are essentially designed as checklists for several information-related topics in addition to the one-on-one coaching sessions of the personal knowledge management package. Knowledge pointers help staff members to cope with the daily flood of information and to find relevant information more efficiently, and also provide guidelines on how to organize the information and share it with colleagues more effectively. Versions of the personal knowledge management programmes have been launched in Geneva and Santiago, and the knowledge pointers are being translated into Spanish. OIOS commends the Dag Hammarskjöld Library for this initiative, which is a positive step for staff development in knowledge management tools and techniques.
+24.	The United Nations System Staff College conducted a pilot leadership training course for senior staff members in November 2007. The course was attended by 47 participants, representing a cross section of the United Nations. A steering group was formed to review the assessments of the programme carried out by the Staff College, which recommended that it redesign the course to focus more on change management in the United Nations and specifically include elements of “learning and knowledge sharing”. OIOS encourages such courses for senior staff as they are important for creating senior leadership awareness of and support for a knowledge management culture in the United Nations. 
+25.	OIOS also notes that in July 2008 the Office of Information and Communications Technology, in conjunction with the Department of Public Information, held a forum on “Learning to manage with knowledge”. Participants included senior management and staff who are responsible for knowledge management initiatives in the United Nations system and renowned knowledge management experts.10 The main objectives were to share practical lessons from within the United Nations system on existing knowledge management initiatives; to understand how knowledge management could help the United Nations and its specialized agencies to meet their mandates; and to identify concrete steps to implement successful knowledge management initiatives within the United Nations. Participants worked in small groups to define priority knowledge management initiatives for the United Nations and to provide input into an information and communications strategy to be submitted to senior management for endorsement.
+26.	OIOS reviewed the Office of Human Resources Management Staff Development Programme Handbook for 2008 and noted that, despite the positive initiatives noted in paras. 22 to 25 above, it did not include any specific courses or topics on knowledge management. OIOS also did not find any reference to knowledge management training in the terms of reference or workplan for the Working Group on Knowledge Management. OIOS understands, however, that the Office of Human Resources Management has plans to include a stronger component on collaboration, knowledge sharing and knowledge management tools in its leadership, management and organizational development activities. OIOS agrees that a more systematic, deliberate and planned approach to training on knowledge management would have greater impact than the ad hoc initiatives previously discussed.
+27.	OIOS considers implementation of this recommendation to be in progress. In order for OIOS to consider this recommendation to have been implemented, the Working Group on Knowledge Management must consider a more systematic approach to knowledge management training in the development of a Secretariat knowledge-management strategy.
+
+			Committee for Programme and Coordination recommendation 3
+
+	Recommends that the General Assembly request the Secretary-General to consider designating the Knowledge Sharing Section of the Dag Hammarskjöld Library as the lead Secretariat unit with responsibility for developing, encouraging, facilitating and guiding knowledge sharing in the Secretariat, taking into account the recommendation contained in paragraph 75 of the report.
+
+			OIOS recommendation 4 (para. 75 of the OIOS report) 
+
+	The Secretary-General should designate a dedicated unit for knowledge sharing in the Secretariat. The overall role of the section should be to encourage, facilitate and guide knowledge sharing in the Secretariat and to ensure consistency, coordination and harmonization among Secretariat tools, activities and mechanisms. The section should be provided with necessary resources for adequately fulfilling its new responsibilities. In collaboration with the Secretariat Task Force on Knowledge Sharing, as well as the Office of Human Resources Management and the Information Technology Services Division, the Section should be tasked with:
+		(a)	Developing a common knowledge-sharing toolkit;
+		(b)	Providing guidance and support to knowledge networks;
+		(c)	Developing guidelines on knowledge sharing;
+		(d)	Developing a strategy for systematically gathering and utilizing the knowledge of staff leaving the United Nations, using protocols that are more systematic and effective than current methods;
+		(e)	Developing common tools and protocols for capturing and disseminating good practices and lessons learned;
+		(f)	Creating and maintaining a Secretariat knowledge-sharing website with guidance, tools, good practices and tips.
+	OIOS notes that the location of the unit would be decided in the course of the ongoing reform resulting from the report of the Secretary-General on United Nations reform (A/60/692 and Corr.1). OIOS trusts that a decision on its location will not be delayed.
+28.	As discussed in paragraph 9, and as outlined in the Secretary-General’s report on investing in information and communications technology (A/62/793 and Corr.1), the Secretariat knowledge management function is now placed in the Office of Information and Communications Technology. The General Assembly approved the information and communications technology strategy and governance structure of the Office in its resolution 63/263. OIOS notes that the new structure includes a Knowledge Management Service (see A/62/793/Add.1) comprised of three sections as illustrated below.11
+
+Proposed structure of the Knowledge Management Service 
+
+
+
+
+
+
+
+
+
+
+
+29.	OIOS was informed by staff of the Office of Information and Communications Technology that the specific functions of the Knowledge Management Service were to gather, store, share and disseminate knowledge. The Service will also be responsible for rethinking and streamlining information handling processes, improving information management policies, encouraging collaboration by using standard tools, and managing electronic repositories. As noted in paragraph 9 above, the Dag Hammarskjöld Library was restructured in 2008 and it no longer has a Knowledge Sharing Section. OIOS believes that the Knowledge Management Service in the Office of Information and Communications Technology represents a sufficient formal organizational structure and dedicated unit for knowledge management in the Secretariat. The Chief of this Service serves as the chairman of the Working Group on Knowledge Management.
+30.	OIOS considers this recommendation to have been implemented. OIOS notes, however, that the Secretary-General still needs formally to designate the Knowledge Management Service as the lead Secretariat office for knowledge management. It further cautions that placement of the Knowledge Management Service in the Office of Information and Communications Technology should not result in an overemphasis on technology at the expense of other equally important components of knowledge management, such as the sharing and use of ideas, expertise and experience.
+
+			Committee for Programme and Coordination recommendation 4
+
+	Recommends that the General Assembly request the Secretary-General to expand the membership of the Secretariat Task Force and to include additional substantive offices.
+31.	As noted in paragraph 9, the Secretariat Task Force on Knowledge Sharing led by the Dag Hammarskjöld Library no longer exists. The Working Group on Knowledge Management led by the Office of Information and Communications Technology that has replaced it has an expanded membership and includes more substantive offices.
+32.	OIOS considers this recommendation to have been implemented.
+
+			Committee for Programme and Coordination recommendation 5
+
+	Recommends that the General Assembly request the Secretary-General to report to the General Assembly at its sixty-second session, through the Committee on Information, on the further development of the knowledge-sharing initiatives of the Secretariat.
+33.	At the sixty-second session of the General Assembly, the Secretary-General presented his report on investing in information and communications technologies (A/62/793 and Corr.1). OIOS reviewed the report and notes that it sufficiently references further developments on knowledge-sharing initiatives in the Secretariat.
+34.	OIOS considers this recommendation to have been implemented. 
+
+
+
+	III.	Conclusion
+
+
+35.	Over the past three years, increased attention has been given to knowledge management in the context of United Nations reforms and organizational change. The establishment and approval by the General Assembly of the Office of Information and Communications Technology, with its dedicated Knowledge Management Service, as well as the Secretariat information and communications technology strategy, which incorporates knowledge-management components, mark important milestones towards enhancing knowledge management in the Secretariat. 
+36.	However, OIOS stresses that knowledge management is not just about technology and, as such, it continues to emphasize the other necessary aspects of knowledge management as discussed in its 2006 evaluation, including senior leadership support, staff incentives and rewards, training, guidelines and tools. OIOS looks forward to the draft knowledge management strategy that will be produced by the end of the second quarter of 2009, and expects that this will be an important first step towards creating the mechanisms and tools that are needed for effective knowledge management. OIOS encourages CEB and the Office of Information and Communications Technology to continue their important work in building a culture and working environment that promotes and facilitates true knowledge management in the United Nations.
+
+
+(Signed) Inga-Britt Ahlenius
+Under-Secretary-General for Internal Oversight Services
+25 March 2009
+
+	1 	OIOS defines knowledge management as the systematic creation, organization, storage and sharing of knowledge in order to better achieve organizational goals (E/AC.51/2006/2, para. 2).
+	2 	Response from the Chief Executives Board secretariat to OIOS, dated 13 February 2009. 
+	3 	http://www.un.org/climatechange.
+	4 	The membership of the Working Group on Knowledge Management is Chief Information Technology Officer (Chair), Information Technology Services Division, Department for General Assembly and Conference Management, Department of Economic and Social Affairs, Department of Management, Department of Peacekeeping Operations, Department of Political Affairs, Department of Public Information, Office for the Coordination of Humanitarian Affairs, Office of Central Support Services, United Nations Conference on Trade and Development, United Nations Office at Geneva and United Nations Office at Vienna. 
+	5 	The Office of Information and Communications Technology headed by the Chief Information Technology Officer, receives guidance from the Executive Committee on Information and Communications Technology, chaired by the Deputy Secretary-General, with membership of senior managers at the under-secretary-general level.
+	6 	http://iseek.un.org/webpgdept1496_45.asp.
+	7 	Dag Hammarskjöld Library, power point presentation: “Capturing, managing and sharing the United Nations institutional memory”. The Task Force includes representatives from the Department of Management, the Department of Public Information and the Office of Information and Communications Technology.
+	8 	The World Economic Situation and Prospects is a joint report of the Department of Economic and Social Affairs, the United Nations Conference on Trade and Development and the five regional commissions, which provides an overview of recent global economic performance and short-term prospects for the world economy, and of some key global economic policy and development issues.
+	9 	Inside Knowledge, 5 April 2004, vol. 7, No. 7.
+	10 	Participants included staff from CEB, the Food and Agriculture Organization of the United Nations, the United Nations Development Programme, the World Tourism Organization, the United Nations Institute for Training and Research, the United Nations Children’s Fund, the United Nations Industrial Development Organization, the United Nations Office at Geneva, the United Nations Population Fund and the World Bank. Keynote speakers included Professors Larry Prusak and Tom Davenport from Babson College in Massachusetts and Sharon Dawes from the State University of New York.
+	11 	This structure has since been approved together with the transfer from the Department of Management of the Information Technology Services Division, as posted on iSeek on 7 January 2009.
+[Start1]<<ODS JOB NO>>N0928237E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/AC.51/2009/4<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+E/AC.51/2009/4
+
+E/AC.51/2009/4
+
+09-2823712
+
+1309-28237
+
+United NationsE/AC.51/2009/4 
+Economic and Social CouncilDistr.: General
+26 March 2009
+
+Original: English
+
+09-28237 (E)    200409    
+*0928237*
+

@@ -1,0 +1,94 @@
+[Start1]
+Substantive session of 2010
+New York, 28 June-23 July 2010
+
+
+	*	See E/2010/100.
+Item 7 (c) of the provisional agenda*
+	Coordination, programme and other questions:
+international cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General
+
+
+
+	Summary	The present report was prepared pursuant to Economic and Social Council resolution 2007/14, in which the President of the Council was requested to convene the Ad Hoc Open-ended Working Group on Informatics for one more year to enable it to continue its efforts to act as a bridge with regard to information technology between the evolving needs of Member States and the actions of the Secretariat.	The report highlights the continuing cooperation of the Working Group and the Secretariat, which has resulted in practical enhancements in the area of technology that facilitate the work of Member States and Observers of the United Nations, as well as that of the non-governmental organizations accredited to the United Nations.
+
+	I.	Introduction
+
+
+1.	By its resolution 2007/14, the Economic and Social Council requested the President of the Council to convene the Ad Hoc Open-ended Working Group on Informatics for one more year to enable it to carry out, from within existing resources, the due fulfilment of the provisions of its resolutions on international cooperation in the field of informatics and to facilitate the successful implementation of the initiatives being taken by the Secretary-General with regard to the use of information technology.
+2.	In paragraph 2 of its resolution 2009/9, the Economic and Social Council requested the Working Group to continue its efforts to act as a bridge between the evolving needs of Member States and the actions of the Secretariat, to consider its future role, status and mandate and to develop findings in that regard. The Working Group has continued to collaborate closely with the Secretariat to direct its existing resources in practical ways that best meet the needs of Member States, observers and non-governmental organizations with regard to everyday use of information technology in accomplishing the work of the diplomatic community associated with the United Nations. The Working Group will continue to examine and discuss its role, status and mandate in 2010, and will reflect any resulting findings in its next report.
+3.	Recognizing the strategic importance of information and communications technology (ICT) as a critical reform instrument, the General Assembly, in its resolution 60/283, approved the post of Chief Information Technology Officer. At the request of the General Assembly and in consultation with stakeholders, the Officer produced a comprehensive ICT strategy for the Secretariat (see A/62/793 and Corr.1), which was approved by the General Assembly in its resolution 63/262. By the same resolution, the Assembly also established the new Office of Information and Communications Technology, which is made up of the previous Information Technology Services Division of the Department of Management and some ICT posts from the Information Communications Technology Division of the Department of Field Support. As part of the new Office’s Secretariat-wide ICT strategy, the Office will contribute to providing a framework for enhancing international cooperation in the field of informatics by the Secretariat.
+
+
+	II.	Cooperation between the Ad Hoc Open-ended Working Group on Informatics and the Secretariat
+
+
+4.	The Ad Hoc Open-ended Working Group and the Secretariat have maintained effective cooperation. During the period 2009-2010, the focus of cooperation has continued to be on informal meetings specifically related to cooperative efforts between the Working Group and the Secretariat.
+5.	The Secretariat and the Working Group continue to expand their efforts with regard to website tools and maintain a shared responsibility for the creation and the maintenance of web pages and document updates. 
+6.	With the guidance of the Working Group, the Secretariat has continued to expand efforts to more fully utilize Candiweb, the website built in support of the elections process for United Nations organs. Working within existing resources, the Secretariat continues to engage volunteers, Secretariat staff and the staff of permanent missions to create, maintain and support the site.
+7.	In addition, the Working Group hosted, in partnership with the Secretariat and Harvard University, a series of web seminars on international humanitarian law. The objective of the series was to utilize resource-neutral online collaborative technologies to make seminars of interest to the diplomatic community available remotely from various global locations. The interactive seminars, which were conducted from conference rooms within the Secretariat, provided unique access to academic forums and global experts. In 2009, over 100 delegates and members of the non-governmental organization (NGO) community participated in the series.
+
+
+	III.	ICT connectivity and access
+
+
+8.	The Secretariat maintains Wi-Fi connectivity and dedicated Internet access points for delegates throughout the public areas and conference rooms of the New York campus. Plans to adjust Wi-Fi coverage will be made throughout activities of the capital master plan in order to maintain continuity of connectivity during meetings, conferences and events and access to resources and tools such as Candiweb and the Member States portal.
+
+
+	IV.	Information technology services
+
+
+9.	The Secretariat and the Working Group continued to cooperate on Candiweb, the website that supports the elections process for United Nations organs. Candiweb makes use of existing Secretariat facilities, and maintenance of the site is shared among the diplomatic community and the Secretariat, coordinated by the Working Group. In 2009, the Secretariat introduced a new tool to improve access to, and ease of use of, Candiweb, and it will continue to ensure support and enhancements to such a useful tool for the election officers.
+10.	In response to General Assembly resolution 61/266, in which the General Assembly encouraged the Secretariat to develop and implement cost-neutral measures to provide Member States with secure access to the information currently accessible only on the Intranet of the Secretariat (iSeek), relevant information posted on iSeek is also available on the Member States portal, deleGATE (www.un.int). The Department of Public Information updates deleGATE on a daily basis in both English and French, providing consolidated access to essential information resources and specific services and tools for delegates at Headquarters. In 2009 and 2010, new information posted included critical details on influenza A (H1N1), the capital master plan, and secure access to telephone directories. Between April and December 2009, 66,323 visitors accessed the portal 208,667 times.
+11.	The Secretariat provides website services and a standard web content management system for approximately 60 permanent missions. These systems streamline procedures and provide an easy-to-use interface for permanent mission websites to update and maintain their content, while providing enhanced information security. 
+12.	The Secretariat continues to provide e-mail services to the permanent missions. The Office of Information and Communications Technology currently supports 1,184 e-mail accounts on four dedicated servers running the standard system (Lotus Notes) used at Headquarters. The e-mail system is available 24 hours a day, 7 days a week and is backed up daily. All e-mail messages are scanned for viruses, malicious software and unsolicited mail. The support of the Service Desk is available during normal office hours.
+13.	The Department for General Assembly and Conference Management, in collaboration with the Office of Information and Communications Technology, launched the ICT resource centre for delegates during the sixty-third session of the General Assembly. It was conveniently set up in a room adjacent to the General Assembly hall and served as a central point of contact for delegates in need of information or ICT support. During its inaugural year, the centre served 45 delegations, logging 531 separate requests for a variety of services, as well as many other informal requests for many kinds of assistance. These requests, from ambassadors and delegates charged with their nations’ essential diplomatic tasks, included assistance with secure Internet access; document editing; laptop loans; document scanning/faxing/printing, and help in locating needed official documents. The centre continues to operate on a year-round basis, serving the unique needs of a wide range of users in the diplomatic community. 
+14.	The Department for General Assembly and Conference Management is developing a system to serve the need of Member States to learn immediately about the release of any document in the Official Document System (ODS) that is relevant to their national interest or any issue they have supported in the United Nations. This system, eSubscription, expands the capabilities of ODS by automatically emailing a link to any newly released document that meets the user’s selection criteria. The user can specify any or all of seven document types, along with keywords, such as “human rights” or the name of a country or an individual. 
+15.	The Department for General Assembly and Conference Management implemented an electronic system for the Protocol and Liaison Service in 2009 to facilitate the processing of accreditation and visa requests from Member States. 
+16.	The Office of Information and Communications Technology continues to add to the capabilities of ODS by significantly enhancing its search functionality. A new interface has been deployed to enable advanced full-text and metadata search capability of all ODS documents in the six official languages. These advanced capabilities include matching all words; finding an exact phrase; finding any word in a string; excluding any word or phrase; and searching document titles only. The new interface also allows the user to set up an RSS feed, as well as encode metadata in documents. The new search functionality utilizes the Google Search Appliance (GSA), configured to search only ODS documents. This solution is easily scalable (for increases/decreases in users, as well as documents) and has many configurable features, such as security, LDAP compatibility, single sign on, etc. These improvements represent the first phase of a comprehensive plan to revamp ODS, enhance its functionalities and improve its business processes. 
+17.	In addition to ODS enhancement, the Knowledge Management Service within the Office of Information and Communications Technology is currently working on a number of important projects to improve the sharing of, and access to, United Nations information and documents. Following a successful pilot within the Office of Information and Communications Technology, a collaboration tool was launched in the Secretariat to ensure the sharing of information and ideas among dispersed teams, through a web-based common workspace where documents can be authored collaboratively and accessed remotely. This new tool has been used to enhance Candiweb, and has been made available to the Fifth and Sixth Committees of the General Assembly and the Advisory Committee on Budgetary and Administrative Questions. Another initiative is focusing on improving the management of information to ensure better retrieval. A common platform is being developed for the consistent and standardized management of United Nations information, which will result in this information being better organized, accessible and searchable through the implementation of policies, standard taxonomies, common metadata and consistent labels. Once this platform is piloted, it will be made available throughout the Secretariat.
+
+
+	V.	Training, support and awareness
+
+
+18.	The Working Group continues its focus on promoting awareness of its activities and is gradually moving the results of its efforts online. The guide to Internet services for delegations has been updated and incorporated into the Member States portal (deleGATE).
+19.	The Working Group and the Secretariat continue to explore the idea of establishing a forum where the diplomatic community and the Secretariat can exchange information and views concerning the use of ICT at the Secretariat, including strategies and initiatives, as an extension of the Working Group’s focus on awareness and to serve as an additional bridge between Member States and the Secretariat in this area.
+20.	The Dag Hammarskjöld Library continues to enhance its programmes for training in the management and use of United Nations documentation, as well as in the use of United Nations and external online databases and resources. Delegations have taken advantage of personalized coaching sessions and customized group programmes within the scope of the personal knowledge management initiative, which provides assistance on the use of information handling tools and resources. 
+21.	In collaboration with various partners, the United Nations Institute for Training and Research (UNITAR) offers a wide range of online courses, some in French and Spanish, including multilateral diplomacy; training for peacekeepers in pre-deployment stage; public finance and trade; and environmental law. In 2009 alone, a total of 2,603 beneficiaries received online training. In New York, the Institute offers courses on basic information technology skills to delegates through its Continued IT Education Programme. UNITAR is also developing a website on training methodologies, learning pedagogies and tools based on the principles of adult learning. Designed with web 2.0 technology, this website will be available to the United Nations system at large. Further, UNITAR developed the concept “One United Nations Training Service Platform for Climate Change”, and is serving as the Platform’s designated host agency.
+22.	The Secretariat provides technical support, through the Office of Information and Communications Technology Service Desk, when problems arise with any of the provided services or infrastructure. In 2009, the Service Desk handled more than 2,000 work orders for the permanent missions, consisting of incident and problem reports, service requests and preventive maintenance.
+23.	The Secretariat continues to refurbish surplus personal computers and furnishes them to permanent missions, under the overall guidance of the Working Group. Statistics on computing equipment donated to permanent missions in 2009 are contained in the annex to this report.
+
+Annex
+
+		Computer equipment given to permanent missions in 2009
+
+
+Equipment typeNumberCentral processing units1 269Monitors1 099Printers452Other devices87	Total2 907
+[Start1]<<ODS JOB NO>>N1029360E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2010/48<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+E/2010/48
+
+E/2010/48
+
+10-293606
+
+710-29360
+
+United NationsE/2010/48 
+Economic and Social CouncilDistr.: General
+29 March 2010
+
+Original: English
+
+10-29360 (E)    130410    
+*1029360*
+

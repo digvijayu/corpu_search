@@ -1,0 +1,3736 @@
+
+ United Nations  A/65/576
+
+  
+ 
+
+General Assembly  Distr.: General 
+16 November 2010 
+ 
+Original: English 
+
+ 
+
+10-64111 (E)    261110 
+*1064111*   
+
+Sixty-fifth session 
+Agenda items 129 and 143 
+ 
+
+Programme budget for the biennium 2010-2011 
+ 
+
+Administrative and budgetary aspects of the financing 
+of the United Nations peacekeeping operations 
+
+ 
+ 
+ 
+
+  Information and communications technology 
+ 
+ 
+
+  Report of the Advisory Committee on Administrative and 
+Budgetary Questions 
+ 
+ 
+
+ I. Introduction 
+ 
+ 
+
+1. The Advisory Committee on Administrative and Budgetary Questions has 
+considered the following reports of the Secretary-General relating to information 
+and communications technology: 
+
+ (a) Second progress report on the enterprise resource planning project and 
+revised estimates under section 28A, Office of the Under-Secretary-General for 
+Management, of the programme budget for the biennium 2010-2011, and under the 
+support account for peacekeeping operations (A/65/389); 
+
+ (b) Status of implementation of the information and communications 
+technology strategy for the United Nations Secretariat (A/65/491). 
+
+2. During its consideration of the reports, the Advisory Committee met with the 
+Under-Secretary-General for Management and the Chief Information Technology 
+Officer, as well as with other representatives of the Secretary-General, who 
+provided additional information and clarification. 
+ 
+ 
+
+ II. Enterprise resource planning project 
+ 
+ 
+
+3. The second progress report of the Secretary-General has been submitted 
+pursuant to General Assembly resolution 64/243, in which the Secretary-General 
+was requested to continue to ensure that the Assembly is kept informed, on an 
+annual basis, of the progress of the enterprise resource planning project.  
+
+
+
+A/65/576  
+ 
+
+10-64111 2 
+ 
+
+4. Background information on the rationale, evolution and funding of the project 
+is set out in paragraphs 1 to 6 of the Secretary-General’s report. In brief, as part of 
+the management reforms1 launched in response to the World Summit Outcome (see 
+General Assembly resolutions 60/1 and 60/283), the General Assembly decided to 
+replace the Integrated Management Information System (IMIS) with next-generation 
+enterprise resource planning. On the basis of the proposals put forward by the 
+Secretary-General in his report on enterprise systems for the United Nations 
+Secretariat worldwide (A/62/510/Rev.1), the General Assembly decided, by its 
+resolution 63/262, to implement a global enterprise resource planning solution, 
+stressing that such a solution should aim to consolidate the management of all 
+financial, human and physical resources under a single, integrated information 
+system for the entire Organization, including for peacekeeping and field missions. 
+In the same resolution, the Assembly authorized the Secretary-General to establish a 
+multi-year special account to record income and expenditures for the project, and 
+approved the proposed governance framework of the project. The Assembly also 
+emphasized that the enterprise resource planning project should be viewed primarily 
+as a business project driven by business process demands and delivered through 
+complex information technology systems requiring a high level of technical 
+expertise.  
+
+5. The United Nations enterprise resource planning project, named “Umoja”, was 
+initially envisaged to be implemented in two waves: the first consisting of a 
+30-month period for the implementation of the core finance, human resources, 
+procurement and asset management functions required for compliance with the 
+International Public Sector Accounting Standards (IPSAS); and the second 
+consisting of a 24-month period for the implementation of the remaining 
+functionalities, such as results-based management, risk management, and 
+transportation and travel. Subsequently, in his first progress report on the enterprise 
+resource planning project (A/64/380), the Secretary-General proposed instead a 
+“pilot first” option, in which the complete enterprise resource planning solution, 
+with all functionalities, would be developed and deployed in a small-scale, fully 
+operational and contained environment, towards the end of 2011. The solution 
+would be tested and stabilized in the pilot environment and then deployed to the rest 
+of the Organization in two phases, to be completed by the third quarter of 2013. The 
+Secretary-General affirmed that costs could be best contained and the risks 
+mitigated under such an implementation strategy. The overall resource requirements 
+for the implementation of the enterprise resource planning solution through the 
+“pilot first” option were estimated at $315.8 million. In the light of the need to 
+synchronize the adoption of IPSAS with the introduction of the enterprise resource 
+planning system, the projected date for the issuance of the first full set of IPSAS-
+compliant financial statements was postponed to the year ending 31 December 2014.  
+
+6. In its resolution 64/243, the General Assembly endorsed the proposal of the 
+Secretary-General to deploy the enterprise resource planning project through the 
+“pilot first” option and, in that context, requested the Secretary-General to present 
+options for lowering the cost of the project. The Assembly also requested the 
+Secretary-General to provide information on the resources that could be 
+redistributed to the enterprise resource planning project as a result of the merging of 
+
+__________________ 
+
+ 1  Including initiatives such as the adoption of the International Public Sector Accounting 
+Standards (IPSAS) and strengthened oversight and accountability. 
+
+
+
+ A/65/576
+ 
+
+3 10-64111 
+ 
+
+any elements of other enterprise systems with the new enterprise resource planning 
+system.  
+ 
+ 
+
+  Updated benefits 
+ 
+ 
+
+7. In his first progress report (A/64/380), the Secretary-General presented a 
+business case justifying the investment in enterprise resource planning and the 
+advantages to be expected in terms of increased operational effectiveness and 
+timeliness; higher client satisfaction; improved reporting; strengthened accountability, 
+enhanced transparency and strengthened internal controls across the broad range of 
+financial, procurement and staffing processes; and improved consistency in the 
+application of rules and operating procedures in all administrative disciplines. The 
+expected quantitative benefits after full implementation of the enterprise resource 
+planning system were estimated at between $134 and $224 million per annum. In his 
+current report (A/65/389), the Secretary-General has refined his analysis of the 
+estimates of quantitative benefits on the basis of information gained during the 
+detailed design and re-engineering of business processes. Table 1 of the report 
+provides a summary of the updated quantitative benefits expected by functional 
+area, showing a new range of between $141.3 and $222.6 million, reflecting a minor 
+net variation as compared to the original estimates: a downward revision of the 
+range of estimated benefits under supply chain/procurement/logistics is largely 
+offset by higher estimated benefits in the other functional areas. Details of the 
+specific benefits underpinning the updated estimates are presented in annex I to the 
+Secretary-General’s report. Annex II provides an update of the qualitative benefits 
+expected by functional area, which are mostly related to greater effectiveness as a 
+result of the availability of reliable, integrated and consolidated Organization-wide 
+data, allowing improved reporting, monitoring, real-time analysis and decision-
+making. 
+
+8. In paragraphs 11 to 16 of his report, the Secretary-General discusses issues 
+that have an impact on the calculation, identification and realization of the above-
+mentioned benefits. He emphasizes that the estimated ranges for the quantitative 
+benefits were established on the basis of a series of assumptions which will have to 
+be validated in an operational environment as well as on the basis of existing data, 
+which may not be reliable owing to weaknesses in the current information and 
+communication technology (ICT) systems. He points out that the benefits are 
+expected to be realized only after full implementation and stabilization of the 
+system and that, at the current stage, his estimates represent only potential benefits 
+that should not be projected as savings in future budgets. The Secretary-General 
+goes on to cite a number of conditions necessary for the effective realization of 
+those benefits, namely: (a) that the active support of all stakeholders will be 
+sustained, including strong political and financial backing from Member States, 
+leadership by senior United Nations officials to ensure that the project receives the 
+required level of support and participation, and the willingness of all managers and 
+staff to embrace improved working methods; (b) that the project team will be able to 
+mitigate risks over the life cycle of the project; and (c) that the project team is able 
+to engage the entire Organization to create a shared vision and to ensure that 
+knowledge is effectively transferred from specialist external resources to the United 
+Nations staff.  
+
+
+
+A/65/576  
+ 
+
+10-64111 4 
+ 
+
+9. The Advisory Committee recognizes that the identification of benefits is an 
+ongoing process and that factors such at those outlined in paragraph 8 above 
+will have an impact on the estimates of the quantitative benefits and the 
+conditions for their realization throughout the implementation of the project. It 
+believes that sustained and long-term commitment, as well as constant 
+monitoring and management of the risks and issues discussed above, will be 
+vital if a sound enterprise resource planning solution aligned to the business 
+needs of users is to be put into place and the necessary conditions are to be 
+created for Organization-wide acceptance and realization of the benefits of the 
+new system.  
+
+10. In paragraphs 17 to 24 of his report, the Secretary-General mentions the 
+possibility of benefits being derived from changes in the approach to service 
+delivery, but does not elaborate on those changes or make any specific proposals. 
+The Advisory Committee will comment on this matter should the Secretary-
+General put forward any formal proposal, supported by a full cost-benefit 
+analysis. 
+ 
+
+  Progress to date and overall status of the project 
+ 
+
+11. In his report, the Secretary-General states that he expects the project to be 
+completed and deployed within the projected time frame, by the end of 2013. The 
+overall resource requirements also remain unchanged at $315.8 million.  
+ 
+
+  Project activities 
+ 
+
+12. The Advisory Committee notes that, as requested in its previous report 
+(A/64/7/Add.9, para. 72) the Secretary-General has provided, in figure II of his 
+report, a detailed and annotated timeline for the project, as well as the required 
+resources by phase. The project timeline is divided into four major phases, namely, 
+prepare (2009), design (2009-2010), build (2009-2011) and deploy (2012-2013). 
+The figure shows the key milestones and targets of each phase in the area of project 
+governance and legislative decision-making, as well as those relating to functional, 
+technical and change management tasks. Ongoing project management tasks are also 
+shown, including day-to-day management, oversight and quality control, 
+procurement and contract management, and recruitment. Figure II also shows the 
+tasks that are carried out in parallel, including those concerning the different phases 
+of the project. The Advisory Committee welcomes the provision of a more 
+detailed timeline for the project. It is of the view that information on the main 
+dependencies between key tasks should also be shown in the figure or provided 
+in the related notes, to facilitate the identification of critical implementation 
+activities.  
+
+13. The Advisory Committee was informed that the main focus of the enterprise 
+resource planning project team during the reporting period was on the design phase. 
+The key activities reported by the Secretary-General in the areas of procurement, 
+functional design, technical preparation and change management are as follows:  
+
+ • Procurement and contract management. In the summary section of his report, 
+the Secretary-General indicates that the protracted negotiations to procure the 
+preferred enterprise software package constituted one of the main challenges 
+faced by the project team and caused some delays. The Committee was 
+informed that the contract with the enterprise software vendor was concluded 
+
+
+
+ A/65/576
+ 
+
+5 10-64111 
+ 
+
+on 25 June 2010. It notes from figure II that the systems integration services 
+contract has been divided into two parts, the first for the design phase of the 
+project, which was signed towards the end of 2009, and the second for the 
+build and implementation phases, which is planned to be concluded later in 
+2010. 
+
+ • Functional design. Progress in this area is outlined in paragraphs 28 to 30 of 
+the Secretary-General’s report. The Committee notes that functional design 
+covers initial and detailed design, during which business processes are 
+identified and re-engineered independently of the enterprise resource planning 
+software package. Detailed design is followed by final design, to produce a 
+blueprint based on the specific enterprise resource planning software to be 
+used for the “build” phase, during which the solution is tailored to the 
+Organization’s requirements. The Secretary-General indicates that the detailed 
+design phase is nearing completion and that final design was initiated in July 
+2010, after the signing of the contract with the software vendor. Upon enquiry, 
+the Committee was informed that some 272 business processes had been 
+identified in the four functional areas of the enterprise resource planning 
+project (human resources management, finance, supply chain and central 
+support services), of which 235 have been re-engineered and 37 are in 
+progress, mainly in the finance functional area. The Committee notes that an 
+internal review was conducted to ensure the completeness, consistency and 
+harmonization of business processes across functional areas, and to identify 
+the policies, procedures, rules and regulations that require updating to 
+optimize the solution. The proposed re-engineered processes are currently 
+being reviewed by the business community, whose support and approval is 
+necessary. 
+
+ • Technical tasks. The Secretary-General indicates that technical tasks are 
+progressing in parallel to work on the design phase (A/65/389, para. 31). 
+Figure II shows that the technical preparatory phase was completed in mid-
+2010, including activities such as the provision of support to the software 
+purchase process and preparation for the decommissioning of existing systems. 
+Technical activities relating to the design phase, such as data conversion, 
+security, infrastructure, technical architecture, quality assurance and the setting 
+up of operational and development environments are ongoing.  
+
+ • Change management. Key activities undertaken in connection with 
+preparations for upcoming enterprise resource planning-related changes, 
+communications and training are outlined in paragraphs 32 to 42 of the 
+Secretary-General’s report. They include the establishment of communities of 
+practice using online information-sharing tools (Umoja net), the designation of 
+focal points as Umoja leaders in the field and the establishment of a change 
+management presence in Geneva. 
+
+14. In section IV of his report, entitled “‘Cross-cutting’ issues and opportunities” 
+(A/65/389, paras. 57-73), the Secretary-General provides information on the 
+linkages and interrelationships between the enterprise resource planning project and 
+other management reform initiatives in the areas of administration, accountability, 
+finance, human resources, harmonization of business practices and ICT, as well as 
+certain initiatives of the Department of Field Support. The Advisory Committee 
+notes that the enterprise resource planning team participates in these ongoing reform 
+
+
+
+A/65/576  
+ 
+
+10-64111 6 
+ 
+
+initiatives with a view to integrating their requirements into the enterprise resource 
+planning solution, as well to identify opportunities for improving existing policies 
+and making the best possible use of the enterprise resource planning solution. For 
+instance, as regards accountability, the enterprise resource planning solution will 
+provide a basis for the accountability framework through detailed electronic 
+recording of transactions and approvals, and support the requirements for reviewed 
+delegation of authority mechanisms, enterprise risk management and a strengthened 
+internal control framework. The Committee also notes that the enterprise resource 
+planning system will support performance reporting and results-based management, 
+once a standardized methodology is adopted.  
+
+15. In his current progress report, the Secretary-General has identified a number of 
+developments which have emerged or become apparent as the project has progressed 
+and have led to adjustments to project staffing and design. They include new 
+opportunities for better use of the new solution, instances of areas where policy 
+frameworks need to be established or adapted before requirements can be finalized, 
+as well as gaps in the initial project structure. Such adjustments are to be expected 
+in the context of large, complex projects such as Umoja that are implemented over a 
+long period. At the same time, the Committee continues to believe that it is 
+necessary to establish a clear baseline of the key parameters of the project at the 
+time of project approval and to document the changes as the project evolves. Among 
+the key parameters to be documented are: goals and objectives of the project, its 
+geographical and functional scope, key milestones and deliverables, project risks, 
+assumptions and constraints, and out of scope functions, as well as project 
+governance and management structure, staffing, cost estimates and funding. In the 
+Committee’s view such an approach is an integral part of the change management 
+process and will facilitate decision-making in the future.  
+
+16. With regard to organizational arrangements (A/65/389, paras. 46-52), 
+including governance and oversight, the Advisory Committee notes that an updated 
+chart of the governance framework is provided as annex III to the Secretary-
+General’s report. The Secretary-General states that the Director of the enterprise 
+resource planning project is well supported by the governance structure, which 
+affords him direct access to the heads of the major service providers as well as his 
+two reporting officers, namely the Under-Secretary-General for Management (Chair 
+of the Steering Committee) and the Assistant Secretary-General/Chief Information 
+Technology Officer. The Advisory Committee notes that the Project Steering 
+Committee continues to provide guidance and advice to the Chair, and that its 
+membership was expanded to include the Department for General Assembly and 
+Conference Management. The Committee further notes that the project’s progress 
+continues to be monitored by the Management Committee, whose involvement will 
+become more critical as the initiative moves forward and decisions within the 
+purview of the Management Committee must be taken. The Secretary-General 
+should continue to provide oversight and close monitoring of the project.  
+
+17. The Advisory Committee welcomes the progress made thus far towards 
+completion of the design phase of the project. 
+ 
+
+  Project staffing 
+ 
+
+18. In his report, the Secretary-General provides an update on project staffing 
+(paras. 53-56) as well as updated requirements for the current biennium to address 
+
+
+
+ A/65/576
+ 
+
+7 10-64111 
+ 
+
+gaps in the enterprise resource planning project team structure (paras. 78-88). He 
+states that timely recruitment has been a challenge and represents a significant 
+project risk factor. Only 46 of the 80 positions/posts approved for the project were 
+filled at the end of August 2010, reflecting a vacancy rate of 42.5 per cent. The 
+distribution of vacant posts is summarized in table 3 of the Secretary-General’s 
+report.  
+
+19. The Secretary-General also indicates that post and non-post resources of the 
+Management Support Service of the Office of the Under-Secretary-General for 
+Management have been temporarily assigned to the change management team for 
+the duration of the project, effectively augmenting the project team by a total of six 
+posts: four regular budget posts (1 D-1, 1 P-5, 1 P-2 and 1 GS (OL)) and two P-4 
+support account posts (para. 56).  
+
+20. In addition, in order to address gaps identified in the enterprise resource 
+planning project team structure during the design phase, the Secretary-General is 
+proposing the establishment of an additional 10 temporary posts to be funded 
+through the redeployment of resources from contractual services to posts (paras. 83, 
+88 and 89). The specific proposals are as follows:  
+
+ • Establishment of a cross-functional programme and project management team 
+comprising 8 temporary posts (one D-1 Programme Management Team Leader, 
+two P-5 Senior Programme Management Analysts, three P-4 Functional 
+Programme Management Experts, one P-3 Information Systems Analyst, and 
+one General Service (Other level) Programme Assistant) (paras. 85-88). The 
+programme and project management team would work across the four 
+functional teams (finance, human resources, supply chain, and central support 
+services) to ensure that the enterprise resource planning solution supports more 
+efficient and consistent programme and project delivery throughout the 
+Secretariat, including results-based management and performance reporting. 
+The Secretary-General indicates that the design phase demonstrated that the 
+specialized functional teams could not address such issues in a holistic manner. 
+
+ • Establishment of a project delivery team in the project management office, 
+comprising two temporary posts (one D-1 Delivery Manager and one P-5 
+Deputy Delivery Manager) (paras. 82-84). The Delivery Team would be 
+responsible for activities such as project management, team coordination and 
+the supervision of contractual services, which are currently outsourced to the 
+systems integrator. The Secretary-General indicates that it is necessary to 
+perform these activities in-house to minimize risks and ensure that the 
+Organization is deriving maximum benefits from its service providers. 
+
+ • Proposed resources under contractual services would be decreased by 
+$1,739,600 to accommodate post costs related to the establishment of the 
+above-mentioned 10 new temporary posts (para. 89). 
+
+21. The Secretary-General is also proposing the conversion of 36 positions 
+currently funded under general temporary assistance to temporary posts. He 
+indicates that these positions were previously requested as new temporary posts in 
+the first progress report (see A/64/380, para. 94), but that there was no explicit 
+approval by the General Assembly for establishing them as such (A/65/389, 
+para. 78). The Advisory Committee was informed that the conversion is being 
+proposed in order to facilitate recruitment and the filling of vacant positions. As a 
+
+
+
+A/65/576  
+ 
+
+10-64111 8 
+ 
+
+result of these proposals, the total staffing for the project would increase from 80 to 
+90 temporary posts. Taking into account the additional resources redeployed from 
+the Office of the Under-Secretary-General for Management (see para. 19 above), the 
+total capacity of the project team would increase to 96.  
+
+22. In the Advisory Committee’s view, the Organization’s inability to fully 
+staff the project team is a matter of concern, since the delays in filling vacancies 
+entail risks that project activities may not be accomplished on time, owing to 
+insufficient staff capacity. The Committee is particularly concerned by the high 
+level of vacancies among the Professional staff in the enterprise resource 
+planning project technical and functional teams, where proper planning and 
+coordination capacity, and strong analytical skills are critical to drive progress. 
+The Committee urges the Secretary-General to make every effort to fill the 
+enterprise resource planning project team vacancies as a matter of priority and 
+to explore every possibility to expedite the process, so as to minimize any 
+adverse impact on project implementation. 
+
+23. With regard to the establishment of the additional project teams, the 
+Advisory Committee believes that it is necessary to put into place mechanisms 
+for strengthening in-house capacity and for the transfer of knowledge from 
+consultants to programme and project staff. Accordingly, the Committee 
+recommends approval of the Secretary-General’s proposals.  
+ 
+
+  Subject matter experts 
+ 
+
+24. As indicated in paragraph 55 of the Secretary-General’s report, the enterprise 
+resource planning project team is supplemented by subject matter experts, whose 
+contributions range from a few hours to several months at a time. In his first 
+progress report (A/64/380), the Secretary-General specified that subject matter 
+experts were staff members recognized as leading practitioners in specific areas of 
+the Organization. At the time of its consideration of the first progress report, the 
+Advisory Committee was informed that subject matter experts were required to 
+assist, on a temporary basis, in system design, data conversion, interface 
+development, report generation and testing of the enterprise resource planning 
+system, and would also have a key role to play in training and supporting users 
+during deployment and in the post-deployment period. At that time, the Secretary-
+General also emphasized that the active participation of subject matter experts, who 
+have an in-depth knowledge of their functional areas and the business requirements 
+of their departments/offices, was essential to ensure that the enterprise resource 
+planning system would effectively cover the required functionalities and would be 
+accepted by the business owners2 and the Organization (A/64/7/Add.9, para. 82). 
+
+25. The Advisory Committee enquired as to the procedures in effect for bringing 
+subject matter experts on board and whether there had been any changes in practice 
+in this regard since the initiation of the project. It was informed that, owing to the 
+lack of sufficient candidates to provide the large number of subject matter experts 
+required for the project, and with a view to ensuring that the selection process for 
+subject matter experts is transparent and consistent with established provisions for 
+
+__________________ 
+
+ 2  The Under-Secretary-General, Department of Field Support, and the Assistant Secretary-General 
+of the Office of Human Resources Management, the Office of Central Support Services, the 
+Office of Programme Planning, Budget and Accounts and the Department for General Assembly 
+and Conference Management. 
+
+
+
+ A/65/576
+ 
+
+9 10-64111 
+ 
+
+staff selection, an expedited competitive process for the selection of subject matter 
+experts for the four functional areas (human resources, finance, central support and 
+supply chain) had been introduced, with effect from October 2010. The process 
+involved the preparation of temporary vacancy announcements by the Team Leader, 
+joint evaluation of applicants by members of the enterprise resource planning 
+project team and the business owners, and the establishment a roster of suitable 
+candidates. The release of candidates is arranged by the Executive Office of the 
+Department of Management following approval by the Under-Secretary-General for 
+Management. In addition, the movement of subject matter experts is 
+administratively recorded for mobility purposes. The competitive process is not 
+applicable to subject matter experts for specialized functions available only within a 
+particular department/office, such as investment management. A description of the 
+procedure, provided to the Committee, is contained in annex I.  
+
+26. The Advisory Committee shares the Secretary-General’s view that subject 
+matter experts have an important role to play in the design and other phases of 
+the project, since their inputs shape the re-engineered business processes and 
+the new enterprise resource planning solution to be implemented across the 
+Organization worldwide. The participation of subject matter experts is also 
+required to provide the necessary assurances that the enterprise resource 
+planning system covers the required functionalities and can be accepted by the 
+users. As indicated in paragraph 8 above, this is a critical factor for the 
+successful implementation of the enterprise resource planning project and the 
+realization of its benefits (see also para. 30 below). It is therefore essential that, 
+as indicated above, the subject matter experts selected to contribute to the 
+enterprise resource planning project possess the required expertise and are 
+made available in accordance with the constraints of the timetable of the 
+project.  
+
+27. Given the short-term and time-sensitive nature of the requirements for the 
+temporary placement of the subject matter experts in the enterprise resource 
+planning project teams, as well as the risks to the project should the required 
+expertise not be available when needed, the Committee stresses the requirement 
+for efficient and speedy procedures for the selection of subject matter experts, 
+avoiding needlessly bureaucratic and time-consuming efforts which would 
+inevitably divert efforts from productive project tasks to recruitment and other 
+ancillary administrative activities. 
+ 
+
+  Status of expenditure 
+ 
+
+28. In his report, the Secretary-General provides summaries of approved resources 
+and actual expenditure for the previous biennium and for the current biennium as at 
+31 August 2010, by source of funds (table 5) and object of expenditure (table 6). 
+The Advisory Committee notes that project resources approved for the biennium 
+2010-2011 total $82.0 million. As at 31 August 2010, actual expenditure amounted 
+to $50.5 million. Upon enquiry, the Committee was provided with an update on 
+expenditure for 2010-2011 as at the end of September 2010, showing a slight 
+increase in expenditure to $50.7 million. The Committee was informed that the 
+Secretary-General expects to fully utilize the resources provided for 2010-2011. 
+ 
+
+
+
+A/65/576  
+ 
+
+10-64111 10 
+ 
+
+  Customization and extensions to the enterprise resource planning system 
+ 
+
+29. In paragraph 44 of his report, the Secretary-General indicates that no essential 
+customizations to the core software code of the enterprise resource planning system 
+have yet been identified, taking into account the processes analysed and the 
+requirements reviewed thus far, and on the assumption that the Organization will be 
+able to adapt to new working methods. The Secretary-General advanced similar 
+caveats with respect to the realization of benefits (see para. 8 above). The Advisory 
+Committee trusts that every effort is being made to create the conditions that 
+will facilitate adaptation to change and improved methods of work 
+Organization-wide. It emphasizes that the sustained commitment of the 
+Secretary-General, the Management Committee and the Project Steering 
+Committee will be required to achieve this. 
+
+30. The Secretary-General also indicates that the enterprise resource planning 
+solution can be supplemented with external programmes, or “extensions”, to provide 
+additional functions which can be “plugged in” or “bolted on” to the enterprise 
+resource planning system without changing the core software of the system. Such 
+extensions would not affect future software upgrades and would be less costly to 
+maintain than customizations. The Secretary-General has identified two significant 
+extensions that may be required and which are explained in the footnotes to 
+paragraph 44 of the report: (a) a parallel ledger, to cope with the United Nations 
+dual budgetary cycles and (b) a solution for the requirements of the United Nations 
+in material tracking. The Advisory Committee takes note of these alternative 
+approaches with interest. It recommends that the Secretary-General be 
+requested to provide, in the context of the next progress report, further details 
+of the related requirements and constraints, including any interfaces to be 
+developed between such extensions and the core enterprise resource planning 
+system, along with an update on any further extensions that may be required. 
+ 
+
+  Interfaces with other systems/existing systems 
+ 
+
+31. The Secretary-General indicates that a comprehensive cataloguing of existing 
+applications is being carried out in cooperation with the Office of Information and 
+Communications Technology and the Information and Communications Technology 
+Division of the Department of Field Support (A/65/389, para. 43). It is estimated 
+that some 690 systems could be replaced by the enterprise resource planning system 
+while approximately 200 systems will have to be interfaced with it. In this 
+connection, the Committee recalls that, in its resolution 64/243 the General 
+Assembly requested the Secretary-General to provide information on the resources 
+that could be redistributed to the enterprise resource planning project as a result of 
+the merging of other systems with the enterprise resource planning system (see also 
+para. 6 above). The Committee notes that the Secretary-General has not yet provided 
+a response to the General Assembly’s request. 
+
+32. The Advisory Committee recommends that the Secretary-General be 
+requested to pursue his analysis of the systems that could be replaced by the 
+enterprise resource planning system and to provide a definitive inventory of the 
+systems to be decommissioned, as well as information on the resources that 
+could potentially be released, in the context of the next progress report. It 
+emphasizes that the enterprise resource planning team should work in close 
+cooperation with the Office of Information and Communications Technology to 
+
+
+
+ A/65/576
+ 
+
+11 10-64111 
+ 
+
+complete the cataloguing exercise and to establish such an inventory. The 
+Committee is of the view that the activities related to the planning of 
+decommissioning activities should be coordinated by the Office of Information 
+and Communications Technology, in the context of the projects arising from the 
+outcome of the structural review of ICT capacities (see para. 41 below).  
+
+33. A list of some of the key systems to be interfaced is provided in footnote 19 of 
+the Secretary-General’s report and includes internal systems such as Inspira and the 
+Enterprise Identity Management System, as well as the external systems of the 
+United Nations Development Programme (Atlas), the International Civil Service 
+Commission and the United Nations Joint Staff Pension Fund. The Secretary-
+General indicates that generic solutions for standardized interfaces will be applied 
+to the extent possible, allowing reduced development and support costs.  
+
+34. The Advisory Committee requested additional information on the interfaces to 
+be developed between the enterprise resource planning and other systems that could 
+not use generic solutions. It was provided with, by way of an example, the following 
+details on interfaces to be established between the enterprise resource planning 
+system and Inspira:  
+
+ • The enterprise resource planning software (SAP) must be interfaced with 
+Inspira (PeopleSoft) across five different modules or functions: external 
+recruitment, internal recruitment, performance management, learning and 
+position management. Information will have to be transferred both from 
+Inspira to the enterprise resource planning system and vice versa, with the 
+development of inward and outbound interfaces. 
+
+ • Resource requirements for the development of interfaces for the first three 
+modules are estimated at an initial cost of $500,000 with ongoing costs of up 
+to two full-time equivalent positions for the maintenance of the interfaces. 
+
+ • The costs for the development of interfaces for the learning and position 
+management modules have not yet been determined, pending further 
+development of Inspira and analysis of requirements. The Secretary-General 
+estimates that the costs of the remaining two interfaces are likely to be similar 
+to the estimates for the first three modules. 
+
+35. The example described above demonstrates the complexity of the interfaces 
+envisaged to be established between the enterprise resource planning system and 
+Inspira, which will be costly to develop and maintain. The Advisory Committee 
+emphasizes the need to maximize coverage of the required functionalities 
+within the enterprise resource planning system itself, so as to limit, to the extent 
+possible, the requirements for the development and maintenance of interfaces. 
+It notes the Secretary-General’s intention to apply generic solutions for 
+standardized interfaces wherever possible. The Committee recommends that 
+the Secretary-General be requested to report comprehensively on the systems 
+to be interfaced with the enterprise resource planning system, as well as the 
+different interface models to be put in place, in the context of the next progress 
+report.  
+
+36. In this connection, the Advisory Committee was also informed that it has not 
+yet been determined whether Inspira or the enterprise resource planning system 
+would be the primary system for the position management function. The 
+Committee emphasizes that the enterprise resource planning system should be 
+
+
+
+A/65/576  
+ 
+
+10-64111 12 
+ 
+
+viewed as the central Organization-wide system of record and the authoritative 
+data source for all key data related to the management of human, financial and 
+physical resources.  
+ 
+
+  Estimated future operating costs 
+ 
+
+37. In its previous report on this subject (A/64/7/Add.9, para. 87), the Advisory 
+Committee expressed the view that an estimate of future operating costs was an 
+essential input for making an informed decision on the implementation of enterprise 
+resource planning, and requested that this information be provided to the General 
+Assembly. The Secretary-General estimates that the future operating costs of the 
+enterprise resource planning will range between $40 and $50 million per annum, on 
+average (A/65/389, para. 94). He specifies that this amount would cover a range of 
+core costs related to hardware and software requirements, functional and technical 
+support, hosting services, future upgrades and improvements, and other standard 
+costs. He further indicates that other costs, such as telecommunications costs cannot 
+be calculated at this point, in light of the fact that the requirements are dependent on 
+the sequence of the deployment of the enterprise resource planning system to the 
+various sites, as well as the service delivery model (see also para. 10 above). The 
+Advisory Committee recommends that the Secretary-General be requested to 
+continue to refine these estimates as the modalities of the deployment of the 
+enterprise resource planning system are determined and other cost factors are 
+clarified, and to provide updated estimates in future progress reports. 
+ 
+
+  Future downsizing of the project team 
+ 
+
+38. The Secretary-General indicates that once the system is deployed in 2013, 
+Umoja will cease to exist as an independently funded project, and that the resources 
+required for supporting and maintaining the enterprise resource planning system will 
+be provided for in the context of operational budgets. The Advisory Committee 
+notes that, after the project is completed, the enterprise resource planning 
+system will be supported under the resource management programme of the 
+Office of Information and Communications Technology. It is therefore 
+important, to plan for the effective transfer to the Office of Information and 
+Communications Technology of knowledge and expertise relating to both the 
+technical environment and the functional areas of the enterprise resource 
+planning system (see also para. 43 below). 
+ 
+
+  Options for lowering the cost of the project  
+ 
+
+39. In its resolution 64/243, the General Assembly endorsed the proposal of the 
+Secretary-General to deploy the enterprise resource planning system through the 
+“pilot first” option and, in that context, requested the Secretary-General to present 
+options for lowering the cost of the project (see also para. 6 above). The Secretary-
+General has not proposed any such options, but has instead presented a variety of 
+measures to contain costs, in paragraphs 98 to 107 of his report. During its 
+discussions with the representatives of the Secretary-General, the Advisory 
+Committee was informed that it was not possible to make significant cuts in the 
+project costs without substantially altering the plan and approach for the 
+implementation of the enterprise resource planning system that had been approved 
+by the General Assembly.  
+
+
+
+ A/65/576
+ 
+
+13 10-64111 
+ 
+
+40. The Advisory Committee notes the efforts directed towards containment of a 
+range of costs and encourages the Secretary-General to maintain focus on the 
+optimal use of project resources. It notes in particular the opportunities identified 
+during the design phase to partner with sister agencies (A/65/389, para. 104) and the 
+ongoing collaboration with the United Nations Children’s Fund and the World Food 
+Programme in the design and building of human resource management and travel 
+management functionalities. Further opportunities cited include sharing of the costs 
+of a turnkey travel management solution for United Nations commercial and 
+non-commercial travel flights and movement of personnel, and the provision of 
+access to the Entitlements Validation Engine already developed for other United 
+Nations entities, which will cover some of the unique requirements of the United 
+Nations at substantial savings in terms of resource requirements for software 
+development. The Advisory Committee welcomes these developments and 
+encourages the Secretary-General to pursue such opportunities vigorously. The 
+Committee remains convinced that there are opportunities for the adoption of 
+common solutions, procedures and standards among the entities of the United 
+Nations system, and encourages the Secretary-General to pay particular 
+attention to maximizing exchanges and synergies between the organizations 
+regarding their respective ongoing enterprise resource planning initiatives. In 
+the view of the Committee, such collaboration could be viewed as a long-term 
+option for lowering enterprise resource planning costs in the future. The 
+Committee recommends that the Secretary-General be requested to report 
+comprehensively on all developments in this area in the context of future 
+progress reports.  
+ 
+
+  Other observations 
+ 
+
+  Collaboration with the Office of Information and Communications Technology, the 
+Department of Field Support and other departments/offices 
+ 
+
+41. In his report, the Secretary-General refers to numerous technical tasks related 
+to enterprise resource planning implementation, including: technical activities 
+during the design phase in the area of data conversion, security, infrastructure, 
+portal solutions, disaster recovery and analysis of the impact of the enterprise 
+resource planning on the network, as well as the establishment of the technical 
+infrastructure for the production and development environments (see A/65/385, 
+paras. 31 and 105). Other activities accomplished in collaboration with the Office of 
+Information and Communications Technology, the Department of Field Support, the 
+Department of Management, the Office of Human Resources Management and other 
+offices include the review of existing systems to be replaced by the enterprise 
+resource planning system, formulation of the policy on electronic signatures and 
+integration of the enterprise resource planning project team with other enterprise 
+systems (ibid., paras. 31, 43, 68, 69 and 71). 
+
+42. In this connection, the Advisory Committee notes from the organizational 
+structure of the project set out in annex IV of the progress report, that the enterprise 
+resource planning Technology Management team comprises 18 positions/posts (1 D-1, 
+5 P-5, 12 P-4). In his initial proposal for one D-1 and one P-5 position 
+(A/62/510/Rev.1, para. 62), the Secretary-General indicated that the functions of the 
+two positions included the definition of the enterprise-wide ICT architecture; setting 
+technical standards; projecting enterprise-wide enterprise resource planning needs; 
+evaluating the suitability of infrastructure operations; identifying gaps between 
+
+
+
+A/65/576  
+ 
+
+10-64111 14 
+ 
+
+existing infrastructure and enterprise resource planning requirements; and providing 
+expertise and guidance during the implementation phase. Subsequently, the 
+following additional 16 temporary posts were proposed: four P-5 Architect posts for 
+solutions, infrastructure, business intelligence/data conversion and user interface, 
+and portal and mobile technology; five P-4 Technical Architects to serve as liaison 
+for each functional area; and seven P-4 Architect posts for master data management, 
+security, reporting, portal solutions and workflow, mobile technology and forms, 
+and Web 2.0 solution (A/64/380, para. 96). These proposals were approved by the 
+General Assembly in its resolutions 63/252 and 64/243. 
+
+43. The Committee notes that the mandate of the Office of Information and 
+Communications Technology includes: providing central ICT leadership for the 
+Organization; setting Organization-wide standards and policies; planning and 
+coordinating Secretariat-wide activities; and providing enterprise systems and 
+infrastructure. The Advisory Committee stresses the need to ensure that the 
+technical standards of the enterprise resource planning project and those of the 
+Office of Information and Communications Technology are aligned. It also 
+considers that there may be a need to review and clarify the respective roles 
+and responsibilities of the enterprise resource planning Technical Management 
+Team and the Office of Information and Communications Technology, as well 
+as the Information and Communications Technology Division of the 
+Department of Field Support in areas such as the establishment of the technical 
+infrastructure of the enterprise resource planning system, the establishment of 
+the production and development environments for the enterprise resource 
+planning system, the decommissioning of applications and data conversion, 
+with a view to ensuring that there is no duplication of efforts or overlap. The 
+Committee reiterates the need also to involve the personnel responsible for the 
+development/maintenance of the systems to be replaced by or to be interfaced 
+with the enterprise resource planning system. The Committee recommends that 
+the Secretary-General be requested to provide details on the technical activities 
+to be accomplished during all phases of the enterprise resource planning 
+project and the respective roles of the enterprise resource planning project 
+team and the Office of Information and Communications Technology, as well as 
+those of the Information and Communications Technology Division of the 
+Department of Field Support, offices away from Headquarters and field 
+missions. 
+ 
+
+  Conclusion 
+ 
+
+44. The actions to be taken by the General Assembly are set out in paragraph 
+113 of the Secretary-General’s report. The Committee recommends that the 
+General Assembly approve the Secretary-General’s proposals. 
+ 
+ 
+
+ III. Status of implementation of the information and 
+communications technology strategy for the 
+United Nations Secretariat 
+ 
+ 
+
+45. The Secretary-General’s report contained in document A/65/491 has been 
+submitted in response to General Assembly resolution 63/262, in which the General 
+Assembly decided to establish the Office of Information and Communications 
+
+
+
+ A/65/576
+ 
+
+15 10-64111 
+ 
+
+Technology, and requested the Secretary-General to report to the General Assembly 
+at the main part of its sixty-fifth session on his information and communications 
+technology strategy and on the efficiency gains or benefits expected from its 
+implementation. The Assembly also requested the Secretary-General to report on a 
+comprehensive inventory of information and communications technology capacities 
+across the Secretariat and to provide an update on the governance and management 
+arrangements for the Office. The report also responds to the request of the Assembly 
+in resolution 63/269 that the Secretary-General submit to it no later than at the main 
+part of its sixty-fifth session a unified approach to disaster recovery and business 
+continuity. 
+
+46. Background information on the information and communications technology 
+strategy for the United Nations Secretariat and the major milestones in its 
+implementation is provided in the summary and paragraphs 1 to 11 of the Secretary-
+General’s report.  
+
+47. Recognizing the need to address the state of fragmentation of the information 
+and communications technology (ICT) environment, the General Assembly decided 
+in resolution 60/283 to establish the post of Chief Information Technology Officer 
+to define and implement a comprehensive information management strategy for the 
+entire Secretariat. In 2007, the Secretary-General proposed an ICT strategy for the 
+Secretariat which would serve as the Organization-wide agreement on the direction 
+of ICT over the next three to five years (see A/62/793 and Corr.1). He also proposed 
+the establishment of an independent Office of Information and Communications 
+Technology, headed by the Chief Information Technology Officer. The Office would 
+provide central ICT leadership for the Organization, set Organization-wide 
+standards and policies, plan and coordinate Secretariat-wide ICT activities and 
+provide enterprise systems and infrastructure for the entire organization (see 
+A/62/793/Add.1). In its related report (A/63/487), the Advisory Committee broadly 
+agreed with the approach proposed by the Secretary-General, noting that his plan for 
+the management of ICT activities in the Secretariat was based on strong central 
+leadership for the establishment and implementation of Organization-wide ICT 
+standards and activities, along with a decentralized approach to meet the specific 
+programmatic and operational requirements of all departments.  
+
+48. By its resolution 63/262, the General Assembly endorsed the conclusions of 
+the Advisory Committee as set out in its report (A/63/487). The Assembly 
+emphasized the importance of strong, central leadership for the establishment and 
+implementation of Organization-wide information and communications technology 
+standards and activities in order to ensure efficient utilization of resources, 
+modernization of information systems and improvement in the information and 
+communications technology services available to the United Nations. The Assembly 
+also recognized that the successful integration of central information and 
+communications technology functions across the Secretariat was essential to 
+achieving coherence and coordination in the work of the Organization and between 
+the Secretariat and the funds, programmes and specialized agencies. 
+ 
+ 
+
+ A. Status of the implementation of the ICT strategy 
+ 
+ 
+
+49. In section II of his report (A/65/491) the Secretary-General provides 
+information on the status of the implementation of the ICT strategy, including an 
+
+
+
+A/65/576  
+ 
+
+10-64111 16 
+ 
+
+update on the activities undertaken and progress made in relation to the ICT 
+management framework and the three strategic programmes of the Office of 
+Information and Communications Technology, namely for knowledge management, 
+resource management and infrastructure management. The Secretary-General also 
+presents a unified approach to disaster recovery and business continuity, and reports 
+on United Nations system-wide harmonization efforts.  
+
+50. An overview of the ICT strategy is provided in paragraphs 12 to 18 of the 
+Secretary-General’s report. It includes three components: (a) a vision for the future 
+setting out the main goals of the ICT strategy; (b) a management framework for 
+addressing the five priority areas that need to be significantly improved through the 
+ICT strategy, namely ICT management structure, strategic programme delivery, 
+service and performance management, global architecture and standards and 
+financial control and reporting; and (c) the critical ICT needs, namely, knowledge 
+management, resource management and infrastructure management, that must be 
+addressed in a coherent manner at the organizational level to ensure that they 
+effectively support substantive activities across the Secretariat,  
+ 
+
+  Status of the ICT management framework 
+ 
+
+51. Table 1 of the Secretary-General’s report provides a summary of the key 
+activities accomplished during 2009 and 2010 and planned for 2011 and 2013 in 
+relation to the ICT management framework. Key accomplishments include the 
+following: 
+ 
+
+ (a) Establishment of OICT 
+ 
+
+ The Office of Information and Communications Technology was established 
+with effect from 1 January 2009 as an independent unit, reporting directly to the 
+Executive Office of the Secretary-General, through the integration of existing 
+resources from the Information Technology Services Division of the Department of 
+Management and part of the Information and Communications Technology Division 
+of the Department of Field Support, based on a budget- and staff-neutral approach. 
+The Secretary-General indicates that clear lines of authority, accountability and the 
+division of labour between the Office and the Department of Field Support were 
+established (A/65/491, para. 21). 
+ 
+
+ (b) Establishment of management oversight committees and advisory bodies 
+ 
+
+ A comprehensive ICT management framework was established in April 2009, 
+including the ICT Executive Committee, an ICT advisory group, ICT programme 
+working groups and local ICT committees, as well as an ICT management 
+coordination group consisting of heads and senior staff of ICT units in departments 
+and offices across the Secretariat. The Secretary-General states that simpler and 
+more operationally effective structures than those proposed in document A/62/793 
+have been established, as recommended by the General Assembly in its resolution 
+63/262 (ibid., para. 24). 
+ 
+
+ (c) Conduct of structural reviews of all ICT units 
+ 
+
+ A structural review of all the ICT units across the Organization was completed 
+(ibid., para. 26; see also section B below). 
+ 
+
+
+
+ A/65/576
+ 
+
+17 10-64111 
+ 
+
+ (d) Formulation of the ICT performance management framework 
+ 
+
+ Measurement standards, benchmarks and reporting systems to track the 
+performance of ICT units were developed, and performance management baseline 
+and benchmarks were established, with a view to enhancing the delivery of services 
+and improving the management of ICT resources (ibid., paras. 27-30). 
+ 
+
+ (e) Development of the ICT budgetary and portfolio management framework 
+ 
+
+ A project management framework was established to improve the alignment of 
+ICT initiatives with the Organization’s operational objectives. Other accomplishments 
+include the technical review of ICT budgets before their submission to the 
+Controller; a more rigorous review of ICT investment proposals; and, in conjunction 
+with the Office of Programme Planning, Budget and Accounts, adjustment of certain 
+budgetary procedures to provide further clarity regarding ICT budgets and 
+expenditure; as well as the development of an enterprise tool to support the 
+framework (ibid., paras. 31-33). 
+ 
+
+ (f) Establishment of strategic oversight of ICT activities at the United Nations Logistics 
+Base at Brindisi, Italy 
+ 
+
+ Improved service levels and cost-sharing arrangements for sharing ICT 
+facilities at the United Nations Logistics Base were established, in cooperation with 
+the Department of Field Support (ibid., para. 36). 
+ 
+
+ (g) Global architecture and standards 
+ 
+
+ Information security requirements were integrated into the ICT project 
+management framework (ibid., paras. 38-39). 
+ 
+
+ (h) ICT “fast forward programme”  
+ 
+
+ The ICT “fast forward programme” was launched by the Office of Information 
+and Communications Technology in late 2008. The third round initiatives have been 
+selected and the projects are currently under way. Initiatives that have been 
+implemented to date include “myUNcalls” for online call management, iSeek global 
+Intranet access to United Nations offices in remote locations, a Member States 
+portal (deleGATE) and an ICT sustainability initiative (ibid., para. 40). 
+
+52. Concerning the Office of Information and Communications Technology, the 
+Secretary-General states that the placement of the Office in the structure of the 
+Organization should remain as it is, since this arrangement has worked well. The 
+Secretary-General also indicates that existing resources have been redeployed to the 
+Strategic Management Service to enable the Office to initiate the strategic, cross-
+cutting activities of its new mandate, because resources for that purpose have not 
+been fully provided (ibid., paras. 23 and 201; see also para. 100 below). 
+
+53. Given that the placement of the Office in the structure of the Organization 
+is still relatively new, the Advisory Committee recommends that the issue be 
+kept under review and that the Secretary-General be requested to report on the 
+effectiveness of the organizational arrangements in the context of the proposed 
+programme budget for 2014-2015. 
+ 
+
+
+
+A/65/576  
+ 
+
+10-64111 18 
+ 
+
+  Strategic programmes  
+ 
+
+54. In paragraphs 41 to 59 of his report the Secretary-General provides an update 
+on the activities undertaken in relation to the knowledge management, resource 
+management and infrastructure management programmes. Tables 2, 3 and 4 
+summarize the activities of each of the three programmes, respectively, including 
+their goals and objectives, the key activities accomplished during 2009 and 2010 
+and the tasks planned for the period 2011-2013. In this connection, the Advisory 
+Committee recalls that, in paragraph 126 of its resolution 64/243, the General 
+Assembly decided not to appropriate resources for the enterprise content 
+management and customer relationship management systems, and requested the 
+Secretary-General to submit a fully justified proposal for post and non-post 
+resources in the context of the proposed programme budget for the biennium 2012-
+2013. 
+
+55. With regard to the knowledge management programme (A/65/491, paras. 42-
+46), the Secretary-General provides an update on the key activities and 
+accomplishments of the Knowledge Management Service of the Office of Information 
+and Communications Technology as well as those of other Secretariat departments/ 
+offices. He indicates that the Working Group on Knowledge Management was 
+established, with representation from all departments/offices, to develop the 
+Organization’s knowledge management direction, policies, standards, guidelines and 
+procedures. The Advisory Committee notes that the Working Group has adopted a 
+definition of core metadata and is establishing a common content management 
+platform for the Organization. The Committee notes that other activities/ 
+accomplishments in the knowledge management area include: the formulation of 
+guidelines for the digitization of documents and initiation of the capital master plan 
+digital asset management project for the Department of Public Information, 
+Department of General Assembly and Conference Management and the Office of 
+Central Support Services of the Department of Management; the adoption of a 
+standard collaboration tool (eRoom); the launching of a portal for Member States 
+(deleGATE); the implementation of a web platform for uniform access to statistical 
+data (UNdata); the adoption of a standard document management tool; and the 
+adoption of a standard enterprise portal tool that was piloted in selected field 
+missions. 
+
+56. With regard to the resource management programme (ibid., paras. 47-51), the 
+Secretary-General indicates that the Office of Information and Communications 
+Technology continued to work closely with other departments and offices that are 
+involved in resource management programme efforts throughout the Secretariat, 
+including the talent management (Inspira) and enterprise resource planning (Umoja) 
+projects. In particular, the Office and other ICT entities Secretariat-wide are 
+collaborating with the Umoja team in its ongoing efforts to catalogue and analyse 
+existing systems to be replaced by the enterprise resource planning system, which 
+complement the ICT structural review initiative. Other key activities/ 
+accomplishments in relation to resource management include: the adoption and 
+deployment of a tool for enterprise portfolio management; the implementation of the 
+first phases of the customer relationship management (iNeed) and enterprise identity 
+management projects; and progress in the implementation of a comprehensive 
+conference and meetings management system by the Department for General 
+Assembly and Conference Management.  
+
+
+
+ A/65/576
+ 
+
+19 10-64111 
+ 
+
+57. In the area of infrastructure management (ibid., paras. 52-59), the Secretary-
+General indicates that much of the focus in 2009 and 2010 was on activities related 
+to the capital master plan project at Headquarters, including overseeing 
+implementation of new ICT infrastructure in four swing space buildings and three 
+additional buildings, as well as the physical relocation of over 6,000 staff. In 
+addition, the Information Management Working Group was formalized and a 
+business case for the globalization of service desks was developed in the context of 
+the ICT structural review. The Secretary-General also reports on progress made on 
+other projects including: replacement of the conventional telephone system with 
+Internet protocol telephony; “mobile office” for remote access to United Nations 
+systems; disaster recovery and business continuity support; and implementation of a 
+high-speed network at Headquarters. 
+
+58. The Advisory Committee notes the numerous activities undertaken and 
+the progress being made under the three strategic programmes. The Committee 
+appreciates the presentation of the information in the summary tables, which 
+provide a concise and comprehensive overview of the programmes and their 
+activities, and establish a clear baseline from which progress can be assessed in 
+future reports. With regard to activities planned for the biennium 2012-2013, 
+the Committee expects the Secretary-General to submit fully justified proposals 
+for enterprise content management and customer relationship management in 
+the context of the proposed programme budget for the biennium 2012-2013, as 
+requested by the General Assembly in paragraph 126 of its resolution 64/243. 
+ 
+
+  Unified ICT disaster recovery plan and business continuity approach 
+ 
+
+59. The Secretary-General presents a unified ICT disaster recovery plan and 
+business continuity approach in accordance with General Assembly resolutions 
+63/262, section IV, and 63/269 (A/65/491, paras. 60-79). Background information 
+on the comprehensive emergency management framework for crisis preparedness 
+and response is provided in paragraphs 60 to 62 of the Secretary-General’s report. 
+ICT disaster recovery planning and business continuity, as well as crisis 
+management and medical emergency planning, will be unified under this 
+framework, ensuring a harmonized response of the Organization to crisis events. 
+The Secretariat is currently reviewing procedures to be implemented in this regard 
+which will be submitted in a separate report for the consideration of the General 
+Assembly. The Advisory Committee requested additional information on the 
+ongoing activities undertaken by the Department of Field Support to streamline and 
+consolidate data centres in field missions, which is contained in annex II to the 
+present report. 
+
+60. The Secretary-General also provides information on the disaster recovery 
+planning and business continuity measures taken at Headquarters in the context of 
+the capital master plan, in particular the migration of the primary data centre from 
+the Secretariat Building to the North Lawn Building and the installation of the new 
+secondary data centre facility located in Piscataway, New Jersey.  
+
+61. The Secretary-General indicates that, at present, almost every United Nations 
+duty station operates a data centre equipped in proportion to its needs and that 
+significant expenditures are directed to providing ICT support for disaster recovery 
+planning and business continuity operations. The new approach for data centres is 
+based on the proposed establishment of two enterprise data centres, one at the 
+
+
+
+A/65/576  
+ 
+
+10-64111 20 
+ 
+
+United Nations Logistics Base at Brindisi, Italy, and the other at the United Nations 
+Support Base at Valencia, Spain. Both centres would be managed and operated by 
+the Department of Field Support under the strategic oversight of the Office of 
+Information and Communications Technology, including a supporting cost-sharing 
+arrangement. Under this approach, enterprise data centres would host systems used 
+across all Secretariat duty stations that may be accessed by users regardless of their 
+location. Data centres at duty stations would host systems that cannot be hosted 
+elsewhere and which need to be accessed only by local users. Duty station data 
+centres would eventually be downsized, in line with the scale of location-specific 
+needs. In his report, the Secretary-General also sets out the rationale for this 
+approach and its guiding principles. Figure III depicts the ICT disaster recovery plan 
+and business continuity architecture. 
+
+62. The Secretary-General indicates that a significant amount of work is still 
+required before implementation of the unified ICT disaster recovery plan and 
+business continuity approach can commence. An important activity in this regard is 
+the assessment of the intrinsic and time-sensitive value of all the information 
+systems to be covered, which determines the level and costs of the required 
+protection against failure. The Advisory Committee notes that an inventory of 
+systems has been established by the Business Continuity Management Unit of the 
+Department of Management. The next steps to be taken include the conduct of a 
+business impact analysis by the Office of Information and Communications 
+Technology and the Business Continuity Management Unit to identify and prioritize 
+critical systems, and an assessment of the costs associated with the preservation and 
+recovery of each system. 
+
+63. The Advisory Committee enquired as to the cost implications of the envisaged 
+use of the United Nations Service Base at Valencia as a secondary enterprise data 
+centre. It was informed that the facility is already fitted to operate as a 
+communications hub and to host computing and storage equipment, at no cost to the 
+Organization. The additional resource requirements related to the enterprise data 
+centre concern the costs of servers and storage equipment for the enterprise resource 
+planning solution, which would have to be procured regardless of the location in 
+which the enterprise data centre is established. 
+ 
+
+  United Nations system-wide harmonization efforts 
+ 
+
+64. In paragraphs 80 and 81 of his report the Secretary-General discusses system-
+wide harmonization efforts on ICT matters currently being undertaken through 
+various inter-agency mechanisms, including the ICT Network of the High-Level 
+Committee on Management of the United Nations System Chief Executives Board 
+for Coordination. This coordination is intended to promote the development of 
+common ICT approaches and solutions for the benefit of the entire United Nations 
+system (see also para. 40 above). The Advisory Committee notes the following 
+initiatives cited by the Secretary-General: (a) the development of a crisis 
+information management strategy, aimed at providing mechanisms to integrate and 
+share information across the United Nations system, with a view to enhancing 
+information management capacity in the identification, prevention and mitigation 
+of, response to and recovery from all types of crises; (b) the United Nations spatial 
+data infrastructure concept, aimed at promoting the use of spatial data in an efficient 
+manner across the United Nations system; (c) the development of common standards 
+and costing information for ICT services and investments; (d) the sharing of 
+
+
+
+ A/65/576
+ 
+
+21 10-64111 
+ 
+
+expertise and practice in the area of enterprise resource planning, with to view to 
+harmonizing business processes and achieving lower software costs; and (e) improved 
+coordination in the area of data communications, aimed at achieving savings and 
+increased efficiency in the provision of data communication services. The Advisory 
+Committee welcomes the efforts under way and encourages the Secretary-
+General to continue to seek further opportunities for synergies and for the 
+adoption of common standards and solutions across the United Nations system. 
+ 
+ 
+
+ B. Structural review 
+ 
+ 
+
+65. In his report on the ICT strategy (A/62/793 and Corr.1), the Secretary-General 
+proposed that structural reviews of all ICT units throughout the Organization would 
+be conducted, with a view to assessing the current state of ICT and rationalizing and 
+harmonizing ICT operations and structures. He was requested by the General 
+Assembly in its resolution 63/262 to present a comprehensive inventory of ICT 
+capacities across the Secretariat, including dedicated and part-time personnel (see 
+also para. 45 above). Section III of the Secretary-General’s current report 
+(A/65/491) sets out information on the conduct and findings of the Secretariat-wide 
+structural review (ibid., paras. 82-103). It also presents the Secretary-General’s 
+recommendations and proposals for addressing those findings in the form of four 
+structural review projects (ibid., paras. 104-240). 
+ 
+
+  Review process 
+ 
+
+66. The Secretary-General presents background information on and details of the 
+review process in paragraphs 82 to 92 of his report. As indicated, a preliminary 
+survey was conducted in late 2008 aimed at understanding ICT staffing levels, 
+functions and workload in approximately 60 departments, offices and field missions 
+throughout the Organization. Information about ICT spending, computers, data 
+centres and key workload indicators, as well as organizational structure and posts 
+was captured in the survey. In addition, the ICT budget allocations were also 
+requested and reviewed. The Secretary-General indicates that an in-depth analysis of 
+the survey and other available data allowed identification of areas for improvement, 
+primarily concerning the ICT organizational design and infrastructure operations. Key 
+findings pointed to the variation in ICT job titles and inconsistency among ICT units, 
+and the absence of a clear definition of the boundaries between ICT and non-ICT 
+jobs, resulting in a lack of visibility with regard to the allocation of resources to ICT 
+across the Organization as well as with regard to the totality of ICT expenditure. 
+
+67. A more comprehensive assessment of over 70 ICT units was conducted in 
+2010 to update previously gathered survey data and collect additional data on 
+workload indicators. In addition, a new global ICT staffing model was developed 
+and used in the 2010 survey to more precisely understand and quantify the range of 
+ICT functions that were being performed in various duty stations across the 
+Organization. The survey data were compared with public sector industry and 
+Government sector benchmarks, and were also analysed by subject matter experts 
+from ICT units across the Organization in order to identify improvement 
+opportunities. The Secretary-General further indicates that consultations were also 
+held with the Office of Programme Planning, Budget and Accounts and the Office of 
+Human Resources Management to validate data and review project proposals, which 
+
+
+
+A/65/576  
+ 
+
+10-64111 22 
+ 
+
+were subsequently reviewed by ICT chiefs across the Organization, the ICT 
+Advisory Group, and the ICT Executive Committee. 
+
+68. Upon enquiry, the Advisory Committee was provided with additional 
+information on the methodology used for the structural review process as well as for 
+deriving ICT budgets and obtaining staff inventory. This additional information is 
+set out in annex III below. The Secretary-General indicates that current accounting 
+and human resources management systems do not provide for itemization of ICT 
+costs, consistent definitions of ICT functions or clear identification of personnel 
+performing ICT tasks. The survey data were therefore compiled manually to derive 
+information on ICT expenditures and staff performing ICT functions. As a result the 
+review process was extremely labour-intensive and cannot be reproduced on a 
+regular basis. 
+ 
+
+  Main findings 
+ 
+
+69. Details and analysis concerning the main findings of the survey are presented 
+in paragraphs 93 to 103 of the Secretary-General’s report, along with some key ICT 
+statistics (A/65/491, table 5). The Secretary-General indicates that the key findings 
+of the review are as follows:  
+
+ (a) Annual ICT expenditure of the United Nations is estimated at 
+$774 million, including from regular budget, peacekeeping and support account and 
+extrabudgetary funding sources. A breakdown of the overall amount by 
+office/department and funding source, along with details of the data sources used for 
+deriving the data, is provided in annex I to the Secretary-General’s report. The 
+Secretary-General indicates that the total is established on the basis of proposed 
+rather than approved budgets, which do not always provide the necessary level of 
+detail (ibid., paras. 93-94). 
+
+ (b) The total ICT staff count is 4,219, including international staff, 
+volunteers and contractual staff. A breakdown of staff by department/office and 
+grade level is provided in annex II to the Secretary-General’s report. Details of the 
+sources used for deriving the data, are provided in the footnotes to annex I to the 
+Secretary-General’s report. The total does not include personnel who perform ICT 
+functions but are not a part of a formal ICT unit or do not have an ICT job title. The 
+Secretary-General has also identified 173 non-standard ICT job titles. He indicates 
+that ICT boundaries are not well defined and that it is not clear what constitutes an 
+ICT activity or role. Furthermore, current ICT career paths and job descriptions do 
+not reflect evolving ICT demands and industry best practices (ibid., para. 95; see 
+also para. 180 (a)). 
+
+ (c) Overall ICT spending represents approximately 5.4 per cent of the annual 
+United Nations budget, which is in the range of ICT spending of large Government 
+institutions. However, the Secretary-General indicates that comparisons at the level 
+of the three main categories of ICT spending (solution delivery, infrastructure, and 
+management and administration) show that the Organization is more focused on 
+infrastructure and operations (79 per cent of ICT spending) than on solution delivery 
+(14 per cent). In this connection, the Committee notes the specificities of the United 
+Nations environment, given that a significant portion of ICT resources in field 
+missions are devoted to providing basic infrastructure and communications, which is 
+in part due to the difficult environments in which many missions must operate, as 
+well as the very nature of the support they provide to military and police personnel. 
+
+
+
+ A/65/576
+ 
+
+23 10-64111 
+ 
+
+Notwithstanding the above, the Secretary-General remains of the view that the share 
+of resources devoted to solution delivery is low (ibid., paras. 96-100). 
+
+ (d) There are currently 131 ICT service desks, supporting multiple variable 
+workstation environments as well as providing telecommunications support (ibid., 
+para. 101). 
+
+ (e) There are some 211 server rooms/data centres, supporting multiple server 
+environments, over 4,500 physical servers and over 83,000 desktop computers and 
+laptops (ibid., para. 101). 
+
+ (f) The existing budget processes and systems do not allow tracking of ICT 
+costs on a regular basis. In this connection the Secretary-General highlights the need 
+for a consistent and streamlined global ICT chart of accounts and a supporting 
+financial system with improved capabilities (ibid., para. 94). 
+ 
+
+  Recommendations of the Secretary-General 
+ 
+
+70. From the findings of the structural review, the Secretary-General concludes 
+that the ICT environment and processes remain decentralized, fragmented and 
+non-standardized, driving up the costs of operations and preventing the Organization 
+from realizing economies of scale. He emphasizes that a lack of resources to 
+perform strategic, “cross-cutting” functions has limited the ability of the Office of 
+Information and Communications Technology to minimize and reverse the effects of 
+organizational ICT fragmentation and duplication. To improve this situation, the 
+Secretary-General affirms that the Secretariat must invest in one-time projects to 
+standardize and streamline ICT environments across the Organization, in order to 
+increase the efficiency of routine ICT activities and to allow a larger proportion of 
+resources to be dedicated to the development of applications in support of the 
+Organization’s programmatic activities. Key findings and recommendations 
+emanating from the structural review are summarized in table 6 of the Secretary-
+General’s report. In paragraphs 116 to 118 the Secretary-General provides a 
+summary of the structural review approach. A graphical presentation of the ICT 
+structural review approach is provided in figure IX of the Secretary-General’s 
+report. It shows an evolution of focus from the standardization and streamlining of 
+the ICT environment to the optimization of resources performing operational 
+activities, and to an increase in the ICT resources performing strategic activities.  
+
+71. The Secretary-General has identified four projects to address the issues 
+identified in the structural review, as follows:  
+
+ (a) Operational initiatives designed to increase infrastructure efficiency and 
+customer service levels: structural review project 1 (“globalize service desks”) and 
+structural review project 2 (“streamline data centres”);  
+
+ (b) Strategic initiatives designed to optimize global staffing and ensure that 
+ICT personnel are placed where they are most needed, as well as to enhance the 
+ability of the Office of Information and Communications Technology to deliver 
+enterprise solutions more effectively: structural review project 3 (“rationalize ICT 
+organization”), and structural review project 4 (“strengthen the Office of 
+Information and Communications Technology”).  
+
+72. For each project, the Secretary-General sets out: (a) the relevant details on the 
+findings of the structural review; (b) the project objectives; (c) the principles which 
+
+
+
+A/65/576  
+ 
+
+10-64111 24 
+ 
+
+will guide project implementation; (d) the expected qualitative and quantitative 
+benefits; (e) the project phases and schedule; and (f) the resource requirements by 
+project phase. The key features of each project are summarized in the paragraphs 
+below. 
+ 
+
+ (a) Structural review project 1: Globalize service desk 
+ 
+
+73. The Secretary-General’s proposals for this project are contained in paragraphs 
+121 to 150 of his report. His findings indicate considerable inefficiencies in the 
+current environment due to the lack of modern tools, the use of disparate 
+technologies and a lack of integration. As noted above, there are currently 
+131 service desks. They are staffed by 835 personnel, at an estimated annual cost of 
+$135 million Organization-wide. Upon enquiry, the Advisory Committee was 
+provided with a list of the existing service desks, which is contained in annex IV to 
+the present report. The Secretary-General proposes to reduce the number of service 
+desks and provide 24/7 service, with the introduction of automated and standardized 
+service desk technologies and self-service tools for end-users. The project would be 
+implemented in four phases starting in 2011 and continuing until 2015, comprising 
+an initial planning and design phase, a second phase for the consolidation of 
+Headquarters service desks, followed by consolidation of desks in offices away from 
+Headquarters and field missions. The overall cost of the project is estimated at 
+$58 million. As to the expected benefits, the Secretary-General estimates that 
+requirements for ICT personnel, including staff and contractual labour, would be 
+reduced by 363 to a total of 491 individuals, and expects potential recurring annual 
+benefits in the range of $35 to $47 million (A/65/491, para. 133). A breakdown of 
+the benefits in terms of staff labour, contracted labour and equipment is provided in 
+table 8 of the report. 
+
+74. Activities envisaged during the first phase of the project, which would extend 
+from 1 January 2011 to mid-2012, include the evaluation, selection and piloting of 
+the necessary tools. Resource requirements for the activities to be accomplished in 
+2011 are estimated at $1,614,900 and would cover the evaluation and selection of 
+the required tools (ibid., figure X; table 17). 
+
+75. Upon enquiry, the Advisory Committee was provided with additional 
+information on the opportunities for achieving efficiency gains by consolidating 
+service desks in field missions, which is contained in annex II below. The 
+Committee notes that the Department of Field Support has established a centralized 
+service desk for multi-mission applications such as Galileo and Mercury but retains 
+service desks locally in field missions to support local area networks. The 
+Department indicates that this hybrid approach provides the requisite level of 
+flexibility necessary in field missions. 
+ 
+
+ (b) Structural review project 2: Streamline data centres  
+ 
+
+76. Details of the Secretary-General’s proposals for project 2 are provided in 
+paragraphs 151 to 179 of the report. He indicates that the findings of the structural 
+review show that there are currently 34 data centres and 177 server rooms across the 
+Secretariat, housing over 4,500 servers and serviced by some 552 personnel at an 
+estimated annual cost of $104 million. Upon enquiry, the Advisory Committee was 
+provided with a list of data centres and server rooms. It is contained in annex V to 
+the present report. The streamlining of the data centres is also discussed in 
+
+
+
+ A/65/576
+ 
+
+25 10-64111 
+ 
+
+paragraphs 59 to 63 above in the context of the unified ICT disaster recovery plan 
+and business continuity approach. Annex II provides details of the ongoing efforts 
+of the Department of Field Support to streamline and consolidate data centres in 
+field missions. 
+
+77. In paragraph 151 of his report, the Secretary-General provides figures showing 
+a high level of growth in the number of servers, and emphasizes the need to contain 
+the growth of computing facilities and achieve a rational number of data centres 
+worldwide. He proposes the consolidation of data centres, server rooms and servers 
+to a minimum number of enterprise and duty station data centres, and the provision 
+of 24/7 service. In addition, the management of servers is to be automated and 
+standardized, and eventually outsourced. The Secretary-General emphasizes the 
+importance of consistency across the Organization and of ensuring that individual 
+departments are not allowed to opt out of the common infrastructure.  
+
+78. The Secretary-General indicates that this project is to be implemented from 
+2011 to 2015 in four phases, namely: (i) planning and design (2011-2012); 
+(ii) continuation of the ongoing standardization of server and storage management 
+(2011-2013); (iii) consolidation of local server rooms, including an initial pilot 
+phase (2013-2014); and (iv) consolidation of duty station data centres (2014-2015). 
+The overall cost of the project is estimated at $56 million, including resource 
+requirements of $1.9 million in 2011 for the initial activities of the planning and 
+design phase (A/65/491, fig. XI and table 11). 
+
+79. With regard to the benefits of streamlining data centres, the Secretary-General 
+estimates that requirements for ICT personnel, including staff and contractual 
+labour, would be reduced by approximately 163 to a total of 245 individuals and he 
+expects potential recurring annual benefits in the range of $36.4 to $54.6 million 
+(ibid., para. 161). A breakdown of benefits in terms of staff, contractual labour and 
+equipment is provided in table 10 of the Secretary-General’s report. 
+ 
+
+ (c) Structural review project 3: Rationalize ICT organization  
+ 
+
+80. The Secretary-General’s proposals on project 3 are presented in paragraphs 
+180 to 195 of his report. He indicates that the findings of the structural review show 
+that there are over 4,200 dedicated ICT personnel in the Organization, with over 
+170 disparate, unofficial job titles. In addition, many modern ICT roles and career 
+paths, such as project manager, are not reflected in the current job titles. The 
+difficulties experienced in assessing ICT staff and functions because of the lack of 
+standardized job functions are highlighted in paragraph 69 above and in annex III 
+below. The Secretary-General also states that there is no Organization-wide 
+understanding of what constitutes an ICT activity. 
+
+81. According to the Secretary-General’s report, project 3 is intended to establish 
+and define the boundaries of ICT functions, and to specify what constitutes an ICT 
+role and where a given ICT function should be performed. A global staffing model 
+and global ICT career development process are to be developed and implemented. 
+This will allow a review of the ICT units and the formulation of recommendations 
+for the implementation of organizational changes in the ICT management structure, 
+including the consolidation of multiple ICT units within the same department (ibid., 
+para. 181 (e)). 
+
+
+
+A/65/576  
+ 
+
+10-64111 26 
+ 
+
+82. The Secretary-General indicates that it is proposed to carry out the project in 
+five parallel streams with the majority of the activities taking place in 2011 and 
+2012. The total cost of the project is estimated at $4.6 million, including 
+$1.5 million for 2011.  
+
+83. The Secretary-General indicates that the expected benefits include: improved 
+transparency of ICT costs; workforce planning and accountability; improved 
+professionalism and management of talent; improved staff mobility and reduced 
+costs of operations; and avoidance of costs due to redistribution of ICT resources 
+across the Organization to the units where they are needed. 
+
+84. In this connection, the Advisory Committee notes that it will be necessary to 
+plan for the effective redeployment of staff who may be released as a result of the 
+decommissioning of hundreds of ICT systems in the context of the implementation 
+of the enterprise resource planning project. In section II above, the Advisory 
+Committee expresses the view that the planning of the decommissioning activities 
+should be coordinated by the Office of Information and Communications Technology, 
+in the context of the projects arising from the outcome of the structural review of 
+ICT capacities. The Committee notes from the Secretary-General’s report that one of 
+the principles guiding the project is that staff redeployments will be on a voluntary 
+basis. Charts showing the distribution of the projected applications to be retired as a 
+consequence of the implementation of the enterprise resource planning project in the 
+resource management and knowledge management areas are provided in annex VI 
+below. 
+
+85. The Advisory Committee further notes that the Office of Information and 
+Communications Technology will work with the Office of Human Resources 
+Management to implement a comprehensive global ICT career development path 
+that facilitates mobility within and across the new ICT career streams. The 
+Committee encourages the Secretary-General to pursue such collaborative efforts 
+and to take into account prior studies, such as the mission benchmarking analysis 
+referred to in the Secretary-General’s overview of the financing of the United 
+Nations peacekeeping operations (A/61/786, paras. 123-140).  
+ 
+
+ (d) Structural review project 4: Strengthen the Office of Information and 
+Communications Technology 
+ 
+
+86. The findings of the structural review in relation to project 4 are presented in 
+paragraphs 196 to 203 of the Secretary-General’s report. The Office has a total 
+capacity of 366, comprising 161 staff, 32 general temporary assistance personnel 
+and 173 contractual personnel. The Secretary-General indicates that this staffing 
+level reflects the strength of the Office’s predecessor, the Information Technology 
+Services Division of the Department of Management, which was primarily 
+responsible for providing core communications, servers and applications to United 
+Nations Headquarters, and wide area network support and limited application and 
+policy support to other entities within the Secretariat. He states that this workload 
+has significantly increased in recent years as demand for ICT services has grown 
+and that, furthermore, the mandate of the Office of Information and Communications 
+Technology is broader than that of the former Information Technology Services 
+Division. He points to a significant resource gap that exists in the Office with 
+respect to cross-cutting functions, such as ICT policy, architecture and standard-
+setting, departmental ICT budget reviews and global portfolio management 
+
+
+
+ A/65/576
+ 
+
+27 10-64111 
+ 
+
+(A/65/491, para. 200). Table 13 of the Secretary-General’s report provides a list of 
+the mandated activities of the Office and related resource levels. Upon enquiry, the 
+Advisory Committee was provided with a more detailed table showing the mandated 
+activities and corresponding staff deployment levels, which is contained in annex VII 
+below.  
+
+87. The Secretary-General indicates that the project is aimed at augmenting ICT 
+resources in high-priority areas where there is currently a significant gap between 
+the mandate and the available resources, including areas such as (i) oversight and 
+coordination, (ii) cross-cutting, Organization-wide ICT management functions, 
+(iii) enterprise application development, in particular knowledge management and 
+field systems, and (iv) global infrastructure oversight, architecture and engineering. 
+
+88. The expected benefits include improved effectiveness in the following areas: 
+change management; strategic planning and management; alignment of business and 
+ICT; increased transparency of ICT capacities; reduced duplication of efforts; and 
+availability of shared infrastructure services. 
+
+89. The Secretary-General proposes to strengthen the capacity of the Office of 
+Information and Communications Technology in two phases, as follows: 
+
+ (a) The first phase includes the establishment of 23 new posts in the Office 
+of Information and Communications Technology for the biennium 2010-2011, the 
+incumbents of which would carry out the highest-priority planning and management 
+of global ICT functions by establishing governance, policies, processes and 
+standards for the entire Secretariat; 
+
+ (b) The second phase includes the establishment of an additional 28 new 
+posts during the biennium 2012-2013, the incumbents of which would carry out 
+functions in the areas of enterprise application development and global 
+infrastructure management and ongoing functions needed to plan and improve the 
+global ICT environment. 
+ 
+
+  Resource requirements 
+ 
+
+90. In paragraphs 241 to 243 of his report, the Secretary-General sets out the 
+resources required for the implementation of the four structural review projects. He 
+indicates that the amounts represent full project and start-up operational costs for 
+the period from 2011 to 2015, broken down by biennium. Tables 17, 18 and 19 of 
+the Secretary-General’s report present a further breakdown of costs by project, 
+funding source and object of expenditure respectively. The Secretary-General is 
+proposing to finance the projects from the regular budget, the support account for 
+peacekeeping operations and extrabudgetary resources, based on the cost-sharing 
+formula for the enterprise resource planning project, in the following percentages: 
+15 per cent from the regular budget, 62 per cent from the support account for 
+peacekeeping operations and 23 per cent from the special accounts for programme 
+support costs. Furthermore, in view of the lifespan of project implementation over a 
+five-year period, the Secretary-General is proposing that a multi-year special 
+account be established to record income and expenditure for the three projects 
+(A/65/491, para. 35). Table 1 below reproduces a summary of the requirements by 
+project and biennium. 
+ 
+
+
+
+A/65/576  
+ 
+
+10-64111 28 
+ 
+
+  Table 1  
+Summary of net resource requirements by project (full project cost at 
+current rates) 
+(Thousands of United States dollars) 
+ 
+
+Project 2010-2011 2012-2013 2014-2015 Total 
+
+Globalize service desk 1 614.9 19 655.0 36 774.8 58 044.7 
+
+Streamline data centres 1 906.2 12 391.3 41 833.3 56 130.8 
+
+Rationalize ICT organization 1 490.5 2 130.0 1 000.0 4 620.5 
+
+ Subtotal 5 011.6 34 176.3 79 608.1 118 796.0 
+
+Strengthen the Office of Information and 
+Communications Technology 3 523.8 16 521.3 1 834.2 21 879.3 
+
+ Total 8 535.4 50 697.6 81 442.3 140 675.3 
+ 
+ 
+
+91. With respect to the Secretary-General’s proposal to establish a multi-year 
+account, the Advisory Committee is of the view that the Secretary-General 
+could keep track of project income and expenditure without having recourse to 
+a multi-year account. Moreover, in the light of its recommendations in 
+paragraphs 101 and 102 below, the Committee sees no need for the 
+establishment of a special multi-year account for the above-mentioned projects. 
+ 
+
+  General comments and observations 
+ 
+
+92. The Advisory Committee welcomes the comprehensive structural review 
+and the presentation of an Organization-wide perspective on ICT resources and 
+the ICT environment. The findings of the structural review provide, for the 
+first time, a sense of the scale of Organization-wide ICT resources and staffing, 
+as well as their functional and geographic distribution across the Organization. 
+The Committee also appreciates the information provided on the methodology 
+used for conducting the structural review. While the results of the review may 
+be imperfect owing to the lack of specific information currently available, the 
+Committee recognizes the efforts made to refine the analysis and make 
+adjustments so as to present as accurate a picture as possible of the ICT 
+environment. The Committee shares the Secretary-General’s view that there is 
+a need for greater transparency concerning the Organization’s ICT capacities 
+in order to improve the effectiveness of the management of ICT resources, and 
+emphasizes the need to strengthen the tools and methods for recording and 
+analysing data on the utilization of ICT resources Organization-wide. The 
+Committee also stresses the need to continue to take into account the 
+specificities of ICT requirements in field missions, in particular their strong 
+focus on ICT communications activities, and to provide a differentiated 
+analysis, if necessary. 
+
+93. The common thread running through the Secretary-General’s presentation 
+is the legacy of fragmented ICT environments across the Organization which 
+have built up over decades as individual offices have responded to their 
+operational requirements under the prevailing organizational arrangements. 
+This fragmentation has led to the proliferation of duplicate, incompatible and 
+outdated systems, a limited ability to share and process information, and 
+
+
+
+ A/65/576
+ 
+
+29 10-64111 
+ 
+
+incomplete coverage of ICT requirements, as well as a lack of transparency as 
+to the level of the Organization’s ICT expenditure and staffing. The recognition 
+of the need to reverse this state of fragmentation was the key rationale for the 
+establishment of a horizontal function for the management of ICT activities at 
+the United Nations, leading to the establishment of the post of Chief Information 
+Technology Officer and a strong, central and independent Office of Information 
+and Communications Technology. The Secretary-General states that the four 
+projects identified constitute some of the key measures that will be required to 
+correct the serious weaknesses in the ICT environment. The Advisory Committee 
+welcomes the Secretary-General’s efforts to analyse the results of the structural 
+review as a whole and to present a set of solutions for addressing some of the 
+root causes of the fragmentation of the ICT environment of the United Nations. 
+
+94. The Advisory Committee notes that the Secretary-General provides details of 
+the rationale, scope and potential qualitative and quantitative benefits, as well as an 
+implementation plan, for each of the four structural review projects. In the 
+Committee’s view, the project proposals provide information that could be used to 
+define benchmarks for assessing progress in the future. Table 2 below provides a 
+summary of the estimated annual recurring quantified benefits for project 1 
+(“globalize service desks”) and project 2 (“streamline data centres”). With regard to 
+the quantified benefits related to staff labour, the Secretary-General states that the 
+excess staff capacity released as a result of efficiency gains can be redirected to 
+higher-value ICT functions or substantive activities (A/65/491, paras. 133 (a) and 
+161 (a)). The Committee points out that it would be up to the General Assembly to 
+decide on the disposal of staff resources released as a result of efficiency gains (see 
+also A/64/7/Add.9, para. 55). 
+ 
+
+  Table 2 
+Estimated annual recurring benefits by project and categorya 
+(Thousands of United States dollars) 
+ 
+
+ Globalize service desks Streamline data centres 
+
+Benefits category Low-range estimate High-range estimate Low-range estimate High-range estimate 
+
+Staff labour 18.7 25.3 5.0 7.5 
+
+Contractual labour 6.6 8.9 14.3 21.4 
+
+Equipment 9.6 13.0 17.1 25.7 
+
+ Total 34.9 47.2 36.4 54.6 
+ 
+
+ a Figures provided by the Office of Information and Communications Technology and 
+reflected in the corrigendum to the Secretary-General’s report (A/65/491/Corr.1). 
+
+ 
+ 
+
+  Implementation approach 
+ 
+
+95. The Advisory Committee notes that the Secretary-General is proposing 
+multiple large projects which are planned to be implemented in phases over a four- 
+to five-year period, with financial implications estimated by the Secretary-General 
+at a total amount of approximately $141 million over the five-year period from 2011 
+to 2015, and one project with a significant staffing increase (structural review 
+project 4 (“strengthen the Office of Information and Communications Technology”)). 
+Furthermore, he is requesting endorsement of the projects with immediate approval 
+
+
+
+A/65/576  
+ 
+
+10-64111 30 
+ 
+
+of their funding over multiple budget cycles and from multiple funding sources. The 
+Committee recognizes that the timing of the Secretary-General’s report is in 
+accordance with the requests of the General Assembly in its resolutions 63/262 
+and 63/269. However, it notes that the Secretary-General’s proposals are being 
+presented in an off-budget year. 
+
+96. The Advisory Committee considers that it would be premature for the 
+General Assembly to take a decision on the overall requirements for the 
+proposed projects for the period from 2011 to 2015, as proposed by the 
+Secretary-General in paragraph 245 (f) of his report. It believes that the 
+totality of resource requirements for ICT should be considered in the context of 
+the proposed programme budget for 2012-2013 and for 2014-2015. In making 
+his proposals, the Secretary-General should indicate how the lessons learned in 
+the early phases of the projects would be absorbed and used to adjust the 
+planning and requirements of subsequent phases.  
+
+97. The Advisory Committee had an exchange of views on these issues with the 
+representatives of the Secretary-General and requested that it be provided with 
+alternatives for a phased and prioritized approach to the implementation of the four 
+structural review projects. It was informed that the Office of Information and 
+Communications Technology had prioritized the four structural review projects as 
+follows:  
+
+ (a) First priority: Structural review project 4 (“strengthen the Office of 
+Information and Communications Technology”)  
+
+     Structural review project 3 (“rationalize ICT 
+organization”) 
+
+ (b) Second priority: Structural review project 1 (“globalize service desks”) 
+
+     Structural review project 2 (“streamline data centres”).  
+
+The Office of Information and Communications Technology stated that structural 
+review project 4 (“strengthen the Office of Information and Communications 
+Technology”) had been assigned first priority as it was foundational and would 
+provide the Office with the necessary operational base to execute its mandate 
+effectively, as well as to oversee and support other large-scale projects, such as 
+structural review projects 1 and 2, the enterprise resource planning project and 
+Inspira. Project 3 would significantly improve ICT effectiveness by increasing 
+consistency, standardization, transparency and accountability and by optimization of 
+the use of ICT resources. The project would also enable the Office of Information 
+and Communications Technology to establish the global leadership role it was 
+mandated to achieve. Structural projects 1 and 2 were assigned second priority 
+because, while they would improve efficiency and service level and reduce 
+fragmentation in a particular area, they would not permanently address the systemic 
+issues that had led to a high level of fragmentation in the Secretariat. With respect to 
+structural review project 4 (“strengthen the Office of Information and 
+Communications Technology”), the Secretary-General indicated that the most 
+significant gaps in the staffing of the Office related to functions such as portfolio 
+management, project management and development of enterprise, application, 
+systems and data architecture. 
+
+
+
+ A/65/576
+ 
+
+31 10-64111 
+ 
+
+98. The Advisory Committee is of the view that priority should be given to 
+structural review project 3 (“rationalize ICT organization”). It considers that 
+the establishment of clear job boundaries, defining what constitutes an ICT 
+activity, determining where those activities should be performed, and the 
+development of a global staffing model are critical prerequisites for the 
+necessary organizational changes to the ICT management structure, including 
+the consolidation of multiple ICT units (A/65/491, para. 181 (e)).  
+
+99. The Advisory Committee recommends that the Secretary-General be 
+requested to review the prioritization and the phasing of structural review 
+projects 1, 2 and 4 and to present alternative implementation approaches in the 
+context of the proposed programme budget for the biennium 2012-2013. 
+Pending consideration of those proposals and recognizing the need to address 
+the level of fragmentation, the Committee is of the view that the Secretary-
+General should pursue one of the above-mentioned projects that are focused on 
+improving efficiency and service levels (see para. 97 above). It believes that 
+project 1 (“globalize service desks”) could have the most impact in terms of 
+improved service for United Nations staff worldwide.  
+
+100. With regard to the project for the strengthening of the Office of 
+Information and Communications Technology (project 4), the Committee 
+considers that the Secretary-General should articulate a longer-range process 
+of building up towards the capacity he considers to be required for ICT in the 
+Organization. The Committee is of the opinion that a more staged approach 
+would ideally involve the redeployment of resources released as a result of 
+efficiency gains, rather than only increments in the overall staffing levels. Such 
+a staged approach would allow the General Assembly to both appreciate the 
+impact of the strategy and understand the mechanisms for harvesting savings 
+from efficiency gains. Pending submission of the proposals relating to structural 
+review project 4 (“strengthen the Office of Information and Communications 
+Technology”), the Committee considers that the Secretary-General should be 
+granted general temporary assistance to augment the capacity of the Office of 
+Information and Communications Technology to undertake the strategic, cross-
+cutting programmes of its broadened, Organization-wide mandate, such as the 
+development of enterprise architecture (A/65/491, para. 201). 
+ 
+
+  Recommendations 
+ 
+
+101. The actions to be taken by the General Assembly are set out in paragraph 
+245 of the Secretary-General’s report. Taking into account its considerations in 
+paragraphs 96, 99 and 100 above, the Advisory Committee recommends that 
+the General Assembly: 
+
+ (a) Authorize the Secretary-General to implement structural review 
+project 3 (“rationalize ICT organization”); 
+
+ (b) Authorize the Secretary-General to proceed with the activities 
+planned for 2011 as part of the first phase of structural review project 1 
+(“globalize service desks”); 
+
+ (c) Approve general temporary assistance equivalent to 7 P-4 positions to 
+provide additional capacity for the Office of Information and Communications 
+
+
+
+A/65/576  
+ 
+
+10-64111 32 
+ 
+
+Technology pending consideration of the proposals mentioned in paragraph 99 
+above; 
+
+ (d) Endorse an extension of the existing lease of the secondary data 
+centre for another 30 months beyond 31 December 2011. 
+
+102. The Committee further recommends that the resources required for the 
+activities cited in paragraph 101 (a), (b) and (c) above be provided from within 
+the resources approved for the biennium 2010-2011, and that actual expenditure 
+be reported in the context of the second performance report. 
+
+ 
+
+ 
+
+ 
+
+
+
+ A/65/576
+ 
+
+33 10-64111 
+ 
+
+Annex I 
+ 
+
+  Procedures for the selection of subject matter experts for the 
+enterprise resource planning project 
+ 
+ 
+
+ A “lite-process” for the competitive selection of subject matter experts for 
+human resources, budget and finance, central support and the supply chain, has been 
+introduced with effect from October 2010, in view of the large number of subject 
+matter experts required for the Umoja project and the need to ensure consistency 
+and transparency in the selection process, in compliance with established provisions 
+for staff selection. The process was introduced because the lack of subject matter 
+experts posed significant risks to the project. These risks were discussed in the 
+Steering Committee. 
+
+ This process allows for the fair consideration of staff members who express 
+interest in working as subject matter experts and was the result of extensive 
+consultations with the Umoja team and other relevant parties within the Department 
+of Management (the Office of Human Resources Management, the Office of 
+Programme Planning, Budget and Accounts and the Office of Central Support 
+Services). The aim is to establish a roster of candidates to avoid repetitive selection 
+exercises and facilitate administrative procedures. 
+
+ The procedures are as follows: 
+ 
+
+ 1. Preparation of subject matter expert profiles 
+ 
+
+ Umoja Team Leaders draft temporary vacancy announcements for subject 
+matter experts and share them with the Offices of the Assistant Secretaries-General 
+for the Office of Human Resources Management, the Office of Programme 
+Planning, Budget and Accounts and the Office of Central Support Services, as 
+required, for clearance. For field and conference management-related functions, 
+temporary vacancy announcements are cleared by the Under-Secretary-General, 
+Department of Field Support and the Assistant Secretary-General, Department for 
+General Assembly and Conference Management, respectively. 
+ 
+
+ 2. Evaluation of applications of subject matter experts 
+ 
+
+ Representatives of the Umoja project and the respective business owners (the 
+Assistant Secretaries-General of the Department of Management and the Department 
+for General Assembly and Conference Management, and the Under-Secretary-
+General of the Department of Field Support) participate in joint evaluation of 
+applicants. Assessments include review of candidates’ personal history profiles and 
+performance evaluations. Interviews would be at the discretion of the programme 
+managers. A roster of suitable candidates is established and approved by the 
+business owners. The Director of the Umoja project recommends to the Under-
+Secretary-General of the Department of Management, through the Chief Information 
+Technology Officer, subject matter experts for selection from the roster. The release 
+of candidates is arranged by the Executive Office of the Department of 
+Management, following approval by the Under-Secretary-General of the Department 
+of Management. 
+
+
+
+A/65/576  
+ 
+
+10-64111 34 
+ 
+
+ Subject matter experts for specialized functions where expertise is only 
+available in a particular department/office, such as investment management, 
+cashiers, etc., will be outside the process described above and will be 
+identified/selected by the business owners. 
+
+ The movement of subject matter experts is administratively recorded for 
+mobility purposes. 
+
+
+
+ A/65/576
+ 
+
+35 10-64111 
+ 
+
+Annex II 
+ 
+
+  Ongoing activities undertaken by the Department of Field 
+Support to streamline and consolidate service desks and 
+data centres in field missions 
+ 
+ 
+
+  Service desks 
+ 
+
+1. Opportunities exist to achieve efficiency gains by consolidating service desks 
+and streamlining data centres in field missions. Certain specific factors will have to 
+be taken into consideration when implementing the projects in field missions. These 
+factors include the necessity for rapid reaction capability to address changing 
+circumstances, the need to balance centralization with on-site capability and the 
+difficulty and costs associated with voice, data and video transmissions over a 
+largely satellite-based telecommunications infrastructure. The consideration of these 
+factors is required given the lack of native information and communications 
+technology (ICT) capacities in mission deployment areas.  
+
+2. The Department of Field Support has established a centralized service desk for 
+such multi-mission applications as Galileo, Mercury, the Field Support Suite and 
+Business Objects and for wide area network management. The service desk operates 
+under a service management best practices framework utilizing the information 
+technology infrastructure library methodology. The service desk is maintained for 
+centralized systems only. As more centralized systems are implemented, the service 
+desk size and scope will be adjusted accordingly. Service desks are retained in field 
+missions to support local area networks, local communications infrastructure and 
+distributed systems.  
+
+3. This hybrid approach provides the requisite flexibility and ensures that 
+sufficient on-site support is available to uniformed and civilian personnel in 
+missions, particularly in the light of troop and police rotations and a high turnover 
+rate among staff. The approach also reduces costs associated with voice, video and 
+data transmissions over the satellite-based wide area network. It is envisaged that 
+the Department of Field Support will leverage the global field support strategy to 
+achieve efficiency gains by combining, streamlining and consolidating the ICT 
+service desk functions with other non-ICT call centre operations as the support 
+components are consolidated in the regional service centres. The Department will 
+leverage the Organization’s service desk software by implementing the system in 
+field missions to support ICT and other functional service desks. In addition, remote 
+access technology software that is already part of a standard software package in 
+field missions will be leveraged during this fiscal period to further consolidate 
+service desks and accelerate services throughout the missions. 
+ 
+
+  Service centres 
+ 
+
+4. The Department has also embarked on a project to consolidate and streamline 
+data centres as part of its “light footprint” programme in field missions. This 
+programme includes the virtualization of servers and the centralization of 
+applications. As with the service desk initiative, the Department is taking a 
+measured approach to mitigate risks associated with the degradation of services and 
+is considering cost implications in the light of satellite-based telecommunications. 
+The Department expects to be able to reduce the number of servers in field missions 
+
+
+
+A/65/576  
+ 
+
+10-64111 36 
+ 
+
+by approximately 20 per cent during the 2010/11 fiscal period and will aim for a 
+further reduction in data centres during the period 2011/12. As more systems are 
+centralized, further opportunities will be exploited. With the secondary active 
+telecommunications facility for peacekeeping becoming fully operational in 
+2011/12, opportunities to reduce tier 2 disaster recovery and business continuity 
+facilities should further reduce the number of data centres and servers in use in the 
+field missions.  
+
+5. The Department’s efforts to consolidate service desks and streamline data 
+centres in the field in the coming years, as described above, will be carried out 
+under the Secretariat-wide strategy and guidance of the Office of Information and 
+Communications Technology in the context of the two proposed structural review 
+projects. 
+
+ 
+
+
+
+ A/65/576
+ 
+
+37 10-64111 
+ 
+
+Annex III 
+ 
+
+  Methodology used for the structural review process and for 
+deriving information and communications technology 
+budgets and obtaining staff inventory 
+ 
+ 
+
+  Overall methodology for the structural review process 
+ 
+
+1. In line with the request of the General Assembly, structural reviews of all 
+information and communications technology (ICT) units throughout the Secretariat 
+have been conducted. The goal of the structural review is to rationalize and 
+harmonize ICT operations and structures by making recommendations on 
+organizational and other changes that will improve the effectiveness, efficiency and 
+cohesiveness of ICT operations. 
+
+2. In late 2008, an initial survey aimed at understanding ICT staffing levels, 
+functions and workload was completed by approximately 60 departments, offices 
+and field missions throughout the Secretariat. The survey took a broad view of ICT, 
+encompassing all staff and activities associated with the development, 
+implementation and management of processes and technologies that enable the 
+management of electronic information such as data, documents, websites and 
+multimedia objects. The survey captured spending and staffing data, environmental 
+data, such as the number of hardware assets, information about data centre facilities 
+and certain workload indicators, such as the number of user accounts and supported 
+devices. Staffing tables, organization charts of ICT units and proposed budget 
+allocations were also requested and reviewed. In addition, 38 ICT processes were 
+assessed using CobiT, a widely accepted management framework of indicators for 
+measuring ICT process maturity.  
+
+3. An in-depth analysis of survey and other data identified improvement 
+objectives in the areas of ICT organizational design and infrastructure. The 
+improvement objectives were reviewed by Office of Information and 
+Communications Technology senior management and ICT chiefs across the 
+Secretariat. A key finding was that a wide variation of ICT job titles exists and that 
+inconsistency among ICT units is prevalent. It was also clear that the boundaries 
+between ICT and non-ICT jobs were not clearly delineated.  
+
+4. In 2010, a more comprehensive data collection exercise was conducted with 
+the intention of refreshing previously collected data and obtaining additional 
+workload indicator data in order to refine business change cases and more 
+accurately assess potential costs and benefits. Several survey workshops and 
+training sessions were provided to all survey participants to improve accuracy. A 
+proposed new ICT staffing model was created and used in the survey so as to obtain 
+a more precise understanding and quantify the range of ICT functions being 
+performed across the Secretariat.  
+
+5. The survey data were compared with public sector industry and government 
+sector benchmarks from leading information technology research and advisory 
+firms.a While the United Nations is unique in its operational model, the benchmark 
+comparisons provided directional input and confirmed that high levels of 
+fragmentation were resulting in reduced efficiency, capacity and output in key areas 
+
+__________________ 
+
+ a Public sector benchmarks from Gartner and Info-tech were used. 
+
+
+
+A/65/576  
+ 
+
+10-64111 38 
+ 
+
+and resulting in the inefficient use of available ICT resources. In particular, the 
+benchmarks for ICT units in the Department of Field Support were adjusted to 
+account for the challenges and constraints associated with the support of ICT in 
+field missions.  
+
+6. The data were used as input for detailed cost and benefit quantification of 
+improvement opportunities. Teams of subject matter experts from ICT units across 
+the Secretariat analysed the data, combining their knowledge of the existing 
+operational realities of the United Nations to prepare preliminary business change 
+cases. These were subsequently reviewed by ICT chiefs across the Secretariat and 
+the ICT Advisory Group and endorsed by the ICT Executive Committee.  
+
+7. The following paragraphs describe the methodology used to derive the ICT 
+budgets across the Secretariat, as well as the process that was used to compile ICT 
+personnel. The level of difficulty encountered while attempting to achieve a 
+consolidated budget figure and staff inventory highlights the significant limitations 
+that currently exist in effectively managing the global ICT environment of the 
+Secretariat.  
+ 
+
+  Methodology for deriving information and communications technology budgets 
+ 
+
+8. On the advice of the Programme Planning and Budget Division, proposed 
+budgets were used as the source owing to the level of detail available to segregate 
+ICT budget resources from non-ICT budget resources. The work of compiling an 
+estimated budget figure for the Secretariat spanned several months. Office of 
+Information and Communications Technology staff had to learn budget and finance 
+systems in order to reconcile reporting requirements with what was available in 
+various record systems.  
+
+9. The snapshot included in the report of the Secretary-General (A/65/491) 
+details the proposed programme budget for the biennium 2010-2011 for the 
+Secretariat, regional commissions, tribunals and offices away from Headquarters. 
+For peacekeeping and political missions, the proposed budget for the period from 
+1 July 2009 to 30 June 2010 was used.  
+
+10. Not all departments across the Secretariat were included in this exercise. 
+Departments or offices that are very small (generally with fewer than 30 staff) or 
+have no ICT unit or staff were considered outside the scope of the study. The scope 
+was based on the report on the composition of the Secretariat (A/64/352). The 
+Information and Communications Technology Division of the Department of Field 
+Support provided a revised list of field missions. Offices of programmes and funds 
+were excluded from the exercise with the exception of the United Nations 
+Conference on Trade and Development, the United Nations Environment 
+Programme, the United Nations Office on Drugs and Crime and the United Nations 
+Human Settlements Programme, as they had a large number of ICT staff and were 
+included in the report on the composition of the Secretariat. The enterprise resource 
+planning budget was also excluded from the scope of this exercise, since it 
+represents an atypical, large, one-time investment.  
+
+11. An aggregate amount from the four main sources is used to arrive at the total 
+annualized proposed ICT budget (2010-2011):  
+
+
+
+ A/65/576
+ 
+
+39 10-64111 
+ 
+
+ (a) Regular budget: 
+
+   • The proposed ICT budget for 2010-2011 is used as the basis 
+
+   • The annual budget is derived by dividing the proposed programme 
+budget for the biennium 2010-2011 by 2 
+
+   • The proposed ICT budget figures for all the departments/offices except 
+for the offices away from Headquarters and the special political 
+missions are based on A/64/6 (Introduction) 
+
+   • The proposed ICT budget figures for three offices away from 
+Headquarters (United Nations Office at Geneva, United Nations Office 
+at Vienna and United Nations Office at Nairobi) are based on the 
+proposed programme budget (A/64/6 (Sects. 28E, 28F and 28G)) 
+
+  • The proposed ICT budget figures for the special political missions are 
+based on A/64/349/Add.3 
+
+ (b) Extrabudgetary:  
+
+  • Since this is not reported in any of the budget reports, the 2010-2011 
+annualized budget is based on budget figures that were reported and 
+validated by each department/office during the structural review 
+exercise 
+
+ (c) Support account for peacekeeping operations: 
+
+  • The proposed budget for the support account for 2009/10 (A/63/767) is 
+used as the basis 
+
+  • The proposed support account ICT and staff cost figures are based on 
+A/63/698/Add.1 and A/63/767 
+
+ (d) Peacekeeping budgets: 
+
+  • The proposed budgets for peacekeeping missions for 2009/10 are used 
+as the basis 
+
+  • The proposed peacekeeping ICT budgets and staff cost figures of all 
+the peacekeeping missions except for the support of the African Union 
+Mission in Somalia (AMISOM) are based on A/C.5/63/24 
+
+  • The proposed peacekeeping ICT budget and staff cost figures relating 
+to support of AMISOM is based on A/64/465 
+
+ 
+
+  Process for obtaining information and communications technology staff 
+inventory within the Secretariat 
+ 
+
+12. Pursuant to the General Assembly’s request to provide a comprehensive 
+inventory of information and communications technology capacities across the 
+Secretariat, the Office of Information and Communications Technology structural 
+review project team began the process of collecting the inventory of ICT personnel 
+in early 2010.  
+
+13. Initial meetings with the Office of Human Resources Management indicated 
+that it does not house a comprehensive inventory across the Secretariat and that 
+therefore manual intervention and surveying would be required.  
+
+
+
+A/65/576  
+ 
+
+10-64111 40 
+ 
+
+14. Based on a workforce planning exercise that was carried out in 2009, the 
+Office of Human Resources Management was able to provide the structural review 
+team with a list of staff holding an ICT job title, as well as a list of all staff assigned 
+to units that had at least one ICT staff member in them, regardless of title. The 
+initial list provided by the Office of Human Resources Management contained more 
+than 5,000 staff members. The structural review team manually pared the list down 
+to approximately 2,000 by reviewing job titles and eliminating those which were 
+clearly not ICT related. 
+
+15. The information on the remaining 2,000-plus staff members was pre-populated 
+into the ICT survey templates that were sent to each ICT unit for validation. The 
+ICT chiefs and focal points were asked to confirm that the list reflected the actual 
+personnel in their respective units, to update the list to reflect additional resources 
+such as staff not indicated on the original list, consultants and contractors, as well as 
+to assign the ICT personnel a new job title using the newly designed ICT career 
+paths (global staffing model). In addition, ICT chiefs and focal points were asked to 
+provide a functional breakdown of ICT personnel according to the functional 
+definition used by the structural review team, which classified all ICT activities in 
+the Secretariat into high-level categories.  
+
+16. As the scope of the Office of Human Resources Management data is limited to 
+staff that hold a letter of appointment, it excludes the majority of ICT personnel in 
+the missions. The ICT personnel information for the missions was provided to the 
+structural review team by the Department of Field Support. 
+
+17. The combination of survey results and the list provided by the Department of 
+Field Support indicated that there were 4,219 ICT personnel as at March 2010, 
+distributed among 173 different ICT job titles. 
+ 
+
+  Observations on the information and communications technology staff inventory 
+data-collection process 
+ 
+
+18. The Office of Human Resources Management does not have a Secretariat-wide 
+inventory of ICT personnel. It was not possible to obtain a Secretariat-wide 
+inventory or headcount of ICT vendor personnel that are assigned to the Secretariat 
+directly from the vendors. For example, the Office of Information and 
+Communications Technology was unable to obtain a headcount of United Nations 
+Office for Project Services personnel working for the Information and 
+Communications Technology Division of the Department of Field Support. 
+
+19. The Office of Human Resources Management data warehouse covers only 
+personnel who have been issued a letter of appointment and so excludes consultants, 
+contractors, local field personnel and the like, as the authority for human resources 
+management has been delegated to the Department of Field Support for personnel 
+under its purview. 
+
+20. For the 4,219 personnel distributed among 173 different ICT job titles, there is 
+currently no consistency among job titles; some are very descriptive whereas others 
+are too vague and are not indicative of what one’s job functions are. 
+
+21. In some cases there was a misunderstanding on the part of respondents about 
+the reason to validate the ICT personnel information in the survey and resistance to 
+doing so. Once it was explained that the information had been requested by the 
+General Assembly, all respondents were compliant, however, the structural review 
+
+
+
+ A/65/576
+ 
+
+41 10-64111 
+ 
+
+team has no way of verifying how comprehensive the validation process was, 
+whether all consultants were added to the inventory and furthermore whether 
+“shadow” ICT staff — those who perform ICT functions but are not categorized as 
+such — were included. 
+
+22. The temporary staffing database that was created for the purpose of providing 
+this information to the General Assembly was extremely labour-intensive; it has not 
+been possible to keep it updated, and furthermore, the Office of Information and 
+Communications Technology does not presently have resources that would enable it 
+to, although it has been mandated by Member States to perform this function. 
+
+23. The Sourcing Management Section of the Enterprise Management Division 
+will, among other things, ensure that the inventory of all Secretariat-wide ICT 
+personnel is maintained on an ongoing basis and that a comprehensive ICT sourcing 
+management policy is in place. 
+
+ 
+
+ 
+
+
+
+A/65/576  
+ 
+
+10-64111 42 
+ 
+
+Annex IV 
+ 
+
+  Existing service desks 
+ 
+ 
+
+Department/office 
+
+No. of 
+service 
+
+desks Location 
+
+Department of Economic and Social Affairs  1 New York 
+
+Department of Field Support/Field Budget and Finance Division 1 New York 
+
+Department of Field Support/Field Personnel Division 1 New York 
+
+Department of Field Support/Information and Communications Technology 
+Division 
+
+1 New York 
+
+Department for General Assembly and Conference Management  1 New York 
+
+Department of Management 0 New York 
+
+Department of Management/Office of Central Support Services 1 New York 
+
+Department of Management/Office of Human Resources Management  1 New York 
+
+Department of Management/Office of Programme Planning, Budget and Accounts 0 New York 
+
+Department of Management/Office of the Under-Secretary-General 0 New York 
+
+Department of Political Affairs  1 New York 
+
+Department of Public Information  1 New York 
+
+Department of Peacekeeping Operations  0 New York 
+
+Department of Safety and Security  0 New York 
+
+Executive Office of the Secretary-General 0 New York 
+
+Office for the Coordination of Humanitarian Affairs  7 New York, Geneva 
+
+Office for Disarmament Affairs 0 New York 
+
+Office of Information and Communications Technology 3 New York 
+
+Office of Internal Oversight Services  1 New York 
+
+Office of Legal Affairs  0 New York 
+
+ Subtotal, Headquarters 20   
+
+United Nations Office at Geneva 10 Geneva 
+
+Office of the United Nations High Commissioner for Human Rights 1 Geneva 
+
+United Nations Conference on Trade and Development  1 Geneva 
+
+United Nations Office at Nairobi/United Nations Environment Programme/ 
+UN-Habitat 
+
+1 Kenya 
+
+United Nations Office at Vienna/United Nations Office on Drugs and Crime 3 Vienna 
+
+Economic Commission for Africa  1 Addis Ababa 
+
+Economic Commission for Europe  1 Geneva 
+
+Economic Commission for Latin America and the Caribbean  3 Santiago 
+
+Economic and Social Commission for Asia and the Pacific  1 Bangkok 
+
+Economic and Social Commission for Western Asia  1 Beirut 
+
+International Criminal Tribunal for Rwanda  3 Arusha, United Republic of Tanzania 
+
+
+
+ A/65/576
+ 
+
+43 10-64111 
+ 
+
+Department/office 
+
+No. of 
+service 
+
+desks Location 
+
+International Tribunal for the Former Yugoslavia  1 The Hague, Amsterdam 
+
+ Subtotal, offices away from Headquarters, regional commissions and others 27   
+
+United Nations Organization Mission in the Democratic Republic of the Congo 16 Democratic Republic of the Congo 
+
+United Nations Operation in Côte d’Ivoire  1 Côte d’Ivoire 
+
+United Nations Peacekeeping Force in Cyprus  4 Cyprus 
+
+United Nations Interim Force in Lebanon  3 Beirut 
+
+United Nations Logistics Base  1 Brindisi, Italy 
+
+United Nations Mission in the Sudan 8 Khartoum 
+
+United Nations Integrated Mission in Timor-Leste  5 Timor-Leste 
+
+United Nations Integrated Office in Burundi 5 Bujumbura 
+
+United Nations Assistance Mission in Afghanistan  27 Kabul 
+
+United Nations Peacebuilding Support Office in Guinea-Bissau  0 Guinea-Bissau 
+
+Rest of the missions 14  
+
+ Subtotal, peacekeeping and special political missions 84   
+
+ Total 131   
+
+ 
+
+
+
+A/65/576  
+ 
+
+10-64111 44 
+ 
+
+Annex V 
+ 
+
+  Data centres and server rooms 
+ 
+ 
+
+ Number Location 
+
+Data centres  
+
+Office of Information and Communications Technology 2 New York 
+
+Economic Commission for Africa 1 Addis Ababa 
+
+Economic Commission for Europe 1 Berkshire, United Kingdom of Great 
+Britain and Northern Ireland 
+
+Economic Commission for Latin America and the Caribbean 1 Santiago 
+
+Economic and Social Commission for Asia and the Pacific 1 Bangkok 
+
+Economic and Social Commission for Western Asia 1 Beirut 
+
+International Criminal Tribunal for Rwanda 2 Arusha, United Republic of Tanzania 
+
+International Criminal Tribunal for the Former Yugoslavia 2 The Hague, Netherlands 
+
+United Nations Office at Geneva 2 Geneva 
+
+United Nations Office at Nairobi/United Nations Environment Programme 2 Kenya 
+
+United Nations Office at Vienna/United Nations Office on Drugs and Crime 2 Nigeria 
+
+United Nations Office at Vienna/United Nations Office on Drugs and Crime 1 Bogota 
+
+United Nations Office at Vienna/United Nations Office on Drugs and Crime 1 New Delhi 
+
+United Nations Office at Vienna/United Nations Office on Drugs and Crime 2 Vienna 
+
+United Nations Conference on Trade and Development 1 Geneva 
+
+United Nations Organization Mission in the Democratic Republic of the Congo 3 Democratic Republic of the Congo 
+
+United Nations Operation in Côte d’Ivoire 1 Côte’ d’Ivoire 
+
+United Nations Peacekeeping Force in Cyprus 1 Cyprus 
+
+United Nations Interim Force in Lebanon 1 Beirut 
+
+United Nations Logistics Base 3 Brindisi, Italy 
+
+United Nations Integrated Office in Burundi 2 Bujumbura 
+
+United Nations Assistance Mission in Afghanistan 1 Kabul 
+
+ Subtotal  34  
+
+Server rooms  
+
+Department of Economic and Social Affairs 1 New York 
+
+Department for General Assembly and Conference Management 1 New York 
+
+Office of Information and Communications Technology 2 New York 
+
+Economic Commission for Africa 2 Addis Ababa 
+
+Economic Commission for Latin America and the Caribbean 9 Santiago 
+
+Economic and Social Commission for Asia and the Pacific 1 Bangkok 
+
+International Criminal Tribunal for Rwanda 4 Arusha, United Republic of Tanzania 
+
+International Criminal Tribunal for the Former Yugoslavia 5 The Hague, Netherlands 
+
+United Nations Office at Geneva 6 Geneva 
+
+United Nations Office at Nairobi/United Nations Environment Programme 2 Nairobi 
+
+United Nations Office at Vienna/United Nations Office on Drugs and Crime 32 Vienna 
+
+
+
+ A/65/576
+ 
+
+45 10-64111 
+ 
+
+ Number Location 
+
+Office of the United Nations High Commissioner for Human Rights 8 Geneva 
+
+United Nations Organization Mission in the Democratic Republic of the Congo 17 Democratic Republic of the Congo 
+
+United Nations Operation in Côte d’Ivoire 8 Côte’ d’Ivoire 
+
+United Nations Peacekeeping Force in Cyprus 3 Cyprus 
+
+United Nations Interim Force in Lebanon 4 Beirut 
+
+United Nations Logistics Base 6 Brindisi, Italy 
+
+United Nations Mission in the Sudan 22 Khartoum 
+
+United Nations Integrated Mission in Timor-Leste 7 Timor-Leste 
+
+United Nations Integrated Office in Burundi 7 Bujumbura 
+
+United Nations Assistance Mission in Afghanistan 29 Kabul 
+
+United Nations Integrated Peacebuilding Office in Guinea-Bissau 1 Guinea-Bissau 
+
+ Subtotal  177  
+
+ Total 211  
+
+ 
+
+ 
+
+
+
+A/65/576  
+ 
+
+10-64111 46 
+ 
+
+Annex VI 
+ 
+
+  Applications to be retired as a consequence of the 
+implementation of the enterprise resource planning system 
+ 
+ 
+
+ A. Resource management 
+ 
+ 
+
+ 
+ 
+ 
+
+ B. Knowledge management 
+ 
+ 
+
+ 
+
+109 
+
+274
+
+134
+
+43   
+
+4 
+
+21
+
+3
+
+12   
+
+0  
+50  
+
+100   
+150   
+200   
+250   
+300   
+350   
+
+Collaboration and 
+social networking 
+
+Document management Web content management Reports and analytics 
+
+Projected to be retired 
+
+Projected to continue 
+
+64
+
+161
+
+58 60
+39
+
+112
+
+30
+
+77
+52
+
+34
+
+12
+
+154
+
+106
+127
+
+18
+
+91
+
+54
+
+5 41
+
+24
+
+0 
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350 Projected to be retired
+
+Projected to continue
+
+Meeting  and  
+con fe rence  
+
+Human  
+resources 
+
+Other Reports Pro ject and  
+administra tive  
+management 
+
+Safe ty  and  
+sec urity 
+
+Travel  
+management
+
+Custom 
+relationsh ip  
+management
+
+Supply 
+chain  
+
+Reports Finance 
+
+
+
+ 
+ 
+
+ 
+
+A
+/65/576
+
+10-64111 
+47
+
+Annex VII 
+ 
+
+  Office of Information and Communications Technology mandate and staff deployment 
+ 
+ 
+
+  Management goals  
+
+Mandate from approved ICT 
+strategya 
+
+New/ 
+existing 
+
+mandate 
+
+Additional 
+resources 
+
+provided
+
+Current 
+staff 
+
+assigned
+
+Additional
+ staff
+
+ proposed
+
+Ensure 
+optimum
+
+ use of
+ resources
+
+Control 
+fragmentation
+
+Improve 
+transparency 
+
+and 
+accountability
+
+Improve 
+efficiency
+
+Improve 
+effectiveness Impact of no additional resources 
+
+Chief Information 
+Technology Officer 
+
+New Yes 1
+ 
+
+Strategy development and 
+alignment: development of 
+
+the ICT strategy for the 
+Secretariat and coordination 
+of its implementation  
+(para. 35 (a)) 
+
+New No 3 4 X X X X
+
+Global ICT financial 
+monitoring and reporting, 
+Secretariat-wide ICT 
+budget review: reviewing 
+
+budgets from all funding 
+sources for all ICT initiatives 
+and operations of the 
+Secretariat (para. 35 (b))  
+
+New No 0 3 X X X X X
+
+ICT performance 
+measurement and 
+management: monitoring, 
+
+measuring and evaluating 
+the performance of ICT 
+units against established 
+goals, objectives and 
+budgetary targets, utilizing 
+accountability frameworks 
+as appropriate (para. 35 (c)) 
+
+New No 0 1 X X X X
+
+Enterprise architecture: 
+setting the technological 
+direction and architecture 
+for the Organization 
+(para. 35 (d)) 
+
+New No 3 6 X X X X
+
+• Loss of credibility and 
+inability to perform 
+leadership role 
+
+ – Ineffective governance 
+structures 
+
+ – Insufficient ability to 
+perform day-to-day 
+management and 
+coordination of ICT 
+managers across the 
+Secretariat 
+
+ – Inability to position ICT 
+properly in the context of 
+the work of the Organization
+
+ – Inability to drive 
+transformational initiatives 
+
+ – Loss of credibility 
+
+ – Lack of transparency into 
+Secretariat ICT spending 
+
+ – Lack of budgetary oversight 
+in the ICT area 
+
+ – Member States will 
+continue to receive ICT 
+investment proposals that 
+are not necessarily aligned 
+with the Organizational 
+priorities 
+
+
+
+ 
+ 
+
+A
+/65/576 
+
+ 
+
+48 
+10-64111
+
+  Management goals  
+
+Mandate from approved ICT 
+strategya 
+
+New/ 
+existing 
+
+mandate 
+
+Additional 
+resources 
+
+provided
+
+Current 
+staff 
+
+assigned
+
+Additional
+ staff
+
+ proposed
+
+Ensure 
+optimum
+
+ use of
+ resources
+
+Control 
+fragmentation
+
+Improve 
+transparency 
+
+and 
+accountability
+
+Improve 
+efficiency
+
+Improve 
+effectiveness Impact of no additional resources 
+
+Enterprise application 
+development: planning and 
+
+developing all Organization-
+wide ICT applications, 
+including an enterprise 
+resource planning system 
+and other major systems 
+(para. 35 (e)) 
+
+Existing Limited 
+(except 
+
+for 
+Umoja)
+
+52 11 X X X X
+
+Enterprise infrastructure 
+design: planning and 
+
+developing the overall 
+infrastructure architecture 
+encompassing the 
+communications networks 
+and data centres of the 
+Organization (para. 35 (f)) 
+
+Existing Limited 14 8 X X X X
+
+Enterprise infrastructure 
+operation: using the 
+
+Organization’s global 
+presence and ICT 
+infrastructure to develop and 
+operate Secretariat-wide 
+applications and 
+infrastructure in order to 
+maximize benefits and cost-
+effectiveness (para. 35 (g)) 
+
+Existing Limited 61 2 X X X X
+
+Technology research: 
+undertaking, in 
+collaboration with other ICT 
+units, ICT research and 
+development activities 
+(para. 35 (h)) 
+
+New No 1 X X X
+
+Security and risk 
+management: overseeing the 
+
+assessment and management 
+of ICT risks for the 
+Organization (para. 35 (i)) 
+
+New No 1 X X X
+
+ – Inability of Member States 
+to understand the linkages 
+between various ICT 
+initiatives 
+
+ – Investments in low-priority 
+areas; deepening of 
+fragmentation and shadow 
+ICT  
+
+ – Lack of shared 
+accountability 
+
+ – Inability to account for ICT 
+assets Secretariat-wide 
+
+ – Lack of performance 
+measurement of 
+autonomous ICT units 
+
+ – Lack of transparency into 
+ICT metrics and 
+productivity 
+
+ – Inability to improve 
+accountability 
+
+ – Decreased efficiency  
+
+ – Proliferation of local 
+infrastructure and 
+applications 
+
+ – High ICT cost with no 
+visible benefit 
+
+ – Deepening of fragmentation 
+resulting in the need to redo 
+projects similar to projects 
+1 and 2 but at a much 
+higher cost 
+
+ – Lack of technology 
+planning and inability to 
+exploit state-of-the-art 
+technology 
+
+
+
+ 
+ 
+
+ 
+
+A
+/65/576
+
+10-64111 
+49
+
+  Management goals  
+
+Mandate from approved ICT 
+strategya 
+
+New/ 
+existing 
+
+mandate 
+
+Additional 
+resources 
+
+provided
+
+Current 
+staff 
+
+assigned
+
+Additional
+ staff
+
+ proposed
+
+Ensure 
+optimum
+
+ use of
+ resources
+
+Control 
+fragmentation
+
+Improve 
+transparency 
+
+and 
+accountability
+
+Improve 
+efficiency
+
+Improve 
+effectiveness Impact of no additional resources 
+
+Security and risk 
+management: developing 
+
+and maintaining the 
+information security policy 
+of the Organization and 
+monitoring compliance 
+across operational units 
+(para. 35 (j)) 
+
+Existing Limited 3 1 X X X X
+
+Security and risk 
+management: managing the 
+
+implementation of disaster 
+recovery and business 
+continuity plans for the 
+Organization (para. 35 (k)) 
+
+Existing Limited 1 X X X X X
+
+ICT human resources 
+management: coordinating 
+
+strategic ICT human 
+resources management 
+programme and activities, 
+including staff development 
+and mobility of all ICT staff 
+in the global Secretariat 
+(para. 35 (l)) 
+
+New No 1 X X X X X
+
+ICT project review, 
+methodology and 
+standards development: 
+
+providing business 
+consulting and project 
+management methodologies 
+and services to all ICT units 
+(para. 35 (m)) 
+
+New Limited 2 1 X X X X X
+
+ICT investment and 
+portfolio management: 
+
+monitoring, measuring and 
+evaluating the performance 
+and strategic alignment of 
+all projects and investment 
+initiatives in the ICT project 
+portfolio of the global 
+Secretariat (para. 35 (n)) 
+
+New No 2 1 X X X X X
+
+ – Lack of integration between 
+organizational direction and 
+ICT capability to support 
+programmes of work  
+
+ – Proliferation of local 
+applications 
+
+ – High ICT cost with no 
+visible benefit 
+
+ – Proliferation of “shadow 
+ICT” personnel 
+
+ – Inability to further strategic 
+programmes, such as 
+knowledge management 
+programme 
+
+ – Lack of enterprise approach 
+to solution delivery 
+
+ – Proliferation of local and 
+non-standardized 
+infrastructure 
+
+ – High ICT cost with no 
+visible benefit 
+
+ – Inability to drive 
+consolidation of existing 
+infrastructure 
+
+ – Inability to utilize 
+economies of scale 
+
+ – Non-standardized and 
+duplicative infrastructure 
+across the Organization 
+
+ – Higher cost of operations 
+
+ – High operational risk 
+
+ – Decreased efficiency 
+
+ – Inability to proactively 
+adopt ICT standards 
+
+
+
+ 
+ 
+
+A
+/65/576 
+
+ 
+
+50 
+10-64111
+
+  Management goals  
+
+Mandate from approved ICT 
+strategya 
+
+New/ 
+existing 
+
+mandate 
+
+Additional 
+resources 
+
+provided
+
+Current 
+staff 
+
+assigned
+
+Additional
+ staff
+
+ proposed
+
+Ensure 
+optimum
+
+ use of
+ resources
+
+Control 
+fragmentation
+
+Improve 
+transparency 
+
+and 
+accountability
+
+Improve 
+efficiency
+
+Improve 
+effectiveness Impact of no additional resources 
+
+ICT sourcing: establishing 
+ICT vendor (sourcing) 
+management policies; 
+reviewing and monitoring 
+purchasing and contract 
+renewal activities; 
+coordinating vendor 
+management selection, 
+procurement and 
+management strategies 
+across the ICT organization 
+(para. 35 (o)) 
+
+New No 3 X X X X X
+
+Quality assurance: 
+implementing quality 
+assurance processes to 
+ensure that all policies, 
+processes and standards are 
+in compliance (para. 35 (p)) 
+
+New Limited 2 2 X X X X X
+
+Client services/business 
+relationship management: 
+
+establish client services 
+function (para. 42) 
+
+New Limited 4 2 X X X X
+
+Perform Executive Office 
+function 
+
+New Limited 14 2 X X X
+
+•  Lack of technology 
+planning and inability to 
+exploit state-of-the-art 
+technology 
+
+•  Inability to leverage 
+evolving technology to the 
+benefit of the Organization 
+
+ – High operational risk to 
+ICT operations and data 
+
+ – Lack of systematic 
+approach to ICT disaster 
+recover planning 
+
+ – Inability to recover data 
+and networks after 
+downtimes promptly 
+
+ – High operational risk to 
+ICT operations and data 
+
+ – Inability to accurately 
+account for ICT personnel 
+
+ – Deepening of ICT human 
+resources fragmentation 
+resulting in the need to 
+redo a project similar to 
+project 3 
+
+ – Lack of integration between 
+organizational direction and 
+ICT capability to support 
+programmes of work 
+
+ – Lack of ICT human 
+resources strategic 
+workforce planning and 
+development 
+
+ – Inability to exploit state-of-
+the-art technology 
+
+
+
+ 
+ 
+
+ 
+
+A
+/65/576
+
+10-64111 
+51
+
+  Management goals  
+
+Mandate from approved ICT 
+strategya 
+
+New/ 
+existing 
+
+mandate 
+
+Additional 
+resources 
+
+provided
+
+Current 
+staff 
+
+assigned
+
+Additional
+ staff
+
+ proposed
+
+Ensure 
+optimum
+
+ use of
+ resources
+
+Control 
+fragmentation
+
+Improve 
+transparency 
+
+and 
+accountability
+
+Improve 
+efficiency
+
+Improve 
+effectiveness Impact of no additional resources 
+
+ – Inability to drive 
+application consolidation 
+through business process 
+re-engineering 
+
+ – Poor ICT project 
+management that leads to 
+poorly executed and costly 
+solution delivery 
+
+ – Decreased efficiency  
+
+ – Misalignment between ICT 
+investments and 
+organizational priorities 
+
+ – Siloed approach to solution 
+delivery and duplication of 
+effort 
+
+ – Lack of transparency into 
+ongoing and proposed ICT 
+initiatives 
+
+ – Inability to monitor project 
+delivery and increase the 
+proportion of on-time, 
+on-budget ICT projects 
+
+ – No shared accountability 
+
+ – Ineffective governance 
+structures 
+
+ – Inability to leverage 
+economies of scale and 
+negotiate better ICT vendor 
+contracts 
+
+ – Lack of vendor oversight 
+and vendor performance 
+measurement  
+
+ – Lack of enterprise approach 
+to quality assurance 
+
+ – Lower quality of solutions 
+
+
+
+ 
+ 
+
+A
+/65/576 
+
+ 
+
+52 
+10-64111
+
+  Management goals  
+
+Mandate from approved ICT 
+strategya 
+
+New/ 
+existing 
+
+mandate 
+
+Additional 
+resources 
+
+provided
+
+Current 
+staff 
+
+assigned
+
+Additional
+ staff
+
+ proposed
+
+Ensure 
+optimum
+
+ use of
+ resources
+
+Control 
+fragmentation
+
+Improve 
+transparency 
+
+and 
+accountability
+
+Improve 
+efficiency
+
+Improve 
+effectiveness Impact of no additional resources 
+
+– Inability to capture 
+departmental priorities 
+
+•  Misalignment between 
+business needs and ICT 
+solutions 
+
+•  Higher rate of fragmentation
+
+ – Inability to perform day-to-
+day human resource and 
+financial management 
+
+   
+ Total  161 51  
+
+ 
+Operational posts redirected 
+towards cross-cutting 
+functions 
+
+ 19
+
+ 
+
+ a A/62/793 and Corr.1. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

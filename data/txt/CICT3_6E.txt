@@ -1,0 +1,197 @@
+Report of the Committee on Information and Communications Technology on its third session
+Contents
+			Page
+	I.	Matters calling for action by the Commission or brought to its attention	2
+		A.	Matters calling for action	2
+		B.	Matters brought to the attention of the Commission	4
+	II.	Proceedings	5
+		A.	Agenda item 4: Building regional connectivity for sustainable 
+development: the creation of a seamless regional information space	5
+		B.	Agenda item 5: Technological innovations and knowledge-networked
+societies: new sources of sustainable and inclusive development	7
+		C.	Agenda item 6: Measuring progress: targets and information and
+communications technology indicators of the World Summit on
+the Information Society	8
+		D.	Agenda item 7: Regional capacity-building on information and
+communications technology for development	9
+		E.	Agenda item 8: Consideration of the future focus of the subprogramme	11
+		F.	Agenda item 9: Consideration of possible draft resolutions for 
+submission to the Commission at its sixty-ninth session	11
+		G.	Agenda item 10: Dates, venue and provisional agenda for the 
+fourth session of the Committee	11
+		H.	Agenda item 11: Other matters	11
+	III.	Organization of the session	11
+		A.	Opening, duration and organization	11
+		B.	Attendance	12
+		C.	Election of officers	12
+		D.	Agenda	13
+		E.	Adoption of the report of the Committee on its third session	13
+Annex		List of documents	14
+	I.	Matters calling for action by the Commission or brought to its attention
+	A.	Matters calling for action
+	1.	Building regional connectivity for sustainable development: the creation of a seamless regional information space
+1. The Committee highlights the importance of information and communications technology (ICT) as a fundamental enabler in achieving the Millennium Development Goals and the targets of the World Summit on the Information Society,1 and enhancing economic development and poverty reduction efforts across all sectors and economies in the Asian and Pacific region. The Committee recognizes ICT as a key pillar of sustainable development and stresses the need to address the widening digital divide through regional cooperation and comprehensive policy action.
+2. Noting the need to close the digital divide through accelerated regional cooperation, the Committee requests that ESCAP continue to serve as the regional platform for intergovernmental cooperation in the area of ICT for development, and recommends that a regional framework for action, guided by the outcome of the United Nations Conference on Sustainable Development,2 be developed. The Committee takes the view that such a platform can serve to pool expertise and collect best practices and strengthen regional policymaking processes.
+3. The Committee requests that the secretariat conduct further in-depth analysis of the challenges and opportunities associated with achieving a seamless regional information space. The Committee requests that attention be paid to gaps in backbone infrastructure networks, including analysis of the regulatory and policy barriers and examination of the costs of laying terrestrial fibre-optic networks along other fixed infrastructure.
+4. The Committee notes with satisfaction the secretariat’s ongoing initiative aimed at mapping transnational ICT infrastructure in the Asian and Pacific region and identifying the missing links. It welcomes the ongoing collaboration with the International Telecommunication Union (ITU) in connection with the ITU global project on mapping land-based ICT infrastructure.
+5. The Committee notes the importance of public-private partnerships (PPPs) in the development of ICT infrastructure and the achievement of universal access to ICTs, and in this regard, recognizes the need for capacity-building and promoting regional cooperation as key elements for effective policymaking.
+6. The Committee recognizes the need to develop a regional connectivity environment by strengthening partnerships with other organizations and policy think tanks at the international, regional and subregional levels, including the Asia-Pacific Telecommunity, the Digital Divide Institute of Chulalongkorn University (Thailand), ITU and LIRNEasia.
+7. The Committee recommends that the Commission review and adopt the resolution, co-sponsored by the Philippines and Sri Lanka, on strengthening the role of ICT policy for the achievement of ICT-enabled inclusive and sustainable development in the region and for the facilitation of holistic and integrated implementation of e-development programmes in the region.
+	2.	Technological innovations and knowledge-networked societies: new sources of sustainable and inclusive development
+8. Noting that current and near-future technological innovations in ICT are transforming societies and hold immense potential for social and economic development, the Committee supports multi-stakeholder dialogue with industry, governmental actors, institutions of higher education, research centres and civil society as a means of building synergies to leverage ICT for sustainable development.
+9. The Committee recognizes the potential role of ICT in bridging the digital divide and towards this end supports the formation of a new social compact between government and the private sector. The Committee recognizes that such a compact could include six pillars of innovation: (a) encompassing broadband infrastructure as a meta-infrastructure that underpins other infrastructure networks; (b) leadership in government and business for societal change; (c) a new genre of PPPs that combines commercial goals with public policy objectives; (d) regulation to address issues of security and intellectual property; (e) the social and ethical implications of new technologies; and (f) present and near-future ICT advances that build eresilience that help societies recover more rapidly from exogenous shocks.
+	3.	Measuring progress: targets and information and communications technology indicators of the World Summit on the Information Society
+10. The Committee requests that the secretariat pursue the facilitation and coordination of the regional review of progress in implementation of the targets set out in the outcome documents of the World Summit on the Information Society. The Committee notes that such a review is particularly timely and should allow for the identification of progress achieved towards the attainment of the objectives of the Summit as well as the remaining gaps. 
+11. The Committee recognizes the value of the Partnership on Measuring ICT for Development, in particular in setting statistical standards for ICT indicators that are timely, relevant and accurate. It requests that the secretariat continue to promote the region’s perspectives on issues coordinated under the Partnership and recommends that the secretariat step up its efforts within the Partnership.
+12. The Committee also encourages the secretariat to strengthen regional cooperation on ICT measurement issues, such as by contributing analytical work on defining indicators in emerging areas of interest to the region.
+13. The Committee expresses its appreciation for the secretariat’s initiative aimed at increasing the public availability of information on ICT infrastructure, in particular, the mapping exercise implemented jointly with ITU, and requests that the secretariat continue that work.
+14. The Committee notes that progress remains to be made in effectively measuring and accurate reporting of ICT statistics for development. In this regard, it requests the secretariat to strengthen capacity-building on ICT for development measurement issues, including through the training programmes of the Asian and Pacific Training Centre for Information and Communication Technology for Development (APCICT).
+	4.	Regional capacity-building on information and communications technology for development
+15. The Committee expresses deep appreciation and support for the ICT human capacity-building programmes of APCICT in the region. It recommends that APCICT expand its programmes to include new beneficiary groups, such as those living at the grass-roots level, women and children. In this context, it also recommends that APCICT develop a new training module under its Academy programme on ICT for Small and Medium Enterprises.
+16. In context of the need for greater knowledge-sharing and information exchange among member States, the Committee recommends that the APCICT website be made more interactive to accord member States the option of uploading and downloading content.
+	B.	Matters brought to the attention of the Commission
+	1.	Building regional connectivity for sustainable development: the creation of a seamless regional information space
+17. The Committee notes that, while the divide in mobile telephony has narrowed in the region, the divide is widening with regard to access to fixed and mobile broadband Internet, leading to wide divergences in broadband access, speed and service quality. High user costs have contributed to varying levels of broadband penetration in the region, leading to regional disparities that are affecting inequalities and the region’s economic and social development.
+18. The Committee notes that backhaul prices in the Asian and Pacific region are much higher than those in other regions of the world, including North America and Europe, and recognizes the need to conduct further analysis to address this issue, as demand for additional bandwidth is expected to grow exponentially over the next few years in the Asian and Pacific region. Further study of the relationship between terrestrial networks, submarine cables and satellites could help identify strategies to meet the unique and varied demands of the diverse region.
+19. The Committee notes that ICT has growing importance and potential to address wide-ranging issues, such as climate change, disaster risk reduction, earthquakes, tsunamis and coastal erosion, in the Asian and Pacific region.
+20. The Committee recognizes that developing regional ICT infrastructure will require substantial financial resources, and that the private sector is expected to play a leading role in the development and application of ICT. In this regard, the Committee acknowledges the key role that the private sector could play in developing ICT networks, and recognizes the benefit of PPPs in addressing challenges associated with ICT connectivity.
+21. The Committee acknowledges the importance of enabling all members of civil society to be actively engaged in sustainable development, as highlighted in the outcome document of the United Nations Conference on Sustainable Development,2 and recognizes that it is essential to improve access to ICT and to bridge the digital divide in order to facilitate the flow of information between governments and the public. The Committee also recognizes the vital role of government in fostering a regulatory environment that is conducive to creating the conditions that bring digital opportunities to all.
+22. The Committee notes with interest the progress achieved in building connectivity through the Trans-Eurasian Information Superhighway pursuant to General Assembly resolution 64/186.
+	2.	Technological innovations and knowledge-networked societies: new sources of sustainable and inclusive development
+23. The Committee underlines the powerful transformative effects of socioeconomic growth on societies and notes that such effects are bringing an ICT-led paradigm shift to the region. The creative knowledge economies emerging across the Asian and Pacific region will play a key role in addressing sustainable development challenges.
+24. The Committee recognizes that e-government services, including voice and mobile services, can deliver government services more effectively and efficiently than the traditional mode of delivery.
+25. The Committee recognizes that policies and initiatives related to ICT should be developed in a holistic manner that takes into account the unique economic and social conditions of the Asian and Pacific region.
+26. The Committee acknowledges the vital role of the private sector in developing technological innovations and recognizes PPP initiatives as a key mechanism that could bring cutting-edge technologies to all people in the Asian and Pacific region. The Committee also recognizes the role of the public sector in supporting research and development, and providing incentives to bring present and near-future ICT innovations to rural areas and less commercially viable sectors through localization, decentralization and customization.
+	3.	Measuring progress: targets and information and communications technology indicators of the World Summit on the Information Society.
+27. The Committee welcomes the secretariat’s plan to survey, at the national level, the availability of statistical data on the targets that were set out by the World Summit on the Information Society.
+28. The Committee notes that several members and associate members have made considerable progress in the achievement of the targets set by the World Summit on the Information Society, and that, in some instances, these targets have even been surpassed.
+	II.	Proceedings
+	A.	Agenda item 4
+Building regional connectivity for sustainable development: the creation of a seamless regional information space
+29. The Committee had before it a note by the secretariat entitled “Building regional connectivity for sustainable development: the creation of a seamless regional information space” (E/ESCAP/CICT(3)/1) and a note verbale dated 10 October 2012 from the Office of the President of Sri Lanka addressed to the secretariat of the Economic and Social Commission for Asia and the Pacific (E/ESCAP/CICT(3)/5).
+30. The Committee benefited from a panel discussion that consisted of: Mr. Hyong Soon Kim, Director, Network Planning Department, Digital Infrastructure Division, National Information Society Agency, Republic of Korea; Mr. Yalin Li, Deputy Section Chief, Department of Telecommunication Development, Ministry of Industry and Information Technology, China; Mr. Scott Hook, Economic Infrastructure Adviser, Economic Governance Programme, Pacific Islands Forum Secretariat; and Professor Rohan Samarajiva, Chair and Chief Executive Officer, LIRNEasia, Sri Lanka. Statements were made by the representatives of Japan and the Russian Federation. A statement was also made by Professor P.W. Epasinghe on behalf of the Chair of the second session of the Committee. The statement presented a summary of the outcome of the Regional Expert Consultation on Connecting a Digital Society in Asia and the Pacific in order to Build Resilience, held in Colombo on 5 and 6 September 2012.
+31. During the deliberations on the agenda item, the Committee noted with satisfaction that the secretariat, in its note, had identified the major challenges and opportunities related to strengthening regional connectivity in support of sustainable development. It commended the secretariat for the high quality of the document.
+32. The Committee noted that the many global connectivity-building projects under way, including the Trans-Eurasia Information Network project, were enhancing ICT exchange and cooperation between Asia and Europe through more effective information flows. The representative of the Republic of Korea drew the attention of the Committee to the need to promote regional cooperation, creating equal access to cutting-edge network resources and stimulating the development of research networks in developing countries.
+33. The representative of the Pacific Islands Forum Secretariat informed the Committee of the unique ICT connectivity challenges faced by Pacific island States, such as small market size and unique geography. The Committee noted that, despite the growing reliance on ICT, uptake in the Pacific subregion remained low and that few countries had national ICT policies. The Committee was informed that, despite the challenges, ICT ministers of the subregion recognized the importance of ICT in supporting the smart development of other infrastructure, and the key role that increased investment in ICT infrastructure could play in creating efficiencies for more sustainable development.
+34. The Committee noted that bandwidth prices in the Asian and Pacific region were, on average, up to six times higher than those in Europe and North America, and that one way of addressing that disparity was to develop an open access mesh network. The representative of Sri Lanka informed the Committee that terrestrial fibre-optic cables could complement submarine cables and satellites to reduce bandwidth prices across the region. One option was for terrestrial cables to be laid alongside Asian Highway or Trans-Asian Railway routes. The Committee noted that open access was a key regulatory component for lowering bandwidth prices.
+35. The representative of China informed the Committee that enhancing intra and interregional ICT connectivity through the use of optical fibre was vital to building regional connectivity and highlighted several regional cooperation mechanisms, including the Greater Mekong Subregion information superhighway network. The representative held the view that the Trans-Eurasian Information Superhighway would promote trade and have a positive influence on the Asian and Pacific region.
+36. The Committee noted with appreciation the offer of the Russian Federation to extend for at least 15 years, free of charge, access to the services of the Global Navigation Satellite System, in accordance with the standards and recommended practices of the International Civil Aviation Organization. 
+	B.	Agenda item 5
+Technological innovations and knowledge-networked societies: new sources of sustainable and inclusive development
+37. The Committee had before it the document entitled “Technological innovations and knowledge-networked societies: new sources of sustainable and inclusive development” (E/ESCAP/CICT(3)/2).
+38. The Committee benefited from a panel discussion that consisted of: Mr. Sung Kon Oh, Director, Broadcasting and Communications Convergence Policy Office, Convergence Policy Division, Korea Communications Commission, Republic of Korea; Mr. Reshan Dewapura, Chief Executive Officer, Information and Communication Technology Agency, Sri Lanka; Mr. Mervyn Levin, Founding Director, Levering Ltd., Thailand; and Mr. Craig Smith, Director, Digital Divide Institute, Faculty of Arts, Center for Ethics of Science and Technology, Chulalongkorn University,  Thailand.
+39. The Committee took note of the essential role of ICT in developing the creative knowledge society, and the representative of the Republic of Korea expressed the view that ICT innovations would enable the Republic of Korea to evolve into a highly networked society. The Committee recognized the capacity of ICT to address various economic and social challenges, including the ageing population, youth unemployment, low economic growth and environmental degradation.
+40. The Committee recognized that governmental and non-governmental entities play a significant role in the delivery of econtent services and applications. Access to econtent could be increased through a combination of increased network capacity, additional access points, increased ICT literacy and localization of content. The representative of Sri Lanka informed the Committee that e-content services were bringing numerous economic and social benefits that addressed inequalities in education, employment and health.
+41. The Committee was informed by Mr. Mervyn Levin of the growing influence of the Internet of Things, Big Data, Open Data, cloud computing, high-value manufacturing and the convergence of media and telecommunications, and that those technological innovations were, among other things, reducing material use and bringing efficiencies that would play an increasingly important role in addressing sustainable development challenges. The Committee noted that those technological innovations would also contribute to social inclusion through such things as improved quality of education, enhanced emergency preparedness and response and higher standards of living for all.
+42. The Committee was informed by Mr. Craig Smith of the “meaningful broadband” model, in which the word “meaningful” referred to the development of usable, affordable and empowering broadband that facilitates the creation of a national meaningful broadband ecosystem. The Committee recognized that, with the increased convergence of the virtual and real worlds, the development of ethical norms, including regulations that protect consumers in a rapidly changing environment, was gaining importance.
+43. Statements were made by the representatives of Japan and the Russian Federation.
+44. Statements were also made by the representatives of the United Nations Conference on Trade and Development (UNCTAD) and the United Nations University International Institute for Software Technology.
+45. The Committee took note of emerging challenges related to, among other things, the need to protect information on servers and the personal data of users from illicit utilization. The Committee noted that China, the Russian Federation, Tajikistan and Uzbekistan had submitted a draft code of conduct on international information security to the General Assembly at its sixty-seventh session.
+46. The Committee was informed by the representative of the United Nations University International Institute for Software Technology that further investment in infrastructure would accelerate the uptake of ICT in developing countries and amplify poverty eradication efforts. The representative expressed the view that significant progress had been achieved in bringing ICT, including mobile phones, laptops and Internet access, to poor communities across the Asian and Pacific region, and that ICT and cross-border collaboration was vitally relevant to the economic integration of the Association of Southeast Asian Nations (ASEAN) planned for 2015.
+47. In noting the close collaboration between UNCTAD and ESCAP, including on the Partnership on Measuring ICT for Development and policy research, the representative of UNCTAD provided the Committee with a preview of the Information Economy Report 2012, which was scheduled to be launched on 28 November 2012. A key finding of the report was that the software industry would play a significant role in the development of Asian and Pacific economies. The report contained a recommendation that the region expand the share of ICT spending devoted to software and services, as it was lower than in developed regions, and that governments pay increased attention to the role of domestic software development, including locally developed mobile applications and open source software for e-government tools.
+	C.	Agenda item 6
+Measuring progress: targets and information and communications technology indicators of the World Summit on the Information Society
+48. The Committee had before it the document entitled “Measuring progress: review of the targets and information and communications technology indicators of the World Summit on the Information Society” (E/ESCAP/CICT(3)/3).
+49. Statements were made by the delegations of Bhutan, Sri Lanka and the Russian Federation.
+50. The representative of ITU also made a statement.
+51. The Committee benefited from a presentation made by the representative of the Russian Federation on the establishment of the Far Eastern Federal University, whose main objectives were to provide training and build world class competence centres for breakthrough trends in science and technology.
+52. The Committee took note of the international efforts to provide timely, relevant and accurate data to inform and guide policymaking on ICT. It noted that the rapid evolutions in the field of ICT made such measurement even more crucial. It recognized the important role played by the Partnership on Measuring ICT for Development. It noted the growing availability of data for the core list of ICT indicators but expressed concern that significant data gaps remained. It also noted the emerging areas for ICT measurement, such as ewaste, trade in information technology and ICT-enabled services and genderdisaggregated data.
+53. The Committee welcomed information on a side event which the secretariat was organizing in connection with the third session of the Committee on Statistics on 14 December 2012 with the aim of promoting coordination of statistical systems for improved ICT measurement.
+54. The Committee noted the contribution of the secretariat to the review of the progress towards achieving the targets of the World Summit on the Information Society. It was informed that a survey on the availability of data for measuring those targets would be circulated to members and associate members through the relevant focal points. The Committee noted with satisfaction that the secretariat was coordinating with other agencies of the Partnership on Measuring ICT for Development to facilitate the review process.
+55. The Committee noted the efforts undertaken by Sri Lanka and the Russian Federation in implementing policies that had led to significant progress towards achieving the Summit targets and overall socioeconomic development and poverty reduction.
+56. The representative of ITU expressed support for the work of the secretariat on measuring ICT for development and the targets set out by the World Summit on the Information Society. It noted the growing importance of that work, which included developing interactive maps on telecommunications infrastructure, capacity-building, data collection and disaster risk reduction. ITU highlighted the progress made towards achieving internationally agreed development objectives through the enabling role of ICT and underlined the key role that broadband could play in promoting economic progress.
+	D.	Agenda item 7
+Regional capacity-building on information and communications technology for development
+57. The Committee had before it the report of the Asian and Pacific Training Centre for Information and Communication Technology for Development on its activities during the period 2010 to 2012 (E/ESCAP/CICT(3)/4).
+58. The Committee was briefed on the progress made by APCICT as part of its flagship capacity-building programme for policymakers entitled the “Academy of ICT Essentials for Government Leaders” (Academy) as well as its programme for capacity-building among youth entitled “Turning Today’s Youth into Tomorrow’s Leaders”. The Committee was informed that the programmes were being implemented through an inclusive and participatory approach involving strategic collaboration with partners, and that they were being rapidly adopted and integrated into national capacity-building frameworks. A brief overview of APCICT initiatives in the area of digital platforms for e-learning and knowledge-sharing on ICT for development was also presented to the Committee.
+59. The Committee benefited from a panel discussion on the theme of “Regional capacity-building on information and communications technology for development”. The panellists were: Mr. Almaz Bakenov, Director, National Information Technology Center, Kyrgyzstan; Mr. T. Basaruddin, Professor, Faculty of Computer Science, University of Indonesia; Mr. Dorj Baigal, Associate Dean, Government Agency of Mongolia, National Academy of Governance, School of Public Affairs and Management, Mongolia; Ms. Maria Lourdes Pacis Aquilizan, Acting Director, National Computer Institute and Head, ICT Competency Standards Development Group Information and Communications Office, Philippines; and Mr. Siaosi Sovaleni, ICT Adviser-Outreach, ICT Outreach Coordinator, Economic Development, Secretariat of the Pacific Community, Fiji. The panellists, who were also APCICT programme partners, represented a cross-section of stakeholders from government training and capacity-building institutions, intergovernmental organizations and academia.
+60. During the panel discussion, the panellists reiterated the importance of and need for ICT capacity-building at the national and subregional levels as reflected in specific policy frameworks and intergovernmental declarations. They presented best practices and success stories in the area of ICT for development capacity-building, and elaborated on how programmes were being customized in their countries or subregions to ensure greater reach and impact. Promoting partnerships, adopting a multi-stakeholder approach, enlisting the support of national champions and localizing the training content were cited as some of the strategies for success. Institutionalizing ICT capacity-building in long-term national training initiatives and university programmes was also noted as important for addressing the challenge of sustainability.
+61. The panel highlighted areas in which further work was required, such as ensuring the quality of capacity-building, developing common competency standards for the region and prioritizing programme monitoring and evaluation. The panel noted that in order to facilitate effective knowledge-sharing, networks of stakeholders as well as networks of resource persons needed to be developed, effective online and offline platforms for collaboration needed to be provided, and the collection and sharing of case studies needed to be enabled.
+62. The representative of the United Nations University International Institute for Software Technology offered to collaborate with APCICT on the development of the new module on ICTs for small and medium enterprises.
+63. The representative of Indonesia noted the growing demand for APCICT programmes from beyond the Asia-Pacific region and suggested that they be expanded to cover other regions. In that regard, she proposed that the name of the Centre be changed to “Global Training Centre on ICT for Development”. She also recommended that APCICT provide member States with statistical data relevant to ICT human capacity-building as part of its research efforts.
+64. The representative of Sri Lanka informed the Committee of his country’s plans for utilizing the APCICT Academy programme, which included use of the programme curriculum for conducting workshops and organizing training-of-trainer workshops in order to roll out the programme in two underserved provinces.
+65. The representative of Bangladesh briefed the Committee on ICT capacity-building efforts in his country, including the Digital Bangladesh initiative, which addressed specific areas, such as ICT education, ICT infrastructure, e-governance and the ICT industry. He outlined his Government’s plans to connect all the ministries, departments, districts and subdistricts by 2014. In the context of ICT education in universities in his country, he highlighted the need to integrate internships as part of academic programmes in order to ensure closer alignment between ICT education and the needs of industry.
+66. The representative of ITU informed the Committee of the launching of the “ITU Academy” as a capacity-building platform. Among other relevant initiatives of his organization, he noted that ITU centres of excellence were available for utilization by partners in capacity-building initiatives.
+	E.	Agenda item 8
+Consideration of the future focus of the subprogramme
+67. The secretariat presented an overview of the strategic framework for the bienniums 2012-2013 and 2014-2015 of the subprogramme on information and communications technology and disaster risk reduction, which served as basis for developing the related programme of work. The secretariat also provided an overview of the three ICT focus areas of the subprogramme: analytical work; promotion of regional practices, norms and policies; and capacity-building.
+68. The Committee noted that the focus areas were in line with the strategic framework which had been endorsed by the Commission.3 The representative of the Russian Federation suggested that the secretariat include, in the draft programme of work for the biennium 2014-2015, an output reviewing the possibility of creating new forms of regional integration by connecting new Internet hub cities.
+	F.	Agenda item 9
+Consideration of possible draft resolutions for submission to the Commission at its sixty-ninth session
+69. The delegations of Sri Lanka and the Philippines informed the Committee of their intention to co-sponsor, at the sixty-ninth session of the Commission, a draft resolution on ICT. The draft resolution would call for a strengthening of the role of ICT policy for the achievement of ICT-enabled inclusive and sustainable development in the region, and for the facilitation of holistic and integrated implementation of edevelopment programmes in the region. The delegations of Nepal, the Republic of Korea and Timor-Leste expressed support for the proposal.
+	G.	Agenda item 10
+Dates, venue and provisional agenda for the fourth session of the Committee
+70. The Committee agreed that its next session would be held in Bangkok during the fourth quarter of 2014.
+	H.	Agenda item 11
+Other matters
+71. No other matters were discussed.
+	III.	Organization of the session
+	A.	Opening, duration and organization
+72. The Committee on Information and Communications Technology held its third session in Bangkok from 20 to 22 November 2012. It was declared open by Mr. Anudith Nakornthap, Minister of Information and Communications Technology of Thailand following his keynote address. Opening addresses were delivered by Mr. Thares Punsri, Chairman of the National Broadcasting and Telecommunications Commission of Thailand, and Mr. Louis Napoleon Corpuz Casambre, Undersecretary and Executive Director, Information and Communications Technology Office, Department of Science and Technology of the Philippines. The Executive Secretary of ESCAP delivered opening remarks.
+	B.	Attendance
+73. The Committee session was attended by representatives of the following members of ESCAP: Australia; Bangladesh; Bhutan; Cambodia; China; India; Indonesia; Iran (Islamic Republic of); Japan; Kazakhstan; Kyrgyzstan; Lao People’s Democratic Republic; Malaysia; Mongolia; Nepal; Pakistan; Philippines; Republic of Korea; Russian Federation; Sri Lanka; Tajikistan; Thailand; Timor-Leste; United States of America; and Viet Nam. The session was also attended by the representatives of the following States: Chile; and South Africa.
+74. Representatives of the following United Nations specialized agencies and related organizations attended: International Civil Aviation Organization; International Telecommunication Union; and United Nations Educational, Scientific and Cultural Organization.
+75. The following intergovernmental organizations were represented: Asia-Pacific Postal Union; Pacific Islands Forum Secretariat; and Secretariat of the Pacific Community.
+76. The following representatives from other entities also attended: Asian Disaster Preparedness Center; Digital Divide Institute; Indian Space Research Organisation; International Federation of Red Cross and Red Crescent Societies; LIRNEasia; Metacognition Consulting; National Broadcasting and Telecommunication Commission; Nepali Manch Magazine; Order of Malta; Pacific Asia Travel Association; University of Indonesia; and United Nations University International Institute for Software Technology.
+77. The founding Director of Levering Ltd. participated as a resource person.
+78. Total attendance was 65 persons from ESCAP members and associate member, 2 persons from other States and 20 persons from other organizations.
+	C.	Election of officers
+79. The Committee elected the following officers:
+Chair:	Mr. Louis Napoleon Corpuz Casambre (Philippines)
+First Vice-Chair:	Mr. Fernando Carvalho Da Cruz (Timor-Leste)
+Second Vice-Chair:	Mr. Purushottam Ghimire (Nepal)
+	D.	Agenda
+80. The Committee adopted the following agenda:
+1. Opening of the session.
+2. Election of officers.
+3. Adoption of the agenda.
+4. Building regional connectivity for sustainable development: the creation of a seamless regional information space.
+5. Technological innovations and knowledge-networked societies: new sources of sustainable and inclusive development.
+6. Measuring progress: targets and information and communications technology indicators of the World Summit on the Information Society.
+7. Regional capacity-building on information and communications technology for development.
+8. Consideration of the future focus of the subprogramme.
+9. Consideration of possible draft resolutions for submission to the Commission at its sixty-ninth session.
+10. Dates, venue and provisional agenda for the fourth session of the Committee.
+11. Other matters.
+12. Adoption of the report of the Committee on its third session.
+	E.	Adoption of the report of the Committee on its third session
+81. The Committee adopted the present report on 22 November 2012.
+
+Annex
+List of documents
+SymbolTitleAgenda itemGeneral seriesE/ESCAP/CICT(3)/1Building regional connectivity for sustainable development: the creation of a seamless regional information space4E/ESCAP/CICT(3)/2Technological innovations and knowledge-networked societies: new sources of sustainable and inclusive development5E/ESCAP/CICT(3)/3Measuring progress: review of the targets and information and communications technology indicators of the World Summit on the Information Society6E/ESCAP/CICT(3)/4Report of the Asian and Pacific Training Centre for Information and Communication Technology for Development on its activities during the period 2010 to 20127E/ESCAP/CICT(3)/5Note verbale dated 10 October 2012 from the Office of the President of Sri Lanka addressed to the secretariat of the Economic and Social Commission for Asia and the Pacific4Limited seriesE/ESCAP/CICT(3)/L.1Annotated provisional agenda3E/ESCAP/CICT(3)/L.2Draft reportInformation seriesE/ESCAP/CICT(3)/INF/1
+(English only)Information for participantsE/ESCAP/CICT(3)/INF/2
+(English only)List of participantsE/ESCAP/CICT(3)/INF/3Tentative programme
+_________________
+     1	See A/C.2/59/3 and A/60/687.
+     2 	“The future we want” (General Assembly resolution 66/288, annex).
+3	See Official Records of the Economic and Social Council, 2010. Supplement No. 19 (E/2010/39-E/ESCAP/66/27), chap. III, sect. C, para. 182.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+E/ESCAP/CICT(3)/6
+
+
+E/ESCAP/CICT(3)/6
+
+
+14
+
+13
+
+United Nations	E/ESCAP/CICT(3)/6Economic and Social CouncilDistr.: General
+29 November 2012
+
+Original: EnglishEconomic and Social Commission for Asia and the Pacific
+Committee on Information and Communications Technology
+Third session
+Bangkok, 20-22 November 2012
+
+
+DMR A2012-000385  TP061212	CICT3_6E
+

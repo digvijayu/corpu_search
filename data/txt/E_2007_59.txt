@@ -1,0 +1,101 @@
+[Start1]
+Substantive session of 2007
+Geneva, 2-27 July 2007
+
+
+	*	E/2007/100.
+Item 7 (c) of the provisional agenda*
+Coordination, programme and other questions: international
+cooperation in the field of informatics
+
+
+
+		International cooperation in the field of informatics
+
+
+		Report of the Secretary-General
+
+
+
+	Summary	The present report was prepared pursuant to Economic and Social Council resolution 2006/35, in which the President of the Council was requested to convene the Ad Hoc Open-ended Working Group on Informatics for one more year to enable it to continue its efforts to act as a bridge, with regard to information technology, between the evolving needs of Member States and the actions of the Secretariat.
+	The report highlights the continuing cooperation of the Working Group and the Secretariat, resulting in practical enhancements in the area of technology that facilitate the work of Member States and Observers of the United Nations, as well as of non-governmental organizations accredited to the United Nations.
+
+	I.	Introduction
+
+
+1.	By its resolution 2006/35, the Economic and Social Council requested the President of the Council to convene the Ad Hoc Open-ended Working Group on Informatics for one more year to enable it to carry out, from within existing resources, the provisions of its resolutions on international cooperation in the field of informatics and to facilitate the successful implementation of the initiatives being taken by the Secretary-General with regard to the use of information technology.
+2.	The Council requested the Working Group to continue its efforts to act as a bridge between the evolving needs of Member States and the actions of the Secretariat. The Working Group has continued to collaborate closely with the Secretariat to direct its existing resources in practical ways that best meet the needs of Member States with regard to everyday use of information technology in accomplishing the work of the diplomatic community associated with the United Nations.
+
+
+	II.	Cooperation between the Ad Hoc Open-ended Working Group on Informatics and the Secretariat
+
+
+3.	The Working Group and the Secretariat have maintained their effective cooperation. During 2006, the focus of cooperation has continued to be informal meetings specifically related to cooperative efforts between the Working Group and the Secretariat.
+4.	Exploiting the mature technology infrastructure available for joint use, specifically wireless Internet access (Wi-Fi) and the QuickPlace website tool, the Secretariat and the Working Group now share responsibility for the creation and maintenance of web pages and document updates in a new mode of collaboration that is direct, transparent and timely.
+5.	With the guidance of the Working Group, the Secretariat intensified its efforts to more fully develop CandiWeb, the prototype QuickPlace website in support of the elections process. Working within existing resources, the Secretariat engaged volunteers, Secretariat staff, and the staff of permanent missions to create, maintain and support the site.
+6.	Building on its successful efforts with CandiWeb, the Working Group decided to gradually extend this mode of working-level coordination to similar information repositories of interest to the permanent missions. In that regard, the Secretariat began preliminary work with the First Committee to develop a prototype website.
+
+
+	III.	Information and communication technology infrastructure
+
+
+7.	The Secretariat continues to maintain the “dial-in” infrastructure, which allows missions to connect to the Internet and to access services such as e-mail and the World Wide Web.
+8.	Wi-Fi has been deployed throughout the public areas and conference rooms of the New York campus. Additional access points were added in 2006 to meet the rising demand for this service. To support Wi-Fi, power for mobile devices has been made available in most conference rooms and adjacent areas.
+9.	The Secretariat continues to maintain and improve the computer servers that support services to the missions. Server capacity is sufficient for the current workload.
+10.	The personal computers available to delegations continue to be upgraded as needed. These computers now make use of Wi-Fi, which has improved their performance. The Dag Hammarskjöld Library and Knowledge Sharing Centre (DHLink) continues to make workstations available to access a wide range of internal and external electronic information resources. Information and reference assistance are also available.
+11.	The Department for General Assembly and Conference Management continues to support and improve the online request registration process for bilateral meetings. Member States directly submit electronic requests for bilateral meetings using the eMeets system.
+12.	The Secretariat continues to refurbish older personal computers that are no longer needed and to furnish them to missions, under the overall guidance of the Working Group. Statistics on computing equipment donated to permanent missions in 2006 are contained in annex II to the present report.
+
+
+	IV.	Information technology services
+
+
+13.	As highlighted above, the Secretariat and the Working Group have cooperated to create a QuickPlace website in support of the elections process. CandiWeb is being used, in its initial implementation, to centralize existing information about elections and candidatures, providing a secure website that is easy to use and to which relevant parties can directly post information. The site makes use of existing Secretariat facilities, and maintenance of the site is shared among the diplomatic community and the Secretariat, coordinated by the Working Group. The Secretariat and the Working Group intend to further improve this site and its operation in the coming year while maintaining the ease of use that has made it a very useful tool for the diplomatic community.
+14.	Expanding on the successful implementation of CandiWeb, the Secretariat and the Working Group plan to address more comprehensively the particular information needs of delegations by exploring ways to integrate existing information resources through working-level cooperation. In that regard, the Working Group and the Secretariat plan, within existing resources, to re-implement the top-level website for the permanent missions (http://www.un.int) in order to improve its usefulness to the diplomatic community as a portal to both information and services.
+15.	The Secretariat provides website services for many permanent missions and, together with the United Nations Institute for Training and Research (UNITAR), is directly assisting some of them with their sites, in an experimental collaboration with DePaul University. During 2007 the Secretariat intends to substantially improve this service, aligning it with United Nations standards to enhance security, usability and maintainability.
+16.	The Secretariat continues to provide email services to the permanent missions. During 2007, with the cooperation of the Working Group, the Secretariat plans to migrate these email services from a non-standard platform to the standard platform used within the Secretariat. This will improve the reliability and maintainability of the email services while reducing duplication of effort.
+
+
+	V.	Training, support and awareness
+
+
+17.	The Working Group continues its focus on awareness and is gradually moving the results of its efforts online. The guide to Internet services for delegations will be incorporated into the re-implementation of the top-level website for permanent missions described above.
+18.	The Working Group and the Secretariat continue to explore the idea of establishing a forum in which the diplomatic community and the Secretariat can exchange information and views concerning information and communication technology in the Secretariat, including strategies and initiatives, as an extension of the Working Group’s focus on awareness and to serve as an additional bridge between Member States and the Secretariat in the area of informatics.
+19.	The Dag Hammarskjöld Library and Knowledge Sharing Centre (DHLink) continues to enhance its programmes for training in the management and use of United Nations documentation, as well as in the use of United Nations and external online databases and resources. Personal coaching on the use of information tools is also available. UNITAR is also active in providing training for mission staff, especially those new to New York.
+20.	The Secretariat provides support, typically via the Information Technology Services Division Help Desk, whenever there are problems with any of the provided services or infrastructure. In 2006, over 1,400 calls from permanent missions were handled by the Help Desk.
+
+Annex I
+
+		Meeting of the Ad Hoc Open-ended Working Group on Informatics
+
+
+DateMeeting/presentationShort description of topics discussed8 November 2006MeetingThe Working Group and the Secretariat presented and discussed CandiWeb, the elections and candidatures website. The Working Group decided to continue with this effort as it has proven useful for delegations. The Working Group also decided to pursue the extension of this effort to other information resources of interest to the work of delegations, possibly including the creation of an appropriately secured information portal for their use.
+
+Annex II
+
+		Personal computers given to permanent missions
+
+
+Equipment typeNumberCentral processing units771Monitors547Printers 427Other devices46
+
+[Start1]<<ODS JOB NO>>N0733423E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2007/59<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+E/2007/59
+
+E/2007/59
+
+07-334236
+
+507-33423
+
+United NationsE/2007/59 
+Economic and Social CouncilDistr.: General
+7 May 2007
+
+Original: English
+
+
+07-33423 (E)    220507    
+*0733423*
+

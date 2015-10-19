@@ -1,0 +1,524 @@
+[Start1]
+Fifty-seventh session
+Agenda item 112
+Programme budget for the biennium 2002-2003
+
+
+
+		Information and communication technology strategy
+
+
+
+
+	*	The release of the present report has been delayed to allow its final revision in line with the strategic direction articulated in the report of the Secretary-General entitled “Strengthening the United Nations: an agenda for further change” (A/57/387 and Corr.1).
+		Report of the Secretary-General*
+
+
+
+	Summary	The present report contains the revised information and communications technology strategy which builds on the objectives and framework laid out in the report of the Secretary-General entitled “Information Technology in the Secretariat: a plan of action” (A/55/780), and addresses the requests and observations made by the General Assembly in its resolution 56/239 of 24 December 2001.
+	The framework and proposals described in this document are also designed to support the programme of reform of the Secretary-General as presented in his report entitled “Strengthening of the United Nations: an agenda for further change” (A/57/387 and Corr.1). The programme regards information and communications technology (ICT) as fundamental to the ongoing implementation of the reform process and, as such aligns ICT with the substantive programmes and the management and administrative processes of the Organization.
+	The proposed strategy has been developed over three underlying themes: (a) alignment with programmatic goals; (b) projected return on investment; and (c) governance. These themes are reflected in sections IV, V and VI of the present document.
+	The investments in information and communications technology will be targeted on delivering tangible returns in three areas, considered to be representative of core activities of the Organization: (a) the sharing and dissemination of the Organization’s institutional knowledge capital; (b) administrative and management processes; and (c) the servicing of the United Nations organs and governing bodies. Each ICT initiative is envisioned to be delivered within a matrix of ICT standards and best practices to ensure efficiency, interoperability and adequate support.	Four elements form the necessary “building blocks” for the delivery of value-added services: (a) a robust infrastructure at Headquarters and at offices away from Headquarters; (b) security policies and provisions to ensure business continuity and systems integrity; (c) reliable connectivity with the field; and (d) the building and efficient utilization of a human resources base with focused skills in key technologies and management practices.
+	A governance structure, in line with the organizational complexity of the Secretariat, provides for a central policy and standards-setting body, as well as the necessary level of central, departmental and geographical representation and participation in all relevant ICT initiatives and decisions. This governance body, addressed in detail in section VI, has achieved the necessary level of coordination to ensure that the initiatives are harmonized and integrated into an overall global programme.
+	The present document, prepared in collaboration with the Information and Communications Technology Board, presents a strategic vision of ICT in the Secretariat worldwide, as well as projects and initiatives to be undertaken by the Organization until the end of 2005. Although the strategic direction of ICT may not change significantly beyond 2005, technologies and current projects will. Therefore, a revision of the document may be necessary after 2005.
+
+Contents
+ParagraphsPageI. 	Introduction	1–44II. 	Overview	5–174III. 	Drivers	18–278A. Programmatic drivers	19–218B. Institutional drivers	22–248C. External drivers	25–279IV. 	Focus areas	28–599A. E-management	34–4111B. Knowledge sharing	42–5512C. Services to governing bodies	56–5916V. 	Building blocks	60–8017A. Infrastructure	60–6617B. Security	67–7118C. Field connectivity	72–7419D. Capacity-building	75–8020VI. 	Governance	81–8621VII. 	Resource aspects	87–9022VIII. 	Conclusion	91–9423	Annexes	I.	Most notable projects and initiatives (2002-2005)	25	II.	Frequently asked questions	37
+
+	I.	Introduction
+
+
+1.	The General Assembly, in resolution 54/249 of 23 December 1999 (para. 61), requested the Secretary-General to develop a comprehensive strategy for the development and implementation of information technology. Accordingly, and in line with action 27 (d) of his programme for reform (A/51/950), on 13 February 2001, the Secretary-General submitted an information technology strategy for the Secretariat as a whole to the General Assembly in his report entitled “Information technology in the Secretariat: a plan of action” (A/55/780).
+2.	By resolution 56/239 of 24 December 2001, the General Assembly requested the Secretary-General to resubmit the plan of action for consideration at its fifty-seventh session, taking into account the observations and recommendations of the Advisory Committee on Administrative and Budgetary Questions thereon1 and, inter alia:
+	(a)	Developing a specific plan to improve efficiency through the application of information technology in the Secretariat and the action required to implement it;
+	(b)	Defining clearly the responsibilities of the different bodies in the application and integration of information technology within the United Nations;
+	(c)	Addressing the objective of improving decision-making with respect to information technology in the Secretariat by improving coordination and reducing duplication;
+	(d)	Developing a cost-benefit analysis for use in identifying information technology priorities.
+3.	The broader context for the present report is provided by the Secretary-General’s reform report, entitled “Strengthening of the United Nations: an agenda for further change” (A/57/387 and Corr.1), which aims at aligning the United Nations programme of work with the United Nations Millennium Declaration, along with the outcomes of the International Conference on Financing for Development, the World Summit on Sustainable Development and other major conferences of the past decade. These major conferences and summits have outlined a comprehensive vision of what Member States seek to accomplish. The need for a strong multilateral institution has never been more acutely felt than it is today, in the era of globalization. 
+4.	The present document comprises three separate parts: the main body of the report and two annexes. Annex I includes a list of projects and initiatives to be undertaken until the end of 2005 and annex II contains a list of frequently asked questions, and their answers, as well as issues raised in the recent past on several matters related to information and communications technology.
+
+
+	II.	Overview 
+
+
+5.	Major advances in information and communications technology, combined with the rapid growth of global networks, such as the Internet, have created new opportunities for the United Nations system for the realization of the global vision. Harnessing strategically the power of information and communication technologies will serve as an accelerator and enabler to the realization of the Organization’s goals and commitments. The Organization itself will need to enhance its capacity to create, share and disseminate knowledge and be able to function efficiently and effectively in the emerging knowledge-based world economy. 
+6.	Information technology is the key enabler that will allow us to become a more focused and empowered Organization, as well as a more flexible one that readily accommodates to changing needs. What is envisioned is an Organization that has efficient internal processes that facilitate decision-making at the appropriate level, and that is properly supported by automation, and an Organization that fully coordinates all its activities, making creative use of the collaboration tools and techniques that are now on the forefront of the information revolution, and which make breakthrough performance possible as old barriers are transcended.
+7.	The ICT strategy presented in the present report identifies a series of initiatives, driven by foreseeable substantive needs, that address the core of these issues, and which support the process of reform, as summarized below. The report does not list every individual initiative that would be taken on the basis of the strategy, but rather, describes prominent elements that require the most attention. Moreover, not all needs can be anticipated, and technologies and current projects are certain to change. Revisions and additions to the strategy will therefore be required in the course of its implementation to reflect both widening and changing needs that cannot be predicted. 
+8.	As the focus on “doing what matters” is sharpened, information technology is critical along a number of dimensions: timely delivery of coherent public information is increasingly dependent upon technology and places ever-increasing demands upon our technological infrastructure (networks, computers, etc.), as well as our staff; consolidation of information centres and the continued evolution of the libraries towards online functions have similar impact; the management of information needed to support rational decision-making reflecting organizational priorities and alignment must be continually enhanced. The strategy presents initiatives in all these areas and, in addition, has measures to improve flexibility through substantial enhancements to the Integrated Management Information System (IMIS), as well as process improvements. In the future, continued emphasis on technological infrastructure will be essential and systems and processes will be increasingly integrated, worldwide in scope and required to be fully operational all day every day of the year. Only in this way can the priorities of the Organization be achieved.
+9.	“Serving member States better” requires increased emphasis on process improvements facilitated by automation, to tighten and integrate the management of meetings and documents. Initiatives in the strategy address these areas, as well as infrastructure enhancements to videoconferencing. The processes for handling multilingual meetings and documents are a core function of the Organization and, as such, will be the continuing subject of future initiatives.
+10.	Collaboration is fundamental to the mission and operation of the Organization; information technology is essential to achieving the goal of “working better together”. The technological tools and techniques supporting organizational effectiveness through collaboration are rapidly evolving and are not as mature as those supporting efficiency, which were touched on in the previous paragraphs. As an Organization, full use of the telephone and good use of e-mail is made, but even these basic services are evolving as digital technologies converge towards a future of integrated video, voice and text delivered anytime anywhere. The strategy includes initiatives to share knowledge and promote collaboration across the breadth of the Organization and with civil society. The potentially explosive growth of the use of collaboration technologies has major implications for the technological infrastructure of the Organization, yet these technologies must be employed in order for the goal of a more effective Organization to be achieved, and there must therefore continue to be a push forward in this area.
+11.	The way in which programmes at Headquarters and in the field are managed and guided is evolving. The emerging philosophy is that Headquarters is responsible for establishing policy, providing appropriate resources and monitoring programme performance. Programme managers at every level are appropriately empowered by enabling them to make informed decisions and by holding them accountable for their programme’s performance. ICT is an essential “enabler” for this transformation. 
+12.	In order to be effective at “allocating resources to priorities”, planning, budgeting and management processes should be fully supported by automated information systems. The strategy does not yet contain initiatives addressing these specific areas, but anticipates that such initiatives will be required to improve the efficiency and effectiveness of management information in general. The proposed improvements in the management of trust funds may, for example, require enhancements to IMIS.
+13.	Addressing the issue of “the Organization and its people: investing in excellence”, empowerment of individuals using information technology underlies many of the goals. Trusted staff making use of re-engineered processes that capture data directly and process it immediately is an aspect where the Organization makes an investment in information technology and process improvement that is matched by increased staff responsibility. The strategy contains initiatives that address these issues in areas such as recruitment and benefits. Looking to the future, increased staff flexibility, which may call for work from home, mobile data access and other technological features, will spawn more initiatives that are responsive to the professional needs of staff. Further initiatives are anticipated in the review of delegation of authority and the ongoing identification of areas of possible administrative duplication. Such reviews may involve the development of an organization-wide approach to automating administrative processes.
+14.	One building block of the strategy deserves special emphasis: security. The network and computing infrastructure of the United Nations is under constant and accelerating attack. At the same time, as an Organization, it is increasingly dependent upon the proper functioning of this infrastructure every hour of every day. There are initiatives in the strategy to address security policy and the technologies to implement it. However, as the Organization becomes increasingly interconnected electronically, both internally and within the United Nations system, as well as with civil society, there will be a push to create a layered security structure that is increasingly sophisticated, balancing, as it must, the conflicting demands of transparency and confidentiality for tens or hundreds of thousands of users. Substantial initiatives in this area can be anticipated as we move into the increasingly interconnected future. 
+15.	A successful ICT strategy is one that transforms technology into a key business enabler. It is focused on delivering tangible improvements in the way the Organization and its stakeholders use and share information. 
+16.	The framework and proposals described in the present document will make possible this transformation by applying information and communication technologies to:
+	•	Enable decision-making and administrative processes to become more effective
+	•	Facilitate the sharing of the Organization’s institutional knowledge
+	•	Provide higher quality services to governing bodies and Member States
+17.	The chart below displays an overall picture of the service delivery model proposed in the strategy.  A similar chart, prepared at a lower level of detail showing all projects and initiatives mentioned throughout the document, is included in annex I.
+
+
+
+	III.	Drivers
+
+
+18.	The proposed strategy has been developed taking into consideration three sets of factors or drivers: programmatic, institutional and external.
+
+
+	A.	Programmatic drivers
+
+
+19.	The strategy must ensure that ICT investments are aligned with the programmes of the Organization. In ICT, alignment can be defined as the capacity to generate value added to an activity and to demonstrate a positive relationship between technology and accepted measures of performance.
+20.	In the private sector these measures of performance are generally associated with positive financial impact, for example, revenue growth and cost reduction, leading to overall higher profits. In the United Nations context, higher performance means higher quality of services, for instance, more accurate and relevant information, timely availability of documents, faster and greater access to information and provision of the capability to add efficiency to its administrative and management processes.
+21.	Taking into consideration the multitude of substantive activities undertaken in the Secretariat worldwide, the focus of an Organization-wide ICT strategy needs to be at a level where it can produce and reflect tangible returns in all areas. Hence the strategy focuses on the three widely encompassing activity areas of knowledge sharing, administrative and management processes, or e-management, and services to governing bodies. The concept is developed in detail in section IV.
+
+
+	B.	Institutional drivers
+
+
+22.	The complex organizational structure and the geographical set-up of the Secretariat also play a significant role in the development and execution of the ICT strategy. In addition to having a wide scope of substantive activities, unique among United Nations system organizations, the United Nations Secretariat operates over a diverse organizational landscape, which combines large Headquarters-like campuses and field operations. This requires a robust yet flexible telecommunications and security infrastructure and a complex flow of information to support decentralized operations and centralized reporting.
+23.	The Organization’s body of rules and regulations, especially those related to personnel recruitment and career development, play a significant role in shaping the strategy. 
+24.	Lastly, the level of financial resources made available to ICT will limit the number and magnitude of initiatives to be undertaken. It should be noted that the level of resources devoted to ICT at the United Nations Secretariat, as a portion of the overall regular budget (approximately 5 per cent), has been historically low, compared with other information-intensive organizations. The Secretary-General’s report on reform highlights the Organization’s historical underinvestment in information technology and related training and calls for appropriate increases in resources. The proposed ICT strategy foresees a substantial increase in training resources needed to provide the internal capacity of the Organization to maximize the potential of ICT as an enabler of change. 
+
+
+	C.	External drivers
+
+
+25.	The current and projected state of the technology landscape are major determining factors in shaping the strategy. The likely emergence of new products and industry standards, costs, interoperability of alternative technical solutions and maintenance aspects all have a very significant influence in the direction in which the strategy foresees ICT in the Organization. 
+26.	In line with current and projected trends, most systems will be developed to be Web accessible, avoiding proprietary client software components, that is, software that needs to reside in individual users’ computers, as they carry significant maintenance and additional support costs. Furthermore standardization and central distribution of software will be pivotal, as they have proven to be cost-containment and streamlining factors. 
+27.	The threat of “cyberterrorism”, following the events of September 2001, is a major consideration in the manner in which networks and operational environments are being designed and operated. The increasing sophistication of computer viruses, disseminated over the Internet, have potential crippling effects to entire networks and have the capability of seriously compromising the integrity of information systems. Large and visible organizations are required to substantially increase their investment in information security, secure communications and business continuity infrastructure. 
+
+
+	IV.	Focus areas
+
+
+28.	Information and communications technology in the United Nations Secretariat is focused on delivering positive results in three widely encompassing areas: (a) the sharing and dissemination of the Organization’s institutional knowledge capital; (b) administrative and management processes; and (c) the servicing of the United Nations organs and governing bodies.
+29.	As shown in figure 1 below, the following four elements collaborate as “building blocks” in the proposed service delivery model: (a) a robust infrastructure; (b) security policies and provisions to ensure business continuity, secure communications and integrity of information; (c) reliable connectivity with the field; and (d) the building and retaining of internal capacity (skilled human resources).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1
+30.	A governance structure, in line with the organizational complexity of the Secretariat, ensures the necessary level of representation and participation in all relevant ICT initiatives by both departments and the offices away from Headquarters.
+31.	In line with the broad objectives of the strategy, all ICT investments need to generate tangible returns. Return on investment will be the top determining factor in assigning priorities to ICT projects and initiatives. It will be quantified, whenever possible, by projecting the total economic impact of the application of ICT to a process or the opportunity costs associated with proposed initiatives. However, as return on investment may be difficult to quantify for certain initiatives and projects, typically those brought about by ICT tools that support knowledge sharing and dissemination, a set of qualitative benefits are being proposed to determine the overall return on investment for each project. The indicators of return, which are listed below, will be used to rank projects and ultimately to assign priorities.
+	•	(SI) Service improvement: Quicker access to information and/or higher quality services
+	•	(PS) Process streamlining, eliminating duplication and having the potential for redeployment of resources
+	•	(L) Leveraging past investments. Updating and extending the life of current systems
+	•	(D) Strong enabler in the decision-making process
+32.	The tables shown in annex I present the key initiatives undertaken or proposed through the end of 2005 for the three focus areas. The return indicators will determine the priority assigned to each project-initiative-investment. Return indicators are not being used for elements of the four “building blocks”, as they are considered indispensable and their deferral is not a viable option.
+33.	Although the return indicators will determine the priority assigned to the initiatives and projects, they alone will not indicate start dates and the overall scheduling of projects. These are impacted also by other factors, such as available funding and prerequisite projects completed.
+
+
+	A.	E-management
+
+
+34.	This area encompasses the management and administrative systems where the returns generated by ICT are associated with improving the decision-making process and adding efficiency through streamlining of administrative workflows and reducing duplication.
+35.	At the core of the administrative structure and workflows is IMIS, which supports personnel, finance, payroll, procurement, travel and related administrative functions. Its integrated database ensures the integrity of data and single-source input to the Organization’s financial statements and related reporting.
+36.	As shown in figure 2, several systems that provide additional functionality to administrative and management processes interchange data with IMIS through automated interfaces.
+37.	A premise of the proposed ICT strategy is that IMIS will continue to play a pre-eminent role in the administrative processes of the Secretariat for at least the next five years. As underscored in the report of the Secretary-General on reform (A/57/387), the Organization intends to build on the achievements of IMIS. On this same basis, the General Assembly approved the appropriation of funds for the technological upgrade of the system to ensure its viability and alignment with the administrative processes of the Organization.
+38.	The review of delegation of authority and the responsibilities of the Department of Management and the executive offices would form the basis of an initiative to implement new automated processes using modern workflow techniques to eliminate paper, increase transparency and greatly improve speed. Enhanced interfaces to IMIS would be part of this initiative. The feasibility of an Organization-wide approach to automating administrative processes will also be assessed.
+39.	In addition to IMIS, several human resources information systems (Galaxy, ePAS and the Human Resources Handbook) are expected to play a central role in supporting the human resources reform and in providing effective and efficient mechanisms for human resources recruitment, performance management and client service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2
+40.	The Key Item Management Reporting System provides analytical information on key performance indicators to facilitate decision-making processes. The system uses IMIS as its source of data.
+41.	Details on the projects and initiatives in the area of e-management are included in annex I, table I.1.
+
+
+	B.	Knowledge sharing
+
+
+42.	The United Nations can be seen, irrespective of technology, as a global “collaboration system”. Formal and informal meetings, a great variety of documents in multiple languages and information interchanges of all kinds, both structured and unstructured, are part of this system. Many stakeholders, both internal and external are simultaneously involved in the system. The challenge to the Organization is to reinvent itself in the interconnected world, harnessing technology to collaborate effectively and empower programme managers in the information age.
+43.	The Organization can also be viewed as the natural home of “information hubs”, virtual centres of data, dialogue, and focused collaboration that address the many substantive issues facing the United Nations at any point in time. Each hub would enable rich interaction, at many levels of access, among the experts and knowledge seekers, both within and from outside the Organization who are concerned with its area of focus. In effect, a hub would comprise a global “community of interest” dedicated to a substantive subject that is chartered by the Organization and aligned with its goals. The Organization would set as the objective for each information hub that it become globally pre-eminent in its focus area, cutting across the structures of the United Nations and engaging civil society intensely and comprehensively.
+44.	Realizing the concepts of the United Nations as a technology-enabled collaboration system, hosting a dynamic goal-aligned set of information hubs, goes beyond the ICT strategy into the realm of information management. Nevertheless, this strategy addresses knowledge-sharing issues that are considered key, as outlined in the subsequent paragraphs.
+45.	This area of focus encompasses the approach, methodologies and specific projects and initiatives to promote and facilitate the sharing of the knowledge capital of the Organization, both internally and externally. There is no standard blueprint for knowledge sharing and knowledge management. While, in the case of administrative and management processes, workflows and business functions have been well established and documented, as they have been part of the everyday activities of the Organization for decades, processes that drive knowledge sharing still constitute a “work in progress”.
+46.	Mechanisms to promote and support knowledge sharing will be developed under the coordination of the Knowledge Sharing Task Force of the Information and Communications Technology Board. The Intranet will be the key medium to enable internal knowledge sharing, while an Extranet will be used to facilitate the sharing of knowledge among organizations of the United Nations system.
+47.	As part of the restructuring of the Department of Public Information, Web-based activities are being strengthened and centralized to enhance its ability to deliver more effectively an increasing range of targeted information products in all official languages to audiences in all regions of the world.
+48.	The chart below displays what may be defined as the stakeholders or users of information items generated and maintained by the United Nations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3
+49.	The knowledge capital of the United Nations Secretariat could be seen as knowledge elements of one or more of the types shown in figure 4 below. The chart intends to categorize knowledge along two dimensions: (a) explicit/implicit and (b) formal/informal. The first dimension differentiates information items that may be in written and/or recorded on electronic media from the knowledge that is unwritten and not recorded. The second dimension (formal/informal) divides knowledge elements on the basis of the role assigned to them within the Secretariat.
+
+		Knowledge in the United Nations Secretariat
+
+
+
+ExplicitImplicitFormal* Normative documents
+* Parliamentary documents
+* Reports
+* Publications
+* Databases
+* Administrative instructions
+* Information circulars
+* Products for the media* Organizational unit’s core qualifications
+* Individual staff’s core competencies
+* Instructions, guidance, mentoring
+* Meetings discussions, presentationsInformal* Consultants’ reports
+* Documented procedures
+* Systems specifications
+* Lessons learned reports
+* Project plans
+* Feasibility studies
+* Technical publications
+* Training manuals and materials
+* Templates (requests for proposals, requests for information)
+* Databases
+* Bulletin boards
+* Frequently asked questions* Competencies of former staff
+* Staff institutional memory
+* Staff former experience
+* Consultants presentations
+* Seminars
+Figure 4
+
+
+50.	While the Organization has made and will continue to make progress in sharing formal/explicit knowledge, that is, the top left quadrant, the proposed ICT strategy will also address knowledge elements in the other three categories, which at present remain largely isolated and untapped. One goal in this area is for the Organization to “know what it knows” as a first step towards being able to leverage this knowledge effectively.
+51.	The development and implementation of a United Nations Secretariat directory of skills will result in the ability to easily find specific competencies within the Organization worldwide. This will greatly facilitate the development of communities of practice and the enabling and utilization of implicit knowledge sources.
+52.	Several additional knowledge-sharing initiatives in support of the Department of Public Information are also being planned: (a) centralizing and strengthening the Organization’s web site and the management of its content; (b) rationalizing the network of information centres; (c) moving further in the direction of a virtual library; and (d) online service and delivery of published information.
+53.	Significant progress has been made by the Secretariat in activities that impact the entire United Nations system. As lead agency, the Information Technology Services Division of the United Nations, in coordination with the secretariat of the United Nations System Chief Executives Board (CEB) successfully implemented the United Nations system Extranet, a facility that allows United Nations system organizations to share information and software applications in a secure manner. At present, the Extranet allows access to the Directory of Senior Officials. It is foreseen that other software applications and information products will be added to the Extranet in the near future.
+54.	In addition, in the context of initiatives with an impact on the United Nations system, the Information Technology Services Division, in coordination with the CEB secretariat, will be implementing before the end of 2002, on a pilot basis, a United Nations system-wide search engine based on the Google search facility. The system will greatly facilitate access by Member States and the general public to United Nations system-wide Web-based information. Users will no longer need to access the individual web sites of United Nations funds, programmes and specialized agencies when looking for specific thematic material, but rather, will be able to search the entire United Nations system from a single entry point.
+55.	Details on the projects and initiatives in the area of knowledge sharing are included in annex I, table I.2.
+
+
+	C.	Services to governing bodies
+
+
+56.	Ample opportunities exist for significant improvements in the quality and efficacy of the services provided to governing bodies and organs of the United Nations. The workflows involved in the normal operations of these bodies could significantly benefit from the application of information and communications technology.
+57.	The proposed strategy foresees several initiatives involving the coordinated efforts of the Department for General Assembly and Conference Management, the Department of Public Information and the Department of Management to improve the quality of services provided and to add efficiency to the administrative processes involved. The specific areas of focus are:
+	•	Meetings and conference support
+	•	Conference resource planning and allocation
+	•	Linking of meeting subject and relevant documents
+	•	Meeting-room documentation (draft resolutions) 
+	•	Regional groups Extranets
+58.	Specific initiatives under the Department for General Assembly and Conference Management will be launched to promote the strategic use of ICT in the Department, as called for in the report of the Secretary-General entitled “Strengthening of the United Nations: an agenda for further change” (A/57/387 and Corr.1) and further described in the report of the Secretary-General on improving the performance of the Department of General Assembly Affairs and Conference Services (A/57/289 and Corr.1). These initiatives will, inter alia, address electronic document processing and print-on-demand, which will enable a more cost-effective production of official documents.
+59.	Annex I, I.3 includes the initiatives and projects planned within the time horizon of this strategy.
+
+
+	V.	Building blocks
+
+
+	A.	Infrastructure
+
+
+60.	A robust infrastructure is essential to ensure sustainable and reliable ICT operations and to enable the Organization to deliver effective services. While, in the relatively recent past, office automation facilities and networked computing were considered mere productivity enhancers, today they are deemed to be basic necessities for the normal operation of any office. Malfunctions in the local or wide area networks (LAN/WAN), electronic mail, IMIS and the connectivity to the Internet tend to have crippling effects. Furthermore, as the United Nations Secretariat operates globally over virtually all time zones and in an interconnected manner, the telecommunications and central computing infrastructure must be available and operating adequately at all times, hence its placement as the foundation of the service delivery model. 
+61.	In addition to having adequate physical infrastructure in place to ensure maximum availability of services, emphasis is also being given to the management of the ICT infrastructure. Standardization and the adoption of best practices in using and managing ICT are critical to ensuring compatibility of systems worldwide and acceptable performance.
+62.	The central management approach applied to software distribution and desktop computing support has been essential in reaching current performance levels with very limited support resources. It should be noted that, although there are more than 7,000 network-connected desktop computers at United Nations Headquarters alone, the level of resources dedicated to their support is extremely low (10 contract personnel at the Information Technology Services Division Help Desk), compared to generally accepted industry standards. By utilizing central software distribution, new versions of software, anti-virus updates and configuration parameters are applied automatically through the network to all connected computers. The strategy foresees the implementation of central software distribution at all offices worldwide.
+63.	The use of service level agreements between the central support service (Information Technology Services Division) and user departments will continue and will be implemented globally and enhanced to cover additional service elements. Service level agreements permit the necessary flexibility in the provision of services to a large and heterogeneous user population.
+64.	An approach to centralizing enterprise storage facilities through the implementation of storage area network (SAN) technologies has proven to be extremely cost-effective by making possible the drastic reduction in the 
+number of LAN servers deployed and requiring maintenance. Furthermore, SANs significantly improve availability by using higher performance disk technology. The United Nations Secretariat is implementing this technology through a joint Department of Management/Department for General Assembly and Conference Management/Department of Peacekeeping Operations initiative. The same technology is planned for use at the United Nations Office at Geneva and at the United Nations Logistics Base at Brindisi, Italy, enabling three sites (New York, Geneva and Brindisi) to provide back-up facilities to one another.
+65.	In addition to the initiatives mentioned above, the upgrading of various components of the physical infrastructure is planned, including replacement of the Headquarters telephone switch (PABX), which has become obsolete and can no longer be maintained. 
+66.	The list below shows the ongoing and planned major initiatives aimed at fulfilling identified infrastructure needs:
+
+ActionTime frameMigration to Windows 2000First quarter 2002 to Third quarter 2003New PABXFirst quarter 2003 to Fourth quarter 2004Storage area networksFirst quarter 2002 to Fourth quarter 2005Central servers fault toleranceSecond quarter 2005 to Fourth quarter 2005Content management system at Headquarters
+and offices away from HeadquartersFirst quarter 2002 to Fourth quarter 2003Enhanced service level agreementsThird quarter 2002 to Second quarter 2003Multi-point digital videoconferencingFirst quarter 2004 to Fourth quarter 2005Virtual meeting roomsFirst quarter 2004 to Fourth quarter 2005Personal digital assistant/calendaring integrationThird quarter 2002 to Second quarter 2003
+
+
+	B.	Security
+
+
+67.	In the current global context, information security and the framework and measures to ensure business continuity need to be given close attention and prioritized accordingly. The likelihood of “cyberterrorism” attacks with potentially devastating effects to all information-intensive organizations requires that adequate business continuity plans be developed and implemented without delay.
+68.	Even without considering major catastrophic events, the increasing sophistication of viruses disseminated through the Internet constitutes an ever-present threat to normal operations, requiring appropriate measures. Anti-virus facilities at several levels, desktop computers, LAN servers and e-mail messages need to be frequently updated to detect and eradicate newly developed viruses. In addition to viruses, the Organization is exposed to attempts at unauthorized access by hackers, “mail-bombs”, and other potentially disrupting actions, which require proper and constant monitoring, as well as the engineering and maintenance of robust network security facilities. Multilayer firewalls, operating both at the perimeter of the network as well as around critical segments, will continue to be used and enhanced as part of the network security infrastructure.
+69.	Secure communications and secure data-storage facilities to protect the confidentiality and integrity of information are a core element of the information security infrastructure. Data encryption over the transmission lines, as well as on the storage facilities, are already being used and will continue to be part of the normal operating procedures and standards in place at all offices. Encrypted electronic mail and procedures to ensure its proper use will replace the current system of code cables.
+70.	The proposed strategy includes the preparation of a comprehensive ICT security policy, which will cover business continuity plans, as well as norms on data security and data privacy. Disaster recovery scenarios, from normal operational disruptions to major catastrophic events, are being considered within the business continuity plans. Network security designs have been developed and are being implemented at Headquarters and at offices away from Headquarters. Standards based on strict network security guidelines based on current industry standard procedures are being put in place at all offices worldwide.
+71.	The list below indicates the major actions currently being undertaken and planned in the area of information security:
+
+ActionTime frameComprehensive security policyThird quarter 2002 to Second quarter 2003Business continuity planFourth quarter 2002 to Second quarter 2003Redundancy of critical hardwareFirst quarter 2004 to Second quarter 2005Standardized procedures for 4 A’sSecond quarter 2002 to First quarter 2003	•		Access		•	Authorization		•	Accreditation		•	AdministrationMulti-layer firewallsFirst quarter 2001 to Fourth quarter 2002Advanced virus protectionOngoingSecure communicationsOngoing
+
+
+	C.	Field connectivity
+
+
+72.	Enabling field offices, large and small, to connect to the United Nations Secretariat wide area network is an essential requirement in the implementation of most deliverables in the area of e-management and knowledge sharing. The Department of Peacekeeping Operations has taken a leading role in ensuring that the local infrastructure at all peacekeeping and political missions and at other field activities, such as tribunals, is adequate and capable of connecting to Headquarters either through satellite or land-based links. The United Nations Logistics Base at Brindisi provides coordination, communications, materiel and logistics support to the missions. The Information Technology Services Division is responsible for the provision of central support 24 hours a day, 7 days a week at United Nations Headquarters and, to enable full connectivity to the United Nations Secretariat Intranet.
+73.	In addition to peacekeeping missions, the proposed strategy includes plans to connect the United Nations information centres to the Intranet by using secure virtual private network technology.
+74.	Below are the major actions and time frames proposed:
+
+ActionTime frame•	Connect all peacekeeping missions to the IntranetFirst quarter 2001 to first quarter 2002•	Connect United Nations information centres to the IntranetThird quarter 2002 to second quarter 2003•	E-Stars (messaging with peacekeeping missions)Third quarter 2002 to first quarter 2003•	Joint Department of Peacekeeping Operations-Department of Management network operationsOngoing•	Virtual private networksSecond quarter 2002 to third quarter 2003•	Advanced data switching (IGX)First quarter 2001 to fourth quarter 2002
+
+
+	D.	Capacity-building
+
+
+75.	Skilled human resources and an adequate physical infrastructure are critical success factors in the implementation of the ICT strategy. Technical training and the adoption of best practices in the management, development, operation and use of ICT comprise the essential elements in building internal capacity. As highlighted in the above-mentioned report of the Secretary-General on further change (A/57/387 and Corr.1), significant increases in training will be needed to support this process. Achieving critical mass in key technologies through the intense training of ICT staff is essential to efficient delivery of services. In addition, the staff of the entire Organization is dependent upon ICT, and their training in its efficient and effective use should be enhanced.
+76.	As a first step towards adopting a consistent and proven approach, codified practices, such as those published by the Information Technology Infrastructure Library and the Information Technology Service Management, are being compiled and will be disseminated to staff who are assigned ICT-related responsibilities.
+77.	Standard methodologies for the development of systems and the management of ICT projects have been completed by the Information Technology Services Division and are being introduced throughout the Secretariat. The adoption of standard methodologies, including the use of mandatory cost-benefit analyses as a prerequisite for the development of all new systems and the initiation of ICT-related projects, will provide a consistent approach to ensure alignment and returns on investment.
+78.	The concept of “economies of skill”, already in place (the implementation of Galaxy being an example), will be further promoted through the Information and Communications Technology Board and ICT committees and task forces as a vehicle for optimizing the use of existing skilled resources. The United Nations Secretariat directory of skills, once implemented, will further complement the coordination efforts of these ICT governing bodies by facilitating the rapid location of specialized skills dispersed throughout the Organization.
+79.	In addition to building internal skills, selective outsourcing, especially for skills which tend to be commoditized and do not require institutional knowledge, will continue to be used. The practice of using multiple systems contracts for these types of services will continue to guarantee prompt availability when required.
+80.	Major actions and their time frames are listed below:
+
+ActionTime frame•	Code of best practicesFirst quarter 2002 to third quarter 2003•	Inventory of ICT assetsFirst quarter 2002 to fourth quarter 2002•	Economies of “skill”Ongoing•	Selective outsourcingOngoing•	In-house and off-site technical trainingOngoing•	Matrix managementOngoing•	Standard system development methodologiesFirst quarter 2002 to fourth quarter 2002
+
+
+	VI.	Governance
+
+
+81.	The management of ICT is a pivotal element of the strategy. The report of the Secretary-General entitled “Information technology in the Secretariat: a plan of action” (A/55/780) proposed a system of governance which addressed the need to have a central body tasked with the promulgation of standards throughout the Organization and conversely, put in place a mechanism for United Nations Secretariat departments and offices away from Headquarters to actively participate in the decision-making process.
+82.	The Information and Communications Technology Board, established through Secretary-General’s bulletin ST/SGB/2001/5 dated 8 June 2001, is the interdepartmental body entrusted with the coordination and harmonization of ICT initiatives in the United Nations Secretariat.
+83.	The Board, chaired by the Assistant Secretary-General for Central Support Services, was fully constituted in October 2001 and began to operate in November 2001, when it held its first meeting. In line with the terms of reference of the Board, six subject area task forces were formed and began operating in January 2002.
+84.	Figure 5 below displays the structure of the governance bodies and key aspects of their modus operandi:
+     
+Figure 5
+85.	It should be noted that the formulation of standards is entrusted to the Task Force on ICT Standards and Methodologies, chaired by the Information Technology Services Division, which is ultimately assigned the responsibility to promulgate such standards.
+86.	The Information and Communications Technology Board, through its subject area task forces, is entrusted with the monitoring of progress on all approved ICT initiatives and projects. The Board has also been instrumental in coordinating jointly developed infrastructure upgrades, such as the storage area network, undertaken by the Department of Management, the Department of Peacekeeping Operations and the Department for General Assembly and Conference Management, the implementation of the ICT inventory system, the drafting of administrative instructions concerning standards and the coordination on issues pertaining to the programme budget proposals for the biennium 2004-2005.
+
+
+	VII.	Resource aspects
+
+
+87.	The overall level of ICT-related expenditures for the current biennium for the Secretariat is approximately $132 million, or 5 per cent of the total regular budget. This level of expenditure as a percentage of the overall budget is very low, compared to other large information-intensive organizations. For example, the World Bank spends approximately 11 per cent of its overall regular budget equivalent on ICT. Particularly in the area of humanitarian coordination, information and communications technology requirements have been supplemented by voluntary contributions.
+88.	The programme budget approved by the General Assembly at its fifty-sixth session included resource reductions that significantly affected the programme of work of the Organization for 2002-2003 in the area of ICT. The impact of these cuts was felt by the central services with even greater intensity, as the cuts targeted information technology expenditures, as well as on other objects of expenditures, which are very relevant to the ICT programme of work. The end result was that the proposed budget for the Information Technology Service Division was subjected to a series of cuts.
+89.	The impact of the cuts has been particularly severe in areas that provide critical central services, including network (LAN and WAN) operations, 24-hours-a-day, 7-days-a-week operations, Help Desk and services associated with supporting meetings and conferences, such as sound engineering and ancillary services. The depth and reach of the cuts, combined with the ever-increasing reliance on ICT services for the daily activities of the Secretariat, have significantly heightened the levels of risk and compromised basic business continuity. The fact that critical systems, such as LAN/WAN routers, IMIS operations support, e-mail and web servers, are not properly covered by 24-hours-a-day, 7-days-a-week hardware service contracts, impedes the rapid restoration of services in the event of malfunctions. In addition to operations support, several development projects and initiatives have been put on hold until adequate funding can be secured.
+90.	The outline of the programme budget for the biennium 2004-2005 contains provisions to restore an adequate level of funding for ICT to ensure sustainable operations. It does not, however, contain sufficient provisions to enable the Secretariat to undertake all the projects and initiatives described in the present document.
+
+
+	VIII.	Conclusion
+
+
+91.	The vision, framework and specific proposals contained in the present report are internally driven by the programme of reform of the Secretary-General.
+92.	In developing the document, the Secretariat also closely focused on the observations and recommendations issued in General Assembly resolution 56/239 of 24 December 2001. In the resolution, the Assembly endorsed prior observations made issued by the Advisory Committee on Administrative and Budgetary Questions and included specific comments.
+93.	The table below maps the observations raised in the resolution with the relevant actions described throughout the present document:
+
+
+Advisory Committee and Fifth Committee observationsRelevant section/s in the document* Developing a specific plan to improve efficiency through the application of information technology in the Secretariat and the action required to implement it* Efficiency through the streamlining of administrative processes is one of the four types of return on investment considered in the ranking of the value added of individual projects and initiatives
+* Section IV identifies all initiatives that are deemed to be efficiency enhancers. They are assigned the “PS” indicatorDefining clearly the responsibilities of the different bodies in the application and integration of information technology within the United Nations* The governance structure implemented through the Information and Communications Technology Board establishes the responsibilities for managing ICT resources and the decision-making process
+* Although departments and offices away from Headquarters manage their own ICT resources individually through departmental and local ICT committees, decisions on ICT initiatives and projects are coordinated and monitored by the Board and the subsidiary subject task forces
+* Insofar as the formulation of standards is concerned, the responsibility is with the Information Technology Services Division
+* See section VI on governanceAddressing the objective of improving decision-making with respect to information technology in the Secretariat by improving coordination and reducing duplication* The Information and Communications Technology Board, which meets every six weeks, ensures coordination and avoidance of duplicate efforts on information technology matters
+* In addition to the coordination and periodic monitoring undertaken by the Board, the global ICT inventory system provides up-to-date information on ICT projects and initiatives further supporting this goal
+* See ICT inventory system in annex I, table I.1Developing a cost-benefit analysis for use in identifying information technology priorities* Cost-benefit analyses are a mandatory step in the standard systems development methodology being finalized and to be implemented system-wide. See section V.D
+
+94.	The pace of implementation of the proposed strategy will be limited by the resources available. Several initiatives, including basic infrastructure enhancements, will not be undertaken during the current biennium programme budget, owing to resource constraints. These will be proposed within the budget for the biennium 2004-2005 and carried out if adequate funding is approved.
+
+
+Annex I
+
+		Most notable projects and initiatives (2002-2005)
+
+
+
+
+
+
+Table I.1
+
+E-management
+
+	PS	(Process streamliner)
+	SI	(Service improvement)
+	D	(Support the decision-making process)
+	L	(Leverage past investments)
+
+ProjectObjectiveExpected benefitsProgress — milestonesType of returnGalaxy-R1Use the Internet, Intranet and software to support personnel recruitmentStreamlined and shortened recruitment process through provision of automation to the candidate application, rostering and initial selectionRelease 1 of the system went into production on 1 May 2002PS, SI, DIMIS consolidation of databasesRe-engineer the database architecture and consolidation mechanismsStreamlined processing of inter-office financial transactions, transfer of staff and others. Elimination of duplication of data-entry tasks. Enhanced reporting capabilityFunctional and technical studies to start mid-2002, completion expected mid-2003. Implementation plan is to be developedPS, L, DIMIS in the fieldImplement IMIS in peacekeeping missionsConnection of peacekeeping sites to the IMIS system. Circumvention of the need to re-enter personnel data at Headquarters by allowing the operation of IMIS directly from the fieldFive missionsa have already been connected and are operating the system remotely. MINUGUAb is planned for implementation during the third quarter of 2002PS, LGalaxy-R2
+Web site to assist staff members in separation (administration and benefits due by the Organization) and web tool that enables human resources practitioners, staff members and external applicants to set match criteria for United Nations advertised posts and online inventory of pre-approved United Nations consultants and individual contractorsAssistance to staff members in a correct and timely administrative separation, as well as the calculation of the benefits due by the Organization; review of all vacancies on the Internet and provision of information to the “client” when a vacancy has been issued in the highlighted area; creation of an automated tool to pre-approve consultants working for the United Nations, using a similar process to estaffing. Provision of close and efficient monitoring of consultants from a centralized platformImplementation scheduled for end of 2002SI, PSIMIS on the WebRe-engineer the IMIS user interface to enable its operation on the Web and to streamline the most heavily used functionsMigration to the Web and the reengineering will greatly facilitate the deployment in the field of all its functionality. It will also bring its technology infrastructure to current industry standards, making it more suitable for implementation by other organizationsWork began in mid-April. Expected completion: end 2003PS, LICT Inventory SystemMake available on the United Nations Secretariat Intranet an online inventory of ICT assets, including: software applications, hardware, communications equipment, current projects and software license agreementsThe system will enable all offices connected to the Intranet to have access to current information on ICT assets located throughout the system worldwide. This could potentially generate significant savings as a result of sharing facilities already available elsewhereSystem was implemented at United Nations Headquarters in August 2002; system-wide implementation is expected by the end of 2002L, DIMIS Reporting on the WebReplace Paradox as the front-end reporting tool for IMISReports will be able to be delivered on the Web and provide greater flexibility to users of the systemA comparative analysis of alternative tools is currently under way. Expected completion and selection of new tool by October 2002. Re-engineering of reports will start thereafterL, SIIntranet/ Portal/Virtual Library throughout the Office for the Coordination of Humanitarian AffairsProvide easy access to tools that increase efficiency in the Office’s work; promote and facilitate information sharing among staff in 25 different offices around the worldIncreased efficiency; avoidance of duplication of work; staff better informed of the latest developmentsCentral document database and portal prototype to be operational at Headquarters by end-2002. Full deployment to field offices, including Virtual Library, planned for 2003PS, De-HCCElectronic Headquarters Committee on ContractsThe system provides automation to the processing of cases by the Headquarters Committee on Contracts. The system covers the automation of very paper-intensive processes and will enable reporting capabilities, which are currently not availableSystem will be fully implemented during the fourth quarter of 2002PSKey Item Management Reporting SystemReporting of key management performance indicatorsUsing data which reside in IMIS, the system provides management level information on compliance (or divergence) with re-established goalsThe system has been implemented in the Office of Legal Affairs, the Office of Internal Oversight Services, the Department for Disarmament Affairs, the Department of Economic and Social Affairs and the Department of Management. At present, the key items being tracked are: trends in expenditures for the regular budget, implementation of Office of Internal Oversight Services recommendations, vacancy management and gender balance. Implementation at ESCAP, ECE, and the United Nations Office at Geneva is planned by second half of 2002DProject Management Information SystemProvide UNFIP with an integrated system with project management and monitoring capabilities and provide United Nations implementing partners with Web-based application to submit electronically periodic progress and financial reportsReplacement of current spreadsheet applications that are maintained with labour-intensive operating methods by relational database application and Web-based reporting capabilities. Streamlining of data capture, maintenance and analysis; enabling of standardization of management reports; and improved timeliness of submissionsSystem design phase is completed. UNFIP is searching for appropriate funding source
+PSIntegrated Monitoring and Documen-tation Information System (IMDIS)In partnership with the Office of Programme Planning, Budget and Accounts and the Office of Internal Oversight Services, provide an integrated, online environment for end-to-end execution of the programme management processSupport to a United Nations management culture of accountability and administrative efficiencyModules on: programme budget, programme monitoring, development account and reporting, deployed; module on technical cooperation under development (target: 2003); other modules being planned. Integration with production systems is a priority
+DElectronic Performance Appraisal System (ePAS)Automate the workflow involved in the preparation and disposition of PAS reportsStreamlining of paper-intensive process and facilitation of the preparation of management reports using the underlying databaseSystem is being piloted by various departments. Expected to be fully implemented throughout the Organization by end of 2003PSOffice of Legal Affairs information management projectProvide for tracking of legal matters assigned; provide for document and archival records management; provide for online publication of public-information legal materialsMore efficient case management; more efficient document management, filing, retrieval and legal research; increased understanding of international legal normsFinalizing plans for system. Subject to funding, procurement process for system design and development to begin later this yearPSIMIS 24x7 operationsAllow concurrent online and batch mode processingIncreased availability of the system to online users, including those in remote time zonesInitial analysis has started. Expected completion: mid-2003L
+
+
+Table I.2
+
+Knowledge sharing
+
+ProjectObjectiveExpected benefitsProgress — milestonesType of return Internet search engineProvide multilingual search capabilities to all users of the United Nations Internet siteHigh performance search capabilities for all web page-based content enabled. Long-standing need to have adequate search capabilities in all United Nations official languages addressedGoogle has been piloted and selected. Sources of funding are being identifiedSI, LOpen access to Official Documents System (ODS)Enable Internet access to ODS to non-governmental organizations and the general publicAt present, ODS is available free of charge but on a limited basis to permanent missions and capitals. Non-governmental organizations and other organizations are provided access on a fee-for-service basis. Enabling free access to the system would greatly facilitate the dissemination of official documentation avoiding the need to reproduce documents on the United Nations web siteThe system has been re-engineered to operate on an open-standards platform (Lotus Notes) and to deliver search capabilities in all six official languages. At present it only requires additional hardware for open access to be possibleSI, LUnited Nations Secretariat skills directoryBuild an electronic directory following the organizational structure of the SecretariatEnabling the global search for specific competencies within the Organization and facilitating the creation of communities of practiceFeasibility study has begun. Work would be scheduled to begin in 2004 if resources are appropriatedL, DUnited Nations Commodity Trade Database (COMTRADE)Migrate one of largest United Nations databases from mainframe to client server environment with Internet accessSubscribers will have direct access to the database and will be able to download data or research data using just a Web browser
+A prototype has been developed by the Department of Economic and Social Affairs (Statistical Division). A beta version will be available on the Internet in the third quarter of 2002. Will be implemented fully by the end of 2003SI, PSUnited Nations Tasking Reporting and Information SystemEnhance Department of Political Affairs capacity for information gathering, monitoring and analysis of conflict prevention activitiesThis global mapping and reporting system will provide more precise and up-to-date information to managers and desk officersSecond pilot phase is scheduled for September 2002SI, DMultimedia Electronic Production SystemIntroduction of current technology in the newsroom environmentThe system will enable a high degree of automation in new production. Efficiency, cost-control and safe storage are the main benefitsWork to begin in October with expected completion by the fourth quarter of 2003SI, PSConversion of the Electoral Assistance Division filing systemEnable the electronic and retrieval of documents in PDF formatFaster access to more accurate informationDevelopment planned for 2003SICommon (Department of Political Affairs/Office for the Coordination of Humanitarian Affairs) GIS of the Occupied Palestinian TerritoryShare up-to-date and precise maps and standardized location namesGenerate more precise information and use common nomenclatureDevelopment planned for 2003SIIntegration of all the elements of the United Nations Treaty Collection on the Internet into the internal Treaty Database/ Workflow systemProvide the end-users with online access to the latest treaty-related information
+
+Allow for automatic updates on the Internet reflecting the corresponding updates in the internal system
+
+Ensure full text search capability for all bilateral and multilateral treaties in the databaseBroader online access to the treaties registered with the United Nations Secretariat, including their full texts
+
+
+
+More accurate and timely information on the Web
+
+
+
+
+
+
+Effective online search and retrieval system offering enhanced navigation options and easy to operateFeasibility plan, including funding options, is being developed
+
+
+
+
+
+Same as above
+
+
+
+
+
+
+
+Subject to fundingSI Conversion to CD-ROM of the TS publicationsProvide cost-effective facility for expeditious and convenient electronic full text search and retrieval of the United Nations Treaty Series and related publications at any location in the worldEffective information delivery and distribution processFunding options being exploredSI
+Extranet for the United Nations SystemFacilitate knowledge sharing among United Nations system organizationsAvailability of useful information to all relevant users in the United Nations system in a secure mannerNetwork and systems architecture completed. The Directory of Senior Officials was implemented in September 2002. The United Nations system search engine pilot is planned for end-2002LUNBISnetUpgrade Dag Hammarskjöld Library’s Integrated Library Management System Horizon software and replace the cataloguing systemThrough the use of UNICODE compliant software, multilingual script can be supported and be linked to the ODSNew hardware has been purchased and will be installed in July. Upgrade to Windows 2000, to begin in August, should be completed in the Dag Hammarskjöld Library by October. Full implementation of UNBISnet is expected by year-endSI
+
+
+
+Table I.3
+
+Services to governing bodies
+
+ProjectObjectiveExpected benefitsProgress — milestonesReturnResource Planning and SchedulerDevelop and implement integrated system of meeting chain (planning, calendar of meetings, meeting servicing, maintaining organs/sessions/meetings database and reporting systems — scrolling list of meetings (TV and Web-based) and wall boardsThrough the use of workflow support software, enabling the Secretariat to optimize staff and contactors resourcesFirst module of the system is to be implemented in second half of 2002PS, SI, DElectronic Meeting Board (coupled with above project)Display over a scrolling electronic screen information on meetings in real time. Information would include venue and references to associated documentationAssistance to delegations in planning their workload within the planned time frameProject in preliminary planning stageSI, PSLink United Nations Journal, ODS and list of documentsProvide Web links between calendar of meetings and relevant documentsFacilitation of the preparatory work of the delegations by seamlessly linking relevant information prior to meetingsAnalysis under way. Development to be undertaken within the resources proposed for 2004-2005PS, SIFull implemen-tation of the Interpreters Assignment Programme (APG)Automate the assignment of interpretersStreamline process of assignment optimizing the usage of interpretation resourcesImplementation of module in Vienna is scheduled for the second half of 2002
+PSSoftware Supported Drafting of ResolutionsProvide automation and workflow system to the process of drafting resolutionsEnabling of a more accurate and efficient process in the drafting of resolutions and related documentation during informal deliberationsTo be undertaken within 2004-2005 resourcesPSExtranets for regional groupsProvide a secure Internet-based facility for regional groups to deliberate remotelySavings can be realized, both in terms of time devoted by the participants as well as the resources required to support meetings. Links to documents residing in the ODS can further streamline the deliberations and improve outputTo be undertaken within 2004-2005 resourcesPSPDA integrationEnable the use of mobile/portable computing devices (I.E. Palm, IPAQ) to obtain United Nations relevant informationDelegations will be able to access meeting-related information through mobile/portable devices, regardless of locationDesign undertaken and completed by the Government of Andorra. Funds need to be appropriated for server hardware and services from specialized vendorSI
+
+
+
+
+
+
+
+Annex II
+
+		Frequently asked questions
+
+
+1.	Question: How will the return on investment be quantified and who will evaluate it as the strategy progresses?
+	Answer:
+	The strategy foresees projecting return on investment through one or more of the three following criteria:
+	•	Total economic impact
+	•	Qualitative return indicators
+	•	Opportunity costs
+			Total economic impact. This is the ideal and preferable way of demonstrating projected return on investment. It shows the direct and indirect financial impact of the implementation of an information and communications technology (ICT) initiative in an organization.
+
+	Although this is the clearest way of projecting return on investment, normally through a standard cost-benefit analysis, this approach is not always possible. Benefits of a more intangible nature tend to be difficult to quantify. In these cases, traditional cost-benefit analyses cannot be used.
+	Qualitative return indicators. Although not suited to demonstrating financial impact, qualitative return indicators may be used to set priorities among proposed initiatives, normally giving higher priority to those initiatives capable of generating multiple benefits. As described in the main body of this report, the United Nations Secretariat applies this methodology to prioritize ICT projects using the following return indicators: 
+	•	(SI) Service improvement: Quicker access to information and/or higher quality services 
+	•	(PS) Process streamlining, eliminating duplication and having the potential for redeployment of resources
+	•	(L) Leveraging past investments. Updating and extending the life of current systems 
+	•	(D) Strong enabler in the decision-making process
+	Opportunity costs. This concept consists of identifying projected medium and long-term costs to be incurred by the Organization attributable to not undertaking or successfully implementing a project or initiative. This approach can render clear quantitative evidence in lieu of the benefits column in a traditional cost/benefit analysis.
+	Opportunity costs are well suited to supporting infrastructure enhancement proposals which, given the reliance on basic ICT services (e-mail, file-sharing, office automation tools, Internet), for the everyday operation of organizations, should not be presented as optional investments, but rather as mandatory periodic upgrades.
+	The subject area task forces of the Information and Communications Technology Board will monitor progress on each initiative and evaluate their return as the strategy progresses.
+2.	Question: To what extent are decisions taken by the Information and Communications Technology Board on standards, procurement, etc. binding on the different United Nations departments and duty stations, and who enforces this on a day-to-day basis?
+	Answer:
+	The main deliverables of the Task Force on Standards and Methodologies of the Information and Communications Technology Board are the draft administrative instructions on standards. Once promulgated by the Under-Secretary-General for Management, administrative instructions are binding on all Headquarters offices, and offices away from Headquarters. Enforcement of the standards is the responsibility of the Information Technology Services Division at Headquarters and of the electronic services sections at all offices away from Headquarters.
+3.	Question: How will knowledge sharing between duty stations be accomplished? Who will ensure interconnectivity between the various Extranets and other mechanisms? Will there be a requirement for all systems to be Web accessible?
+	Answer:
+	One of the infrastructure components to support knowledge sharing in the Secretariat is the Intranet. At present, the United Nations Headquarters Intranet is accessible by all offices away from Headquarters and peacekeeping missions. Users at Headquarters can also access the information stored in local Intranets maintained at offices away from Headquarters. Connectivity is managed by the Information Technology Services Division in coordination with the local electronic services sections. To support information sharing with other organizations of the United Nations system, an Extranet has been developed and is maintained by the Information Technology Services Division designated lead agency for this project. The first Extranet application, the Directory of Senior Officials, developed by the secretariat of the United Nations System Chief Executives Board, was implemented in September 2002 and is now in production mode.
+	All new systems are required to be developed to operate on the Web. 
+4.	Question: What evaluation has been undertaken with regard to IMIS technology to ensure that it will be able to continue to play a pre-eminent role in the administrative processes of the Secretariat for the next five years? What is the status of the plan for IMIS Web enablement?
+	Answer:
+	The underlying technology infrastructure of IMIS was considered state of the art when the implementation of the system began in the early 1990s. The thirteenth progress report of IMIS included proposals for significant upgrades to this technology, in line with the dramatic changes that have occurred in ICT over the past 10 years. These upgrades, which include the migration of the system to the Web, will ensure the technological viability of the system for at least the next five years.
+	The migration of the system to the Web began in the second quarter of 2002 and is scheduled to be completed in August 2003.
+5.	Question: Who will take responsibility for standardizing and enforcing the introduction and servicing of storage area networks (SANs) and protecting back-up data? How will this be coordinated between the Department of Management, the Department of Peacekeeping Operations and the Department for General Assembly and Conference Management at Headquarters, and in Geneva and Brindisi?
+	Answer:
+	The United Nations Secretariat has already selected a technology to be the global standard for SANs. This technology is currently being implemented to support production operations of major systems developed by various departments. Enforcement of the standard is the responsibility of the Information Technology Services Division at Headquarters and of local electronic services sections at offices away from Headquarters. The Procurement Division at Headquarters and the Procurement Services at offices away from Headquarters ensure that the standard is adhered to prior to approving and completing purchases of SAN technology equipment worldwide.
+6.	Question: What are the plans for data recovery in the event of a major disaster or virus attack, and which division takes the lead?
+	Answer:
+	A three-site coordinated operational disaster recovery plan has been developed and is being implemented to ensure business continuity in the event of several possible disaster scenarios. It involves the replication of key databases and systems over the SAN environments installed at the Secretariat building, the DC-2 building and at the United Nations Logistics Base at Brindisi. 
+7.	Question: In what sense is the Headquarters telephone switch “obsolete”? What is envisaged as its replacement? Will it provide significantly superior support for videoconferencing, higher data transfer speeds, etc.?
+	Answer:
+	The Headquarters telephone system, installed in 1987, needs to be replaced, as the manufacturer will no longer provide maintenance and support beyond December 2005. A request for proposal exercise is currently in place to complete the replacement within this timeframe. The new system should provide current technology management tools, including integrated billing and voicemail, as well as redundancy for disaster recovery. Videoconferencing and other data communication services are provided through leased circuits, ISDN lines and over the Internet. The capacity to provide these services is essentially determined by bandwidth and by the tools used to manage remote traffic. The telephone system to be replaced will have no impact on the capacity to provide these services, but will facilitate their management. 
+8.	Question: In what format are the cost-benefit analyses referred to in section V.C, which have been developed by the Information Technology Services Division and are being introduced across the Secretariat? Give examples.
+	Answer:
+	Cost-benefit analyses, whenever applicable, will be used to quantify return on investment. An example of the format of this tool, which is still being customized, is attached at the end of the present annex.
+9.	Question: How will future procurement of information and communications technology equipment and services be handled throughout the United Nations? To what extent will the Information Technology Services Division negotiate procurement contracts and enforce standards, compatibility etc.?
+	Answer:
+	Procurement of ICT equipment and services will be increasingly handled through the use of systems contracts, negotiated centrally by the Procurement Division or as a result of inter-agency procurement initiatives, whenever possible. Standards are recommended by the Information Technology Services Division, promulgated through administrative instructions and posted on the Intranet. 
+
+
+
+
+Attachment
+
+		Cost-benefits analysis
+
+
+
+
+	1 	Official Records of the General Assembly, Fifty-sixth Session, Supplement No. 7 (A/56/7), 
+chap. I, sect. E, paras. 80-94.
+	a 	United Nations Peacekeeping Force in Cyprus, United Nations Truce Supervision Organization, United Nations Interim Force in Lebanon, United Nations Interim Administration Mission in Kosovo and United Nations Logistics Base at Brindisi.
+	b	United Nations Observer Mission in Guatemala.
+[Start1]<<ODS JOB NO>>N0270407E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/57/620<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+__________________
+
+__________________
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+41
+
+21
+
+United NationsA/57/620 
+General AssemblyDistr.: General
+20 November 2002
+
+Original: English
+
+
+02-70407 (E)    070103
+*0270407*
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+41
+
+41
+

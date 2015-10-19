@@ -1,0 +1,144 @@
+[Start1]
+Fifty-seventh session
+
+
+	*	A/57/150.
+	**	The delayed submission is attributable to the extensive consultations required to finalize
+the report.
+Item 114 of the provisional agenda*
+Programme budget for the biennium 2002-2003
+
+
+
+		Strengthening the Department of Public Information, within the existing capacity, in order to support and enhance the United Nations web site in all official
+languages of the Organization
+
+
+		Report of the Secretary-General**
+
+
+
+	Summary	The General Assembly requested in its resolution 56/253, part VII, section 26, paragraph 145, that the Secretary-General submit to the Assembly at its fifty-seventh session concrete proposals for strengthening the Department of Public Information within the existing resources in order to support and enhance the United Nations web site in all official languages of the Organization.	The proposals of the Secretary-General are presented in the present report. Should the General Assembly agree to them, additional resources in the amount of $1,297,500 would be required. Such a requirement would be subject to the provisions relating to the Contingency Fund.
+
+
+
+	I.	Introduction
+
+
+1.	The present report is submitted in accordance with the request contained in paragraph 145 of General Assembly resolution 56/253. The Committee on Information had earlier requested a similar report (A/AC.198/2002/6 of 4 March 2002), which was considered by the Committee at its twenty-fourth session. The report was the fifth in a series addressing the multilingual development, maintenance and enrichment of the United Nations web site. It was presented to the Committee on Information for its guidance on the policy decisions required for timely implementation.
+2.	In a previous report (A/AC.198/2001/7) to the Committee on Information, the Secretary-General had reiterated that achieving full parity among the official languages would require substantial additional resources, both for the Department of Public Information as manager of the United Nations web site and for content creation. Accordingly, annex I of that report outlined the resources required by the Department of Public Information for the ongoing development and maintenance of the site in all official languages but excluded the central infrastructure support needs of the Information Technology Services Division of the Department of Management and those relating to the provision of content in other languages.
+
+
+	II.	Current practice
+
+
+3.	The United Nations web site has developed a structure that is both centralized and decentralized. The Department of Public Information has overall responsibility for maintaining the general presentational structure of the web site and directly manages the top two layers of the site. Each content-providing Department or Office retains responsibility for presenting and managing its own content, within the parameters of the established guidelines. The Department of Management, Information Technology Services Division, is responsible for the related technical infrastructure aspects. For example, it maintains the main web servers and connectivity to the Internet, provides disk space on the Servers and, jointly with the Department of Public Information, provides posting rights to the web servers for individual Offices. The role of the Department of Public Information is to provide coordination between the various content-providing Departments to ensure consistency of information and adherence to established guidelines and to reduce duplication of efforts. Regular consultation with content-providing offices is carried out through the Working Group on Internet Matters, composed of representatives designated as focal points by each Department. This Working Group developed the first set of guidelines on United Nations Internet publishing, which was issued as Administrative Instruction ST/AI/2001/5. The Department of Public Information also provides ongoing assistance for other Departments and Offices in establishing and managing their respective web sites.
+
+
+	III.	Current capacity of the Department of Public Information
+
+
+4.	There were no budgetary provisions for the start-up of the United Nations web site in 1995 by the Department of Public Information. Nevertheless, the Department has made exceptional efforts to redeploy resources from its existing budget to make the web site operational. Specifically, to date 11 Professional and 6 General Service posts have been redeployed from several areas of the Department, in addition to non-post resources for equipment and other needs. For the current biennium, the General Assembly approved resources in the amount of $3,462,400, which covers the redeployment of existing staff resources. This includes 17 regular budget posts (1 P-5, 2 P-4s, 6 P-3s, 2 P-2s, and 6 GS) and operational requirements for the Information Technology Section of the Department, which is responsible for web-related activities in the Department. In addition, there is a supplementary provision under general temporary assistance for one P-2 and four General Service other level posts, plus one P-3 and three General Service other level posts financed from extrabudgetary resources. 
+5.	The current structure of web site activities in the Department of Public Information has been organized as follows:
+	(a)	Overall supervision and direction, Chief of Section, P-5;
+	(b)	Chief, Languages Unit (P-4): the Chief of the Languages Unit, P-4, is also the coordinator for documentation in English. In addition, under the supervision of the Chief, there are five coordinators and five assistants (GS) for the remaining five languages. Of the five assistants, three are currently funded under general temporary assistance or against available vacant posts. The cost of one post at the
+P-2 level is financed from voluntary contributions;
+	(c)	Chief, Special Projects Unit (P-4): the Unit consists of one web site officer, P-3, under the regular budget and one assistant (GS) who is currently funded under general temporary assistance, undertaking activities relating to managing pages for the General Assembly, coverage of conferences and special events;
+	(d)	A Web Development and Webcasting Unit is also included in the organizational structure. However, the Department has so far not been able to identify a post to be redeployed for the head of the Unit. The Unit also includes one designer, P-2, under the regular budget, one programmer, P-2, on general temporary assistance and two assistants (GS) for the six official languages;
+	(e)	CyberSchoolBus Unit: the Unit includes a project manager, P-3 (extrabudgetary), and three General Service staff members (designer, programmer and assistant), all extrabudgetary, developing and maintaining the comprehensive site for young people. These posts are financed by voluntary contributions.
+6.	To streamline the management of the various departmental entities engaged in creating content for the web site and to provide a greater degree of oversight, the Information Technology Section of the Department of Public Information has been relocated from the Office of the Head of the Department to the News and Media Division, which is the second largest contributor from the Department to the web site. The Section has also been renamed the United Nations Website Section.
+7.	The language diversity of the staff of the Department of Public Information contributes directly to the quest for parity among the official languages. However, unless the other activities of the Department are curtailed, this language diversity can have only a limited impact on efforts to achieve language parity, especially since the Department is not the web site’s only content provider. 
+8.	The Department’s current resource capacity is barely at maintenance level and is therefore not adequate to sustain the rapid expansion in the use of the United Nations web site. Indeed, in order to keep pace with this expansion and the daily addition of new material that is currently occurring in all the official languages, while at the same time continuing to manage and maintain the growing web site effectively, resources in the total amount of $1,297,500 would need to be identified (see annex I). In the light of the current budgetary situation, there is no room within the current budget of the Department of Public Information to absorb these costs. In order to ensure the management of the enhanced content in all six official languages as requested by Member States, the Department would require supplementary resources in the amount indicated above. This would provide for two professional staff members for each language — the minimum required to ensure that the language sites are covered at all times.
+
+
+	IV.	Full parity
+
+
+9.	A separate issue that will need to be resolved is that of attaining full and complete parity among the official languages on the United Nations web site. In the current state of affairs, only the English site (and to some degree the French) can be said to be fully developed. Not surprisingly, Member States, in other legislative bodies such as the Committee on Information and the Committee on Conferences, have consistently requested the Secretariat to provide full parity for all official languages. The Committee on Information to date has called for five reports1 on the issue. In submitting those reports to the Committee on Information, the Department of Public Information presented a variety of options — along with associated cost requirements — for achieving full or partial language parity. The fifth and latest report (A/AC.198/2002/6) was presented to the Committee on Information at its last session, in April 2002. In that report, the Department again presented to the Committee two concrete cost options designed to achieve the desired parity:
+	Action 1:	Replicate all materials on the English web site in the other
+			language sites;
+	Action 2:	Allow the web sites to develop independently in each language, on
+			the basis of the resource capacities of author Departments and 
+			Offices.
+
+
+	V.	Consideration by the Committee on Information
+
+
+10.	The Committee on Information considered the above-mentioned report at its twenty-fourth session, from 22 April to 2 May 2002, focusing largely on the achievement of parity on the web site among the official United Nations languages. The Committee adopted a draft resolution2 on the web site, concurring with the Secretary-General on the need to enhance the technological infrastructure of the Department of Public Information in order to both widen its outreach and improve the site.
+11.	In the draft resolution, the Committee noted with concern that the multilingual development and enrichment of the United Nations web site had been slower than expected, with lack of resources among the contributing factors, and stressed the need to reach a decision on the multilingual development, maintenance and enrichment of the United Nations web site. The Committee encouraged the Department to consider a restructuring that would entail the creation of separate units for each of the six official languages as a means of attaining full language parity. The Committee also took note of the fact that integration of the Official Document System (ODS) with the United Nations web site would significantly enhance the multilingual nature of the site. Direct links have already been made to over 4,000 documents in all official languages on ODS. At the same time, it should be noted that additional links will also dramatically increase the management and maintenance requirements of the site.
+
+
+	VI.	Discussion
+
+
+12.	Both options outlined in the above-mentioned report to the Committee on Information (A/AC.198/2002/6) would require the infusion of significant new resources. The Committee on Information has taken note of the proposals but has not yet made any recommendations on the matter.
+13.	Previous reports on enhancing and developing the United Nations web site (presented to the Committee on Information, the Committee on Conferences and the Fifth Committee, and as reaffirmed in the present report) have reiterated that the existing capacity of the Department of Public Information is already overextended. The Department will therefore be unable to sustain any significant expansion of the web site in any of the Organization’s official languages.
+14.	In the context of the options proposed, the Secretariat — and particularly the Department of Public Information as manager of the web site — needs concrete guidance from Member States on the level of resources that might be made available for web site development and management. While General Assembly resolution 56/253 mandates the strengthening of the Department of Public Information in order to support and enhance the United Nations web site in all official languages of the Organization, paragraph 145 of that resolution calls for concrete proposals within the Department’s existing capacity. Given the Department’s inability to redeploy more of its resources to the web site without adversely affecting current mandated programmes, the desired strengthening of the Department for this purpose would therefore appear to be achievable only if the requisite resources are identified.
+
+
+	VII.	Conclusion
+
+
+15.	The Committee on Information at its twenty-fourth session was unable to reach a decision on the issue of parity on the web site and the estimated required resources. Instead, the Committee has requested a new report, the sixth, on the most practical, efficient and cost-effective means of achieving parity for all official languages on the United Nations web site.
+16.	The Secretary-General reaffirms that Action 2 in paragraph 9 above appears to be the most feasible, since the language sites would be developed by content-providing offices on the basis of their own resources. However, there would be a need for prioritizing by exempting certain elements of the web site from translation requirements if such an option were to be pursued, within the cost parameters provided in Action 2. These would include, among others, the treaties and press releases, which would continue to be available in the languages in which they are currently issued. A decision is necessary as to whether proceeding along these lines, excluding press releases and treaties, among other elements, from translation requirements, would address the concerns over moving towards the achievement of parity.
+17.	On the basis of such a decision, content-providing offices would then formulate resource requirements for translation, revision, editing, formatting presentation and posting of their material on the web site. Budgetary provisions might thus be gradually built into the respective capacities of each content-providing office, so that the eventual goal of linguistic parity remains in sight. While there is still a long way to go before machine-assisted translation techniques can be widely adopted, it is expected that major improvements in that technology will be achieved during the next few years. This would permit accelerated progress towards parity in the development of the language sites without requiring significant, long-term additional resources.
+18.	In summary, the General Assembly is requested to determine whether excluding press releases and treaties, among other elements, from translation requirements, together with past materials, would address its concerns regarding parity. 
+19.	Should the General Assembly approve the above-mentioned arrangements, additional resources of $1,297,500, as shown in the annex would be required to ensure the continued development, maintenance and enrichment of the United Nations web site in all official languages. This includes a provision of $158,800 for staff assessment, which would be offset by an equal increase in respect of income from staff assessment. These requirements, totalling $1,297,500, would be subject to the provisions relating to the Contingency Fund.
+
+
+	Notes
+	1	A/AC.198/1999/6; A/AC.198/1999/9 and Corr.1 and 2; A/AC.198/2000/7-A/AC.172/2000/4; A/AC.198/2001/8; A/AC.198/2002/6.
+	2	See Official Records of the General Assembly, Fifty-seventh Session, Supplement No. 21 (A/57/21), chap. V.
+
+Annex
+
+		Resource requirements of the Department of Public Information for the ongoing development and maintenance of the United Nations web site in all official languages* 
+
+
+
+
+	*	Updated from A/AC.198/2002/6, annex II.
+1.	In order to ensure the continued development, maintenance and enrichment of the web sites in the official languages, the following additional resource requirements, above and beyond the resources allocated for this activity in the programme budget for the biennium 2002-2003, would need to be considered by the General Assembly:
+	(a)	The funding for the feasibility study proposed in paragraph 20 of document A/AC.198/2000/7, amounting to $100,000;
+	(b)	Eight new Professional posts and six General Service posts for the Website Section in the Department of Public Information, as outlined below;
+	(c)	Equipment and services in the amount of $185,000 for servers, a workstation and other equipment;
+	(d)	Rental of office space in the amount of $72,100.
+2.	These requirements have been recosted following the conversion of three positions funded from general temporary assistance into established posts for the maintenance of sites in official languages and the redeployment of posts from other areas of the Department.
+3.	The resource requirements in the table below pertain only to the requirements of the Department of Public Information with regard to the management, maintenance and enrichment of United Nations web sites. They do not include the infrastructure support requirements of the Department of Management, Information Technology Services Division, or requirements relating to the provision and/or translation of content in other languages.
+
+
+ComponentPosts requiredCost for 2003
+(United States dollars)Overall developmentWeb site applications specialist (P-3)58 700Web site design specialist (P-3)58 700Web site technical assistant (G5/6)40 000Language units
+(six units)6 web site editors/coordinators (P-4)
+5 web site assistants (G-5/6)424 200
+200 000Staff assessment158 800	Total cost of posts gross of staff assessment940 400Equipment and servicesServers, workstation, other equipment, software in 5 languages, ad hoc programming services185 000Premises72 100Feasibility study100 000	Total cost of posts, equipment and services1 297 500
+		Total Professional posts required: 8
+	Total General Service posts required: 6
+
+
+4.	Provisions by sections of the programme budget would be as follows:
+
+$Section 26, Public information1 066 600Section 27D, Office of Central Support Services72 100Section 32, Staff assessment158 800	Total expenditure sections1 297 500Income section 1; Staff assessment 158 800
+
+[Start1]<<ODS JOB NO>>N0254660E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/57/355<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+8
+
+7
+
+United NationsA/57/355 
+General AssemblyDistr.: General
+27 August 2002
+
+Original: English
+
+
+02-54660 (E)    240902
+*0254660*
+

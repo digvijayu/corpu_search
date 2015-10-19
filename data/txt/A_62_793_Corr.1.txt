@@ -1,0 +1,83 @@
+[Start1]
+Sixty-second session
+Agenda items 128 and 140
+
+Programme budget for the biennium 2008-2009
+
+Administrative and budgetary aspects of the financing
+of the United Nations peacekeeping operations
+
+
+
+		Investing in information and communications technology: information and communications strategy for the United Nations Secretariat
+
+
+		Report of the Secretary-General
+
+
+		Corrigendum
+
+Figure 4, “Information and communications technology units of the Secretariat”
+Replace figure 4 with the figure below.
+
+
+		Figure 4
+		Information and communications technology units of the Secretariat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbreviations: CITO, Chief Information Technology Officer; CRM, customer relationship management; DAM, digital asset management; ECM, enterprise content management; ERP, enterprise resource planning; GIS, geographic information system; IMIS, Integrated Management Information System; LAN/WAN, local area network/wide area network; OAH, Offices away from Headquarters; ODS, Official Document System; OICT, Office of Information and Communications Technology; RSS, rich site summary; SAN, storage area network.
+Note: RSS = format for sharing content among different websites; SAN = high-speed subnetwork of shared storage devices, which works in a way that makes all storage devices available to all servers on a LAN or WAN; GIS = information management systems tied to geographic data; CRM = functions and programmes used to connect with customers/facility of integrating every aspect of IT that relates to the customer.
+	a	DESA, DGACM, DM, DM/OCSS/CMP, DM/OHRM, DM/OPPBA, DPA, DPI, DPKO/DFS, DSS, OCHA, ODA, OHRLLS, OIOS, OLA.
+	b	MINURCAT, UNAMID, UNMIS, UNOCI, UNMIL, MONUC, UNMEE, MINURSO, MINUSTAH, UNMIT, UNMOGIP, UNFICYP, UNOMIG, UNMIK, UNDOF, UNIFIL, UNTSO and UNSCOL, UNOWA, UNOGBIS, UNPOS, UNRCCA, UNIIIC, UNAMI, UNMIN, BONUCA, UNSCO, BINUB, UNIOISIL, UNAMA, Cameroon-Nigeria Mixed Commission.
+	c	UNON, UNOG, UNOV, UNODC, UNCTAD, UNEP, UN-Habitat, ECA, ECE, ECLAC, ESCAP, ESCWA, OHCHR, UNRWA, ICTY, ICTR.
+
+
+
+		Paragraph 42
+
+The paragraph should read
+		Client services
+
+42.	While providing core technological capabilities to the Organization remains the foundation of all ICT activities, the effective delivery of services requires close alignment with all departments, offices and missions. To achieve this, the Office of Information and Communications Technology includes three units — Headquarters services (New York-based), field services and global services — which are dedicated to maintaining this close association between the Office and other organizational units. Each unit is led by a senior client services manager who reports directly to the Chief Information Technology Officer. These client services units are accountable and responsible to their respective organizational units for the full range of ICT programmes and services available. The professionals who serve in this capacity must build strong relationships with their clients to ensure the strategic alignment of ICT to substantive work programmes and to ensure continuous customer satisfaction for all of the departments within their purview.
+
+
+[Start1]<<ODS JOB NO>>N0832648E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/62/793/Corr.1<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+A/62/793/Corr.1
+
+A/62/793/Corr.1
+
+08-326482
+
+308-32648
+
+United NationsA/62/793/Corr.1 
+General AssemblyDistr.: General
+7 May 2008
+
+Original: English
+
+08-32648 (E)    090508
+*0832648*
+

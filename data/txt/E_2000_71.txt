@@ -1,0 +1,232 @@
+
+
+	*	E/2000/100.
+[Start1]
+Substantive session of 2000
+New York, 5 July-1 August 2000
+Item 2 of the provisional agenda*
+Development and international cooperation in the 
+twenty-first century:  the role of information technology 
+in the context of a knowledge-based global economy
+
+
+
+		Contribution of the Economic and Social Commission for Western Asia to the theme for the high-level segment of the substantive session of 2000 of the Economic and Social Council
+
+
+		Development and international cooperation in the twenty-first century: the role of information technology in the context of a knowledge-based economy
+
+
+		A regional perspective
+
+
+Contents
+PageI. 	Introduction	4II. 	Capacity-building in information and communications technologies and the evolving knowledge-based global economy	4III. 	ICT infrastructures and capacity-building	5IV. 	ICT capacity-building, issues of policy and implementation	5A. Policies, strategies and action plans	5B. Legislation, regulations and standards	6V. 	Resources for ICT capacity-building	6A. Funding of capacity-building in ICT	6B. Human resource development	6VI. 	New institutional forms and special initiatives	7A. International initiatives	7B. Regional initiatives	7C. National ICT capacity-building initiatives	8VII. 	Specific ICT applications	8A. Distance education	8B. Telemedicine	9C. E-commerce	9D. E-governance	9E. ICTs and employment	9F. Gender and ICT capacity-building	10VIII. 	New organizational roles and cooperation modalities in ICT capacity-building	10A. Roles of Governments	10B. Roles of private enterprise	11C. Roles of United Nations organizations	11
+
+
+
+	Summary	The President of the Economic and Social Council for the year 2000, in consultation with the Bureau, requested the regional commissions to hold regional intergovernmental or expert group meetings on information technology for development in their respective regions and to report on the outcome of these meetings to the high-level segment of the Council in order to provide a regional perspective on the theme for the high-level segment, entitled “Development and international cooperation in the twenty-first century: the role of information technology in the context of a knowledge-based economy”.
+	All five regional commissions have submitted brief reports based on regional consultative meetings or on views solicited from their member States. The meetings of the ESCAP and ECLAC regions were hosted by the Governments of India and Brazil, respectively, on 20 and 21 June 2000. For its part, ECA held a high-level meeting, as the first African Development Forum, from 24 to 28 October 1999 under the theme “The challenge to Africa of globalization and the information age”. ESCWA held its expert group meeting on 15 and 16 May 2000. ECE circulated a draft report to all its member States and comments received are integrated in the Commission’s report to the Council.
+
+	I.	Introduction
+
+
+1.	The present report is based on presentations made, and issues discussed, during the meeting of a panel of experts convened by the Economic and Social Commission for Western Asia (ESCWA) on the theme of “Information technology and development priorities: competing in a knowledge-based global economy”, on 15 and 16 May 2000. Around 30 experts took part in the panel. They included around 20 experts from eight ESCWA member countries as well as independent consultants from France and the United States of America. 
+2.	Twenty substantive contributions were presented to the panel in four sessions held under the following themes:
+	(a)	Information technology and the knowledge-based global economy;
+	(b)	The status of information and communications technologies in selected ESCWA member countries;
+	(c)	Capacity-building in priority areas of information and communications technologies;
+	(d)	Emerging issues in information and communications technologies and their applications.
+3.	These themes were adopted with a view to generating an expert perspective from the ESCWA region for the substantive session of the Economic and Social Council in July 2000. A considerable number of important recommendations were put forward by the experts on issues both directly and indirectly related to those raised in the report of the Secretary-General on the theme under consideration.
+4.	A more extended version of the present report is being prepared by ESCWA with a full list of the many recommendations made by the panel’s experts. In particular, experts participating in the panel reaffirmed the need for concerted action by all concerned parties if worthwhile objectives in information and communication technology (ICT) capacity-building were to be achieved. It was considered that specific initiatives, at the sectoral, national, regional and international levels, constituted suitable vehicles for such cooperation. A special section in the present report is therefore dedicated to those initiatives. Considering the great promise held by ICTs in promoting development efforts and the enormous benefits of international cooperation and coordination of efforts aimed at assisting developing countries in ICT capacity-building, it is considered timely for a global conference on ICTs and sustainable development to be convened under the auspices of the United Nations in 2001.
+
+
+	II.	Capacity-building in information and communications technologies and the evolving knowledge-based global economy
+
+
+5.	In essence, the shift to knowledge-based economies, catalyzed and accelerated by advances in ICTs, is integral to the ongoing process of globalization. Questions of inequity between developed and developing countries inherent in the latter process should therefore be viewed alongside the concentration of “knowledge-power” in developed countries. Tackling the serious imbalances likely to come about must be the subject of sustained efforts by all those concerned with sustainable development on the international scene.
+6.	ICTs are expected to bring about several productivity gains due to more efficient management of resources, decreased distribution costs, elimination of inefficient suppliers and intermediaries, more transparent markets and resulting lower prices. All of these factors will act against economies with old-fashioned or deficient ICT capacity. In particular, dis-intermediation may be expected to pose serious threats to businesses in the ESCWA member countries, particularly those still operating under traditional trade regimes. In order to minimize the impact of such threats, it will be essential to redirect and restructure, traditional trade activities towards new aspects of value creation, including intermediation, using the more modern Internet and e-commerce modalities. In addition, ESCWA member countries will have to exercise great efforts if the expected surge in consumerism that might result from e-commerce is not going to aggravate trade imbalances.
+7.	ICTs have the potential of engendering plenitude, democratic and participatory practices on the one hand, and inequality, dominance and estrangement on the other. The power inherent in modern ICTs should therefore be exercised with great care and responsibility if the cause of sustainable development is to be well served. The need to steer a safe course that maximizes benefits and avoids negative outcomes poses challenges for policy makers the world over. In the ESCWA member countries, in particular, issues pertaining to inadequate infrastructures, resource levels and legislative frameworks coupled to cultural and linguistic particularities will need to be taken into account in charting such a course. 
+8.	Developing countries pursuing knowledge-based economic development options will need to place much greater emphasis on technology transfer and development than on physical capital. Additionally, reduced barriers between producers and consumers will highlight demand-side factors with important policy implications that include: promoting demand by ensuring that consumer attitudes are favourable to knowledge products and rendering them available at acceptable costs; and ensuring that private use of new technologies is not hindered. 
+
+
+	III.	ICT infrastructures and capacity-building
+
+
+9.	Acquiring modern ICT infrastructures constitutes a crucial step in moves to join the global knowledge-based economy. In general, ICT infrastructure indicators for the ESCWA member countries, such as telephone line densities, the rate of access to personal computers and Internet penetration, invariably fall below world averages. Taken as a group, the Gulf Cooperation Council (GCC) countries consistently perform far better than the non-GCC ESCWA member countries. Indeed, the values of the main ICT indicators for some GCC countries, notably the United Arab Emirates, exceed world averages. 
+10.	Privatizing telecommunications facilities has for some time been on the policy agenda in several ESCWA member countries. There are still government monopolies in almost all of these countries, especially insofar as fixed lines are concerned. Jordan is a notable exception with its privatized monopoly service provider overseen by a newly created Telecommunications Regulatory Commission. In Lebanon, parliament has approved a privatization bill which should pave the way for privatizing the telecommunications authority. 
+11.	Building modern ICT infrastructures will have to be firmly based on participatory approaches. Alliances will be needed between a variety of institutional forms, including government departments, local and international enterprises, technology holders and research organizations, even non-governmental organizations (NGOs) concerned with ICT infrastructure-building. 
+12.	Bringing information infrastructures within reach of the general public, in terms of cost and range of dissemination, in the ESCWA member countries is a challenge of considerable proportions. The response to this challenge will need to be based upon serious development efforts involving hardware, software systems and content questions as well as setting priorities in accordance with the requirements of specific ICT application areas, such as e-commerce, 
+e-governance and telemedicine.
+
+
+	IV.	ICT capacity-building, issues of policy and implementation
+
+
+	A.	Policies, strategies and action plans
+
+
+13.	Ministries of State, high-level governmental and non-governmental bodies and national information centres have recently been set up by ESCWA member countries to promote certain aspects of ICT development. There is an urgent need, nevertheless, to devote far more attention and resources to the formulation of coherent policies, strategies and plans of action aimed at ICT capacity-building and sustained development of existing capabilities. The principal goals of such policies, strategies and action plans should be to provide ESCWA members with improved competitiveness in the knowledge-based global economy and to support their own moves towards creating knowledge-based societies. 
+14.	Efforts aimed at the formulation of cross-cutting national ICT policies in response to national socio-economic development needs should be guided by explicit sectoral, development policies. In fact, there may be a strong need to have sectoral ICT policies closely integrated within sectoral development policies. National and sectoral science and technology policies should also be revisited in designing national ICT policies owing to the close bonds that link capacity-building in ICT to overall technological capabilities.
+15.	There is a need for national ICT policies, and related strategies and action plans, to address objectives within two time-frames, involving, in the long and medium terms, goals such as instituting change in attitudes and revolutionizing educational systems. In order to cope with accelerating technological and global economic development, more urgent objectives should be targeted in the short term, including the adoption of interim ICT capacity-building measures, specialized institution-building, urgent human resource development programmes and the achievement of specific ICT capabilities in selected priority sectors/segments.
+16.	Additionally, the need to set national and sectoral ICT policy objectives that are based on actual demand considerations and established needs rather than supply-, or technology-push considerations, is to be emphasized.
+17.	Several priority issues must be tackled by the above-mentioned policies, strategies and action plans. At the forefront are questions of infrastructure-building, resources, both human and financial, in addition to legislative and regulatory questions. Alliances and cooperative ventures with operators inside and outside the ESCWA member countries may have to be sought. Additionally, policies relevant to securing research and development (R and D) capabilities for adapting and developing ICTs must be high on the list of national ICT policy priorities.
+
+
+	B.	Legislation, regulations and standards
+
+
+18.	Legislation conducive to ICT capacity-building is urgently needed in the ESCWA member countries. In particular, attention is drawn to the need for accelerating the deregulation of the telecommunications sector with a view to promoting competition and providing a wider range of services at lower costs. 
+19.	Intellectual property rights laws and corresponding regulations for their enforcement constitute another area for priority attention, as do laws to regulate transactions over the Internet, including commercial exchange, with particular attention to consumer protection and fraud prevention.
+20.	Laws and relevant regulations in the field of communications should also permit firms ready and affordable access to the Internet and to international telecommunications carriers with emphasis on promoting e-commerce. Furthermore, legislation is needed to provide ICT industries with incentives on a par with other industrial sectors.
+21.	National privacy acts based on the Universal Declaration of Human Rights and related norms, such as article 12 of the Declaration, will need to be promulgated in a manner that maintains balance between the privacy, necessary secrecy of commercial transactions and unimpeded flow of information for the public good.
+22.	Legislating for the adoption of national and regional standards in conformity with international ones will allow easy upgrading of ICT capabilities to accommodate technological change as well as promote international exchange. In particular, adoption of standard international procedures for encryption and digital signatures will facilitate and ensure the security of web-based transactions. 
+
+
+	V.	Resources for ICT capacity-building
+
+
+	A.	Funding of capacity-building in ICT
+
+
+23.	Securing an adequate and sustained flow of financial resources for ICT capacity-building is a task that requires novel modalities and closer cooperation between Governments, the private sector, investment institutions and donor organizations. Government funding of ICT activities on many fronts will be essential, especially in the initial stages of capacity-building, preceding maturity of ICT enterprises and dissemination of specific ICT applications. 
+24.	In essence, it will be necessary to address the creation of conditions supportive of bids by national, regional and international capital markets to provide venture capital and investment funds for launching ICT enterprises. Additionally, there will be a need to provide incentives and regulatory schemes that support and enhance efforts by the private sector in human resource development as well as infrastructure- and institution-building.
+
+
+	B.	Human resource development
+
+
+25.	An overarching goal of ICT capacity-building in the ESCWA member countries is to create an innovative human resource base. This would naturally require sustained efforts on several fronts. More immediate objectives include, in the medium and long terms, modernization of educational curricula in general and the introduction of new modalities for human resource development based on more recent ICT advances, such as distance education and computer-aided instruction. An objective to be targeted within shorter time horizons is the provision of specific professional development and training courses in cooperation with end-user enterprises, focusing on various sectors where individual ESCWA member countries can compete, such as health, the airline and tourism industries, trade and government services. All three objectives merit focused attention and enhanced resource allocations. Several tasks will need to be tackled in approaching these objectives, including the introduction of new computer education curricula at the earliest possible age and regulating ICT professions in line with other professions.
+
+
+	VI.	New institutional forms and special initiatives
+
+
+26.	Organizations devoted to networking and coordination will constitute the mainstay of future knowledge-based institutional entities. Capitalizing on modern ICT developments with a view to the creation of “virtual institutional entities” through networking concerned new and existing institutions is in need of close attention by the ESCWA member countries. The primary objective of setting up such entities would be to harmonize and coordinate ICT capacity-building in the member countries, subsequently enhancing the productivity of national economies and overall regional competitiveness within the context of the global knowledge-based economy. 
+27.	The fact that viable national ICT capabilities are normally created with a view to effectively linking to the world at large and to surrounding countries, in particular, presupposes close regional and international cooperation and coordination and favours the adoption of regional and international initiatives as well as national ones.
+
+
+	A.	International initiatives
+
+
+28.	Novel approaches are needed in the design and implementation of international ICT initiatives. The dynamism and technical competence of business enterprises, coupled with the development expertise and impartiality of government departments, NGOs, United Nations organizations and donor agencies, should contribute effectively to bridging the ever-widening digital divide.
+29.	With this latter point in mind, it is considered timely to convene, under the auspices of the United Nations, an international conference devoted to deliberating current trends in the emerging global knowledge-based economy, ICT capacity-building and development priorities in the twenty-first century. This conference should be designed along the lines adopted in other international conferences convened during the past decade. The opportunity of the upcoming Millennium Assembly could be a suitable juncture for conducting preliminary preparations for such a conference. One of the valuable outcomes of such a conference would be to create an opportunity for the international community, as a whole, to take stock of past developments and ponder future prospects. It would also provide countries of the world, particularly developing ones, with a grand opportunity to reassess their ICT infrastructures, revisit their national ICT policies and come out with initial national and regional plans of action that might be further refined as a result of the conference’s deliberations.
+30.	Contributing to efforts by developing countries to join the knowledge-based global economy should be high on the agenda of such a conference. Thus, the conference could be designed to tackle the obstacles facing developing countries in access to modern ICTs in particular, and could pave the way towards the creation of international and regional consortia aimed at ICT infrastructure-building in the developing countries. Issues concerning new standards in various ICTs and their application areas might also be included in the conference’s agenda. Priorities for future R and D activity could also be usefully debated and frameworks for promoting R and D efforts in selected ICTs and areas of application put forward.
+
+
+	B.	Regional initiatives
+
+
+31.	Economic, social, cultural and linguistic factors permit the design of initiatives that capitalize on regional similarities and complementarities in ICT capacity-building within the ESCWA member countries and with other neighbouring Arab countries. Such initiatives would ensure higher levels of connectivity and harmony of standards as well as conserve resources. 
+32.	Public and private sector institutions concerned with ICT capacity-building in the region should therefore join forces with those involved in promoting ICT applications and those concerned with socio-economic development in undertaking special initiatives aimed at accelerating the adoption of rational and cost-effective approaches to ICT capacity-building. 
+33.	A proposal put forward by a regional NGO at the meeting addressed the launching of a broad-based regional initiative designated the “Arab Knowledge Society Initiative (AKSI)”. Goals set for this initiative include promoting ICTs and their applications in the region’s economies and fostering their integration within the knowledge-based global economy. 
+34.	At the above-mentioned meeting, it was proposed that the ESCWA secretariat undertake, in cooperation with other United Nations organizations as well as concerned international and regional bodies and NGOs, to identify modalities, networking arrangements and funding resources for the launching of that initiative in 2001. Regional meetings might be convened with that end in view. Such meetings would also serve as preparations for the above-mentioned international conference.
+
+
+	C.	National ICT capacity-building initiatives
+
+
+35.	Considering the fact that ICT capacity in many ESCWA member countries is significantly below the world average and taking into account the rapid advances in ICTs, there is a need to reorganize in preparation for intensive and urgent action at the national level. It would therefore be opportune to launch, early in 2001, national initiatives aimed at ICT capacity-building with the formulation of national and sectoral ICT policies as a first priority. Governments would need to play a leading role in launching, supporting and monitoring progress of these initiatives. However, since many aspects of such initiatives will involve enterprises and civil society institutions, a participatory approach in their design will be an optimal choice.
+36.	Implementation strategies and action plans based on national and sectoral ICT policies developed as a result of the above-mentioned initiatives will need to possess set goals with provisional budgets and numerical human resource development targets as well as explicit modalities to ensure their execution within acceptable time horizons.
+37.	Apart from the formulation of national and sectoral policies, strategies and action plans, the above-mentioned national initiatives would also need to focus on setting up information-gathering and policy-analysis entities to promote specific ICT applications and tackle problems related to their implementation. Devising mechanisms for providing ICT enterprises with support, at least in the  initial stages of their operation, is another area that has to be addressed through the national initiatives. Establishing ICT incubators within or close to universities and research centres in close proximity to technology parks and free zones would also need to be considered by national initiatives. The example of the Dubai Internet City, in the United Arab Emirates, is a case in point in this regard. Its progress should be monitored to guide future efforts along the same lines. 
+
+
+	VII.	Specific ICT applications
+
+
+	A.	Distance education
+
+
+38.	Computer-aided instruction and Internet-based distance education hold enormous promise for disseminating quality higher education as well as technical and vocational training in these countries. Two important considerations will limit their dissemination, however. The first is the need to develop vast amounts of course material within relatively short periods for such systems to take off with any measure of success. The second is the fact that Internet access is still constrained for large student-age populations in terms of both physical facilities and cost.
+39.	Addressing these two difficulties will necessitate new modes of cooperation among universities in the region as well as outside. The role of United Nations organizations and specialized agencies, acting in cooperation with regional and national educational authorities, will be instrumental in securing plans for pilot activities which may then be followed by wide-ranging initiatives aimed at extending the reach of educational and training institutions beyond campus boundaries. 
+
+
+	B.	Telemedicine
+
+
+40.	Introducing ICT applications in the field of health care through telemedicine schemes will require significant restructuring and integration of national policies and management practices. Furthermore, in building national and regional telemedicine capabilities, it is advisable to adopt a heuristic and gradual approach with well-defined targets and close monitoring arrangements. Pilot projects, preferably of regional and international as well as national character, may be conducted in selected priority areas, with help from United Nations and other international organizations, such as the World Health Organization, the United Nations Children’s Fund and the International Telecommunication Union. Such projects should facilitate the accumulation of useful experience in telemedicine applications. In selecting these projects, it will be important to assess the value it would have in imparting skills for the design and implementation of full-fledged national and regional telemedicine initiatives. It would also be essential to ensure that such projects possess well-defined objectives and respond to established public needs. 
+
+
+	C.	E-commerce
+
+
+41.	Advances in ICTs, with the Internet in the forefront, offer enterprises unlimited visibility and vastly improved abilities to access markets and reduce operating costs. These same advances also place enterprises squarely in the face of unimaginably stiff competition in the open, global cyber-market. In general, enterprises that do not attain a firm grasp of ICT advances will be relegated to marginal positions, with dire consequences for socio-economic development.
+42.	In general, widespread use of the Internet to conclude business transactions must await developments on several fronts, including:
+	(a)	Wider dissemination of the capacity to use the Internet by the variety of benefiting business enterprises; 
+	(b)	Agreement on systems that allow secure Internet transactions;
+	(c)	The design of acceptable modalities for taxing Internet transactions;
+	(d)	Formulation of measures for dispute settlement.
+
+
+	D.	E-governance
+
+
+43.	But for their cost, which still renders them inaccessible to large cross-sections of developing country populations, ICTs are inherently democratic and enabling. Two obstacles will determine the level of penetration achieved by ICT-based systems in the running of community affairs at any level: national and local policies that permit their utilization, on the one hand, and schemes that render them more accessible to the general public, on the other. In the ESCWA member countries, the latter hindrance is not merely cost-related. Language difficulties and basic skills are factors that need to be taken into account in attempts at the introduction of e-governance schemes and dissemination of on-line democracy. While cost issues may be amenable to short-term solutions, language and skill issues might be expected to require sustained efforts over longer periods.
+44.	Gradual, multi-faceted and participatory approaches are therefore called for in promoting e-governance in the ESCWA member countries and should be adopted as core strategies in the design of long- and medium-term e-governance initiatives. Meantime, in promoting Internet-based ICT applications aimed at streamlining government interaction with the public, care should be taken to improve transparency and provide better services to communities at large.
+45.	In essence, the fact that significant dissemination of e-governance schemes is contingent upon various developments in a variety of areas, such as machine translation and digital literacy, lends further support to the argument for broad-based national and regional ICT initiatives.
+
+
+	E.	ICTs and employment
+
+
+46.	Maximizing ICT benefits on employment in the ESCWA member countries is contingent upon adoption of policies conducive to ICT ventures targeting the manufacture, development and adaptation of software and hardware systems as well as associated services. Introduction of ICT applications, including health care, distance education, e-commerce and e-banking, will create further demand for ICT specialists with emphasis on specific software products. Meeting such demand with the help of locally trained manpower will play an important role in enhancing the productivity and competitiveness of ESCWA members’ economies. This, however, will necessitate radical, qualitative and quantitative change in human resource development processes. At the same time, there will be a strong need to raise the level of computer literacy at the national level and to adopt measures that encourage, in particular, software development and communications enterprises and improve their chances of competing on the world markets.
+
+
+	F.	Gender and ICT capacity-building
+
+
+47.	One of the more encouraging trends in human resource development in the ESCWA member countries is that many more women now graduate with university degrees than at any time in the past. This is a general trend extending throughout ESCWA member countries, including the GCC countries. 
+48.	Additionally, many more women now take up science and technology courses of study. A sizeable proportion of these women should constitute valuable assets in national ICT capacity-building, providing a sizeable proportion of skilled qualified women with job opportunities in an area that suffers from human resource deficits. The networking benefits of the Internet may also allow women to form associations and income-generating small and medium-sized enterprises.
+49.	Needless to say, and although encouraging signs are already apparent, such transformations will not take place spontaneously. Considerable attention should be devoted to national networking and infrastructure building. The role played by NGOs in this domain is of paramount importance.
+
+
+	VIII.	New organizational roles and cooperation modalities in ICT capacity-building
+
+
+	A.	Roles of Governments
+
+
+50.	Despite the need for concerted action in ICT capacity-building by a variety of organizations, many tasks will remain the preserve of Governments. Among them are the formulation of policies, strategies and action plans for acquiring modern ICTs and their application, the promulgation of relevant legislation and regulatory instruments, coordinating the formulation of standards and overseeing their enforcement, creating incentives for private enterprise, and promoting specific application, with emphasis on the ICT requirements of disadvantaged groups. A key task for Governments will be to provide support for ICT capacity-building, with emphasis on maintaining quality services at reasonable costs for all as a primary objective in national socio-economic planning. This will often require the adoption of measures to encourage national, regional and international investments in building modern ICT infrastructures, running ICT production and services facilities and other investments needed to create knowledge-based societies. Introducing reforms to provide tax abatements and incentives for start-up ICT enterprises will also play an important part in inducing national ICT enterprises to participate in national and international bids.
+51.	Introducing ICTs in public administration and encouraging the participation of national enterprises in building e-governance infrastructures are two related tasks in which Governments will need to take the initiative. With respect to the first task, emphasis should be placed on providing greater transparency and improved services for the citizenry at large. 
+52.	Introducing measures and enforcing regulations to secure safe e-commerce and e-banking services is another area where Governments will need to maintain a principal role in consultation with all concerned parties. Adopting and enforcing international best practices in resolving disputes relating to on-line transactions and taking part in the continual evolution of such practices is also expected to be a principal task for Governments in the near future.
+
+
+	B.	Roles of private enterprise
+
+
+53.	The development of software and hardware systems for, inter alia, education, telemedicine and 
+e-governance should provide impetus for new entrepreneurial ventures. To capitalize on these opportunities, entrepreneurs would need to emphasize quality and longer-term gains at the expense of immediate returns. This will require paradigmatic shifts in accessing investment capital and in management practices. Furthermore, inter-firm and university-firm cooperation in pre-competitive research should ease the burdens of investment capital scarcity and long-term research. Immense opportunities would seem to exist in research activity targeting advanced computer software systems that facilitate knowledge creation and management using the Arabic language. 
+54.	Establishing national and regional centres of excellence for software R and D and advanced training of software researchers and developers at the national and regional levels should be considered by relevant business enterprises in cooperation with national educational and research institutions.
+55.	Private/public sector cooperation would also benefit greatly from specific activities, for example setting up “technology incubators” and “technology free zones” with emphasis on selected priority areas, including software development; creating joint public/private sector bodies to conduct prospective research regarding the international market’s needs; and enabling national or regional banks and financial institutions to act as guarantors for small and medium-sized technology firms. Finally, regional “communities of practice” should be established to share best practices among peers in priority areas, and to conduct outreach programmes to tap the expertise of nationals living abroad.
+
+
+	C.	Roles of United Nations organizations
+
+
+56.	Organizations of the United Nations system should play a major part in the coordination and harmonization of ICT policies and in promoting specific application areas, such as distance education, telemedicine, tele-work and e-governance. Focus should be maintained on promoting inter-agency cooperation and coordination with a view to national and regional ICT capacity-building in the ESCWA region. Furthermore, there is a need for producing more up-to-date information on regional and national ICT indicators, such as ICT penetration, infrastructure, industry, services, content, opportunities and obstacles.
+57.	The proposed international conference referred to above would constitute a suitable opportunity for United Nations organizations and specialized agencies to review their strategies with a view to promoting the following:
+	(a)	Cooperative activity between components of the United Nations system and the private sector in support of ICT capacity-building, including setting up pilot projects to accelerate dissemination of ICTs in priority sectors;
+	(b)	Regional networks to enhance collaboration in ICT capacity-building measures through bilateral or multilateral links among United Nations agencies, on the one hand, and between them and the public and private sectors, on the other;
+	(c)	Public debate on the structure, content and privacy issues of ICT services.
+
+[Start1]<<ODS JOB NO>>N0048186E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>E/2000/71<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+2
+
+11
+
+United NationsE/2000/71 
+Economic and Social CouncilDistr.: General
+13 June 2000
+
+Original: English
+
+
+00-48186 (E)    280600
+*0048186*
+

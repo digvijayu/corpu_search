@@ -1,0 +1,128 @@
+[Start1]
+Fifty-ninth session
+Agenda item 44
+Information and communication technologies
+for development
+
+
+
+		Information and communication technologies for development: progress in the implementation of
+General Assembly resolution 57/295
+
+
+
+
+	*	The submission of the present report was delayed in order to take into account the views expressed at the meeting of the United Nations System Chief Executives Board for Coordination held on 29 October 2004.
+		Report of the Secretary-General*
+
+
+
+	Summary	The present report presents the activities undertaken to develop a comprehensive information and communication technologies (ICT) strategy for the United Nations system. All activities related to devising a comprehensive and coherent response to the broad issue of harnessing the potential of ICT for promoting development are focused on the following two areas: (a) the coherence of the policy advice that organizations of the United Nations system provide to countries in setting comprehensive, forward-looking strategies to harness ICT for economic and social progress; and (b) the unprecedented opportunities that ICT offers for system-wide knowledge management and knowledge creation. The strategy will be pursued as an essential component in the overall effort to enhance cost-effectiveness, strengthen system-wide knowledge management and enhance the capacity to support countries in using ICT for the achievement of the Millennium Development Goals.
+
+1.	The present report presents the activities undertaken pursuant to General Assembly resolution 57/295 on “Information and communication technologies for development”, in which the Assembly requested the Secretary-General, as Chairman of the United Nations Chief Executives Board for Coordination (CEB), to collaborate closely with the organizations of the United Nations system and the Information and Communication Technologies Task Force to develop a comprehensive information and communication technologies (ICT) strategy for the United Nations system.
+2.	In the resolution, the General Assembly affirmed the need to use ICT as a strategic tool to enhance the efficiency, effectiveness and impact of the development programmes and technical cooperation activities of the United Nations system, emphasized the need for coordination and synergy between programmes and activities of the United Nations system, and the crucial role that ICT can play in facilitating such coordination, and identified several priority elements of that task.
+3.	As presented in the progress report to the General Assembly at its fifty-eighth session,1 implementation of resolution 57/295 has been actively pursued, in a collaborative and coordinated manner, by all relevant actors under the overall guidance of CEB and its two main subsidiary bodies, the High-level Committee on Management and the High-level Committee on Programmes. As requested by the Assembly in the same resolution, the Information and Communication Technologies Task Force provided a significant contribution to this process. The progress report noted that the implementation of the resolution remained under active consideration within the framework of CEB and that the outcome would be reported to the Assembly at its fifty-ninth session.
+4.	All activities related to the implementation of the resolution and to devising a comprehensive and coherent response to the broad issue of harnessing the potential of ICT for promoting development were focused in the following two areas: (a) the coherence of the policy advice that organizations of the United Nations system provide to countries in setting comprehensive, forward-looking strategies to harness ICT for economic and social progress; and (b) the unprecedented opportunities that ICT offers for system-wide knowledge management and knowledge creation. 
+5.	Most, if not all, of the organizations of the United Nations system are active in providing policy advice on the formulation and implementation of national estrategies, regulatory reform, institutional development and on programmes and projects to improve connectivity, capacity and local content development. They also provide technical assistance and support for ICT applications in education, health, egovernment, e-commerce and other fields. 
+6.	However, these efforts and related policy advice need to be more effectively integrated into the broader development agenda. Promising initiatives and best practices need to be scaled up and their sustainability enhanced. The system’s capacity to forge meaningful, multi-stakeholder partnerships in this area is limited by several factors arising from traditional modes of operation, donor policies and procedures, cultural barriers between the public, private and civil society stakeholders and the reluctance of partners, under these circumstances, to commit the resources required to make a difference. In this context, the Millennium Development Goals have provided a solid foundation for moving towards a more cohesive approach to development and poverty eradication. The linking of ICT with the Millennium Development Goals agenda serves as an organizing principle for more coherent policy advice and programme support in the area of ICT for development.
+7.	In order for the system to develop greater coherence in ICT policy advice and programme support within the broader framework of its Millennium Development Goals agenda, it must, first and foremost, be able to create, manage and share information and knowledge across the system more efficiently and effectively. Knowledge, information and data are the system’s principal assets and a main source of its comparative advantage. However, at present, these assets remain dispersed throughout the system, and are often disconnected. Despite recent progress, information sharing within the system still takes place primarily along organizational and, in some instances, sectoral programme lines. This approach contributes to duplication and weakens impact. There is an urgent need to create a seamless knowledge-based system to better capture, manage and disseminate data, information and other relevant business assets across the United Nations organizations and its constituencies. 
+8.	Knowledge management should not be seen purely as a technology-driven process but rather as a policy imperative, facilitated by technology, for the better use and management of the system’s intellectual and business assets. Decisions regarding knowledge management should be based on: who (people); what (knowledge); and why (business objectives); leaving the how (technology) to be derived from the first three dimensions. In this perspective, the basic aim is to leverage the wealth of information currently available within the United Nations system to maximize impact and results. Critical sets of data, information and business assets should be identified, captured and effectively disseminated within and outside the United Nations system.
+9.	In outlining the steps to be taken in moving towards enhanced system-wide coordination in the ICT area, the progress report stressed the need for the relevant players to collaborate on the elaboration of an action plan outlining the building blocks for a system-wide framework of ICT and including milestones, benchmarks, resources required and, most importantly, responsibility and accountability for results.
+10.	In implementation of this approach, the Information and Communication Technologies Network (ICT directors of the entities of the United Nations system), in close collaboration with the Information and Communication Technologies Task Force, has developed a proposal on a United Nations system ICT strategy. This process was launched at a brainstorming meeting in July 2003,2 at which information technology (IT) managers, programme and management officials of the United Nations system, members of the Information and Communication Technologies Task Force and experts identified broad parameters of such a strategy and defined concerted approaches to its development.
+11.	While recognizing the institutional, governance and programmatic constraints on a collective United Nations strategy and the need for each organization to align its ICT investments with its own programmes, the Network has concluded that major opportunities exist for improved use of the funds invested in ICT. The main theme of the strategy developed by the Network is that increased harmony and cooperation among United Nations organizations in ICT matters will lead to improvements in efficiency and effectiveness and an improved return on ICT investments. The strategy asserts that these improvements are not restricted to the use of technology in support of administrative and operational activities but that mainstreaming ICT in the development agenda and contributing towards achievement of the Millennium Development Goals can also contribute significantly to the achievement of these improvements.
+12.	The strategy presents a vision on how to harness the power of the United Nations system, acting in harmony in ICT matters, and sets out approaches to coordinate efforts, enhance standardization and harmonize investments to avoid duplication and achieve system-wide savings, thereby improving the effectiveness and efficiency of services to Member States and governing bodies. 
+13.	The two high-level committees of CEB, the High-level Committee on Programmes and the High-level Committee on Management, reviewed the United Nations ICT strategy document at their sessions in the fall of 2004. The High-level Committee on Programmes welcomed the main thrust of the strategy. The High-level Committee on Management, to which the Information and Communication Technologies Network reports, endorsed the strategy, in general, and agreed that future work should focus on measures to address the governance and organizational constraints on the development of the business cases and on proposals for a prioritized and coordinated implementation plan. The Committee also requested that the business case for the strategy be further developed, including resource implications, to enable the High-level Committee on Management to decide on the next steps for implementing a United Nations system-wide ICT strategy.
+14.	The proposed strategy aims at harnessing the ICT investments by the United Nations system for the benefits of its stakeholders and the community at large. It recommends harmonization of efforts and standardization, in order to avoid duplication and thus achieve significant system-wide savings.
+15.	An integral part of the strategy is a United Nations Information and Communication Technologies Charter (see annex I), which defines the principles and framework for coordination and collaboration within the organizations of the United Nations system in this strategic area. To promote implementation of these principles, the strategy outlines a set of 15 initiatives in ICT for development, ICT governance, information security, practical applications and capacity-building (see annex II).
+16.	At its recent meeting, CEB endorsed the recommendations that the High-level Committee on Programmes, in close consultation with the High-level Summit Organizing Committee, should set out a work programme for mainstreaming and integrating ICT into the broader Millennium Development Goals agenda, including through the development of system-wide approaches and guidelines for use by country representatives and the resident coordinator system and, working closely with the High-level Committee on Management and its Information and Communication Technologies Network, focus on developing a clear vision of a United Nations system-wide knowledge management system, its optimum functionality and a phased programme for its implementation. 
+17.	CEB also welcomed and endorsed the United Nations system ICT strategy and asked that the strategy be pursued as an essential component of the overall effort to enhance cost-effectiveness, strengthen system-wide knowledge management and enhance the capacity to support countries in using ICT for the achievement of the Millennium Development Goals. The High-level Committee on Management and its Information and Communication Technologies Network should work closely with the High-level Committee on Programmes to continue to develop the business cases for the strategy, its resource implications and measures to address constraints in its implementation.
+18.	The members of CEB recognize the significance of the information society agenda as a main tenet of the inter-agency work programme, the need to make greater use of new ICT in the working methods of the United Nations and its institutions and the importance of these technologies and knowledge-sharing as main elements of development policies and as vital tools in achieving the Millennium Development Goals.
+
+
+	Notes
+	1	A/58/568.
+	2	Ibid., paras. 18-20.
+
+
+Annex I
+
+		United Nations Information and Communication Technologies Charter
+
+
+1.	The United Nations Information and Communication Technologies Charter provides a framework for maximizing the value of investments in information and communication technologies (ICT) through a systemic approach to the management of technological and organizational change. It recognizes that this will require a strengthening of governance and leadership arrangements, including the provision of an institutional mechanism, to drive the reforms, assess the results achieved and apply the lessons learned.
+2.	The United Nations Information and Communication Technologies Charter states that the United Nations system recognizes the need:
+	(a)	For greater coordination and synergy between programmes and activities of the United Nations system and the pivotal role of ICT in facilitating such coordination;
+	(b)	To integrate ICT into the broader strategic management process as an agent of organizational transformation and change;
+	(c)	To integrate ICT in development project and programme formulation, to achieve clarity and coordination in the use of technology in United Nations development programmes and to avoid repetitive investment in the field;
+	(d)	For the organizations of the United Nations system to work to a set of agreed best practice guidelines in ICT matters, based on industry standards, and that minimum standards should be established and adhered to for information governance, including disaster recovery and business continuity;
+	(e)	For the United Nations system to establish common standards and guidelines for the development of business cases for ICT investment proposals and for ICT project costing;
+	(f)	To exploit opportunities in the sourcing and management of ICT services and infrastructure to achieve efficiency savings, contribute to capacity-building in developing countries and make a direct contribution to the Millennium Development Goals and to the wider development agenda;
+	(g)	To exploit opportunities to maximize the return on investments made in Enterprise Resource Planning (ERP) solutions by developing best practice procedures for common United Nations processes and seeking streamlining and effectiveness savings across common administrative processes;
+	(h)	To promote opportunities for sharing computer applications across agencies in areas where United Nations system requirements are common, or close to common;
+	(i)	To further exploit opportunities to mitigate software costs through increased usage of appropriate open source software;
+	(j)	To adopt a systematic approach, across agencies, to gather, distil, organize, retrieve and present development information for dissemination internally within the United Nations family and externally to partner agencies and other stakeholders;
+	(k)	To extend common United Nations procurement actions to obtain improved economy in the United Nations system purchasing for “common” information software/ICT products;
+	(l)	For a major programme of ICT training for United Nations managers to be made available through the United Nations Staff College to support the introduction and sustain the ongoing benefits of the United Nations ICT strategy;
+	(m)	For an unprecedented degree of cooperation among agencies on ICT matters to achieve these objectives; 
+	(n)	For a high-level governance structure that would promote change and champion the delivery of the strategy.
+
+
+Annex II
+
+		Strategy initiatives
+
+
+1.	The United Nations Information and Communication Technologies Charter will be underpinned by a strategy comprising 15 initiatives. Each is supported by an outline business case, identifying the opportunity, elaborating the target position, describing the advantages and constraints and proposing an action plan. These initiatives are grouped under five categories:
+
+		ICT in development
+
+	•	ICT integration in development programmes
+	•	United Nations ICT services sourcing strategy 
+	•	ICT development network
+
+		ICT governance
+
+	•	ICT governance and best practice 
+	•	Business case preparation and costing
+
+		Information security
+
+	•	Information security, disaster recovery and business continuity
+	•	United Nations-wide public key infrastructure
+
+		Putting it into practice — working together
+
+	•	Enterprise resource planning systems
+	•	Common application solutions
+	•	Open-source software
+	•	Knowledge-sharing
+	•	Web management and content
+	•	United Nations system directory
+	•	ICT asset procurement and disposal
+
+		Sustaining the initiative
+
+	•	Training and development, sustaining innovation and creating a “knowledge-based” United Nations.
+
+
+[Start1]<<ODS JOB NO>>N0460131E<<ODS JOB NO>>
+<<ODS DOC SYMBOL1>>A/59/563<<ODS DOC SYMBOL1>>
+<<ODS DOC SYMBOL2>><<ODS DOC SYMBOL2>>
+
+
+
+
+8
+
+7
+
+United NationsA/59/563 
+General AssemblyDistr.: General
+10 November 2004
+
+Original: English
+
+
+04-60131 (E)    191104
+*0460131*
+
